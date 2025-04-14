@@ -4,12 +4,13 @@ For each patient (each line) it extracts the tumor grade and histology from the 
 The extracted tumor grades, along with the corresponding patient IDs, are then written to an output CSV file.
 To handle unexpected interruptions, the script checks if the output files already exist, and if so,
 it skips processing the patients whose data have already been processed.
+It takes ~ 4h to complete and the cost is ~ 5$
 """
 
 ######################
 #
-#  - Expected cost ~ 5$ for 5h
-#  - Optimize in a Json input file to make a batch request (half the price, result in 24h)
+#  To Do:
+#  - Organize input in a Json file file to make a batch request (half the price, results in 24h)
 # 
 #######################
 
