@@ -1,5 +1,6 @@
 # create the processor on cloud consol
 # login on gcloud `gcloud auth application-default login``
+# expected cost ~ 2.5$
 
 import os
 from google.api_core.client_options import ClientOptions
