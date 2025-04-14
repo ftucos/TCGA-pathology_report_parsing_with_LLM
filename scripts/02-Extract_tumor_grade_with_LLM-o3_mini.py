@@ -7,13 +7,6 @@ it skips processing the patients whose data have already been processed.
 It takes ~ 4h to complete and the cost is ~ 5$
 """
 
-######################
-#
-#  To Do:
-#  - Organize input in a Json file file to make a batch request (half the price, results in 24h)
-# 
-#######################
-
 import os
 import openai
 import csv
