@@ -1,0 +1,27 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Peth Site: Breast, UOQ
+050.4
+CQCF Site: Breast, Nes
+050.9
+Diagnosis:
+1. Ablated (left) breast sample with a moderately differentiated invasive ductal
+carcinoma with an intraductal component (tumor diameter: 5.0 cm.
+Tumor classification: NOS, G II, pT2N1aLOVORO.
+fn 1/19/11
+UUID:D1456192-83E7-4FC8-8783-98D615838156
+TCGA-A8-A07F-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewernital
+Yes
+DISQUALINED
+QUALIFIED
+Date Reviewed:
+A

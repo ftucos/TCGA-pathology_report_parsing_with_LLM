@@ -1,0 +1,271 @@
+Patient:
+DOB:
+Ref#:
+Age:
+Hosp#:
+Gender: F
+Date of Service: Date Received:
+Referring Physician:
+UUID:6B872835-1002-4835-9304-495E12A30905
+TCGA-AC-A62X-01A-PR
+Provider Group:
+Outpatient
+Case #:
+Date Reported:
+Redacted
+ICD-0-3
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+LEFT BREAST, MODIFIED RADICAL MASTECTOMY:
+"
+- Invasive ductal carcinoma, Nottingham grade 3.
+· Tumor size: 2.7 cm in diameter.
+Carcinoma infiltrating
+duct 8508/3
+Site Breast NOS
+cs
+path Breast, ryper-cuter
+- Ductal carcinoma in situ (DCIS), high nuclear grade, solid type,
+present at periphery of invasive carcinoma.
+No comedo necrosis or calcifications present.
+- DCIS comprises less than 10% of tumor volume.
+- Mastectomy margins are free of tumor.
+- Carcinoma is at least 1.5 cm from the superior-superficial margin,
+and is at least 2 cm from all other margins.
+Ten axillary lymph nodes, no tumor present (0/10).
+- Papilloma, inferior-central breast, measuring at least 0.9 cm in diameter.
+Fibroadenoma, 0.8 cm, lower outer quadrant.
+C50.9
+quadrant C50.4
+5/10/13
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 3.
+Type and grade (in situ): DCIS, high nuclear grade.
+Primary tumor: pT2.
+Regional lymph nodes: pNO.
+Distant metastasis: Not applicable.
+Pathologic stage: IIA.
+Lymphovascular invasion: Not identified.
+Margin status: Negative.
+COMMENT: The invasive carcinoma has features suggestive of the basal-like
+phenotype. In support of this, the tumor was found to be positive for CK5/6 (previous
+core needle biopsy). Although the tumor was not reported as "triple negative", the
+estrogen receptor as only positive in 5% of tumor cells (biomarker studies performed
+on previous core needle biopsy; see synoptic report for additional details).
+Case #
+Printed:
+MR No.
+Acct No. -
+Patient Name
+Pathology - Page 1/6
+Page 1
+This report continues... (FINAL)
+1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Intradepartmental consultation: Dr.
+of invasive ductal carcinoma.
+Invasive Breast Cancer Tumor Staging Information
+concurs with the diagnosis
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimens:
+Case #
+Printed:
+Pathology
+MR No.
+Page 2/6
+Acct No.
+Patient Name
+Page 2
+This report continues... (FINAL)
+ge 2 Doc# 1
+Patient:
+Case #:
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Modified radical mastectomy.
+Leit.
+Lymph node dissection.
+Tumor site:
+Tumor size:
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+Invasive ductal carcinoma.
+12:00
+2.7 cm.
+Single focus of invasive carcinoma.
+Nottingham score 3 of 3.
+3 of 3.
+3 of 3.
+3 of 3.
+Not identified.
+No skin or chest wall invasion is identified.
+High-grade, comprises less than 5% of tumor.
+Ductal carcinoma in situ:
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Negative, at least 1.5 cm from deep margin, at
+least 2 cm from all other margins,
+At least 2 cm from all margins.
+10.
+0.
+PATHOLOGIC STAGING:
+Primary Tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+AJCC Stage:
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+Ki-67:
+pT2.
+pNo.
+Not applicable.
+IIA.
+biopsy).
+performed on core needle
+5% positive cells, moderate intensity.
+0% positive cells.
+IHC score 1+.
+60% positive cells.
+Case #
+Printed:
+Pathology
+Page 3/6
+Page 3
+This report continues.. (FINAL).
+Doc# 1
+Patient:
+Case #
+FINAL SURGICAL PATHOLOGY REPORT
+Signed by
+Source of Specimen:
+Breast total mastectomy;Left
+Clinical History/Operative Dx:
+Malignant neoplasm of breast, left.
+Gross Description:
+Single specimen designated as left breast mastectomy, stitch is lateral, with axillary dissection. Initially
+received in the fresh state for possible Oncogenotyping studies, is a 728 gram left modified radical
+mastectomy, 31.8 cm medial to lateral (including axillary extension), 19.7 cm superior-inferior, and 4.0 cm
+posterior-anterior. The overlying ellipse of wrinkled, tan-brown skin is 16.9 x 10.2 cm with a paracentral,
+darkened brow areola, 3.8 cm in diameter and prominent nipple, 1.3 cm in diameter. A double black
+suture marks the lateral apex of the skin. Included within the container is an unoriented, crescent-shaped
+strip of wrinkled, tan-brown skin, 19.5 x 1.8 x 1.0 cm. The tentative outer edge of this skin - peripheral
+margin is marked blue and the remaining surgical margins are marked yellow. The surgical margins of the
+mastectomy are differentially inked as follows:
+Superior superficial: Blue,
+Inferior superficial: Orange,
+Posterior: Black
+The breast is serially sectioned perpendicularly through the medial-lateral long axis (slab 1 assigned at
+the base of the axillary extension of fat) to reveal a well-circumscribed, light tan, centrally softened tumor
+mass measuring upwards of 2.7 x 2.5 x 2.5 cm (slabs 4-6, from lateral). The tumor is grossly placed 1.5 cm
+from the superior superficial, 1,3 cm deep to the skin, 2.3 cm from the deep surgical margin, 3.5 cm from
+the most lateral extension of breast (not including axillary extension), greater than 6.0 cm from the inferior
+superficial surgical margin, and greater than 6.0 cm from the most medial extension of breast. A
+radiologic insert is not appreciated.
+Case #
+Printed:
+Page 4
+This report continues. (FINAL)
+MR No
+Acct No
+ient Nam.
+Pathology - Page 4/6
+1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Examination of the lower outer quadrant reveals a poorly defined nodular area of density upwards of 1.5 x
+0.8 cm, approximately 3.0 cm inferior to the primary lesion (A11-A12) and 2.3 cm from the adjacent
+inferior superficial surgical margin. The mid inferior breast demonstrates suspicious nodular induration
+within 1.2 cm of the deep, and 1.0 cm of the inferior superficial surgical margins (A13-A14), respectively,
+The lower inner quadrant demonstrates a 0.8 cm focus of similar suspicion, within 0.8 cm of the deep
+surgical margin (A15). No additional nodularity is appreciated.
+Examination of the axillary extension of fat reveals eleven lymph node candidates ranging from 0.25 cm
+to 2.5 x 1.2 x 1.0 cm in greatest dimension. The lymph node candidacy is submitted/represented for
+microscopic evaluation.
+Sectioning through the separate crescent-shaped strip of skin reveals glistening, yellow-tan lobular fat
+without grossly unusual changes suggestive of invasive/residual tumor. Representative sections are
+submitted.
+Cassette summary:
+A1) nipple,
+A2) medial and lateral extension of skin,
+A3) upper outer quadrant, slab 2, adjacent to tumor,
+A4-A6) upper outer quadrant, tumor-superior superficial surgical margin, and skin relationship,
+A7) deep margin adjacent to tumor,
+A8) bulk of tumor, represented,
+A9) upper outer quadrant, slab 7, adjacent to tumor,
+A10) lower outer quadrant, slab 2,
+A11) lower outer quadrant, ill-defined nodular density, 3.5 cm inferior to primary tumor, represented,
+A12) lower outer quadrant, inferior superficial, adjacent to ill-defined density,
+A13-A14) inferior central breast, slab 7, suspicious changes, including deep and inferior surgical margins,
+contiguous sections.
+A15) lower inner quadrant, slab 9, suspicious induration, deep margin relationship,
+A16) upper inner quadrant, slab 8,
+A17) full thickness cross-sections of seperate skin, mid length,
+A18-A19) additional representation of length of skin, tentative outer margin en face, three pieces.
+A20) two small lymph node candidates,
+A21) two small lymph node candidates,
+A22) two lymph node candidates, bisected, one marked orange,
+A23) single lymph node candidate, serially sectioned,
+A24) single lymph node candidate, serially sectioned.
+A25) longest lymph node candidate, serially sectioned and entirely submitted,
+A26-A27) large lymph node candidate, serially sectioned and entirely submitted,
+A28-A29) large lymph node candidate, serially sectioned and entirely submitted.
+Case #:
+Printed:
+Pathology
+MR No.
+Page 5/6
+cct No
+Patient Name
+Page 5
+This report continues... (FINAL)
+6 Doc# 1
+Patient:
+Case #
+FINAL SURGICAL PATHOLOGY REPORT
+Microscopic Description:
+Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #
+Printed:
+Pathology
+MR No.
+Page 6/6
+.cct No.
+atient Name
+Criteria
+w 4/2/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Timor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+breast
+QUALIFI
+Date Reviewed.
+DISQUALIFIED
+4/1773
+Page 6
+END OF REPORT (FINAL)
+19 6 Doc# 1

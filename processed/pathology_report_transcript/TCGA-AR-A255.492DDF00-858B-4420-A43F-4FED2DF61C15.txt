@@ -1,0 +1,32 @@
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Y
+TCGA-AR-A255-01A-PR
+UUID:492DDF00-858B-4420-A43F-4FED2DF61C15
+Redacted
+Final Diagnosis
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALED
+DISQUALIFIED
+Reviewer Initials SRB Date Reviewed: 4
+he 4/25/11
+east, right, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III) [tubules 3/3, nuclei 3/3, mitoses 1/3;
+Nottingham score 7/9], forming a mass (1.3 x 1.3 x 1.2 cm) [AJCC pT1c]. Ductal carcinoma in situ, intermediate nuclear grade,
+comprises <5% of the tumor volume. Angiolymphatic invasion is absent. Biopsy site changes are present. All surgical resection
+margins are negative for tumor (minimum tumor free margin, 0.7 cm, inferior margin).
+Lymph nodes, right axillary sentinel, excision: Multiple (2) right axillary sentinel lymph nodes are negative for metastatic
+carcinoma [AJCC pN0 (i-) (sn)]. Blue dye is identified in right axillary sentinel lymph node No. 1. Blue dye is not identified in
+right axillary sentinel lymph node No. 2.
+Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel lymph node tissue and confirms the
+H&E impression.
+Faxitron done.
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos C50.9 huw
+4/25/11

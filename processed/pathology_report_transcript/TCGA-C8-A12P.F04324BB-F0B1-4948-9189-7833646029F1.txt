@@ -1,0 +1,278 @@
+1CD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos C50.9
+1/28/11 fu
+Pathology Form
+Specimen Information
+Collected by:
+Preserved by:
+Date*
+Date.
+_ ID#:
+_Time:_
+_ Time:
+Frozen
+Paraffin Block
+SPECIMEN TYPE (# of samples provided)
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+X
+Normal
+×
+Diseased
+Normal
+Diseased
+x
+Normal
+Time to LN2
+Time to Formalin
+ло
+min
+W
+min
+Time to LN2
+60
+min
+Notes:
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Organ
+Size
+Breast
+2.5x
+X
+cm
+Extension of Tumor
+NO
+Distance to NAT
+2
+cm
+Location
+Axilla
+Lymph Nodes
+# Examined
+8
+# Metastasized
+5
+Detailed Location
+Size
+Organ
+NO
+Distant Metastasis
+Pathological Staging
+PT 2
+N1 Mo
+Stage: B
+Redacted
+UUID:F04324BB-FOB1-4948-9189-7833646029F1
+TCGA
+-C8-A12P-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+DualSochronous Trimary Noted
+Case is cirk
+Rever intia
+Yes.
+QUALIFIED
+Sate viewed:
+DISQUALIFIED
+J
+Microscopic Description
+Histological Pattern
+ID#:
+Cell Distribution
++
+Structural Pattern
+Diffuse
++
+Mosaic
+Streaming
+Storiform
+Necrosis
+Fibrosis
+Lymphocytic Infiltration
+Palisading
+Vascular Invasion
+Cystic Degeneration
+Clusterized
+P
+Bleeding
+Alveolar Formation
+Indian File
+Myxoid Change
+Psammoma/Calcification
+Cellular Differentiation
+ILSblo
++
+Squamous
++
+-
+Squamoid Cell
+Glandular cell
+Adenomatous +
++
+-
+Sarcomatous
++
+-
+Round Cell
+Spindle Cell
+Cell Stratification
+Fibroblast
+Lymphomatous +
+Large Cell
+Small Cell
+Keratin
+Secretion
+Osteoblast
+RS Cell/RS Like
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Inflam. Cell
+Pearl
+Gland formation
++
+Myoblast
+Plasma Cell
+Cellular Differentiation:
+Well
+Nuclear Appearance
+✓ Moderate
+Poor
+Nuclear Atypia:
+0
+I
+II
+III
+Aniso Nucleosis
+T
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade:
++
++
+Marker
+ER
+PR
+Her-2/neu
+B-Cell Marker
+T-Cell Marker
+Other:
+Other:
+Result
+□ Negative
+□ Positive
+□ Negative □ Positive
+□ Negative □ Positive
+□ Negative □ Positive
+☐ Negative □ Positive
+□ Negative □ Positive
+□ Negative ☐ Positive
+IHC Data
+Value
+Date
+Final Pathology Report
+Imarine Ductal Carcinoma
+Histological Diagnosis:
+Grade: I
+Comments:
+Principal Investigator
+Pathologist
+$
+Date
+-
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+CELL DISTRIBUTION
++
+STRUCTURAL PATTERN
++
+Diffuse
+Mosaic
+Necrosis
+☑ Streaming
+Storiform
+Indian File
+Squamous
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+2. Cellular features:
++
+Adenomatous
+α Fibrosis
+☑
+Palisading
+☑
+Cystic Degeneration
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+Squamoid Cell
+Spindle Cell
+Keratin
+Desmosome
+Pearl
++
+"
+Sarcomatous
++
+Glandular cell
+Round Cell
+Lymphomatous
+Large Cell
++
+Cell Stratification
+Q
+Fibroblast
+Secretion
+7
+Osteoblast
+Intracyt. Vacuole
+☑
+Lipoblast
+Gland formation
+Myoblast
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+Otherwise Specified:
+D1 407, D2 40%,
+2. Cellular Differentiation:
+Well
+Moderately
+Poor
+3. Nuclear Atypia:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Appearance
+Nuclear Grade
+0
+II
+III
+☑
+0
+&
+Histological Diagnosis: Tafiltraty butal Carine vor
+Comments:
+އ
+_L UTV
+✓ate
+TEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).
+6-3

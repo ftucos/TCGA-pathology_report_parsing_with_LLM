@@ -1,0 +1,63 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - left breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on: '
+Material received on: '
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast.
+Examination performed on:
+page 1 / 1
+Examination No.: +
+1CD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site, breast, Nos
+C50.9 f 4/12/11
+Macroscopic description:
+Left breast sized 22 x 15 x 4 cm removed along with axillary tissues sized 10 x 6 x 2 cm and a 17 x 6.5 cm skin flap. Weight 780
+g.
+A post-operative scar visible round the nipple with a site of 6 x 4 x 2 cm.
+Microscopic description:
+Infiltratio carcinomatosa mamillae.
+Status post resectionem tumoris.
+Glandular tissue containing foci of carcinoma ductale in situ (solid and cribrate type, with medium nuclear atypia, with
+necrosis and calcifications, as well as lesions of the type mastopathia fibrosa.
+Axillary lymph nodes:
+Lymphonodulitis chronica (No VIII).
+Preliminary result:
+(including the examination No.
+Carcinoma invasivum mammae sinistrae.
+(NHG2, pT2, pNO).
+Compliance validated by:
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchu onous Primar Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed.
+DISQUALIFIED
+to 4/12/14
+Examination performed on:
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast. +
+NHG2, pT2, pNO.
+-
+UUID:FCBB54EB-6FBF-4DC4-B4D5-DB533687FA58
+TCGA-D8-A1XF-01A-PR
+Redacted
+Compliance validated by

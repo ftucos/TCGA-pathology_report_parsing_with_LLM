@@ -1,0 +1,54 @@
+UUID:D346F4E5-4E4A-4161-96FB-7B8ABBB17128
+TCGA-E9-A5FK-01A-PR
+Redacted
+Gross Description: There is a breast with tumor up to 2.5 cm in size. In the fatty tissue there are dense
+hyperemic metastatic lymph nodes up to 2 cm in size.
+Microscopic Description: Infiltrating lobular carcinoma of the breast, G-2, with scirrhous type of growth.
+Ten examined lymph nodes demonstrated metastases.
+IHC-staingins: ER-positive reaction 85% 3+; PR - positive reaction 70% 3+; Her-2/neu - negative
+reaction; Ki-67 - 18%.
+Diagnosis Details: Tumor Features: Indeterminate, Tumor Extent: T2 tumor size more than 2cm not
+more than 5 cm, Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+Comments:
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 0x0x 2.5 cm
+Grossly evident lesion: Yes
+Histologic type: Lobular carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 10/10 positive for metastasis (Axillary 10/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+ICD-0-3
+Carcinoma, in filtrating
+8520/3
+Lobular
+Site: ①Breast, NOS (50.9
+99 1/10/13
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: ER-positive reaction 85% 3+; PR - positive reaction 70% 3+; Her-2/neu-
+negative reaction; Ki-67 - 18%.
+Comments: Right
+Yes
+Nu
+Crite, ia
+W 10/18/12
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+PAA Discrepancy
+Pio Malignancy History
+Dual/Synchronous Primary Noted
+Case is (le);
+Reviewe biti
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

@@ -1,0 +1,37 @@
+UUID:3228B8BB-100F-4838-9771-EAEE5A3B817A
+TCGA-AR-A0U0-01A-PR
+Redacted
+ICD-0-3
+Carcinoma
+infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+Breast, left breast, simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III),
+forming a 2.3 x 1.8 x 1.5 cm mass (AJCC pT2) situated in the lower inner quadrant at 2.0 cm from the
+closest (inferior) margin. Vascular invasion is identified. The rest of the breast shows proliferative
+fibrocystic change with ductal hyperplasia of the usual type, apocrine metaplasia, and microcalcifications.
+Duct ectasia is also present. The nipple is unremarkable. Surgical margins are negative.
+Lymph nodes, left axillary sentinel, excision: Multiple (2) left axillary sentinel lymph nodes each of them
+showing one cluster of cells visible on cytokeratin immunohistochemistry stain only, but not on H&E
+(size of micrometastasis is less than 0.2 mm) (blue dye present in both left axillary sentinel lymph nodes).
+Lymph nodes, left axillary, excision: Multiple (2) left axillary lymph nodes are negative for tumor.
+Estrogen: Negative, 0% nuclear staining
+Progesterone: Negative, 0% nuclear staining
+ER (Estrogen Receptor) test was developed and its performance characteristics determined by "
+and Drug Administration.
+Seen in consultation with Drs.
+and
+It has not been cleared or approved by the U.S. Food
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual, Synchronous Primary Boted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+✓ DISQUALIFIED
+Date Reviewed.

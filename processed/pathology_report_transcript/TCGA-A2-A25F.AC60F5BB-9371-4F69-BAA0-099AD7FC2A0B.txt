@@ -1,0 +1,179 @@
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos C50.9
+کسر
+Name: .
+Sex: F
+DOB:
+Location:
+Doctor:
+4/27/1
+SURGICAL REPORT
+UUID:AC60F5BB-9371-4F69-BAA0-099AD7FC2A0B
+TCGA-A2-A25F-01A-PR
+Redacted
+Pathology Numbe
+Date Collected:
+Date Received:
+M.R. Number.
+Account Number
+PRE-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+POST-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+PROCEDURE
+RIGHT BREAST LUMPECTOMY WITH SENTINEL LYMPH NODE BIOPSY, F.S.; POSSIBLE AXILLARY DISSECTION, POSSIBLE
+SAVI PREP DEVICE INSERTION
+TISSUES
+A. SENTINEL LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #1*
+B. SENTINEL LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #2 *
+•
+C. BREAST EXCISION, NEEDLE LOC, SIMPLE, MARGINS, ETC. - RIGHT BREAST LUMP
+FS DIAGNOSIS
+A.
+RIGHT SENTINEL LYMPH NODE #1,
+ONE NEGATIVE NODE (0/1).
+B.
+RIGHT SENTINEL LYMPH NODE #2,
+ONE NEGATIVE NODE (0/1).
+C.
+RIGHT BREAST LUMP (GROSS MARGINS) –
+THE TUMOR MASS MEASURES 2.5 CM. IN MAXIMUM DIMENSION AND ALL SURGICAL
+MARGINS ARE FREE OF LESION.
+(REPORTED TO SURGEON:
+Diagnosed by:
+FINAL DIAGNOSIS
+A.
+RIGHT SENTINEL LYMPH NODE #1
+ONE REACTIVE LYMPH NODE (0/1).
+-
+RIGHT SENTINEL LYMPH NODE #2 –
+ONE REACTIVE LYMPH NODE (0/1).
+C.
+RIGHT BREAST LUMP -
+INFILTRATIVE DUCT CARCINOMA (2.6 CM.)
+SCARFF-BLOOM-RICHARDSON GRADING:
+GRADE III OF III (ABSENT TUBULE FORMATIONS, HIGH GRADE NUCLEAR
+FEATURES AND HIGH MITOTIC INDEX).
+ANGIOLYMPHATIC INVASION:
+Patient Name:
+SURGICAL REPORT
+Pathology Number:
+Page 1 of 3
+Patient Name
+Pathology Number:
+PROBABLE.
+DCIS/ATYPICAL DUCTAL HYPERPLASIA:
+PRESENT, CRIBRIFORM PATTERN, HIGH GRADE NUCLEAR FEATURES AND
+COMPRISE ABOUT 6% OF THE TUMOR.
+SURGICAL MARGINS:
+UNINVOLVED.
+NON-NEOPLASTIC BREAST:
+FIBROCYSTIC CHANGES WITH MICROCALCIFICATION.
+MAMMARY VESSEL MEDIAL CALCIFICATION.
+Diagnosed by:
+1. M.D., Pathologis
+Reviewed and electronically signed out by:
+3
+COMMENT
+The ER, PR and Her-2/neu (IHC) have been performed on surgical
+This case is discussed with Dr.
+COMMENT2
+by Dr.
+Immunohistochemical (IHC) stain for panKeratin (AE1/AE3) is negative for micrometastases in
+right sentinel lymph nodes (blocks FSA, A, FSB, B),
+GROSS DESCRIPTION
+The specimen is received in three separate containers labelec
+designated A,
+B, C.
+A
+The container is received fresh unfixed labeled "right sentinel lymph node #1 for frozen section"
+and consists of an ovold mass of apparent fat which is 1 x 0.6 x 0.4 cm.
+Sectioning reveals a 0.3 cm. tan-gray firm nodule. Frozen section is obtained by Dr.
+The entire specimen including frozen section is submitted in two blocks.
+B.
+C.
+The container is received fresh unfixed labeled "right sentinel lymph node #2 for frozen section"
+and consists of an irregular mass of apparent fat which is 0.6 x 0.4 x 0.4 cm. Sectioning reveals
+a thin rim of tan-gray firm rubbery tissue 0.4 x 0.3 x 0.2 cm. Frozen section is obtained by Dr
+The entire specimen including frozen section is submitted in two blocks.
+The container is received fresh unfixed labeled "right breast lump" and consists of a 26 gm. ovold
+mass of apparent fatty and fibrous-encased tissue which is 5.5 x 4 x 3.5 cm. In greatest overall
+dimension. There are two short sutures indicating superior margin inked with red dye, inferior is
+inked yellow. There is a single long suture indicating lateral margin inked with green dye, medial
+is Inked blue. There is a single short suture indicating anterior margin inked with orange dye,
+posterior/deep is inked black. Sectioning reveals a tumor mass 2.5 x 2.3 x 1.5 cm. In greatest
+overall dimension and grossly appears to be 0.4 cm. from the superior, Q.5 cm. from the inferior, 1
+cm. from the lateral, 0.8 cm. from the medial, 0.8 cm. from the anterior, and 0.5 cm. from the
+posterior. The entire specimen is submitted in sixteen blocks.
+Note: Gross margins are observed by Dr.
+is superior which is about 4 mm.
+Patient Name
+↳ Gross margins are free. The closest margin
+SURGICAL REPORT
+Pathology Number:
+Page 2 of 3
+Patient Nam
+Pathology Number:
+Key Note Block Summary:
+1-superior, 2-inferior, 3-lateral, 4-medial, 5-anterior, 6-
+posterior (all are perpendicular), 7 through 16-remaining. (fixation time 9:28 a.m.)
+MICROSCOPIC EXAM
+SYNOPTIC REPORT:
+Specimen Laterality:
+Right
+Procedure: Excision w/o wire-guided loc
+Specimen Integrity: Single intact specimen
+Lymph Node Sampling: Sentinel lymph nodes
+Specimen Size: 5.5 x 4 x 3.5 cm.
+Invasive Carcinoma Size:
+Tumor Focality: Single
+Extent of Tumor:
+In-situ Component:
+2.5 cm.
+Skin not present
+No skeletal muscle present
+DCIS
+Histologic Type:
+Ductal
+Histologic Grade:
+3
+3
+Glandular/Tubular Differentiation:
+Nuclear Pleomorphism: 3
+Mitotic Count
+Margins:
+3
+Margins uninvolved by invasive carcinoma
+Distance from closest margin:
+4 mm, superior
+Margins uninvolved by DCIS
+Lymph Nodes: 2 SLN examined
+2 Total LN examined
+Pathologic Staging:
+PT2 PNO MX
+ER: 0%
+PR:
+2%
+Her-2/neu IHC: Negative
+MICROSCOPIC EXAMINATION CONDUCTED BY PATHOLOGIST CONFIRMS FINAL DIAGNOSIS.
+SPECIAL STAINS PERFORMED.
+Cytokeratin (AE1/AE3) (specimens A&B) (****
+Patient Name
+SURGICAL REPORT
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials
+QUALIFILD
+Date Reviewed.
+DISALTED
+The 4/27/11
+Pathology Number:
+Page 3 of 3

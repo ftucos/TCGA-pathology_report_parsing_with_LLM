@@ -1,0 +1,31 @@
+3
+ICD-0-3
+"Carcinoma, infiltrating ductal, Nos 8500/3
+Site: Breast, 400, 050.4 1/19/11 lu
+"CQCF site: Breast, Nos
+050.9
+Diagnosis:
+1. Poorly differentiated invasive solid carcinoma, clearly consistent with
+a ductal breast carcinoma (maximum reconstructed tumor diameter: 3.0 cm; forming
+a ventral margin, caudal distance 0.5 cm, lateral 1 cm, cranial 1.2 cm, medial and
+dorsal 1.5 cm).
+The tumor-free, ink-stained resection margin of the ventral follow-up resection
+material (preparation 4) gives rise to the following tumor classification: NOS, G III,
+pT2 pN0(0/13)LOVORO.
+UUID:9ECA4450-A550-44DE-B2ES-FD1CFF02A9FE
+TCGA-AB-A070-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer tils
+QUALIFIED
+Yes
+✓ DISQUALIFIED
+Daty Reviewed:
+அசு
+Redacted

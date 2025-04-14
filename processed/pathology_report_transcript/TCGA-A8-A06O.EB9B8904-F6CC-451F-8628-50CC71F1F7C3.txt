@@ -1,0 +1,32 @@
+;
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: Breast, NoS
+050.9
+1/19/11 lu
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma with focal intraductal spread
+(maximum microscopic tumor diameter: 1.5 cm; distance from nearest resection
+margin less than 0.1 cm) with multiple ulcerations of the skin.
+Diagnosis:
+1. Ablated breast sample with a further focus of poorly differentiated invasive ductal
+carcinoma (tumor diameter: 1.5 cm; distance from dorsal margin 0.8 cm and from
+nearest lateral resection margin 1 cm, other margins remain free).
+Concluding tumor classification: NOS, G III, pT1c(m)pN0(0/13)LOVORO.
+UUID:EB9B8984-F6CC-451F-8628-50CC71F1F7C3
+TCGA
+-A8-A060-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted.
+Case (circle):
+Review al
+QUALIEND
+✓ Date Reviewed:
+DISQUALIFIED
+Yes
+Redacted

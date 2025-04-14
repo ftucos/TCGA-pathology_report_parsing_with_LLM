@@ -1,0 +1,358 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+• Site, breast, Nos
+050.9
+2/1/11
+سلام
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+UUID:4C7445ED-8346-4DD7-8AFA-2E95E65364BF
+TCGA-C8-A1HN-01A-PR
+Redacted
+Informed Consent
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+Date
+GENERAL INFORMATION*
+Marital Status
+☐ Single ☑Married
+□ Divorced □ Widow
+Date of Birth (mm/dd/yyyy)
+Height
++361
+Gender
+"
+Weight
+□ Male
+✓ Female
+5369
+HISTORY OF PRESENT ILLNESS
+Race
+Temperature
+Blood Pressure
+Heart Rate
+148
+Chief Complaints: A lump in the left breast; painless
+Symptoms:
+Clinical Findings: A tumour was found in the left breast
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory
+60-70 Symptomatic, in bed less than 50% of day
+□ 20-30 Bed Ridden
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+To
+I
+To
+Το
+Το
+To
+1
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Diagnosis Date
+Treatment
+Status
+Menopausal Status
+Pre-menopausal
+Peri-Menopausal
+☑Post-menopausal
+OB/GYN HISTORY
+Date of First Menses
+Years old
+Date of Last Menses
+years old
+Birth Control: ☐ Condom
+☐ Oral Contraceptive ✓ IUD
+□ Other:
+# of Pregnancies
+02
+# of Live Births
+2
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Environmental Hazards:
+Smoking History
+Current Status
+TYPE
+Packs/day
+Duration
+When Quit
+□ YES
+✓ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+☐ YES ☑NO
+Current Status
+□ YES
+TYPE
+Drinks/day
+Duration
+When Quit
+(yrs)
+(yr)
+Drug Use
+TYPE
+Frequency
+Duration
+When Quit
+✓ NO
+(yrs)
+(yr)
+Relative
+Test
+HIV
+Hep B
+Result
+✓ Negative ☐ Positive:
+✓ Negative ☐ Positive:
+Hep C
+☐ Negative ☐ Positive:
+AFP
+Other:
+☐ Negative □ Positive:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Date
+2
+Test
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy V
+* DIAGNOSTIC STUDIES
+Results
+Breast camer
+Date
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+Location of Suspected Involved Lymph Nodes
+Location of Suspected Distant Metastasis
+Clinical Staging
+T2 Na M
+Stage: TA
+Date of Diagnosis
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Modified Radical Mastectomy
+Organ
+Date of Procedure
+Primary Tumor
+Detailed Location
+Breast tumOR
+Size
+cm
+Extension of Tumor
+Lymph Nodes
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Organ
+Distant Metastasis
+Detailed Location
+Surgical Staging
+T2 No MQ
+Stage: T
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+Size
+Date (mm/dd/yyyy)
+To
+To
+Το
+To
+Το
+Collected by:
+-1
+Preserved by:
+Pathology Form
+Specimen Information
+Date:
+___¨ime: ___
+Date:
+♪ime:
+SPECIMEN TYPE (# of samples provided)
+Frozen
+Paraffin Block
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+Normal
+Diseased
+Normal
+2
+2
+2
+Diseased
+2
+Time to LN2
+Time to Formalin
+Time to LN2
+min
+73
+min
+min
+Organ
+Breast Tiener
+Location
+Organ
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Normal
+2
+Extension of Tumor
+cm
+115 × 1 ×
+Lymph Nodes
+# Examined
+Left
+Distance to NAT
+6
+cm
+# Metastasized
+Distant Metastasis
+Detailed Location
+Size
+Pathological Staging
+PT 2
+ΝΟ Mo
+Notes:
+Stage: I
+побед
+Axeast nobles 2 (negative)
+4
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance.
+Diffuse
+Mosaic
+Necrosis
+1. Histological pottern:
+CELL DISTRIBUTION
+Clusterized
+Lymphocytic Infiltration
+Vascular Invasion
+Alveolar Formation
+2. Cellular features.
+A Streaming
+Storiform
+2 Fibrosis
+Palisading
+STRUCTURAL PATTERN
+✓ Cystic Degeneration
+☑
+Bleeding
+☑ Myxoid Change
+Psammoma/Calcification
+Indian File
+Squamous
++
+Adenomatous
++
+-
+Sarcomatous
++
+Squamoid Cell
+Glandular cell
+Round Cell
+Lymphomatous
+Large Cell
++
+Spindle Cell
+Keratin
+Cell Stratification
+Secretion
+།
+Fibroblast
+☑
+Osteoblast
+Desmosome
+Intracyt. Vacuole
+☑
+Lipoblast
+Pearl
+Gland formation
+☑
+Myoblast
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+Otherwise Specified:
+70% D2 78%
+2. Cellular Differentiation:
+Well
+Moderately
+Poor
+3. Nuclear Atypic.
+Nuclear Appearance
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade
+!!
+K
+111
+☑
+Histological Diagnosis: Inflating Metal Car Tros. G-2
+Comments: M, ML; Chronic Lymphadenits
+: Rejected
+Late
+*(INTEGRATED REPORT OF FINDINGS BY COM
+STAFF FOR RESEARCH USE ONLY).

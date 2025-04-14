@@ -1,0 +1,315 @@
+UUID:53881871-C36B-4622-BFC6-4DA3635D7B26
+TCGA-AC-A7VB-01A-PR
+Redacted
+Referring Physician:
+DOB:
+Ref#:
+Age:
+Hosp#:
+Gender:F
+Provider Group:
+Date of Service: Date Received:
+Case #:
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. F. RIGHT BREAST AND AXILLARY LYMPH NODES, MASTECTOMY, SENTINEL
+LYMPH NODE BIOPSIES, AND AXILLARY LYMPH NODE DISSECTION:
+- Multifocal invasive ductal carcinoma, Nottingham grades 2-3. See comment.
+- Largest tumor nodule: 1.5 cm in diameter (6 o'clock aspect).
+- Two smaller nodules: 0.6 and 0.8 cm (7-8 o'clock aspect).
+- Ductal carcinoma in situ (DCIS), high nuclear grade, solid type.
+- DCIS comprises less than 10% of biopsy tissue volume, and is associated
+with all three invasive tumor nodules.
+- Mastectomy margins are free of tumor.
+· Carcinoma is 3 cm from the inferior margin and is at least 6 cm from
+all other margins.
+- Metastatic carcinoma in three of fifteen lymph nodes (3/15).
+- Largest metastatic focus: 0.9 cm in diameter.
+- Extranodal extension present.
+- Positive lymph nodes are sentinel lymph nodes #2, #3, and #4
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 2-3.
+Type and grade (in situ): DCIS, high-nuclear grade.
+Primary tumor: pT1c(m).
+Regional lymph nodes: pN1c.
+Distant metastasis: Not applicable.
+Stage: IIA.
+Lymphovascular invasion: Indeterminate.
+Margin status: Negative.
+ICD-O.3
+8500/3
+Carcinoma, infiltratery duct NOS
+Site ® Breast NOS
+101413
+050.9
+COMMENT: The three foci of invasive carcinoma have similar histologic features,
+although the tumor grade is somewhat variable in the largest tumor nodule, where
+there is a variable rate of mitosis, and nuclear pleomorphism ranging from
+intermediate to high-grade. The smaller tumor nodules contain high-grade malignant
+Case #:
+Printed:
+Page 1
+This report continues... (FINAL)
+MR No.
+Acct No. -
+Patient Name.
+Pathology - Page 1/6
+Page 1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+epithelial cells arranged in solid sheets with frequent mitoses, compatible with
+Nottingham grade 3. There is enough morphologic similarity between three nodules
+to suggest that they have a common origin. Intradepartmental consultation:
+|concurs with this impression.
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed.. and CAP Protocol (revised June 2012).
+Previous pathology specimens:
+Case #:
+Printed:
+MR No. -
+Patient Name.
+Pathology - Page 2/6
+Page 2
+This report continues... (FINAL)
+Page 2 Doc# 1
+Patient:
+Case #:
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Tumor sites:
+Tumor size:
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+Modified radical mastectomy.
+Right.
+Sentinel lymph node biopsies followed by lymph
+node dissection.
+Invasive ductal carcinoma (multifocal).
+6:00-8:00.
+Largest tumor nodule 1.5 cm.
+Multifocal.
+2-3 of 3.
+3 of 3.
+2-3 of 3.
+2-3 of 3 (variable mitotic rate).
+Indeterminate.
+No skin or chest wall invasion identified.
+Present in association with three invasive tumor
+nodules.
+MARGINS
+Invasive carcinoma:
+Ductal carcinoma in situ:
+Negative.
+Negative.
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit:
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (pT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+AJCC Stage:
+ANCILLARY STUDIES:
+15.
+3.
+0.9 cm.
+Present.
+pT1c(m).
+pN1a.
+Not applicable.
+IIA.
+Case #
+Printed:
+Performed by
+on 2
+previous biopsies (additional HER2 studies
+pending, to be reported in an addendum).
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+85-96% positive cells, strong intensity.
+0% positive cells.
+Additional studies pending, to be reported in an
+addendum.
+MR No.
+Acct No. .
+Patient Name -
+Pathology
+Page 3/6
+Page 3
+This report continues... (FINAL)
+Page 3 Doc# 1
+Patient:
+Case #:
+Ki-67:
+FINAL SURGICAL PATHOLOGY REPORT
+Source of Specimen:
+A. Sentinel lymph node; #1--
+B. Sentinel lymph node;#2--
+C. Sentinel lymph node;#3-
+D. Sentinel lymph node;#4--
+right axillary
+right axillary
+right axillary
+right axillary
+Variable, previously reported 7-69%.
+E. Breast surgical;right
+F. Axillary nodes right
+Clinical History/Operative Dx:
+Right breast cancer.
+Intraoperative Diagnosis:
+A. Sentinel node #1
+B. Sentinel node #2
+permanents).
+D. Sentinel node #4
+- diagnosis: Negative for carcinoma.
+- diagnosis: Rare atypical cells, suspicious for carcinoma. (Defer to
+and
+- diagnosis: Positive for carcinoma
+The intraoperative interpretation(s) was/were performed and rendered at
+Gross Description:
+right axilla, touch prep. Initially received in the fresh
+A. Part A is designated as sentinel node #1
+state four frozen section/touch prep evaluation is a 1.0 x 0.8 x 0.6 cm piece of red-tan soft tissue.
+Examination reveals a 0.7 x 0.6 x 0.5 cm lymph node. The cut surfaces are 
+fatty and rubbery, 
+pink and
+tan. Two touch imprint slides are prepared for microscopic evaluation. The lymph 
+node is entirely
+Case #:
+Printed:
+Page 4
+This report continues... (FINAL)
+MR No.
+Acct No.
+Patient Name -
+Pathology - Page 4/6
+age 4 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+submitted for routine histology in A1 with a sentinel node protocol performed.
+B. Part B is sentinel node #2
+. Initially received in the fresh state for touch prep/frozen section
+evaluation is a 1.5 x 1.2 x 1.0 cm yellow-tan portion of tissue. Examination reveals a 0.8 x 0.6 x 0.6 cm
+lymph node. Sectioning demonstrates a rubbery, pink and tan cut surfaces. Two touch imprint slides are
+submitted for microscopic evaluation. The lymph node is entirely submitted for routine histology in B1
+with a sentinel node protocol performed
+C. Part C designated as sentinel node #3
+right axillary. Received in formalin is a 1.5 x 1.5 x 0.7
+cm fragment of fat. Examination reveals two possible apparent lymph nodes, 0.8 x 0.6 x 0.4 cm each. The
+lymph node is serially sectioned and entirely submitted for microscopic evaluation in C1 with a sentinel
+lymph node protocol performed.
+D. Part D is designated as sentinel node #4 right axillary. Initially received in the fresh state for
+frozen section/touch imprint evaluation is a 1.5 x 1.2 x 1.0 cm yellow-green portion of fatty soft tissue.
+Examination reveals a 1.0 x 0.8 x 0.8 cm dense, pink-gray lymph node. Two touch imprint slides and a
+representative section is submitted for frozen section evaluation. The residual frozen tissue is submitted in
+D1 for permanent sections and the touch imprint aspect of the lymph node is submitted in D2 for
+permanent sections with a sentinel lymph node protocol performed
+E. Received fresh labeled "right breast." Sutures present for orientation purposes. A portion of tumor is
+submitted for
+Laterality: Right.
+Specimen: Mastectomy.
+Size of mastectomy: (M-L x S-1 x A-P): 23.5 x 19 x 5 cm.
+Axillary tail: Not present.
+Skin: 24 x 18 cm, pigmented skin. Nipple/areola: Yes, center of skin.
+Specimen weight: 971 grams.
+Ink code: Blue - superior-anterior, orange - inferior-anterior, black - deep
+Slabs: Total # 11, M-= 1, L-S= 11. Nipple in slab #6.
+Time of resection:
+Time placed into formalin:
+Time out of formalin:
+Lesion 1: Biopsy site present.
+Size: 1.5 x 1.4 x 0.8 cm, stellate, gray-white, firm mass.
+Location: 6:00. Involves slabs # 3-4.
+Distance to nearest margin(s): 3 cm from inferior margin, 6 cm from deep margin.
+Lesion #2: Biopsy site present.
+Size: 0.8 x 0.5 x 0.5 cm.
+Location: 7:00. Involves slabs #2-3.
+Distance to nearest margin(s): 6 cm from inferior.
+Case #:
+Page 5
+Printed:
+This report continues... (FINAL)
+MR No. -
+Acct No. -
+Patient Name -
+Pathology
+Page 5/6
+Page 5 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Lesion #3: No biopsy site present.
+Size: 0.6 x 0.6 x 0.5 cm.
+Location: 7:00. Involves slabs #4.
+Distance to nearest margin(s): 5 cm from inferior.
+Non-lesional breast: Fibrofatty breast tissue.
+Cassette summary:
+E1) smallest 7:00 tumor, previously biopsied (portion of the small tumor submitted for
+E2-E4) largest 6:00 lesion,
+E5) central breast tissue,
+E6-E7) lateral breast tissue,
+E8) nipple/subareolar breast tissue,
+E9) representative breast tissue,
+E10-E11) fibrous tissue medial to largest tumor,
+E12) representative medial breast tissue,
+E13) mass #3, 7:00,
+E14-E15) central posterior breast tissue.
+F. Part F is which axillary nodes, right. Received in formalin is an 83 gram partially tattered portion of
+yellow-tan fatty soft tissue, 13.0 x 9.0 x 2.6 cm. Examination reveals eleven lymph nodes ranging from 0.2
+cm to 1.9 x 1.4 x 1.2 cm in greatest dimension. The lymph nodes are entirely submitted for microscopic
+evaluation.
+Cassette summary:
+F1) four lymph nodes,
+F2) four lymph nodes,
+F3) one lymph node, bisected,
+F4) one lymph node, bisected,
+F5-F6) largest lymph node, serially sectioned.
+Microscopic Description:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+PAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (ci):
+9/28/13
+Yes
+No
+QUALIFIED
+DISQUALIF
+Km 9/24/13
+Reviewer a
+Date Denewed:
+A. C. Immunohistochemical stain: CK OSCAR, showing focal metastatic carcinoma in specimens B and
+C.
+D. Immunohistochemical stain: CK OSCAR, highlighting metastatic carcinoma. HER2 - results pending, to
+be reported in an addendum.
+E. Immunohistochemical stain: HER2, to be reported in an addendum.
+F. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #:
+Printed:
+Pathology
+MR No. -
+Page 6/6
+Acct No.
+Patient Name -
+Page 6
+END OF REPORT (FINAL)
+age 6 Doc# 1

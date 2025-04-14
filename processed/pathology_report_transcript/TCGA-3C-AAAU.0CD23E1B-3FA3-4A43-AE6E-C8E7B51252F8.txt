@@ -1,0 +1,187 @@
+Name:
+Path No.:
+MRN:
+Date Obtained:
+D.O.B.
+(Age:
+Sex:
+F
+Date Received:
+Physician:
+Location:
+UUID:0CD23E1B-3FA3-4A43-AE6E-C8E7B51252F8
+TCGA-3C-AAAU-01A-PR
+Redacted
+SPECIMEN:
+SURGICAL PATHOLOGY
+**See Addendum/Procedure**
+A:Lymph node, left axilla sentinel, biopsy
+B:Breast, left, modified radical mastectomy
+DIAGNOSIS(ES):
+A. Lymph node, left axilla sentinel, biopsy:
+ICDO.3
+Carcinoma in Strating lobular 852013
+Site
+path
+Metastatic carcinoma, following carcinoma of breast.
+B. Breast, left, modified radical mastectomy:
+Breast Nos 650.9
+"⑥) Breast, lower outer quadrant (50.5
+706/13/14
+1. Carcinoma, invasive lobular, poorly differentiated, multifocal, with extensive lymphatic permeation
+and extension into nipple.
+2. Lobular neoplasia, multifocal.
+3. Fibrocystic disease, proliferative, with atypia.
+4. Metastatic carcinoma in 3 of 12 axillary lymph nodes.
+Date Dictated:
+CLINICAL INFORMATION: None.
+GROSS DESCRIPTION:
+The specimen is received in two parts.
+Part A is received unfixed in a container labeled with the patient's name and "sentinel node #1". It consists of one piece
+of well circumscribed gritty tan tissue with attached fat measuring 1.2x1.0x0.6cm. It is bisected and a portion of it is
+submitted as AFS. The rest is submitted in one cassette labeled A1.
+Part B is received unfixed in a container labeled with the patient's name and "left breast mastectomy tissue" consists of
+a left radical modified mastectomy specimen measuring 21x17x3 cm. The skin measures 9.5x5x0.1 cm and has a
+circumareolar scar which measures 4 cm in length. The nipple is mobile and everted. A firm area is palpable
+underneath the scar. The deep (fascial) margin is inked black, the remaining margins are inked yellow. The axillary
+tissue measures 9x5x1.2 cm. Several lymph nodes are palpable within it. One lymph node has been previously
+bisected by the surgeon. The lymph nodes range in size from 2.5 to 0.5 cm. They are dissected, proceeding from the
+axilla towards the breast. The specimen is serially sectioned at closely spaced intervals. Beneath the previously
+described scar is an ill-defined white, firm area which measures approximately 3.8x3.1x3 cm; it abuts the skin and is 3
+cm from the deep margin. A second ill-defined white, firm area is present in the outer, lower quadrant approximately 1
+cm from the central lesion; it measures approximately 2.5x2.3x1.8 cm and is located 0.5 cm from the deep margin and
+1 cm from the superficial margin. At its center is a 1 cm firm area with a gelatinous appearance. The rest of the
+specimen is composed of 40% breast tissue, and 60% yellow fatty tissue. Representative sections are submitted in 40
+Page 1 of 4
+cassettes labeled B1-B40.
+Legend:
+B1-B3=nipple
+B4-B13-white, firm area under scar with superficial/skin margin
+B14-B15-deep margin under white, firm area below scar
+B16-B17=white, firm area under scar with superficial margin
+B18-B20-outer, lower quadrant white, firm area with superficial margin
+B21-B25=outer, lower quadrant white, firm area with deep margin
+B26=section from center of outer, lower quadrant white, firm area with small gelatinous area
+B27 deep margin under white, firm area below scar (additional)
+B28 inner, upper quadrant with deep margin
+B29-inner, upper quadrant with superficial margin
+B30-inner, lower quadrant with superficial margin
+B31-inner, lower quadrant with deep margin
+B32=outer, upper quadrant with deep margin
+B33=outer, upper quadrant with superficial margin
+B34-one LN from distal part of axillary tail bisected (level 3)
+B35-three other LNs from distal part of axillary tail (level 3)
+B36-one LN (the one previously cut by surgeon) in middle part of axillary tail (level 2)
+B37-B38=one large LN from middle part of axillary tail (level 2)
+B39-B40 LNs from proximal part of axillary tail (level 1)
+INTRAOPERATIVE CONSULTATION:
+AFS: metastatic carcinoma in lymph node
+Performed by: Resident:
+Interpreted by: Attending:
+MICROSCOPIC DESCRIPTION:
+1.
+TYPE OF SPECIMEN: Left modified radical mastectomy
+II.
+II.
+III.
+TYPE OF NEOPLASM:
+LOCATION OF THE TUMOR: Lower outer quadrant
+LOCATION OF THE TUMOR:
+Central
+Carcinoma, invasive lobular - pleomorphic, nuclear grade 3
+Lobular neoplasia, type B (pleomorphic) widespread
+IV.
+V.
+Ill-defined
+GROSS/MICRO FINAL INVASIVE TUMOR SIZE INTERPRETATION: 1.2 cm in greatest dimension, at least
+BORDERS OF INVASIVE NEOPLASM:
+VI.
+VASCULAR SPACE INVASION:
+Present in lymphatics
+VII.
+CALCIFICATION: Present in benign areas
+VIII.
+NIPPLE:
+Stroma involved by cancer
+Lymphatics involved by cancer
+Ducts involved by cancer
+IX.
+SKIN: Uninvolved by cancer
+✗.
+ADJACENT BREAST TISSUE: Cystic disease, proliferative with atypia
+Page 2 of 4
+XI.
+SURGICAL MARGIN: No carcinoma is identified on surgical margins
+XII.
+AXILLARY LYMPH NODES: TOTAL: 13
+LEVEL 1: 4
+LEVEL II: 2
+LEVEL III: 6
+SENTINEL NODE: 1
+XIII.
+POSITIVE LYMPH NODES: TOTAL: 4 of 13
+LEVEL 1: 2 of 4
+LEVEL II: 1 of 2
+LEVEL III:0 of 6
+SENTINEL NODE: 1 of 1
+DEGREE OF INVOLVEMENT: Extensive replacement
+EXTRANODAL EXTENSION: Absent
+XIV. PECTORAL MUSCLE: No pectoral muscle identified
+ADDITIONAL COMMENTS: Invasive carcinoma appears to arise multifocally. A definite second focus is identified in
+the lower outer quadrant (B26). Below the nipple, the fibrous scar tissue contains multiple separate foci of invasive
+lobular carcinoma. Extensive lymphatic permeation is noted.
+This report has been reviewed electronically and signed on
+Interpreted by: Attending:
+Case Resident:
+The diagnosis was rendered by the attending pathologist.
+Receptor Expression Analysis
+INTERPRETATION
+Date Ordered:
+Status: Signed Out
+Test Performed on: Left breast
+Specimen part: B
+Slide#: B26
+Results:
+More than 50% of the invasive carcinoma cell nuclei stain with an immunohistochemical stain utilizing an anti-estrogen
+receptor antibody.
+Therefore, this tumor is considered strongly positive for estrogen receptor expression.
+More than 50% of the invasive carcinoma cell nuclei stain with an immunohistochemical stain utilizing an
+anti-progesterone receptor antibody.
+Therefore, this tumor is considered strongly positive for progesterone receptor expression.
+Her-2/neu expression has been evaluated using the
+HercepTest. HercepTest score: 0.
+No Her-2/neu overexpression is identified in the invasive carcinoma cells.
+Page 3 of 4
+This procedure/addenda has been electronically reviewed and signed on
+Interpreted by:
+Attending:
+Addendum
+Date Ordered:
+Status: Signed Out
+ADDENDUM
+Molecular Analysis has been ordered on this case, the blocks and slides have been retrieved from the archival files, the
+slides and pathology report were re-reviewed for tumor cellularity by the pathologist, and the appropriate block was
+selected for testing.
+This procedure/addenda has been electronically reviewed and signed on
+Interpreted by:
+Attending:
+Note: Immunochemistry testing performed at
+was developed and its performance characteristics determined by the
+⚫. These tests were interpreted in conjunction with external positive and internal negative controls, unless-
+FDA. This test is used for clinical purposes only. It should not be regarded as investigational or for research.
+Criteria
+Diagnosis Discrepancy
+w 12/17/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted `
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+✓
+1
+DISQUALIFIED
+Date Reviewed: 12/10/13

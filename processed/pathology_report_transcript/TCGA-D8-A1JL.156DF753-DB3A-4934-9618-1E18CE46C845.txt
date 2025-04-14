@@ -1,0 +1,62 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, NOS
+050-9
+3/11/11
+fo
+page 1 / 1
+copy No.
+Date:
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No.:
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+Examination performed or.
+Results of immunohistochemical examination:
+No estrogen receptors found in the neoplastic cell nuclei. No progesterone receptors found in the neoplastic cell nuclei. HER2
+protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells (Score = 1+)
+Compliance validated by:
+Examination performed or
+Macroscopic description:
+Right breast sized 26 x 19 x 5 cm removed along with axillary tissues sized 10 x 8 x 2 cm and a skin flap of 27 x 11 cm. Tumour
+sized 2.1 x 2.2 x 0.8 cm on the border of the lower inner quadrants, placed 1.5 cm from the lower edge, 0.1 cm from the base
+and 2.0 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3 + 3 + 2: 15 mitoses/10 HPF - visual area of 0.57 mm). Glandular tissue off the tumour
+showing lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis simplex (UDH).
+Axillary lymph nodes:
+Sinus histiocytosis lymphonodorum (No XI).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast.
+(NHG3, pT2, pNO).
+Compliance validated b
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+UUID:156DF753-DB3A-4934-9618-1E18CE46C845
+TCGA-D8-A1JL-01A-PR
+Redacted
+Criteria
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/synchronous Primary Noted
+Case
+Rewariniai
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: J
+for 3/11/17
+*

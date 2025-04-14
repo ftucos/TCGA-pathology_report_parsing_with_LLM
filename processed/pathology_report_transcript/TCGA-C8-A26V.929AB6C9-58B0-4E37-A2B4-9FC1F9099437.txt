@@ -1,0 +1,471 @@
+168-0-3
+Carcinoma, infiltrating duct, No: 8500/3
+Site breast, Nos
+050.9
+UUID:929AB6C9-5880-4E37-A2B4-9FC1F9099437
+TCGA-C8-A26V-01A-PR
+Redacted
+سار
+5/24/11
+IRB APPROVED
+MULTI-MEDIA SYSTEMS, INC.
+Form Revised
+cal Case Report
+(For Collection of Cancerous Tissue)
+Informed Consent
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronnus Primaryotad
+Case is (circle):
+Reviewers
+GUALIFIED
+LE Reviewed:
+f 5/26/11
+DISQUALIFIED
+5/31
+I personally informed this patient that a specimen(s) would be collected to be used for research
+RESEARCH SUBJECT INFORMATION AND CONSENT
+purposes. I reviewed the
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+No
+>
+Date
+Date of Birth (mm/dd/www)
+Height
+GENERAL INFORMATION
+Marital Status
+Race
+Temperature
+□ Single ☑Married
+Gender
+Weight
+□ Divorced □ Widow
+Blood Pressure
+Heart Rate
+☐ Male ☑Female
+HISTORY OF PRESENT ILLNESS
+Chief Complaints: pain in the breast
+pain in the breast; nipple refraction
+Symptoms:
+Clinical Findings: Atumour was
+Sound in the under the
+nipple - hump in the armpit
+Performance Scale (Karnofsky Score):
+60-70 Symptomatic, in bed less than 50% of day
+□ 20-30 Bed Ridden
+□ 100 Asymptomatic X 80-90 Symptomatic but Fully Ambulatory
+□ 40-50 Symptomatic, in bed more 
+than 50% of day, but 
+not bed ridden
+Drug
+Dose
+CURRENT MEDICATIONS
+Route
+Frequency
+Date (mm/dd/yyyy)
+1
+To
+1
+Το 1
+Το
+Το
+To
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Diagnosis Date
+Treatment
+Status
+Menopausal Status
+Pre-menopausal
+X Peri-Menopausal
+Post-menopausal
+OB/GYN HISTORY
+Date of First Menses
+Date of Last Menses
+13 years old
+Birth Control: ☐ Condom ☐ Oral Contraceptive IUD
+☐ Other:
+# of Pregnancies
+02
+# of Live Births
+02
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Environmental Hazards:
+Current Status
+TYPE
+Smoking History
+Packs/day
+Duration
+When Quit
+□ YES NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+☐ YES ☑NO
+TYPE
+Drinks/day
+Duration
+When Quit
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Date
+Test
+Test
+Result
+HIV
+Hep B
+Hep C
+AFP
+☑ Negative ☐ Positive:
+☑Negative ☐ Positive:
+☑Negative ☐ Positive:
+□ Negative □ Positive:
+"
+Other:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative Positive:
+☐ Negative ☐ Positive:
+☐ Negative □ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+* DIAGNOSTIC STUDIES **
+Results
+Date
+Biopsy
+Breast cancer
+CLINICAL DIAGNOSIS:
+Preoperative Clinical Diagnosis
+Location of Suspected Involved Lymph Nodes
+Clinical Staging
+Location of Suspected Distant Metastasis
+Date of Diagnosis
+Tz N 2 M
+0
+Stage:
+Treatment Information
+SURGICAL TREATMENT
+Primary Tumor
+Organ
+Right tumor
+of
+The breast
+Extension of Tumor
+Procedure
+Modified Radical Mastectomy
+Detailed Location
+Canteal peretion
+Date of Procedure
+Size
+5x4x4
+4x4cm
+Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+Distant Metastasis
+Detailed Location
+Surgical Staging
+T3
+N 2
+MO
+Stage:
+711
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+3
+Size
+Date (mm/dd/yyyy)
+1
+To
+To
+To
+Το
+To
+Collected by:
+Preserved by:
+Frozen
+Diseased
+Pathology Form
+Specimen Information
+Date:
+_'ime:_,
+Dat
+me
+Paraffin Block
+Diseased
+2
+min
+Normal
+2
+Normal
+▲ SPECIMEN TYPE (# of samples provided) YALAM
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+4
+Normal
+2
+Time to Formalin
+Time to LN2
+13
+min
+min
+Time to LN2
+12
+Organ
+Breast TOR
+Location
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Extension of Tumor
+Distance to NAT
+5
+cm
+# Metastasized
+5× 4x 4cm central portion
+Lymph Nodes
+# Examined
+Organ
+Distant Metastasis
+Detailed Location
+Size
+Notes:
+Pathological Staging
+Mo
+PT 3
+N 2
+Stage: I
+Breast nodes 8 (positive 5, Negative 3)
+2 cat selles node. (M1, M2) in Nitrageh
+Microscopic Description
+Histological Pattern
+Cell Distribution
++
+-
+Diffuse
+Mosaic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+Streaming
+Storiform
+Fibrosis
+Palisading
+Structural Pattern
++
+Cystic Degeneration
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+Cellular Differentiation
+Squamous
++
+Adenomatous
++
+-
+Squamoid Cell
+Glandular cell
+☑
+Sarcomatous
+Round Cell
++
+Spindle Cell
+Cell Stratification
+Fibroblast
+Lymphomatous
+Large Cell
+Small Cell
++
+Keratin
+Secretion
+Osteoblast
+RS Cell/RS Like
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Inflam. Cell
+Pearl
+Gland formation
+Myoblast
+Plasma Cell
+Cellular Differentiation:
+Well
+Moderate ☑
+Poor
+* Nuclear Appearance
+Nuclear Atypia:
+I
+II
+III
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade:
+IHC Data
+Value
+Date
+Marker
+ER
+PR
+Her-2/neu
+B-Cell Marker
+T-Cell Marker
+Other:
+Other:
+Histological Diagnosis:
+Result
+□ Negative
+□ Positive
+□ Negative □ Positive
+☐ Negative □ Positive
+□ Negative □ Positive
+☐ Negative ☐ Positive
+□ Negative
+□ Negative
+Positive
+Positive
+Final Pathology Report
+"Infiltrating ductal carcinomas
+(moderately differentiated
+Comments:
+breast nales = 8 (positive 5, Negative 3)
+(Mr. Mž positive)
+Grade: T
+Date
+Principal Investigator
+Pathologist
+5
+}
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+Diffuse
+Mosaic
+Necrosis
+1. Histological pattern:
+CELL DISTRIBUTION
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+☑
+✓ Streaming
+Storiform
+Fibrosis
+Palisading
+STRUCTURAL PATTERN
+☑ Cystic Degeneration
+Bleeding
+Myxoid Change
+✓ Psammoma/Calcification
+Sarcomatous
+Round Cell
+Indian File
+2. Cellular features.
+Squamous
++
+Adenomatous
++
+"
+Squamoid Cell
+Glandular cell
+Spindle Cell
+Keratin
+Cell Stratification
+Secretion
+☑
+Fibroblast
+☑
+Osteoblast
+Desmosome
+Intracyt. Vacuole
+147
+Lipoblast
+Pearl
+Gland formation
+☑ Myoblast
+Otherwise Specified:
++
+-
+Lymphomatous
++
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+D, 70% D270% $370% D4 70%, welkoos
+2. Cellular Differentiation:
+Well
+Moderately
+Poor
+3. Nuclear Atypia:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Appearance
+Nuclear Grade
+II
+]II
+Histological Diagnosis: 12/iltrating Ductal Carcina, No. 62
+Comments: M,M. Cakinome Metastasized to LN.
+Director, Research Pathology
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

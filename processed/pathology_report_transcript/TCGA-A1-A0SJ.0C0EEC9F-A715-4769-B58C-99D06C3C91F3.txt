@@ -1,0 +1,336 @@
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+P.mary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchrons us Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+Tw 10/21/11
+UUID:@C@EEC9F-A715-4769-858C-99D86C3C91F3
+TCGA-A1-A0S]-01A-PR
+7
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+C50.9
+lw
+10/21/11
+Final Pathologic Diagnosis:
+A. Sentinel lymph node #1, left axilla (count=4414), biopsy: Metastatic ductal
+carcinoma, 2 cm focus, in one (1/1); see comment.
+B. Lymph node, left axilla, dissection: Metastatic ductal carcinoma in two of fourteen
+(2/14).
+Page 1 of 7
+Surgical Pathology -
+Working Draft
+C. Lymph node, left axilla level III, biopsy: No tumor in one (0/1).
+D. Left breast, modified radical mastectomy:
+1. Invasive ductal carcinoma, SBR grade 3, 6.5 cm; see comment.
+2. Ductal carcinoma in situ (DCIS), high grade, micropapillary and cribriform
+patterns, with comedonecrosis, narrowly excised; see comment.
+3. Invasive carcinoma present at inked anterior-superior resection margin; see
+comment.
+4. Microcalcifications in DCIS.
+5. Non-proliferative fibrocystic change with apocrine metaplasia and microcysts.
+6. Benign sclerosing papilloma.
+E. Left breast, anterior/superior/medial margin, excision: Invasive ductal carcinoma,
+SBR grade 3, close to inked margin; see comment.
+F. Skin, left breast nodule, excision:
+1. Invasive ductal carcinoma, SBR grade 3, present in dermis, subcutaneous tissue
+and fibrous tissue; see comment.
+2. Fibrous tissue, suggestive of scar, with invasive tumor; see comment.
+G. Skin, newest anterior/superior/medial margin, excision: No significant pathologic
+abnormality, no tumor.
+H. Left breast, new nipple margin, biopsy: Benign lactiferous ducts, no in situ or
+invasive tumor.
+I. Non-sentinel lymph node #1, dissection: No tumor in two (0/2).
+J. Non-sentinel lymph node #2, biopsy: No tumor in one (0/1).
+Note: The tumor present in the main mastectomy specimen (part D) encompasses a 7.5 cm maximal
+area, which includes an area of tumor satellites adjacent to a 6.5 cm solid tumor mass. The tumor
+consists of infiltrating trabeculae, nests and glands of cells with ample and mostly clear cytoplasm,
+and large pleomorphic nuclei with nucleoli. Abundant mitotic figures are present. Ductal carcinoma in
+situ is also present with cribriform, micropapillary, and comedo patterns, and shows cytology similar to
+that of invasive tumor, with cells showing clear cytoplasm and pleomorphic high-grade nuclei. The
+DCIS is present only as scattered foci admixed within the invasive carcinoma itself. Material from the
+patient's prior biopsy (.
+○) shows analogous features.
+Invasive carcinoma are present at the inked anterior-superior margin of the main specimen (slides D2,
+D3; see details in synoptic below), however, the separately submitted additional margin (part E),
+shows invasive tumor that is narrowly (<0.5mm) excised (slide E8). In this specimen (part E), there
+is also tumor extending to the edges of the specimen that were indicated by the surgeon as not the
+new margin.
+The skin nodule (part F) shows invasive ductal carcinoma (0.6 cm) within the subcutaneous tissue,
+dermis and immediately beneath the epidermis, where it is seen to involve an area of fibrosis that is
+suggestive of a skin scar. The tumor is within 0.5 mm of the excision margin, however, the separately
+submitted new skin margin (part G) shows no tumor.
+The extensive clear cell features and nested architecture of the tumor are morphologic features that
+are often seen in renal cell carcinoma (RCC). Therefore, this possibility was considered and
+immunohistochemical studies were performed and evaluated on a lymph node metastasis (block B7)
+and interpreted as follows:
+Page 2 of 7
+Surgical Pathology -
+CD10: Negative (result does not support renal tumor).
+Working Draft
+Renal cell carcinoma Ab (RCC): Positive (result supports renal tumor).
+Cytokeratin 7: Positive (result does not support renal tumor).
+E-Cadherin: Positive (result does not support renal tumor).
+Estrogen receptor: Negative (result does not support renal tumor).
+Overall, while RCC Ab is positive, all other stains are indicative of this being metastatic breast
+carcinoma in a lymph node that has features mimicking RCC.
+Breast Tumor Synoptic Comment
+- Laterality: Left.
+- Invasive tumor type: Invasive ductal carcinoma.
+Invasive tumor size: 6.5 cm maximum diameter (calculated by the presence of tumor in 4
+consecutive 1.6 cm thick slices)
+- Invasive tumor grade (modified Bloom-Richardson): 3.
+Nuclear grade: 3, 3 points.
+Mitotic count: >30 mitotic figures/10 HPF, 3 points.
+Tubule/papilla formation: >10% but <75%, 2 points.
+Total points and overall grade 8 points = grade 3.
+=
+- Lymphatic-vascular invasion: present.
+Perineural invasion: None identified.
+-Tumor necrosis: Present.
+-
+-
+-
+"
+Resection margins for invasive tumor: In the main mastectomy specimen (part D), invasive tumor is
+present at the inked anterior/superior margin, near the medial end (approximately 10 o'clock,
+10 cm from the nipple; slides D2, D3). However, the separately submitted
+"anterior/superior/medial" margin shows tumor that is narrowly excised near one edge of the
+"new margin" of specimen part E (< 0.5 mm; slide E8).
+- Deep margin: Negative; (tumor is 1 cm away, on slide D6).
+- Medial margin: Negative; (tumor is 0.2 cm away, on slide D1).
+- Lateral margin: Widely clear.
+- Anterior/superior margin: Positive on main specimen (slides D2, D3).
+- Anterior/inferior margin: Widely clear.
+- Nipple bed margin: Widely clear.
+Ductal carcinoma in situ (DCIS) type: Comedo, cribriform, micropapillary.
+Ductal carcinoma in situ size: DCIS is present as scattered foci admixed with the invasive
+carcinoma.
+Ductal carcinoma in situ nuclear grade: High nuclear grade.
+- Necrosis in DCIS: Comedonecrosis, focal (<1/3).
+Microcalcifications: Present, involving DCIS only.
+- Resection margins for ductal carcinoma in situ: In the main mastectomy specimen (part D), DCIS is
+present < 0.5mm from the anterior/superior margin, near the medial end (approximately 10
+o'clock, 10 cm from the nipple; slide D2). However, the separately submitted
+"anterior/superior/medial" margin has no definite DCIS in it.
+-
+-
+- Deep margin: Widely clear; (tumor is 1 cm away, on slide D6).
+Medial margin: Negative; (tumor is 0.2 cm away, on slide D1).
+· Lateral margin: Widely clear.
+- Anterior/superior margin: Close; <0.5mm (slide D2).
+- Anterior/inferior margin: Widely clear.
+- Nipple bed margin: Widely clear.
+Lobular carcinoma in situ (LCIS): Not present.
+- Lymph node status: Positive.
+-
+-
+Number of positive lymph nodes: 3.
+- Total number sampled: 19.
+Diameter of largest metastasis: 2 cm.
+· Extranodal extension: Not present.
+- AJCC/UICC stage: pT3N1aMX.
+Page 3 of 7
+Surgical Pathology -
+Working Draft
+Nontumorous breast tissue: Cystic changes, apocrine metaplasia, papilloma.
+Nipple: Not present.
+- Skin/dermis: Focus of invasive ductal carcinoma in dermis (see part F above).
+An immunohistochemical test for estrogen and progesterone receptors was performed on block Al
+(lymph node).
+The test for estrogen receptors is positive. There is strong nuclear staining in >70% of tumor cells.
+The test for progesterone receptors is positive. There is at least weak nuclear staining in >10% of
+tumor cells, with strong staining in ~5% of tumor nuclel.
+Result of HER2/neu test: This carcinoma is indeterminate for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed on block A1 using the CB11 monoclonal antibody to
+HER2/neu oncoprotein. The staining intensity of this carcinoma was 2 on a scale of 0-3 (HER2 test
+interpreted by Dr.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered indeterminate. We and others have observed that many carcinomas with
+staining intensity scores of 2 do not show gene amplification. All carcinomas with staining Intensity scores of 2 are therefore
+submitted for FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in
+this category show an excellent correlation between the results of immunohistochemical and FISH testing, and almost always show
+gene amplification.
+Intraoperative Consult Diagnosis
+FS1 (A) Sentinel lymph node #1, left axilla, biopsy: Carcinoma, approximately 2 cm (1/1). (Dr.
+Clinical History
+The patient is a year-old woman with left breast cancer. She undergoes mastectomy.
+Gross Description
+The specimen is received in ten parts, each labeled with the patient's name and unit number. Parts
+A-C are received fresh. Parts E-) are received in formalin.
+Part A, additionally labeled
+11/
+sists of a single, pink,
+unoriented tissue fragment measuring 2 x 1.8 x 0.6 cm. The specimen is bisected and entirely
+submitted for frozen section diagnosis 1, and subsequently submitted in cassette A1.
+Part B, additionally labeled "
+consists of a brown-yellow,
+ovoid piece of fatty tissue with a stitch indicating the apex, measuring 8.5 x 8.5 x 3.3 cm. Also in the
+specimen container are two fragments of yellow-tan, soft tissue measuring 5.5 x 4.5 x 2.5 cm in
+aggregate. Multiple lymph nodes are found in the specimen. Lymph nodes from the main specimen
+are submitted from apex to base and all lymph nodes are submitted as follows:
+Cassettes B1-B6:
+Cassette B7:
+Cassette B8:
+Multiple whole lymph nodes.
+One lymph node, bisected.
+Multiple whole lymph nodes from smaller tissue fragment.
+Part C, additionally labeled
+nsists of two fragments of tan-yellow,
+fatty tissue measuring 3.5 x 3.5 x 2.5 cm in aggregate. No lymph nodes are identified in the
+specimen. The specimen is entirely submitted in cassettes C1-C3.
+Part D is additionally labeled
+It
+consists of a mastectomy, without skin, nippie, or areola, that has been previously inked and incised
+prior to receipt in Pathology. Short suture and long suture are present, in additional to a blue nylon
+suture present at the anterior-mid area. Following the provided orientation, the specimen measures
+Page 4 of 7
+Surgical Pathology -
+Working Draft
+22 cm from medial to lateral, 19 cm from superior to inferior, and 6 cm from anterior to posterior.
+The designated nipple/areolar bed measures 3.5 x 3.5 cm in area. The specimen has been previously
+inked as follows: posterior aspect in black, anterior superior blue, and anterior inferior green. A 14
+cm long previous incision is present on the posterior surface running vertically that is 5 cm deep and
+reveals an irregular firm area in the superior half of the cut surface (upper inner quadrant). The
+specimen is further serially sectioned, from medial to lateral, with slice 1 as medial and slice 13 as
+lateral and the previous incision present between slice 5 and slice 6. An irregular, ill-defined, firm,
+white-to- tan lesion is present in slices 1 through 6, encompassing a 8 cm dimension from medial to
+lateral, 5 cm from superior to inferior, and 2.5 cm from anterior to posterior. The majority of this
+lesion is present as a solid area in slices 3 through 6 (6.5 cm from medial to lateral). In slices 1 and
+2, the lesion is present as an area of multiple satellite nodules, of up to 0.4 cm each, directly adjacent
+to the solid area. The lesion overall abuts the anterior- superior margin and is 0.5 cm from medial
+margin, 1.2 cm to deep margin, 3 cm to anterior inferior, 13 cm to lateral, 2.5 cm to the nipple bed,
+3.4 cm to superior edge, and 8.5 cm to inferior edge. Two 0.5 cm, spherical cystic cavities are present
+within or adjacent to the lesion, the first in the superior half of slices 4 and 5, and the second in the
+mid-portion of slice 5. Up to a 0.5 cm thickness of muscle is present in focal areas of the posterior
+aspect. Remainder of the specimen consists almost entirely of unremarkable yellow fat. There are
+thin, delicate strands of white, fibrous tissue present throughout most of the remainder of the
+specimen. Representative sections are submitted as follows:
+Cassette D1:
+Cassette D2:
+Cassette D3:
+Cassette D4:
+Cassette D5:
+Representative medial margins, perpendicular.
+Anterior-superior margin, slice 2, in relation to nodular masses.
+Anterior-superior margin, slice 3, in relation to mass.
+Anterior-superior margin, slice 4, including cavity.
+Deep margin in relation to mass, from slice 5.
+Deep margin, slice 6, with muscle.
+Superior edge, slice 4.
+Inferior edge, slice 5.
+Cassette D6:
+Cassette D7:
+Cassette D8:
+Cassette D9:
+Cassette D10:
+Cassette D11:
+Cassette D12:
+Cassette D13:
+Inferior edge of mass, slice 6.
+Cassette D14:
+Cassette D15:
+Cassette D16:
+Cassette D17:
+Cassette D18:
+Cassette D19:
+Anterior-inferior margin, slice 5.
+Nipple bed margin, slice 6.
+Lateral margin, perpendicular.
+Representative section of the mass from slice 5, with cavity.
+Representative upper outer quadrant, slice 8.
+Representative upper outer quadrant, slice 10.
+Representative lower inner quadrant, slice 6.
+Representative lower inner quadrant, slice 4.
+Representative lower outer quadrant, slice 9.
+Representative lower outer quadrant, slice 8.
+It consists of a segment of
+Part E is additionally labeled
+adipose tissue containing a single suture. The requisition form indicates the suture marks the new
+margin. The specimen is 4.5 x 4 x 2 cm with the suture present at one longitudinal end of the
+specimen. There is a 1.5 cm maximal dimension area containing irregular, white-firm mass that is 2
+cm from the new margin. In addition, there are 2-3 0.2 to 0.3 cm firm nodules present abutting the
+new margin. The new margin is inked black. The remainder of the surfaces are inked blue and
+representative sections including the entire new margin are submitted as follows:
+Cassettes E1-E8: Entire new margin.
+Cassette E9:
+Representative section of 1.5 cm lesion.
+Part F is additionally labeled
+It consists of a skin ellipse that is 1.2 x 0.6 cm
+in area and 0.8 cm in maximal depth, that contains an irregular 0.5-cm area of firm, white nodules.
+The resection margins are inked blue and the specimen is entirely submitted as follows:
+Cassette F1:
+Cassette F2:
+Tips.
+Remainder of specimen.
+Part G is additionally labeled
+It consists of a 1.4
+x 1.1 x 0.2 cm segment of tissue with apparent skin on one broad surface. A 0.7 cm central hole is
+present. The non-skin surfaces are inked blue and the specimen is entirely submitted as follows:
+Page 5 of 7
+Surgical Pathology -
+Working Draft
+Cassette G1:
+Tips.
+Cassettes G2-G3:
+Remainder of specimen.
+Part H is additionally labeled
+It consists of a segment of
+irregular, brown soft tissue sutured to a Telfa pad. There is a single long suture present on the
+non-Telfa surface. The requisition form indicates the stitch marks new margin (margin side up) and
+this new margin surface is inked black. The opposite surface (Telfa surface) is inked blue. The
+specimen is bisected and entirely submitted in cassette H1.
+Part I, additionally labeled
+consists of one soft and firm, tan-yellow piece of fatty tissue
+measuring 2.5 x 2 x 0.6 cm. The specimen is trimmed and extensively searched for lymph nodes.
+One candidate lymph node is found; this is inked blue and bisected, and entirely submitted in cassette
+11. The remaining yellow fatty tissue is submitted in cassette I2.
+Part ], additionally labeled
+consists of one soft and firm, tan-light brown tissue fragment
+measuring 2 x 1.6 x 0.7 cm. The specimen is inked black and bisected, and entirely submitted in
+cassettes J1-J2.
+The immunonernvidace stain(s) reported above were developed and their performance characteristics determined by the !
+They have not been cleared or approved by the U. S. Food and Drug Administration.
+The FDA has determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should
+not be regarded as Investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement
+Amendments of 1988 ("CLIA") as qualified to perform high-complexity clinical testing.
+Fee Codes:
+Other Specimens
+/Pathologist
+Signed:
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received:
+Final Diagnosis
+Review of
+A. Left breast, "#1 with calcs," biopsy:
+1. Ductal carcinoma in situ, high grade, solid and papillary patterns with comedo
+necrosis and extension to lobules; see comment.
+2. Microscopic focus (< 1mm) suspicious for invasion; see comment.
+3. Microcalcifications present in association with ductal carcinoma in situ.
+B. Left breast, "#2 with calcs," biopsy:
+1. Invasive ductal carcinoma; see comment.
+2. Ductal carcinoma in situ, high grade, solid and papillary patterns with comedo
+necrosis and extension to lobules; see comment.
+3. Microcalcifications present in association with ductal carcinoma in situ and stroma.
+Page 6 of 7
+Surgical Pathology -
+Working Draft
+A. Left breas! "nodule," biopsy:
+1. No in situ or invasive carcinoma identified.
+2. Fibroadenoma.
+END OF REPORT
+Page 7 of 7

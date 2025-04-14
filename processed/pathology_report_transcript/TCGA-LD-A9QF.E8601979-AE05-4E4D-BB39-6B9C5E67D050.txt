@@ -1,0 +1,167 @@
+DATE OBTAINED:
+DATE RECEIVED:
+DATE REPORTED:
+UUID:E8601979-AE05-4E4D-BB39-6B9C5E67D050
+TCGA-LD-A9QF-01A-PR
+Redacted
+Surgical Pathology Report
+LOCATION:
+SUBMITTING MD:
+CC:
+DIAGNOSIS
+1. LEFT AXILLARY “SENTINEL” LYMPH NODES: NEGATIVE (0/3); NEGATIVE CUTDOWNS SECTIONS.
+2. LEFT AXILLARY "PALPABLE” LYMPH NODES: NEGATIVE (0/4); NEGATIVE CUTDOWNS SECTIONS.
+3. LEFT AXILLARY "SENTINEL” LYMPH NODE: NEGATIVE (0/1); NEGATIVE CUTDOWNS SECTIONS.
+4. LEFT AXILLARY “SENTINEL” LYMPH NODES #3: NEGATIVE (0/6); NEGATIVE CUTDOWNS SECTIONS.
+5. LEFT TOTAL MASTECTOMY: INVASIVE AND INTRADUCTAL MAMMARY DUCT CARCINOMA.
+SIZE (INVASIVE):
+SIZE (DCIS COMPONENT):
+LATERALITY:
+TUMOR FOCALITY:
+LESIONAL SITE:
+HISTOLOGIC TYPE:
+NUCLEAR GRADE:
+HISTOLOGIC GRADE:(EEMSBR)
+IN-SITU COMPONENT:
+LYMPH NODE SAMPLING:
+AJCC CATEGORIES:
+PTNM:
+CTNM:
+INTEGRITY/ORIENTATION:
+MARGINS (invasive and DCIS):
+LYMPHOVASCULAR INVASION:
+MICROCALCIFICATIONS:
+NIPPLE/SKIN: (if applicable)
+SKELETAL MUSCLE
+OTHER:
+COMMENT
+1.6 cm (additional incidental < 1mm microinvasion)
+~11 cm scattered foci (subareolar region to 11 cm from nipple @ 12-1 o'clock)
+Left
+Unifocal gross reference mass; incidental microinvasive lesion
+Subareolar (both reference mass and incidental microinvasion)
+Invasive ductal carcinoma, apocrine type
+III of lil
+III of III (Tubules score 3 + NG score 3 + mitoses score 3)
+DCIS (variable histology)
+comedo NG3 subareolar
+cribriform non-apocrine with comedonecrosis NG2-3 UOQ
+cribriform apocrine without comedonecrosis NG2 UOQ
+Negative (0/14); see specimen #1 - #4
+Stage
+pT1c
+CT1
+(assuming "cMO" status)
+PNO
+CNO
+Intact specimen with designated margins
+смо
+Negative; 3 cm to nearest margins (anterior & posterior locations)
+Focal
+Present (associated with comedo-DCIS)
+Negative nipple; numerous pigmented seborrheic keratoses & simple lentigines
+Not present
+Two core biopsy sites (1 o'clock subareolar; 12-1 o'clock UOQ); focal microcysts,
+mammary duct stasis/ectasia and focal usual duct hyperplasia
+ICD & 3
+-
+Concinoma, infiltrating duct 8500/3 ***Electronically Signed Out***
+①Breast NOS C50.9
+01/27/14
+Site
+1-88329,88307 2-88333,88307 3-88333,88307 4-88307 5-88309
+Page 1 of 3
+Surgical Pathology Report
+Clinical Diagnosis and History:
+ear old female with left invasive CA/DCIS ? extensive DCIS 12-1:00
+CT1,cNo,cMo clinical stage I
+Tissue(s) Submitted:
+1: LEFT AXILLARY SENTINEL LYMPH NODES #1
+2: LEFT AXILLARY PALPABLE LYMPH NODES
+3: LEFT AXILLARY SENTINEL LYMPH NODE #2
+4: LEFT AXILLARY SENTINEL LYMPH NODE #3
+5: LEFT TOTAL MASTECTOMY SUTURE IN AXILLARY TAIL
+Gross Description:
+Specimen #1 is received fresh for intraoperative consultation labeled left axillary sentinel lymph nodes, and consists of three lymph
+nodes with attached fat, ranging from 0.2 cm to 2.4 cm in greatest dimension. The lymph nodes are submitted in their entirety for
+permanent microscopy as follows:
+1A:
+two lymph nodes
+1B: one lymph node serially sectioned
+Specimen #2 is received fresh for intraoperative consultation labeled left axillary palpable lymph nodes, and consists of four lymph
+nodes, ranging from 0.8 cm to 1.5 cm in greatest dimension. The lymph nodes are serially sectioned to reveal predominantly pink-
+tan cut surfaces, one of which displays a white focus. A smear preparation from the lymph node with the white focus is performed.
+The lymph nodes are submitted in their entirety for permanent microscopy as follows:
+2A-D: one lymph node per cassette
+Specimen#3 is received fresh for intraoperative consultation labeled left axillary lymph node, sentinel #2, and consists of one, 0.9
+cm lymph node, which is serially sectioned and submitted in its entirety labeled 3A.
+Specimen #4 is received in formalin labeled left axillary sentinel lymph node #3, and consists of six lymph nodes ranging from 0.2
+cm to 0.7 cm in greatest dimension. The largest lymph node is bisected and the lymph nodes are submitted in their entirety as
+follows:
+4A:
+five lymph nodes
+4B:
+one lymph node, bisected
+Specimen #5 is received fresh labeled left total mastectomy, suture in axillary tail, and consists of an 858 gm, 25 x 23 x 5 cm left
+total mastectomy specimen, with a suture marking the axillary tail. There is a 24 x 17 cm, ovoid to elliptical portion of brown skin
+on the anterior aspect, displaying a 2 x 2 x 1 cm everted nipple. The skin displays multiple brown-black, flat to raised,
+predominantly keratotic skin lesions, ranging from 0.1 cm to 1.0 cm and 0.6 to 0.2 cm. The largest lesion is located at 12 o'clock,
+1.7 cm from the nearest 12 o'clock margins. One of the smaller lesions appears to be transected at the 5 o'clock margin. The
+specimen is inked as follows: superoanterior - blue, inferoanterior - green, posterior - black. The posterior margin is intact. The
+specimen is serially sectioned to reveal a 1.6 x 1.2 x 1.2 cm tan-white, ovoid, lobulated, indurated mass located retroareolar, 6 cm
+from the deep margin and 3 cm from the overlying skin. Sectioning of the mass reveals a clip. Anterior to the mass is some dense
+fibrosis, displaying possible comedonecrosis. Sectioning of the remaining fibrous tissue reveals a 1.2 x 1.0 x 0.6 cm rubbery, but
+stellate area of fibrosis at 1-2 o'clock, 11 cm from the nipple. Sectioning of this area reveals a clip. The clip is located 3 cm from
+the deep margin, and 6.5 cm from the overlying skin. No definitive gross tumor is associated with this clip. The remaining breast
+parenchyma consists of approximately 90% yellow, lobulated adipose tissue, and 10% scattered white, rubbery fibrous tissue. A
+small portion of tumor and normal are submitted for TCGA studies. Representative sections are submitted as follows:
+5A: nipple
+5B-5D: mass with clip, no margin
+5E-5G: representative fibrous tissue anterior to mass, no margin
+representative deep margin to mass
+5H:
+51-5K:
+stellate area of fibrosis with clip
+5L:
+posterior margin and anterior skin to stellate area of fibrosis with clip
+5M-50: representative fibrous tissue at 12-1 o'clock
+5P:
+representative upper inner quadrant
+5Q:
+representative lower inner quadrant
+5R:
+representative lower outer quadrant
+5S:
+representative upper outer quadrant
+5T:
+5U:
+representative margin in second largest skin lesion
+representative medium five skin lesions
+5V:
+representative smaller skin lesions
+Time in formalin: 1 p.m, submitted same day
+Page 2 of 3
+Intraoperative Consult Diagnosis
+1A
+2A
+SMEAR)
+3A
+Surgical Pathology Report
+THREE NEGATIVE LYMPH NODES (BY GROSS).
+FOUR LYMPH NODES IDENTIFIED; THREE NEGATIVE (BY GROSS); ONE NEGATIVE (BY GROSS AND
+ONE NEGATIVE LYMPH NODE (BY GROSS AND SMEAR).
+END OF REPORT
+Criteria
+w 12/20/13
+Yes
+No
+7
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer Initials
+COLALISED DISQUALIFIED
+Date Reviewed: 4/2013

@@ -1,0 +1,64 @@
+Patient: XXX
+UUID:9B227A4E-6237-4C95-B640-E64AFF0CC5F4
+TCGA-D8-A73X-01A-PR
+Redacted
+Carcinoniae, tubedar Nos 8211/3
+CCE
+34
+Site: Breast NOS C50.9
+path Breast, central portion (50.1
+2010/15/13
+Age:
+Gender: F
+Unit in charge:
+Physician in charge:
+Clinical diagnosis (suspicion) Cancer of the left breast
+Date of admission:
+Material:
+1) Material: left breast; method of collection: Total organ resection
+Supplement result;
+Complementary macroscopic description:
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+hu 10/1/13/ V..
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Sua, Sychronous Prir.as noted
+Case (rcle):
+Review initials
+QUALIFIED
+DISQUALIFIED
+ewed:
+Examination performed on:
+Tumour sized 2.3 x 1.7 x 1.3cm on the boundary of upper quadrants (located centrally over the nipple, placed 2.5cm
+from the lower boundary, 0 cm from the base and 0.8cm from the skin.
+Assistant:
+Histopathological diagnosis:
+Pathologist:
+Edited by
+Examination performed on:
+Invasive tubular carcinoma of the breast. (NHG1; pT2; pNO(sn). (8211/3 T 04030)*
+* codes according to ICD-O-3 or SNOMED
+Macroscopic description:
+Left breast, sized 18 x 14 x 1.5cm, removed without with a skin flap of 13 x 4.5cm. Weight 220 g. Tumour on the
+boundary of the upper quadrants (centrally over the nipple).
+Microscopic description:
+Invasive tubular carcinoma - NHG1 (1+1+1:0 mitoses/10 HPF - visual area: 0.60mm). Glandular tissue, outside the
+tumour, showing lesions of the fibrocystic type and fibroadenoma of 0.5 cm in diameter.
+Assistant:
+Pathologist:
+Results of intraoperative examination:
+Edited by
+Examination performed on:
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 75% of neoplastic cell nuclei.
+HER2 protein stained with
+HER-2/neu (4B5). HER-2/neu (4B5) Rabbit Monoclonal Antibody
+Negative reaction in invasive cancerous cells (Score = 1+)
+The expression of proliferating nuclear antigen Ki 67 in 10 % cellular nuclei.
+Pathologist:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+Assistant:
+Edited by

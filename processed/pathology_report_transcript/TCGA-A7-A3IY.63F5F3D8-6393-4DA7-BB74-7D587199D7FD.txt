@@ -1,0 +1,101 @@
+UUID:63F5F3D8-6393-4DA7-BB74-7D587199D7FD
+TCGA-A7-A3IY-01A-PR
+Redacted
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Breast, right, excisional biopsy: Invasive mucinous carcinoma,
+Nottingham grade 1
+Note: The inked margins are negative for malignancy. Carcinoma is
+focally 0.3 mm from the superior margin.
+B. Breast, right, new lateral margin, biopsy: Fibrocystic changes.
+Negative for malignancy.
+C. Sentinel lymph node, biopsy: A single lymph node is negative for
+malignancy.
+Microscopic Description:
+A.
+Invasive carcinoma:
+Carcinoma, invasive Mucinous 848013
+Histologic type: Mucinous carcinoma
+Nottingham grade: 1
+Site
+Architectural score: 1
+Nuclear score:
+1-2
+ICD-0-3
+breast, Nos
+050.7
+لسل
+12/8/11
+Mitotic score: 1
+Mitotic index: 1 mitoses/ 10 HPFs (1 HPF = 1.96 sq. mm)
+Tumor size: 1.3 cm
+Specimen margins: Negative for malignancy. Carcinoma is focally.
+0.3 mm from the yellow (superior) inked margin in block
+A1.
+Vessel invasion: Absent
+Calcification: Absent
+Non-tumorous breast: Fibrocystic changes including apocrine
+TNM stage: Tlc
+metaplasia, cyst formation, intraductal epithelial
+hyperplasia without atypia, columnar metaplasia, benign
+calcification and intraductal papilloma.
+Prognostic markers: See previous biopsy
+B. sections of the right breast lateral margin specimens show focally
+florid intraductal epithelial hyperplasia without atypia and other mild
+fibrocystic changes. The specimen is negative for malignancy.
+C. A single lymph node is negative for malignancy.
+[At the request of some staff oncologists and in keeping with the
+opinion of some experts in breast pathology, immunohistochemical stains
+for keratin were not used on the sentinel lymph node sections in this
+case. These stains can be obtained if desired. Our paraffin blocks
+are retained for 10 years. (Weaver DL et al. New Engl J Med 364:412,
+2011. Schwartz GF et al. Cancer 94(10):2542, 2002)].
+Specimen
+A. Right breast tissue long lateral short superior
+B. Right breast lateral margin
+C. Sentinel lymph node
+Clinical Information
+Mucinous carcinoma
+Gross Description
+The specimen is received unfixed in a Transpec container labeled right
+breast tissue long lateral short superior it consists of a yellow piece
+of soft tissue measuring 6.3 by 4.6 cm. The external surface the
+specimen is inked as indicated below.
+Anterior: Red
+Posterior: Orange
+Lateral: Blue
+Medial: Green
+Superior: Yellow
+Inferior:
+Black
+There is a palpable mass in the specimen measuring 1.5 cm in diameter
+the external palpation on cut section the mass 1.3 cm in diameter and
+has a mucoid appearance. A portion of the tumor is taken for research
+purposes. Sections after fixation. RS8
+Received unfixed labeled right breast new lateral margin short anterior
+long lateral is a piece of yellow and red soft tissue measuring 6.2 x
+2.5 x 1 cm. The external surface the specimen is exhibited below.
+Anterior: Red
+Posterior: Orange
+Lateral: Blue
+Medial: Green
+Superior: Yellow
+Inferior: Black
+Sections after fixation. RS7
+Specimen C. is received in formalin labeled central lymph node and
+consists of a piece of yellow soft tissue measuring 3 x 2.5 x 0.6 cm.
+AS-2
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous mary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+DISQUALIFIED
+Date Reviewed: A
+to 12/8/11

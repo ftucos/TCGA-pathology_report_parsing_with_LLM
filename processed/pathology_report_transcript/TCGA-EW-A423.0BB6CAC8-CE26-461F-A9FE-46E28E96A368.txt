@@ -1,0 +1,200 @@
+Name:
+XXXX
+Gender:
+MRN:
+F
+XXX
+Location: XXX
+UUID:0BB6CAC8-CE26-461F-A9FE-46E28E96A368
+TCGA-EW-A423-01A-PR
+Redacted Laboratory
+Case #:
+XXXX
+Collected: XX
+Received: XX
+Reported:
+Copy To:
+XX
+Physician: XXX
+Pathologic Interpretation:
+A. LEFT BREAST NEEDLE LOCALIZATION LUMPECTOMY:
+cm.
+INVASIVE LOBULAR CARCINOMA with pleomorphic features, Nottingham grade 2 (3+2+2=7), measuring 2
+PLEOMORPHIC LOBULAR CARCINOMA IN SITU is present.
+Prior biopsy site present.
+The invasive carcinoma is 0.1 cm from inferior and lateral margins (green, orange).
+B. HOT SPOT #1, AXILLA I, CT-xxx:
+One lymph node, negative for carcinoma (0/1).
+C. HOT SPOT #1, AXILLA ICT -xxx:
+One lymph node, negative for carcinoma (0/1).
+ICD-03
+Carcinoma, infiltrating, lobular, Nos
+Site: breast, NOS
+Note: Receptor studies and keratin stains to follow. See Tumor Summary.
+Surgical Pathology Cancer Case Summary
+Procedure: Excision with wire-guided localization
+Lymph Node Sampling: Sentinel lymph nodes
+Specimen Integrity: Single intact specimen (margins can be evaluated)
+Specimen Size (for excisions less than total mastectomy):
+Greatest dimension: 5 cm
+Additional dimensions: 4.5 x 3.5 cm
+Specimen Laterality: Left
+Tumor Size: Size of Largest Invasive Carcinoma:
+Greatest dimension of largest focus of invasion: 2 cm
+Tumor Focality: Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor:
+Skin: Skin is not present
+Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ (DCIS): No DCIS is present
+Lobular Carcinoma in Situ (LCIS): Present (pleomorphic type)
+Histologic Type of Invasive Carcinoma: Invasive lobular carcinoma (pleomorphic type)
+Histologic Grade: Nottingham Histologic Score:
+Glandular (Acinar)/Tubular Differentiation
+Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism
+050.9
+852013
+7-24-12 20
+Score 2: Cells larger than normal with open vesicular nuclei, visible nucleoli, and moderate
+variability in both size and shape
+Mitotic Count: Score 2
+Overall Grade: Grade 2
+Margins:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1 mm
+Distance from superior margin: > 5 mm
+Distance from inferior margin: 1 mm
+Distance from anterior margin: > 5 mm
+Distance from posterior margin: > 5 mm
+Distance from medial margin: 4 mm
+Distance from lateral margin: 1 mm
+Treatment Effect: Response to Presurgical (Neoadjuvant) Therapy:
+In the Breast: No known presurgical therapy
+Lymph-Vascular Invasion: Not identified
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 2
+Total number of lymph nodes examined (sentinel and nonsentinel): 2
+Number of lymph nodes with macrometastases (> 0.2 cm): 0
+Number of lymph nodes with micrometastases (> 0.2 mm to 0.2 cm and/or > 200 cells): 0
+Number of lymph nodes with isolated tumor cells (≤ 0.2 mm and ≤ 200 cells): 0
+Method of Evaluation of Sentinel Lymph Nodes:
+Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM):
+Primary Tumor (PT):
+pT2: Tumor > 20 mm but ≤ 50 mm in greatest dimension.
+Regional Lymph Nodes (pN):
+pNO: No regional lymph node metastasis identified histologically
+Distant Metastasis (PM):
+Not applicable
+Ancillary Studies (performed on another specimen: xxxx):
+Estrogen Receptor: POSITIVE (> 50%)
+Progesterone Receptor: NEGATIVE (less than 1% immunoreactive cells present)
+HER2/neu Immunoperoxidase Studies: NEGATIVE (CISH: NOT AMPLIFIED)
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRS are clinically
+useful indicators that do not require FDA approval. These clones are used: ID5-ER, PgR 636-PR, A485-HER2, H-11=EGFR, CCH2/DDG9-CMV, F39.4.1=AR and HPV by
+ISH. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive
+or negative.
+XXX
+Procedures/Addenda
+Addendum
+Addendum Diagnosis
+Date Ordered: XX
+Status: Signed Out
+Date Complete: xx
+Date Reported: xx
+A. LEFT BREAST NEEDLE LOCALIZATION LUMPECTOMY:
+Immunohistochemical studies were performed on formalin fixed tissue with the following results for [invasive
+carcinoma/DCIS/metastatic carcinoma] (block xxX):
+Estrogen receptor
+ID5
+Progesterone receptor
+PgR 636
+HER-2/neu (c-erb-B2)
+B. HOT SPOT #1, AXILLA I, CT-xx:
+POSITIVE (>90%)
+POSITIVE (1-10%)
+NEGATIVE O
+Immunohistochemical studies were performed on formalin fixed tissue with the following results for metastatic
+carcinoma (block B):
+Keratin: NEGATIVE (see note).
+Note: A single cell that appears to be keratin positive is present in the subcapsular space. However, the nuclear size
+and morphology of this cell is different than the primary tumor cells. Selected slides were reviewed with Dr. XX and
+concurs with the diagnosis.
+C. HOT SPOT #1, AXILLA ICT-xx:
+Immunohistochemical studies were performed on formalin fixed tissue with the following results for metastatic
+carcinoma (C):
+Keratin: NEGATIVE.
+Interpretation Guidelines: For hormone receptor immunohistochemical analysis, the percent of immunoreactive
+nuclei in the invasive or in-situ carcinoma is assessed manually by light microscopic examination and reported as
+follows:
+Positive: greater than or equal to 1 percent of nuclei immunoreactive
+Negative: less than 1 percent of nuclei immunoreactive
+Non-neoplastic mammary epithelial cells are immunoreactive for estrogen and progesterone receptors (internal
+control).
+For HER2/neu immunohistochemical analysis, the cell membrane staining is assessed manually by light microscopic
+examination. Cytoplasmic immunoreactivity alone is scored as a negative result.
+Reference #1: XX
+Reference #2: XX
+Clinical History:
+Infiltrating lobular cancer in left breast. Please evaluate margins of lumpectomy. If sentinel nodes are negative, do
+immunohistochemistry.
+Specimen(s) Received/Processing Information:
+A: Left breast lumpectomy, 1 suture superficial margin, 2 suture medial, 3 suture
+inferior H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1,
+H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, Estrogen Receptor (ER) x 1,
+Fee Codes:
+Progesterone Receptor x 1, CERbB2, HER2/neu x 1
+B: Hot spot #1, axilla I, CT-356 H&E, Initial x 1, unstained x 1, unstained x 1, unstained x
+1, unstained x 1, Desmin 33 x 1
+C: Hot spot #1, axilla | CT -473 H&E, Initial × 1, unstained x 1, unstained x 1, unstained x
+1, unstained x 1, Cytokeratin Cocktail (KER) ×1
+Gross Description:
+A.
+Received fresh and labeled "Left breast lumpectomy" is a yellow-tan irregular-shaped lumpectomy,
+measuring 5.0 x 4.5 x 3.5 cm and weighing 35.0 grams. The specimen is inked as follows: superior margin
+inked blue, inferior margin inked green, medial margin inked red, lateral margin inked orange,
+anterior/superficial margin inked yellow and deep margin inked black. Sections reveal an ill-defined area with
+firm to hard consistency, 2.0 x 2.0 x 1.5 cm. This area is located toward the medial to posterior resection
+margin at 0.2 to 0.3 cm from the deep resection margin (nearest), 0.3 cm from the inferior resection margin,
+3.0 cm from lateral resection margin, 2.0 cm from the superior resection margin, 1.0 cm from the superficial
+resection margin. The remainder of the specimen is homogeneous, yellow-tan, grossly unremarkable
+adipose tissue. No other suspicious lesions are present. The specimen is submitted in nine cassettes, as
+follows:
+Tissue with clip in toto
+Perpendicular section superior margin
+Perpendicular section inferior margin
+Perpendicular section medial margin
+Cassette #1-3:
+Cassette #4:
+Cassette #5:
+Cassette #6:
+Cassette #7:
+Cassette #8:
+Cassette #9:
+Perpendicular section lateral margin
+Perpendicular section superficial margin
+Perpendicular section deep margin
+B.
+Received in formalin and labeled "Hot spot #1, axilla I, ct xx" is a yellow-tan irregular-shaped soft tissue
+fragment, 3.5 x 3.0 x 1.0 cm. Sections reveal one lymph node, 1.5 x 1.0 x 1.0 cm. The lymph node is bisected and
+submitted in toto in one cassette.
+C.
+Received in formalin and labeled "Hot spot #1, axilla I, ct xx" is a yellow-tan irregular-shaped soft tissue
+fragment, 2.8 x 2.0 x 1.0 cm. Sections reveal one lymph node, 1.5 x 1.0 x 1.0 cm. the lymph node is bisected and
+submitted in toto in one cassette.
+XXX
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/SynchronquNuted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+Nu
+Date Reviewed:
+SQUALATE
+11/4/2

@@ -1,0 +1,110 @@
+UUID:C3243207-2190-4435-9AA9-39E3B913E316
+TCGA-GM-A2DH-01A-PR
+DIAGNOSIS
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Cual/Synchronous Priniary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+ME
+Date Reviewe 1:
+DISQUALIFIED
+$519-11
+EPORT - REVIEW ADDENDUM SECTION *******
+(A) RIGHT AXILLARY SENTINEL LYMPH NODE #1, BIOPSY:
+SINGLE KERATIN-POSITIVE CELL SUSPICIOUS FOR ISOLATED TUMOR CELL IN ONE LYMPH NODE. (SEE
+COMMENT)
+(B) RIGHT AXILLARY SENTINEL LYMPH NODE #2, BIOPSY:
+One lymph node, no tumor present (0/1).
+(C) RIGHT BREAST, TOTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA WITH ASSOCIATED MILD LYMPHOCYTIC INFILTRATE, HIGH NUCLEAR GRADE,
+NOTTINGHAM HISTOLOGIC GRADE 3. (SEE COMMENT)
+INVASIVE TUMOR IS LOCATED IN THE UPPER OUTER QUADRANT AND MEASURES 1.5 CM IN GREATEST
+DIMENSION.
+FEW ADJACENT DUCTS WITH DUCTAL CARCINOMA IN SITU (DCIS), HIGH NUCLEAR GRADE, SOLID AND
+CRIBRIFORM TYPES WITH FOCAL COMEDONECROSIS, ASSOCIATED MICROCALCIFICATIONS, AND
+CANCERIZATION OF LOBULES.
+Columnar cell hyperplasia with associated calcifications also adjacent to tumor.
+SINGE FOCUS OF INTRALYMPHATIC TUMOR. (SEE COMMENT)
+Tumor does not approach surgical margins.
+Remaining breast tissue with mild fibrocystic change.
+Entire report and diagnosis completed by
+COMMENT
+No tumor cells are identified on the H&E stains of the sentinel lymph nodes. Immunostains for keratin were performed on each
+for the sentinel nodes (A1-A2, B1-B2), and a single keratin-positive cell suspicious for an isolated tumor cell is present on one of
+the keratin stains from sentinel node #1 (A2).
+A single cluster of tumor cells is noted within a dilated lymphatic channel next to the tumor. Because the channel is quite
+dilated and only a single focus is identified, it is unclear whether this represents true peritumoral lymphovascular invasion or
+displacement artifact.
+1. Because only 5%
+Tumor marker studies including FISH for HER2 gene copy level were reported previously (see
+staining for estrogen receptor was reported, hormone receptor staining will be repeated on this specimen and reported in an
+addendum.
+GROSS DESCRIPTION
+ICD-0-3
+carcinoma, ductal, infiltrating
+Site: breast, Nos
+850013
+46.12 RD
+C50.9
+(A) RIGHT AXILLARY SENTINEL LYMPH NODE #1, IN VIVO 195, EX VIVO 181 - A 1.5 x 1.0 x 0.6 cm possible lymph node,
+serially sectioned and submitted entirely for frozen section in A1, A2.
+*FS/DX: NO TUMOR IDENTIFIED.
+(B) RIGHT AXILLARY SENTINEL LYMPH NODE #2, IN VIVO 40, EX VIVO 28 - A 1.6 x 1.5 x 0.9 cm possible lymph node,
+serially sectioned and submitted entirely in B1, B2.
+*FS/DX: NO TUMOR IDENTIFIED.
+RIGHT TOTAL MASTECTOMY - A right total mastectomy specimen (22.0 x 16.0 x 4.5 cm) with attached skin ellipse (10.0 x
+5.2 x 0.5 cm). The skin ellipse contains an unremarkable nipple (1.0 cm). The specimen is sectioned from lateral to medial into
+ten slices with the nipple in slices 7 and 8.
+An irregular (1.5 x 1.5 x 1.2 cm) solid white, gritty mass is identified in slice 6, located 2.5 cm from the deep margin, 5.2
+cm from the inferior margin, 5.5 cm from the superior margin, 5.5 cm from the skin, 6.5 cm from the lateral margin, and 6.0 cm
+6 m the medial margin. The rest of the breast parenchyma is grossly unremarkable.
+INK CODE: Blue - superior; orange - inferior; black - deep.
+SECTION CODE: C1, superior margin; C2, inferior margin; C3, deep margin; C4, medial margin; C5, lateral margin; C6,
+skin closest to tumor; C7, base of nipple; C8, cross sections of tip of nipple; C9 and C10, tumor; C11, breast tissue deep to tumor;
+C12, breast tissue medial to tumor; C13, breast tissue lateral to tumor; C14, breast tissue inferior to tumor; C15, breast tissue
+superior to tumor; C16, C17, representative sections from upper outer quadrant; C18, C19, representative sections of lower outer
+quadrant; C20, C21, representative sections of upper inner quadrant; C22, C23, representative sections of lower inner quadrant;
+C24, breast tissue anterior to tumor.
+CLINICAL HISTORY
+Carcinoma of right breast.
+SNOMED CODES
+T-04050, M-85002, M-85003, T-C4714, M-85017
+"Some tests reported here may have been developed and performance characteristics determined by
+These tests have not been specifically cleared or approved by the U.S. Food and Drug Administration."
+Released by:
+ADDENDUM
+Addendum completed by
+Start of ADDENDUM
+This report is issued to give immunohistochemistry results.
+Immunohistochemical staining is performed on a representative formalin-fixed, paraffin-embedded section of INVASIVE DUCTAL
+CARCINOMA, right breast, block C9.
+MARKER
+RESULTS
+% POSITIVE
+Estrogen Receptor
+Low Positive (1-9%)
+5 %
+Progesterone Receptor
+Negative
+0 %
+Ki-67
+High (>35%)
+approx. 50 %
+COMMENT
+See
+2 for HER2 immunostaining and FISH results.
+FOOTNOTE
+Estrogen receptor was assessed by immunohistochemistry using antibody 6F11
+Progesterone receptor was assessed by immunohistochemistry using antibody PgR1294
+Ki-67 was assessed by immunohistochemistry using antibody MIB1
+Released by:
+•. --
+-END OF REPORT------

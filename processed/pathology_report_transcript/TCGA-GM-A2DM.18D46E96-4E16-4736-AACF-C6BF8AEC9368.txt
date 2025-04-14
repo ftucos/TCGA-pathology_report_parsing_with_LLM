@@ -1,0 +1,127 @@
+DIAGNOSIS
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NUS
+050.9
+(A) SENTINEL LYMPH NODE #1, RIGHT AXILLA, BIOPSY:
+One benign lymph node (0/1).
+w
+5/24/11
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(B) SENTINEL LYMPH NODE #2, RIGHT AXILLA, BIOPSY:
+One benign lymph node (0/1).
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(C) RIGHT BREAST, SEGMENTAL MASTECTOMY:
+Criteria
+for 5/24/11
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+Dual/Synchronous Primary Hoted
+Casa is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed
+DISQUALIFIED
+№ 5-2011
+INVASIVE DUCTAL CARCINOMA OF BREAST, WITH SOLID PAPILLARY GROWTH PATTERN, MODIFIED
+BLACK'S NUCLEAR GRADE 1 (WELL DIFFERENTIATED).
+INVASIVE CARCINOMA MEASURES 2.7 CM IN GREATEST DIMENSION.
+Lymphatic/vascular invasion not identified.
+INTRADUCTAL CARCINOMA (DCIS), MODIFIED BLACK'S NUCLEAR GRADE 1 (LOW GRADE), CRIBRIFORM
+AND PAPILLARY TYPES, WITHOUT NECROSIS.
+INTRADUCTAL CARCINOMA (DCIS) PRESENT ADMIXED WITH AND ADJACENT TO THE INVASIVE
+COMPONENT, COMPRISING APPROXIMATELY 5% OF THE TUMOR.
+Surgical margins are free of tumor.
+INVASIVE CARCINOMA IS 1 MM TO THE CLOSEST ANTERIOR (SUPERFICIAL) MARGIN, 5 MM TO
+THE CLOSEST POSTERIOR (DEEP) MARGIN.
+INTRADUCTAL CARCINOMA (DCIS) IS 2 MM TO THE CLOSEST ANTERIOR (SUPERFICIAL) MARGIN.
+Biopsy site changes.
+Focal fibrocystic change.
+(D) ADDITIONAL SUPERIOR MARGIN AND LESION AT 9 O'CLOCK, EN BLOC EXCISION:
+Benign breast parenchyma, no evidence of malignancy.
+A small capillary hemangioma.
+Fibrocystic changes including focal ductal hyperplasia with and without atypia, columnar cell alteration, apocrine
+metaplasia, fibroadenomatoid change, cyst formation and pseudoangiomatoid stromal fibrosis.
+Microcalcifications are present in benign ducts.
+(E) SUPERFICIAL INFERIOR MARGIN, EXCISION:
+Benign breast parenchyma, no evidence of malignancy.
+Fibrocystic changes including focal florid ductal hyperplasia without atypia, columnar cell hyperplasia, apocrine
+metaplasia and cyst formation.
+(F) ADDITIONAL DEEP MARGIN, EXCISION:
+Benign breast parenchyma, no evidence of malignancy.
+ADDITIONAL MEDIAL MARGIN, EXCISION:
+Benign breast parenchyma, no evidence of malignancy.
+(H) ADDITIONAL SUPERFICIAL MEDIAL MARGIN,, EXCISION:
+Benign breast parenchyma, no evidence of malignancy.
+UUID:18D46E96-4E16-4736-AACF-C6BF8AEC9368
+TCGA-GM-A2DM-01A-PR
+Redacted
+(I) ADDITIONAL SUPERFICIAL LATERAL MARGIN, EXCISION:
+Benign breast parenchyma, no evidence of malignancy.
+(J) ADDITIONAL SUPERFICIAL INFERIOR MARGIN, EXCISION:
+Benign breast parenchyma with focal minimal atypical ductal hyperplasia.
+Entire report and diagnosis completed by '
+COMMENT
+Please see
+GROSS DESCRIPTION
+for the results of prognostic markers.
+(A) RIGHT AXILLARY SENTINEL LYMPH NODE #1, BLUE, COUNT 8 - A single ovoid, pink-tan lymph node (2.0 x 1.0 × 1.0 cm)
+is serially sectioned and touch preps made (touch preps 1-4) and entirely submitted in cassettes A1 and A2.
+*TP/DX: NO TUMOR PRESENT.
+(B) RIGHT AXILLARY SENTINEL LYMPH NODE #2, BLUE, COUNT 153 - A portion of yellow fibroadipose tissue (4.0 x 2.0 x 1.0
+cm) contains a single fatty, gray to white lymph node (2.8 x 1.8 x 0.8 cm). The lymph node contains a 0.4 cm white nodule. The
+specimen is serially sectioned, touch preps 1-4 made and a frozen section done, submitted entirely in cassettes B2 and B3.
+*FS/DX: NO TUMOR PRESENT.
+(C) RIGHT SEGMENTAL MASTECTOMY, SHORT DOUBLE STITCH SUPERIOR, LONG DOUBLE STITCH LATERAL, LONG
+SINGLE STITCH DEEP - A right segmental mastectomy specimen, oriented by the surgeon, 7.8 x 6.0 x 1.5 cm. The specimen
+was sectioned from superior to inferior in eight slices. Within the center of the specimen is a 2.7 x 2.5 x 1.7 cm well-circumscribed
+pink-tan friable mass, located at the anterior margin, 1.3 cm from the lateral, 2.2 cm from the medial margin and 2.0 cm from the
+deep margin.
+There is a 0.5 x 0.4 x 0.4 cm nodular firm area in slice #6, possibly representing previous biopsy site, 0.3 cm from the
+medial margin and 1.0 cm from the superficial margin. The breast tissue surrounding the mass is composed of greater than 90%
+yellow adipose tissue. No additional masses are identified.
+INK CODE: Blue - superior, green - inferior, yellow - anterior, black - deep, red - medial, orange - lateral.
+SECTION CODE: C1, slice #4, lateral; C2, slice 4, lateral; C3, slice 4, tumor and anterior margin; C4, slice 4, deep
+margin; C5, slice 4, medial margin; C6, slice 5, lateral margin; C7, slice 5, tumor and anterior margin; C8, slice 5, tumor and deep
+margin; C9, slice 5, anterior; C10, slice 5, deep margin; C11, slice 6, tumor and medial margin; C12, slice 7, tumor and anterior
+margin; C13, slice 7, medial/anterior margin; C14, slice 8, inferior margin; C15, slice 1, superior margin; C16, slice 3,
+representative uninvolved breast tissue; C17, slice 6, 0.5 cm nodule with anterior/medial margin.
+(D) EN BLOC EXCISION, ADDITIONAL SUPERIOR MARGIN AND LESION AT 9 O'CLOCK (STITCH SUPERIOR MARGIN) - A
+tan-yellow fibrofatty irregular soft tissue fragment( 7.0 x 5.5 x 2.0 cm) with a suture at an edge of the specimen. The specimen is
+arbitrarily oriented in the form of a clock with suture designated as 12 o'clock. The face of the clock has a fibrotic area (3.0 x 2.0
+cm). The back of the clock is predominantly fatty. The specimen is serially sectioned from 3 to 9 o'clock. The fibrotic area seen
+on the face of the clock extends to the 12 o'clock edge and measures 4.0 x 3.5 x 0.8 cm. The remainder of the specimen shows
+fatty tissue.
+INK CODE: Green - 9 to 3 o'clock edge. Black - 3 to 9 o'clock edge. Yellow - face of the clock. Blue - back of the clock.
+SECTION CODE: D1-D39, specimen entirely submitted from 3 to 9 o'clock.
+(E) SUPERFICIAL INFERIOR MARGIN, STITCH TRUE MARGIN - A tan-yellow fatty fragment (5.0 x 4.0 x 1.7 cm) with a stitch
+on one side. A 1.0 cm white firm area is present abutting the inked margin with central fat necrosis and a 0.4 cm cyst.
+INK CODE: Black - true margin.
+SECTION CODE: Specimen is entirely submitted in E1 to E14.
+(F) ADDITIONAL DEEP MARGIN, STITCH AT TRUE MARGIN - A tan-yellow specimen (3.5 x 2.4 x 1.8 cm) with a stitch on one
+side. The side with the stitch is inked black. The specimen is entirely submitted in F1 to F7.
+(G) ADDITIONAL MEDIAL MARGIN, STITCH = TRUE MARGIN - A tan-yellow fatty specimen (4.5 x 2.5 x 1.7 cm) with stitch on
+one side. The side with the stitch is inked black. The specimen is entirely submitted in C1-C8.
+(H) ADDITIONAL SUPERFICIAL MEDIAL MARGIN, STITCH = TRUE MARGIN - A tan-yellow fatty tissue specimen (3.5 x 2.5 x
+2.0 cm) with a stitch on one side. An irregular fragment fibrotic area is present in the specimen focally abutting the inked true
+margin.
+INK CODE: Black - true margin.
+SECTION CODE: Specimen is entirely submitted in H1-H8.
+(1) ADDITIONAL SUPERFICIAL LATERAL MARGIN - A tan-yellow fatty tissue specimen (2.9 x 1.5 x 0.9 cm) with suture on one
+side. The suture side is inked black. The specimen is entirely submitted in 11-13.
+(J) ADDITIONAL SUPERFICIAL INFERIOR MARGIN, STITCH = TRUE MARGIN - A tan-yellow fatty tissue specimen with focal
+fibrosis (3.0 x 3.0 x 1.0 cm) with a stitch on one side. The side with the stitch is inked black. The specimen is entirely submitted in
+J1-J5.
+CLINICAL HISTORY
+None given.
+SNOMED CODES
+T-04050, M-85003, M-85002
+"Some tests reported here may have been developed and performance characteristics determined by
+specifically cleared or approved by the U.S. Food and Drug Administration."
+Released by:
+--END OF REPORT-----
+These tests have not been

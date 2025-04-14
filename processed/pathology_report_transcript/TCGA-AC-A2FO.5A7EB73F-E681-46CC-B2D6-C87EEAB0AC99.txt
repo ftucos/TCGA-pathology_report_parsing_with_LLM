@@ -1,0 +1,184 @@
+Collected:
+Received:
+Reported:
+UUID:5A7EB73F-E681-46CC-B2D6-C87EEAB0AC99
+TCGA-AC-A2F0-01A-PR
+SPECIMEN INFORMATION
+Accession #:
+Acct/Reg#
+SURGICAL PATHOLOGY REPORT
+*** ADDENDUM REPORT ***
+Redacted
+ADDENDUM REPORT NUMBER TWO
+BREAST PROGNOSTIC PANEL: Block B2
+TEST
+RESULT
+Criteria
+Yes
+REFERENCE RANGES
+Diagnosis Discrepancy
+DNA Analysis by Image:*
+DNA Index:
+1.1 (DIPLOID)
+0.9-1.1 Is Diploid
+<0.9 or > 1.1 is Aneuploid
+Her2 Gene Amplification By FISH:
+UNABLE TO BE DETERMINED
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+km t
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+KM / 6/10/11 6/3/11
+Average copies per cell:
+Her-2/neu:
+Chromosome 17:
+Ratio:
+> 2.0 Her2/neu
+COMMENT: This specimen falled to hybridize successfully with probes specific to Her2/neu gene and chromosome 17 alpha satellite
+sequences. Non formalin and ethanol 
+based fixatives as well as age and storage conditions of the specimen may contribute to unsuccessful
+FISH analysis. Repeat studies are recommended if 
+additional tissue becomes available from subsequent specimens.
+Case interpreted by
+Notes:
+•
+*Quantitative analysis performed using Chromavision ACIS.
+The Her2/neu and CEP17 probes are manufactured by ་
+The Her2/neu gene detection by Fluorescence In Situ Hybridization (FISH) was performed using the LSI Her2/neu DNA probe, specific
+for the Her2/neu gene locus 17q11.2-q12 and the 
+CEP1 DNA probe specific for the alpha satellite DNA sequence at the centromeric
+region of chromosome 17 (17p11.1-q11.1)
+These tests were developed and performance characteristics determined by the
+been cleared or approved by the US Food and Drug Administration. The FDA has determined that such approval or clearance is not
+They have not
+necessary. These tests are used for clinical 
+purposes. They should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical 
+Laboratory Improvement Act (CLIA) of 1988 as qualified to perform high complexity clinical
+laboratory testing.
+Addendum Report Issued By:
+ADDENDUM REPORT NUMBER ONE
+BREAST PROGNOSTIC PANEL: (Preliminary test results on block B2.)
+TEST
+Estrogen Receptor:
+Progesterone Receptor:
+RESULT
+Positive (95%)
+Negative (0%)
+KI-67 (MIB1) Proliferation Marker:
+Low (<10%)
+ICD-0-3
+carcinoma, infiltrating
+Tobuler, Nos 8520/3
+REFERENCE RANGES
+> 4% is Positive
+2-4% Is Borderline
+<2% is Negative
+> 4% is Positive
+2-4% is Borderline
+< 2% is Negative
+> 20% Is High
+10-20% is Borderline
+<10% Is Low
+Site: breast, Nos C50.9
+for 1/10/11
+These results were interpreted by
+are completed.
+An additional addendum report will follow when DNA and Her-2-neu tests
+These tests were developed and performance characteristics determined by
+They have not been cleared or approved by
+the US Food and Drug Administration. The FDA has determined that such approval or clearance is not necessary. These tests are used for
+clinical purposes. They should not be regarded as investigational or for research. This laboratory is certified under the Clinical Laboratory
+Improvement Act (CLIA) of 1988 as qualified to perform high complexity clinical laboratory testing
+Addendum Report Issued By:
+DIAGNOSIS
+DIAGNOSIS:
+A,B,C: Left mastectomy with left sentinel lymph node and additional lymph node for diagnosis of breast carcinoma:
+"Tumor Characteristics:
+1. Histologic type:" Infiltrating lobular carcinoma.”
+2. Size: 2.5 x 2 x 1.8 cm.
+3. Elston modification of Bloom-Richardson grade:
+a. Architectural Score:3/3.
+b. Nuclear Score: 2/3.
+C. Mitotic Score: 1/3.
+d. Total score: 6/9 = Grade: II.
+4. In-situ component: Present.
+e. Amount: Less then 25%.
+f. Histologic type: Lobular carcinoma in situ.
+g. Architectural type: Solid.
+h. Nuclear grade: II.
+i.
+Comedo necrosis: Absent.
+5. Margin status for in situ carcinoma: Not transected.
+6. Lymphovascular space Invasion: No.
+7. Skin Involvement: No.
+8. Are microcalcifications identified in association with tumor: No.
+Surgical Margin Status:
+1. Is tumor transected: No.
+2. Tumor distance to closest margin: 1.5 cm deep margin.
+Lymph Node Status:
+1. Total number of lymph nodes examined: Ten.
+1
+2. Total number of lymph nodes containing metastatic carcinoma by gross exam or light microscopy: Sentinel, 1/2; Level I and II, 1/8.
+3. Size of largest metastasis: 9 mm.
+4. Extra-capsular extension of tumor: No.
+Other:
+1. Other significant findings: Fibrocystic change with epithelial hyperplasia and benign calcifications.
+2. Block prognostic Indicators will be obtained on paraffin block B2.
+3. Correlation statement with intra-op consult or frozen section: Frozen section diagnosis sentinel lymph is confirmed by permanent
+section analysis.
+4. pTNM stage: T2N1MX
+5. If further warts required in the future, infiltrating carcinoma is best seen in blocks B2,3,4 and 5.
+D. Skin, lip, blopsy:
+Benign solar lentigo (pigmented actinic keratosis).
+CLINICAL HISTORY:
+Preoperative Diagnosis: Left breast cancer
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Left sentinel lymph node FS
+B. Left breast tissue
+C. Left lymph nodes
+D. Seborrheic keratosis of lip
+GROSS DESCRIPTION:
+DIAGNOSIS
+Electronic Signature:
+CLINICAL INFORMATION
+SPECIMEN DATA
+A. Container A is labeled
+r, A and consists of a tan-yellow firm fatty nodule, 2.0 x 1.0 x 1.0 cm in greatest dimension. The specimen is trisected
+and entirely submitted for frozen 
+section in one cassette labeleda
+B. Container B is labeled
+Jr, B and consists of a 255 gram portion of left breast tissue, 14.0 x 11.0x 6.0 cm with attached tan-gray ellipse of skin,
+5.0 x 4.2 cm displaying a centrally 
+located flattened nipple, 0.8 cm in 
+greatest dimension. The deep margin is inked and the specimen is sectioned to
+reveal predominately tan-yellow lobular adipose tissue intermixed with 
+moderate amounts of tan-gray dense fibrous tissue. A gray-white stellate gritty
+mass is noted in the upper outer quadrant and is 2.5 x 2.0 x 1.8 
+cm in greatest dimension. Samples of this mase have been submitted for genomic
+studies. This mass is located 2.0 cm from the skin surface and 1.5 
+cm from the deep margin. No other lesions are grossly noted. The lateral margin
+displays a gray-white minute nodule possibly representing lymph node, 
+0.2 cm. Representative sections submitted in eleven cassettes l
+as follows: nipple-1; stellate mass-2 to 5; deep margin-6; upper inner quadrant-7; upper outer-8; lower inner-9; lower outer-10; lateral
+module-
+11.
+C. Container C is labeled❤
+consists of a tan-yellow lobular mass of adipose tissue, 11.0 x 4.0 x 2.0 cm in greatest dimension. Sectioning
+reveals eight tan-yellow firm falty nodules, 
+the largest 1.5 cm. 
+Samples of these nodules submitted in four cassettes labeled
+D. Container D is labeledį
+D and consists of a tan-gray granular raised lesion, 0.5 x 0.3 x 0.2 cm. The skin surface displays a mottled dark
+brown discoloration. The specimen 
+is inked, serially sectioned and 
+entirely submitted in one cassette labeled 1(
+or.

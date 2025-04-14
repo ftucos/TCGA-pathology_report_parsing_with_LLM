@@ -1,0 +1,160 @@
+Name:
+XX
+DOB:
+Gender:
+F
+MRN:
+XXX
+Location:
+XX
+UUID:9FB40DC5-BED9-420E-B334-4D0BE8B8BCF5
+TCGA-EW-A6SD-01A-PR
+Redacted
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Physician: XXX
+Pathologic Interpretation:
+A. LEFT BREAST LUMPECTOMY:
+INVASIVE DUCTAL CARCINOMA, poorly differentiated, Nottingham grade 3 (3+3+3=9), 2.1 cm in greatest
+dimension.
+Resection margins are free of tumor; closest is inferior, 0.1 cm.
+B. LEFT AXILLARY CONTENTS:
+extension.
+METASTATIC DUCTAL CARCINOMA to two out of twenty-six lymph nodes (2/26) with extranodal
+C. ADDITIONAL LEFT AXILLARY CONTENTS LEVEL 2-3:
+No malignancy seen in five lymph nodes (0/5).
+Surgical Pathology Cancer Case Summary
+Specimen: Partial breast
+Procedure: Excision without wire-guided localization
+ICD-0-3
+Cara infiltrating duct
+Lymph Node Sampling: Axillary dissection (partial or complete dissection)
+Specimen Integrity: Single intact specimen (margins can be evaluated)
+Specimen Laterality: Left
+Tumor Size: Size of Largest Invasive Carcinoma:
+850013
+Site Guast, NOS.
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.1 cm
+Additional dimensions: 1.7 x 1.7 cm
+Tumor Focality: Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor:
+Skin: Skin is not present
+Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ (DCIS): DCIS is present
+Architectural Patterns:
+Solid
+Nuclear Grade:
+Grade III (high)
+050.9
+JAN 7/24/13
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma (no special type or not otherwise specified)
+Histologic Grade: Nottingham Histologic Score:
+Glandular (Acinar)/Tubular Differentiation
+Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and
+shape, occasionally with very large and bizarre forms
+Margins:
+Mitotic Count
+Score 3
+Grade 3
+Overall Grade
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1 mm (inferior)
+Margins uninvolved by DCIS
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 31
+Number of lymph nodes with macrometastases (> 0.2 cm): 2
+Largest metastatic deposit: 3.0cm
+Extranodal Extension: Present
+Method of Evaluation of Sentinel Lymph Nodes: Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM):
+Primary Tumor (PT):
+pT2: Tumor > 20 mm but ≤ 50 mm in greatest dimension
+Regional Lymph Nodes (pN):
+pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+Distant Metastasis (PM):
+Not applicable
+Ancillary Studies:
+Estrogen Receptor:
+Performed on another specimen:
+Results: Less than 1% immunoreactive cells present
+Progesterone Receptor:
+Performed on another specimen:
+Results: Less than 1% immunoreactive cells present
+HER2/neu Immunoperoxidase Studies:
+Performed on another specimen:
+Results: Positive (Score 3+)
+Clinical History:
+None Provided
+Operation Performed
+Left Breast Lumpectomy
+Pre Operative Diagnosis:
+Breast Cancer
+Specimen(s) Received/Processing Information:
+Codes:
+A: LEFT BREAST LUMPECTOMY H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E,
+Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1
+B: LEFT AXILLARY CONTENTS H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E,
+Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1,
+H&E, Initial x 1
+C: ADDITIONAL LEFT AXILLARY CONTENTS LEVEL 2-3 H&E, Initial x 1, H&E, Initial x 1
+Fee
+Gross Description:
+A.
+B.
+Received in formalin is a yellow tan fibrotic adipose tissue fragment weighing 86 grams and measures 8.0 x
+7.0 x 4.0 cm. The specimen is oriented with a long stitch lateral, short superior and double stitch. Inked as
+follows: Superior in Blue - deep black, anterior yellow, inferior green, lateral orange and medial red. Cross
+sections of the specimen shows a firm pale tan well circumscribed mass measuring 2.1 x 1.7 x 1.7 cm. It is
+within 1 mm from inferior resection margin, all additional margins are uninvolved by tumor. The mass shows
+a metallic clip (previous biopsy site). No additional lesions are grossly present. Sections submitted as
+follows:
+Cassette #1-4
+Representative section of the mass with relations to the inferior margin (almost in toto)
+(Cassette #1) -largest dimension of the mass, (Cassette #4) previous biopsy site
+Superior margin
+Cassette# 5
+Cassette# 6
+Deep margin
+Cassette# 7
+Cassette#8
+Lateral margin
+Cassette #9
+Anterior margin
+Medial resection margin
+Received in formalin are multiple yellow tan fibrotic adipose tissue fragments measuring 15.0 x 13.0 x 4.0
+cm in aggregate. Twenty-six lymph nodes were grossly identified measuring up to 3.0 x 2.0 cm in greatest
+dimension.
+The two largest lymph nodes show a metastatic tumor. Sections submitted as follows:
+Cassette #1
+Representative section from one large lymph node
+C.
+Cassette #2
+Representative section from the second largest lymph node
+Cassettes# 3&4 One lymph node in toto per cassette
+Cassettes#5-10 Four lymph nodes in toto per cassette
+Received in formalin is a yellow tan fibrotic adipose tissue fragment. It measures 10. 0 x 6.0 x 2.0 cm in
+aggregate. The five lymph nodes are grossly identified measuring up to 0.4 x 0.3 cm in greatest dimension.
+Sections submitted as follows:
+Cassette #1
+Cassette# 2
+Two lymph nodes in toto
+Three lymph nodes in toto
+riteria
+fw 7/9/13 MA
+Yes
+No
+iagnosis Discrepancy
+rimary Tamor Site Discrepancy
+IPAA Discrepancy
+rior Maignancy History
+ual/Synchronous Priraloted
+ase is (circle):
+eviewer Initials.
+UALIFIED
+Date Reviewed:

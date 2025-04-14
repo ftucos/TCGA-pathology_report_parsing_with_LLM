@@ -1,0 +1,110 @@
+UUID:D8EFFB62-6A23-4033-8144-248751DECB08
+TCGA-A7-A3]1-01A-PR
+Redacted
+ICD 0-3
+Final Surgical Pathology Report
+carcinoma, infiltrating lobular, NOS 8520/3
+Site: breast, NOS
+050.9
+sw
+12/8/11
+Procedure:
+Diagnosis
+A. Sentinel lymph node, left axilla, biopsy: A single lymph node is
+negative for malignancy
+B. Breast, left, excisional biopsy: Invasive lobular carcinoma,
+Nottingham grade 2
+Note: The margins are negative for malignancy
+C. Breast, posterior lateral margin, biopsy: Focal lobular carcinoma
+in situ, negative for invasive carcinoma
+Microscopic Description:
+A. A single lymph node is negative for malignancy.
+[At the request of some staff oncologists and in keeping with the
+opinion of some experts in breast pathology, immunohistochemical stains
+for keratin were not used on the sentinel lymph node sections in this
+case. These stains can be obtained if desired. Our paraffin blocks
+are retained for 10 years. (Weaver DL et al. New Engl J Med 364:412,
+2011. Schwartz GF et al. Cancer 94(10):2542, 2002)].
+B.
+Invasive carcinoma:
+Histologic type: Invasive lobular carcinoma
+Nottingham grade: 2
+Architectural score: 3
+Nuclear score: 2
+Mitotic score: 1
+Mitotic index: 0 mitoses/10 HPFs (1 HPF = 1.96 sq. mm)
+Tumor size: 1.7 cm
+Specimen margins: Negative for malignancy. Carcinoma is 1.2 mm
+from the red (anterior) inked margin in block B15.
+Vessel invasion: Absent
+Calcification: Absent
+Non-tumorous breast: Fat necrosis, compatible with prior biopsy site
+pTNM stage: Tlc NO
+Prognostic markers:
+needed.
+No previous biopsy here. Markers are available if
+Antibody... Results...Comment
+CK5/6 ... Positive
+E-cadherin ... Positive
+C. Lobular carcinoma in situ is present.
+Antibody. ... Results... Comment
+E-cadherin
+Negative
+Paraffin sections; 10% neutral buffered formalin; Controls stain
+appropriately.
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents.
+These antibodies are monitored and controlled in our laboratory and
+their performance for
+in vitro diagnosis is well described in the medical literature.
+They have not been cleared
+or approved by the FDA.]
+Specimen
+A. Left axillary sentinel node
+B. Left breast biopsy long anterior short superior
+C. Posterior lateral margin long anterior short superior
+Clinical Information
+Cancer diagnosed in
+Gross Description
+A. Specimen A. is received unfixed labeled axillary sentinel node and
+consists of 3 pieces of yellow soft tissue measuring 2.5 x 2 x 1 2.5 x
+1.7 x 1.4 and 2.2 x 1 x 0.5 cm. Sections after fixation. AS-6
+B. The specimen is received unfixed in the Transpec container labeled
+left breast biopsy and consists of yellow and red piece of soft tissue
+measuring 8.5 by 6 by approximately 2.5 cm. The external surface the
+specimen is inked as indicated below.
+Anterior: Red
+Posterior: Orange
+Lateral: Blue
+Medial: Green
+Superior: Yellow
+Inferior: Black
+There is a firm area near one end of the specimen measuring 1.5 by 1.7
+cm in greatest dimension. A small portion of the tumor is taken for
+research purposes. Sections after fixation. RS-16
+Specimen C. is received unfixed labeled posterior lateral margin and
+consists of a yellow piece of soft tissue measuring 3.4 x 2.5 x 1.5 cm.
+There is along the short suture on the specimen. The external surface
+of the specimen is inked as indicated below.
+Anterior: Red
+Posterior:
+Orange
+Lateral: Blue
+Medial: Green
+Superior: Yellow
+Inferior: Black
+Sections after fixation
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): \\X
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+Law 12/8/1

@@ -1,0 +1,74 @@
+UUID:32AESA1A-703B-43C3-948A-719A98DDACC5
+TCGA-HN-A20B-01A-PR
+Sample Preparation
+Site of Primary (Event)
+Site of Tissue
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+Days to Procedure Date
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+le Type Tumour Primary
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Priman Noted
+Case is (circle):
+Reviewer initials
+QUALIFIE
+Date Reviewed:
+DISQUALIFIED
+7211
+to 4/14/11
+Fresh Frozen
+right breast
+Breast
+45
+Days to Diagnosis
+Type of Procedure
+Site of Primary (Histology)
+Bilateral Disease
+Tumour Size (cm)
+0
+14
+Surgical resection
+Right breast
+2.7000000000000002
+Other
+Grade X Unknown
+Histology
+Grade/Differentiation
+Pathological T
+T2
+Pathological N
+Nla
+Number of Nodes Sampled
+5
+Number of Nodes Positive
+2
+Clinical M
+MO
+Histology Comments
+女
+ICD-0-3
+carcinoma, infiltrationg lobular, Nos
+Site: breast, Nos C50.9
+852013
+سال
+9/14/11
+Histologic type: Invasive lobular (e cadherin negative). Modified Scarff
+Bloom Richardson Grade: 1/3 (2). Total score 4/9.
+SBR (Scarff-Bloom-Richardson) score
+4
+ER Status
+PR Status
+HER2 Status
+Lymph Node Metastases
+Positive NOS
+Positive NOS
+Negative
+None Documented

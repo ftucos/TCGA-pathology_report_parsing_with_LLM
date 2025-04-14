@@ -1,0 +1,162 @@
+Clinical Diagnosis & History:
+Left breast carcinoma.
+Specimens Submitted:
+1: SP: Left breast
+UUID:967287FE-7751-4A98-9465-0A1AD007061D
+TCGA-AO-A03M-01A-PR
+DIAGNOSIS:
+1)
+-
+BREAST, LEFT; TOTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, POORLY DIFFERENTIATED, HISTOLOGIC GRADE
+III/III
+, NUCLEAR 
+GRADE III/III, MEASURING 1.7
+CM MICROSCOPICALLY.
+THE TUMOR IS LOCATED IN THE UPPER OUTER QUADRANT.
+-
+-
+NO IN SITU COMPONENT IS IDENTIFIED.
+LYMPHOVASCULAR INVASION IS PRESENT.
+-
+NO INVOLVEMENT OF THE NIPPLE BY CARCINOMA.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+- THE SURGICAL MARGIN IS FREE OF TUMOR.
+- THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES AND
+FIBROCYSTIC CHANGES.
+RESULTS OF THE IMMUNOHISTOCHEMICAL STAINS (ER, PR, HER-2/NEU) WILL BE
+REPORTED IN 
+AN ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (
+AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Special Stain
+ER-C
+PR-C
+HER2-C
+NEG CONT
+IMM RECUT
+NEG-HER2
+** Continued on next page ⭑⭑
+Comment
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, nius
+Site: breast, NOS
+050.9
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+GALIFIED
+Yes
+No
+DISQUALIFIED
+DLC Reviewed: t
+w 10/21/11
+850013
+سلام
+10/21/11
+Gross Description:
+M.D.
+Page 2 of 3
+1) The specimen is received fresh, labeled "Left breast stitch marks
+axillary tail" and consists 
+of a breast measuring 19 x 14 x 5 cm with
+overlying skin ellipse 
+measuring 9 x 2.5 cm. Situated centrally on the skin
+surface is an everted nipple measuring 1.5 x 1.5 cm and areola measuring 3 x
+2.5 см. A suture demarcates the axillary 
+aspect. The posterior surface of
+the breast is inked black and the 
+specimen is serially sectioned to reveal
+an ill-defined white tan area measuring 
+5 x 4 x 3 cm, located 0.4 from the
+deep margin in the upper outer 
+quadrant. There is an adjacent ill-defined
+fibrous area measuring 6 x 5 x 4 cm The remaining breast tissue shows
+lobulated fibrofatty tissue
+. The axillary aspect is dissected to reveal no
+grossly identifiable lymph nodes. 
+Representative sections of the mastectomy
+specimen are submitted.
+Summary of sections:
+N - nipple
+NB
+-
+nipple base
+S - skin
+D
+deep margin
+UIQ upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ lower outer quadrant
+-
+H hemorrhagic area
+T
+ill-defined area suspicious for tumor
+Summary of Sections:
+Part 1: SP: Left breast
+Block
+1
+Sect. Site
+PCs
+D
+1
+2227
+H
+2
+LIQ
+2
+LOQ
+2
+1
+N
+1
+1
+NB
+1
+1
+S
+1
+5
+T
+5
+2
+UIQ
+2
+2
+UOQ
+2
+Procedures/Addenda:
+Addendum
+** Continued on next page
+**
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Page 3 of 3
+Status: Signed Out
+By:
+BREAST, LEFT; TOTAL MASTECTOMY:
+THE INVASIVE CARCINOMA SHOWS THE FOLLOWING IMMUNOPHENOTYPE:
+-
+ER: POSITIVE (70% NUCLEAR STAINING WITH MODERATE INTENSITY)
+PR: 
+POSITIVE (60% NUCLEAR STAINING WITH MODERATE TO STRONG
+INTENSITY)
+HER2/NEU (HERCEPTEST): STAINING INTENSITY OF 2+.
+CONTROLS ARE SATISFACTORY.
+MD
+**End of Report **

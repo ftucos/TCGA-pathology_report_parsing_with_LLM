@@ -1,0 +1,114 @@
+Collection Date:
+UUID:BC78EC6E-7306-4234-9369-9A5586CD1A69
+TCGA-BH-A8FY-01A-PR
+Redacted
+FINAL DIAGNOSIS:
+PART 1: LEFT BREAST, TOTAL MASTECTOMY -
+A. INVASIVE LOBULAR CARCINOMA UP TO 1.8 CM, NOTTINGHAM SCORE 6/9 (TUBULES 3, NUCLEAR 2,
+MITOSES 1), NOTTINGHAM GRADE 2, LOCATED AT THE UPPER OUTER AND LOWER OUTER QUADRANTS.
+B. EXTENSIVE ATYPICAL LOBULAR HYPERPLASIA AND LOBULAR CARCINOMA IN SITU ADMIXED AND
+AWAY FROM INVASIVE CARCINOMA.
+C. LYMPHOVASCULAR SPACE INVOLVEMENT NOT SEEN.
+D. INVASIVE TUMOR IS 0.4 CM FROM ANTERIOR MARGIN.
+E. MARGINS FREE OF TUMOR.
+F. MICROSCOPIC FOCUS OF DUCTAL CARCINOMA IN SITU, NUCLEAR GRADE 3, MICROPAPILLARY TYPE,
+ASSOCIATED WITH RADIAL SCAR AND ATYPICAL DUCTAL EPITHELIAL HYPERPLASIA.
+G. CHANGES CONSISTENT WITH BIOPSY SITE.
+H. FIBROCYSTIC CHANGES WITH SCLEROSING ADENOSIS.
+1.
+NIPPLE NEGATIVE FOR PAGET'S DISEASE.
+PART 2: LEFT AXILLA, SENTINEL LYMPH NODE #2, EXCISION-
+LYMPH NODE WITH RARE KERATIN POSITIVE CELLS (SEE MICROSCOPIC DESCRIPTION).
+PART 3: LEFT AXILLA, SENTINEL LYMPH NODE #1, PALPABLE, EXCISION-
+ONE LYMPH NODE NEGATIVE FOR TUMOR.
+COMMENT:
+There is a microscopic focus of lobular carcinoma in situ with 1.0 mm of invasive carcinoma in section 1A (section of the
+nipple). This focus is highlighted by Immunostain, e-cadherin and p120, (see Microscopic Description).
+Sentinel lymph node #2 shows rare keratin positive cells. Lymph node #1 (Part 3), is almost completely replaced by fat.
+Estrogen / progesterone receptors and HER-2/neu done in the previous core biopsy
+as follows: ER positive, PR positive, HER-2/neu negative, score 1+.
+CASE SYNOPSIS:
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Left
+Simple mastectomy
+Upper outer quadrant
+Lower outer quadrant
+are reported
+ICD0.3
+Carcinoma, boledar iyitrating 152013
+Site Breast NOS 50.9.
+11/24/13
+Maximum dimension invasive component: 18 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+Yes
+TUMOR AGGREGATE SIZE:
+TUMOR TYPE (invasive component);
+HISTOLOGIC TYPE:
+NOTTINGHAM SCORE:
+Sum of the sizes of multiple invasive tumors: 19 mm
+Infiltrating lobular carcinoma
+Classical
+Nuclear grade: 2
+Tubule formation: 3
+Mitotic activity score: 1
+Total Nottingham score: 6
+Nottingham grade (1, 2, 3): 2
+ANGIOLYMPHATIC INVASION:
+No
+DERMAL LYMPHATIC INVASION:
+No
+CALCIFICATION:
+No
+TUMOR TYPE, IN SITU:
+Micropapillary
+DCIS present outside of invasive carcinoma component
+LCIS
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+Distance of invasive tumor to closest margin: 4.0 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+No
+PAGET'S DISEASE OF NIPPLE:
+No
+LYMPH NODES POSITIVE:
+0
+LYMPH NODES EXAMINED:
+2
+METHOD(S) OF LYMPH NODE EXAMINATION:
+H/E stain, Keratin stain
+Yes
+ONLY KERATIN POSITIVE CELLS ARE PRESENT:
+SKIN INVOLVED (ULCERATION): No
+NON-NEOPLASTIC BREAST TISSUE: ADH, ALH, Radial scar
+T STAGE, PATHOLOGIC:
+pT1c
+N STAGE MODIFIER:
+(sn)
+N STAGE, PATHOLOGIC:
+PNO(i+)
+M STAGE:
+Not applicable
+ESTROGEN RECEPTORS:
+HER2/NEU:
+positive
+PROGESTERONE RECEPTORS:
+positive
+1+
+Criteria
+lu 11/21/12
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+IPAA Discrepancy
+His: breast wf Love
+Jua/Synchronous Primary Not
+ase is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 203

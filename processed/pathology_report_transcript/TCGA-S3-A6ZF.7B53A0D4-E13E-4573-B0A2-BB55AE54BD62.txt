@@ -1,0 +1,328 @@
+MRN:
+Patient:
+Admission Date:
+Ordering Physician:
+Collected Date/Time:
+Received Date/Time:
+UUID:7853A0D4-E13E-4573-B0A2-BB55AE54BD62
+TCGA-S3-A6ZF-01A-PR
+Redacted
+Sex/DOB:
+Discharge Date:
+Female
+Pathology Addendum Report
+Accession Number:
+Addendum Report
+ASSAY PERFORMED: HER2 GENE AMPLIFICATION BY DUAL IN SITU HYBRIDIZATION USING THE
+HER2 Dual ISH DNA PROBE COCKTAIL
+Number of nuclei scored: 20
+Total HER2 signals:
+60
+Total CHR 17 signals:
+39
+1.5
+HER2/CHR 17 ratio:
+1
+ICD0-3
+Carcinoma, infiduating duct NOS
+Site ® Suast NOS 650.9
+8500/3
+INTERPRETATION: - NEGATIVE FOR HER2 GENE AMPLIFICATION.
+path
+® react, upper
+828/2/13
+outer quadrant
+NOTE: THE ASSAY WAS PERFORMED AS A REFLEX TEST AFTER THE HER2/NEU IMMUNOSTAIN WAS 2+.
+SPECIMEN TYPE: The
+block C3.
+HER2
+is performed on a formalin-fixed paraffin-embedded tissue slide from
+HER2
+assay
+enables the HER2
+DESCRIPTION OF THE ASSAY: The
+gene and Chr17 centromere to be co-hybridized and visualized via light microscopy on the same slide. Specifically for this assay,
+HER2 is detected by a dinitrophenyl (DNP) labeled probe visualized utilizing
+SISH DNP (silver in situ hybridization)
+detection kit. The Chr17 centromere is targeted with a digoxigenin (DIG) labeled probe and detected using
+ISH DIG
+detection kit. Dual ISH staining results in visualization by light microscopy and which HER2 appears as discrete black signals (SISH)
+and Chr17 as red signals in nuclei of normal cells serving as internal positive control for staining) as well as in carcinoma cells.
+SLIDE SCORING: Once an adequate target area is identified the reader records the scores for HER2 and Chr17 copy numbers that
+are present in 20 representative nuclei. If the resulting HER2 / Chr17 ratio falls within 1.8-2.2 (EQUIVOCAL) the reader is
+recommended to score an additional 20 nuclei and the resulting ratio is calculated from the total 40 nuclei. HER2 gene status is
+reported as non-amplified (HER2/ Chr17 <2.0) or amplified (HER2/Chr17 ≥ 2.0).
+Printed by:
+Copied to:
+Distribute to:
+Page 1 of 7
+Print Date/Time:
+Patient Locations:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Pathology Addendum Report
+Accession Number:
+Sex/DOB: Female
+Tཐ
+-ཡན
+f this assay were determined by
+is assay has been approved by the U.S. Food and Drug Administration. This laboratory is certified under the Cuical
+Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+cpt: 88368 x2
+(Electronic signature)
+Verified:
+Collected Date/Time:
+Received Date/Time:
+Accession Number:
+Addendum Report
+IMMUNOHISTOCHEMICAL EVALUATION OF ESTROGEN RECEPTORS, PROGESTERONE RECEPTORS, AND
+HER-2NEU IN INVASIVE MAMMARY CARCINOMA.
+ESTROGEN RECEPTORS: 99 %, positive.
+PROGESTERONE RECEPTORS: 40 %, positive.
+STAINING INTENSITY: moderate
+HER-2NEU: SCORE 2+, EQUIVOCAL.
+Immunohistochemical studies were performed on formalin fixed paraffin embedded tissue (Block C3) using the following monoclonal
+antibodies: Estrogen receptor (Clone SP1), Progesterone receptor (Clone 1E2) and Her-2neu
+Clone 4B5); control sections
+for HER-2Neu are provided within a kit (score 0 MCF-7, score 1+ T-47D, score 2+ MDA-MB-453, score 3+ BT-474). Detection
+system used: polymer. Primary antibodies, reagents and control sections for HER-2neu are all provided by'
+All controls show appropriate reactivity.
+Reactivity of Estrogen and Progesterone receptors is determined based on the percentage of positively stained nuclei of tumor
+cells. Reference values (CAP accreditation program checklist 2010 and guidelines on webpage):
+Positive: nuclear staining in 1% or greater than 1% of invasive carcinoma cells
+Negative nuclear staining in less than 1% of invasive carcinoma cells
+Staining intensity: is reported as weak, moderate or strong.
+HER-2neu reactivity is reported applying the CAP scoring guidelines (CAP accreditation program checklist 2010 and guidelines on
+webpage):
+Score 0 = Negative: No immunoreactivity, or faint weak immunoreactivity in <10% of tumor cells but only a portion of the
+membrane is positive..
+Score 1 = Negative: Faint weak immunoreactivity in 10% or 10% of tumor cells but only a portion of the membrane is positive.
+Score 2+ Equivocal: Weak to moderate complete membrane immunoreactivity in >10% of tumor cells or
+Page 2 of 7
+Print Date/Time
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Pathology Addendum Report
+Accession Number:
+Sex/DOB: Female
+circumferential intense membrane staining in <30% of cells.
+Score 3+= Positive: More than 30% of the tumor cells must show circumferential intense and uniform membrane staining. A
+homogeneous (chicken wire) pattern should be present.
+Equivocal results for HER-2neu (Score 2+) will be subsequently followed by a reflex dual-color ISH testing.
+The performance characteristice of theem antihoding were determined by the
+ey have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+(Electronic signature)
+Verified
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Final Diagnosis
+A. RIGHT BREAST, CORE BIOPSY:
+- INVASIVE DUCTAL CARCINOMA.
+B. RIGHT SENTINEL LYMPH NODE, BIOPSY:
+糊
+"
+NO EVIDENCE OF CARCINOMA IN ONE LYMPH NODE.
+SEE SPECIAL STAINS SECTION.
+C. RIGHT BREAST, TOTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA GRADE 2, 2.5 CM.
+- MARGINS OF RESECTION ARE FREE OF CARCINOMA.
+· SEE SYNOPTIC REPORT, SPECIAL STAINS SECTIONS AND NOTE.
+NOTE: hormonal receptors and Her2-neu status will be reported in an addendum.
+(Electronic signature)
+Verified:
+Synoptic Report
+SPECIMEN:
+Total breast (including nipple and skin)
+PROCEDURE:
+Total mastectomy (including nipple and skin)
+Page 3 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+LYMPH NODE SAMPLING:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB:
+Female
+Sentinel lymph node(s)
+SPECIMEN INTEGRITY:
+Single intact specimen (margins can be evaluated)
+SPECIMEN SIZE:
+Greatest dimension: 26 cm
+Additional dimensions: 17 x 6 cm
+SPECIMEN LATERALITY:
+Right
+TUMOR SITE: INVASIVE CARCINOMA:
+Upper outer quadrant
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA:
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.5 cm
+Additional dimensions: 2.0 x 2.0 cm
+TUMOR FOCALITY:
+Single focus of invasive carcinoma
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+DUCTAL CARCINOMA IN SITU (DCIS):
+DCIS is present
+Extensive intraductal component (EIC) negative
+SIZE (EXTENT) OF DCIS:
+Estimated size (extent) of DCIS (greatest dimension using gross and microscopic evaluation) is at least 0.3 cm (constituting
+about 5% of the entire tumor mass.)
+ARCHITECTURAL PATTERNS:
+Comedo
+Cribriform
+NUCLEAR GRADE:
+Grade III (high)
+NECROSIS:
+Present, central (expansive "comedo" necrosis)
+LOBULAR CARCINOMA IN SITU (LCIS):
+Not identified
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive ductal carcinoma (no special type or not otherwise specified)
+GLANDULAR (ACINAR)/TUBULAR DIFFERENTIATION:
+Score 2: 10% to 75% of tumor area forming glandular/tubular structures
+NUCLEAR PLEOMORPHISM:
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape, occasionally with very
+large and bizarre forms
+MITOTIC COUNT:
+Score 2
+OVERALL GRADE:
+Grade 2: scores of 6 or 7
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Page 4 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Distance from closest margin: 25 mm
+Distance from posterior margin: 25 mm
+Margins uninvolved by DCIS (if present)
+Distance from closest margin: posterior mm
+Distance from posterior margin: 25 mm
+LYMPH-VASCULAR INVASION:
+Present
+DERMAL LYMPH-VASCULAR INVASION:
+Not identified
+LYMPH NODES:
+Number of sentinel lymph nodes examined: 1 (no tumor seen)
+Total number of lymph nodes examined (sentinel and nonsentinel): 1
+METHOD OF EVALUATION OF SENTINAL LYMPH NODES:
+H&E, multiple levels
+Immunohistochemistry
+PRIMARY TUMOR (INVASIVE CARCINOMA (PT):
+pT2: Tumor >20 mm but less than or equal to 50 mm in greatest dimension
+REGIONAL LYMPH NODES (pN):
+pNO: No regional lymph node metastasis identified histologically
+DISTANT METASTASIS (M):
+Not applicable
+ADDITIONAL PATHOLOGIC FINDINGS:
+intraductal papilloma
+MICROCALCIFICATIONS:
+Present in DCIS
+Source of Specimen
+Core Biopsy, RT Breast
+Lymph Nodes, Sentinel Right
+A
+B
+C
+RT Total Mastectomy
+Sex/DOB:
+Female
+Clinical Information
+Palpable mass upper central FNAB positive, patient with right breast mass
+PRE-OP DIAGNOSIS: Right breast cancer
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Right mastectomy and sent to the node biopsy
+Gross Description
+Specimen is received in 3 parts:
+A. The specimen is labeled "CORE BIOPSY" and is received unfixed for frozen section diagnosis. It consists of 2 cylindrical pieces of
+gray-tan soft tissue each measuring 1.5 cm in length and 0.1 cm diameter. Entirely submitted in cassette FSA 1.
+Time specimen was removed from the patient
+Time specimen was placed in formalin
+Page 5 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Ischemic time: 20 minutes
+B. The specimen is labeled "RIGHT SENTINEL NODE" and is received unfixed for frozen section diagnosis. (Specimen is in
+formalin mother 6 hour and less than 48 hours). It consists of a ymph node measuring 1.6 x 1 x 0.5 cm. Sectioned and entirely
+submitted in cassette FSB 1.
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 22 minutes
+C. The specimen is labeled "RIGHT TOTAL MASTECTOMY " and is received in formalin. (The specimen is in the formalin
+more than 6 hours and less than 48 hours). It consist of mastectomy specimen without lymph nodes weighing 990 grams and
+measuring 26 x 17 x 6 cm with brown skin ellipse measuring 24 x 12 cm, containing grossly unremarkable 1.5 cm in diameter nipple.
+The skin is tagged with a black stitch designating lateral breast. The posterior margin is composed of smooth fascia which is inked
+black. The breast is sliced in sagittal planes revealing a 2.5 x 2 x 2 cm an ill-defined firm area which is 2.5 cm away from the deep
+margin of resection. The remaining portions reveal unremarkable yellow mammary fat with streaks of white-gray mammary
+parenchyma. Representative sections submitted as follows:
+C1 =
+nipple
+C2-C6 = upper outer quadrant mass
+C7 = upper outer quadrant, posterior margin of resection in correspondence of the mass
+C8 = representative section upper inner quadrant
+C9 = representative section upper outer quadrant
+C10=representative section lower outer quadrant
+C11 = representative section lower inner quadreant
+Time specimen was removed from the patient. ..
+Time specimen was sectioned and placed in formalin
+Ischemic time: 15 minutes
+Dictated by
+Intra Operative Consultation
+A. Right breast cores = carcinoma
+B. Right sentinel node = no tumor seen
+Special Stains / Slides
+Immunohistochemical studies were performed on formalin fixed, paraffin-embedded tissue (Block B1) with adequate positive and
+negative control sections.
+Cytokeratins AE1/AE3 and Cam5.2 fail to reveal metastatic carcinoma.
+The nerformance characteristics of these antibodies were determined by the
+ey have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+16 H&E, 4 FS, 16 H&E
+Page 6 of 7
+Print Date/Time
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Tissue Code
+Page 7 of 7
+Sex/DOB:
+Female
+Criteria
+Diagnosis Discrepancy
+سال
+A 7/10/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notec
+Case is (circle):
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Reviewer Initials KTA
+Date Reviewed: 10) 2913
+Print Date/Time:

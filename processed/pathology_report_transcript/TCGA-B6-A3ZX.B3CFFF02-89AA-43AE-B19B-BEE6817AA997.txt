@@ -1,0 +1,70 @@
+Patient:
+AP Surgical Pathology: Additional info
+Surg Path
+UUID:B3CFFF02-89AA-43AE-B19B-BEE6817AA997
+TCGA-B6-A3ZX-01A-PR
+Page 1 of 2
+Redacted
+CLINICAL HISTORY:
+Rule out malignancy of left breast.
+axillary node.
+Palpable left breast mass within large
+If invasive carcinoma, please obtain ER, PR, EGFR, HER2/Neu by
+immunohistochemistry; for all 2+ IHC results please do FISH analysis.
+GROSS EXAMINATION:
+A. "USNCB left breast, number of cores 4, 11:00 site 1", received in formalin
+is a 1 x 0.6 x 0.2 cm aggregate of yellow-tan fibrofatty tissue which is
+submitted entirely in a mesh bag in block A1.
+B. "USNCB left breast, number of cores 4, axilla site 2", received in formalin
+is a 0.9 x 0.6 x 0.2 cm aggregate of yellow-tan fibrofatty tissue which is
+submitted entirely in a mesh bag in block Bl.
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+DIAGNOSIS:
+ICD-0-3
+adenocarcinoma, infiltrating
+ductal and lobular 852213'
+Site: breast, NOS (50.9 7-2-12
+A. "LEFT BREAST, 11:00, SITE ONE" (ULTRASOUND GUIDED NEEDLE CORE BIOPSY):
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL, WITH LOBULAR FEATURES.
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 3 OF 3.
+TUBULE FORMATION SCORE: 3.
+NUCLEAR PLEOMORPHISM SCORE: 3.
+MITOTIC RATE SCORE: 2.
+Criteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+по
+Yes.
+No
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is circle):
+Reviewer is
+QUALIFIED
+Date Reviewed:
+DISQUALIFE
+IN-SITU CARCINOMA: PRESENT.
+TYPE OF IN-SITU CARCINOMA:
+SOLID.
+NUCLEAR GRADE OF IN-SITU CARCINOMA: 3 OF 3.
+ESTROGEN/PROGESTERONE RECEPTOR, HER2/NEU, AND EGFR ANALYSIS: PENDING.
+PARAFFIN BLOCK NUMBER: A1.
+RESULTS WILL BE ISSUED IN A SEPARATE REPORT FROM THE IMAGE CYTOMETRY
+LAB.
+B. "LEFT BREAST, AXILLA, SITE TWO"
+(ULTRASOUND GUIDED NEEDLE CORE BIOPSY):
+LYMPH NODE WITH METASTATIC DUCTAL ADENOCARCINOMA.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+Electronically signed:
+☐ ADDENDUM 1:
+Please see
+tests.
+for results of supplementary
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+لسلام
+44/23/2

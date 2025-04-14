@@ -1,0 +1,219 @@
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+Sentinel node #1
+-One lymph node, no malignancy seen (0/1).
+- Immunostains are in progress.
+Sentinel node #2
+-One lymph node, no malignancy seen (0/1).
+- Immunostains are in progress.
+Sentinel node #3
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+050.9
+2/8/1 w
+UUID:7C003A4F-DC30-43D0-AC61-ACE6BA118BEE
+TCGA-EW-A1IY-01A-PR
+Redacted
+-One lymph node, no malignancy seen (0/1).
+D.
+E.
+- Immunostains are in progress.
+Non-sentinel lymph node:
+· Two lymph nodes, no malignancy seen (0/2).
+Right breast mass, 1 short stitch superior, 1 long stitch lateral, lumpectomy:
+- Infiltrating ductal carcinoma, intermediate nuclear grade, 2.0 cm in greatest dimension.
+- Focal ductal carcinoma in situ, cribriform type, intermediate nuclear grade with necrosis.
+• Margins are free of tumor.
+- Lymphovascular invasion is not seen.
+- AJCC pT2NOMX
+- See tumor summary.
+- Other areas of the breast show fibrocystic changes with microcalcifications.
+- Skin with scar and foreign material (gel foam) deposition.
+- Changes of [previous biopsy site.
+- Focal changes of previous therapy effect noted on non-neoplastic breast tissue and a small portion of tumor.
+- Immunostains are in progress.
+F.
+Deep margin blue true deep:
+G.
+- Skeletal muscle, no malignancy seen.
+Internal mammary sentinel node
+-
+2nd intercostal
+• One lymph node, no malignancy seen (0/1).
+- Immunostains are in progress.
+Tumor Summary:
+Specimen Type: Excision
+Lymph Node Sampling: Sentinel lymph nodes and one non-sentinel node
+Specimen Size: Greatest dimension: 7.2 cm
+Additional dimensions: 6.1 x 2.5 cm
+Laterality: Right
+Tumor Site: Not specified
+Size of Invasive Component: Greatest dimension: 2.0 cm
+Additional dimensions: 1.8 x 1.5 cm
+Histologic Type: Invasive ductal carcinoma
+Histologic Grade:
+Tubule Formation: Moderate 10% to 75% (score = 2)
+Nuclear Pleomorphism: Marked variation in size, nucleoli, chromatin clumping, etc (score =3)
+For a 40x objective with a field area of 0.152 mm2: 0 to 5 mitoses per 10 HPF (score =1)
+Total Nottingham Score: Grade II: 6-7 points
+Pathologic Staging (pTNM)
+Primary Tumor: pT2
+SURGICAL PATHOL Report
+Regional Lymph Nodes: pNO
+Number examined: 6
+Number involved: 0
+Distant Metastasis: pMX
+Margins: Uninvolved by invasive carcinoma
+Distance from closest margin: 2.0 mm
+Specify which margin: Posterior (deep), see comment.
+Venous/Lymphatic Invasion: Absent
+Microcalcifications: Present in non-neoplastic tissue
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: IDS-ER, PgR 636-PR, A485-HER2, H-11=EGFR, CCH2/DDG9-CMV, F39.4.1=AR and HPV by ISH. All 
+immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+As the attending pathologist, I attest that I: (1) Examined the relevant
+preparation(s) for the specimen(s); and (1) Rendered the diagnosis(es).
+Status: Signed Out
+Procedures/Addenda
+Addendum
+Addendum Diagnosis
+Date Ordered:
+Date Complete:
+Date Reported:\
+A, B, C, G. Immunohistochemistry for keratin is negative (Blocks A1, A2, B1, B2, C1 and G1).
+E. Tumor cells are positive for ER and PR and negative for HER2-neu (block E7).
+Intraoperative Consultation
+AFS.
+Sentinel node #1
+Negative for tumor
+touch prep and FS:
+BFS.
+Sentinel node #2
+FS:
+Negative for tumor
+CFS.
+Sentinel node #3
+FS:
+Negative for tumor
+FFS.
+Deep margin blue true deep FS:
+Skeletal muscle, no malignancy seen
+Clinical History:
+Patient is a year old female with history of right breast cancer.
+Pre Operative Diagnosis:
+Page 2 of 4
+Right breast cancer
+Specimen(s) Received:
+touch prep and FS
+A: sentinel node #1
+B: sentinel node #2
+C: sentinel node #3
+1 FS
+FS
+SURGICAL PATHOL Report
+D: non-sentinel lymph node
+E: right breast mass, 1 short stitch superior, 1 long stitch lateral fresh
+F: deep margin blue true deep FS
+G: Internal mammary sentinel node
+2nd intercostal (
+Gross Description:
+A.
+1
+2
+B.
+touch prep and FS" consists of a lymph node, 1.5 cm in greatest
+Received fresh and labeled “sentinel node #1
+dimension. Specimen bisected and submitted in toto in two cassettes as follows.
+Half on lymph node for frozen
+The rest of lymph node for permanent
+Received fresh and labeled "sentinel node #2
+consists of irregular shaped, yellow-tan, adipose tissue fragment,
+1.4 x 0.7 x 0.2 cm. Specimen submitted in toto in two cassettes.
+1
+2
+One section from frozen
+The reminder of the specimen for permanent
+C.
+D.
+Received fresh and labeled "sentinel node #3
+consists of irregular shaped, pale-tan, soft tissue fragment, 0.4 x 0.3
+x 0.2 cm. Specimen bisected and submitted in toto in one cassette for frozen.
+Received in formalin and labeled "non-sentinel lymph node" consists of two irregular shaped, yellow-tan, soft tissue
+fragment, 1.4 x 0.8 x 0.3 cm and 1.0 x 0.5 x 0.2 cm. Examination of the specimen reveal two possible lymph nodes, 1.3
+cm and 0.8 cm in greatest dimension. Specimen submitted in toto in two cassettes as follows.
+1112
+E.
+Large lymph node bisected
+Small lymph noe bisected
+Received fresh and labeled "right breast mass, 1 short stitch superior, 1 long stitch lateral" consists of an irregular by
+shaped, fibro-adipose tissue fragments measuring 7.2 x 6.1 x 2.5 cm and weighing 35.3 grams. Attached to the anterior
+aspect of the specimen there is a very thin ellipse of skin, 2.8 cm by 0.2 cm. For gross purpose the specimen is inked as
+follows: Anterior resection the skin surrounding the skin in yellow, superior resection margin is inked blue, inferior
+resection margin is inked green, medial resection margin is inked red, lateral resection margin is inked orange and
+posterior resection margin is inked black. Multiple cross sections reveal an ill-circumscribed, gray-white, hard and gritty
+mass, 2.0 x 1.8 x 1.5 cm. The mass is 0.2 cm from deep resection margin (nearest margin), 1.5 cm from the skin surface,
+1.0 cm from medial resection margin, 1.7 cm from lateral resection margin, 2.0 cm from superior resection margin and 1.8
+cm from inferior resection margin. The reminder of the specimen reveals an unremarkable fibro-adipose tissue. The
+stroma to fat ratio is 30.70%. Representative sections are submitted as follows.
+F.
+1
+Superior resection margin
+2
+Inferior resection margin
+3
+Medial resection margin
+4
+Lateral resection margin
+5&6
+7-9
+10
+11-14
+Composed sections of the mass in relation with deep resection margin (nearest margin)
+Additional representative section from the mass
+Representative section from skin
+Representative section from the reminder of the stroma
+Received fresh and labeled "deep margin blue true deep" consists of irregular shaped, yellow-tan, fibro-adipose tissue
+fragments, 1.8 x 1.5 × 0.2 cm. The resection margin inked black. Specimen multisected and submitted in toto in one
+cassette for frozen.
+G.
+Received in formalin and labeled "internal mammary sentinel node
+2nd intercostal (
+shaped, yellow-tan, soft tissue fragment, 0.5 x 0.4 x 0.1 cm. Specimen submitted in toto in one cassette.
+consists of irregular
+Page 3 of 4
+ICD-9(s):
+174.8
+SURGICAL PATHOL Report
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primery Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Refiewed;
+w
+ORQUALIFIED
+Page 4 of 4

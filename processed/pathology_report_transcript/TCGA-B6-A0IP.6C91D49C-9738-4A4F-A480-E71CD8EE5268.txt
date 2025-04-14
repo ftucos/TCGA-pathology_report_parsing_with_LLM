@@ -1,0 +1,160 @@
+Patient>
+Surgical Pathology:
+Surg Path
+ICD-0-3
+Carcinoma, Infiltrating lobular, Nos 8520/3
+Site Code: breast, ivos
+050.9
+1/17/11
+lw
+UUID:6C91D49C-9738-4A4F-A480-E71CD8EE5268
+TCGA-B6-A0IP-01A-PR
+Redacted
+CLINICAL HISTORY:
+Left breast Ca. Left breast mass.
+GROSS EXAMINATION:
+A. "Left breast mass (AF1)", received fresh for frozen section. A 7.3 × 4.4 ×
+2.5 cm 
+ovoid fragment of soft yellow fibroadipose which has been previously
+sectioned revealing 
+a 1.7 x approximately 1.6 x 1.4 cm firm stellate
+circumscribed yellow-tan mass. The surgeon has stated the margins are not an
+issue on this 
+specimen the mastectomy is to be performed. A portion of the
+lesion has been 
+previously submitted as frozen section AF1. Fresh tissue for
+ER/PR was not 
+submitted. The remainder of the specimen composed of soft yellow
+lobulated adipose 
+tissue without additional focal lesions.
+BLOCK SUMMARY:
+Al- frozen section AF1 remnant.
+A2- additional section of mass.
+A3-A4 additional tissue in the area of lesion.
+A5- representative of the remainder fibroadipose tissue.
+B. "Left breast", received fresh and placed in formalin. A 701.6 gram, 35 x
+18.3 x 3.0 cm left 
+breast and axillary dissection is received. The breast is
+21.1 x 
+18.3 x 3.0 cm in greatest dimension and the axilla is 7.5 x 6.5 x 1.5
+cm in 
+greatest dimension. The overlying ellipse of white skin is 19 x 8.2 cm
+in greatest 
+dimension. The nipple is located slightly inferior and medial on
+the skin surface 
+and is retracted and exhibits a crusted skin surface and is
+approximately 1 cm in greatest diameter with a 3.5 cm areola. Superior to the
+nipple is 
+a 7.5 cm long recent linear suture surgical incision. The surgical
+margin is marked 
+with blue ink and the specimen is sectioned revealing a fresh
+biopsy cavity, 
+approximately 7.5 x 6.5 x 6 cm in greatest dimension lined by
+soft hemorrhagic 
+adipose tissue. The biopsy cavity is grossly within 0.5 cm
+with closest 
+deep surgical margin, 12.5 cm with the closest inferior soft
+tissue 
+surgical margin. The tumor does not grossly identified within the
+specimen. 
+The remainder of the breast tissue is composed of soft lobulated
+fibroadipose 
+tissue with only small amount of pink-tan fibrous breast tissue.
+BLOCK SUMMARY:
+B1- nipple.
+B2- representative through incision on skin surface.
+B3- biopsy cavity in closest deep margin.
+B4-B5 additional sections of biopsy cavity wall.
+B6- closest superior soft tissue margin.
+B7- closest inferior soft tissue margin.
+B8- representative upper inner quadrant.
+B9- representative lower inner quadrant.
+B10-representative lower outer quadrant.
+B11- representative upper outer quadrant.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/
+Synchronous Primary Noted
+Case is (circle)
+;
+Reviewer Initi
+QUALIFIED
+The axillary dissection is removed from the mastectomy specimen, divided into
+proximal, mid, and 
+distal thirds and examined for lymph nodes. Several lymph
+node candidates from 0.5 
+to 3.2 cm are identified, predominantly in the distal
+third of the specimen. 
+Lymph nodes are submitted as follows:
+B12- one lymph node candidate from proximal.
+B13- one bisected lymph node candidate from proximal.
+B14- one lymph node candidate from mid.
+B15- one bisected lymph node candidate from mid.
+Yes
+1 DISQUALIFIED
+Date Refiewed:
+H
+1 of 3
+B16 five lymph node lymph node candidates from distal.
+B17
+three lymph node candidates from distal.
+B18- one bisected lymph node candidate from distal.
+B19- one bisected lymph node candidate from distal.
+B20- one bisected lymph node candidate.
+INTRA OPERATIVE CONSULTATION:
+A. "Left breast biopsy": AF1- infiltrating lobular carcinoma) (Dr.
+DIAGNOSIS:
+A. "LEFT BREAST MASS" (EXCISIONAL BIOPSY):
+INFILTRATING CARCINOMA, LOBULAR TYPE.
+GROSS TUMOR SIZE, 1.7 X 1.6 X 1.4 CM (GROSSLY).
+SIZE OF INVASIVE COMPONENT 1.7 CM.
+LYMPHATIC/VASCULAR INVASION: ABSENT.
+MULTIFOCAL TUMOR: NO.
+IN SITU CARCINOMA PRESENT, OCCUPYING LESS THAN 5% OF TUMOR (SLIDE A-2,
+A-4).
+TYPE OF IN SITU CARCINOMA: LOBULAR TYPE.
+EXTENSIVE INTRADUCTAL COMPONENT: NO
+STATUS OF NON-NEOPLASTIC BREAST TISSUE INCLUDES PROLIFERATIVE
+FIBROCYSTIC CHANGES WITH ATYPIA, INTRADUCTAL PAPILLOMA (SLIDE A-3)
+MICROCALCIFICATION PRESENT IN ASSOCIATION WITH BENIGN BREAST TISSUE.
+SURGICAL MARGIN STATUS: (SEE COMMENT)
+ESTROGEN/PROGESTERONE RECEPTOR AND CELL CYCLE ANALYSIS PENDING.
+B. "LEFT BREAST WITH AXILLARY DISSECTION", (REMOVAL):
+RESIDUAL INFILTRATING AND IN-SITU CARCINOMA: ABSENT.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: INTRADUCTAL PAPILLOMA, ATYPICAL
+DUCTAL HYPERPLASIA.
+MICROCALCIFICATIONS PRESENT IN ASSOCIATION WITH ATYPICAL DUCTAL
+HYPERPLASIA.
+NIPPLE STATUS: FREE OF TUMOR.
+SKIN STATUS: FREE OF TUMOR.
+MUSCLE STATUS: NOT SAMPLED.
+SURGICAL MARGIN STATUS: NEGATIVE.
+LYMPH NODE STATUS: NO EVIDENCE OF MALIGNANCY IN 16 LEFT AXILLARY LYMPH
+NODES, (0/16).
+COMMENT: The surgical margin of the biopsy specimen was not evaluated, as the
+mastectomy was performed during the same procedure, per conversation with the
+surgeon. The resection margins of the mastectomy specimen are negative for
+tumor.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen
+(s) and have rendered the above diagnosis (es).
+ADDENDUM 1:
+Electronically sign
+Tissue was sent to the
+for assay of the estrogen
+and progesterone receptors. The estrogen receptor activity was judged to be
+POSITIVE with an 
+estimated FMOL value of 154. The progesterone receptor
+activity 
+was judged as POSITIVE with an estimated FMOL value of 106.
+refer 
+to
+for a complete report.
+Please
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen
+(s) and have rendered the above diagnosis(es).
+2 of 3

@@ -1,0 +1,354 @@
+UUID:2FDFCE85-74F7-417E-9FD1-ECC81827803B
+TCGA-AO-A12H-01A-PR
+Redacted
+Clinical Diagnosis & History:
+Palpable right breast mass with core biopsy showing invasive cancer.
+Specimens Submitted:
+1: SP: Sentinel node #1, level 1, right axilla
+2: SP: Sentinel node #2,
+3: SP: Sentinel node #3,
+4: SP: Right breast
+level 1, right axilla
+level 2, right axilla
+5: SP: Sentinel nodes #4 and #5, level 1, right axilla
+6: SP: Non-sentinel nodes right axilla
+DIAGNOSIS:
+1)
+LYMPH NODE, SENTINEL #1 LEVEL I RIGHT AXILLA; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+- ADDITIONAL H/E LEVELS AND CYTOKERATIN (AE1: AE3) IMMUNOSTAINS ARE ALSO
+NEGATIVE FOR METASTATIC TUMOR.
+2)
+-
+LYMPH NODE, SENTINEL #2 LEVEL I RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+ADDITIONAL H/E LEVELS AND CYTOKERATIN (AE1:AE3) IMMUNOSTAINS ARE ALSO
+NEGATIVE FOR METASTATIC TUMOR.
+3)
+LYMPH NODE, SENTINEL #3 LEVEL II RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+ADDITIONAL H/E LEVELS AND CYTOKERATIN (AE1:AE3) IMMUNOSTAINS ARE ALSO
+NEGATIVE FOR METASTATIC TUMOR.
+4)
+BREAST, RIGHT; TOTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, MODERATELY DIFFERENTIATED WITH
+SOLID PAPILLARY GROWTH PATTERN AND MUCINOUS DIFFERENTIATION, MEASURING 2.2
+CM IN LARGEST DIMENSION MICROSCOPICALLY.
+-
+FOCAL DUCTAL CARCINOMA IN SITU (DCIS), SOLID-PAPILLARY, SOLID AND
+CRIBRIFORM TYPES WITH LOW TO INTERMEDIATE NUCLEAR GRADE AND MINIMAL
+NECROSIS.
+- NIPPLE, SKIN AND SURGICAL MARGINS ARE NEGATIVE FOR TUMOR.
+NO CONVINCING EVIDENCE OF LYMPHOVASCULAR INVASION.
+PREVIOUS BIOPSY SITE CHANGES, STROMAL FIBROSIS AND ATROPHY.
+-
+IMMUNOHISTOCHEMICAL STAINS WERE PERFORMED ON FORMALIN-FIXED TISSUE
+WITH THE FOLLOWING RESULTS FOR INVASIVE CARCINOMA (BLOCK "T3"):
+** Continued on next page **
+ICD-0-3
+carcinoma infiltrating ductal mixed w/ other types
+(mucinous + Solid pap.)"
+Site: breast, Nos c50.9 to 10/22/11
+852313
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case 
+is (circle):
+Reviewer Initials,
+Date Reviewed:
+QUALIFIED
+Yes
+DISQUALIFIED
+QUALIL
+10/22/11.
+ESTROGEN RECEPTOR (6F11,
+WITH STRONG INTENSITY
+PROGESTERONE RECEPTOR (1E2;
+WITH MODERATE INTENSITY
+HER-2/NEU (HercepTest;
+INTENSITY OF 0)
+5)
+6)
+-
+Page 4 of 5
+100% NUCLEAR STAINING
+5 NUCLEAR STAINING
+NEGATIVE (STAINING
+LYMPH NODES, SENTINEL #4 AND #5 LEVEL I RIGHT AXILLA; EXCISION:
+TWO BENIGN LYMPH NODES (0/2).
+LYMPH NODES, NON-SENTINEL RIGHT AXILLA; EXCISION:
+- FIVE BENIGN LYMPH NODES (0/5).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND 
+THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out
+Special Studies:
+Result
+Gross Description:
+1)
+Special Stain
+Comment
+RECUT
+The specimen is received
+fresh for frozen section consultation,
+labeled "Sentinel node #31, level one, right axilla" and consists of a single
+pink tan firm lymph node measuring 1.2 cm in 
+greatest dimension.
+and entirely submitted for frozen 
+section.
+Summary of sections:
+FSC- frozen section control
+Bisected
+2)
+The specimen is received fresh for frozen section consultation,
+labeled 
+"Sentinel node #232, level 1, 
+right axilla" and consists of a pink tan
+firm lymph node measuring 0.5 cm. Entirely 
+submitted for frozen section.
+Summary of sections:
+FSC - frozen section control
+I
+3)
+The specimen is received
+fresh for frozon section consultation,
+labeled "Sentinel node #3, level 2, right axilla" and consists of a single
+pink tan firm lymph node measuring 0.8 
+cm.
+for frozen section
+.
+Bisected and entirely submitted
+** Continued on next page
+N
+Summary of sections:
+FSC - frozen section control
+4)
+The specimen is received fresh labeled, "Right breast, stitch marks
+axillary 
+tail" and consists of a breast measuring 
+25.2 x 24.6 x 3.2 cm with
+overlying skin ellipse measuring 15.1 x 14.6 
+cm.
+skin 
+surface is an 
+everted nipple measuring 1.1 cm and areola measuring 4.1
+Situated centrally on the
+х 4.2 ст. There is no scar on the skin surface.
+axillary 
+aspect. 
+The posterior surface of the breast is inked black and the
+A suture demarcates the
+axillary aspect is inked green.
+reveal
+The specimen is 
+serially sectioned to
+a 2.5 x 2.2 x 2.3 cm well circumscribed, brown, focally hemorrhagic
+mass 
+located at the 11 o'clock axis (upper outer 
+quadrant), 0.9 cm from the
+deep margin. A metallic clip is identified adjacent 
+to this lesion.
+Additionally, a 1.7 x 1.5 x 1.5 cm fibrous 
+area with areas of hemorrhage and
+necrosis is present inferior to the 2.5 cm mass 
+in the 11 o'clock axis in
+the 
+retroareolar region. No other masses or 
+lesions are grossly identified.
+The cut surfaces are composed of 60% fatty and 40% fibrous tissue.
+Sectioning of the axillary aspect 
+reveals no grossly identifiable lymph
+nodes. Tissue submitted for TPS. 
+Representative sections are submitted.
+Summary of sections:
+N
+"
+NB
+S
+nipple
+nipple base
+" skin
+D deep margin
+T - tumor
+UIQ - upper inner quadrant
+LIQ lower inner quadrant
+UOQ - upper outer quadrant
+LOQ
+lower outer quadrant
+RA -
+retroareolar fibrous tissue
+5)
+The specimen is received in formalin labeled, "Sentinel nodes #4 and
+5, level 
+1, right axilla", and consists of two 
+tan lymph nodes measuring 2
+cm and 0.8 cm respectively. Both are bisected and entirely submitted.
+Summary of sections:
+LLN
+SLN
+-
+larger lymph node (bisected and submitted in two cassettes)
+smaller lymph node
+6)
+The specimen is received in formalin, labeled "Non-sentinel nodes
+right 
+axilla" and consists of multiple pink tan 
+firm lymph nodes ranging
+from 0.2 cm to 2.1 cm in greatest dimension.
+submitted.
+All identified lymph nodes are
+Summary of sections:
+LN- lymph nodes
+BLN bisected lymph node
+LLN -
+largest lymph node bisected and submitted in two cassettes
+** Continued on next page
+3
+Summary of Sections:
+SP: Sentinel node #1, level 1, right axilla
+Part 1:
+Block
+1
+Part 2:
+Block
+1
+Part 3:
+Block
+1
+Part 4:
+Block
+1
+1
+1
+1
+1
+2
+6
+I
+1
+Part 5:
+Block
+2
+1
+Part 6:
+Block
+1
+2
+1
+Sect. Site
+FSC
+PCs
+1
+SP: Sentinel node #232, level 1, right axilla
+Sect. Site
+FSC
+PCs
+1
+SP: Sentinel node #3, level 2, right axilla
+Sect. Site
+FSC
+SP: Right breast
+PCs
+Sect. Site
+PCs
+D
+1
+LIQ
+1
+LOQ
+1
+N
+1
+NB
+1
+RA
+2
+S
+1
+T
+6
+UIQ
+του
+1
+1
+SP: Sentinel nodes #4 and #35, level 1, right axilla
+Sect. Site
+LLN
+SLN
+PCs
+2
+1
+SP: Non-Sentinel nodes right axilla
+Sect. Site
+BLN
+LLN
+LN
+PCs
+1
+2
+1
+rage of 5
+니
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+** Continued on next page
++1
+FROZEN SECTION DIAGNOSIS:
+ray* "
+SP: SENTINEL NODE #1, LEVEL 1,
+RIGHT AXILLA
+PERMANENT DIAGNOSIS:
+BENIGN LYMPH NODE.
+SAME
+2)
+FROZEN SECTION DIAGNOSIS:
+RIGHT AXILLA
+SP: SENTINEL NODE #23 LEVEL 1,
+BENIGN LYMPH NODE, MAINLY FIBROFATTY WITH SCANTY
+LYMPHOID TISSUE.
+PERMANENT DIAGNOSIS:
+SAME
+3)
+FROREN SECTION DIAGNOSIS:
+SP: SENTINEL NODE #233, LEVEL 2,
+RIGHT AXILLA
+PERMANENT DIAGNOSIS:
+: BENIGN LYMPH NODE.
+SAME
+Note:
+The diagnoses given in this section pertain only to the tissue sample
+examined 
+at the time of the intraoperative 
+consultation.
+1)
+FROZEN TION DIAGNOSIS:
+SP: SENTINEL O %1, LEVEL 1,
+RIGHT AXILLA
+PERMANENT DIAGNOSIS:
+: BENIGN LYMPH NODE. 1
+SAME
+2)
+FROZEN ION DIAGNOSIS:
+SP: SENTINEL NODE #2. LEVEL 1,
+RIGHT AXILLA
+:
+BENTON LYMPH NODE, MAINLY FIBROFATTY WITH SCANTY
+LYMPHOID TISSUE.
+PERMANENT DIAGNOSIS:
+SAME
+3 }
+RIGHT AXILLA
+PERMANENT DIAGNOSIS:
+FREION DIAGNOSIS:
+SP: SENTINEL NODE #33, LEVEL 2,
+BENIGN LYMPH NODE.
+SAME
+**End of Report **
+का

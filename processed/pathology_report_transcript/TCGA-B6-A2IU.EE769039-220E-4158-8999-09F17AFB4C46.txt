@@ -1,0 +1,120 @@
+Patien
+UUID:EE769839-220E-4158-8999-89F17AFB4C46
+TCGA-B6-A2IU-01A-PR
+Redacted
+Page 1 of 2
+Surg Path
+CLINICAL HISTORY:
+Not provided.
+GROSS EXAMINATION:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Frior Malignancy History
+Dual/Synchronous Primary Noted
+Case is icircle):
+Revie
+QUA. IFIFD
+Date Rewed.
+Yes
+No
+DISQUALIFIED
+/ 7/24/11
+4/14
+A. "Right breast and axillary contents", received fresh. A 1,330 grams, 33.0 x
+16.0 x 6.8 cm. The specimen 
+is breast with attached fibrofatty tissue. The
+breast itself measures 27.5 x 
+16.0 x 6.8, the axillary tail measures 10.5 x
+9.0 x 3.5 cm. The attached ellipse 
+of skin measures 24 x 12.2 cm, with a 4.0
+cm areola and a 1.4 cm nipple
+. The surgical margin of the specimen are inked
+and the specimen is sliced serially
+. There is a 5.0 x 5.0 x 2.8 cm firm, ill
+defined mass in the central region 
+of the breast. It is 2.2 cm from the
+closest (posterior) 
+margin.
+BLOCK SUMMARY:
+Al- cross sections from the nipple.
+A2- hard mass with closest surgical margin.
+A3-A6- representative sections of the mass.
+ICD-0-3
+Carcinoma infiltrating
+A7- representative sections from the upper outer quadrant.
+A8- 
+representative sections from the lower outer quadrant.
+A9- 
+representative sections from the lower inner quadrant.
+A10- representative 
+sections from the upper inner quadrant.
+All- seven lymph 
+node candidates from the proximal axillary fat.
+A12- seven lymph node 
+candidates from the middle axillary fat.
+A13- six lymph 
+node candidates from the middle axillary fat.
+A14- four lymph node 
+candidates from the distal axillary fat.
+A15- one lymph 
+node candidate from the distal axillary fat, bisected.
+A16- four lymph node candidates 
+from the distal axillary fat.
+A17- one lymph 
+node candidate from the distal axillary fat.
+A18- five lymph 
+node candidates from the distal axillary fat.
+lobular, Nos
+852013
+Site: breast, Nos C50.9
+f 7/24/11
+DIAGNOSIS:
+A. "RIGHT BREAST AND AXILLARY CONTENTS" (MODIFIED RADICAL MASTECTOMY):
+INFILTRATING CARCINOMA PRESENT, HISTOLOGIC TYPE LOBULAR.
+N.S.A.B.P. NUCLEAR GRADE 2 OF 3.
+N.S.A.B.P. HISTOLOGIC GRADE: NOT APPLICABLE.
+GROSS TUMOR SIZE: 5.0 X 5.0 X 2.8 CM.
+SIZE OF INVASIVE COMPONENT 5.0 X 5.0 X 2.8 CM.
+LOCATION OF THE TUMOR, CENTRAL.
+LYMPHATIC/VASCULAR INVASION ABSENT.
+MULTIFOCAL TUMOR PRESENT, EXTENSIVE, SEE COMMENT.
+IN SITU CARCINOMA ABSENT.
+NIPPLE STATUS, FREE OF TUMOR.
+SKIN STATUS, FREE OF TUMOR.
+MUSCLE STATUS, NOT SAMPLED.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE:
+SURGICAL MARGIN STATUS: NEGATIVE.
+BENIGN FIBROCYSTIC CHANGES.
+LYMPH NODE STATUS: TWENTY-EIGHT AXILLARY LYMPH NODES, NO EVIDENCE OF
+MALIGNANCY (0/28).
+ESTROGEN/PROGESTERONE RECEPTOR AND CELL CYCLE ANALYSIS PENDING.
+METHODOLOGY: 
+IMMUNOHISTOCHEMISTRY, PARAFFIN BLOCK A3.
+RESULTS WILL BE 
+ISSUED IN AN ADDENDUM.
+'COMMENT: There is very extensive multifocal/multicentric disease, with random
+sections distant from the main 
+tumor mass showing foci of infiltrating lobular
+carcinoma involving all four 
+quadrants of the breast.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have 
+rendered the above diagnosis (es).
+Page 2 of 2
+ADDENDUM 1:
+Tissue was sent to the
+for assay of the estrogen
+and progesterone receptors. The estrogen receptor activity was judged to be
+positive with an 
+estimated FMOL value of 30. The progesterone receptor
+activity was judged as 
+positive with an estimated FMOL of value of 101.
+Please refer 
+to
+for a complete report.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and 
+have rendered the above diagnosis(es).
+https://

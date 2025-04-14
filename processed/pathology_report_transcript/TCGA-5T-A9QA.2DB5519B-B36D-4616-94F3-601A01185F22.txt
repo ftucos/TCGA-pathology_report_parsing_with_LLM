@@ -1,0 +1,128 @@
+UUID:2DB5519B-B36D-4616-94F3-601A01185F22
+TCGA-ST-A9QA-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+FINAL
+Procedure Date:
+Accession Date:
+CLINICAL DATA: breast mass
+IOC/FROZEN:
+A1FS: Infiltrating carcinoma.
+Received at
+reported at
+GROSS EXAMINATION:
+ICD-0-3
+carcinoma, infiltrating duct and
+mucinous (mixed by other types,
+infiltrating duct.)
+852313
+Site: breast, Nos
+€50.9
+A. "Left Breast Mass, One Stitch Lateral, Two Stitches Anterior (Frozen Section)". The
+specimen is received fresh
+for frozen section designated "Left Breast Mass, One Stitch Lateral, Two Stitches
+Anterior"
+and consists of a 9.5 x 6.3 × 4.0 cm portion of tan-yellow fibroadipose tissue. The
+posterior margin is inked black
+and the anterior margin is inked blue. Sectioning shows a 3.4 x 2.8 x 2.5 cm solid ill-
+defined tan-white infiltrating
+mass which extends very close to the anterior and posterior inked margins.
+Representative sections are submitted
+in twelve cassettes. A1FS- frozen section remnant; A2-A4- mass and posterior margin;
+A5, A6- mass and anterior
+margin; A7- inferior margin; A8- superior margin; A9, A10- medial margin; A11, A12-
+lateral margin.
+Placed in formalin:
+Removed from formalin:
+Fixation time: 56 hours and 5 minutes
+B. "Left Breast Mass (B), One Stitch Lateral, Two Stitch Anterior". The specimen is
+received in formalin designated "Left Breast Mass (B), One Stitch Lateral, Two Stitch
+Anterior" and consists of a 6.8 x
+4.2 x 2.7 cm portion of tan-yellow fibroadipose tissue with sutures as described. The
+lateral margin is inked black,
+the medial margin is inked blue, the superior margin is inked yellow, and the inferior
+margin is inked orange and
+the posterior margin is inked green. Sectioning shows an ill-defined area of grey-white
+induration measuring
+approximately 2.0 x 1.5 x 1.5 cm located in the posterior portion of the specimen, and
+extending close to the
+inferior, lateral and medial margins. The remaining specimen is composed primarily of
+pale yellow lobular adipose
+tissue. Representative sections are submitted in fourteen cassettes. B1-B6- ill-defined
+area of induration with
+lateral, medial and inferior margins; B7, B8- posterior margin; B9- B11- superior margin;
+B12- anterior margin;
+B13, B14- additional sections of breast tissue with lateral and medial margins.
+Placed in formalin:
+Removed from formalin:
+SURGICAL PATHOLOGY REPORT
+FINAL
+Fixation time: 7 hours and 20minutes
+سد
+11/20/14
+C. "Skin Tags". The specimen is received in formalin designated "Skin Tags" and
+consists of
+multiple grey-brown skin fragments measuring up to 0.5 cm. Submitted in toto in one
+cassette.
+Placed in formalin:
+Removed from formalin:
+Fixation time: 7 hours and 20 minutes
+DIAGNOSIS:
+A. Left breast mass, excision:
+Infiltrating ductal carcinoma of the breast; see synoptic report.
+B. Left breast mass:
+Few microscopic foci of atypical ductal hyperplasia, with marked fibrocystic changes.
+Residual carcinoma is not identified.
+C. Skin tags:
+Skin tags, benign.
+SYNOPTIC REPORT: INFILTRATING BREAST CANCER
+Procedure: Excision without wire-guided localization
+Lymph Node Sampling: Not performed
+Specimen Laterality: Left
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma with areas of
+mucinous differentiation
+Tumor Size: 3.4 cm in greatest diameter
+Histologic Grade:
+Glandular/Tubular Differentiation: 3
+Mitotic Rate: 3
+Nuclear Pleomorphism: 3
+Overall Grade: 3 of 3
+Tumor Focality: Single focus of invasive carcinoma
+Ductal Carcinoma In Situ
+Few foci of ductal carcinoma in situ present; extensive intraductal component not
+identified
+Margins:
+Deep surgical margin: Positive for invasive carcinoma (one low power field)
+Anterior surgical margin: Negative for infiltrating carcinoma (infiltrating carcinoma
+reaches within 0.5 mm of
+the anterior surgical margin, in two low power fields)
+Lymph Nodes: Not submitted
+Lymph-Vascular Space Invasion: Present
+SURGICAL PATHOLOGY REPORT
+FINAL
+Pathologic Staging:
+Primary Tumor: pT2
+Regional Lymph Nodes: pNX
+Distant Metastasis: Not Applicable
+COMMENT:
+Prognostic markers are pending; a supplemental report will follow.
+CPT Code: 88307 x 2, 88305, 88331
+Per TSS- mucinous component is 502.
+Shorld
+be
+mvervous ductal.
+categorized as 'other' -
+Critaria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+1 11/17/14
+Yes
+No
+DISQUALIFIED 14

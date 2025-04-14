@@ -1,0 +1,51 @@
+Patient
+Surgical Pathology:
+Surg Path
+ICD-0-3
+Carcinoma, ductal, Nes, infiltrating 8.500/3
+€50.9 h 1/17/11
+Site Code. breast, NOS
+سال
+CLINICAL HISTORY:
+Inflammatory breast cancer.
+GROSS EXAMINATION:
+A. "Biopsy of left breast", fresh. The specimen consists of a 2 × 0.6 cm
+ellipse of tan skin with underlying disc of subcutaneous tissue measuring 3 x
+1.5 x 0.5 cm. Within the subcutaneous tissue is a firm, tan, ill-defined
+lesion measuring approximately 2.2 cm in greatest dimension. A portion of the
+specimen is submitted for ER/PR studies and to the tissue bank. The remainder
+of the specimen is sectioned and submitted in Block A1-A3.
+Dr.
+DIAGNOSIS:
+A. "BIOPSY OF LEFT BREAST":
+BREAST WITH INFILTRATING DUCTAL CARCINOMA (2.2 CM), N.S.A.B.P NUCLEAR GRADE
+MODERATELY-DIFFERENTIATED, HISTOLOGIC GRADE 3.
+COMEDO TYPE INTRADUCTAL CARCINOMA IS PRESENT REPRESENTING 5% OF THE TOTAL
+TUMOR VOLUME.
+LYMPHATIC/VASCULAR INVASION IS PRESENT, BUT NO TUMOR IS SEEN IN DERMAL
+LYMPHATICS.
+SURGICAL MARGINS ARE POSITIVE FOR CARCINOMA.
+eBrowser Result for:
+Verified by:<
+Date
+UUID:3A38A97C-2CBB-4802-9528-A4BBD62AEA4A
+TCGA-B6-AØIK-01A
+-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Dual/synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+KAAT
+Date Rewed:
+DISQUALIFIED
+11311
+1 of 1

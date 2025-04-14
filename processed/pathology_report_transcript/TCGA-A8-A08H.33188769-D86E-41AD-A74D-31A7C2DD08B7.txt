@@ -1,0 +1,32 @@
+Diagnosis:
+Puth
+1CD-0-3
+Carcinoma, infiltrating ductal was 8500/3
+Site: breast, UIQ C50.2
+1/25/11 lu
+CQCF Site: breast, Nos C50.9
+1. Tumor-free structurally intact lymph nodes.
+2. Invasive ductal breast carcinoma (maximum diameter 2.5 cm, malignancy grade II) at the
+site of the macroscopically described nodular formation. In the immediate tumor periphery
+high-grade DCIS (procomponent of tumor <10%) with inclusion also of coarse calcification.
+Remaining glandular tissue, rich in fatty tissue, in involution and free of atypia. Histologically
+unremarkable skin spindle.
+Tumor classification: G2 (L0, V0), pT1c, pN0 (sn), MX, R0 (minimum width of dorsocranial
+safety margin 1 cm!).
+UUID:33188769-D86E-41AD-A74D-31A7C2DD08B7
+TCGA-A8-A08H-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Revier L
+QUALIFIED
+Date Revin
+Yes
+No
+DISQUALIFIED
+5/31711

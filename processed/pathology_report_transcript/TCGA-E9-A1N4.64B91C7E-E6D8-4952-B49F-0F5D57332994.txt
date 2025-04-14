@@ -1,0 +1,45 @@
+му
+ICD-0-3
+Carcinoma, lobular, Nos 8520/3
+Site, breast, NoS
+050.9
+3/1/11
+BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 3 x 2.7 x 2 cm
+Grossly evident lesion: Yes
+Histologic type: Lobular carcinoma
+Histologic grade:
+Tumor extent: Not specified
+Lymph nodes: 4/7 positive for metastasis (Axillary 4/7)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Left, upper
+inner
+quadrant
+$141
+Yes
+QUALIFIED
+DISQUALIFIED
+pate Reviewert:
+UUID:64891C7E-E6D8-4952-849F-8F5D57332994
+TCGA-E9-A1N4-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Dual, Synchronous P
+Prior Malignanc
+Cage is (circle):

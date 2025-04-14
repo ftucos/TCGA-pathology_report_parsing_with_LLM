@@ -1,0 +1,159 @@
+TSS:
+1CD-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+12/8/10
+کسل
+Site Code: breast, NOS
+050.9
+UUID:E4D1A7DC-62B1-44D8-A747-5A19842C6F69
+TCGA-E2-A15H-01A-PR
+Redacted
+SPECIMENS:
+A. CLUSTER OF SENTINEL NODES RIGHT BREAST
+B. RIGHT BREAST MASS
+SPECIMEN(S):
+A. CLUSTER OF SENTINEL NODES RIGHT BREAST
+B. RIGHT BREAST MASS
+GROSS DESCRIPTION:
+A. CLUSTER OF SENTINEL NODES RIGHT BREAST
+Received fresh are four tan pink lymph nodes ranging from 0.7 x 0.6 x 0.3cm to 1.1 x 0.7 x 0.6cm. A touch prep is
+taken. Toto A1.
+B. RIGHT BREAST MASS
+Received fresh labeled with the patient's identification and "right breast mass" is a previously inked 23g, 7.5 x 5 x
+2cm needle localized lumpectomy with radiograph. Ink code: anterior-yellow, posterior-black, superior-blue, inferior-
+orange, medial-green, lateral-red. Specimen is serially sectioned from superior to inferior into 7 slices revealing a 1.5
+x 1.5 x 1cm tan white firm well circumscribed mass, 0.1cm from the closest posterior margin in slices 4-5. A portion
+of the specimen is submitted for tissue procurement. Representatively submitted:
+B1: superior margin slice 1
+B2: slice 2
+B3-B4: slice 3
+B5-B6: slice 4 with mass in B6
+B7-B9: slice 5 with mass in B8
+B10-B12: slice 6
+B13-B15: inferior margin slice 7
+DIAGNOSIS:
+A. LYMPH NODES, SENTINEL, RIGHT AXILLA, EXCISION:
+-
+MEATASTATIC CARCINOMA TO ONE OF FOUR LYMPH NODE (1/4), MEASURING 0.1-CM
+(MICROMETASTASES), WITH NO EXTRANODAL EXTENSION, SEE NOTE.
+B. BREAST, RIGHT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.1-CM
+- HIGH NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH CENTRAL
+NECROSIS AND MICROCALCIFICATIONS
+- INVASIVE TUMOR PRESENT AT ANTERIOR SURGICAL RESECTION MARGIN
+- DCIS PRESENT AT ANTERIOR AND MEDIAL, WITHIN 1 MM FROM POSTERIOR AND 2 MM FROM SUPERIOR
+MARGINS
+-
+- LYMPHOVASCULAR INVASION PRESENT
+BIOPSY SITE CHANGES WITH FIBROSIS
+- SEE SYNOPTIC REPORT.
+NOTE: A small cluster of tumor cells is identified in the touch preparation. Dr. concurs.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes - For mass
+Laterality: Right
+Invasive Tumor
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Tumor Site:
+1.1cm
+Not specified
+Involved at
+Margins:
+anterior
+Extent::
+focal
+Tubular Score: 2
+Nuclear Grade:
+3
+Mitotic Score: 2
+Modified Scarff Bloom Richardson Grade: 2
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Extent:
+focal
+Lobular neoplasia:
+None
+Present
+Lymph nodes: Sentinel lymph node only
+Lymph node status:
+Micrometastases:
+DCIS present
+Positive 1/4
+Yes
+Margins involved by DCIS: anterior and medial
+DCIS Quantity: Estimate 10%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location: Both associated and separate from invasive tumor mass
+Nuclear grade: High
+Necrosis:
+Present
+Location of CA++:
+DCIS
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+Performed on Case:
+HER2: Positive by FISH
+OUTSIDE SLIDES (
+pT 1c N 1a
+Pathological staging (pTN):
+CLINICAL HISTORY:
+None provided.
+PRE-OPERATIVE DIAGNOSIS:
+Right breast mass.
+INTRAOPERATIVE CONSULTATION:
+TPA: Cluster of sentinel nodes right breast- Negative for carcinoma: Diagnosis called to Dr. at
+by Dr.
+B. GROSS EXAMINATION: Right breast mass: 1.5cm tumor, <1mm from deep margin. Diagnosis called to Dr. at
+by Dr.
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+44
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+rate of Distant Recurrence at 10 years of 30%
+ER Score: 8.9 Positive
+44 in the clinical validation study had an average
+PR Score:
+6.1 Positive
+Her2 Score: 12.1 Positive
+Interpretation:
+ER Negative <6.5
+PR Negative < 5.5
+Her2 Negative <10.7
+See separate
+Test performed at:
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal
+= 10.7-11.4
+report for further information.
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/S/nchi onous Arimary noted
+Case is (circle):
+☑QUALIFIED
+leviewer Initials
+Date Reviewed:
+Yes
+No

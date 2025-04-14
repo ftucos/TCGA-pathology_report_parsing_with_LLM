@@ -1,0 +1,64 @@
+ICD-0-3
+Carcinoma infiltrating duct, NOS 8500/3
+Site: breast, Nus 050.9
+UUID:976C6F9E-DDCB-42F4-BD2C-A4D715396847
+TCGA-D8-A27F-01A-PR
+Redacted
+for 5/19/11
+copy No.
+7
+Date:
+page 1 / 1
+Internal invoice No.
+Patient: XXX
+Examination: Histopathological examination
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+Material: Multiple organ resection – right breast with axillary tissues
+Unit in charge:
+Physician in charge:
+prof.
+N/A
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dua!/Synchronous Primary Acted
+Case (cliche):
+Review
+QUALIFIED
+Date
+Yes
+DISQUALIFIED
+In 5/19/4 5/9/11
+Clinical diagnosis: Cancer of the right breast. ↑
+Examination performed on:
+Results of immunohistochemical examination:
+No estrogen receptors found in the neoplastic cell nuclei. No progesterone receptors found in the neoplastic cell
+nuclei. HER2 
+protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+)
+dr
+Compliance validated by: dr
+Examination performed on:
+Macroscopic description:
+Right breast sized 19 x 14 x 4 cm removed along with axillary tissues sized 8 x 7 x 3 cm and a skin flap of 17 x 8 cm.
+Tumour sized 2.5 x 2.3 x 2.0 cm in the upper outer quadrant, located 1.7 cm from the upper boundary, 0.2 cm from
+the base and 0.8 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3+3+3: 24 mitoses/10 HPF - visual area: 0.55mm).
+Glandular tissue outside the tumour showing lesions of the type mastopathia fibrosa, adenosis simplex.
+Axillary lymph nodes:
+Sinus histiocytosis lymphonodorum (No XI).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast
+(NHG3, pT2, pNO).
+dr
+Compliance validated by: dr

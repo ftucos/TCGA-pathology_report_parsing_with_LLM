@@ -1,0 +1,175 @@
+Patient:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+Physician(s):
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Race: WHITE
+Taken:
+Received:
+Reported:
+ICD-0-3
+** AMENDED**
+SPECIMEN:
+A: LEFT BREAST TISSUE B: SENTINEL NODE LEFT AXILLARY
+Carcinoma, infiltrating ductal, Nos
+850013
+Site. breast, Nos C50.9
+1/25/11
+کسار
+======:
+FINAL DIAGNOSIS:
+A. BREAST, LEFT, EXCISIONAL BIOPSY:
+-
+INFILTRATING DUCTAL CARCINOMA, NO SPECIAL TYPE.
+-NOTTINGHAM GRADE: III/
+III, POORLY DIFFERENTIATED.
+-NOTTINGHAM SCORE: 8/9 (TUBULES=3, MITOSES=2, NUCLEI=3).
+-TUMOR SIZE: 3.1 CM (MEASURED GROSSLY
+, SEE COMMENT).
+-TUMOR NECROSIS: ABSENT.
+-MICROCALCIFICATIONS: ABSENT.
+-LYMPHVASCULAR INVASION: NO UNEQUIVOCAL INVOLVEMENT.
+-MARGINS: NEGATIVE.
+-INTRADUCTAL COMPONENT: LESS THAN 25%, WITH PROMINENT CANCERIZATION
+OF THE LOBULES (SEE COMMENT).
+-LYMPH NODES: TWO NODES NEGATIVE FOR TUMOR (ONE SENTINEL, ONE WITH
+THE BREAST BIOPSY ITSELF, SEE COMMENT).
+-MULTICENTRICITY: ABSENT.
+-ESTROGEN RECEPTORS: POSITIVE (>10%).
+-PROGESTERONE 
+RECEPTORS: NEGATIVE.
+-HER 2 NEU 
+BY IHC: POSITIVE (3+).
+-PATHOLOGIC STAGE: PT2 NO MX.
+-AJCC STAGE: IN THE ABSENCE OF METASTASES: IIA.
+B. SENTINEL LYMPH NODE, LEFT AXILLARY, EXCISION:
+-ONE LYMPH NODE NEGATIVE FOR MALIGNANCY.
+-IMMUNOHISTOCHEMICAL MARKER FOR CYTOKERATIN CONFIRMS THIS NODE
+IS NEGATIVE FOR MALIGNANCY.
+COMMENT:
+The tumor, measured grossly, is 3.1 cm in greatest dimension. However
+there is cancerization of the lobules which extends 
+up to 1.5 cm beyond
+the grossly 
+recognizable mass of invasive tumor.
+ER, PR and Her 2 studies were performed on the previous core biopsy,
+the results are copied into this report
+, but these studies
+lave not been repeated.
+UUID:28AFD5DD-8607-4837-819F-688C9218ED06
+TCGA-A2-A0CX-01A-PR
+Redacted
+Page 1
+Continued on Next Page
+PERSONAL DATA PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Patient:
+FINAL DIAGNOSIS (continued):
+Specimen #:
+Two lymph nodes are identified, both negative for malignancy. One lymph
+node is present in the breast parenchyma and 
+is the nodule identified
+grossly near the inferior margin. The 
+second one is the sentinel node in
+specimen "B".
+This case has undergone intradepartmental review and the above diagnosis
+has been agreed upon.
+**
+Report Electronicallv Signed Out
+**
+CLINICAL DIAGNOSIS AND HISTORY:
+year old white female with left breast cancer
+GROSS DESCRIPTION:
+designated
+A. Received fresh labeled with patient's name
+"LEFT BREAST LONG 
+STITCH LATERAL, DOUBLE STITCH DEEP, SHORT STITCH
+SUPERIOR" is a 230 gram irregular 
+portion of breast tissue oriented
+as follows: short suture superior, long 
+lateral and double deep. The
+specimen measures 1.0 cm medial to lateral
+, 10.5 cm superior to inferior,
+and 5.0 cm anterior to posterior and is inked 
+as follows: superior
+blue, 
+inferior green, lateral yellow, 
+medial red, anterior orange,
+posterior black. Serial sectioning 
+reveals a 2.7 x 3.1 x 2.5 cm centrally
+located pink white firm gritty mass with well defined 
+borders and comes
+closest 
+to the anterior margin (1.0 cm). A 
+second well circumscribed
+tan 
+white fibrous mass is noted at the 
+inferior margin measuring 1.1 × 0.9
+x approximately 0.8 cm and comes to within 
+approximately 0.4 cm of the
+inferior green margin and comes to within 
+0.2 cm of the lateral yellow
+margin. This mass is located approximately 1.2 
+cm from the larger mass.
+Remainder of cut surface is composed primarily 
+of lobulated adipose tissue
+admixed 
+with scant fibrous tissue. No additional 
+lesions identified.
+Representative sections submitted as 
+follows:
+Al: mass and adjacent normal
+A2: mass and adjacent normal
+A3: normal, 1.0 cm from mass
+Matched sections of A1-A3 and fresh/frozen tumor submitted for CBCP
+protocol.
+Additional sections
+A4 A5 inferior margin
+Page 2
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+PERSONAL DATA - PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+Patient:
+SURGICAL PATHOLOGY REPORT
+A
+Specimen #:
+GROSS DESCRIPTION (continued):
+A6-A8 small nodule inferior margin
+A9-A10: tissue from same plane sectioned in A2
+All: next plane of tissue
+A12-A14: tissue from same plane as Al
+A15: superior 
+margin. 15CF
+B. Received fresh labeled with patient's name
+designated
+"SENTINEL LYMPH NODE LEFT AXILLARY" consists of a single 1.0 x 0.8 × 0.4
+cm pink tan lymph node with attached adipose tissue
+. Specimen is bisected
+and one half 
+submitted in B1 and remaining half 
+submitted for CBCP
+protocol.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials,
+QUALIFIED
+Gate Reviewed:
+Yes
+No
+Page 3
+End of Report
+FOR OFFICIAL USE ONLY - PERSONAL DATA -
+PRIVACY ACT OF 1974

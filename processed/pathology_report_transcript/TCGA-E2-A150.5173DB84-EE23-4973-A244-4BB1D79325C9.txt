@@ -1,0 +1,156 @@
+TSS:
+SPECIMENS:
+A. SLN #1 LEFT AXILLA
+B. SLN #2 LEFT AXILLA
+C. WLE LEFT BREAST
+D. POSTERIOR MARGIN LEFT BREAST
+SPECIMEN(S):
+A. SLN #1 LEFT AXILLA
+B. SLN #2 LEFT AXILLA
+C. WLE LEFT BREAST
+D. POSTERIOR MARGIN LEFT BREAST
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA, SLN #1, Left axilla: No carcinoma identified
+TPB, SLN #2, Left axilla: No carcinoma identified
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+8500/3
+Site Code: breast, Nos
+12/8/10
+کسل
+050.9
+UUID:5173DB84-EE23-4973-A244-4BB1D79325C9
+TCGA-E2-A150-01A-PR
+Redacted
+Part C, WLE Left breast: Mass immediately adjacent to posterior margin, additional tissue requested
+Diagnoses called at
+GROSS DESCRIPTION:
+A. SLN #1 LEFT AXILLA
+".
+(A and B) and
+1. (C) by Dr.
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number one
+left axilla" is a fragment of adipose tissue measuring 2.5 x 2 x 1.3 cm. One possible lymph node is
+identified measuring 1.5 x 1 x 0.5 cm. Touch preparation is performed. The entire lymph node is
+submitted, A1.
+B. SLN #2 LEFT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number two
+left axilla" is a fragment of possible lymphoid tissue measuring 1.5 x 1.1 x 1.1 cm. Touch preparation is
+performed. The entire specimen is submitted, B1.
+C. WLE LEFT BREAST
+Received fresh labeled with the patient's identification and designated "left breast wide local excision" is
+an 81-g, 8 x 7 x 5.5 cm oriented lumpectomy specimen. The long suture designates lateral, short-
+superior. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-
+orange. The specimen is serially sectioned from medial to lateral into 6 slices revealing a firm beige
+mass with granular cut surface, 2.5 x 2.2 x 1.5 cm located right at the posterior margin. A portion of the
+specimen is submitted for tissue procurement. Representatively submitted:
+C1-C2: Perpendicular sections medial margin
+C3-C4: Slice 2, mass, posterior/superior margin
+C5-C6: Slice 2, mass, posterior/inferior margin
+C7-C8: Slice 2, anterior/inferior
+C9-C10: Slice 3, remainder of mass, posterior margin
+C11: Slice 3, superior/anterior
+C12: Slice 3, inferior
+C13: Slice 4, posterior
+C14: Slice 4, superior
+C15: Perpendicular sections lateral margin
+D. POSTERIOR MARGIN LEFT BREAST
+Received in formalin labeled with the patient's identification and designated "posterior margin left
+breast" is an oriented (suture at final margin" 9-g, 4 x 3 x 1.5 cm fragment of fibroadipose tissue. The
+final margin inked black. The entire specimen is submitted, D1-D9.
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+B. LYMPH NODE, SENTINEL #2, LEFT AXILLA, EXCISION:
+ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 2.2-CM
+-- TUMOR PRESENT 1.5-MM FROM CLOSEST POSTERIOR MARGIN (POSTERIOR).
+SEE SYNOPTIC REPORT.
+D. BREAST, LEFT, POSTERIOR MARGIN, EXCISION:
+- BREAST TISSUE, NEGATIVE FOR TUMOR.
+-
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Invasive Tumor:
+Multifocality: No
+Excision
+No
+Present
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 2.2cm
+Tumor Site: Not specified
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+3
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+Sentinel lymph node only
+Negative 0/2
+DCIS not present
+ER/PR/HER2 Results
+ER: Pending
+PR: Pending
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+PT 2 NO
+CLINICAL HISTORY:
+3
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+ADDENDUM:
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+C6
+ER: Negative Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+0 = Proportion Score 0 + Intensity Score 0
+0 = Proportion Score 0 + Intensity Score 0
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by Dako
+following the manufacturers instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist
+Final: Pathologist, (
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Print Noted
+Case is (circle):
+Reviewer Initials
+Yes
+QUALIFIED QUE
+ate Reviewed:

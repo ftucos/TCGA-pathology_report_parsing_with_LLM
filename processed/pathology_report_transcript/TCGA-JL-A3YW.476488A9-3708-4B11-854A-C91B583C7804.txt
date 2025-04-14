@@ -1,0 +1,50 @@
+UUID:476488A9-3708-4811-854A-C918583C7804
+TCGA-JL-A3YW-01A-PR
+Redacted
+CLINICAL INFORMATION/COMMENTS:
+1
+LAB NO:
+FEMALE ⚫ YEARS
+PATIENT CODE
+CONSULTANT:
+Loc: METRICS CANCER PR
+1
+DATE:
+PRINTED ON:
+Histopathology Blopay Smalt
+Specimen:
+Two blocks representing left breast tissue are received.
+Clinical Note:
+Carcinoma left breast.
+Microscopic Features:
+One of the block reveals breast tissue infiltrated by acellular neoplastic lesion composed of
+intermediate size tumor cells exhibiting moderate nuclear pleomorphism with eosinophilic
+cytoplasm. Mitotic figures are also identified. The surrounding strama exhibits moderate
+chronic inflammation. Focal necrosis (< than 5%) is noted.
+The other block reveals benign breast tissue.
+Conclusion:
+Two blocks representing left breast tissue received for 2nd opinion :-
+Infiltrating Lobular Carcinoma grade II (Tubule formation 2/3, Nuclear pleomorphism 2/3,
+Mitoses 2/3. Total = (6/9), according to Modified Bloom and Richardson's grading system.
+Tumour nuclei constitute approximately 70% of the total nuclei.
+Dr.
+ICD-0-3
+carcinoma, infiltrating lobular, Nos
+852013
+Site: breast, Nos C50.9
+سلام
+6/17/12
+Criteria
+Diagnosis Discrepancy
+Primary Tu.nor Site Discrepar.cy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+6/17/12

@@ -1,0 +1,35 @@
+850013
+1/21/11
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+Situ, Breast, Nos
+C50.9
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma with focal intraductal components and
+angioinvasion (maximum microscopic tumor diameter: 4.0 cm).
+Diagnosis:
+1. Ablated (left) breast sample with extensive further invasive and angioinvasive
+tumor components, as well as foci of further intraductal tumor components in the
+cavity region of the sample excision (maximum spread: 8 cm). Massive subepidermal
+carcinomatous lymphangitis of the skin spindle. Dorsal resection margin tumor-free.
+Comment:
+The massive subepidermal carcinomatous lymphangitis in the region of the skin
+spindle could correlate closely with the clinical appearance of an inflammatory
+carcinoma, although there is no ulceration of the skin spindle.
+This gives rise to the concluding tumor classification NOS, G III, pT3N3aL1V1R0.
+Redacted
+UUID:CA911D90-5DDA-49F1-993F-68FCA77A8558
+TCGA-A8-A08X-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle
+):
+Reviewer it
+Yes
+QUALIFIED
+DISQUALIFIED
+Reviewed:

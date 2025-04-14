@@ -1,0 +1,154 @@
+Patient:
+Surgic
+Surg Path
+Adenocarcinoma, infiltrating ductal. Nos 8500/3
+Path: Site Code: breast, upper outer quadrant.
+COCF: breast, Nos C50.9
+050.4.
+1/17/11 lu
+N/A -> Rient
+UUID:64D53A4B-4735-4AD2-A413-520797F5F9CB
+TCGA-B6-AØRT-01A-PR
+Redacted
+CLINICAL HISTORY:
+year old female with breast cancer.
+GROSS EXAMINATION:
+A. "Right breast biopsy". received fresh and fixed in formalin. An unoriented,
+6.5 x 5.5 x 2.5 cm incisional breast 
+biopsy received cross-sectioned. One
+surface of the specimen has 
+previously been inked black, and a frozen section
+has been taken from this area. 
+Grossly, the tumor is present at the ink.
+Serial sectioning reveals an 
+irregular, whitish, infiltrative tumor 3.5 x 1.7
+x 2.1 cm in greatest dimension, 
+with focal petechia hemorrhage. A 0.3 cm area
+of yellowish gritty texture in the center of the tumor is suspicious of
+calcification. There is 
+no gross tumor necrosis. A separate, 0.3 cm well
+defined, yellowish nodule is located approximately 0.5 cm from the main
+tumor. The specimen is 
+inked and serially sectioned every 0.5 cm.
+Representative sections are 
+submitted.
+BLOCK SUMMARY:
+Al- remnants of AF1. 2.7 x 1.6 x 0.3 cm soft tissue fragment.
+A2-A13- serial 
+sections of the specimen every 0.5 cm, of which:
+A7- tumor including 
+the calcification,
+A8- section adjacent to AF1,
+A9-0.3 cm nodule,
+A13-normal appearing breast.
+B. "Right breast", received fresh and fixed in formalin. A modified right
+mastectomy 21.1 x 15.2 x 
+3.5 cm, a skin ellipse 14.2 x 7.1 cm, and axillary
+tail 7.5 x 6 x 2 cm. A fresh, 
+horizontal 5 cm incision line is located
+superior lateral to 
+the nipple, 1.5 cm below the superior skin resection
+margin. The skin surface is 
+smooth with no discoloration, gross mass, or
+nipple retraction. The specimen is 
+serially sectioned to reveal a biopsy
+cavity 6.5 x 5.5 x 2 cm, which 
+corresponds to the size of the previous biopsy
+specimen. The superior wall of the 
+cavity appears to contain a 2.5 x 1.5 x 2
+cm residual tumor which has a similar 
+cut surface and texture to that in the
+biopsy specimen. The residual 
+tumor is located approximately 1.5 cm from the
+closest deep resection margin, and 
+over 4 cm from the superior margin. The
+biopsy cavity is otherwise 3 
+cm from the inferior margin, 4.9 cm from the
+superior margin, 1 cm from the 
+deep margin, 4.5 cm from the medial margin, 2.5
+cm from the lateral margin, and 1 
+cm from the skin. The deep resection margin
+is inked in blue, superior margin in 
+black, and inferior margin in red. The
+axillary tail is dissected for lymph 
+nodes. Multiple lymph node candidates are
+found, the largest measuring 1.5 x 
+1.3 x 1.0 cm. Representative sections of
+the breast and lymph nodes are 
+submitted.
+BLOCK SUMMARY:
+B1- inner upper quadrant.
+B2- inner lower quadrant.
+B3- outer upper quadrant.
+B4- outer lower quadrant.
+B5- nipple.
+B6 skin with incision.
+B7-B8- tumor in biopsy cavity and the closest deep resection margin.
+B9- biopsy cavity (superior wall).
+B10- biopsy cavity (inferior wall).
+B11-B17- axillary lymph node candidates.
+B18- low axillary tail
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History -
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALIFIED
+Reviewer tials
+te Reviewed:
+tw
+Yes
+No
+DISQUALIFIED
+INTRA OPERATIVE CONSULTATION:
+A. "Right breast": Afl- adenocarcinoma extending to inked margin.
+DIAGNOSIS:
+A. "RIGHT BREAST" (BIOPSY):
+INFILTRATING ADENOCARCINOMA OF DUCTAL TYPE, NOT OTHERWISE SPECIFIED.
+N.S.A.B.P. HISTOLOGIC GRADE, 3 OF 3.
+N.S.A.B.P. NUCLEAR GRADE, 2 TO 3 OF 3.
+GROSS TUMOR SIZE IS 3.5 X 2.2 X 1.7 CM.
+INVASIVE TUMOR SIZE IS 3.5 CM.
+IN SITU CARCINOMA OF COMEDO TYPE IS PRESENT, OCCUPYING LESS THAN 10% OF
+TUMOR.
+NO EXTENSIVE INTRADUCTAL CARCINOMA OR MULTIFOCAL TUMOR IS PRESENT.
+NON-NEOPLASTIC BREAST TISSUE SHOWS DUCTAL ECTASIA, FIBROSIS, AND MICROCYST
+FORMATION.
+LYMPHATIC/VASCULAR INVASION IS PRESENT (A9).
+CARCINOMA EXTENDS TO SURGICAL MARGIN MULTIFOCALLY.
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS IS PENDING.
+METHODOLOGY: FRESH TISSUE.
+B. "RIGHT BREAST" (MODIFIED MASTECTOMY):
+INFILTRATING ADENOCARCINOMA OF DUCTAL TYPE, NOT OTHERWISE SPECIFIED.
+N.S.A.B.P. HISTOLOGIC GRADE, 3 OF 3.
+N.S.A.B.P. NUCLEAR GRADE, 3 OF 3.
+GROSS TUMOR SIZE IS AT LEAST 6.0 CM.
+INVASIVE TUMOR SIZE IS 6.0 CM.
+CARCINOMA IS LOCATED IN THE UPPER-OUTER QUADRANT.
+IN SITU CARCINOMA OF COMEDO TYPE: SEE SPECIMEN "A".
+MULTIFOCAL TUMOR IS NOT PRESENT.
+NON-NEOPLASTIC BREAST TISSUE SHOWS DUCTAL ECTASIA, FIBROSIS, AND MICROCYST
+FORMATION.
+LYMPHATIC/VASCULAR INVASION PRESENT.
+CARCINOMA IS FOCALLY TO WITHIN 0.7 CM OF THE DEEP SURGICAL MARGIN (A7).
+NIPPLE SHOWS NO INVOLVEMENT BY PAGET'S DISEASE.
+SKIN IS NOT INVOLVED BY CARCINOMA.
+ONE OF 23 LYMPH NODES POSITIVE FOR CARCINOMA (1/23).
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS PENDING. RESULTS WILL BE
+ISSUED IN AN ADDENDUM.
+METHODOLOGY: FRESH TISSUE.
+Verified by:
+ADDENDUM 1:
+Tissue was sent to the
+for assay of the Estrogen
+and Progesterone receptors. The Estrogen receptor activity was judged as
+negative with 
+an estimated fmol valve of 0. The Progesterone receptor activity
+was judged as negative with an estimated fmol of valve of 0. The
+proliferation index was estimated to be high with a PI of 70%. Please refer
+for a complete report.
+to
+Verified by
+2 of 2

@@ -1,0 +1,95 @@
+Surgical Pathology —
+Surg Path
+carcinoma, infiltrating ductal, Nos 8500/3
+Site. breast NUS 050.9
+1/25/11 kw
+UUID:BACD800B-F320-472C-ACFF-175E9F525E9F
+TCGA-B6-A0WT-01A-PR
+Redacted
+CLINICAL HISTORY:
+Not provided.
+GROSS EXAMINATION:
+A. "Left breast biopsy (AF1)", fresh. A 7 x 4.9 x 1.7 cm yellow-white
+fibrofatty breast biopsy notable for a 2.5 x 3.5 x 2 cm firm, white lesion.
+After consultation with Dr.
+it was deemed that no surgical margins
+or orientation are required on this specimen. The tissue surface is inked in
+black, however. Tissue from the lesion is sent to the Tissue Bank for Estrogen
+and Progesterone receptor study. The frozen section remnant (AF1) was taken
+from the lesion area is submitted in Block A1. A representative sampling from
+the lesion area is submitted in Blocks A2-A5. Due to the fact that neither
+margins or orientation is an issue in the specimen, only a sampling of the
+lesion is taking-- the entire breast biopsy is not submitted.
+B. "Left breast", fresh. A mastectomy specimen consisting of a 19 x 10 cm
+ellipse of skin, a 24 x 15 x 5 cm breast and a 11 x 6 x 3.5 cm axillary tail.
+The deep surfaces of the breast are inked in black. The skin ellipse contains
+the nipple and surrounding areola and is notable for a 4.5 cm freshly sutured
+horizontal incision medial to the nipple.
+The breast specimen is notable for a 7 x 6 x 1.5 cm hollow biopsy cavity lined
+by mildly firm, granular red-pink tissue 0.1 cm thick. At its closest point,
+the biopsy cavity is 1.5 cm from the posterior surface, 1.7 cm from the
+inferior surface, 9 cm from the superior surface, and 1.2 cm from the
+overlying anterior skin surface. The remainder of breast is diffusely composed
+of yellow-white fibrofatty tissue. No focal lesions are noted.
+BLOCK SUMMARY:
+B1- representative section of nipple.
+B2- representative section of biopsy cavity and closest approach to posterior
+surface.
+B3- representative section of biopsy cavity and closest approach to inferior
+surface.
+B4- biopsy cavity and closest approach to anterior skin surface.
+B5-B6 additional sections of biopsy cavity.
+B7 B8 representative sections of upper medial portion of breast.
+B9-B10- representative sections of lower medial portion of breast.
+B11-B12- representative sections of upper lateral breast.
+B13-B14
+representative sections of lower portion of breast.
+B15- four lymph node candidates from most medial portion of axillary tail.
+B16 four lymph node candidates from mid portion of axillary tail.
+B17 three lymph node candidates from most lateral portion of axillary tail.
+B18 three lymph node candidates from most lateral portion of axillary tail.
+B19- 
+three lymph node candidates from most lateral portion of axillary tail.
+Dr.
+INTRA OPERATIVE CONSULTATION:
+A. "Left breast biopsy": AF1- positive for invasive carcinoma
+DIAGNOSIS:
+A. "LEFT BREAST BIOPSY":
+INFILTRATING DUCTAL CARCINOMA, HISTOLOGIC GRADE 3, NUCLEAR GRADE 2
+N.S.A.B.P..
+Criteria
+Diagnosis Discrepancy
+No
+Yes
+Prary Tumor Ste Discrepancy
+HIPAA Discrepancy
+Friar Malignancy History
+Uu. Synchronous Primary Notes
+Ca.es (ircle):
+Peviewer Initials
+QUALIFIED
+/ CSQUAL HFD
+Date Reviewed:
+выс
+41670
+MAXIMUM TUMOR SIZE 3.5 CM.
+IN SITU DUCTAL COMPONENT REPRESENTS APPROXIMATELY 15 TO 20% OF TUMOR MASS.
+B. "LEFT BREAST"
+(MASTECTOMY):
+BREAST TISSUE WITH BIOPSY CAVITY.
+NO EVIDENCE OF MALIGNANCY.
+1 OF 15 LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA (SEE NOTE).
+BENIGN PROLIFERATIVE CHANGES OF THE BREAST INCLUDING EXTENSIVE FIBROSIS,
+DUCT ECTASIA, APOCRINE METAPLASIA, AND HYPERPLASIA OF THE USUAL TYPE.
+NOTE: One large lymph node (B18) appears negative for malignancy but is being
+reprocessed for further examination. An addendum will be issued to this
+report documenting the findings in this lumah
+Verified by:
+Date Signed:
+ADDENDUM 1:
+Review of a reprocessed blocks (B18) shows three lymph nodes with no evidence
+of malignancy. The one large lymph node mentioned in the original report
+specifically contains no evidence of malignancy.
+:
+Verified by:
+Date Signed:

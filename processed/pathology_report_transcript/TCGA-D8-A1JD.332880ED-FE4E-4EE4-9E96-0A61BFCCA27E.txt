@@ -1,0 +1,81 @@
+Department of Cancer Pathology
+ICD-0-3
+Carcinoma, infiltrating ductal, Nus 8500/3
+050.9
+Site: breast
+3/11/11
+NOS page 1 / 2
+سر
+copy No.
+Date:
+Internal invoice No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Patient: XXX
+PESEL: XXX
+Age:
+Gender: F
+Material: 1. Total organ resection - left breast and axillary tissue
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast- outer upper quad.
+Examination performed on
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+)
+Examination performed on:
+Compliance validated by:
+'xamination No.:
+Macroscopic description:
+Left breast sized 19 x 18 x 5 cm removed along with axillary tissues sized 11 x 4.5 x 1.5 cm and a 19
+x 10 cm skin flap. Weight 620 g.
+Tumour sized 2.8 x 1.5 x 2.5 cm on the border of upper quadrants, 4.5 cm from the upper
+boundary, 0.2 cm from the base and 1.0 cm from the skin.
+Another tumour sized 0.5 x 0.7 x 0.5 cm found 1.5 cm away from the first one (margins: lower
+boundary - 10 cm; base - 0.1 cm; skin – 3.5 cm).
+UUID:332880ED-FE4E-4EE4-9E96-0A61BFCCA27E
+TCGA-D8-A1JD-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is (circle):
+QUALIFIED
+Date Reviewed:
+Retie es
+DISQUALIFIED
+to 3/11/11
+Microscopic description:
+Both tumours showing similar pattern.
+Carcinoma ductale invasivum bifocal - NHG2 (2 + 3 +1/7 mitoses/10 HPF, visual area diameter 0.55
+mm).
+Foci of carcinoma ductale in situ DCIS found within the tumour (solid and cribrate type with high
+nuclear atypia and comedo necrosis, 5% of the tumour).
+Reactio lymphocytaria peritumoralis.
+Mamilla sine laesionibus.
+Glandular tissue showing mastopathia fibrosa et cystica.
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodis No III/XIV.
+Infiltratio capsulae lymphonodis et telae perinodalis.
+Patient: XXX
+page 2 / 2
+Examination No.:
+PESEL: XXX
+Gender: F
+Examination performed on
+Histopathological diagnosis:
+Carcinoma ductale invasivum bifocale mammae sinistrae. Invasive bifocal ductal carcinoma of the left breast.
+Metastases carcinomatosae in lymphonodis axillae No. III/XIV. Cancer metastases in axillary lymph nodes
+No. III/XIV.
+(NHG2, pT2, pN1a).
+Compliance validated by::

@@ -1,0 +1,52 @@
+TSS ID
+TSS IC
+Gross Description:
+Oc
+Date of Procuremer
+Microscopic Description:
+Diagnosis Details:
+Comments:
+Formatted Path Report:
+BREAST TISSUE CHECKLIST
+Specimen type: Mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 4 x 3.5 x 2 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: Not specified
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+ICD-0-3
+carcinoma, infiltrating duct, NOS 8500/3
+4/8/11 for
+Site: breast, Nos
+050.9
+UUID:864BB34A-1008-480C-A3B5-A2C616E95C49
+TCGA-E9-A1QZ-01A-PR
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Priur Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cirtlex.
+Reviewer Inials
+Redacted
+Yes
+No
+QUALIFIED
+Beta Raeved:
+DISQUALIFIED
+4/8

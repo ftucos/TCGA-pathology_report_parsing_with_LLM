@@ -1,0 +1,121 @@
+Date Coll:
+UUID:5CC0C09F-70F6-458A-88E6-18BDC074BE74
+TCGA-A7-A26]-01A-PR
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+C50.9
+سر
+4/27/11
+Redacted
+SURGICAL PATHOLOGY REPORT
+SPECIMEN
+A. Left axillary sentinel node
+B. Left breast silk on superior breast
+CLINICAL NOTES
+PRE-OP DIAGNOSIS:
+Left breast cancer.
+-year-old white female with cancer.
+CLINICAL HISTORY:
+POST-OP DIAGNOSIS: Same
+GROSS DESCRIPTION
+A. Received fresh labeled "left axillary node" is a 3.8 x
+2.4 x 0.6 cm. portion of soft, lobulated golden-yellow
+adipose tissue. Two (2) slightly rubbery tan-pink tissues in
+keeping with lymph node measuring 0.8 and 1.8 cm. in greatest
+dimension are recovered. The specimen is entirely submitted in
+three blocks as labeled:
+BLOCK SUMMARY: #A1, A2 One (1) bisected lymph node per cassette;
+-1 adipose tissue.
+B.
+Received fresh labeled "left breast" is a 21.5 cm
+(superior to inferior) x 20.5 cm (medial to lateral) x 3.8
+cm (anterior to posterior) diffusely cauterized soft, lobulated
+tan-gold-white portion of fibroadipose tissue in keeping with breast
+designated as left per requisition slip and container and oriented
+by a single suture as stated previously. A 7.2 cm (medial to
+lateral) x 4.7 cm (superior to inferior) tan-white skin ellipse is
+present along the anterior aspect. The intact deep margin is inked
+black and the specimen is sectioned. There is a central, stellate,
+3.0 cm (medial to lateral) x 2.2 cm (superior to inferior) x 2.0 cm
+(anterior to posterior) rubbery tan-white lesion at the junction of
+the four quadrants with several cylindrical tan-white structures in
+keeping with site of prior needle core biopsy. A portion of the
+lesion and a portion of normal are submitted for tissue procurement
+as requested. The lesion is present within 0.8 cm of the skin.
+surface in the vicinity of the nipple and is within 0.5 cm of the
+inked deep margin. The parenchyma throughout the remainder of the
+specimen consists predominantly of glistening lobulated golden.
+yellow adipose tissue with a moderate amount of interspersed dense
+tan-white fibrous tissue. No additional mass lesion or abnormality
+is identified. Three rubbery white-pink tissues in keeping with
+lymph nodes measuring up to 0.8 cm in greatest dimension are
+recovered from the lateral aspect of the specimen. Representative
+sections are submitted in 12 blocks as labeled.
+BLOCK SUMMARY: 1-2 Tumor to inked deep margin; 3-4 - tumor to
+skin (4 includes nipple); 5-6 - tumor to adjacent parenchyma; 7 -
+random upper outer quadrant; 8 - upper inner quadrant; 9 - lower
+inner quadrant; 10 - lower outer quadrant; 11 - two whole lymph
+nodes; 12 - one bisected lymph node.
+MICROSCOPIC DESCRIPTION
+Invasive carcinoma:
+Histologic type:
+Ductal (with lobular features)
+III
+Histologic grade:
+Overall grade: 8/9
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 2
+Greatest dimension (PT): 3.0 cm
+Specimen margins: Negative
+Vessel invasion: Present
+Calcification: Negative
+Nipple (Paget's): Carcinoma involves the deep nipple tissue, and
+is present in the deep dermis within the skin adjacent to the
+nipple (areolar area).
+Invasion of skin or chest wall: As above.
+Ductal carcinoma in situ:
+Histologic pattern: Cribriform
+Nuclear grade: 3
+Central necrosis: Present
+* DCIS of total tumor (if mixed): < 10%
+Extensive intraductal component (present/absent): Absent
+Specimen margins: Negative
+Calcification: Negative
+Description of non-tumorous breast: Fibrocystic changes,
+fibroadenomata.
+Comments: Prior biopsy site identified within the main tumor mass.
+There is an additional satellite nodule of invasive tumor, 2 mm in
+greatest dimension, in the lower outer quadrant, away from the main
+tumor mass, and associated with ductal carcinoma in-situ. This
+focus of invasive tumor is 2 mm from the deep margin.
+Lymph nodes: Two negative sentinel lymph nodes, and two negative
+additional lymph nodes (0/4).
+Prognostic markers: See previous report,
+4x2
+DIAGNOSIS
+A. Sentinel lymph node, left axilla, biopsy:
+B.
+Two negative lymph nodes (0/2).
+Breast, left, mastectomy:
+Invasive ductal carcinoma, grade III, 3.0 cm in greatest
+dimension.
+Negative margins of excision.
+Lymphovascular invasion identified.
+Two negative lymph nodes (0/2).
+ectronic Signature)
+End Of Report
+Criteria
+Yes
+No _
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary fluted
+Case is (circleD
+Reviewer Initial: 1
+QUALIFIED / DISQUALIFIED
+Date Reviewed
+4/27/11

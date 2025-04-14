@@ -1,0 +1,64 @@
+1052-3
+Infiltratin
+duct carcinoma, Nos
+Site breast, Nos
+3500/3
+سا
+11/22/10
+050-9
+Department of Cancer Pathology
+page 1 / 1
+copy No.
+Date:
+Examination: Histopathological examination
+Examination No.:
+Patient:
+PESEL:
+Age:
+Gender: F
+Material: Multiple organ resection - left breast
+Unit in charge.
+Physician in charge:
+Material collected on
+Material received on
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast (inner lower quadrant).
+Examination performed on:
+Macroscopic description:
+Left breast, sized 21.8 x 21.2 x 6.5 cm, removed along with axillary tissues sized 11 x 7 x 3 cm and a skin flap
+of 21.2 x 11.1 
+cm. Weight 1,360 g. Tumour sized 2.8 x 2.1 x 1.5 cm found on the boundary of inner quadrants,
+placed 3.6 cm 
+from the upper edge, 0.9 cm from the base and 2.8 cm from the skin. Status after core needle
+biopsy (test No
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3+3+3: 35 mitoses /10 HPF - visual area: 0.55mm).
+Focuses of carcinoma ductale in situ (DCIS) found within tumour (solid type, with high nuclear
+atypia and comedo necrosis, 10% of the tumour).
+Reactio lymphocytaria peritumoralis.
+Lesions in situ: cancerisatio lobulorum.
+Mamilla sine laesionibus.
+Glandular tissue showing parenchyma atrophy.
+Axillary lymph nodes:
+Lymphonodulitis reactiva No XI.
+Histopathological diagnosis:
+(including test No.
+UUID:F8C2F3EF-FA73-4FF8-9A4E-7F557E68D568
+TCGA-
+D8-A143-01A-PR
+Redacted
+Carcinoma ductale invasivum et ductale in situ mammae sinistrae.
+(NHG3, pT2, pNO ).
+INVASIVE AND IN SIN DUCTAL CARCINOMA OF THE LEFT BREAST
+Compliance validated by:
+Criteria
+Hagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Fynchronous Primary Noted
+wylewar
+Yes
+QUALIFIED
+Date Review:
+DISQUALIFIED

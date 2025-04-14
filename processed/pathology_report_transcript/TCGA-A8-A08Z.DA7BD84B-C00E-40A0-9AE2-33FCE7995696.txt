@@ -1,0 +1,31 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+050.9
+1/25/11 few
+3
+Diagnosis:
+1. Invasive breast carcinoma with focal angioinvasion and tumor infiltration of
+the skin spindle with foci of ulceration (tumor diameter: 5.0 cm). Dorsal resection margin
+tumor-free
+In conclusion, this is a moderately differentiated invasive ductal carcinoma with focal
+angioinvasion 
+and ulceration of the skin spindle.
+Tumor classification: NOS, G II, pT4bN3aL1VORO
+3
+UUID:DA7BD84B-C00E-40A0-9AE2-33FCE7995696
+TCGA-AB-A082-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle)
+Reviewartial
+QUALIFIED
+Date Reviewed.
+Redacted
+Yes
+No
+DISQUALINED

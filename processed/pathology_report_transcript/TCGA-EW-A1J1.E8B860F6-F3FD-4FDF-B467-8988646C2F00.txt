@@ -1,0 +1,294 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A. Sentinel node #1 Count #
+FS:
+Metastatic carcinoma to lymph node (1/1) with extracapsular extension.
+B. Sentinel node #2 count
+-
+S:
+No malignancy seen in one lymph node (0/1).
+Immunohistochemistry for keratin to follow.
+C. Sentinel node #3 count
+No malignancy seen in one lymph node (0/1).
+Immunohistochemistry for keratin to follow.
+D. Sentinel node #4 count
+FS:
+No malignancy seen in one lymph node (0/1).
+Immunohistochemistry for keratin to follow.
+E. Sentinel node #5 count
+-
+-
+FS:
+No malignancy seen in one lymph node (0/1).
+Immunohistochemistry for keratin to follow.
+F. Sentinel node #6 count
+->
+-
+FS:
+No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin to follow.
+G. Axillary fat (perm):
+No malignancy seen in one lymph node (0/1).
+H. Skin right breast:
+-
+Skin with no specific pathologic change.
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+Site: breast, NOS C50.9
+8500/3
+2/8/11
+ん
+1. Right breast lumpectomy (short stitch superior, long lateral) fresh:
+-
+UUID:E8B860F6-F3FD-4FDF-8467-8988646C2F00
+TCGA-EW-A1]1-01A-PR
+Redacted
+Invasive poorly differentiated ductal carcinoma, Nottingham grade 3 (3 + 3 + 3), 3.5 cm.
+- Lymphovascular space invasion is not identified.
+· Specimen margins are negative for tumor.
+J. Additional deep margin (perm):
+No malignancy seen.
+K. Right axillary contents (perm):
+-
+No malignancy seen in ten lymph nodes (0/10).
+L. Left breast tissue (perm):
+No malignancy seen.
+Surgical Pathology Tumor Summary
+Specimen: partial breast
+Procedure: Excision without wire-guided localization
+Lymph node sampling: Sentinel lymph nodes, axillary dissection (partial or complete dissection)
+Specimen Integrity: Single intact specimen
+Specimen Size: Greatest dimension: 9.5 cm
+Additional dimensions: 8 x 5.5 cm
+Specimen Laterality: Right
+Tumor Size: Greatest dimension of largest focus of invasion over 0.1 cm: 3.5 cm
+Additional dimensions: 3 x 3 cm
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Skeletal Muscle: No skeletal muscle present
+SURGICAL PATHOL Report
+Histologic type of invasion: Invasive ductal carcinoma.
+Glandular (Acinar)/tubular Differentiation: Score 3: <10% of tumor are forming glandular/tubular structures
+Nuclear Pleomorphism: Score 3: Vesicular nuclei, often with prominent nucleoli exhibiting marked variation in size and shape,
+occasionally with very large and bizarre forms.
+Mitotic Count: Score 3
+Overall Grade: Grade 3: scores of 8 or 9
+Margins uninvolved by invasive carcinoma
+Lymph-vascular invasion: Not identified
+Number of lymph nodes examined: 6
+Total number of lymph nodes examined (sentinel and non-sentinel): 17
+Number of lymph nodes with macrometastasis (>0.2 cm): 1
+Extranodal extension: Present
+Method of evaluation of sentinel lymph nodes: Hematoxylin and eosin (H & E) one level, immunohistochemistry
+PT2: Tumor >20 mm but <50 mm in greatest dimension
+PN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+Distant metastasis: not applicable
+Estrogen Receptor: Performed on another specimen
+Progesterone Receptor: Performed on another specimen
+Immunoperoxidase studies: Performed on another specimen
+1. immunoreactive tumor cells present (>1%)
+immunoreactive tumor cells present (>1%)
+, negative (score 0)
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically use indicators that do
+not require FDA approval. These clones are used: 105-ER, PgR 636-PR, A485 HER2, H-11=EGFR, CCH2/DDG9=CMV, F39.4.1 AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+As the attending pathologist, I attest that 1: (1) Examined the relevant
+preparation(s) for the specimen(s); and (8) Rendered the diagnosis(OS).
+Status: Signed Out
+Addendum Diagnosis
+B.
+C.
+D.
+E.
+Immunohistochemistry for Keratin stain is negative for metastatic carcinoma to the lymph node.
+Immunohistochemistry for Keratin stain is negative for metastatic carcinoma to the lymph node.
+Immunohistochemistry for Keratin stain is negative for metastatic carcinoma to the lymph node.
+Immunohistochemistry for Keratin stain is negative for metastatic carcinoma to the lymph node.
+Intraoperative Consultation
+AFS.
+Sentinel node #1 Count #
+FS:
+One lymph node with metastatic carcinoma.
+BFS.
+Sentinel node #2 count
+FS:
+Page 2 of 4
+SURGICAL PATHOL Report
+One lymph node, no carcinoma seen.
+CFS.
+Sentinel node #3 count
+DFS.
+Adipose tissue only. No lymph node identified grossly.
+Seninel node #4 count:
+FS:
+One lymph node, no carcinoma seen.
+EFS.
+Sentinel node #5 count
+FS:
+One lymph node, no carcinoma seen.
+FFS.
+Sentinel node #6 count
+FS:
+One lymph node, no carcinoma seen.
+Clinical History:
+Patient is a
+female with right breast cancer.
+Pre Operative Diagnosis:
+Right breast cancer.
+Specimen(s) Received:
+A: Sentinel node #1 Count #
+B: Sentinel node #2 count
+FS
+FS
+C: Sentinel node #3 count
+i
+D: Seninel node #4 count a
+FS
+E: Sentinel node #5 count
+FS
+F: Sentinel node #6 count
+FS
+G: Axillary fat (perm)
+H: Skin right breast
+I: Right breast lumpectomy (short stitch superior, long lateral) fresh
+J: Additional deep margin (perm)
+K: Right axillary contents (perm)
+L: Left breast tissue (perm)
+Gross Description:
+Received fresh and labeled "sentinel node #1 count #
+0.2 cm. The cassettes are submitted as follows:
+Submitted for frozen section
+Remainder of the tissue
+A.
+1
+2
+B.
+C.
+Received fresh and labeled "sentinel node #2 count
+FS" consists of pale yellow soft tissue measuring 1 x 0.3 x
+FS" consists of light brown fragments 49 count measuring 1
+x 0.2 x 0.3 cm in aggregate. The cassettes are submitted as follows:
+Submitted for frozen section
+1
+2
+Remainder of the tissue.
+Received fresh and labeled "sentinel node #3 count
+specimen submitted in toto in two cassettes.
+Received fresh and labeled "seninel node #4 count
+Specimen as follows:
+D.
+1
+2
+Submitted for frozen section.
+Remainder of tissue
+Received fresh and labeled "sentinel node #5 count
+The specimen is submitted as follows:
+E.
+1
+Submitted for frozen section
+I consists of light brown soft tissue measuring 2 x 1 x 1 cm. The
+FS" consists of pale white tissue measuring 1 x 0.3 x 0.2 cm.
+FS" consists of sift white fragment measuring 1 x 0,3 x 0.2 cm.
+Page 3 of 4
+SURGICAL PATHOL Report
+F.
+G.
+H.
+I.
+2
+Remainder of tissue.
+Received fresh and labeled “sentinel node #6 count FS" consists of light brown fragment measuring 0.5 x 0.3 x 0.2
+cm. The specimen is submitted as follows:
+1
+2
+Submitted for frozen section
+Remainder of tissue
+Received in formalin and labeled "axillary fat (perm)" consists of yellow brown soft tissue measuring 4 x 2 x 3 cm in
+aggregate. The entire specimen is submitted in toto in eight cassettes.
+Received in formalin and labeled "skin right breast" consists of skin tag measuring 5 x 0.5 x 0.1 cm. A representative
+section of the skin tag is submitted in one cassette.
+Received in formalin and labeled "right breast lumpectomy (short stitch superior, long lateral) fresh" consists of breast
+tissue mass measuring 186 grams and measures 9.5 cm medial to lateral, 5.5 cm inferior superior and 8 cm anterior to
+posterior. It is round to oval in shape. It is yellow in color and soft in consistency. The specimen has sutures for
+orientation. The specimen is inked as follows: anterior yellow; superior blue; posterior black; inferior green; lateral orange
+and medial red. Serial sectioning of the specimen reveals a well defined round to oval mass measuring 3 x 3 x 3.5 cm. It
+is hard in consistency. It occupies 20% of the entire specimen. The nearest margin is at the superior margin which is 1.5
+cm from the mass. Remaining margins are away from the mass. There is an area of fibrosis which is situated anterior to
+the mass; it is 1 cm away from the mass. The area of fibrosis measures 1 x 1 cm. The breast parenchyma in between
+the mass and the fibrosis is normal. The remaining breast parenchyma consists of the fat to stroma ratio 90:10. The
+cassettes are submitted as follows:
+J.
+K.
+1
+Superior margin
+2
+Inferior margin
+3
+Anterior margin
+4
+Posterior margin
+5
+Medial margin
+6
+Lateral margin
+7-10
+11
+Area of fibrosis
+12
+Representative sections of the tumor
+Breast parenchyma between the tumor and fibrosis.
+Received in formalin and labeled "additional deep margin (perm)" consists of two yellow fragments soft in consistency
+measuring 1 x 0.3 x 0.3 cm in aggregate. The entire specimen is submitted in toto in two cassettes.
+Received in formalin and labeled 'right axillary contents (perm)" consists of a yellow brown soft tissue measuring 9 x 7 x 2
+cm. Ten possible lymph nodes are extracted from the specimen and submitted in six cassettes. One lymph node which
+measures 1 x 0.5 x 0.3 cm, bisected and submitted in cassette 1.
+2
+3
+4&5
+6
+One lymph node bisected.
+Two lymph nodes
+Three lymph nodes
+One lymph node
+Received in formalin and labeled "left breast tissue (perm)" consists of a breast mass measuring 465 grams and
+measures 8 x 5 x 2 cm in greatest dimension. It has a skin ellipse which measures 4 x 1.5 cm. The entire specimen other
+than skin is inked black. Serial sectioning of the mass it reveals fibrofatty tissue with fat to stoma ratio 70:30. No gross
+lesions are 
+identified.
+1-5
+6
+Representative section of the fibrofatty tissue
+Skin tag
+ICD-9(s):
+174.8 196.3
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History,
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: //}_X}\\
+to
+Page 4 of 4

@@ -1,0 +1,280 @@
+Clinical Diagnosis & History:
+year old woman with right breast mass s/p core bx
+differentiated.
+Specimens Submitted:
+1: SP: Sentinel node #231, level 1, rt. axilla (fs)
+2: SP: Sentinel node #232, level 1, rt. axilla (fs)
+3: SP: Rt. breast i
+--
+IFDC poorly
+UUID:FE9C56C4-B6D4-4054-A58C-13642370052E
+TCGA
+-A0-A030-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+SENTINEL LYMPH NODE #1, LEVEL I, RIGHT AXILLA; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+ADDITIONAL H&E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS 
+(AE1:AE3
+2)
+-
+AND CAM 5.2) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+SENTINEL LYMPH NODE #232, LEVEL I, RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+- ADDITIONAL H&E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS 
+(AE1:AE3
+3)
+AND CAM 5.2) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+BREAST, RIGHT AND LEVEL I LYMPH NODES; MASTECTOMY AND AXILLARY
+DISSECTION:
+INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGICAL GRADE III/III
+(SLIGHT 
+OR NO TUBULE 
+FORMATION), NUCLEAR GRADE III/III (MARKED VARIATION IN
+SIZE AND SHAPE), MEASURING 
+3.5 CM IN LARGEST DIMENSION GROSSLY.
+-
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE, WITH HIGH
+NUCLEAR GRADE AND EXTENSIVE 
+NECROSIS. THE DCIS CONSTITUTES <= 25% OF THE
+TOTAL TUMOR MASS.
+-
+THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER QUADRANT
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+"
+CALCIFICATIONS ARE PRESENT IN THE IN SITU AND INVASIVE CARCINOMA AND IN
+BENIGN BREAST PARENCHYMA
+.
+-
+LYMPHOVASCULAR INVASION IS PRESENT.
+- PERINEURAL INVASION IS PRESENT.
+-
+NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED
+.
+PATH
+REPORT
+** Continued on next page
+**
+ICD-0-3
+carcinoma, infiltrating duct, was 8500/3
+Site: breast, NOS
+C50.9
+سل
+10/21/11
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+✓ DISQUALIFIED
+Date Reviewed: -
+10/24/11
+-
+NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+Page 2 of 4
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS STROMAL FIBROSIS AND FLORID DUCTAL
+HYPERPLASIA.
+-
+THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH 
+NODES IN
+-
+RELATION TO THE TOTAL NUMBER OF LYMPH NODES EXAMINED): LEVEL I: 0/15.
+IMMUNOHISTOCHEMCIAL STUDIES FOR ESTROGEN AND PROGESTERONE RECEPTORS
+(ER/PR) ARE
+POSITIVE.
+IMMUNOHISTOCHEMISTRY FOR HER2/NEU (HERCEPTEST) IS BEING REPEATED AND WILL
+BE 
+REPORTED IN
+AN ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/
+OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out
+Special Studies:
+Result
+Gross Description:
+Special Stain
+Comment
+CAM 5.2
+CAM 5.2
+AE1:AE3
+AE1:AE3
+NEG CONT
+IMM RECUT
+NEG CONT
+IMM RECUT
+CAM 5.2
+AE1: AB3
+NEG CONT
+IMM RECUT
+ER-C
+PR-C
+HER2-C
+NEG CONT
+NEG-HER2
+IMM RECUT
+1)
+The specimen is received fresh for frozen section, labeled "Sentinel
+node #1
+, level 1, 
+rt
+. 
+axilla". It consists of single lymph node measuring
+2.5 x 0.5 x 0.3 cm. 
+Entirely frozen.
+Summary of Sections:
+FSCA and B frozen section control A and B.
+PATH
+REPORT
+** Continued on next page **
+Page 3 or 4-
+2)
+The specimen is received fresh for frozen section, labeled "Sentinel
+node #2
+, level 1, rt. axilla". 
+It consists of of single lymph node
+measuring 2.5 x 0.5 x 0.3 cm. 
+Entirely frozen.
+Summary of Sections:
+FSCA and B frozen section control A and B
+3)
+The skin
+The specimen is received fresh, labeled, "Rt. breast (stitch marks
+level 
+one lymph nodes)". It consists 
+of a right mastectomy consisting of
+tan skin, breast tissue and 
+axillary tail designated as level one.
+measures 27.0 x 16.0 cm. 
+The nipple is everted. No visible scars are
+present on the skin surface. 
+No skeletal muscle tissue is present at the
+deep margin, which is inked. The 
+breast tissue is sectioned to reveal an
+indurated, irregular 
+gray-white tumor, situated in the upper outer quadrant,
+4.0 cm from the deep margin and 
+measuring 3.5 x 3.0 x 3.0 cm.
+the breast tissue 
+is fibrofatty.
+The rest of
+The axillary tail is sectioned to reveal
+multiple lymph nodes ranging from 0.8 up to 1.5 cm in greatest dimension.
+The largest node is bisected. 
+Tumor and normal tissue taken for TPS.
+Representative sections 
+are submitted.
+Summary of Sections:
+N nipple
+T
+tumor
+DM
+deep margin closer to the tumor
+UOQ upper outer quadrant
+LOQ
+lower outer quadrant
+UIQ - upper inner quadrant
+LIQ
+-
+lower inner quadrant
+LNI
+BLNI
+lymph nodes level one
+bisected lymph nodes level one
+Summary of Sections:
+SP: Sentinel node #31, level 1, rt. axilla (fs)
+Part 1:
+Block
+1
+1
+Sect. Site
+FSCA
+FSCB
+PCs
+1
+1
+Part 2:
+Block
+1
+SP: Sentinel node #232, level 1, rt. axilla (fs)
+Sect. Site
+FSC
+PCs
+1
+Part 3:
+SP: Rt. breast
+** Continued on next page **
+PATH
+REPORT
+Block
+Sect. Site
+PCs
+1
+BLN1
+2
+1
+DM
+3
+2
+3
+LIQ
+2
+LN1
+15
+22322
+LOQ
+2
+1
+N
+2
+T
+3
+UIQ
+2
+UOQ
+2
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+3) BREAST, RIGHT; MASTECTOMY
+HER2/NEU (HERCEPTEST):
+[CONTROL IS SATISFACTORY.]
+Status:
+By:
+Signed Out
+Page 4 or
+NEGATIVE (STAINING INTENSITY OF 1+).
+Intraoperative Consultation:
+Note:
+1)
+The diagnoses given in this section pertain only to the
+tissue sample examined at the time of the intraoperative
+consultation.
+FROZEN SECTION DIAGNOSIS: NEGATIVE FOR CARCINOMA.
+PERMANENT DIAGNOSIS:
+SAME
+2)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+NEGATIVE FOR CARCINOMA.
+SAME
+PATH
+REPORT
+** End of Report **

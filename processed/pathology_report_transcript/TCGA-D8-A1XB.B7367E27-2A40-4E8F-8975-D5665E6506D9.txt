@@ -1,0 +1,64 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No.:
+PESEL: XXX
+Age:
+Gender: F
+ICD-0-3
+page 1 / 1
+Material: Multiple organ resection - right breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+for 4/12/11
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer in the upper outer quadrant sucking skin
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell
+nuclei. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive carcinoma cells (Score = 1+ )
+Compliance validated b
+Examination performed on:
+Macroscopic description:
+Right breast sized 18 x 12.5 x 3 cm removed along with axillary tissues sized 10 x 6 x 2 cm, a skin flap of 16.5 x 5.3 cm, and a piece
+of the muscle sized 1 x 1 x 0.4 cm.
+Tumour sized 2.1 x 1 x 1.5 cm found in upper outer quadrant, located 1.5 cm from the upper boundary, 0.2 cm from the base and
+0 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG1 (2+2+1/10 mitoses/10 HPF - visual area 0.55mm). Foci of carcinoma ductale in situ (DCIS)
+found within the tumour (cribrate type, with medium nuclear atypia, without necrosis, with calcifications covering 5% of the
+tumour). Calcificationes in tumore. Mamilla sine laesionibus.
+Glandular tissue showing lesions of the type mastopathia fibrosa, microcalcificationes, fibroadenoma.
+AXILLARY LYMPH NODES: Metastases in lymphonodo (NO I/X).
+Infiltratio capsulae lymphonodo et telae perinodalis
+Histopathological diagnosis:
+Carcinoma ductale invasivum et ductale in situ mammae dextrae. Metastases lymphonodo axillae (No I/X). (NHG1,
+pT2, pNla). Invasive ductal carcinoma and ductal carcinoma in situ of the right breast. Cancer metastases in axillary
+lymph nodes (No I/X). (NHG1, pT2, pNla).
+Examination performed on:
+Compliance validated by:
+Redacted
+UUID:B7367E27-2A40-4E8F-8975-D5665E6506D9
+TCGA-D8-A1XB-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumur Site Discrepancy
+HIPAA Discrepancy.
+Prior Malignancy History
+Dual, Synchronous Panay toted
+Case inic
+Review Irals
+QUALED
+Sato Raunewed:
+Yes
+DISQUED
+tw 4/15/171

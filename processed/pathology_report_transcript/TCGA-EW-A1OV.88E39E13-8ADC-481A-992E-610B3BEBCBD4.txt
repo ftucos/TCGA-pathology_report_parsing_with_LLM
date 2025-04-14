@@ -1,0 +1,201 @@
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+Right axilla:
+- Micrometastatic carcinoma in one out of six lymph nodes (1/6)
+Size of metastatic deposit: 1.25mm
+-
+- Note: Immunohistochemistry for keratin was used for interpretation.
+Right lumpectomy:
+-
+- Invasive, poorly differentiated ductal carcinoma, high nuclear grade, 1.5 cm in greatest dimension.
+- Invasive carcinoma is present at less than 1 mm from the inferior margin.
+- Ductal carcinoma in situ is present within 1 mm of lateral and inferior margins.
+- Lymphovascular space invasion is identified.
+- Previous biopsy site.
+- See Tumor Summary.
+ICD-0-3
+Tumor Summary:
+Specimen Type: Right lumpectomy
+Procedure: Excision with wire-guided localization
+Lymph Node Sampling: Sentinel lymph nodes
+Specimen Integrity: Single intact specimen
+Specimen Size:
+Greatest dimension: 8.9 cm.
+- Additional dimensions: 8.2 x 2.3 cm.
+Laterality: Right
+Tumor Size:
+-
+- Greatest dimension of largest focus of invasion over 0.1 cm: 2.5 cm.
+-
+Additional dimensions: 2.2 x 1.2 cm.
+Tumor Focality: Single focus of invasive carcinoma.
+Macroscopic and Microscopic Extent of Tumor:
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos C50.9
+3/12/11
+UUID:88E39E13-8ADC-481A-992E-610B3BEBCBD4
+TCGA-EW-
+A10V-01A-PR
+Redacted
+Skin: Invasive carcinoma does not invade into the dermis or epidermis.
+Skeletal Muscle: No skeletal muscle present.
+Histologic Type: Invasive ductal carcinoma.
+Histologic Grade:
+- Glandular (Acinar)/Tubular Differentiation: Score 3: <10% of tumor area forming glandular/tubular structures
+- Nuclear Pleomorphism: Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and
+shape, occasionally with very large and bizarre forms.
+Mitotic count: Score 1
+Overall Grade: Grade 2: Score of 6 or 7
+Margins: Margins uninvolved by invasive carcinoma.
+Distance from closest margin: < 1 mm (inferior)
+Specify margins:
+Distance from superior margin: 10 mm
+Distance from inferior margin: < 1 mm
+Distance from anterior margin :> 10 mm
+Distance from posterior margin: < 2 mm
+Distance from medial margin :> 10 mm
+Distance from lateral margin: > 10 mm
+Margins: uninvolved by DCIS:
+Distance from closest margin: < 1 mm (inferior, lateral)
+Treatment Effect: Response to Presurgical (neoadjuvant): Therapy: No known Presurgical therapy.
+Lymph-Vascular Invasion: Present
+Dermal Lymph-Vascular Invasion: Not identified.
+Lymph Nodes:
+SURGICAL PATHOL Report
+Number of sentinel nodes examined: 6
+Total number of nodes examined (sentinel and Nonsentinel):
+Number of lymph nodes with macrometastases (>0.2 cm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or>200 cells): 1
+Number of lymph nodes with isolated tumor cells (<0.2 mm 
+and ≤200 cells): 0
+Size of largest metastatic deposit: 1.25mm
+Extranodal Extension: Not identified.
+Method of evaluation of Sentinel Lymph Nodes:
+- Hematoxylin and eosin (H&E), one level
+- Immunohistochemistry
+Pathologic Staging (pTNM): pT2, pN1ml, pM (not applicable)
+Regional Lymph Nodes (pN): pN1mi
+Ancillary Studies: To Follow
+NOTE: Some immohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are climcally useful indicators that do not require FDA approval These clones are used:
+HD5-ER, PgR 636-PR, A485-HER2, H-11-EGFR. All immunohistochemical 
+stains are used with formalin or molecular fired, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+Procedures/Addenda
+Addendum
+***Electronically Signed Out By***
+Date Ordered:
+Date Complete:
+Addendum Diagnosis
+A.
+Right axilla:
+Date Reported:
+MD
+Status: Signed Out
+-
+- The tumor cells are negative for ER, PR and Her-2 by Immunohistochemistry.
+- The tumor cells are also negative for E-cadherin,
+- This immunophenotype may be seen in the basal subtype of mammary carcinoma.
+- Additional Immunohistochemistry to follow.
+Addendum
+, MD
+Date Ordered:
+Date Complete:
+,
+Status: Signed Out
+Date Reported:
+Addendum Diagnosis
+B. Right lumpectomy one suture superior, two medial:
+Page 2 of 3
+SURGICAL PATHOL Report
+- The tumor cells are positive for p-cadherin and negative for CK5/6 and EGFR by Immunohistochemistry.
+MD
+Intraoperative Consultation
+Right axilla, FS: 3 lymph nodes: no tumor on frozen section. Await sentinel node protocol for definitive diagnosis.
+MD
+Clinical History:
+Patient with biopsy proven G3 cancer right breast
+* for needle localization segmental mastectomy with SLNB. Please
+evaluate sentinal nodes for metastasis and do Immunohistochemistry on permanents if frozen negative, evaluate lumpectomy
+margins.
+Operation Performed
+Right needle localization mastectomy with SLNB, possible AND, right lumpectomy
+Pre Operative Diagnosis;
+Cancer right breast
+Specimen(s) Received:
+A: Right axilla fs
+B: Right lumpectomy one suture superior, two medial
+Gross Description:
+A.
+B.
+Received fresh for frozen section is an irregular fragment of fibroadipose tissue, measuring 3.2 x 2.0 x 1.1 cm. Seven
+lymph nodes are identified at the time of consultation
+. In the rest of the adipose tissue two possible lymph nodes are
+identified. The fragments are submitted in toto as follows:
+1-3
+4&5
+6&7
+One lymph node per cassette for frozen section
+One additional lymph node per cassette
+The rest of the fibroadipose tissue
+Received in formalin is a lumpectomy specimen, measuring 8.9 cm from medial to lateral, 8.2 cm from anterior to
+posterior, 2.3 cm in from superior to inferior. A 
+metallic localization needle is located in the anterior aspect of the
+specimen. Surgical margins are inked as follows
+: superior inked blue, inferior inked green, medial inked red, lateral inked
+orange, anterior inked yellow, posterior inked black. 
+Upon sectioning at the tip of the needle localization an irregular firm,
+tan and white area is identified, measuring, 2.5 x 2.2 x 1.2 
+cm. This area is up to, 0.1 cm from the inferior margin, 1.5 cm
+from the deep posterior margin, 4.5 cm from the anterior margin, 
+2.3 cm from the lateral margin, 1.0 cm from the superior
+margin, 3.2 cm from the medial margin. Representative 
+section of the tumor is submitted for tissue bank. Other areas of
+the specimen are fibroadipose with a stroma to fat 
+ratio of 10:90. Representative sections are submitted as follows:
+Sections of the tumor in relation with the inferior 
+and superior margins
+Tumor 
+in relation with the deep margin
+1&2
+Additional sections (composite) of the tumor in relation with the inferior and deep margins
+Lateral margin
+3
+4&5
+6
+7
+Medial margin
+8
+Anterior margin
+9-11
+Additional sections of the tumor
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary fumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+1
+for 3/12/01-

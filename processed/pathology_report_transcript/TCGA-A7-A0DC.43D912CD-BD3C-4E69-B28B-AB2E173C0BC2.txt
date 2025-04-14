@@ -1,0 +1,325 @@
+UUID:43D912CD-BD3C-4E69-B28B-AB2E173C8BC2
+TCGA-A7-A0DC-01A-PR
+ICD-0-3
+Carcinoma, ductal in situ, NoS 8500/2
+Site breast, Nus
+SPECIMEN
+A. Left sentinel lymph node #1
+B. Left breast stitch 12 o'clock
+050.9
+fu 10/27/11
+C.
+Left breast, Tail of Spence
+D.
+Left breast, Nodule inferior skin flap
+-
+stitch 6 o'clock
+E.
+Right breast double long 12 o'clock single long hard mass 10
+o'clock
+F. Palpable area right axilla
+G. Sentinel node #2, right breast
+REPORT REVISED ON
+CLINICAL NOTES
+AT
+PRE-OP DIAGNOSIS: Bilateral breast carcinoma.
+FROZEN SECTION DIAGNOSIS
+node
+A) Lymph node, sentinel node left, excision:
+negative for metastatic carcinoma (0/1).
+One lymph node
+Benign lymph
+FFS1, FFS2: Palpable area, right axilla, biopsy
+present.
+GFS: Sentinel node #2, right axilla, biopsy - One lymph node with
+no evidence of metastasis.
+GROSS DESCRIPTION
+A. Received fresh for frozen section labeled "left
+sentinel lymph node #1" is an irregularly shaped fragment
+of blue stained tissue that measures 1.3 x 0.6 x 0.4 cm. in
+dimension. Tissue is entirely frozen.
+o'clock"
+B. Received fresh, labeled "left breast stitch 12
+is a 26.0 cm. (medial to lateral) x 24.5 cm. (superior to
+inferior) x 4.5 cm. (anterior to posterior) diffusely cauterized and
+focally blue stained soft, lobulated tan gold-white portion of
+fibroadipose tissue in keeping with breast designated as left per
+requisition slip and container and oriented by a single suture as
+stated previously. A 5.5 cm. (medial to lateral) x 2.3 cm. (superior
+GROSS DESCRIPTION
+to inferior) portion of dusky tan white skin with a central,
+everted, 1.3 x 1.3 x 0.5 cm. nipple is present along the anterior
+aspect. The deep margin is inked black and the specimen is
+sectioned. There is a roughly spherical, 2.4 cm. clot-filled
+biopsy
+cavity within the lower inner quadrant. The cavity is present
+within 1.2 cm. of the anterior surface (inked blue see block 2) and
+2.8 cm. of the inked deep margin (see block 1). Several
+cylindrical
+tan white firm structures are evident within the cavity. The
+periphery of the cavity is fibrotic with diffuse chalky yellow fat
+necrosis. Lateral to the cavity is an ill-defined focus of firm,
+tan white fibrous tissue with dilated ductal structures (see blocks
+6 and 7). Within the center of the focus, there appears to be a
+Redacted
+stellate 1.0 x 1.0 x 1.0 cm. rubbery tan white lesion which is 0.5
+cm. from the inked deep margin (see blocks 7 and 8). The remaining
+cut surfaces throughout the specimen consists predominately of
+glistening lobulated golden yellow adipose tissue with a moderate
+amount of interspersed focally blue stained dense tan white fibrous
+tissue. No additional mass lesions are identified. Representative
+sections are submitted in fourteen blocks as labeled. RS-14.
+-
+BLOCK SUMMARY: 1 Biopsy cavity to inked deep margin; 2 biopsy
+cavity to anterior surface; 3-5 - biopsy cavity to adjacent
+parenchyma; 6 - firm area lateral to biopsy cavity; 7-8 apparent
+lesion lateral to biopsy cavity to inked deep margin; 9 - random
+upper outer quadrant; 10 upper inner quadrant; 11 lower inner
+quadrant; 12 lower outer quadrant; 13 junction of the four
+quadrant; 14 nipple.
+C.
+-
+-
+-
+-
+Received fresh, labeled "tail of Spence", is a 5 × 4 ×
+1.6 cm. portion of soft, lobulated golden-yellow adipose
+tissue. Three soft tan-pink-gold tissues, in keeping with lymph
+nodes, measuring up to 1.5 cm. in greatest dimension, are
+recovered.
+The lymphoid tissues are entirely submitted in three blocks, as
+GROSS DESCRIPTION
+labeled. RS-3
+BLOCK SUMMARY: 1
+-
+One whole presumptive node; 2,3 - one bisected
+presumptive node per cassette.
+D. Received fresh, labeled "nodule inferior skin flap -
+stitch 6 o'clock", is a 3.8 cm. (9 to 3 o'clock) x 0.9 cm.
+(12 to 6 o'clock) wrinkled tan-white skin ellipse, with a suture
+along one aspect, as stated previously. The 12 o'clock half is
+inked blue and the 6 o'clock half is inked black. There is a
+stellate, rubbery, 0.6 x 0.6 x 0.6 cm. tan-white nodular lesion
+within the 9 o'clock half of the specimen, which appears to extend
+to within less than 0.1 cm. of the inked 12 o'clock surface. The
+specimen is entirely submitted in a sequential manner from 3 to 9
+o'clock in four blocks (nodule block 3).
+E. Received fresh, labeled "right breast double long 12
+o'clock, single long hard mass 10 o'clock" is 27.0
+cm. (medial to lateral) x 23.5 cm. (superior to inferior) x 4.5
+cm. (anterior to posterior) diffusely cauterized and focally blue
+stained soft, lobulated tan gold-white portion of fibroadipose
+tissue in keeping with breast designated as right per requisition
+slip and container and oriented by double suture as stated
+previously. A 4.4 cm. (medial to lateral) x 2.5 cm. (superior to
+inferior) dusky tan white skin ellipse with a central, everted, 1.0
+× 1.0 x 0.6 cm. nipple is present along the anterior aspect. A
+second single suture is present at approximately 9-10 o'clock. The
+intact deep margin is inked black and the specimen is sectioned.
+There is a moderately well circumscribed, 5.0 cm. (superior to
+inferior) x 3.4 cm. (medial to lateral) x 3.0 cm. (anterior to
+posterior) multi-loculated slightly firm cystic structure subjacent
+to the aforementioned single suture at the junction of the upper
+lower outer quadrants. The cyst focally extends to within 0.3 cm.
+of the inked deep margin (see blocks 1 and 2) and is 1.5 cm. from
+and
+GROSS DESCRIPTION
+the anterior surface (subsequently inked blue). A portion of the
+cystic focus and a portion of normal parenchyma are submitted for
+tissue procurement as requested. The cut surfaces throughout the
+remainder of the specimen consists predominately of glistening
+lobulated golden yellow adipose tissue with a moderate amount of
+interspersed diffusely cystic tan white fibrous tissue. No mass
+lesion or additional abnormalities are identified. Representative
+sections are submitted in 16 blocks as labeled. RS-16.
+-
+BLOCK SUMMARY: 1-2 Cystic structure to inked deep margin; 3-4
+cystic structure to inked anterior margin; 5-10 representative
+cystic structure to surrounding parenchyma including firm area
+sequentially from lateral to medial; 11 random upper outer
+quadrant; 12
+upper inner quadrant; 13 lower inner quadrant; 14
+-
+lower outer quadrant; 15
+nipple.
+medical
+☑
+a
+-
+-
+junction of the four quadrants; 16
+F. Container F is labeled with the patient's name,
+record number and "palpable area right axilla". The
+specimen consists of a single fragment of fatty tissue measuring 2
+1.5 x 1 cm. AS-1. Blocks FS1 and FS2. G. Container G is labeled
+"sentinel node #32 right axilla". The specimen consists of
+single lymph node measuring 0.8 × 0.5 x 0.5 cm. ASF, GFF, bisected.
+This case is being handled by Dr.
+MICROSCOPIC DESCRIPTION
+B. Left Breast
+Invasive carcinoma:
+Histologic type:
+Ductal
+Histologic grade: II
+MICROSCOPIC DESCRIPTION
+Overall grade: 6/9
+biopsy
+Architectural score:
+Nuclear score:
+2
+2
+Mitotic score: 2
+Greatest dimension (PT): No less than 1.5 cm (adjacent to
+cavity)
+Specimen margins: Negative
+Vessel invasion: No definitive invasion identified
+Calcification: Present
+Nipple (Paget's): Negative
+Invasion of skin or chest wall: Negative
+Ductal carcinoma in situ:
+Histologic pattern: Cribriform and solid
+Nuclear grade: 3
+Central necrosis: Present
+% DCIS of total tumor (if mixed): 20%
+Specimen margins: DCIS is 3 mm from deep margin (two small
+foci)
+Calcification:
+Present
+Description of non-tumorous breast: Small papillomas; fibrocystic
+changes with microcalcifications.
+Comments: Previous core biopsy
+is lateral to prior biopsy site.
+Prognostic markers: See core biopsy report,
+D.
+"Left breast, Nodule inferior skin flap"
+Invasive Carcinoma:
+reviewed. Carcinoma
+Histologic type:
+Ductal
+Histologic grade: II
+Overall grade:
+6/9
+Architectural score: 2
+MICROSCOPIC DESCRIPTION
+Nuclear score: 3
+Mitotic score: 1
+Greatest dimension (PT):
+7 mm
+Specimen margins: 1.5 mm from resection margin (several areas)
+Vessel invasion: Negative
+Calcification: Present
+Comments: Skin not directly involved by carcinoma. Focal duct
+present containing necrotic debris and calcification, without
+definitive ductal carcinoma in-situ identified.
+Breast Prognostic Marker Report (Part D)
+Results
+Estrogen receptor:.... 80%
+Progesterone receptor:..0%
+Her2/neu by IHC:
+0-1+
+mm
+Interpretation
+Estrogen receptor:.... Positive
+Progesterone receptor:.. Negative
+Her2/neu by IHC:
+Part E. Right breast.
+.Negative
+Ductal carcinoma in situ: Outer breast
+Histologic pattern: Solid, papillary and micropapillary
+Nuclear grade: 2
+Central necrosis: Absent
+Tumor size (if pure in situ): 5 cm
+Specimen margins: DCIS is focally 2 mm from deep margin and 3
+from anterior margin.
+MICROSCOPIC DESCRIPTION
+complex
+Calcification: Present
+Comments: Fibrocystic changes are intermixed within this
+mass lesion, the majority of which is composed of ducts involved
+by carcinoma in-situ. Invasive carcinoma is not identified
+(p63 performed to evaluate). Portions of case also reviewed
+by Dr.
+Nipple:
+in-situ.
+large ducts of nipple involved by ductal carcinoma
+Breast Prognostic Marker Report (Part E)
+Results
+Estrogen receptor:
+100%
+Progesterone receptor:..0%
+Interpretation
+Estrogen receptor:
+Positive
+Progesterone receptor: . . Negative
+Prognostic markers were done by immunohistochemical stain on
+paraffin sections from 10% neutral buffered formalin fixed tissue
+using
+entibodies on a Benchmark automated
+stainer.
+The Her2/neu antibody is clone 4B5 and has been approved by the FDA
+as an aid in the assessment of breast cancer patients for whom
+Herceptin treatment is considered.
+This laboratory meets the test validation and quality assurance
+requirements of the ASCO/CAP guidelines for Her2 testing for
+carcinoma 
+of the breast (Arch Pathol Lab Med 2007;131:18-43).
+MICROSCOPIC DESCRIPTION
+as
+[A few of the antibodies used in our laboratory may be classified
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature.
+not been cleared or approved by the FDA.]
+4x6, 3, 14x3, 15, 20x2, 25x5
+REPORT REVISED ON
+DIAGNOSIS
+AT
+They have
+A.
+Left breast, sentinel lymph node #21, biopsy:
+One negative lymph node (0/1).
+B.
+C.
+D.
+E.
+Breast, left, mastectomy:
+Invasive ductal carcinoma, grade II, size no less than 1.5
+cm., with associated ductal carcinoma in-situ, grade 3, with
+necrosis.
+Lymph node, Tail of Spence, left breast, regional resection:
+Three negative lymph nodes (0/3).
+Breast, left, inferior skin flap nodule, excisional biopsy:
+Invasive ductal carcinoma, grade II, 7 mm., close to
+excisional margin.
+Breast, right, mastectomy:
+Ductal carcinoma in-situ, grade 2, involving 5 cm area and
+large ducts of nipple.
+No invasive carcinoma identified.
+F.
+Lymph node, right axilla, biopsy:
+One negative lymph node (0/1).
+G.
+Sentinel lymph node #2, right axilla, biopsy:
+One negative lymph node (0/1).
+REPORT REVISED ON
+AT
+DIAGNOSIS
+REVISED REPORT
+-
+MD (Electronic Signature)
+Clarification of specimen identification
+Criteria
+Yes
+No
+✓
+Diagnosis Discrepancy in Situ sent
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Natedral is
+Case is (circle):
+Reviewer Initi-is
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+low 10/27/14.

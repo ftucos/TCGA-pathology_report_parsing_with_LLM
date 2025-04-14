@@ -1,0 +1,411 @@
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Mailznancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 11
+w 10/31/11
+UUID:DD89D265-9E20-49C2-93BD-666BE7D5E41B
+TCGA-A1-A0SD-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS
+050.9
+سا
+10/21/11
+Final Pathologic Diagnosis:
+A. Sentinel lymph node, left axilla, biopsy: No tumor (0/1).
+B. Sentinal lymph node, left axilla, biopsy: No tumor (0/1).
+C. Left breast, needle localized partial mastectomy:
+1. Invasive ductal carcinoma, 4 cm, grade 2, present at anterior margin; see comment.
+2. Ductal carcinoma in situ, low and intermediate nuclear grade with necrosis, negative
+margins; see comment.
+3. Calcifications associated with DCIS and benign epithelium.
+4. Proliferative fibrocystic changes (usual ductal hyperplasia, apocrine metaplasia, cyst
+formation).
+-
+5. Prior biopsy site changes.
+D. Left axilla, excision: No tumor.
+E. Lymph node, left axilla, biopsy: No tumor (0/1).
+Note: Breast Tumor Synoptic Comment
+- Laterality: Left breast.
+Invasive tumor type: Ductal.
+Invasive tumor size: 4 cm maximum diameter (eight consecutive specimen slices involved, each 0.5 cm
+thick).
+- Invasive tumor grade (modified Bloom-Richardson):
+Nuclear grade: 3, 3 points.
+Mitotic count: 6 mitotic figures/10 HPF, 1 point.
+Page 1 of 8
+↑
+Surgical Pathology -
+Tubule/papilla formation: 10-75%, 2 points.
+Total points and SBR grade = 6 points, grade 2.
+- Lymphatic-vascular invasion: Not identified.
+- Perineural invasion: Not identified.
+-
+Resection margins for invasive tumor:
+Working Draft
+· Deep margin: Negative; closest distance of tumor 0.2cm (slide C6)
+- Medial margin: Negative; closest distance of tumor 1.1 cm (gross).
+- Lateral margin: Negative; closest distance of tumor 1.3 cm (gross).
+Anterior/superior margin: Positive (slides C13 and C17).
+-
+-
+Anterior/inferior margin: Negative; closest distance of tumor 0.4 cm (slides C3 and C14).
+- Ductal carcinoma in situ (DCIS) type: Cribriform.
+- Ductal carcinoma in situ size: Foci span throughout the invasive component.
+-
+- Ductal carcinoma in situ nuclear grade: Low-to-intermediate.
+Necrosis in ductal carcinoma in situ: Present.
+Microcalcifications: Present in association with DCIS and benign ducts.
+Resection margins for ductal carcinoma in situ:
+-
+- Deep margin: Negative; closest distance of tumor 0.2 cm (slide C2).
+Medial margin: Negative; closest distance of tumor, <0.2 cm; (slide C1).
+· Lateral margin: Negative; closest distance of tumor greater than 1 cm (gross).
+- Anterior/superior margin: Negative; closest distance of tumor 0.5 cm (slide C2).
+- Anterior/inferior margin: Negative; closest distance of tumor greater than 1 cm (gross).
+- Lymph node status: Negative.
+-
+Number of positive lymph nodes: 0.
+-
+Total number sampled: 3.
+- AJCC/UICC stage: pT2NOMX.
+Intraoperative Consult Diagnosis
+FS1 (A) Sentinel lymph node cluster, left axilla, biopsy: No tumor seen. (Dr.
+FS2 (B) Left axilla, sentinel lymph node #2, biopsy: No tumor seen. (Dr.
+Clinical History
+The patient is a
+carcinoma (
+sampling.
+Gross Description
+year-old woman with a history of biopsy-proven low-grade invasive and in situ ductal
+') who undergoes left breast needle-localized lumpectomy and sentinel lymph node
+The specimen is received fresh in five parts each labeled with the patient's name and unit number.
+It consists of one soft, pink-yellow, irregular,
+Part A is additionally labeled '
+glistening, unoriented, fibroadipose tissue fragment that is 2.8 x 1.8 x 0.9 cm. The specimen is entirely
+submitted for frozen section. The frozen remnant is entirely submitted in cassette 
+A1.
+Part B is additionally labeled
+• It consists of one soft, pink-yellow,
+irregular, glistening, unoriented, fibroadipose tissue fragment that is 3 x 2.5 x 0.7 cm.A single large lymph
+node candidate is identified, bisected, and entirely submitted for intraoperative 
+consultation with the
+remnant submitted in cassette B1. The remaining adipose tissue is submitted in cassette 
+B2.
+20
+It consists of a lumpectomy specimen measuring 5.4
+Part C is additionally labeled
+cm from superior to inferior, 6.4 cm from medial to lateral and 2.6 cm from anterior to posterior. The
+specimen has been oriented with a long black surgical indicating the lateral position and 
+a short 
+black
+surgical suture indicating the superior position. The specimen is coronally 
+sectioned from medial to
+lateral into 13 slices to reveal diffusely white-yellow breast parenchyma with an apparent 
+biopsy site
+cavity extending from slices 7 through 10 and measuring 2.6 cm from superior to inferior, 4.4 cm from
+medial to lateral and 2.4 cm from anterior to posterior. The specimen is inked as follows 
+for 
+microscopic
+evaluation of surgical margins: Anterior-superior black-yellow, anterior-inferior green and 
+posterior
+black. Representative sections are submitted as follows:
+Cassette C1:
+Cassette C2:
+Cassette C3:
+Slice 1 (medial margin), perpendicular.
+Slice 3.
+Slice 4, inferior.
+Page 2 of 8
+Cassette C4:
+Cassette C5:
+Cassette C6:
+Cassette C7:
+Cassette C8:
+Cassette C9:
+Cassette C10:
+Cassette C11:
+Cassette C12:
+Cassette C13:
+Cassette C14:
+Cassette C15:
+Cassette C16:
+Cassette C17:
+Cassette C18:
+Cassette C19:
+Surgical Pathology -
+Slice 5, inferior.
+Slice 6, superior.
+Slice 6, mid.
+Slice 6, inferior.
+Slice 7, superior.
+Slice 7, inferior.
+Slice 8, superior.
+Slice 8, mid.
+Slice 8, inferior.
+Slice 9, superior.
+Slice 9, mid.
+Slice 9, inferior.
+Slice 10, superior.
+Slice 10, mid.
+Slice 10, inferior.
+Slice 11.
+Working Draft
+Cassette C20:
+Slice 13 (lateral margin), perpendicular.
+Slices 1, 6, 7, 8, 9, 10 and 13 are entirely submitted.
+Part D is additionally labeled ".
+" It consists of two unoriented fragments of
+yellow-tan, fibroadipose tissue measuring 3.0 x 2.5 x 0.5 cm. The specimen is entirely submitted in
+cassette D1.
+"
+Part E is additionally labeled
+It consists of a single unoriented
+fragment of tan-yellow, soft tissue measuring 0.6 x 0.5 x 0.3 cm. A single candidate lymph node is
+identified, measuring 0.6 cm in greatest dimension. The specimen is entirely submitted in cassette El.
+/Pathology Resident
+MD/Pathologist
+Fee Codes:
+Signed:
+Status: Signed Out
+Accessioned
+Signed Out:
+Other Specimens
+Specimen Class:
+Specimen(s) Received: Lip, upper left
+Final Diagnosis
+Lip, upper left: Mucous retention cyst
+Specimen Class:
+Specimen(s) Received: Left breast re-excision (fresh)
+Final Diagnosis
+Left breast, excisional biopsy:
+1. No residual tumor.
+Status: Signed Out
+Accessioned:
+Signed Out:
+2. Prior surgical site changes.
+3. Microcalcifications in benign ducts and lobules.
+MD
+MD
+Page 3 of 8
+Surgical Pathology
+Working Draft
+Status: Signed Out
+Accessioned:
+_ Specimen Class:
+Specimen(s) Received: Vaginal/Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis
+Vaginal/Cervical/Endocervical, Thin Prep Imaged
+Signed Out:
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+Other Interpretations/Results:
+SHIFT IN FLORA SUGGESTIVE OF BACTERIAL VAGINOSIS.
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation.
+Transformation zone components are present.
+_Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Left breast core biopsy at
+N +4
+Final Diagnosis
+Left breast,
+core biopsy:
+1. Invasive ductal carcinoma, SBR grade 1; see comment.
+2. Ductal carcinoma in situ, intermediate grade with comedonecrosis.
+3. Calcifications within ductal carcinoma in situ.
+Procedure/Addenda for
+ADDENDUM.
+Date of Addendum.:
+Addendum Comment
+An immunohistochemical test for estrogen and progesterone receptors as well as for HER2 was performed
+on block A1.
+The test for estrogen receptors is positive. There is strong nuclear staining in >90% of tumor cells.
+The test for progesterone receptors is positive. There is strong nuclear staining in >90% of tumor cells.
+Result of HER2/neu test: This carcinoma is negative for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed using the CB11 monoclonal antibody to HER2/neu
+oncoprotein. The staining intensity of this carcinoma was 1 on a scale of 0-3.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered borderline. We and others have observed that many carcinomas with staining
+intensity scores of 2 do not show gene amplification. All carcinomas with staining intensity scores of 2 are therefore submitted for
+FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in this
+category show an excellent correlation between the results of immunohistochemical and FISH testing, and almost always show gene
+amplification.
+Page 4 of 8
+Surgical Pathology -
+Working Draft
+The immunoperoxidase stain(s) reported above were developed and their performance characteristics determined by the
+They have not been cleared or approved by the U. S. Food and Drug Administration. The FDA has
+determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded
+as investigational or for research. 
+This laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 ("CLIA")
+as qualified to perform high-complexity clinical 
+testing.
+_ Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Vaginal/Cervical/Endocervical, Direct
+Final Diagnosis
+Vaginal/Cervical/Endocervical, Direct
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation.
+Transformation zone components are present.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Endometrium, biopsy: Inactive endometrium; no evidence of hyperplasia or carcinoma.
+_ Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Endometrium, biopsy: Weakly proliferative pattern with gland and stromal breakdown.
+_ Specimen Class:
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: Vaginal/Cervical/Endocervical, Direct
+Final Diagnosis
+Vaginal/Cervical/Endocervical, Direct
+BENIGN CELLULAR CHANGES.
+Predominance of Coccobacilli consistent with shift in vaginal flora.
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation. Endocervical cells present.
+Page 5 of 8
+Surgical Pathology
+_Specimen Class:
+Status: Signed Out
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Working Draft
+Accessioned
+Signed Out:
+Endometrium, biopsy: Proliferative endometrium with irregular maturation, no evidence
+of hyperplasia or carcinoma.
+_ Specimen Class::
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: Vaginal/Cervical/Endocervical, Direct
+Final Diagnosis
+Vaginal/Cervical/Endocervical, Direct
+BENIGN CELLULAR CHANGES.
+Predominance of Coccobacilli consistent with shift in vaginal flora.
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation. Endocervical cells present.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Left Breast, Fine Needle Aspiration
+Final Diagnosis
+Left Breast, Fine Needle Aspiration:
+1. Benign cyst. See comment.
+2. Fibrocystic change.
+Specimen Class:
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Endometrium, biopsy: Simple hyperplasia without atypia; see comment.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Endocervical, Direct
+Final Diagnosis
+Endocervical, Direct
+BENIGN CELLULAR CHANGES.
+Cytologically benign endometrial cells present in a postmenopausal woman.
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation. Endocervical cells present.
+Page 6 of 8
+Surgical Pathology
+Working Draft
+==
+_ Specimen Class:
+Status: Signed Out
+Specimen(s) Received: A: Probable polyps, B: Endometrium, curretage
+Final Diagnosis
+A.
+Accessioned:
+Signed Out:
+Endometrium, probable polyp, biopsy: Proliferative endometrium with focal simple
+hyperplasia, 
+in part polypoid.
+Proliferative endometrium with irregular maturation.
+B.
+Endometrium, curettage:
+1.
+2.
+Focal simple hyperplasia.
+3.
+Focal tubal metaplasia.
+Specimen Class:
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis
+Endometrium, biopsy: Disordered proliferative endometrium with cystic and oncocytic
+changes and stromal 
+breakdown; see note.
+_ Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Endometrium, biopsy
+Final Diagnosis.
+Endometrium, biopsy: Disordered proliferative endometrium with focal stromal
+breakdown.
+QA Review(s)
+Consultation Obtained
+Status: Complete as of
+Reviewers:
+Result(s):
+elated specimen(s):
+roblem?
+Agree
+Specimen Class:
+Specimen(s) Received: ENDOCERVICAL
+Status: Signed Out
+Accessioned:
+Signed Out:
+CELLULAR CHANGES WITHIN NORMAL LIMITS
+Final Diagnosis
+BENIGN
+Conversion
+Signed Out by Cytotechnologist
+_ Specimen Class:
+Status: Signed Out
+Specimen(s) Received: A) ENDOMETRIAL BX
+Accessioned
+Signed Out:
+Page 7 of 8
+Final Diagnosis
+Surgical Pathology -
+Working Draft
+UTERUS, ENDOMETRIUM, BIOPSY: SECRETORY ENDOMETRIUM. SEE NOTE.
+Conversion
+MD
+END OF REPORT
+Page 8 of 8

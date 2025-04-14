@@ -1,0 +1,287 @@
+الى
+ICD-0-3
+Carcinoma, mucinous 8480/3
+Site: breast, Nos
+Collected by:
+Preserved by:
+050.9 1/28/11 fu
+Pathology Form
+Confirma laterality
+Specimen Information
+CQCF = ②
+mud docunustatin
+Date:
+Time:
+Date:
+ime:
+COCF should be ramberd
+(Run the acx) mot
+Path
+:) not Inc.
+Qualified
+as mucinous, *
+SPECIMEN TYPE (# of samples provided) »
+Frozen
+Paraffin Block
+Blood/Serum/Plasma
+Diseased
+Normal
+Diseased
+Normal
+Diseased
+Normal
+x
+х
+х
+Diseased
+Х
+Time to LN2
+Time to Formalin
+Time to LN2
+10
+min
+To
+min
+ऋद
+min
+Notes:
+Slide
+Normal
+Organ
+Breast
+Location
+Axilla
+Organ
+No
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Extension of Tumor
+ст Na
+Distance to NAT
+2
+cm
+2х
+Lymph Nodes
+# Examined
+6
+Distant Metastasis
+# Metastasized
+3
+Detailed Location
+Size
+Pathological Staging
+PT 2
+N 1 M
+0
+Stage: IIB
+Redacted
+UUID:83FCE052-931C-4798-A188-F04A2178A5F6
+TCGA-C8-A12X-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case (circle):
+Review
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+Mucinous
+Microscopic Description
+Histological Pattern
+Cell Distribution
++
+Diffuse
+Mosaic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+Streaming
+Storiform
+Fibrosis
+Palisading
+Structural Pattern
++
+土
+Cystic Degeneration
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+Cellular Differentiation
+Squamous
++
+-
+Adenomatous
++
+-
+Sarcomatous
++
+Squamoid Cell
+Glandular cell
+سل
+Round Cell
+Spindle Cell
+Cell Stratification
+Fibroblast
+Lymphomatous
+Large Cell
+Small Cell
++
+Keratin
+Secretion
+न
+Osteoblast
+RS Cell/RS Like
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Inflam. Cell
+Pearl
+Gland formation
+Myoblast
+Plasma Cell
+Cellular Differentiation:
+Well
+× Moderate
+Poor
+Nuclear Appearance
+Nuclear Atypia:
+0
+II
+III
+Aniso Nucleosis
++
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
++
+Marker
+Result
+Nuclear Grade:
+IHC Data
+Value
+ER
+PR
+Her-2/neu
+B-Cell Marker
+T-Cell Marker
+Other:
+Other:
+□ Negative
+□ Positive
+□ Negative □ Positive
+□ Negative □ Positive
+☐ Negative ☐ Positive
+□ Negative □ Positive
+☐ Negative □ Positive
+☐ Negative ☐ Positive
+Final Pathology Report
+Histological Diagnosis: Mucinous adenocarcinoma
+Comments:
++
+Date
+_Grade: 1(
+Principal Investigator
+Pathologist
+Date
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+CELL DISTRIBUTION
++
+STRUCTURAL PATTERN
++
+Diffuse
+Mosaic
+Necrosis
+✓ Streaming
+Storiform
+☑ Fibrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+×
+☑
+Alveolar Formation
+Indian File
+Palisading
+Cystic Degeneration
+Bleeding
+✓ Myxoid Change
+✓ Psammoma/Calcification
+2. Cellular features:
+Squamous
++
+-
+Squamoid Cell
+Adenomatous
+Glandular cell
++
+Sarcomatous
++
+☑
+Round Cell
+Lymphomatous
+Large Cell
++
+Spindle Cell
+Cell Stratification
+☑
+Fibroblast
+Keratin
+Secretion
+Osteoblast
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Pearl
+Gland formation
+☑
+Myoblast
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+Otherwise Specified: D,
+"
+60% Da 600%
+2. Cellular Differentiation:
+3. Nuclear Atypia:
+Aniso Nucleosis
+Well
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Moderately
+Poor
+Nuclear Appearance
+Comments:
+Nuclear Grade
+0
+II
+III
+☑
+a
+N
+Histological Diagnosis: Infiltrating Ductal Carcinoma, mucinous
+type, bt
+T. Mr: Carne metasterized to IN CQCF,
+Director, Research Pathology
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).
+"
+Should state
+☑
+'Mucinous'
+11/5/6

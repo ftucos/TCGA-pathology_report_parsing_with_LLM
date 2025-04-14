@@ -1,0 +1,137 @@
+!
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A. Sentinel node #1 CT
+-Metastatic carcinoma in one lymph node. Please see comment.
+Comment: The tumor is seen on deeper section. Tumor is not identified in frozen section slide.
+Immunostain for keratin is used in the interpretation.
+B. Sentinel node#2
+-No malignancy seen in one lymph node (0/1).
+-Imunostain for keratin is negative.
+C. Right breast:
+-Invasive tubulolobular carcinoma, low nuclear grade, Nottingham histologic score grade 1. Resection margins are free of tumor.
+-Microcalcifications are present.
+ICD-0-3
+Dr.
+concurs.
+Please see Tumor Summary.
+TUMOR SUMMARY:
+Path
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, upper inner quadrant C50.2
+Specimen Type: Mastectomy.
+Lymph Node Sampling: Sentinel lymph node(s) only.
+CQCF Site: breast, Nos C50.9
+2/8/11
+Me
+Laterality: Right
+Tumor Site: Upper inner quadrant.
+Size of invasive component:
+Greatest dimentsion: 1 cm
+Additional dimensions: 1 x 0.6 cm.
+Histologic Type: Invasive tubulolobular
+Histologic Grade:
+Nottingham Histologic Score:
+Tubule Formation:
+Moderate (score= 2)
+Nuclear Pleomorphism: Small (score=1).
+Mitotic count: Less than 10 mitoses per 10 HPF (score=1).
+Total Nottingham Score: Grade I.
+Pathologic Staging:
+Primary Tumor: pT1b
+Regional lymph nodes: pN1a
+Distant Metastasis: pMX
+UUID:3CF4FC36-70EF-4EA3-874C-4A514FCDB717
+TCGA-EW-A1IX-01A-PR
+Redacted
+Margins: Margins uninvolved by invasive carcinoma.
+Distance from closest margin: 4 mm
+Specify margin: Deep (posterior)
+Venous/lymphatic: Absent.
+Comments: Tumor cells are positive for ER and PR and negative for Her2 and by immunohistochemistry.
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5-ER, POR 636=PR, A485=HER2, H-11 EGFR, CCH2/DOG9-CMV, F39.4.1=AR and HPV by ISH. All immunohistochemical stains are used
+with formalin 
+or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+Addendum Diagnosis
+SURGICAL PATHOL Report
+Date Ordered:
+Date Complete:
+Date Reported:
+C.
+The tumor cells are positive for E-Cadherin by immunohistochemistry.
+As the attending pathologist, I attest that 1: (1) Examined the relevant
+preparation(s) for the specimen(s); and (i) Rendered the diagnosis(es).
+This immunophenotype is most consistent with an infiltrating ductal carcinoma.
+Intraoperative Consultation
+AFS: No malignancy seen in one lymph node examined.
+BFS: No malignancy seen in one lymph node examined.
+-
+Status: Signed Out
+Clinical History:
+Patient is a -year-old female with right breast cancer.
+Pre Operative Diagnosis:
+Not Provided
+Specimen(s) Received:
+A: sentinel node #1 CT (1
+B: sentinel node#
+C: right breast ( 1 suture superior, 2 sutures lateral)
+Gross Description:
+A.
+B.
+C.
+Received fresh and labeled "sentinel node #1 CT ☑)" is a fragment of adipose tissue measuring 2.0 x 1.0 x 0.5 cm.
+The lymph node is bisected and submitted in toto for frozen section.
+Received fresh and labeled "sentinel node#
+' is a fragment of adipose tissue measuring 0.6 x 0.5 x 0.5 cm. The
+lymph node is bisected and submitted in toto for frozen section.
+Received in formalin and labeled "right breast (1 suture superior, 2 sutures lateral)" is oriented with one suture superior
+and two sutures lateral. The specimen weighs 127.0 grams and measures 16.0 × 11.0 x 0.9 cm. The specimen consists
+of a nipple and areola, which measures 3.3 x 2.5 cm. There is no retraction or scar. The specimen is inked as follows:
+superior, blue; inferior, green; medial, red; lateral, orange; posterior (tip), black; anterior, yellow. Cut section revealed a
+scar-like, firm lesion is identified in the upper inner quadrant, which measures 1.0 x 1.0 x 0.6 cm. It is located 0.4 cm from
+the deep margin, 2.0 cm from the superior margin, 3.0 cm from the medial margin, and 6.2 cm from the inferior margin.
+The stroma to fat ratio is 70:30. No other masses or lesions are identified. Sections are submitted as follows:
+5
+Yo
+1-4
+Mass in toto
+Upper inner quadrant
+Page 2 of 3
+SURGICAL PATHOL Report
+6889
+Lower inner quadrant
+7
+Upper outer quadrant
+Lower outer quadrant
+Nipple
+ICD-9(8):
+196.3 174.2
+ite
+Criteria
+Diagr-osis Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+QUALIFIED
+Date Reviewed:
+Page 3 of 3

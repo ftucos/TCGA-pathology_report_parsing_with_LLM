@@ -1,0 +1,175 @@
+TSS:
+SPECIMENS:
+ICD-0-3
+Carcinoma, infiltrating duct, Nus
+8500/3
+Path
+Site Code: breast, central portion
+C50.1
+CQCF Site: breast, Nos
+050.9
+12/8/10
+fw
+12/9/10
+bilateral breast CA
+per.
+A. NON-SENTINEL LYMPH NODE #1
+B. RIGHT BREAST
+C. LEFT BREAST WITH AXILLARY CONTENTS
+SPECIMEN(S):
+A. NON-SENTINEL LYMPH NODE #1
+B. RIGHT BREAST
+C. LEFT BREAST WITH AXILLARY CONTENTS
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+UUID:06D417E8-68C2-408C-8ABC-B3042566C976
+TCGA-E2-A153-01A-PR
+Redacted
+TPA/FSA-non sentinel lymph node #1: Touch prep is negative for tumor; frozen section positive for metastatic
+carcinoma (0.4 cm). Diagnosis called by Dr. to Dr
+GROSS DESCRIPTION:
+A. NON-SENTINEL LYMPH NODE #1
+Received fresh, labeled with matching patient identifiers, are 2 lymph nodes, 1.1 x 1 x 0.5 cm (A2) and 1.3 x 0.7 x
+0.4 cm (A1). A1 contains a 0.4 cm white area of discoloration. A2 is used for touch prep; A1 is submitted for frozen
+section. Specimen is submitted entirely.
+FSA1: frozen A1
+A2: A2
+B. RIGHT BREAST, NORMAL BREAST
+Received fresh, labeled with the patient's identification and "right breast, normal breast" is an oriented 1154 g, 27 x
+17 x 7 cm mastectomy with 25 x 9.5 cm skin ellipse and 1.7-cm flat nipple. Ink code: Anterior/superior-blue,
+anterior/inferior-orange, posterior-black. The specimen is serially sectioned into 12 slices with from medial to lateral
+with nipple in slice 6; no masses or lesions are identified. No lymph nodes are found. Representatively submitted.
+B1: slice 3, upper inner quadrant
+B2: slice 4, upper inner quadrant
+B3: slice 5, upper inner quadrant
+B4: slice 7, upper outer quadrant
+B5: slice 8, upper outer quadrant
+B6: slice 10, upper outer quadrant
+B7: slice 10, lower outer quadrant
+B8: slice 9, lower outer quadrant
+B9: slice 6, lower outer quadrant
+B10: slice 5, lower inner quadrant
+B11: slice 2, lower inner quadrant
+B12: slice 1, lower inner quadrant
+B13-B14: nipple and skin
+C. LEFT BRESAST WITH AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and "left breast with axillary contents" is an oriented 1457 g,
+29 x 22 x 7 cm mastectomy with 24 x 11.5 cm skin ellipse and 1.2-cm inverted nipple; there is a 0.7-cm nodule
+adjacent to the nipple and multiple skin lesions ranging from 0.2 to 0.4 cm. Ink code: Anterior/superior-blue,
+anterior/inferior-orange, posterior-black. Specimen is serially sectioned into 12 slices from medial to lateral with
+nipple and slice 6 revealing, in slices 5-7 a 2.5 x 2 x 1.8 cm firm tan lesion located in the mid upper region which is
+3.2 cm from the deep margin and 1.7 cm from the anterior margin (#1), 2.4 cm inferior to lesion #1, in slice 8, is a 1.7
+x 1.7 x 1.5 cm firm tan mass located in the mid section, 5 cm from the deep margin and 1 cm from the anterior
+margin (#2), 3 cm superior to lesion #2 is a firm 0.7 cm nodule located in the upper mid-quadrant in slice 8 which is
+4.3 cm from the deep margin and 1.3 cm from the anterior margin. Clips are identified in slices 6, 7, and 8; multiple
+axillary lymph nodes are identified. Representative sections.
+C1-C3: slice 6, lesion #1 including both margins (clip)
+C4: slice 7, connecting tissue between lesions #1 and #2
+C5: slice 7, lesion #2 (clip)
+C6: slice 8, lesion #2 (clip)
+C7: slice 8, tissue connecting lesion #2 and #3 (including #3)
+C8: slice 11, upper outer quadrant
+C9: slice 10, upper outer quadrant
+C10: slice 10, lower outer quadrant
+C11: slice 4, lower inner quadrant
+C12: slice 3, lower inner quadrant
+C13-C15: nipple and adjacent nodule
+C16: skin lesions
+C17: 5 lymph nodes
+C18: 3 lymph nodes
+C19-C22: 1 lymph node each
+C23-C24: 1 lymph node
+DIAGNOSIS:
+A. LYMPH NODE, NON-SENTINEL, LEFT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.25-CM WITH FOCAL
+EXTRANODAL EXTENSION.
+B. BREAST, RIGHT, MASTECTOMY:
+- LOBULAR CARCINOMA IN SITU (E-CADHERIN NEGATIVE)
+-FIBROADENOMA (0.6-CM), COLUMNAR CELL CHANGES AND HYPERPLASIA WITHOUT ATYPIA, USUAL
+DUCTAL HYPERPLASIA WITHOUT ATYPIA, MICROCALCIFICATIONS IN BENIGN DUCTS, FIBROCYSTIC
+CHANGES WITH FIBROSIS AND APOCRINE METAPLASIA.
+C. BREAST, LEFT, MASTECTOMY WITH AXILLARY NODE DISSECTION:
+- MULTIPLE FOCI OF INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, LARGEST FOCUS MEASURING 2.5-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH
+CENTRAL NECROSIS AND MICROCALCIFICATIONS
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- METASTATIC CARCINOMA TO TWO OF FORTEEN LYMPH NODES (2/14), LARGEST MEASURING 1.3-CM
+WITH EXTRANODAL EXTENSION
+- BIOPSY SITE CHANGES WITH FIBROSIS, GRANULATION TISSUE AND FOREIGN BODY GIANT CELL
+REACTION
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+NOTE: Multiple foci of invasive ductal carcinoma identified around the central region. One focus of tumor involves
+nipple without skin ulceration.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: NON-SENTINEL LYMPH NODE #1
+C: LEFT BREAST WITH AXILLARY CONTENTS
+Needle Localization:
+Specimen Type:
+Mastectomy
+No
+Laterality: Left
+Present
+Invasive Tumor:
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+2.5cm
+Tumor Site:
+Central
+Margins:
+Negative
+Tubular Score: 3
+Nuclear Grade:
+2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade: 2
+Vascular/Lymphatic Invasion:
+LCIS
+None identified
+Lymph nodes: Sentinel lymph node and axillary dissection
+Necrosis:
+Absent
+Lobular neoplasia:
+Lymph node status:
+Micrometastases:
+DCIS present
+Positive 3/15 Extranodal extension
+No
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 5%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location: Both associated and separate from invasive tumor mass
+Nuclear grade: Intermediate
+Necrosis:
+Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative
+Performed on Case:
+Pathological staging (pTN):
+PT 2 N 1a
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+:
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+MY QUALIFIED
+Date Reviewed
+PRQUALID

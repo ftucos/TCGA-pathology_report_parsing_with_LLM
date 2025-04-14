@@ -1,0 +1,61 @@
+Internal invoice No.
+Patient: XXX
+1CD-0-3
+Carcinona, in filating ductal, Nos 8500/3
+Site · breast, Nos
+050.9
+3/11/11
+page 1 / 1
+سلام
+Department of Cancer Pathology
+copy No.
+Date:
+Examination: Intraoperative examination
+Cost of diagnostic procedure
+PESEL: XXX
+Examination No.:
+Age:
+Gender: F
+Material: Lesion excision - Lesion in the left breast - outer upper quad.
+Unit in charge
+Physician in charge:
+Material collected on
+aterial received on
+Expected time of examination: 20 minutes (from receipt of material)
+Clinical diagnosis: Cancer of the left breast.
+Examination performed on: _
+Result of intraoperative examination:
+Carcinoma invasivum
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Fragment of the breast sized 6 x 5 x 2 cm.
+Tumour sized 1.2 x 0.8 x 0.7 cm in the middle.
+Minimum margin: 1 cm.
+Histopathological diagnosis:
+Carcinoma ductale invasivum NHG3 (3 + 3 + 2/10 mitoses/10 HPF - visual area 0.55 mm). pT1c
+Invasive ductal carcinoma of the left breast.
+Examination performed on
+Results of immunohistochemical examination:
+No estrogen receptors found in neoplastic cell nuclei.
+No progesterone receptors found in neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+ )
+UUID:03724E51-8430-414F-B483-2CB92D6A878F
+TCGA-D8-A1JF-01A-PR
+Redacted
+Compliance validated by
+Compliance validated by:
+Criteria
+Diagnosis Discrepancy
+Primary Tumur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is cle
+Reviewer
+QUALIFIT
+Date Reviewed:
+Yes
+DISQUALIFIED
+tw 3/11/11

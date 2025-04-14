@@ -1,0 +1,165 @@
+PATIENT HISTORY:
+143-0
+Carcinoma, Infiltrating duct, Nos 8500/3
+Site Code breast, UIQ
+C50.2
+CHIEF COMPLAINT/PRE-OP/ POST-OP DIAGNOSIS: Invasive ductal carcinoma in the left breast at 10 o'clock. Calcifications
+and atypia at 12 o'clock.
+breast, Nus C50.9 (Upper inner quadrant)
+LMP DATE: Not listed.
+CQCF
+PROCEDURE: Left segmental mastectomy, sentinel lymph node biopsy, excisional biopsy.
+SPECIFIC CLINICAL QUESTION: Not listed.
+OUTSIDE TISSUE DIAGNOSIS: No.
+PRIOR MALIGNANCY: No.
+CHEMORADIATION THERAPY: No.
+OTHER DISEASES: No.
+UUID:01E8D241-C303-47FA-B484-8800D580B34C
+TCGA-BH-A181-01A-PR
+Redacted
+FINAL DIAGNOSIS:
+PART 1: LEFT BREAST, 10 O'CLOCK, SEGMENTAL MASTECTOMY -
+A. TWO FOCI OF INVASIVE DUCTAL CARCINOMA, NO SPECIAL TYPE.
+B. NOTTINGHAM GRADE 2 (TUBULE FORMATION: 2, NUCLEAR PLEOMORPHISM: 3, MITOTIC ACTIVITY: 2;
+TOTAL SCORE: 7/9).
+C. THE DOMINANT MASS OF INVASIVE CARCINOMA MEASURES 1.9 CM IN LARGEST DIMENSION.
+D. THE SATELLITE FOCUS MEASURES 0.6 CM AND IS PRESENT 0.5 CM AWAY FROM THE MAIN MASS.
+E. DUCTAL CARCINOMA IN-SITU (DCIS), NUCLEAR GRADE 2, CRIBRIFORM TYPE.
+F. THE DCIS CONSTITUTES 10% OF THE TOTAL TUMOR VOLUME AND IS ADMIXED WITH INVASIVE
+COMPONENT.
+G. NO LYMPHOVASCULAR SPACE INVASION IS NOTED.
+H. THE INVASIVE CARCINOMA (DOMINANT MASS) FOCALLY EXTENDS TO THE SUPERIOR MARGIN AND IS
+<0.1 CM TO THE POSTERO-INFERIOR MARGIN.
+1.
+THE SATELLITE FOCUS OF INVASIVE CARCINOMA IS 0.15 CM FROM THE POSTERIOR MARGIN.
+J. FLAT EPITHELIAL ATYPIA.
+K. CALCIFICATIONS ARE ASSOCIATED WITH INVASIVE CARCINOMA AND BENIGN BREAST PARENCHYMA.
+L. THE NON-NEOPLASTIC BREAST SHOWS FLORID DUCTAL HYPERPLASIA, COLUMNAR CELL CHANGE AND
+FIBROCYSTIC CHANGES.
+M. PREVIOUS BIOPSY SITE CHANGES.
+N. THE INVASIVE TUMOR CELLS ARE POSITIVE FOR ESTROGEN RECEPTOR (H- score 240) AND POSITIVE
+FOR PROGESTERONE RECEPTOR (H-score 240) AND NEGATIVE FOR HER-2, AS PER PREVIOUS
+PATHOLOGY REPORT
+PART 2: LEFT BREAST, 12 O'CLOCK, BIOPSY -
+A. FLORID DUCTAL HYPERPLASIA.
+B. COLUMNAR CELL CHANGES AND HYPERPLASIA.
+C. RADIAL SCAR.
+D. FIBROADENOMATOID AND FIBROCYSTIC CHANGES.
+E. NO RESIDUAL ATYPIA SEEN.
+F.
+PREVIOUS BIOPSY SITE.
+PART 3: LEFT SENTINEL LYMPH NODE #1, BIOPSY -
+A. ONE LYMPH NODE, POSITIVE FOR METASTATIC TUMOR (1/1).
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary NoTED
+Case is (circle):
+Reviewer initials.
+Yes
+No
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+My
+tw
+B. THE METASTATIC FOCUS MEASURES 0.6 CM IN LARGEST DIMENSION.
+C. FOCAL EXTRACAPSULAR EXTENSION (<0.1 CM) IS IDENTIFIED.
+PART 4: LEFT SENTINEL LYMPH NODE #2, BIOPSY –
+TWO LYMPH NODES, NEGATIVE FOR METASTATIC TUMOR (0/2).
+COMMENT:
+The invasive tumor nuclear grade is variable and ranges from nuclear grade 2 to nuclear grade 3. The highest grade is
+taken into account for Nottingham scoring and grading.
+MICROSCOPIC:
+Microscopic examination substantiates the above diagnosis.
+Antibody/Antigen
+E-cadherin
+P120
+Result
+Membranous reactivity in invasive tumor cells
+Membranous reactivity in invasive tumor cells
+Utilizing formalin-fixed (8-96 hour range), paraffin embedded tissue, immunohistology is
+performed with the following selected antibodies and designated antibody clone(s), directed
+against the following antigenic target (s), with adequate positive and negative internal and
+external controls. Antibodies are optimized appropriate for fixation times.
+ANTIBODY
+E-cadherin
+P120
+CLONE
+36
+98
+TARGET ANTIGEN
+Ductal Carcinoma
+Lobular carcinoma
+VENDOR
+10414
+سل
+CASE SYNOPSIS:
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Left
+Segmental
+Clock position:10.00
+Maximum dimension invasive component: 19 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+Yes
+TUMOR AGGREGATE SIZE:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+CALCIFICATION:
+TUMOR TYPE, IN SITU:
+Sum of the sizes of multiple invasive tumors: 2.5 mm
+Ductal adenocarcinoma, NOS
+Nuclear grade: 3
+Tubule formation: 2
+Mitotic activity score: 2
+Total Nottingham score: 7
+Nottingham grade (1, 2, 3): 2
+No
+Not applicable
+Yes, benign zones
+Yes, malignant zones
+Cribriform
+DCIS admixed with invasive carcinoma
+Percent of tumor occupied by in situ component: 10 %
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+Yes, focal
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+LYMPH NODES POSITIVE:
+LYMPH NODES EXAMINED:
+No
+1
+3
+METHOD(S) OF LYMPH NODE EXAMINATION:
+SENTINEL NODE METASTASIS:
+SIZE OF NODAL METASTASES:
+H/E stain
+Yes
+Diameter of largest lymph node metastasis: 6 mm
+LYMPH NODE METASTASIS(-ES) WITH EXTRACAPSULAR EXTENSION:
+Yes, Maximum size is:0.75mm
+NON-NEOPLASTIC BREAST TISSUE: FCD
+T STAGE, PATHOLOGIC:
+N STAGE MODIFIER:
+N STAGE, PATHOLOGIC:
+M STAGE:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+Comment:
+pT1c
+(sn)
+PNX
+Not applicable
+positive, H-score: 240
+positive, H-score: 240
+1+
+The tumor pN stage is at least pN1. Since the sentinel node is positive, a final N
+stage will be assigned after complete lymph node dissection.
+}

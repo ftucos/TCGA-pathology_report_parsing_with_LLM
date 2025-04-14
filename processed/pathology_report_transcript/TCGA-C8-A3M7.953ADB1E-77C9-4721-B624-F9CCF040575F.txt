@@ -1,0 +1,389 @@
+UUID:953ADB1E-77C9-4721-8624-F9CCF040575F
+TCGA-C8-A3M7-01A-PR
+Redacted
+ICD-0-3
+Site: breast Nes C50.9
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+carcinoma, infiltrating labular, Nos 8520/3
+سل
+1/17/12
+Informed Consent
+Form Revised
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Priniary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is cirple):
+QUALIFIED
+Reviewer nitDate Reviewed
+DISQUALIFIED
+tw 1/17/12
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+› RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+Date
+Date of Birth (mm/dd/yyyy)
+Height
+1.60 m
+Gender
+Weight
+□ Male
+✓ Female
+Chief Complaints:
+45kN
+GENERAL INFORMATION
+Marital Status
+☑Married
+Race
+☐ Single
+☐ Divorced □ Widow
+Blood Pressure
+HISTORY OF PRESENT ILLNESS
+Tumour in the left breast
+.
+120780
+Temperature
+здес
+Heart Rate
+mmity fgpm.
+the left breast in 2006.
+Turer in the left
+Symptoms: Patent found a hor
+Clinical Findings: In the
+In the upper outer quadrant of the left breast leave 8x7cturer,
+Performance Scale (Karnofsky Score):
+which invaded to the skin.
+60-70 Symptomatic, in bed less than 50% of day
+□ 20-30 Bed Ridden
+□ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+Drug
+no
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+Το
+Το
+To
+Το
+To
+Diagnosis Date
+Treatment
+Status
+PAST MEDICAL HISTORY.
+Diagnosis/Disease/Disorder/Injury
+Healthy
+OB/GYN HISTORY
+Menopausal Status
+Pre-menopausal
+Peri-Menopausal
+Date of First Menses
+years old.
+Date of Last Menses
+# of Pregnancies
+# of Live Births
+Post-menopausal
+yearsoll.
+Birth Control: ☐ Condom
+☐ Other:
+☐ Oral Contraceptive
+No
+□ JUD
+□ Hormone Replacement
+Therapy:
+Occupation:
+SOCIAL HISTORY
+Environmental Hazards:
+Smoking History
+Current Status
+TYPE
+Packs/day
+Duration
+When Quit
+☐ YES ✓ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+Duration
+When Quit
+□ YES ☐ NO
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES
+✓ NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+Nobody has camer.
+LAB DATA
+Test
+HIV
+Hep B
+Result
+Date
+✓ Negative ☐ Positive:
+✓ Negative □ Positive:
+Hep C
+□ Negative ☐ Positive:
+AFP
+Other:
+☐ Negative □ Positive:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+Test
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+Positive:
+☐ Negative
+□ Negative □ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy
+DIAGNOSTIC STUDIES
+Results
+Date
+Normal
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+Last breast
+Location of Suspected Involved Lymph Nodes
+Axilla
+Cauler
+Location of Suspected Distant Metastasis
+Clinical Staging
+T4 N 1
+M
+0
+Stage:
+皿
+No .
+Date of Diagnosis
+Organ
+Dreast
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Surgery
+Primary Tumor
+Detailed Location
+Date of Procedure
+upper-nter quadrant 2.5x
+Extension of Tumor
+Size
+ст
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+No
+Shis.
+Lymph Nodes
+Location of Lymph Nodes
+Axilla
+# of Lymph Nodes
+6
+Distant Metastasis
+Detailed Location
+Size
+Surgical Staging
+T4
+No Mo
+Stage: πR
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+NO
+3
+Date (mm/dd/yyyy)
+To
+To
+To
+To
+To
+Collected by:
+Preserved by:
+Diseased
+Frozen
+Pathology Form
+Specimen Information
+Date:
+Time:
+Date
+Time:
+SPECIMEN TYPE (# of samples provided)
+Paraffin Block
+Blead/Serum/Plasma
+Slide
+Normal
+Diseased
+Normal
+Diseased
+Normal
+Diseased
+x
+Normal
+又
+X
+Time to Formalin
+min
+ло
+min
+Time to LN2
+60
+min
+父
+Time to LN2
+Notes:
+10
+Organ
+Breart
+Location
+Axilla
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+2.5x ×
+Extension of Tumor
+Distance to NAT
+2
+cm
+cm
+# Metastasized
+อ
+Lymph Nodes
+# Examined
+6
+Detailed Location
+Size
+Organ
+No
+Distant Metastasis
+PTA
+Pathological Staging
+No
+Mo
+4
+Stage: B
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+CELL DISTRIBUTION
++
+STRUCTURAL PATTERN
+Diffuse
+Mosaic
+Necrosis
+☑Streaming
+Storiform
+Lymphocytic Infiltration
+Vascular Invasion
+☑Fibrosis
+☑
+Palisading
+Clusterized
+Alveolar Formation
+Indian File
+✓ Cystic Degeneration
+X
+Bleeding
+☑ Myxoid Change
+* Psammoma/Calcification
+2. Cellular features:
+Squamous
++
+Adenomatous
++
+Sarcomatous
++
+Squamoid Cell
+Glandular cell
+५
+Round Cell
+Lymphomatous
+Large Cell
+Spindle Cell
+4%
+Cell Stratification
+K
+Keratin
+Secretion
+☑
+Desmosome
+Intracyt. Vacuole
+་
+Pearl
+Otherwise Specified:
+Gland formation
+✓ Myoblast
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+D, 707, D2 707 D₂ 60%, D4 70%
+2. Cellular Differentiation:
+Fibroblast
+Osteoblast
+Lipoblast
+Well
+Moderately
+Poor
+3. Nuclear Atypia:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Appearance
+Nuclear Grade
+11
++
+K
+α
+α
+2
+Histological Diagnosis: Infitenting lobular carcinoma, G3
+Comments:
+Director, Research Pathology
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

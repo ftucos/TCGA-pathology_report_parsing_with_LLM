@@ -1,0 +1,215 @@
+DIAGNOSIS
+UUID:E49FAC55-434A-429B-8E61-C5E0FBD7C15C
+TCGA-GM-A5PX-01A-PR
+Redacted
+Criteria.
+Discosis Discrepancy
+l 2/1/13.
+Primary Tumor Site Discrepancy
+FIPAA Discrepancy
+Prim Malignancy History
+Dual/Syrrhonous Prima Noted
+Cases (cl.cle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 113113
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+(A) LEFT BREAST, SKIN-SPARING TOTAL MASTECTOMY:
+TWO FOCI OF INVASIVE LOBULAR CARCINOMA, NOTTINGHAM HISTOLOGIC GRADE 1 (WELL-
+DIFFERENTIATED). (SEE COMMENT 1)
+AT 6 O'CLOCK INVASIVE CARCINOMA MEASURES 1.5 X 0.4 CM IN CONTIGUOUS SECTIONS/SLICES.
+INVASIVE CARCINOMA IS PRESENT 0.6 CM FROM CLOSEST INFERIOR MARGIN.
+FOCAL DUCTAL CARCINOMA IN SITU (DCIS), LOW GRADE, SOLID PATTERN.
+AT 2 O'CLOCK INVASIVE CARCINOMA MEASURES 3.5 X 3.0 CM IN CONTIGUOUS SECTIONS/SLICES.
+MARGINS ARE WIDELY FREE, PRESENT AT LEAST 1.0 CM FROM CLOSEST SUPERIOR MARGIN.
+FOCAL DUCTAL CARCINOMA IN SITU (DCIS), LOW GRADE, SOLID AND CRIBRIFORM PATTERNS.
+Associated fibroadenoma.
+ICD-0-3.
+Atypical lobular hyperplasia, atypical ductal hyperplasia.
+Secretory changes.
+Reactive changes consistent with previous biopsy site.
+Dense fibrosis consistent with capsule.
+Carcinoma, Cobular infiltrating
+Site ①Breast Nos
+JW 2/5/13
+85203
+25852
+Microcalcifications present in association with invasive and in situ carcinoma, and with benign breast tissue.
+Nipple and skin, no tumor present.
+Skeletal muscle, no tumor present.
+Intact breast implant, gross examination only.
+(B) LEFT AXILLARY SENTINEL LYMPH NODE #1, EXCISIONAL BIOPSY:
+MICROMETASTASIS PRESENT IN ONE OF ONE LYMPH NODE. (SEE COMMENT 2)
+TUMOR CELLS ARE HIGHLIGHTED BY CYTOKERATIN IMMUNOSTAIN AND ARE PRESENT WITHIN AN AREA
+MEASURING 0.75 X 0.1 MM IN LARGEST SINGLE SLIDE DIMENSION
+(C) LEFT AXILLARY SENTINEL LYMPH NODE #2, EXCISIONAL BIOPSY:
+11/8219
+SINGLE CYTOKERATIN POSITIVE ISOLATED TUMOR CELL PRESENT IN ONE OF ONE LYMPH NODE, MEASURES
+0.01 MM 
+IN 
+GREATEST SINGLE SLIDE DIMENSION. (SEE COMMENT 3)
+(D) LEFT AXILLARY SENTINEL LYMPH NODE #3, EXCISIONAL BIOPSY:
+Fibroadipose tissue, no lymphoid tissue identified.
+Immunohistochemical stain for cytokeratin is negative.
+COMMENT
+1) Immunohistochemical stains for biologic markers are pending.
+2) In specimen B, the frozen sections are reviewed but the tumor cells are not evident. In H&E stained permanent sections, the
+largest group 
+of tumor cells can be identified but the tumor cells are bland and well differentiated. The tumor cells are best seen
+on 
+immunostained slides and are present in four areas in the lymph node sections. The majority of the tumor cells are clustered
+within a 0.75 x 
+0.1 mm area. In addition, isolated tumor cells, singly or in pair, are present in three other regions of the lymph node
+sections.
+3) In specimen C, tumor cells are not evident in the frozen and permanent H&E sections.
+GROSS DESCRIPTION
+(A) LEFT BREAST, SHORT SUPERIOR, LONG LATERAL - A 16.0 x 15.0 x 7.0 cm skin sparing total mastectomy specimen that
+is oriented by the surgeon with a short 
+stitch designating superior and a long stitch designating lateral. The specimen is partly
+surfaced by a 4.5 x 3.5 cm 
+ovoid portion of pale tan wrinkled skin. Located on the surface of the skin is an everted nipple
+surrounded 
+by a rim of areola that measure 1.2 and 3.5 cm in diameter, respectively. The specimen is serially sectioned from
+medial to lateral into eleven 
+slices. The nipple is located in slice #5. In slices #2 through #10 there is a 12.0 x 12.0 x 2.7 cm breast
+implant and cavity 
+lined by a pink-white smooth, glistening, fibrous capsular tissue. The specimen contains an intact
+brand breast 
+implant filled with a translucent viscous material. Identifying information is as follows:
+The breast implant measures 12.0 x 12.0 x 2.7 cm and is for gross only. Radiographs are taken of the specimen and display
+at the 
+6 o'clock position, within 
+slices #5 and #6, a 1.5 x 1.0 x 0.5 cm firm, gray-white mass that grossly comes to within 0.6 cm
+from the anterior inferior 
+margin, 3.5 cm from the deep margin, 3.5 cm from the nipple and abuts the implant capsule. There is a
+metal biopsy clip located 
+in this mass in slice #5. At the 2 o'clock position, in slices #8 through #10, there is a 3.5 x 3.0 x 1.3 cm
+firm gray-white mass 
+that grossly comes to within 3.0 cm from the deep margin, 1.0 cm from the anterior superior margin, 2.5 cm
+from the 
+anterior inferior margin, and abuts the implant capsule. There is a metal biopsy clip located in slice #9 in this mass.
+Remaining cut surfaces are 60% yellow glistening adipose tissue and 40% gray-white fibrous tissue. Some tissue has been given
+to tumor bank for research purposes.
+INK CODE: Blue - superior; orange - inferior; black - deep.
+SECTION CODE: A1, A2, nipple from slice #5; A3, A4, 6 o'clock mass to inferior margin from slice #5; A5, slice #4,
+capsule and inferior margin, medial to 6 o'clock mass; A6, mass slice #6; A7, slice #7, lateral to 6 o'clock mass; A8, slice #7,
+lateral to 2 o'clock mass; A9, 2 o'clock mass, slice #8; A10, 2 o'clock mass, slice #9; A11, 2 o'clock mass in area of clip, slice #9;
+A12, 2 o'clock mass with superior margin, slice #9; A13, deep margin from slice #9; A14, 2 o'clock mass, slice #10; A15,
+representative sections from slice #11 (lateral margin), perpendicularly sectioned and adjacent to 2 o'clock mass; A16, upper inner
+quadrant from slice #3; A17, upper inner quadrant from slice #4.
+*IOA/DX: MARGINS ARE FREE GROSSLY/RADIOLOGIC.
+(B) LEFT AXILLARY SENTINEL LYMPH NODE #1, BLUE, IN VIVO 65, EX VIVO 117 - A 1.1 x 0.7 x 0.4 cm lymph node.
+SECTION CODE: B, one lymph node serially sectioned for frozen section diagnosis.
+*FS/DX: NO TUMOR PRESENT.
+(C) LEFT AXILLARY SENTINEL LYMPH NODE #2, BLUE, IN VIVO 65, EX VIVO 27 - A 1.1 x 0.7 x 0.4 cm lymph node.
+SECTION CODE: C, one possible lymph node serially sectioned for frozen section diagnosis.
+*FS/DX: NO TUMOR PRESENT.
+(D) LEFT AXILLARY SENTINEL LYMPH NODE #3, BLUE, IN VIVO 65, EX VIVO 24 - A 2.0 x 1.5 x 0.5 cm portion of
+fibroadipose tissue. The tissue is dissected; however, a definite lymph node is not grossly identified. Cut surfaces are composed
+of unremarkable fibroadipose tissue.
+SECTION CODE: D, entire specimen.
+*IOA/DX: NO GROSSLY IDENTIFIED LYMPH NODE. DEFER TO PERMANENT.
+CLINICAL HISTORY
+Left breast cancer.
+SNOMED CODES
+T-04050, M-Y2003
+"Some tests reported here may have been developed and performance characteristics determined by
+specifically cleared or approved by the U.S. Food and Drug Administration."
+These tests have not been
+Start of ADDENDUM
+ADDENDUM
+COMMENT
+This report is issued to give Immunohistochemistry results. Immunohistochemical staining is performed in our lab on a
+representative paraffin-embedded section of INVASIVE LOBULAR CARCINOMA, left breast, block A4, 6 o'clock.
+MARKER
+Clone/Vendor
+RESULTS
+STAINING
+SCORE
+Estrogen Receptor
+6F11-
+Positive
+95%
+Strong
+Progesterone Receptor
+PgR1294(
+.)
+Positive
+95 %
+Strong
+Ki-67
+MIB1 (
+Low
+5%
+N/A
+HER2 overexpression
+AB8 (
+)
+Negative
+N/A
+1+
+This report is issued to give Immunohistochemistry results. Immunohistochemical staining is performed in our lab on a
+representative paraffin-embedded section of INVASIVE LOBULAR CARCINOMA, left breast, block A11, 2 o'clock.
+MARKER
+Clone/Vendor
+RESULTS
+STAINING
+SCORE
+Estrogen Receptor
+6F11-
+Positive
+>95%
+Strong
+Progesterone Receptor
+PgR1294(
+)
+Positive
+>95%
+Strong
+Ki-67
+MIB1 ( )
+Low
+5%
+N/A
+HER2 overexpression
+AB8 (
+)
+Negative
+N/A
+1+
+COMMENT
+Due to the above HER2 immunohistochemical staining result, gene copy level (HER2: CEP17 signal ratio) will be evaluated by
+FISH and a separate report 
+will be issued.
+FOOTNOTE
+Breast specimens used for determining prognostic / predictive markers are fixed in formalin for 6-48 hours.
+For ER & PR:
+Positive
+Low Positive
+10 - 100%
+1-9%
+For Ki-67 Low Positive
+Moderate Positive
+High Positive
+<17%
+17-35%
+>35%
+For Her 2: Positive cases are those with uniform, intense and complete membrane staining in greater than 30% of invasive tumor cells (Score 3+). Negative cases
+are defined as those with no staining (Score 0) or weak, 
+incomplete membrane staining in any proportion of cells (Score 1+). Equivocal or indeterminate cases are
+those with strong staining in less than or equal to 30% of cells, or 
+complete membrane staining that is either non-uniform or weak in intensity, but with obvious
+circumferential distribution in at least 10% of tumor 
+cells 
+(
+Score +2).
+Reference Wolff AC, Hammond EH, Swartz JN et al. American Society of Clinical Oncology/College of American Pathologists Guideline Recommendations for
+Human Epidermal Growth Factor Receptor 2 Testing in Breast 
+Cancer. Arch Pathol Lab Med. 2007;131:18-43.
+Start of ADDENDUM #2
+ADDENDUM
+For FISH results, please see
+-END OF REPORT-

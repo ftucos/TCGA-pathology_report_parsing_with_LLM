@@ -1,0 +1,26 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+1/19/11 for
+Site. Breast, Nos C50.9
+Diagnosis:
+Ablated material from the right breast with a bifocal invasive ductal breast carcinoma grade
+II. The 
+larger focus is 1.1 cm in size and the smaller one 0.8 cm (measured in the histological
+preparation). Complete resection of carcinoma extending to the healthy tissue on all sides
+(minimum caudal margin of 0.5 cm).
+Tumor classification: pT1c (m), pN2a (7/25), MX, R0, G2 (L0, V0).
+UUID:AADFAF8B-92B8-4292-96A3-912D55EB9C31
+TCGA-A8-A06P-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignar.cy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Intial
+QUALIFIED I DISQUALIFIED
+De Reviewed:

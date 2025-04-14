@@ -1,0 +1,370 @@
+Redacted
+Clinical Diagnosis & History:
+Invasive lobular (questionable duct), carcinoma left breast LOQ for left
+wide excision with needle localization, SLNB.
+Specimens Submitted:
+1: SP: Sentinel node #1 level one left axilla
+2: SP: Sentinel node #2 level one left axilla
+3: SP: Non-sentinel tissue left axilla
+4: SP: Sentinel node #33 level one left axilla
+5: SP: Breast, left, 4:00, excision of tumor site
+6: SP: Breast, left, superior margin
+7: SP: Breast, left, medial margin
+8: SP: Breast, left, inferior margin
+9: SP: Breast, left, lateral margin
+10: SP: Breast, left, posterior margin
+UUID:8FB93D92-81F6-4241-9094-4AABF70E6A0F
+TCGA-A0-A1KS-01A-PR
+DIAGNOSIS:
+1.
+SP: Sentinel node #1 level one left axilla:
+Sentinel Lymph Node Status:
+No carcinoma present
+Number of Sentinel Lymph Nodes Examined: 1
+Level of Detection:
+Initial H&E stained section
+Deeper H&E stained sections and cytokeratin AE1:AE3 stains
+Extracapsular Extension:
+Not applicable
+2. SP: Sentinel node #2 level one left axilla:
+Sentinel Lymph Node Status:
+No carcinoma present
+Number of Sentinel Lymph Nodes Examined: 1
+Level of Detection:
+Initial H&E stained section
+Deeper H&E stained sections and cytokeratin AE1:AE3 stains
+Extracapsular Extension:
+Not applicable
+** Continued on next page
+ICD-0-3
+Carcinoma, infiltrating lobular 8520/3
+Site: breast,
+Nos
+050.9
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Matad
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed
+No
+Yes
+K
+DISQUALIFIED
+2/14/11
+Rew
+3.
+SP: Non-sentinel tissue left axilla:
+Two benign lymph nodes (0/2)
+Page 2 of 7
+4.
+SP: Sentinel node #3 level one left axilla:
+Sentinel Lymph Node Status:
+No carcinoma present
+Number of Sentinel Lymph Nodes Examined: 1
+Level of Detection:
+Initial H&E stained section
+Deeper H&E stained sections and cytokeratin AE1:AE3 stains
+Extracapsular Extension:
+Not applicable
+5. SP: Breast left 4:00, excision of tumor site:
+Invasive Carcinoma:
+Invasive marmary carcinoma (see comments)
+Histologic Grade:
+III/III: Minimal or no tubule formation (< 10% of tumor)
+Nuclear Grade:
+III/III (marked variation in size and shape)
+Tumor Size:
+Gross measurement 26mm
+Lobular Neoplasia:
+Lobular carcinoma in situ (LCIS), classical type
+focal
+Calcification:
+Not Identified
+Lymphovascular Invasion:
+Not present
+Surgical Margins:
+For Final margin status see seperately submitted margins
+Benign Breast Tissue:
+Biopsy site change
+Estrogen Receptor (6F11, V
+Positive nuclear staining in 99% of tumor cells
+Strong intensity
+Progesterone Receptor (1E2; Ventana):
+HER2 (4B5,
+Positive nuclear staining in 90% of tumor cells
+Strong intensity
+Moderate intensity
+Equivocal (2+). FISH will be performed.
+Membranous Staining (for Her2 positive and equivocal cases only):
+15% of invasive cells exhibit complete membranous staining
+Uniformity of staining is absent
+Comment:
+Homogenous, dark circumferential pattern is absent
+This high grade invasive carcinoma has a solid growth pattern.
+There is focal associated LCIS. Based on the cytomorphology and the fact
+that it is E-Cadherin negative, most likely this is an invasive lobular ca
+** Continued on next page
+with pleomorphic features.
+Page 3 of 7
+6.
+7.
+8.
+9.
+SP: Breast, left, superior margin:
+Benign breast parenchyma
+SP: Breast, left, medial margin:
+Benign breast parenchyma and skeletal muscle
+SP: Breast, left, inferior margin:
+Benign breast parenchyma
+SP: Breast, left, lateral margin:
+Benign breast parenchyma
+10. SP: Breast, left, posterior margin:
+Benign breast parenchyma and skeletal muscle
+Comment:
+Controls are satisfactory. Ventana's PATHWAY anti-HER-2/neu is an
+FDA-approved rabbit monoclonal primary antibody (clone 185) directed against
+the internal domain of the c-erbB-2 oncoprotein (HER2) for
+immunohistochemical detection of HER2 protein overexpression in breast
+cancer tissue routinely processed for histologic evaluation. Results are
+reported in accordance with the ASCO/CAP guideline recommendations for HER2
+testing in breast cancer (J Clin Oncol 2007; 25(1):118-145). ER and PR are
+also rabbit monoclonal antibodies which are FDA approved.
+Some of the immunohistochemistry and ISH tests were developed and their
+performance characteristics were determined by the Department of Pathology.
+They have not been cleared or approved by the US Food and Drug
+Administration. The FDA has determined that such clearance or approval is
+not necessary. These tests are used for clinical purposes. They should not
+be regarded as investigational or for research. This laboratory is certified
+under the Clinical Laboratory Improvement Amendments of 1988 (CLIA ' 88) as
+qualified to perform high complexity clinical laboratory testing.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+1) The specimen is received in formalin, labeled "Sentinel node #1 level 1
+left axilla" and consists of a gray-tan lymph node measuring 2.2 cm in
+greatest dimension. The lymph node is bisected and submitted entirely.
+** Continued on next page **
+Summary of sections:
+BLN bisected lymph node
+Page 4 of 7
+2) The specimen is received in formalin, labeled "Sentinel node #2 level 1
+left axilla" and consists of a pink-tan lymph node measuring 1.1 cm in
+greatest dimension, which is bisected and submitted entirely.
+Summary of sections:
+0
+undesignated
+3) The specimen is received in formalin, labeled "Non-sentinel tissue left
+axilla" and consists of a piece of fatty tissue measuring 4.5 x 4.5 x 0.5 cm
+in greatest dimension. A few pink-tan lymphoid nodules are identified
+ranging from 0.1 to 0.7 cm in greatest dimension, which are entirely
+submitted.
+Summary of sections:
+U -
+undesignated
+4) The specimen is received in formalin, labeled "Sentinel node #3 level 1
+left axilla* and consists of a pink-tan lymph node measuring 0.5 cm in
+greatest dimension, which is submitted whole.
+Summary of sections:
+P
+undesignated
+5) The specimen is received fresh labeled "Excision of tumor site at 4
+o'clock left breast." It consists of an unoriented segment of yellow-tan
+fatty breast tissue measuring 8.5 x 6.5 x 3.4 cm. The specimen is received
+on a cardboard grid. There is an accompanying specimen radiograph which
+demonstrates a solid tumor mass containing a previous biopsy clip. The outer
+surface of the specimen is inked black. In sections reveal a 2.6 x 2.4 x 2.2
+cm well circumscribed, stony hard, white-tan tumor with a central previous
+biopsy site measuring 0.8 x 0.7 x 0.6 cm. A stereotactic biopsy clip is
+identified within the biopsy site. The tumor abuts the black inked tissue
+edge. The remainder of the breast tissue is predominantly yellow tan fatty
+and lobulated with focal white-tan fibrous areas. A sample of the tumor is
+given to TPS. The remainder of the tumor is blocked out, sequentially
+sectioned, and submitted entirely.
+Summary of sections:
+TB-sequential section of tumor, bisected
+T-tumor
+6) The specimen is received fresh, labeled "Superior margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 4.3 x 3.2 cm, and
+** Continued on next page
+Page 5 of 7
+0.9 cm thick. A stitch marks the new margin of excision, which is inked
+black. No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+Summary of sections:
+ss sequential sections
+7) The specimen is received fresh, labeled "Medial margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 3.8 x 3.2, and 1.0
+cm thick. A stitch marks the new margin of excision, which is inked black.
+No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+Summary of sections:
+SS - sequential sections
+8) The specimen is received fresh, labeled "Inferior margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 4.0 x 3.9, and 1.5
+cm thick. A stitch marks the new margin of excision, which is inked black.
+No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+Summary of sections:
+SS - sequential sections
+9) The specimen is received fresh, labeled "Lateral margin left breast" and
+consists of a piece of fibrofatty breast tissue measuring 4.9 x 3.5cm and
+1.2 cm thick. A stitch marks the new margin of excision, which is inked
+black. No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+Summary of sections:
+SS sequential sections
+10) The specimen is received fresh, labeled "Posterior margin left breast"
+and consists of a piece of fibrofatty breast tissue measuring 4.7 x 2.5 cm
+and 0.5 cm thick. A stitch marks the new margin of excision, which is inked
+black. No tumor is grossly identified. The tissue is serially sectioned and
+entirely submitted.
+Summary of sections:
+SS - sequential sections
+** Continued on next page **
+Summary of Sections:
+SP: Sentinel node #1 level one left axilla
+Part 1:
+Block
+1
+Part 2:
+Block
+1
+Part 3:
+Block
+I
+Part 4:
+Block
+1
+Part 5:
+Block
+1
+2
+2
+2
+Part 6:
+Block
+6
+Part 7:
+Block
+5
+Part 8:
+Block
+6
+Part 9:
+Block
+5
+Part 10:
+Block
+5
+Sect. Site
+bln
+PCs
+1
+SP: Sentinel node #2 level one left axilla
+Sect. Site
+bln
+PCs
+1
+SP: Non-sentinel tissue left axilla
+Sect. Site
+u
+PCs
+1
+SP: Sentinel node #3 level one left axilla
+Sect. Site
+4
+PCs
+1
+SP: Breast, left, 4:00, excision of tumor site
+Sect. Site
+T
+ΤΑ
+TB
+TC
+PCS
+1
+2
+2
+2
+SP: Breast, left, superior margin
+Sect. Site
+$$
+PCs
+6
+SP: Breast, left, medial margin
+Sect. Site
+$8
+PCs
+5
+SP: Breast, left, inferior margin
+Sect. Site
+55
+PCB
+SP: Breast, left, lateral margin
+Sect. Site
+PCs
+5
+SP: Breast, left, posterior margin
+Sect. Site
+55
+PCs
+S
+** Continued on next page **
+Page 6 of 7
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete.
+Date Reported:
+Addendum Diagnosis
+PART #5: LEFT BREAST
+Status:
+By:
+Signed Out
+Page 7 of 7
+ONCOTYPE TESTING RESULTS RECEIVED ON
+CURRENCE SCORE -23.
+AVERAGE RATE OF DISTANT RECURRENCE OF 15% (95% CI: 12%-18%).
+TESTING WAS PERFORMED AT:
+ONCOTYPE REPORT CAN BE FOUND IN
+** End of Report **
+Specimens Submitted:
+1: LEFT BREAST 4:00
+Test Performed:
+FISH for detection of gene amplification
+Methodology:
+Fluorescence in situ Hybridization (FISH) is performed using FDA-approved
+ERBB2 (HER2/NEU) PathVysion assay probes and procedure
+DIAGNOSTIC INTERPRETATION:
+HER2/ CEP 17
+1.0/ NOT AMPLIFIED
+Her-2/neu gene amplification is NOT detected.
+(cut off ratio:
+> 2.2 HER2 gene amplified; < 1.8 HER2 gene not amplified;
+1.8 2.2 equivocal)
+LAB NOTES:
+Block # 5 (TA1)
+Specimen fixative type: Formalin
+Adequate number of invasive tumor cells present:
+Number of invasive tumor cells counted: 20 + 20
+Yes
+Average number of HER2 probe signals per nucleus: 3.2
+Average number of CEP17 chromosome probe signals per nucleus: 3.2
+Average HER2/CEP 17 ratio: 1.0
+The PathVysion HER2 DNA probe kit (Vysis) is an FDA-approved method
+for assessment of HER2 gene amplification in breast cancer specimens. The
+HER2 test results are reported in accordance with the ASCO/CAP guideline
+recommendations for HER2 testing in breast cancer (J Clin Oncol 2007; 25
+(1):118-145).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+** Continued on next page **

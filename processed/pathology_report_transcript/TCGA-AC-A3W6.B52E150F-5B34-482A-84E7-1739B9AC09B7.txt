@@ -1,0 +1,81 @@
+DIAGNOSIS:
+Sex: 1
+D.O.B.:
+MRN #:
+Ref Phyova
+Collected:
+UUID:B52E150F-5834-482A-84E7-1739B9AC89B7
+TCGA-AC-A3W6-01A-PR
+SPECIMEN INFO
+Received:
+Reported:
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+Right modified radical mastectomy with sentinel node mapping:
+Invasive lobular carcinoma.
+Lobular carcinoma was previously confirmed by negative e cadherin expression.
+Size: 5.3 cm.
+Architectural score: 3 of 3.
+Nuclear score: 2 of 3.
+Mitotic score: 1 of 3.
+Redacted
+Total score: 6 of 9 = grade 2.
+Carcinoma involves sections of the nipple but does not involve the overlying epidermis and is not seen in dermal lymphatics.
+Prognostic panel was performed on the previous biopsy and will not be repeated unless requested.
+Carcinoma does not involve inked deep margin of excision.
+Right sentinel lymph nodes:
+Three lymph nodes, metastatic carcinoma in three of three nodes.
+Size of involvement within the node: 1 cm.
+Extracapsular extension of carcinoma present.
+Confirmed by staining with pancytokeratin.
+TNM: T3N1MX.
+ICD-0-3
+carcinoma, lobular, infiltrating
+852013
+Site: breast, NOS
+050,9
+Electronic signature:
+5-1-12
+CLINICAL INFORMATION
+RD
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right modified radical mastectomy with sentinel node mapping with frozen section. Invasive mammary carcinoma, ER positive,
+PR positive.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+Right breast, tie marks sentinel node
+GROSS DESCRIPTION:
+SPECIMEN DATA
+The specimen is received in a single formalin-filled container labeled with the patient's name
+'right breast, tie marks sentinel node' and
+consists of a 281.8 gram, 20.0 x 11.5 x 3.8 cm mastectomy specimen partially surfaced by a 15.8 x 7.5 cm ellipse of pink-tan wrinkled skin bearing an
+eccentric 0.9 x 0.8 cm inverted nipple. A suture is present at the lateral edge and denotes the sentinel lymph node. A discrete axillary tail is not identified.
+The deep margin is inked and the specimen is serially sectioned to reveal a 5.3 x 3.5 x 3.3 cm ill-defined gray-white mass originating centrally subjacent
+to the nipple and abutting the skin surface at the nipple. This mass approaches to within 0.7 cm of the inked deep margin. The uninvolved tissue is
+comprised of yellow-tan adipose tissue admixed with minimal amounts of interspersed gray-white fibrous tissue. Focal areas of nodularity are present at
+the medial and lateral borders, however, discrete invasive mass is not identified. The closest of these nodules approaches to within 1.5 cm of the inked
+margin.
+Adjacent to the aforementioned suture, denotes a 2.0 cm well delineated nodule consistent with lymph node. Within the adjacent fibroadipose tissue are
+two additional firm fatty nodules consistent with lymph node, 0.5 and 1.5 cm in greatest dimension.
+Representative sections are submitted in cassettes 1 through 12 labeled
+designated as follows: 1 and 2, mass to include nipple and
+adjacent skin; 3 and 4, mass to inked deep margin, perpendicular; 5 and 6, additional mass; 7, upper outer quadrant; 8, lower outer quadrant; 9, upper
+inner quadrant; 10, lower inner quadrant; 11, one whole possible sentinel lymph node, bisected; 12, two additional lymph nodes (one inked and
+bisected). Additionally, a yellow, green and blue cassette are submitted for genomics research each labeled
+riteria
+iagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Noted -
+ase is (circle):
+eviewer initials
+==
+Yes
+Νο
+DISQUALIFIED
+QUALIFIED
+Date Reviewed;
+наст
+4125112

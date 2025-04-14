@@ -1,0 +1,32 @@
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+Final Diagnosis
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials RB
+DISQUALIFIED
+QUALIFIED
+Date Reviewed. 19
+bw 4/25/11
+reast, right, wide local excision: Invasive ductal carcinoma, Nottingham grade 2 (of 3), forming a 2.5 x 2.1 x 1.0 cm mass(AJCC
+PT2). Ductal carcinoma in situ, solid type, without necrosis and high nuclear grade identified. Angiovascular invasion present.
+After, re-excision of inferior and deep margins, all margins are negative by at least 1.0 cm. Skin ellipse identified without
+abnormality.
+Lymph nodes, right axillary sentinel, excision: Multiple (2 of 5) sentinel lymph nodes are positive for metastatic breast carcinoma
+(AJCC pN1).
+Lymph nodes, right axillary, excision: Multiple (7) right axillary lymph nodes are negative for tumor.
+Estrogen/progesterone analysis and Her2/Neu have been ordered on paraffin embedded tissue.
+ICD-0-3
+Carcinoma infiltrating ductal, Nos
+8500/3
+Site, breast, NoS
+050.9
+fw 4/25/11
+UUID:BF82AD23-840E-459F-83EC-590D392664FD
+TCGA-AR-A24L-01A-PR
+Redacted

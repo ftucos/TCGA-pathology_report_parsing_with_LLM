@@ -1,0 +1,259 @@
+TSS Pt Id:
+SPECIMENS:
+Path
+ICD-0-3
+Carcinoma, Infiltrating duct, Nos 8500/3
+Site Code: breast, upper
+onter quadrant
+CACF Site: brust, NOS C50.9
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. SENTINEL LYMPH NODE #3 LEFT AXILLA
+D. LEFT BREAST
+E. RIGHT BREAST SKIN
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. SENTINEL LYMPH NODE #3 LEFT AXILLA
+D. LEFT BREAST
+E. RIGHT BREAST SKIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TP A-C: Negative for tumor. By Dr., called to Dr.
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+050.4
+12/19/10
+UUID:AA1BACC4-0B3D-4E2E-865E-248570DA4E74
+TCGA-E2-A10A-01A-PR
+Redacted
+Received fresh labeled with patient name designated "A - sentinel lymph node #1 left axilla" is a
+fragment of beige-tan possible lymphoid tissue measuring 1.1 x 0.9 x 0.3 cm. The specimen is serially
+sectioned. Touch preps were performed. The entire specimen is submitted in cassette A1.
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received fresh labeled with patient name designated "B - sentinel lymph node #2" is a fragment of
+yellow-red fibroadipose tissue measuring 3.2 x 1.5 x 0.7 cm. One possible lymph node is identified
+measuring 1.2 x 0.6 x 0.5 cm. The specimen is bisected. Touch preps were performed. The entire
+lymph node is submitted in cassette B1.
+C. SENTINEL LYMPH NODE#3 LEFT AXILLA
+Received fresh labeled with patient name designated "C - sentinel lymph node #3 left axilla" is a
+fragment of beige-tan possible lymphoid tissue measuring 1.2 x 0.6 x 0.4 cm. The specimen is serially
+sectioned, touch preps were performed. The entire specimen is submitted in cassettes C1.
+D. LEFT BREAST
+Received fresh labeled with patient name designated "D - left breast" is a resected mastectomy
+specimen weighing 676 grams and measuring 22.5 x 19 x 3 cm. The specimen is received with
+orientation. A suture designates the axillary end of breast. The deep margin is inked black. The
+overlying beige-tan ellipse of skin measures 14.5 x 4.2 cm. The light brown areola measures 3.5 cm in
+diameter. The everted nipple measures 1.1 cm in diameter. The specimen is serially sectioned from
+medial to lateral. Cut section shows a firm beige-tan mass in the upper outer quadrant approaching the
+deep surgical margin at closest distance 1.3 cm and is located 5 cm from the axillary tail. The lesion
+measures 3.6 x 3 x 2.2 cm. This lesion extends to the lower outer quadrant for about 2.5 x 1.5 cm. A
+second possible lesion is noted in the upper outer quadrant superior to the first main mass approaching
+the deep surgical margin at a distance of 2.5 cm. This area is located 5.2 cm from the first lesion and
+measures 0.5 x 0.5 x 0.4 cm. A third possible subareolar is noted located 4.5 cm from the first main
+mass in the upper outer quadrant. This third lesion measures 0.6 x 0.5 x 0.5 cm. A fourth possible
+mass is located approximately 2.5 cm from the main mass in the upper outer quadrant and approaches
+the deep margin at a distance of 2.2 cm. The fourth lesion measures 0.5 x 0.3 x 0.3 cm. The
+remainder of the breast parenchyma shows multiple patchy fibrous firm tissue. A portion of the
+specimen is submitted for tissue procurement. Representative sections are submitted as follows:
+D1-D3: the main mass in the upper outer quadrant with overlying deep margin
+D4-D5: remainder of the main mass in the upper outer quadrant
+D6: lesion #2 upper outer quadrant
+D7: lesion #3 subareolar
+D8: lesion #4 upper outer quadrant
+D9-D10: additional firm fibrous tissue adjacent to main mass of lower outer quadrant
+D11-D14: additional section lower outer quadrant
+D15-D16: fibrous tissue central subareolar
+D17-D18: representative sections upper inner quadrant
+D19-D21: representative sections lower inner quadrant
+D22: section of nipple
+D23: representative sections of skin
+D24-D28: multiple possible axillary lymph nodes
+E. RIGHT BREAST TISSUE SKIN
+Received in formalin in a container labeled with the patient name designated "e. right breast skin" is an
+irregular fragment of beige-tan skin measuring 11.4 x 4.5 x 0.3 cm. The surface of the specimen is
+unremarkable. A section shows unremarkable skin tissue. Representative sections are submitted in
+cassettes E1-E3.
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA, EXCISION:
+-
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA, EXCISION:
+-
+- ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+C. SENTINEL LYMPH NODE #3, LEFT AXILLA, EXCISION:
+-
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+D. LEFT BREAST, MASTECTOMY:
+-INVASIVE DUCTAL CARCINOMA, MULTIFOCI, SBR GRADE II.
+SIZE OF LARGEST TUMOR FOCUS MEASURING 6.1 X 4.5 CM.
+- DUCTAL CARCINOMA IN-SITU, CRIBRIFORM AND MICROPAPILLARY TYPES.
+- ATTACHED SKIN AND NIPPLE, NEGATIVE FOR TUMOR.
+- SURGICAL RESECTION MARGINS, NEGATIVE FOR TUMOR.
+- SEE TEMPLATE.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: D: LEFT BREAST
+Specimen Type:
+Needle Localization:
+Mastectomy
+No
+Laterality: Left
+Invasive tumor:
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Specimen size:
+Additional dimensions:
+Size of Invasive focus 6.1cm
+4.5cm x 2.2cm
+Tumor Site: Upper outer quadrant
+Lower outer quadrant
+Margins: Negative
+Distance from closest margin: 1.3cm
+Margin:
+deep
+Tubular score:
+2 (10-75% tubule)
+Nuclear grade:
+2
+Mitotic score (Olympus 40x):
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: Indeterminate
+2 (7-13/10 )
+Il (6-7 points)
+Lobular neoplasia:
+Lymph nodes:
+None
+Sentinel lymph node only
+Lymph node status: Negative 0/3
+Non-neoplastic areas: Fibrocystic disease, pseudoangiomatous stromal hyperplasia
+DCIS present
+DCIS Quantity:
+DCIS type: Cribriform
+Micropapillary
+Estimate % 10
+Associated with invasive tumor
+Intermediate
+DCIS location:
+Nuclear grade:
+Necrosis: Absent
+Location of CA++:
+Pathological staging (pTN):
+Benign epithelium
+pT 3 NO
+Comment(s): See breast biomarker template
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimens Involved
+Specimens: D: LEFT BREAST
+SPECIMEN:
+Other
+mastectomy
+Block Number:
+D4
+-
+Allred Score:
+ER: Positive - Allred Score:
+PR: Positive
+COMMENT:
+7 = Proportion score: 4 + Intensity Score 3
+8 = Proportion Score 5 + Intensity Score 3
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of
+less than or equal to 2.
+'
+Methodology: Fixation Type and Length: Tissue was fixed in 10% neutral buffered formalin
+) for no less than 8 and no longer than 24 hours. Antibody and Assay Methodology:
+Mouse anti-human ER and PR,
+Comment: This assay can be used to select invasive breast cancer patients for hormone therapy (1).
+ER and PR analysis was performed on this case by immunohistochemistry utilizing the ER (ER 1D5,
+1:100) and PR (PGR 136, 1:100) antibody provided by following the manufacturer's instructions
+listed in the package insert. This assay was not modified, and adherence to all instruction and
+guidelines were strictly followed. Interpretation of the ER/PR immunohistochemical staining
+characteristics is guided by published results in the medical literature (1), information provided by the
+reagent manufacturer and by internal review of staining performance within the Pathology Department.
+1. Harvey JM, et al. Estrogen receptor status by immunohistochemistry is superior to the ligand-binding
+assay for predicting response to adjuvant endocrine therapy in breast cancer. J Clin Oncol. 17:1474-
+1481, 1999
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Left breast ca
+ADDENDUM:
+E. RIGHT BREAST SKIN, EXCISION:
+- FRAGMENT OF UNREMARKABLE SKIN, NEGATIVE FOR TUMOR.
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results:
+Clinical Interpretation of results
+HER-2 NOT AMPLIFIED
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HER-2 probe that spans the entire HER-2 gene in the
+1. A majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no
+amplification of the HER2/neu gene.
+Block used D4
+Tissue fixation
+Source of case: RPCI
+formalin-fixed tissue
+Outside Case No: NA
+Tissue source
+breast Results interpreted:
+yes
+HER2/CEP17 ratio:
+1.21
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+===
+Method of ratio enumeration:
+No
+Limitations
+manual count
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status.
+treatment decision for stage II, node-positive breast cancer patients should be based on HER-
+2/neu
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+patients for whom HerceptinⓇ therapy is being considered. These tests were performed in the
+under the direction
+of The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+Gross Dictation:,
+Microscopic/Diagnostic Dictation:., Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum: Pathologısı,
+Addendum Final: Pathologist,
+Addendum: Pathologist,
+Addendum Review: Pathologist,
+Addendum Final:., Pathologist,
+Addendum: Pathologist,
+Addendum Final:., Patholuyısı,
+A
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pimary Noted
+Case is circle): X QUALIFIED
+Reviewer Initials AM
+Yes
+No
+DISQUALIFIEUS
+Date Reviewed:

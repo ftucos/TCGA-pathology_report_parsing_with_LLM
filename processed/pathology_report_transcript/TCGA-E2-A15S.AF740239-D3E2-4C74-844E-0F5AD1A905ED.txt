@@ -1,0 +1,207 @@
+TSS
+Path
+ICD-0-3
+Carcinoma, wifiltrating duct, Nos
+850013
+12/8/10
+سر
+Site Code: breast, uppu ontur quadrant C50.4
+CQCF Site: breast, Nos C50.9
+SPECIMENS:
+A. SENTINEL L NODE 1
+B. SENTINEL L NODE 2
+C. LEFT BREAST
+D. LEFT AXILLARY CONTENTS
+E. ADDITIONAL LEFT AXILLARY CONTENTS
+F. RIGHT BREAST
+G. LEFT TUBE AND OVARY
+H. RIGHT TUBE AND OVARY
+SPECIMEN(S):
+A. SENTINEL L NODE 1
+B. SENTINEL L NODE 2
+C. LEFT BREAST
+D. LEFT AXILLARY CONTENTS
+E. ADDITIONAL LEFT AXILLARY CONTENTS
+F. RIGHT BREAST
+G. LEFT TUBE AND OVARY
+H. RIGHT TUBE AND OVARY
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA1/TPA2-SLN #1: Negative for carcinoma (0/2).
+TPB-SLN #2: Positive for carcinoma (1/1).
+Diagnoses called by Dr. to Dr. at
+B).
+UUID:AF740239-D3E2-4C74-844E-0F5AD1A905ED
+TCGA-E2-A15S-01A-PR
+Redacted
+G-H: Gross examination- left tube and ovary-right tube and ovary. No tumor identified. Diagnosis called to Dr. at
+by Dr.
+GROSS DESCRIPTION:
+A. SENTINEL L NODE 1
+Received fresh labeled with the patient's identification and "sentinel lymph node #1" are two lymph node, 0.8 × 0.5 x
+0.4 cm (A1) and 0.2 x 0.2 x 0.2 cm (A2). Two touch preps are performed; is submitted entirely/separately in
+cassettes A1-A2.
+B. SENTINEL L NODE 2
+Received fresh labeled with the patient's identification and "sentinel lymph node #2" is a 2 x 1 x 0.8 cm lymph node.
+Touch prep was performed and the lymph node is submitted entirely in cassette B1.
+C. LEFT BREAST
+Received fresh labeled with the patient's identification and "left breast" is an oriented 254 g, 15 x 15 x 2.5 cm
+mastectomy with 15 x 9.5 cm skin ellipse and 1.5 cm everted nipple. Ink code: Anterior/superior-blue,
+anterior/inferior-orange, posterior-black. The specimen is serially sectioned into 7 slices from lateral to medial with
+nipple in slice 3 revealing an ill-defined pink-tan infiltrating mass, measuring 4.6-cm, located in the upper inner and
+upper outer quadrants in slices 2 through 6 that is closest to the posterior margin at 0.2 cm. Tissue is procured.
+Representatively submitted:
+C1: slice 1, UOQ-lateral to mass
+C2: slice 2, UOQ-mass
+C3-C4: slice 3, mid upper-mass
+C5: slice 4, UIQ-mass and deep margin
+C6: slice 5, UIQ-mass and deep margin
+C7: slice 6, UIQ-mass
+C8: slice 7, UIQ-medial to mass
+C9: slice 5, LIQ
+C10: slice 2, LOQ
+C11-C12: nipple, perpendicular sections (skin in C12)
+D. LEFT AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and "left axillary contents" is a piece of yellow-tan fat, 6.5 x 3.5
+× 1.5 cm containing 8 possible lymph nodes ranging from 0.1 to 0.9 cm in greatest dimension. Submitted entirely:
+D1-D2: 4 possible lymph nodes in each cassette
+D3-D8: remainder of soft tissue
+E. ADDITIONAL LEFT AXILLARY CONTENTS
+Received fresh are multiple tan pink soft tissue fragments aggregating to 4.5 x 3.5 x 2.4cm. Dissection reveals 7
+lymph nodes ranging from 0.3 × 0.3 x 0.3cm to 2.5 x 1.4 x 1cm.
+E1: 5 lymph nodes
+E2: 1 lymph node
+E3-E4: 1 lymph node
+F. RIGHT BREAST
+Received fresh labeled with the patient's identification and "right breast" is a 212g, 19 x 15 x 2cm oriented (stitch in
+axilla) simple mastectomy with attached 17 x 8.5cm tan pink skin ellipse and 1.5cm everted nipple. Ink code:
+anterior-superior: blue, anterior-inferior: orange, posterior-black. The specimen is serially sectioned from lateral to
+medial into 13 slices with nipple in slice 9, revealing unremarkable fibrous parenchyma. Representatively submitted:
+F1: nipple slice 9
+F2: UOQ slice 5
+F3: LIQ slice 7
+F4: UOQ slice 7
+F5: UOQ slice 8
+F6: UC slice 9
+F7: LC slice 9
+F8: UIQ slice 10
+F9: LIQ slice 10
+F10: skin slice 11
+F11: LIQ slice 11
+F12: UIQ slice 12
+G. LEFT TUBE AND OVARY
+Received fresh is a 4 x 2 x 1.5cm tan pink ceribriform ovary with attached fimbriated fallopian tube 7 x 0.5 x 0.5cm.
+The ovary is bivalved to reveal multiple cysts, the largest of which is 0.4cm filled with clear straw like fluid. The
+remaining ovarian parenchyma is grossly unremarkable. The fallopian tube is serially sectioned to reveal a patent
+lumen. Entirely submitted:
+G1-G5: left ovary
+G6-G9: fallopian tube
+H. RIGHT TUBE AND OVARY
+Received fresh is a 4.5 x 3 x 1.5cm tan pink ceribriform ovary with attached fimbriated fallopian tube 5.8 x 0.8 x
+0.5cm. The ovary is bivalved to reveal multiple cysts, the largest of which is 0.6cm filled with clear straw like fluid.
+The remaining ovarian parenchyma is grossly unremarkable. The fallopian tube is serially sectioned to reveal a
+patent lumen. Entirely submitted in H1-H7.
+DIAGNOSIS:
+A. LYMPH NODES, SENTINEL #1, LEFT AXILLA, EXCISION:
+- TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2).
+B. LYMPH NODE, SENTINEL #2, LEFT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.8-CM WITH NO
+EXTRANODAL EXTENSION.
+C. BREAST, LEFT, MASTECTOMY:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 4.6-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH
+CENTRAL NECROSIS AND MICROCALCIFICATIONS
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- EXTENSIVE LYMPHOVASCULAR INVASION IDENTIFIED
+- SEE SYNOPTIC REPORT.
+D. LYMPH NODES, LEFT, AXILLARY DISSECTION:
+- SEVEN LYMPH NODES, NEGATIVE FOR METASTASES (0/7).
+E. LYMPH NODES, LEFT, AXILLARY DISSECTION:
+- SEVEN LYMPH NODES, NEGATIVE FOR METASTASES (0/7).
+F. BREAST, RIGHT, MASTECTOMY:
+- BREAST TISSUE, NO TUMOR SEEN.
+G. OVARY AND FALLOPIAN TUBE, LEFT, RESECTION:
+OVARY AND FALLOPIAN TUBE, NO TUMOR SEEN.
+H. OVARY AND FALLOPIAN TUBE, RIGHT, RESECTION:
+- OVARY AND FALLOPIAN TUBE, NO TUMOR SEEN.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: SENTINEL L NODE 1
+B: SENTINEL L NODE 2
+C: LEFT BREAST
+D: LEFT AXILLARY CONTENTS
+E: ADDITIONAL LEFT AXILLARY CONTENTS
+Specimen Type:
+Needle Localization:
+Laterality: /Left
+Invasive Tumor
+Multifocality: No
+WHO CLASSIFICATION
+Mastectomy
+No
+Present
+Invasive ductal carcinoma, NOS 8500/3
+"Tumor size:
+4.6cm
+Tumor Site:
+Upper outer quadrant
+Upper inner quadrant
+Margins:
+Negative
+Tubular Score: 3
+Nuclear Grade:
+3
+Mitotic Score: 3
+Modified Scarff Bloom Richardson Grade: 3
+Necrosis:
+Vascular/Lymphatic Invasion:
+Absent
+Extent:
+extensive
+Lobular neoplasia:
+None
+Present
+Lymph nodes: Sentinel lymph node
+Axillary dissection
+Lymph node status:
+Micrometastases:
+DCIS present
+Positive 1/17
+No
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 20%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location: Associated with invasive tumor
+Nuclear grade: High
+Necrosis:
+Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Negative
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 N 1
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+year-old BRCA2 (+) left breast invasive ductal carcinoma DCIS, right prophylactic mastectomy, left therapeutic
+breast mastectomy with sentinel lymph node dissection
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+Microscopic/Diagnostic Dictation:
+Final Review: Pathologist,
+Final: Pathologist, (
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pry Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+10
+Date Reweg

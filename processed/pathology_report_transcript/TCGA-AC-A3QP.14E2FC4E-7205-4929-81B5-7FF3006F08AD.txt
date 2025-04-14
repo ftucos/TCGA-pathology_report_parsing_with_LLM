@@ -1,0 +1,216 @@
+Surg Path Final Report
+* Final Report *
+* Final Report *
+SURG PATH FINAL REPORT
+SURGICAL PATHOLOGY
+Collected:
+Accession:
+Physician:
+ICD-0-3
+carcinoma, lobular,
+infiltrating 8520/3
+Site: breast, NOS
+050.9
+3-30-12
+eD
+PROCEDURE
+Right breast lumpectomy.
+SPECIMEN:
+A. R. breast lump. Nylon suture at posterior margin. Beige suture
+superior margin.
+B. Sentinel node #1.
+C.
+Sentinel node #2.
+D. Right breast tissue (black suture most superior margin).
+E. Right breast tissue (black suture at most anterior margin).
+HISTORY
+Right breast cancer.
+GROSS
+A. Received fresh in a container labeled "right breast tissue" is a
+fragment of fibrofatty breast tissue (5.7 cm in medial-lateral
+dimension, 7 cm in superior-inferior dimension, 1.8 cm in
+anterior-posterior dimension) oriented by attached sutures.
+accompanying specimen radiograph reveals abundant radiodense
+tissue.
+An
+The density corresponds to a sclerotic, gray-white, hard tumor mass
+(2.8 cm in greatest dimension) which is within 1-2 mm of the
+anterior margin, 0.5 cm from the posterior margin, 0.6 cm from the
+medial margin, approximately 1.4 cm from the lateral margin and 1.2
+cm from the superior margin. The remaining parenchyma consists of
+abundant firm white fibrous tissue with scattered cysts up to 2-3 mm
+in diameter, along with dilated ducts containing opaque yellow-tan,
+paste-like material. Total fixation time in formalin is
+approximately 28 hours. A representative portion of the tumor is
+submitted for the
+Ink Code:
+Black
+-
+Blue
+-
+posterior.
+anterior.
+lateral.
+Green
+Red
+-
+Orange
+Purple
+-
+medial.
+-
+superior.
+inferior.
+Printed by:
+Printed on:
+TCGA-AC-A3QP-01A-PR
+UUID:14E2FC4E-7205-4929-8185-7FF3006F08AD
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Refew tias
+Temt
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+3/2/12
+Page 1 of 4
+(Continued)
+Surg Path Final Report
+* Final Report *
+1.
+Superior margin.
+2-3 and 4-5. Full thickness bisected cross sections, including
+nearest radial margins.
+6-7.
+8.
+B.
+Indurated parenchyma away from tumor.
+Inferior margin.
+Received in formalin in a container labeled "sentinel node #1"
+is a 1.8 cm in greatest dimension, blue-gray, fatty lymph node.
+C.
+Received in formalin in a container labeled "sentinel node #2”
+is a 0.6 cm, firm, tan and gray lymph node.
+D. Received in formalin in a container labeled "right breast
+tissue, black suture most superior margin" is a sheet of fibrofatty
+tissue (4 × 3 × 1.2 cm) oriented by an attached suture.
+Ink Code:
+Black superior margin (adjacent to suture).
+Blue
+-
+opposing margin.
+The tissue is serially sectioned and submitted in its entirety in
+three cassettes
+E. Received in formalin in a container labeled "right breast tissue
+black suture most anterior margin" is a fragment of fibrofatty
+tissue (2.9 x 1.6 x 0.9 cm) oriented by an attached suture.
+Ink Code:
+Black anterior margin (adjacent to suture).
+Blue
+-
+opposing margin.
+The specimen is serially sectioned and submitted in its entirety in
+two cassettes.
+MICROSCOPIC
+See diagnosis.
+DIAGNOSIS
+A.
+B.
+Right breast lump, lumpectomy:
+Invasive lobular carcinoma (see comment).
+Sentinel lymph node #1, excision:
+One lymph node involved by metastatic adenocarcinoma (largest
+metastatic focus 2 mm) (1/1).
+C.
+Sentinel lymph node #2, excision:
+One benign lymph node, free of tumor (0/1).
+D.
+Right breast tissue, excision:
+Printed by:
+Printed on:
+Page 2 of 4
+(Continued)
+Surg Path Final Report
+* Final Report *
+Microscopic foci of invasive lobular carcinoma (up to 5 mm in
+greatest dimension).
+Tiny focus of lobular cancerization.
+Neoplasm is approximately 4-5 mm from most superior margin
+(black inked margin, adjacent to suture) and at blue inked
+opposing aspect.
+E. Right breast tissue, excision:
+COMMENT
+No tumor is seen.
+BREAST CARCINOMA SUMMARY:
+SPECIMEN: Partial breast.
+PROCEDURE: Lumpectomy.
+SPECIMEN INTEGRITY: Single intact with additional margin submitted
+in parts C (superior margin) and D (anterior margin).
+SPECIMEN LATERALITY: Right breast lumpectomy.
+SPECIMEN SIZE: 5.7 x 7 x 1.8 cm.
+TUMOR SIZE:
+2.8 cm.
+TUMOR FOCALITY: A 2.8 cm focus of invasive lobular carcinoma, and
+additional tiny foci (up to 5 mm) of invasive lobular carcinoma away
+from tumor.
+SKIN INVOLVEMENT: Skin not present.
+NIPPLE INVOLVEMENT: Nipple not present.
+SKELETAL MUSCLE INVOLVEMENT: Skeletal muscle not present.
+DUCTAL CARCINOMA IN SITU (DCIS) : Negative.
+LOBULAR CARCINOMA IN SITU (LCIS): Present.
+HISTOLOGIC TYPE: Invasive lobular carcinoma.
+GRADING (NOTTINGHAM): Tubular formation score: Score 3.
+NUCLEAR PLEOMORPHISM SCORE: Score 2.
+MITOTIC RATE SCORE: Score 1.
+COMBINED GRADE (NOTTINGHAM): Grade 2 (intermediate grade).
+LYMPHOVASCULAR INVASION: Not identified.
+MARGIN OF EXCISION: Final margins appear free of tumor (closest
+margin is superior, approximately 4-5 mm. part D).
+LYMPH NODES: One sentinel lymph node involved by metastatic lobular
+carcinoma (sentinel lymph node #1, part B (largest tumor focus is 2
+mm) (1/2).
+MICROCALCIFICATION: Not identified.
+OTHER FINDINGS:
+Fibrocystic changes, usual ductal hyperplasia.
+HORMONE RECEPTORS: Reported (estrogen receptor positive (70%,
+strong); Progesterone receptor positive (over 90%, strong).
+HER-2/NEU: Reported (equivocal (2+) by immunohistochemistry,
+FISH pending.
+PATHOLOGIC TNM (AJCC
+EDITION): T2 Nimic MX.
+NOTE: A cytokeratin E1/E3 immunohistochemical stain was performed
+on parts B (sentinel lymph node #1) and C (sentinel lymph node #2).
+It is strongly positive on part B (sentinel lymph node #1) within
+the metastatic tumor cells, and supports the diagnosis. It is
+negative within part ~ (sentinel lymph node #2), consistent with
+benign lymph node.
+Printed by:
+Printed on:
+Page 3 of 4
+(Continued)
+Surg Path Final Report
+* Final Report *
+Completed Action List:
+* Order by
+Type:
+ectronic Signature)
+on
+Date:
+Status:
+Title:
+Encounter info:
+Sura Path Final Report
+Auth (Verified)
+SURG PATH FINAL REPORT
+)-
+Printed by:
+Printed on:
+Page 4 of
+(End of Report)

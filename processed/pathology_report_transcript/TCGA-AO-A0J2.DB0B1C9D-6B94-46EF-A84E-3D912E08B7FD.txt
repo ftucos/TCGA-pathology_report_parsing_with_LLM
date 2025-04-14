@@ -1,0 +1,331 @@
+Clinical Diagnosis & History:
+He year old with left breast invasive ductal carcinoma.
+Specimens Submitted:
+1: SP: Sentinel node #231 level one left axilla (fs)
+2: SP: Sentinel node #232 level one left
+3: SP: Left breast and axillary tail
+4: SP: Right breast and axillary tail
+illa (fs)
+5: SP: Sentinel node #1 level one right axilla
+DIAGNOSIS:
+1.
+LYMPH NODES, SENTINEL
+THREE BENIGN LYMPH NODES (0/3).
+#1, LEVEL ONE LEFT AXILLA; BIOPSY:
+THE RESULTS OF DEEPER RECUTS AND KERATIN STAINS WILL BE REPORTED AS
+AN ADDENDUM.
+2.
+LYMPH NODES, SENTINEL
+TWO BENIGN LYMPH NODES (0/2).
+#2 LEVEL ONE LEFT AXILLA; BIOPSY:
+THE RESULTS OF DEEPER RECUTS AND KERATIN STAINS WILL BE REPORTED AS
+AN ADDENDUM.
+3.
+III/III.
+BREAST AND AXILLARY TAIL, LEFT; MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, HISTOLOGIC GRADE III/III, NUCLEAR GRADE
+THE INVASIVE CARCINOMA MEASURES 1.7 CM IN LARGEST DIMENSION GROSSLY.
+THE CARCINOMA IS ASSOCIATED WITH A LYMPHOCYTIC INFILTRATE.
+DUCTAL CARCINOMA IN SITU (DCIS) IS IDENTIFIED, SOLID AND
+MICROPAPILLARY TYPES, WITH HIGH
+NUCLEAR GRADE AND MINIMAL NECROSIS.
+- THE DCIS CONSTITUTES LESS THAN 25% OF THE TOTAL TUMOR MASS AND IS PRESENT
+ADMIXED WITH AND
+AWAY FROM THE INVASIVE COMPONENT.
+THE INVASIVE CARCINOMA IS LOCATED IN THE LOWER INNER QUADRANT.
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+- NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+CARCINOMA.
+- NO VASCULAR INVASION IS NOTED.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER IN SITU OR INVASIVE
+CARCINOMA IS IDENTIFIED.
+**Continued on next page
+**
+108-0-3
+carcinoma, infiltrating duct, No's 8500/3
+Site: breast, Nos
+0.50.9
+نسل
+UUID:DB0B1C9D-6B94-46EF-A84E-3D912E0887FD
+TCGA-A0-A032-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Qual/Synchronous Primary Noted
+Case is (circle):
+levierver Initials
+mg
+Yes
+Na
+AJALIFIED DISQUALIFIED
+Date Reviewed:
+Tw 10/22/11
+10/22/11
+INVASIVE CARCINOMA IS PRESENT 0.4 CM FROM THE NEAREST ANTERIOR MARGIN.
+- DCIS IS PRESENT 0.6 CM FROM THE NEAREST ANTERIOR MARGIN.
+NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS STROMAL FIBROSIS, APOCRINE
+METAPLASIA AND CYSTS.
+- FOCAL FAT NECROSIS AND STROMAL FIBROSIS, CONSISTENT WITH PRIOR BIOPSY
+SITE.
+- RESULTS OF IMMUNOHISTOCHEMICAL STAINS (ER, PR, HER-2/NEU) WILL BE REPORTED
+IN AN ADDENDUM.
+4.
+BREAST AND AXILLARY TAIL, RIGHT; MASTECTOMY:
+BENIGN BREAST TISSUE WITH STROMAL FIBROSIS, CYSTS AND FOCAL APOCRINE
+METAPLASIA.
+RARE CALCIFICATIONS ARE NOTED IN ASSOCIATION WITH BENIGN BREAST
+EPITHELIUM.
+5.
+BENIGN NIPPLE, SKIN AND FRAGMENT OF SKELETAL MUSCLE.
+LYMPH NODE, SENTINEL #1 LEVEL ONE RIGHT; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1)
+THE RESULTS OF DEEPER RECUTS AND KERATIN STAINS WILL BE REPORTED AS
+AN ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out
+Gross Description:
+.D.
+1). The specimen is received
+"sentinel node #21, level 1, left axilla" and consists of three tan rubbery
+fresh for frozen section consultation, labeled
+lymph nodes measuring 0.8, 0.4, and 0.2 cm. The two largest lymph nodes are
+inked black and blue, respectively and bisected.
+frozen section.
+Entirely submitted for
+Summary of sections:
+FSC -- frozen section control
+.D.
+2). The specimen is received
+"sentinel #232, level 1, left axilla" and consists of two tan rubbery lymph
+fresh for frozen section consultation, labeled
+nodes measuring 0.8 and 0.5 cm. The largest lymph node is inked black and
+bisected. The specimen is entirely submitted for frozen section.
+Summary of sections:
+FSC --
+frozen section control
+**Continued on next page **
+M.D.
+3). The specimen is received fresh labeled, "left breast and axillary tail
+stitch marks axillary tail ink margins" and consists of a breast measuring
+20.0 x 18.0 x 5.0 cm with overlying skin ellipse measuring 9.0 x 2.8 cm.
+Situated centrally on the skin surface is an inverted nipple measuring 1.4 x
+1.2 x 1.0 cm and areola measuring 3.0 cm in diameter. The skin surface is
+tan-pink, with a focal blue discoloration wrinkled and unremarkable.
+suture demarcates the axillary aspect. The posterior surface of the breast
+A
+is inked black, the anterior blue and the axillary aspect is inked yellow.
+The specimen is serially sectioned to reveal a tan ovoid firm solid mass
+measuring 1.7 x 1.7 x 1.2 cm, located at the outer edge of the specimen in
+the lower inner quadrant
+deep margin. Hemorrhagic biopsy site changes and a clip are identified in
+2 mm from the anterior margin and 3 mm from the
+proximity to the mass.
+yellow adipose tissue marbled with dense white firm breast parenchyma (60%)
+The remainder of the breast tissue consists of soft
+with a broad tan fibrous area in the lower outer quadrant. Sectioning of
+the axillary aspect reveals no grossly identifiable lymph nodes.
+Additionally present in the container is an unoriented irregularly shaped
+strip of unremarkable tan skin and underlying soft lobulated yellow adipose
+tissue. The patient's prior radiology is reviewed and correlated with the
+findings in this specimen. Representative sections are submitted.
+Summary of sections:
+N- nipple
+nipple base
+NB
+S
+skin
+BX - biopsy site
+T
+tumor including anterior and deep margin
+UIQ upper inner quadrant
+LIQ - lower inner quadrant
+UOQ
+LOQ
+upper outer quadrant
+lower outer quadrant
+1.D.
+4). The specimen is received fresh labeled, "right breast and axillary tail
+stitch marks axillary tail, ink margin (fresh)" and consists of a breast
+measuring 20.5 x 18.5 x 3.5 cm with overlying tan skin ellipse that is
+wrinkled with focal blue discoloration. The ellipse
+Situated centrally on the skin surface is an everted nipple measuring 1.5 x
+1.5 x 1.0 cm with an areola measuring 4 cm in diameter.
+measures 9 x 2.5 cm.
+the axillary aspect.
+the anterior blue and the axillary aspect is inked yellow. Sectioning
+The posterior surface of the breast is inked black,
+A suture demarcates
+through the breast demonstrates no focal lesion. The breast tissue consists
+of soft yellow adipose tissue marbled with 40% white and pink fibrous
+tissue. Sectioning of the axillary aspect reveals no grossly identifiable
+lymph nodes. The patient's prior radiology is reviewed.
+sections are submitted.
+Representative
+Summary of sections:
+** Continued on next page **
+N - nipple
+NB - nipple base
+S - skin
+UIQ upper inner quadrant
+LIQ
+"
+UOQ
+LOQ
+-
+lower inner quadrant
+upper outer quadrant
+lower outer quadrant
+P.A.
+5).
+The specimen is received in formalin labeled, "Sentinel node number
+1, level 1, right axilla", and consists of
+node measuring 1.8 x 1.1 x 0.5 cm, which is bisected and entirely submitted.
+a single pink tan firm lymph
+Summary of sections:
+BLN -- bisected lymph node
+Summary of Sections:
+Part 1:
+Block
+1
+SP: Sentinel node #1 level one left axilla (fs)
+Sect. Site
+FSC
+PCs
+1
+Part 2: SP: Sentinel node #232 level one left axilla (fs)
+Block
+1
+Part 3:
+Block
+2
+2
+2
+1
+1
+1
+4
+0
+2
+Sect. Site
+FSC
+PCs
+1
+SP: Left breast and axillary tail
+Sect. Site
+PCs
+BX
+2
+liq
+2
+LOQ
+2
+N
+1
+NB
+1
+S
+1
+T
+4
+UIQ
+UOQ
+2
+2
+Part 4:
+SP: Right breast and axillary tail
+Block
+Sect. Site
+2
+LIQ
+2
+LOQ
+1
+N
+1
+NB
+1
+S
+PCs
+2
+2
+1
+1
+1
+** Continued on next page **
+2
+2
+UIQ
+UOQ
+2
+Part 5: SP: Sentinel node #1 level one right axilla
+Block
+1
+Sect. Site
+bln
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+PCs
+1
+Status: Signed Out
+By:
+M.D.
+Addendum Diagnosis
+ADDITIONAL LEVEL SECTIONS AND KERATIN AE1/AE3 STAINS ON THE SENTINEL LYMPH
+NODES (PARTS 1, 2 AND 5) REVEAL NO EVIDENCE OF METASTATIC CARCINOMA.
+IMMUNOHISTOCHEMICAL STAINS WERE PERFORMED ON PART 3, LEFT BREAST CARCINOMA
+(BLOCK 3T15) WITH THE FOLLOWING RESULTS:
+ESTROGEN RECEPTOR: 0% NUCLEAR STAINING
+PROGESTERONE RECEPTOR: 0% NUCLEAR STAINING
+HER-2 (HERCEP TEST; DAKO): EQUIVOCAL (1+ TO 2+).
+FISH WILL BE PERFORMED,
+30% OF INVASIVE TUMOR CELLS EXHIBIT COMPLETE MEMBRANOUS STAINING.
+'
+M.D.
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+1.
+FROZEN SECTION DIAGNOSIS:
+LEFT AXILLA (FS)
+): BENIGN LYMPH NODES
+PERMANENT DIAGNOSIS:
+SAMB
+2.
+FROZEN SECTION DIAGNOSIS:
+LEFT AXILLA (FS) (
+: BENIGN LYMPH NODES
+PERMANENT DIAGNOSIS:
+SAME
+PhD.
+SP: SENTINEL NODE #31 LEVEL ONE
+SP: SENTINEL NODE #2 LEVEL ONE
+Note:
+The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+**Continued on next page **
+0
+**End of Report **
+BENIGN LYMPH NODES
+1.
+FROZEN SECTION DIAGNOSIS:
+LEFT AXILLA (FS)
+PERMANENT DIAGNOSIS:
+2.
+LEFT AXILLA (FS)
+SAME
+SECTION DIAGNOSIS:
+BENIGN LYMPH NODES
+PERMANENT DIAGNOSIS:
+SAME
+SP: SENTINEL NODE #1 LEVEL ONE
+SP: SENTINEL NODE #2 LEVEL ONE

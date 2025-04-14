@@ -1,0 +1,137 @@
+FINAL PATHOLOGIC DIAGNOSIS
+Left simple mastectomy and sentinal node biopsy:
+A. Sentinal lymph node #1:
+-One lymph node, no tumor (0/1).
+B. Sentinel lymph node #2:
+-One lymph node, no tumor (0/1).
+C. Left breast (mastectomy):
+ICDO-3
+Carcinoma, Infiltrating Duct No:
+18500/3
+Site: Breast, NOS
+-Intraductal apocrine ductal carcinoma with lobular cancerization and rare
+foci of
+invasion (largest focus 3mm), associated with large area of recent
+hemorrhage (5 cm),
+see below.
+-Separate mass of intraductal and infiltrating ductal carcinoma (2.5 cm)
+inferior to hemorrhagic region.
+-Small intraductal papilloma, sclerosing adenosis and radial scar lesion.
+-Calcifications in vessel walls.
+-Nipple, no tumor.
+Breast Pathologic Parameters
+1. Intraductal carcinoma:
+A. Size: Gross measurement: 5 cm
+B. Type: Comedo, solid, apocrine
+C. Nuclear grade: High
+(Modified Lagios Grading Scheme)
+D. Associated features: Necrosis, Cancerization of lobules
+2. Invasive carcinoma:
+A. Size: Gross measurement: 1.0 x 1.0 x 0.6 cm
+B. Composite histologic (modified SBR) grade: III
+- Architecture: 3
+- Nuclear grade: 3
+Mitotic count: 2
+C. Associated ductal carcinoma in situ (DCIS):
+-Within main mass (forming 50 % of tumor volume)
+-Extending away from main mass
+C50.9
+N 12/24/12
+UUID: AD80BBA3-DA8E-4DFB-BDA1-FFDC131E9740
+TCGA-OL-A5D6-01A-PR
+Redacted
+3. Excisional biopsy margins: Free of tumor. Margins greater than 2mm away.
+4. Blood vessel and lymphatic invasion: Absent
+5. Axillary lymph nodes: Negative for tumor (0/2)
+6. Special studies
+-No expression of ER in invasive tumor nuclei
+-No expression of PR in invasive tumor nuclei
+-Her2/neu antigen (FISH): Pending
+7. pTNM: pT2,N0, MX
+Clinical History:
+she had a
+a breast MRI on the
+This is a year-old female with history of a right papilloma. A screening
+mammogram in
+showed suspicious densities with calcifications in
+the left outer quadrant. By exam showed a 1.5 cm quasi suspicious mass at
+4-5:00, 3 cm outside the areola margin on the left breast.
+FNA of the left breast showing carcinoma. On
+left showed an outer quadrant 4.7 x 3.2 x 3.3 cm enhanced mass with three
+additional suspicious foci: one anterior and superior to the index mass, one
+adjacent to the nipple, and one suspicious focus at 12 o'clock. The patient
+undergoes a left breast sentinel node biopsy and simple mastectomy.
+Specimens Received:
+A: Sentinel Node #1
+B: Sentinel Node #2
+C: Left Breast Mastectomy with Sentinel Node Biopsies
+Gross Description:
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+A. Container A is further designated 31. sentinel node #14. Received for
+frozen section diagnosis is a 1.8 x 1.2 x 0.5 cm rubbery portion of yellow,
+lobulated tissue with blue discoloration. It is read as 3one lymph node,
+negative for carcinoma4 by
+The specimen is entirely submitted as
+A1FS.
+B. Container B is further designated 32. sentinel node #24. Received for
+frozen section diagnosis is a 1.5 x 0.8 x 0.8 cm portion of pink-tan rubbery
+tissue consistent with a lymph node. It is bisected and read as 3one lymph
+node, negative for carcinoma4 by
+The specimen is entirely submitted
+in cassette B1FS in a mesh bag.
+C. Container C is further designated 33. left breast mastectomy with sentinel
+node biopsies4. Received fresh and placed in formalin is a 975 gm, 39 x 18 x 6
+cm mastectomy specimen with an ellipse of white-tan skin with blue discoloration
+(27 x 11.2 cm), areola (4.7 x 4.5 cm), and nipple (1.2 x 1.0 x0.4 cm). The
+specimen is oriented as follows: short suture superior, long suture lateral.
+The deep margin is inked black and the specimen is serially sectioned into 13
+slices from lateral (slice #1) to medial revealing a 5 x 5.5 x 4 cm ecchymotic
+area in the lower lateral quadrant located in slices #4-7. There is a
+well-circumscribed, firm, white mass measuring 2.5 x 1.7 x 1.5 cm in slice #5,
+5.5 cm from the deep margin. It is located inferior to the ecchymotic region.
+At 2-3 o'clock adjacent to the firm mass is an ill-defined, gritty, indurated
+area primarily in slices #7 and #8. It extends superomedially with a span of 5.0
+x 3.5 x 2.0 cm and is located 2.5 cm from the deep margin. Note: slices #7 and
+#8 contain the nipple and areola region.
+Cassette SummaryC1: nipple
+C2-C4: areola, serially sectioned
+C5: section of the main mass in slice #5 with respect to closest distant
+from deep margin
+C6-C7: one representative section immediately superior and anterior to the
+main lesion from slice #5
+C8: section of hematoma from slice #5 anterior and medial to the main lesion
+C9: section of hematoma from slice #6, directly medial to the main lesion
+C10: section 2 cm superior, anterior, and medial to the main lesion from
+slice #7
+C11: representative sections from slice #8, representing ill-defined,
+gritty, firm tissue
+C12-C13: section from slice #7 also representing ill-defined, gritty, firm
+tissue
+C14: another section from slice #7 immediately inferior to the section
+C12-C13
+C15-C16: section from 12 o'clock on section #8
+C17-C18: sections from slice #9
+C19: another representative section from section #9
+C20-C21: lateral upper quadrant from slices #3-4, respectively
+C22-C23: lateral lower quadrant from slices #2 and #3, respectively
+C24-C25: upper medial quadrant from slice #11 and #12, respectively C26-C27:
+medial lower quadrant from slices #11 and #12, respectively
+Intraoperative Consult Diagnosis:
+A1FS. Sentinel node #1: One lymph node, negative for carcinoma.
+B1FS. Sentinel node #2: One lymph node, negative for carcinoma.
+Criteria
+4 12/20/12
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (orce):
+Reviewer itial(s)
+QUALIFIED
+Date Reviwed
+DISQUALIFICD
+12/21/12

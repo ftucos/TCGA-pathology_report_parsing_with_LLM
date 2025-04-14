@@ -1,0 +1,180 @@
+UUID:3B7CA8ED-58E2-4609-8E41-46525D3732E7
+TCGA-E2-A3DX-01A-PR
+Surgery Date:
+SPECIMENS:
+A. RIGHT BREAST AND AXILLARY CONTENTS
+B. LEVEL 3 RIGHT AXILLARY LYMPH NODES
+C. ADDITIONAL RIGHT BREAST TISSUE
+D. ADDITIONAL RIGHT BREAST TISSUE AND SKIN
+SPECIMEN(S):
+A. RIGHT BREAST AND AXILLARY CONTENTS
+B. LEVEL 3 RIGHT AXILLARY LYMPH NODES
+C. ADDITIONAL RIGHT BREAST TISSUE
+D. ADDITIONAL RIGHT BREAST TISSUE AND SKIN
+DIAGNOSIS:
+A. BREAST, RIGHT, AND AXILLARY CONTENTS, MODIFIED RADICAL MASTECTOMY:
+- THREE FOCI OF INVASIVE LOBULAR CARCINOMA, NOTTINGHAM GRADE 2.
+- 2.9 CM, 0.6 CM AND 0.2 CM IN SIZE.
+- FOCALLY PRESENT AT THE ANTERIOR MARGIN AT CENTRAL
+INFERIOR AND 0.3 CM FROM THE DEEP MARGIN.
+EXTENSIVE LOBULAR CARCINOMA IN SITU (LCIS), CLASSIC AND
+PLEOMORPHIC TYPES, WITH NECROSIS AND MICROCALCIFICATIONS.
+- SKELETAL MUSCLE, NEGATIVE FOR CARCINOMA.
+FOCAL GRANULOMAS, FOCALLY NECROTIZING, ARE SEEN IN THE
+BREAST AND A FEW OF THE LYMPH NODES.
+METASTATIC CARCINOMA IN 22 OF 33 LYMPH NODES WITH EXTRANODAL
+EXTENSION, LARGEST METASTASIS IS 1.4 CM (22/33).
+NOTE: The etiology of the granulomas is not entirely clear. Clinical correlation is recommended.
+B. LYMPH NODES, RIGHT AXILLA, LEVEL 3, DISSECTION:
+METASTATIC CARCINOMA IN TWO OF TWO LYMPH NODES (2/2).
+C. BREAST, RIGHT, ADDITIONAL TISSUE, EXCISION:
+- METASTATIC CARCINOMA IN ONE OF ONE LYMPH NODE (1/1).
+D. BREAST, RIGHT, ADDITIONAL TISSUE AND SKIN, EXCISION:
+LOBULAR CARCINOMA IN SITU.
+- BENIGN SKIN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+No
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 2.9cm
+Tumor Site: 6:00
+Margins: Involved at
+anterior inferior at - - 6:00
+Extent::
+less than 0.1 cm
+Tubular Score:
+3
+Nuclear Grade:
+2
+1
+Mitotic Score:
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+Lymph nodes:
+LCIS
+Axillary dissection
+100-0-3
+Redacted
+carcinoma, infiltrating lobular, Nos 8.52013
+Site: breast, Nos
+050.9
+hu 10/24/11
+2
+Lymph node status: Positive 25 / 36 Extranodal extension
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Positive by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 N 3
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+SUMMARY OF IMMUNOHISTOCHEMISTRY/SPECIAL STAINS
+Material: Block A10
+Population: Tumor Cells
+Stain/Marker:Result:
+Comment:
+CYTOKERATIN AE1/3
+Positive At inked margin
+Material: Block A23
+Population: Lymph Node
+Stain/Marker:Result:
+Comment:
+ACID-FAST BACTERIA STAIN Negative
+GOMORI METHENAMINE SILVER STAIN
+Negative
+The interpretation of the above immunohistochemistry stain or stains is guided by published results in
+the medical literature, provided package information from the manufacturer and by internal review of
+staining performance and assay validation within the
+The use of
+one or more reagents in the above tests is regulated as an analyte specific reagent (ASR). These tests
+were developed and their performance characteristic determined by the [
+They have not been cleared or approved by the U.S. Food and Drug Administration. The
+PUA has determined that such clearance or approval is not necessary.
+Special stains and/or immunohistochemical stains were performed with appropriately stained positive
+and negative controls.
+GROSS DESCRIPTION:
+A. RIGHT BREAST AND AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and designated "right breast and axillary
+contents" is an oriented (suture in axilla), 445 g, 26 x 21.5 x 2 cm mastectomy with attached axillary tail
+and a pale-tan skin ellipse, 11 x 4.2 cm, and 1 cm in diameter slightly everted nipple. The areolar skin
+demonstrates a thickened, slightly puckered appearance. Ink code: Posterior-black, anterior/superior-
+orange, anterior/inferior-blue. The specimen is serially sectioned from medial to lateral into 9 slices
+(nipple slice 4) revealing 3 separate masses:
+Mass #1) 2.9 x 2.5 x 1.8 cm, slices 5-6, central inferior, 6:00, 0.6 cm from the posterior margin and 0.7
+cm from the anterior margin
+Mass #2) 0.7 x 0.5 x 0.5 cm, slice 5, central inferior, extending to anterior margin, 3.5 cm from the
+posterior margin, and 0.4 cm from Mass #1
+Mass #3), 2.5 x 1.5 x 1 cm, slice 7, LOQ, 8:00, 1 cm from anterior margin and 2.1 cm from posterior
+margin and 4.1 cm from Mass #2
+The remainder of the specimen shows dense nodular fibroglandular parenchyma. Multiple possible
+axillary lymph nodes are identified ranging from 0.2 x 0.2 x 0.2 up to 1.2 x 1 x 0.5 cm. Tissue is
+procured, representatively submitted:
+A1-A2: Nipple
+A3: Skin, representative sections
+A4-A5: Mass #1 with anterior margin, slice 5, 6:00
+A6: Deep margin overlying mass #1, slice 5, 6:00
+A7: Mass #1, 6:00, slice 5
+A8: Tissue in between Mass #1 and Mass #2, slice 5, central inferior
+A9: Mass #2 with anterior margin, slice 5, central inferior
+A10: Mass #1, slice 6
+A11: Slice 6, possible Mass #3
+A12-A14: Mass #3, 8:00, LOQ, slice 7, A12 demonstrates anterior margin
+A15: Deep margin overlying mass #3, slice 7
+A16-A17: Representative sections, UOQ, intramammary fold, slice 8
+A18: Representative section, UIQ, slice 3
+A19: Representative section, LIQ, slice 3
+A20: 4 possible lymph nodes
+A21: 4 possible lymph nodes
+A22: 4 possible lymph nodes
+A23: 2 possible lymph nodes
+A24: 2 possible lymph nodes
+A25: 3 possible lymph nodes
+A26: 3 possible lymph nodes
+A27: 2 possible lymph nodes
+A28: One lymph node
+B. LEVEL 3 RIGHT AXILLARY LYMPH NODES
+Received in formalin labeled with the patient's identification and designated "level 3 right axillary lymph
+node" is a 2.5 x 2 x 0.4 cm fibroadipose tissue. One lymph node is identified measuring 1.5 x 1.2 x 0.5
+cm. The specimen is entirely submitted:
+B1: Lymph node
+B2: Remainder of the specimen
+C. ADDITIONAL RIGHT BREAST TISSUE
+Received in formalin labeled with the patient's identification and designated "additional right breast
+tissue" is a fragment of pale tan soft tissue measuring 0.5 x 0.3 × 0.2 cm. Entirely submitted, C1.
+D. ADDITIONAL RIGHT BREAST TISSUE AND SKIN
+Received in formalin labeled with the patient's identification and designated "additional right breast
+tissue and skin" is an unoriented, irregular "V" shaped portion of pale tan skin measuring 7 x 2.5 x 0.5
+cm. The surface of the specimen appears grossly unremarkable. Serially sectioned, representatively
+submitted, D1.
+CLINICAL HISTORY:
+year-old female, biopsy proven invasive lobular carcinoma, right breast with axillary metastasis
+PRE-OPERATIVE DIAGNOSIS:
+Right breast ca
+Gross Dictation:, M.D., Pathologist. !
+Final Review:.,,
+Final Review:, M.D., Pathologist,
+Final:, M.D., Pathologist,
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tuinor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED i DISQUALIFIED
+Date Reviewed:
+od 10/26/11

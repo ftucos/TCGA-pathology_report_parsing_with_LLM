@@ -1,0 +1,30 @@
+09
+1CD-0-3
+Carcinoma, infiltrating ductal, Nos 8500%.
+Path: Site: Breast, LIQ C50.3.
+CQCF: Site: breast, Nos c50.9
+Concluding diagnosis:
+Left breast segment at 12 o'clock with a 3 cm moderately differentiated invasive ductal
+carcinoma with concomitant low-grade DCIS 
+grade II. The resection margins lie in healthy
+tissue on all sides. Two of a total 16 lymph nodes with 
+metastases (2/16).
+Tumor classification: pT2 (3 cm), pN1a (2/16), MX, R0; G2, L0, V0.
+UUID:5E615F92-6FD0-48C7-AC37-78526974BCFC
+TCGA-AB-A09R-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Noted
+Cases (circle):
+Reviewer initia
+QUALIFIED
+Date Renewed:
+Yes
+Redacted
+DISQUALIFIED
+1/21/11
+Mon

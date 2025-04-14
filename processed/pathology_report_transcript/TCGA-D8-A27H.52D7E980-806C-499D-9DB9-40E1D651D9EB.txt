@@ -1,0 +1,62 @@
+UUID:52D7E980-806C-499D-9DB9-40E1D651D9EB
+TCGA-D8-A27H-01A-PR
+Internal invoice No.
+Patient: XXX
+Redacted
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+C50.9 for 5/19/11
+Site: breast, Nos.
+ncer Pathology
+copy No.
+5
+Date:
+Examination: Intraoperative examination
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+Criteria
+page 1 / 1
+Examination No.:
+Yes
+Material: Lesion excision - right breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on: +
+Expected time of examination: 20 minutes (from receipt of material)
+ness Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Per Milan History
+Deal Synchris Play Poted
+Case (ne):
+Reviwe Initials
+QUAULES
+Mate evil wed:
+DISQUALIFIED
+kml / 5/13TH
+13/7/11
+Clinical diagnosis: Suspected cancer of the right breast, tumour on the boundary of upper quadrants.
+Examination performed on:
+Intraoperative examination; result
+Carcinoma invasivum, 3 cm in diameter, mammae dextrae.
+Final diagnosis to be given after the analysis of paraffin specimens.
+Compliance validated by:
+Examination performed on
+Immunohistochemical examination result:
+No estrogen receptors detected in neoplastic cell nuclei. No progesterone receptors detected in neoplastic cell nuclei. HER2
+protein 
+stained with HercepTestTM by DAKO. Negative reaction in invasive carcinoma cells
+(Score = 0 )
+dr
+Compliance validated by: dr
+Examination performed on:
+Macroscopic description:
+Surgical specimen sized 6 x 5 x 4 cm. Tumour sized 3 x 2.5 x 3.3 cm found in the cross section.
+Histopathological Diagnosis:
+Carcinoma ductale invasivum. Invasive ductal carcinoma of the right breast. MHG3 (3 + 3 + 3: 50 mitoses/10 HPF, visual area 0,55
+mm), pT2.
+Tumour reaching the incision line.
+Compliance validated by:

@@ -1,0 +1,176 @@
+UUID:F4F5C477-30BB-41EE-B188-B20DE019F30A
+TCGA-AC-A8OP-01A-PR
+Redacted
+Referring Physician:
+DOB:
+Ref#:
+Age:
+Hosp#:
+Gender: F
+Patient Location:
+Date of Service: Date Received:
+Case #:
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. E. RIGHT BREAST WITH AXILLARY SENTINEL LYMPH NODES,
+-
+MASTECTOMY WITH SENTINEL LYMPH NODE BIOPSIES:
+- Invasive ductal carcinoma, Nottingham grade 2.
+- Invasive tumor nodule measures 18 mm in diameter.
+- Ductal carcinoma in situ (DCIS), solid and cribriform architectural patterns,
+-
+with associated comedo necrosis and calcifications.
+Resection margins free of tumor.
+- Tumor is present 15 mm from the nearest margin (medial-anterior-
+inferior).
+- Sites of previous biopsy identified.
+- Six axillary sentinel lymph nodes, not tumor present (0/6).
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 2.
+Type and grade (in situ): DCIS, nuclear grade 2.
+Primary tumor: pT1c.
+Regional lymph nodes: pN0(i-)(sn).
+Distant metastasis: pMX.
+Pathologic stage: IA.
+Lymphovascular invasion: Not identified.
+Margin status: Negative (RO).
+ICD0.3
+Carcinoma infiltrating duct
+Site st
+$500/3
+050.9
+4/7/14
+Case #:
+Printed:
+Page 1
+This report continues... (FINAL)
+Patient:
+Case #
+FINAL SURGICAL PATHOLOGY REPORT
+Breast Invasive Tumor Staging Information
+(AJCC Cancer Staging Handbook, 7th Ed, and CAP protocol, Oct 2009)
+This staging also incorporates:
+Previous biopsy:
+Breast profile:
+Specimen type:
+Specimen procedure:
+Lymph node sampling:
+Specimen integrity:
+Specimen laterality:
+Total breast with axillary sentinel lymph nodes.
+Mastectomy with sentinel lymph node biopsies.
+Axillary lymph nodes (6 nodes in 4 specimens).
+Single intact specimen.
+Right.
+21 x 15.5 x 4 cm.
+Specimen size:
+INVASIVE TUMOR FEATURES:
+Invasive tumor size:
+Invasive tumor site:
+Invasive tumor focality:
+Histologic type:
+Total Nottingham Grade:
+Tubule formation:
+Nuclear Pleomorphism:
+Mitotic count for Nottingham:
+Mitotic count:
+Lymphatic invasion:
+MARGIN STATUS FOR INVASIVE COMPONENT:
+Distance of tumor from margins:
+Closest margin:
+Other margins:
+IN-SITU CARCINOMA (DCIS) FEATURES:
+DCIS extent:
+Pattern:
+Nuclear grade:
+18 mm.
+Lower inner quadrant (3:30 aspect).
+Single focus of invasive carcinoma.
+Invasive ductal carcinoma.
+2 of 3.
+3 of 3.
+2 of 3.
+1 of 3.
+Three mitoses in ten high power fields.
+Not identified.
+Negative (RO).
+15 mm.
+Anterior-medial-inferior (anterior margin overlying
+LIQ tumor)
+Invasive carcinoma is at least 40 mm from all
+other margins.
+DCIS present in association with invasive
+carcinoma, and extends into surrounding tissue
+(DCIS is associated with calcifications, and
+therefore may correspond to area of
+mammographically detected calcifications).
+Solid and cribriform.
+Intermediate grade.
+FINAL SURGICAL PATHOLOGY REPORT
+Necrosis:
+Calcifications:
+Margin status for DCIS component:
+Distance of In-situ from nearest margin:
+LOBULAR CARCINOMA IN-SITU (LCIS):
+Skin:
+Nipple:
+Skeletal Muscle:
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+Primary tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+Pathologic Stage:
+Present.
+Present.
+Negative.
+DCIS is at least 15 mm from the closest
+anterior-inferior-medial margin.
+Absent.
+Unremarkable.
+Unremarkable.
+Not present.
+pT1c.
+PNO(i-)(sn).
+PMX.
+ΙΑ
+RECEPTOR STATUS AND HER2/NEU:
+Estrogen receptors:
+Progesterone receptors:
+Her2/neu:
+Ki-67 proliferative index:
+POSITIVE (98% positive cells, strong).
+POSITIVE (15% positive cells, strong).
+Not overexpressed (IHC score 1+).
+20% positive cells.
+Source of Specimen:
+A. Right axillary sentinel lymph node
+B. Right axillary sentinel lymph node
+C. Right axillary sentinel node
+D. Right axillary sentinel lymph node
+E. Right Breast
+Clinical History/Operative Dx:
+Right breast cancer
+Intraoperative Diagnosis:
+A. Right axillary sentinel lymph node
+interpretation(s) was/were performed and rendered at
+Case #:
+Printed:
+Signed by
+No tumor cells present. (Dr.
+The intraoperative
+Criteria
+f 11/25/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer ial
+QUALIFIED
+Tunt
+Date Reviewed:
+Yes
+DISQUALIFIED
+No

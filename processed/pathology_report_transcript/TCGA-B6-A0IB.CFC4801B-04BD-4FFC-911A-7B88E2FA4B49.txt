@@ -1,0 +1,77 @@
+Patient:
+Surgical Pathology: Fina
+Surg Path
+ICD-0-3
+Carcinoma, duct, Nos, infiltration 8500/3
+Site Codr
+breast, Nos
+050.9
+1/17/11
+мо
+UUID:CFC4801B-04BD-4FFC-911A-7B88E2FA4B49
+TCGA-B6-A0IB-01A-PR
+CLINICAL HISTORY:
+Right breast cancer.
+GROSS EXAMINATION:
+A. "Right breast":
+axillary tail.
+Received fresh is a 25 x 17 x 3.5 cm right breast and
+Attached to the breast is an 18 x 9 cm ellipse of skin
+containing the nipple. In the inner upper and inner lower quadrant there is
+a 6 x 3.5 x 3.0 cm biopsy cavity. Surrounding the biopsy cavity is firm to
+hard breast tissue. This tissue extends from the biopsy cavity from 1.0 ×
+2.5 cm in all directions. Tissue from this main tumor mass was submitted for
+estrogen receptors labeled as "A". Approximately 5 cm lateral to the biopsy
+cavity there is another nodule within the breast that measures approximately
+3 cm in diameter. Tissue from this smaller mass was submitted for estrogen
+receptors labeled as "B". Small amounts of firm breast tissue are palpated
+between the main tumor mass in this second 3 cm tumor mass. It is difficult
+to determine whether this second tumor mass is an isolated lesion or an
+extension of the main tumor mass.
+Block Summary:
+Al: Section adjacent to biopsy cavity containing a deep margin which has been
+inked blue.
+A2: Section adjacent to biopsy site containing deep margin.
+A3: Random section of tumor adjacent to biopsy site.
+A4: Section of firm area between the biopsy cavity and the smaller mass
+lateral to it.
+A5: Section of the 3 cm in diameter mass lateral to the biopsy cavity.
+A6: Upper outer quadrant.
+A7: Lower inner quadrant.
+A8: Skin beneath the biopsy cavity.
+A9: Nipple.
+A10: Lymph nodes from the proximal 1/3 of the axillary tail.
+All: Lymph nodes from the mid 1/3 of the axillary tail.
+A12: Lymph nodes from the distal 1/3 of the axillary tail.
+DIAGNOSIS:
+A.
+"RIGHT BREAST":
+RIGHT BREAST STATUS POST BIOPSY FOR INVASIVE DUCTAL CARCINOMA WITH
+EXTENSIVE RESIDUAL INVASIVE CARCINOMA EXTENDING INTO THE DEEP DERMIS
+(BLOCK A8). HISTOLOGIC GRADE: III. NUCLEAR GRADE: III.
+B.
+"LYMPH NODES":
+LEVEL-I, NEGATIVE FOR CANCER, ONE EXAMINED.
+LEVEL-II, LYMPH NODES POSITIVE FOR CANCER, SIX OF NINE EXAMINED.
+LEVEL-III LYMPH NODES POSITIVE FOR CANCER, TWO OF FIVE EXAMINED.
+ALL FINAL SURGICAL MARGINS NEGATIVE FOR CANCER.
+eBrowser Result
+Verified by:
+(Electronic Signature,
+Date Sign
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (chicle):
+Reviewer Initials
+QUALIFIED
+KML
+Date Revywed:
+Yes
+DISQUALIFIED
+Redacted
+TON
+1 of 1

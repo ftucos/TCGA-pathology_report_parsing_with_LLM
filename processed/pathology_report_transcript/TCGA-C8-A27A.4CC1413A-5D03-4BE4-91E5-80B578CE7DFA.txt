@@ -1,0 +1,380 @@
+UUID:4CC1413A-5D03-4BE4-91E5-80B578CE7DFA
+TCGA-C8-A27A-01A-PR
+Redacted
+IRB APPROVED
+MULTI-MEDIA SYSTEMS, INC.
+Form Revised.
+1C0-0-3
+Carcinoma, infiltrating
+duct, Nos 8500/3
+'
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+Site: breast, Nos C50.9
+Mw 5/26/11
+Informed Consent
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nuled
+Case is (circle):
+Redewerkitys
+QUALIFIED
+_ alle Reviewed:
+Yes
+No
+DISQUALIFIED
+his static 5/5/
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+Date of Birth (mm/dd/yyww)
+Height
+GENERAL INFORMATION
+Marital Status
+☐ Single ☑ Married
+Gender
+Weight
+□ Divorced
+☐ Male ☑Female
+Date
+Race
+Temperature
+□ Widow
+Blood Pressure
+Heart Rate
+I
+3/8
+HISTORY OF PRESENT ILLNESS
+Chief Complaints: A lump in the stright breast; painless.
+Symptoms:
+Clinical Findings:
+A tumour was found in
+in
+the right breast
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic □ 80-90 Symptomatic but Fully Ambulatory ☑60-70 Symptomatic, in bed less than 50% of day
+□ 40-50 
+Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+☐ 20-30 Bed Ridden
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+Το
+To
+To
+Το
+To
+1
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+UC
+Diagnosis Date
+Treatment
+Status
+Menopausal Status
+Pre-menopausal
+Peri-Menopausal
+☐ Post-menopausal
+OB/GYN HISTORY
+Date of First Menses
+years old
+Date of Last Menses
+Birth Control: ☐ Condom □ Oral Contraceptive ☑IUD
+☐ Other:
+# of Pregnancies
+02
+# of Live Births
+02
+☐ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Current Status
+TYPE
+Environmental Hazards:
+Smoking History
+Packs/day
+Duration
+When Quit
+☐ YES □ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+Duration
+When Quit
+☐ YES ✓ NO
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES
+□ NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Test
+Result
+Date
+Test
+HIV
+✓ Negative ☐ Positive:
+Hep B
+☑Negative ☐ Positive:
+Hep C
+□ Negative ☐ Positive:
+I
+☐ Negative ☐ Positive:
+AFP
+Other:
+☐ Negative □ Positive:
+B/T Cell Markers:
+2
+Result
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative □ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy
+DIAGNOSTIC STUDIES
+Results
+Date
+Carcinoma
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+R. BREAST CANCER
+Location of Suspected Distant Metastasis
+Date of Diagnosis
+Location of Suspected Involved Lymph Nodes
+Clinical Staging
+T2 N 1 MO
+Stage: I B
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Modified Radical Mastectomy
+Organ
+Breast Timor
+Primary Tumor
+(Right)
+Detailed Location
+Date of Procedure
+Size
+Coppercriter quadreen 3 x 2 x 2 cm
+Extension of fumor
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Distant Metastasis
+Detailed Location
+T2
+N
+Surgical Staging
+MO
+Stage: I
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno. Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+3
+Size
+Date (mm/dd/yyyy)'
+Το
+Το
+Το
+To
+1
+To
+i
+Collected by:
+Preserved by:
+-1
+Pathology Form
+Specimen Information
+Date:,
+ΠΕ
+Date
+Time:
+SPECIMEN TYPE (# of samples provided)
+Frozen
+Paraffin Block
+Blood/Serum/Plasma
+Diseased
+Normal
+Diseased
+4
+2
+4
+Normal
+2
+Diseased
+Normal
+Time to LN2
+12
+'Time to Formalin
+Time to LN2
+min
+13
+min
+min
+Organ
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Breast trimer (Rig) 3x2x2 cm
+upper
+Notes:
+Location
+Diseased
+4
+Slide
+Normal
+2
+Extension of Tumor
+crilex
+Distance to NAT
+5
+cm
+# Metastasized
+Lymph Nodes
+# Examined
+Distant Metastasis
+Organ
+Detailed Location
+Size
+Stage: B
+Pathological Staging
+PT 2 N 1
+MO
+Breast nodes ( MI(+), M₂ (-)
+2
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+CELL DISTRIBUTION
+Diffuse
+Mosaic
+Necrosis
++
+STRUCTURAL PATTERN
++
+Streaming
+Storiform
+✓ Fibrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Palisading
+☑ Cystic Degeneration
+Bleeding
+☑Myxoid Change
+☑ Psammoma/Calcification
+Indian File
+2. Cellular features:
+Squamous
++
+"
+Adenomatous
++
+-
+Sarcomatous
+Squamoid Cell
+Glandular cell
+XI
+Round Cell
+Spindle Cell
+Cell Stratification
+☑
+Fibroblast
+Keratin
+Secretion
+E☑
+Osteoblast
+Desmosome
+Peart
+Intracyt. Vacuole
+☑
+Lipoblast
+Gland formation
+Myoblast
+Otherwise Specified:
++
+-
+75% D 75% D3 75%, 4 75%
+2. Cellular Differentiation:
+Lymphomatous
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+Well
+Moderately
+3. Nuclear Atypia:
+Nuclear Appearance
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade
+Poor
+0
+II
+11
+☑
+Ак
+Crime
+Histological Diagnosis: Infiltrating Ductal na vas (3
+Comments:
+MI
+M2
+"
+Carcinoma metastasized to LA
+салидите
+Chronic Lymphadenitis.
+Director, Research Pathology
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

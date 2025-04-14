@@ -1,0 +1,35 @@
+Criteria
+Diagnosis Discrepancy
+UUID: 226031B3-D9C2-4343-B3F7-4E0C368901E7
+Yes
+No
+TCGA-AR-A24T-01A-PR
+Redacted
+Final Diagnosis
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIHED.
+DISQUALIFIED
+Date Reviewed: WA41
+4/25/14
+Breast, right, simple mastectomy: Infiltrating lobular carcinoma, Nottingham grade I (of III) [tubules 3/3, nuclei 1/3, mitoses 1/3;
+Nottingham score 5/9], forming a mass (5.7 x 4.8 x 2.1 cm) located in the mid outer quadrant of the breast [AJCC pT3]. Lobular
+carcinoma in situ is identified. Angiolymphatic invasion is present. The non-neoplastic breast parenchyma is unremarkable.
+Biopsy site changes are present. The tumor does not involve the nipple, overlying skin, or underlying chest wall. All surgical
+resection margins, including the deep margin, are negative for tumor (minimum tumor free margin, 0.3 cm, deep margin).
+Lymph node, right axillary sentinel, excision: A single (1 of 1) right axillary sentinel lymph node is positive for metastatic
+carcinoma. Extranodal extension is not present. Blue dye is identified.
+Lymph nodes, right axillary, dissection: Multiple (14 of 16) axillary lymph nodes are positive for metastatic carcinoma [AJCC
+pN3].
+Breast, left, simple mastectomy: Proliferative fibrocystic disease without atypia characterized by ductal hyperplasia, usual type,
+sclerosing adenosis, parenchymal fibrosis, and cyst formation.
+Her-2/NEU has been ordered on paraffin-embedded tissue.
+ICD-0-3
+carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, Nos
+lu 4/25/11
+C50.9

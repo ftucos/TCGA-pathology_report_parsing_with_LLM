@@ -1,0 +1,43 @@
+3
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+1/19/11 fur
+Path Site: Breast, 400 050.4
+U0Q
+CQCF Site: Breast, NOS
+050.9
+Diagnosis:
+Skin and fatty tissue with small foci of resorptive inflammatory reactions and also incipient
+scarring.
+But no evidence of carcinoma. A regional RO status is therefore likely to have been attained.
+Diagnosis:
+Invasive lobular breast carcinoma (maximum tumor diameter 2.7 cm, malignancy grade 2)
+with an invasive satellite node and 
+multicentric, in parts confluent LIN formations (grade I).
+Remaining glandular body 
+fibrolipomatous and with cystic duct ectasia, also small focal areas
+of adenosis. Submitted tissue samples 
+of cutaneous/subcutaneous tissue histologically
+unremarkable.
+Tumor-free resection margins. Minimum width of dorsal safety margin 0.6 cm.
+Tumor classification: pT2m (maximum diameter 2.7 cm), pN0 sn (0/2) (compare xxxxx),
+MX, R0, G2 (L0, V0).
+UUID:E4D30B42-383A-40BF-BB91-511A90227655
+TCGA-A8-A0AB-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Mlignancy History
+Qual, Synchronous Primary Nuced
+Case is (circle):
+Revewerntials
+tmt
+QUALIFIED
+Yes
+Mel
+/ DISQUALILED
+Date Reviewed:
+M
+5/3111

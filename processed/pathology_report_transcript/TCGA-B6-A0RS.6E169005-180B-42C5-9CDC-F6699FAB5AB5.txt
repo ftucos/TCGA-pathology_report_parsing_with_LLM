@@ -1,0 +1,86 @@
+SURGICAL PATHOLOGY REPORT
+Material
+Submitted: left breast
+Clinical
+History:
+Clinical
+Diagnosis:
+Operating
+ICD-0-3
+Carcinoma, lafiltrating ductal, Nos 8500/3
+Site Code:
+breast, Nos
+050.9
+1/17/11
+tw
+UUID:6E169005-180B-42C5-9CDC-F6699FAB5ABS
+TCGA-B6-AØRS-01A-PR
+Redacted
+Pathology Number
+Surgeon:
+Gross Examination:
+Received is a container labeled with the patient's name, history number and date. In
+addition the container is labeled "left breast". The specimen is received in the fresh state
+and consists of a breast and attached axillary tail weighing 560 grams and measuring 27.0 x
+17.5 x 3.0 em. in greatest dimension. The overlying skin ellipse measures 13.5 cm. in length
+with a maximum diameter of 7.0 cm. The skin is notable for a large bruise in the lower
+outer quadrant extending from the areola to the skin edge measuring 3.0 x 1.5 cm. in
+greatest dimensions. The skin is otherwise unremarkable. Palpation reveals a 2.5 x 2.0 x
+2.5 cm. firm nodule adjacent to the nipple at the intersection of the upper and lower inner
+quadrants. The pectoralis fascia has been previously inked with Alcian blue and two
+longitudinal incisions made parallel to the long axis of the specimen each measuring 9.5 cm.
+in length. The firm area extends to a point 1.2 cm. from the deep surgical margin.
+Sections will be submitted in the following block order.
+Block firm area to include deep margin.
+Block II
+Block III
+Block IV
+Block V
+Block VI
+Block VII
+-
+-
+Block VIII
+Block IX
+-
+additiona firm area to include deep margin.
+additional firm area to include deep margin.
+skin adjacent to firm area.
+-
+mid nipple.
+representative section from upper outer quadrant.
+representative section from lower outer quadrant.
+representative section from lower inner quadrant.
+representative section from upper inner quadrant.
+Block X-lymph nodes zone 1.
+Block XI-lymph nodes zone II.
+Block XII
+Block XIII
+DIAGNOSIS:
+lymph nodes zone III.
+additional lymph nodes zone III.
+"LEFT" BREAST, MASTECTOMY:
+Criteria
+Diagnosi, Liscrepancy
+Primary Tumo. Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+al/Synchronous Primary noted
+se is (circle):
+viewer i
+QUALIFIED
+Yes
+DISCUALIFIED
+Reviewed:
+13+1
+A. INFILTRATING DUCTAL CARCINOMA (2.5 X 2.0 X 2.5 CM.),
+N.S.A.B.P. NUCLEAR GRADE POORLY DIFFERENTIATED,
+HISTOLOGIC GRADE 3 OF 3.
+B. NO CARCINOMA IDENTIFIED IN SURGICAL MARGINS.
+C. FIBROCYSTIC CHANGES:
+1. FOCAL MODERATE EPITHELIAL HYPERPLASIA.
+2. SMALL CYSTS.
+3. APOCRINE METAPLASIA.
+4. FIBROSIS.
+"LEFT" AXILLARY DISSECTION: NO CARCINOMA IDENTIFIED IN 15
+LYMPH NODES.

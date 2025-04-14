@@ -1,0 +1,108 @@
+Carcinoma, infiltrating duite, Nos 8500/3
+Site: breast, NoS
+0509
+1/25/11 w
+Name.
+Sex: F
+DOB
+Location:
+Doctor:
+SURGICAL REPORT
+"
+UUID:E2E6CA22-AFE4-488F-90AC-32639687A590
+TCGA-A2-A1G1-01A-PR
+Redacted
+Pathology Numbe
+Date Collected: (
+Date Received:
+M.R. Number
+Account Numbe
+PRE-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+POST-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+PROCEDURE
+RIGHT BREAST LUMPECTOMY WITH SENTINEL LYMPH NODE BIOPSY, F.S.; POSSIBLE AXILLARY DISSECTION
+TISSUES
+A. BREAST EXCISION, NEEDLE LOC, SIMPLE, MARGINS, ETC. - RIGHT BREAST LUMP
+B. SENTINEL LYMPH NODE (S) - #1 **FS**
+FS DIAGNOSIS
+A.
+RIGHT BREAST LUMP (GROSS MARGINS) -
+MARGINS GROSSLY 
+NEGATIVE FOR MALIGNANCY.
+RIGHT SENTINEL LYMPH NODE #1, F.S. —
+-
+SENTINEL NODE #1, NEGATIVE FOR MALIGNANCY.
+(REPORTED TO SURGEON:
+Diagnosed by:
+FINAL DIAGNOSIS
+A.
+B.
+RIGHT BREAST LUMP –
+POORLY DIFFERENTIATED INFILTRATING DUCTAL CARCINOMA WITH CENTRAL
+NECROSIS (SCARFF-BLOOM-RICHARDSON 
+GRADE II/III).
+THE TUMOR MEASURES 3 CM. IN MAXIMUM DIMENSION.
+LYMPHOVASCULAR INVASION IDENTIFIED INSIDE THE TUMOR.
+ALL SURGICAL MARGINS ARE FREE OF THE TUMOR.
+RIGHT SENTINEL LYMPH NODE #1 -
+ONE POSITIVE LYMPH NODE (1/1).
+PTNM CLASSIFICATION:
+STAGE IIB, T2 N1 MX.
+PQRI CATEGORY II: 3260F
+Diagnosed by:
+Reviewed and electronically signed out by:
+Patient Name
+SURGICAL REPORT
+Pathology Number:
+Page 1 of 2
+Patient Nam
+Pathology Number:
+COMMENT
+Specimen "B" shows metastatic carcinoma which is shown in the permanent section and not in
+the frozen section.
+This case is discussed with Dr.
+GROSS DESCRIPTION
+The specimen is received in two separate containers labeled :
+and B.
+designated A
+A.
+B.
+The container is received fresh unfixed labeled "right breast lump" and consists of a 33 gm. ovoid
+mass of apparent fatty and fibrous-encased tissue which is 5.5 x 4.5 x 2 cm. In greatest overall
+dimension. There are two sutures indicating superior margin inked with yellow dye, inferior is
+Inked green. There is a single short suture Indicating lateral margin inked with orange dye,
+medial is inked black. There is a single short suture indicating anterior margin inked with blue
+dye, posterior is Inked red. Sectioning reveals a tumor which is 3 x 2.5 x 1 cm. In greatest overall
+dimension and grossly appears to be 0.4 cm. from the superior/yellow, 0.9 cm. from the
+inferior/green, 0.4 cm. from the medial/black, 0.3 cm. from the lateral/orange, 0.5 cm. from the
+anterior/blue, 0.6 cm. from the posterior/red. The specimen is submitted in twelve blocks.
+Key Note Block Summary:
+1-superior, 2-inferior, 3-medial, 4-lateral, 5-anterior, 6—
+posterior, 7 through 9-tumor, 10 through 12-random.
+The container is received fresh unfixed labeled "right sentinel lymph node #1 for frozen section"
+and consists of an ovoid mass of apparent fat which is 1.5 x 1 x 0.6 cm. In greatest overall
+dimension. Sectioning reveals a 1 cm. pink-tan firm nodule. Touch prep and frozen section are
+obtained by Dr.
+The entire specimen including frozen section is submitted in two
+blocks.
+MICROSCOPIC EXAM
+MICROSCOPIC EXAMINATION CONDUCTED BY PATHOLOGIST CONFIRMS FINAL DIAGNOS18.
+Patient Nar
+SURGICAL REPORT
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+Pathology Number:
+Page 2 of 2

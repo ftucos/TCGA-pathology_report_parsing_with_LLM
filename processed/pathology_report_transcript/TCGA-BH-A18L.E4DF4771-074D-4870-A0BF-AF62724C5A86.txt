@@ -1,0 +1,167 @@
+1D-0-3
+Carcinoma, Infiltrating duct, Nos 8500/3
+Site code: breast, Nos
+C50.9
+PATIENT HISTORY:
+The patient is a
+PRE OP DIAGNOSIS: Breast cancer.
+POST OP DIAGNOSIS: Same.
+PROCEDURE: Left total mastectomy and sentinel node biopsy, Hepatitis C.
+year-old female with no clinical history given. Date of last menstrual period: Not given.
+12/15/16
+UUID:E4DF4771-074D-4870-A0BF-AF62724C5A86
+TCGA-BH-A18L-01A-PR
+Redacted
+FINAL DIAGNOSIS:
+PART 1: SENTINEL LYMPH NODE, LEFT, #1 –
+LYMPH NODE POSITIVE FOR SEVERAL MICROMETASTASES, APPROXIMATELY 0.1 CM EACH, VISIBLE ON
+IMMUNOSTAIN SLIDES AND TWO LEVELS OF THE H&E STAIN SECTIONS.
+PART 2: SENTINEL LYMPH NODE, LEFT, #2 -
+NEGATIVE FOR METASTATIC TUMOR (see comment).
+PART 3: NON-SENTINEL LYMPH NODE, LEFT –
+NEGATIVE FOR METASTATIC TUMOR.
+PART 4: BREAST, LEFT, TOTAL MASTECTOMY -
+A. INFILTRATING DUCTAL CARCINOMA, NOTTINGHAM SCORE 7/9 (TUBULES 3, NUCLEAR PLEOMORPHISM 2,
+MITOSIS 1) 6.0 X 5.0 X 6.0 CM.
+B. DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES REPRESENTING, APPROXIMATELY 5% OF TOTAL
+TUMOR VOLUME.
+C. SKIN WITH TUMOR IN THE LOWER DERMIS.
+D.
+LINES OF RESECTION ARE FREE OF TUMOR. (See comment)
+COMMENT:
+The tumor is approximately 0.1 cm from the inferior surgical resection margin. The ductal nature of the tumor is
+confirmed by a strongly positive E-cadherin immunostain.
+Criteria
+Diagnosi: Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Du'il Synchronous Primary Noted
+Case is (circle):
+Reviewer ial:
+QUALIFIE
+Cate Pevi
+Yes
+DISQUALIFIED
+MICROSCOPIC:
+A. Laterality: 2
+1. Right
+B. Procedure: 3
+1. Segmentectomy
+2. Simple mastectomy
+C. Location: 2
+1. Central subareolar
+2. UOQ
+2. Left
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+3. Modified radical mastectomy
+4. Re-excision
+4. LOQ
+5. LIQ
+3. UIQ
+6. Not specified
+D. Size of tumor (maximum dimension invasive component by gross or microscopic exam): 6.0 cm
+E. Type (invasive componenty. I
+1. Ductal, NOS
+2. Tubular
+3. Mucinous
+4. Medullary
+F. If lobular carcinoma, specify type: N/A
+1. Classical
+2. Solid
+3. Alveolar
+G. Nottingham Score:
+G1. Nuclear grade:
+G2. Tubule formation: 3
+G3. Mitotic activity score: 1
+G4. Total Nottingham score: 7
+G5. Nottingham grade (1, 2, 3): 2
+H. Angiolymphatic invasion: 1
+1. No
+1. Dermal lymphatic invasion: 2
+1. Yes
+J. Calcification: 1
+1. No
+5. Cribriform
+6. Papillary
+7. Lobular
+9. Metaplastic
+10. Other
+8. Carcinoid like
+4. Signet ring
+7. Pleomorphic
+5. Trabecular
+6. Tubulobular
+2. Yes
+2. No
+3. Not applicable
+2. Yes - benign zones
+3. Yes - malignant zones
+4. Micropapillary
+7. Lobular
+5. Apocrine
+K. Type of in situ component: 1/2
+1. Cribriform
+2. Solid
+3. Papillary
+6. Comedo
+5%
+L. Percentage of tumor occupied by in situ component:
+M. Surgical margins involved by invasive component: 1
+1. No
+2. Yes-focal
+N. Surgical margins involved by in situ component: 1
+1. No
+2. Yes - focal
+O. Paget's disease of nipple: 2
+1. Yes
+2. No
+P. Number of positive lymph nodes: 1
+Q. Total number of lymph nodes examined: 3
+R. Sentinel node metastasis: 1
+2. No
+3. Yes - diffuse
+3. Yes - diffuse
+S. Only micrometastases to lymph nodes (none larger than 0.2 cm): 1
+1. Yes
+1. Yes
+1. Yes
+1. Yes
+T. Metastasis/es to a lymph node 2 cm. or more in greatest dimension: 2
+U. Lymph node metastasis/es with extracapsular extension: 2
+2. No
+2. No
+2. No
+2. No
+2. No
+V. Metastases to ipsilateral internal mammary lymph node (if applicable): N/A
+W. Skin involved (ulceration): N/A
+X. Non-neoplastic breast tissue: 6
+1. Yes
+1. Yes
+1. ADH
+2. ALH
+3. Radical scar
+4. Fibroadenoma
+5. Papilloma
+6. FCD
+7. LCIS
+8. Other
+2. No
+Y. Multicentricity/multifocality of invasive foci: 2
+1. Yes
+Y1: Sizes of invaxive foci: #cm / # cm / # cm
+Y2: Aggregate diameter of Y1 tumors: # cm
+Z. TNM stage: T3 N1 MX
+Yes
+N
+Criter
+Diagnosis Discrepancy
+Primary Tumo: Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle).
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Date Reviewed:

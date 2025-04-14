@@ -1,0 +1,246 @@
+Surgical Pathology Report
+* Final Report *
+E
+E
+ICD-0-3
+carcinoma, lobular, infultrating
+852013
+Result type:
+Result date:
+Surgical Pathology Report
+Site: breast, Nos
+Result status:
+Signed
+C50.9
+Result title:
+Surgical Pathology Report
+Performed by:
+5-1-12
+ко
+Verified by:
+Encounter info:
+Clinical History
+* Final Report *
+Right breast pleomorphic ILC triple positive on prior core at 9:00 position
+; E-cadherin immunostain was negative on core
+Specimen
+# 1
+#2
+#3
+#4
+#5.
+#6
+#7
+8#
+6#
+Sentinel node #1, right axilla, hot and blue
+Sentinel node #2, right axilla, hot and blue
+Sentinel node #3, right axilla, hot and blue
+Right breast lumpectomy stitch, single long/cranial, double short/medial
+Right breast mass, cranial margin
+Right breast mass, medial margin
+Right breast mass,
+Right breast mass,
+caudal margin
+lateral margin
+Right breast mass, deep margin
+Gross Examination
+#1 Received fresh labeled sentinel node #1, right axilla, hot and blue is a 1.2
+× 0.6 x 0.5 cm portion of tan-yellow fibroadipose tissue. Within the tissue is
+a 0.5 x 0.4 × 0.4 cm lymph node candidate. The candidate is hisected along its
+longitudinal axis, and one alcohol-fixed touch preparation
+as well as
+one scrape preparation
+are prepared from the cut surface. The candidate
+is entirely submitted as two sections in one cassette.
+#2
+Received fresh labeled sentinel node #2, hot and blue, right axilla is a 1.2
+× 0.5 x 0.4 cm portion of tan-yellow fibroadipose tissue. Within the tissue is
+a 0.4 x 0.4 × 0.4 cm lymph node candidate. The candidate is bisected along its
+longitudinal axis, and one alcohol-fixed touch preparation
+) as well as
+one scrape preparation
+) are prepared from the cut surface. The candidate
+is entirely submitted as two sections in one cassette.
+#3
+:
+Received fresh labeled sentinel node #3, right axilla, hot and blue is a 1.3
+Printed by:
+Printed on:
+UUID:CABCDS7E-DA92-463E-A004-D554825A22D6
+TCGA-AC-A3W5-01A-PR
+Redacted
+riteria
+Page 1 of 4
+(Continued)
+Yes
+Nu
+agnosis Discrepancy
+smary Turnur Site Discrepancy
+PPAA Discrepancy
+ner Megnancy History
+Jual/Synchronous Primary Hoted
+ase is (circ):
+eviewer Ins
+QUALIFIED
+/ DISQUALIFIED
+✓ Date Reviewed.
+4/34/1 4/25/12
+Surgical Pathology Report
+E
+=
+Final Report *
+× 0.7 x 0.6 cm portion of tan-yellow fibroadipose tissue.
+Within the tissue is
+a 0.8 × 0.5 × 0.4 cm lymph node candidate. The candidate is bisected along its
+as well as
+longitudinal axis, and one alcohol-fixed touch preparation
+one scrape preparation
+are prepared from the cut surface. The candidate
+is entirely submitted as two sections in one cassette.
+#4 Received fresh labeled right breast lumpectomy, stitch single long cranial,
+double short medial, is a 5.8 cm (cranial to caudal) x 4.2 cm (medial to
+lateral) x 2.0 cm (superficial to deep) portion of fibroadipose tissue, oriented
+as stated above. The superficial margin is inked blue and the deep margin is
+inked black. Sectioning demonstrates a stellate, moderately well circumscribed
+2.6 x 2.2 x 1.0 cm white, indurated mass. Within the mass is a 0.4 cm in
+greatest dimension hemorrhagic biopsy cavity. The mass demonstrates the
+following measurements of the margins: medial-0.3 cm, lateral-0.9 cm,
+superficial-0.9 cm, deep-1.0 cm, caudal-1.1 cm and cranial-1.6 cm.
+remainder of the parenchyma is composed entirely of lobulated adipose tissue.
+There are no additional discrete mass lesions or nodules identified.
+sections are submitted in seven: "A-G". Block summary: "A", medial
+perpendicular; "B", lateral perpendicular; "C", superficial and deep
+(differentially inked) perpendicular; "D", superficial perpendicular; "E", deep
+perpendicular; "F", caudal shave; "G", cranial shave.
+The
+Seven
+Representative fresh tumor and normal tissue provided to 1
+and the
+#5 Labeled right breast mass, cranial margin, is a 5.0 x 3.2 x up to 1.3 cm
+cup-shaped portion of tan yellow fibroadipose tissue, oriented with a cranial
+map marker on one surface. The cranial margin is inked black and tangential
+sections are taken. The remaining tissue is serially sectioned to demonstrate
+no gross focal mass or lesion. Six representative sections are submitted in
+five: "A-E". Block summary: "A-D", entire cranial margin, tangential; "E",
+perpendicular sections through the remaining tissue.
+#6 Labeled right breast mass, medial margin, is a 3.0 x 3.0 x up to 1.0 cm
+cup-shaped portion of tan yellow fibroadipose tissue, oriented with a medial map
+marker on one surface. The medial margin is inked black. The tissue is
+serially sectioned to demonstrate no gross focal mass or lesion.
+entirely submitted as nine perpendicular sections in six: "A-F".
+The tissue is
+#7 Labeled right breast mass, caudal margin, is a 3.0 x 2.5 x up to 0.8 cm
+cup-shaped portion of tan yellow fibroadipose tissue, oriented with a caudal map
+marker on one surface. The caudal margin is inked black. The tissue is serially
+sectioned to demonstrate no gross focal mass or lesion. The tissue is entirely
+submitted as eight perpendicular sections in five: "A-E".
+Printed by:
+Printed on:
+Page 2 of 4
+(Continued)
+Surgical Pathology Report
+* Final Report *
+#8
+Labeled right breast mass, lateral margin, is a 3.3 x 2.3 x up to 0.9 cm
+cup-shaped portion of tan yellow fibroadipose tissue, oriented with a lateral
+map marker on one surface. The lateral margin is inked black. The tissue is
+serially sectioned to demonstrate no gross focal mass or lesion. The tissue is
+entirely submitted as eight perpendicular sections in four: "A-D".
+#9 Labeled right breast mass, deep margin, is a 5.0 x 3.2 x up to 1.6 cm
+cup-shaped portion of tan yellow fibroadipose tissue, oriented with a deep map
+marker on one surface. The deep margin is inked black, and tangential sections
+are taken. The remaining tissue is serially sectioned to demonstrate no gross
+focal mass or lesion. Seven representative sections are submitted in five:
+"A-E". Block summary: "A-D", entire deep margin, tangential; "E", perpendicular
+sections through the remaining tissue.
+OR Consultation
+#2
+#1 SENTINEL NODE #1 RIGHT AXILLA (1 LN, 1 TP, 1 SCRAPE):
+SENTINEL NODE #2 RIGHT AXILLA (1 LN, 1 TP, 1 SCRAPE):
+#3 SENTINEL NODE #3 RIGHT AXILLA (1 LN, 1 TP. 1 SCRAPE'.
+#1-#3 REPORTED TO DR.
+AT
+ON
+NEGATIVE (0/1).
+NEGATIVE (0/1).
+(0/1).
+NEGATIVE
+Signature Line
+Signed by:
+ELECTRONIC SIGNATURE
+Microscopic Examination
+#1-#9 Microscopic examination performed.
+Immunostain for pancytokeratin is
+evaluated on all blocks in parts 1-3 and show no metastatic carcinoma.
+final medial margin is positive in block 6F (Dr.
+The
+Comment
+The pleomorphic LCIS noted at the final medial margin is remote from the main
+tumor mass and likely represents an incidental finding.
+Final Diagnosis
+#1
+SENTINEL LYMPH NODE #1, RIGHT AXILLA, EXCISION: NEGATIVE (0/1).
+#2 SENTINEL LYMPH NODE #2323 RIGHT AXILLA, EXCISION:
+NEGATIVE (0/1).
+#3 SENTINEL LYMPH NODE #233, RIGHT AXILLA, EXCISION:
+NEGATIVE (0/1).
+Printed by:
+Printed on:
+Page 3 of 4
+(Continued)
+Surgical Pathology Report
+* Final Report *
+#4
+E
+E
+BREAST MASS, RIGHT AT 9:00, EXCISION:
+INVASIVE LOBULAR CARCINOMA, PLEOMORPHIC TYPE, HIGH GRADE.
+TUBULE FORMATION: MINIMAL (SCORE 3).
+PLEOMORPHISM: MARKED (SCORE 3).
+MITOTIC COUNT: MODERATE (SCORE 2).
+TOTAL NOTTINGHAM SCORE: 8 OF 9 (GRADE III).
+SIZE OF TUMOR: 2.6 CM OF INVASIVE CARCINOMA.
+PERCENT OF IN SITU CARCINOMA: 1-2% (PLEOMORPHIC LCIS).
+STATUS OF BREAST TISSUE AWAY FROM LESION:
+LOCAL LYMPHATIC SPACE STATUS:
+DERMAL LYMPHATIC SPACE STATUS:
+SURGICAL MARGIN STATUS:
+NEGATIVE.
+N/A.
+SUPERFICIAL: NEGATIVE (0.4 CM).
+DEEP: NEGATIVE (0.5 CM).
+MEDIAL: NEGATIVE (0.7 CM).
+LATERAL:
+CRANIAL:
+CAUDAL:
+NEGATIVE (0.5 CM).
+NEGATIVE.
+BENIGN.
+POSITIVE FOR PLEOMORPHIC LCIS.
+STATUS OF MICROCALCIFICATIONS:
+ABSENT.
+ESTROGEN RECEPTOR ASSAY: POSITIVE ON PRIOR CORE (3+, 508).
+PROGESTERONE RECEPTOR ASSAY: POSITIVE ON PRIOR CORE (3+, 308).
+HERCEPTEST: POSITIVE ON PRIOR CORE (IHC SCORE 3+, FISH POSITIVE).
+#5
+CRANIAL MARGIN, RIGHT BREAST:
+#6
+#7
+#8
+NEGATIVE.
+MEDIAL MARGIN, RIGHT BREAST: FOCAL PLEOMORPHIC LCIS (0.4 CM).
+FINAL MARGIN IS POSITIVE OVER A LENGTH OF 0.2 CM.
+CAUDAL MARGIN, RIGHT BREAST: FOCAL PLEOMORPHIC LCIS (0.1 CM).
+FINAL MARGIN IS NEGATIVE (0.5 CM).
+LATERAL MARGIN, RIGHT BREAST: FOCAL PLEOMORPHIC LCIS (0.3 CM).
+FINAL MARGIN IS NEGATIVE (0.6 CM).
+#9
+DEEP MARGIN, RIGHT BREAST: NEGATIVE.
+PATHOLOGIC STAGE: pT2 pNO (sn) (i-).
+Ordering Provider
+Ordering Physician:
+Printed by:
+Printed on:
+Page 4 of 4
+(End of Report)

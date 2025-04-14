@@ -1,0 +1,60 @@
+UUID:3F43AE57-0EB8-4F40-980F-6E2C8C2B3A74
+TCGA-E9-A54Y-01A-PR
+Redacted
+Gross Description: There is a breast with tumor of irregular shape up to 3 cm in its largest dimension. At
+the distance of 1.5 cm from the 1st tumor node there is the 2nd node up to 1 cm in size. In the axillary
+fatty tissue there are lymph nodes with lipomatosis (suspicion of metastases).
+Microscopic Description: Infiltrating lobular carcinoma of the breast, G-3, with multicentric type of
+growth. There are single signet-ring cells. Ten examined lymph nodes demonstrated metastases.
+IHC-stainings: ER - positive reaction 98% 3+; PR - positive reaction 50% 3+; Her-2/neu - negative reaction
+1+; Ki-67 - 6%.
+Diagnosis Details: Tumor Features: Indeterminate, Tumor Extent: T2 tumor size more than 2cm not
+more than 5 cm, Venous Invasion: Not specified, Margins: Absent, Treatment Effect:
+Comments: Original records read pT1N2MO. But tumor size is up to 3 cm in largest dimension, which
+corresponds to T2.
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 0x0x3 cm
+Grossly evident lesion: Yes
+ICD-0-3
+carcinoma, infiltrating lobular, Nos
+852013
+Site: breast, NoS
+050.9
+Histologic type: Lobular carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Not specified
+Lymph nodes: 8/10 positive for metastasis (Axillary 8/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+سلام
+11/20/12
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Tumor Features: Indeterminate, Tumor Extent: T2 tumor size more than
+2cm not more than 5 cm, Venous Invasion: Not specified, Margins: Absent, Treatment Effect: IHC-
+stainings: ER-positive reaction 98% 3+; PR - positive reaction 50% 3+; Her-2/neu - negative reaction 1+;
+Ki-67-6%.Original records read pT1N2MO. But tumor size is up to 3 cm in largest dimension, which
+corresponds to T2. IHC-stainings: ER-positive reaction 98% 3+; PR - positive reaction 50% 3+; Her-2/neu
+- negative reaction 1+; Ki-67 - 6%.
+Comments: Breast-right
+T 11/20/12
+Yes
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case in (circl
+Reviewer in a
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

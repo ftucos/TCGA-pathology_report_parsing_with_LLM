@@ -1,0 +1,270 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+Sentinel node #1, left side, CT
+ouch prep:
+- No tumor seen in one lymph node (0/1).
+-
+• Immunohistochemistry for Keratin to follow.
+Left breast 1 stitch superior, 2 stitches lateral:
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS
+3/12/11 w
+C50.9
+- Invasive, moderately differentiated ductal carcinoma, intermediate nuclear grade, 0.5 cm.
+- Specimen margins are negative (see tumor summary).
+Fibroadenoma, 0.5 cm.
+-
+Sentinel node #1, right side CT
+- No tumor seen in two lymph nodes (0/2).
+- Immunohistochemistry for Keratin to follow.
+Non-sentinel lymph node right side:
+-
+No tumor seen in one lymph node (0/1).
+Sentinel lymph node #2, right side, CT #
+touch prep:
+- No tumor seen in one lymph node (0/1).
+- Immunohistochemistry for Keratin to follow.
+Right breast additional superior flap:
+- No tumor seen in adipose tissue.
+Right breast 1 stitch superior, 2 stitches lateral:
+-
+UUID:042304AE-706A-4033-A97F-3765A6AEC649
+TCGA-EW-A1P3-01A-PR
+Redacted
+· Invasive, moderately differentiated ductal carcinoma, intermediate nuclear grade, 2.5 cm, extending within 0.1 cm of the
+anterior specimen 
+margin (see tumor summary).
+TUMOR SUMMARY "B":
+Specimen Type: Mastectomy
+Lymph Node Sampling: Sentinel lymph node(s) only
+Laterality: Left
+Tumor Site: Upper inner quadrant
+Size of Invasive Component: Greatest dimension: 0.5 cm
+Histologic Type: Invasive ductal carcinoma
+Histologic Grade: Tubule Formation: Moderate 10% to 75% (score =2)
+Nuclear Pleomorphism: Moderate increase in size, etc (score =2)
+Mitotic Count: 10 to 20 mitoses per 10 HPF (score = 2)
+Total Nottingham Score: Grade II: 6-7 points
+Pathologic Staging (pTNM)
+Primary Tumor: pT1a
+Regional Lymph Nodes: pNO
+Number examined: 1
+Number Involved: 0
+Distant Metastasis: pMX
+Margins: Margins uninvolved by invasive carcinoma
+Venous/Lymphatic Invasion: Absent
+TUMOR SUMMARY "G":
+Specimen Type: Mastectomy
+Lymph Node Sampling: Sentinel lymph node with axillary dissection
+Laterality: Right
+Tumor Site: Lower outer quadrant
+A
+SURGICAL PATHOL Report
+Size of Invasive Component: Greatest dimension: 2.5 cm
+Histologic Type: Invasive ductal carcinoma
+Histologic Grade: Tubule Formation: Minimal less than 10% (score =3)
+Nuclear Pleomorphism: Moderate increase in size, etc (score = 2)
+Mitotic Count: Less than 10 mitoses per 10 HPF (score =1)
+Total Nottingham Score: Grade II: 6-7 points
+Pathologic Staging (pTNM)
+Primary Tumor: pT2
+Regional Lymph Nodes: pNO
+Number examined: 4
+Number Involved: 0
+Distant Metastasis: pMX
+Margins: Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1.0 mm
+Specify which margin: Anterior
+Venous/Lymphatic Invasion: Absent
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5-ER, POR 636-PR, A485-
+HER2, H-11=EGFR, CCH2/DDG9-CMV, F39.4.1 AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are 
+read by a pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+.MO
+As the attending pathologist, I attest that 1: () Examined the relevant
+preparation(s) for the specimen(s); and (ii) Rendered the diagnosis(es).
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+A. Immunohistochemistry for Keratin is negative for tumor.
+C. Immunohistochemistry for Keratin is negative for tumor.
+E. Immunohistochemistry for Keratin is negative for tumor.
+MD
+Intraoperative Consultation
+A (FS): No malignancy seen in one lymph node (0/1)
+C (FS): No malignancy seen in two lymph nodes examined (0/2).
+E (FS): No malignancy seen in one lymph node examined (0/1).
+Clinical History:
+Status: Signed Out
+MD
+Page 2 of 4
+SURGICAL PATHOL Report
+Patient is a
+i
+female with right infiltrate ductal carcinoma.
+Specimen(s) Received:
+A: Sentinel node #1, left side, cti
+B: Left Breast 1 stitch superior, 2 stitches lateral, fresh
+C: Sentinel node #1, right side ct i
+D: Non-sentinel lymph node right side
+ouch prep (FS)
+(FS)
+touch prep (FS)
+E: Sentinel lymph node #2, Right side, ct #
+F: Right breast additional superior flap - perm
+G: Right breast 1 stitch superior, 2 stitches lateral,
+Gross Description:
+A.
+fresh
+Received fresh and labeled "sentinel node #1, left side, cf touch prep (FS)" is a segment of tan-yellow, fibroadipose
+tissue measuring 2.5 x 1.1 x 0.5 cm. Cassettes are submitted as follows:
+½
+B.
+One lymph node bisected submitted in toto for frozen section
+Remainder adipose tissue submitted in toto in one cassette
+Received fresh and labeled "left breast 1 stitch superior, 2 stitches lateral" is a mastectomy specimen, which measures
+22.0 x 19.0 x 4.0 cm and weighs 790.0 grams. The specimen has an attached ellipse of pale-tan skin with areola and
+nipple measuring 9.0 x 4.5 cm. The skin and nipple are unremarkable. The specimen is oriented by one stitch superior
+and two stitches lateral. Surgical margins are inked as follows: superior anterior margin inked in green and the remaining
+margins are inked in black. Serial section through the specimen revealed one suspicious area of pale-pink induration
+consistent with previous biopsy site. The indurated area measures approximately 1.1 cm in greatest dimension and is
+located in the upper inner quadrant at 11 to 12 o'clock, 0.8 cm from the superficial margin, 0.9 cm from the deep margin,
+3.0 cm from the superior margin, 16.0 cm from the inferior margin, 3.5 cm from the medial margin and 12.0 cm from the
+lateral margin. An area of interparenchyma hemorrhage is also identified in the inner upper quadrant, approximately 5.0
+cm from the nipple. An additional suspicious area of pale-pink Induration with a granular, cut surface is identified in the
+lower outer quadrant at approximately 4 o'clock. The second suspicious area is located 2.6 cm away from the deep
+margin, 1.8 cm away from the superficial margin, 10.5 cm away from the superior margin, 8.5 cm away from the inferior
+margin, 4.5 cm away from the lateral margin and 13.5 cm away from the medial margin. Çassettes are submitted as
+follows:
+Superficial margin
+Deep margin
+C.
+Suspicious area and surrounding parenchyma submitted in toto
+1
+2
+3
+Superior margin
+4
+Inferior margin
+5
+Medial margin
+6
+Lateral margin
+7-13
+14
+15
+16
+17
+18
+19
+20
+Section of the hemorrhagic area
+Sections of the second suspicious area
+Section of the nipple
+Representative section of uninvolved breast parenchyma in the upper outer quadrant
+Representative section of uninvolved parenchyma in the upper inner quadrant
+Representative section of uninvolved parenchyma in the lower inner quadrant
+Representative section of uninvolved parenchyma in the lower outer quadrant
+Received fresh and labeled "sentinel node #1, right side
+* is a segment of tan-yellow, fibroadipose tissue
+measuring 2.0 x 1.3 x 1.0 cm. Examinations of the specimen revealed two possible lymph nodes. Cassettes are submitted
+as follows:
+1
+One lymph node bisected and submitted for frozen section
+2
+One lymph node bisected submitted for frozen section
+3
+Remainder of the adipose tissue submitted for frozen section in one cassette
+D.
+Received in formalin and labeled "non-sentinel lymph node right side" is a segment of tan-white, soft tissue measuring 1.8
+x 0.7 x 0.4 cm. The specimen is bisected and submitted in toto in one cassette.
+Page 3 of 4
+E.
+SURGICAL PATHOL Report
+Received fresh and labeled "sentinel lymph node #2, right side, c' such prep (FS)" is a segment of tan-yellow,
+fibroadipose tissue measuring 2.1 x 1.1 × 0.6 cm. Examinations of the segment revealed one lymph node. 
+Cassettes 
+are
+submitted as follows:
+1
+One lymph node bisected and submitted for frozen section
+2
+F.
+G.
+Received in formalin and labeled "right breast additional superior flap" is a segment of tan-yellow, fibroadipose tissue
+measuring 6.0 x 3.7 x 1.6 cm. The specimen is received unoriented. One of the surface is rough, irregular and appears to
+face the previous resection site. The surface was inked in orange. The opposite surface was inked in black. Serial
+sections through the specimen revealed no suspicious areas. Representative sections submitted in six 
+cassettes.
+Received fresh and labeled "right breast 1 stitch superior, 2 stitches lateral" is a mastectomy specimen, which measures
+23.0 x 22.0 x 4.0 cm and weighs 670.0 grams. There is an ellipse of skin with areola and nipple, which measures 9.0 x 3.5
+x 0.2 cm. The nipple measures 1.2 x 1.1 cm. The skin is unremarkable. The section margins are inked 
+as follows:
+superior, green and all other margins are inked in black. Serial section through the specimen 
+revealed an area of 
+pale-
+pink induration measuring 2.5 x 1.4 x 1.2 cm and is located in the lower outer quadrant. A firm area is present at the
+superficial margin and is located 3.0 cm from the inferior margin, 2.5 cm from the deep margin and 7.0 cm from 
+the
+superior margin. The remainder of the parenchyma consists of unremarkable fibroadipose tissue with approximately 70%
+adipose tissue and 30% stroma. No other suspicious areas were identified. Cassettes are submitted as follows:
+Anterior margin
+1
+Inferior margin
+3
+Deep margin
+Lateral margin
+5
+Superior margin
+6
+Medial margin
+7-13
+Area of induration submitted
+14
+15
+16
+Representative section of uninvolved parenchyma in the upper outer quadrant
+Representative section of uninvolved parenchyma in the upper inner quadrant
+Representative section of uninvolved parenchyma in the lower inner quadrant
+17
+*ative section of uninvolved parenchyma in the lower outer quadrant near the lesion
+ICD-9(s):
+174.2 174.5
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Qual/Synchronous inery Nated
+Case is (circle):
+Reviewer Initiais 9
+QUALIFIED / DISQUALIFIED
+Tate Reviewed:
+T
+Page 4 of 4

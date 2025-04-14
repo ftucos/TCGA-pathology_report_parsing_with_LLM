@@ -1,0 +1,207 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+E.
+LEFT BREAST LUMPECTOMY 1 STITCH SUPERIOR, 2 STITCHES LATERAL, SKIN IS ANTERIOR:
+·
+Invasive poorly differentiated ductal carcinoma, 2.2 cm in greatest linear dimension, Nottingham Grade 3 (3+3+3).
+Tumor is less than 0.1 cm from 
+the posterior and lateral margins.
+-
+- Lymphovascular invasion is present.
+- Tumor cells are negative for ER, PR, HER-2 by immunohistochemistry.
+SENTINEL LYMPH NODE #1 COUNT 171:
+· Metastatic carcinoma in one lymph node with extranodal extension (1/1).
+SENTINEL LYMPH NODE #2 COUNT 82:
+Metastatic carcinoma in one lymph node with extranodal extension (1/1).
+NON-SENTINEL NODE:
+-
+"
+Metastatic carcinoma in one lymph node with extranodal extension (1/1).
+LEFT AXILLARY CONTENTS:
+ICD-0-3
+Carcinoma, infiltrating ductal, was 8500,
+Site: breast, NoS
+· Metastatic carcinoma in eleven out of twelve lymph nodes (11/12) with extranodal extension.
+C50.9 3/12/11 h
+UUID:6C85A8ED-5569-4FDC-8651-758BFC6B59D8
+TCGA-EW-A1P8-01A
+-PR
+Redacted
+Tumor Summary
+Specimen:
+Partial breast
+Procedure:
+Excision without wire-gulded localization
+Lymph Node Sampling:
+Sentinel lymph node
+Axillary dissection
+Single intact specimen
+Specimen Integrity:
+Specimen Size:
+Greatest dimension: 9 cm
+Additional dimensions: 5 x 6 cm.
+Specimen Laterality:
+Left
+Tumor Size:
+-
+"
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.2 cm
+Tumor Focality:
+Single focus of invasive carcinoma
+Macroscopic Extent of Tumor:
+Skin: Invasive carcinoma does not invade Into the dermis or epidermis
+Skeletal Muscle: No skeletal muscle present.
+Histologic Type:
+Invasive ductal carcinoma.
+Histologic Grade (Nottingham Histologic Score):
+Score 3
+Nuclear Pleomorphism:
+Score 3:
+Mitotic Count:
+"
+Score 3
+Overall Grade:
+"
+Grade 3:
+Margins:
+- Uninvolved by invasive carcinoma.
+-
+Distance from closest margin: <1.0 mm
+SURGICAL PATHOL Report
+-
+• Distance from posterior margin: <1.0 mm
+Distance from lateral margin: <1.0 mm
+Treatment Effect:
+- In the breast:
+-
+No known presurgical therapy
+In the Lymph Nodes:***
+No known presurgical therapy.
+Lymph-Vascular invasion:
+Present.
+Dermal Lymph-Vascular Invasion:
+Not identified
+Extranodal Extension:
+- Present
+Method of Evaluation of Sentinel Lymph Nodes:
+- H&E multiple levels
+Pathologic Staging (pTNM):
+Primary Tumor (pT): pT2
+- Regional Lymph Nodes (pN): pN3a.
+Distant Metastasis (PM): Not applicable.
+Ancillary Studies:
+- Estrogen Receptor:
+Performed on this specimen: Results: Less than 1% immunoreactive cells present.
+- Progesterone Receptor:
+-
+•Performed on this specimen: Results: Less than 1% immunoreactive cells present.
+- HER2/neu:
+-
+- Performed on this specimen: Results: Negative (Score 0)
+Microcalcifications:
+Present in invasive carcinoma.
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636-PR, A485-HER2, H-11=EGFR. All immunohistochemical 
+stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+Intraoperative Consultation
+B. Sentinel lymph node #1 count
+C. Sentinel lymph node #2 count
+'
+Clinical History:
+None provided
+As the attending pathologist, I attest that I: (1) Examined the relevant preparation(s)
+for the specimen(s); and (it) Rendered the diagnosis(es).
+1
+***Electronically Signed Out By***
+MO
+•
+, FS: Metastatic carcinoma in lymph nodes, consistent with a breast primary.
+, FS: Metastatic carcinoma in lymph node.
+MD
+Page 2 of 3
+SURGICAL PATHOL Report
+Operation Performed
+Left breast lumpectomy with sentinel node biopsy
+Pre Operative Diagnosis:
+Left breast mass
+Specimen(s) Received:
+A: Left breast lumpectomy 1 stitch superior, 2 stitches lateral, skin is anterior (permanent)
+B: Sentinel lymph node #1 count
+C: Sentinel lymph node #2 count
+D: Non-sentinel node
+E: Left axillary contents
+Gross Description:
+A.
+S:J
+FS
+Received in formalin is a yellow ovoid tissue weighing 74 grams and measuring 9 x 5 x 6 cm. The specimen is oriented
+with one short suture-superior margin and double black sutures-lateral margin. At the anterior aspect, there is an ellipse of
+white skin, 4 x 1.2 x 0.3 cm. Margins inked as follows: superior margin in blue, inferior margin in green, lateral margin in
+orange, medial margin in red, anterior margin in yellow and posterior margin in black. On multiple cross sections, there is
+an ill-defined firm tumoral mass with focally hemorrhagic areas measuring 2.2 x 2 x 2 cm, present at less than 0.1 cm from
+deep margin (closest margin) and 0.5 cm from anterior margin, 2 cm from superior and inferior margins. The rest of the
+breast presents a white fibrotic breast tissue, the stroma to fat ratio is approximately 30-70%. Representative sections are
+submitted in twelve cassettes as follows:
+Superior margin
+B.
+C.
+D.
+1
+2
+Inferior margin
+3
+Lateral margin
+4
+Medial margin
+5
+Anterior margin (skin)
+6&7
+8-10
+Deep margin with tumor
+Tumor
+11&12 Breast stroma
+Received fresh are two lymph nodes measuring from 1 cm to 4 x 1 x 0.8 cm. Submitted in toto in three cassettes for
+frozen section as follows:
+1
+2&3
+Small lymph node
+Large lymph node
+Received fresh is a possible lymph node, 1.5 x 1 x 0.6 cm. Submitted in toto in one cassette for frozen section
+Received in formalin are two yellow, pale tan tissue fragments, the smaller one is 1.2 x 1 x 0.2 cm and the bigger one is
+1.5 x 1.4 x 0,5 cm. Submitted in toto in two cassettes as follows:
+Smaller tissue
+Bigger tissue, bisected, submitted in toto
+E.
+Received is a yellow fibroadipose tissue segment, 11 x 9 x 2 cm. There are twelve possible lymph nodes ranging from 0.5
+to 1.8 cm in greatest dimension. They are bisected. Representative sections are submitted in twelve cassettes as follows:
+One possible lymph node, bisected per block.
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Rated
+Case is (circle):
+teviewer initials ☑
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+w 3/12/17
+Page 3 of 3

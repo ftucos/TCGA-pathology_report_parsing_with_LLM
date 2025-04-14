@@ -1,0 +1,278 @@
+SPECIMENS:
+A. SLN #1 RIGHT AXILLA
+B. RIGHT BREAST
+C. RIGHT BREAST UPPER OUTER QUADRANT
+D. RIGHT BREAST LATERAL FLAP
+E. LEFT BREAST AND AXILLARY TAIL
+F. ADDITIONAL AXILLARY CONTENTS
+SPECIMEN(S):
+A. SLN #1 RIGHT AXILLA
+B. RIGHT BREAST
+C. RIGHT BREAST UPPER OUTER QUADRANT
+D. RIGHT BREAST LATERAL FLAP
+E. LEFT BREAST AND AXILLARY TAIL
+F. ADDITIONAL AXILLARY CONTENTS
+GROSS DESCRIPTION:
+A. SLN #1 RIGHT AXILLA
+ICD-0-3
+Carcinoma, infiltrating lobular 8520/3
+Path Site: breast, upper outer quadrent C50.4
+COLF Site: breast, Nos C50.9
+2/15/11
+for
+UUID:08A790DE-B01D-4140-BB1C-84844291D71E
+TCGA-E2-A1LG-01A-PR
+Redacted
+Received fresh labeled with the patient's identification and "SLN #1 right axilla" is a piece of
+fibroadipose tissue, 4.5 x 3.1 x 1 cm. It is searched for lymph nodes. Four lymph nodes are identified
+measuring 2.5 x 1.1 x 0.6 cm, 1.5 x 1.1 x 1 cm, 0.6 x 0.4 x 0.2 cm, and 0.6 x 0.5 x 0.2 cm. The 3
+smaller lymph nodes are inked orange, green, and black; the lymph nodes are bisected and half of each
+is submitted for frozen section diagnosis. Lymph nodes are submitted entirely:
+FSA1: frozen section of 2 lymph nodes, bisected (1/2 of each)
+FSA2: frozen section of 2 lymph nodes, bisected (1/2 of each)
+A3: remainder of lymph nodes from FSA1
+A4: remainder of lymph nodes from FSA2
+B. RIGHT BREAST
+Received fresh labeled with the patient's identification and "right breast" is an oriented 1697g, 38 x 30 x
+3cm simple mastectomy with 23 x 20cm tan-brown skin ellipse and 1.3cm everted nipple. Ink code:
+anterior-superior: blue, anterior-inferior: orange, posterior-black. The specimen is serially sectioned into
+19 slices from lateral to medial with nipple in slice 10 revealing a 4cm area of scar tissue, with a 1cm
+central previous biopsy site, 4.6cm from the deep margin in the UIQ of slice 12. The specimen is
+radiographed and 3 biopsy clips are identified (in the UC of slice 10, and two in the UIQ of slice 12),
+1.5cm from the closest anterior-superior margin in the UIQ of slice 12. A second possible 1 x 0.9 x
+0.7cm previous biopsy site is identified in 3.8cm from the deep margin in the UOQ of slice 7.
+Representatively submitted:
+B1: nipple slice 10
+B2: UOQ slice 5
+B3: UOQ slice 6
+B4: UOQ previous bx site UOQ slice 7
+B5: LOQ slice 7
+B6: UOQ slice 8
+B7: LOQ slice 8
+B8: UOQ slice 8
+B9: UOQ slice 9
+B10: LOQ slice 9
+B11-B14: UC with clip ID in B13 slice 10
+B15: deep margin and skin UC slice 10
+B16: LC slice 10
+B17-B18: UIQ slice 11
+B19: LIQ slice 11
+B20: UIQ skin slice 12
+B21-B23: UIQ with 2 bx clips slice 12
+B24: LIQ slice 12
+B25: UIQ slice 13
+C. RIGHT BREAST UPPER OUTER QUADRANT
+Received fresh labeled with the patient's identification and "upper outer quadrant" is an oriented (suture
+at final anterior margin) 30 g, 11.3 x 3.7 x 0.9 cm fibrofatty tissue. Final margin is inked black. Serial
+sectioning reveals no discrete lesions. Representatively submitted in cassette C1-C3.
+D. RIGHT BREAST LATERAL FLAP
+Received fresh labeled with the patient's identification and "right breast lateral flap" is an oriented
+(suture at final anterior margin) 16 g, 6.6 x 3.9 x 1.2 cm fibrofatty tissue. Final 
+margin is inked 
+black.
+Serial sectioning reveals no discrete lesions. Representatively submitted in 
+cassettes D1-D3.
+E. LEFT BREAST AND AXILLARY TAIL
+Received fresh labeled with the patient's identification and "left breast and axillary tail" is an oriented
+1844g, 30 x 27 x 5cm modified radical mastectomy with 25 x 21cm tan-brown skin 
+ellipse and 1.5cm
+everted nipple. Ink code: anterior-superior: blue, anterior-inferior: orange, posterior-black
+. The 
+specimen
+is serially sectioned into 13 slices from medial to lateral with nipple in slices 5-9 revealing 
+a 4 × 3 ×
+2.8cm tan-white firm well-circumscribed mass in the UOQ of slices 9-10, 3cm from the deep margin. A
+dense firm ill-defined fibrous area 2cm in greatest dimension is identified in the UC of slice 
+6, 2.5cm
+from the closest posterior margin. The axillary tail is 11 x 10 x 4cm. Dissection reveals 
+18 lymph 
+nodes
+ranging from 0.2 x 0.2 x 0.2cm to 1.4 x 1 x 1cm. A portion of the specimen is submitted 
+for tissue
+procurement. Representatively submitted:
+E1: nipple slice 5
+E2: nipple slice 6
+E3: LIQ slice 3
+E4: UIQ slice 4
+E5: UC slice 5
+E6: LC slice 5
+E7-E8: nodular area UC slice 6
+E9: LC slice 6
+E10-E11: UOQ slice 7
+E12: LOQ slice 7
+E13: UOQ slice 8
+E14-E16: mass UOQ slice 9
+E17: skin and deep margin UOQ slice 9
+E18: LOQ slice 9
+E19: mass UOQ slice 10
+E20: LOQ
+E21: 5 lymph nodes
+E22: 5 lymph nodes
+E23: 3 lymph nodes
+E24: 2 lymph nodes
+E25: 1 lymph node
+E26: 1 lymph node
+E27: 1 lymph node
+HW
+F. ADDITIONAL AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and "additional axillary contents" are pieces of
+yellow-tan fat in aggregate, 3.6 x 2.8 x 0.6 cm; containing a lymph node, 0.8 x 0.6 x 0.2 cm. Submitted
+entirely:
+F1: 1 lymph node
+F2-F3: remainder of soft tissue
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- TWO REACTIVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/2).
+B. BREAST, RIGHT, MASTECTOMY:
+- ADENOID CYSTIC CARCINOMA (3 CM AGGREGATE SIZE).
+LOBULAR CARCINOMA-IN- SITU (LCIS), NUCLEAR GRADE 2.
+RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA.
+FIBROADENOMA (0.35 CM).
+- SCLEROSING ADENOSIS, USUAL DUCTAL HYPERPLASIA, APOCRINE
+AND MICROCALCIFICATIONS.
+C. BREAST, RIGHT UPPER OUTER QUADRANT, EXCISION:
+- FATTY BREAST TISSUE, NO TUMOR IS SEEN.
+D. BREAST, RIGHT LATERAL FLAP, EXCISION:
+- FATTY BREAST TISSUE, NO TUMOR IS SEEN.
+METAPLASIA
+E. BREAST AND AXILLARY TAIL, LEFT, MASTECTOMY:
+- INVASIVE LOBULAR CARCINOMA, MAINLY PLEOMORPHIC TYPE,
+SBR GRADE 3, SOLID GROWTH PATTERN.
+- TUMOR MEASURES 4CM.
+- RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA.
+- RADIAL SCAR.
+- EIGHTEEN REACTIVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/18).
+F. LYMPH NODE, ADDITIONAL AXILLARY CONTENTS, EXCISION:
+- ONE REACTIVE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: SLN #1 RIGHT AXILLA
+B: RIGHT BREAST
+C: RIGHT BREAST UPPER OUTER QUADRANT
+D: RIGHT BREAST LATERAL FLAP
+Specimen Type:
+Needle Localization:
+Mastectomy
+No
+Laterality: Right
+Present
+Invasive Tumor:
+Multifocality: No
+WHO CLASSIFICATION
+Adenoid cystic carcinoma 8200/3
+Tumor size: 3cm
+Tumor Site: Upper outer quadrant
+Margins: Negative
+Distance from closest margin: 3.8cm
+deep
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Indeterminate
+Lobular neoplasia:
+Lymph nodes:
+Lymph node status:
+LCIS
+Sentinel lymph node
+Negative 0/2
+Non-neoplastic areas: Fibroadenoma, extensive sclerosing adenosis, usual ductal hyperplasia, apocrine
+metaplasia
+DCIS not present
+ER/PR/HER2 Results
+ER: Negative
+PR: Negative
+Performed on Case:
+Pathological staging (pTN):
+PT 2 NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: E: LEFT BREAST AND AXILLARY TAIL
+F: ADDITIONAL AXILLARY CONTENTS
+Specimen Type:
+Mastectomy
+Needle Localization: No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+TSS
+Invasive lobular carcinoma 8520/3
+Tumor size: 4cm
+Tumor Site: Upper outer quadrant
+Margins: Negative
+Distance from closest margin: 3cm
+deep
+Tubular Score:
+3
+Nuclear Grade:
+3
+Mitotic Score:
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: Indeterminate
+Lobular neoplasia:
+Lymph nodes:
+LCIS
+Axillary dissection
+3
+Lymph node status:
+Negative 0/19
+Non-neoplastic areas: Sclerosing adenosis, usual ductal hyperplasia, fibroadenomatoid changes, radial
+scar
+DCIS not present
+ER/PR/HER2 Results
+ER: Negative
+PR: Negative
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+year African American with history of ADH and LCIS with radial scar of right breast. WLE done 4-
+Was followed with imaging and I was found to have right adenocystic carcinoma and ILC
+on left.
+PRE-OPERATIVE DIAGNOSIS:
+Bilateral breast cancer.
+INTRAOPERATIVE CONSULTATION:
+FSA1-FSA2: One focus with atypical cells defer to permanent.
+Diagnosis called by Dr. to Dr. at
+ADDENDUM:
+(A).
+SUMMARY OF IMMUNOHISTOCHEMISTRY/SPECIAL STAINS
+Material: Block B6
+Population: Tumor Cells
+Stain/Marker: Result: Comment:
+HERCEPTIN Negative
+The interpretation of the above immunohistochemistry stain or stains is guided by published results in
+the medical literature, provided package information from the manufacturer and by internal review of
+staining performance and assay validation within the Immunohistochemistry Laboratory of the. The use
+of one or more reagents in the above tests is regulated as an analyte specific reagent (ASR). These
+tests were developed and their performance characteristic determined by the Department of Pathology
+TSS:
+Laboratory at. They have not been cleared or approved by the U.S. Food and Drug Administration.
+The FDA has determined that such clearance or approval is not necessary.
+Special stains and/or immunohistochemical stains were performed with appropriately stained positive
+and negative controls.
+Gross Dictation:,
+Microscopic/Diagnostic Dictation:
+Final Review: Pathologist, '
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologi
+Criteria
+Yes
+ido
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy_
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Note
+Case is (ci.cle)
+Reviewer Initials
+QUALIFIED
+Date Reviewed
+tw
+DISQUALLED

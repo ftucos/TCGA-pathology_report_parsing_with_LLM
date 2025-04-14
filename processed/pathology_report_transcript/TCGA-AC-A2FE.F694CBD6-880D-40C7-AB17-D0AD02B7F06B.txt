@@ -1,0 +1,241 @@
+UUID:F694CBD6-880D-40C7-AB17-D0AD0287F06B
+TCGA-AC-A2FE-01A-PR
+Redacted
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Requested by:
+Patient
+MRN
+Date of Service
+Performing Facility)
+Ordering Provider
+Result Provider
+Report Name
+SEE REPORT
+пада
+:
+Surgical Report
+ICD-0-3
+carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, NOS
+€50.96/10/11
+ADDENDUM INFORMATION
+PROCEDURE DATE
+ADDENDUM REPORT #1: COMMENT:
+Immunoevaluation using
+Assisted Quantitative Image Analysis has been
+completed and is summarized under line 10 of the diagnosis below.
+T:
+ADDENDUM REPORT #1; DIAGNOSIS:
+A, B/BPC & C.
+RIGHT BREAST, MASTECTOMY WITH SENTINEL LYMPH NODE BIOPSY AND
+FOLLOW UP AXILLARY DISSECTION:
+1 - 9. SEE ORIGINAL DIAGNOSIS
+10.
+ANCILLARY STUDIES: SEE BELOW
+ASSAY RESULTS
+Staining Intensity % Positive Avg
+Prognostic Significance
+Favorable
+Favorable
+Test
+ER
+N/A
+66%
+PR
+N/A
+7%
+Her2/neu
+0.4.
+N/A
+Normal Limit
+K1-67
+N/A
+11%
+Borderline
+☐ REFERENCE RANGES
+Test
+Favorable
+Borderline
+Unfavorable
+ER
+>5%.
+<5%
+PR
+>5%
+<5%
+Her2/neu
+<2.0
+>2.0
+Ki-67
+<10%
+>10% - <20%
+>20%
+A-MALIGNANT
+MD
+T:
+(Electronic Signature)
+SURGICAL PATHOLOGY REPORT
+PROCEDURE DATE:
+SPECIMEN DESCRIPTION:
+*======
+REZERWI
+A. RIGHT BREAST
+B. RIGHT AXILLARY SENTINEL LYMPH NODE, BPC
+C.
+#883
+RIGHT AXILLARY NODE
+PRE-OPERATIVE DIAGNOSIS:
+Right breast carcinoma
+POST-OPERATIVE DIAGNOSIS:
+RECORRERES=XKA
+Same, pending pathology consultation
+GERS
+CLINICAL INFORMATION:
+===============
+=====
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary
+Cases (cle)
+Reviewer li
+Noted
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+6/10/11 60/3
+*
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Requested by:
+Patient
+MRN
+Date of Service
+Performing Facility:
+Ordering Provider
+Result Provider
+Report Name
+Surgical Report
+Right breast, upper outer quadrant, needle aspirate biopsy diagnosed as
+fibrocystic change, proliferative ductal epithelium, fibrosis, and scattered
+inconspicuous atypical cells suspicious for lobular carcinoma,
+1
+INTRAOPERATIVE CONSULTATION:
+BPC DIAGNOSIS: "(Smear) Lymph node positive for carcinoma" by Dri
+GROSS DESCRIPTION:
+A. The specimen consists of the right breast, measuring 21 x 20 x 5.5 cm and
+weighing 1067 grams. No axillary tail is attached. No orientation is
+provided. The breast is covered with an ellipse of tan-white skin, measuring
+17 x 7 cm. The nipple is retracted and measures 0.8 × 0.8 × 0.4 cm. No
+discrete ulceration, fissure, or exudate is identified. The nipple is
+surrounded by unremarkable tan-brown areola. Approximately 2.2 cm away from
+the nipple is a poorly defined, slightly raised tan-brown area, measuring 0.7
+× 0.6 cm. No discrete scar is identified. The deep surface reveals a large
+mechanical defect, measuring 5 x 2 cm and 3 cm in depth. The specimen appears
+to have been sectioned by the surgeon. The deep surface is inked black and
+the specimen is serially sectioned. The sections show a very poorly
+circumscribed, tan-white fibrotic area, measuring approximately 4.5 x 3.5 x
+3.5 cm. The fibrotic area reveals a well defined irregular mass, measuring
+2.5 x 2.0 x 1.6 cm and a hemorrhagic area, measuring 0.7 cm in greatest
+dimension. The mass is composed of tan-white firm tissue and is approximately
+1.4 cm from the deep margin. One possible intramammary lymph node, measuring
+1.2 cm in greatest dimension, is identified. The lymph node is bisected and
+no discrete neoplastic involvement is present. The surgical resection margins
+are unremarkable. Separately received in the same container are five portions
+of irregular tan-yellow adipose tissue, measuring 5 x 5 x 1 cm in aggregate.
+No discrete lesion or lymph node is identified in the separate portions.
+Representative sections are submitted in thirteen cassettes as follows:
+cassette 1 - mass with deep margin; cassettes 2 and 3 - additional sections of
+mass; cassettes 4 through 6 - random sections from the fibrotic area, away
+from the mass; cassettes 7 through 10 - sections from the four quadrants;
+cassette 11 lymph node; cassette 12 - nipple and tan-brown area of the skin;
+cassette 13 random sections from the separate portions.
+B/BPC. The specimen consists of one portion of tan-yellow adipose tissue,
+measuring 5 x 4 x 2 cm. The specimen has been bisected in pathology
+consultation. The specimen is serially sectioned and four possible lymph
+nodes ranging from 0.5 cm to 2.5 cm in greatest dimension, are identified.
+The two largest lymph nodes appear to be involved by neoplasm. Representative
+sections are submitted in three cassettes as follows: cassette 1 - two intact
+lymph nodes; cassette 2 - one lymph node; cassette 3 - one lymph node.
+C. The specimen consists of multiple portions of tan-yellow adipose tissue,
+-
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Requested by:
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name
+: Surgical Report
+measuring 8 × 8 × 2 cm in aggregate. On palpation, fifteen possible lymph
+nodes, ranging from 0.2 cm to 1.5 cm in greatest dimension, are identified.
+Three lymph nodes are grossly involved by neoplasm. Representative sections
+are submitted in four cassettes as follows: cassette 1 six intact lymph
+nodes: cassette 2 - one bisected lymph node; cassette 3 - three lymph nodes:
+cassette 4 - five intact lymph nodes.
+MICROSCOPIC DESCRIPTION:
+-
+A. B/BPC, & C. Serial sections in twenty slides are examined. Sections from
+specimen A show breast within an extensively infiltrating mammary lobular
+carcinoma, focally with pleomorphic features. Tumor is widely infiltrative;
+closest approach to deep margin is approximately 9 mm. Maximum tumor size is
+difficult to assess on glass slides alone, but combining the grossly evident
+tumor mass with the additional fibrotic areas, all of which are involved by
+carcinoma of the gross impression of up to 4.5 cm is felt to be accurate as a
+true assessment of the infiltrative tumor. The intramammary lymph node
+sampled in block All, as well as seventeen additional lymph nodes submitted as
+parts B/BPC & C are all extensively involved by metastatic carcinoma
+morphologically identical to the mammary primary. There is also evidence of
+extranodal spread involving the soft tissue surrounding several of the lymph
+nodes.
+T:
+====
+FINAL DIAGNOSIS: ======================
+A. B/BPC & C.
+RIGHT BREAST! MASTECTOMY WITH SENTINEL LYMPH NODE BIOPSY AND
+FOLLOW UP AXILLARY DISSECTION:
+1.
+2.
+TUMOR TYPE: INFILTRATING CARCINOMA, LOBULAR PHENOTYPE
+NOTTINGHAM PROGNOSTIC INDEX/GRADE:
+II (TUBULE SCORE - 3;
+NUCLEAR SCORE - 3;
+MITOTIC SCORE - 1)
+3. MAXIMUM INVASIVE TUMOR SIZE: APPROXIMATELY 4.5 CM. GROSS
+PLUS MICROSCOPIC DATA
+COMBINED; SEE DESCRIPTION
+4.
+PERCENT DCIS: NOT APPLICABLE
+5.
+LYMPHVASCULAR INVASION: NONE SEEN
+6.
+DISTANCE TO CLOSEST MARGIN: 9 MM, DEEP. BLOCK A1
+7. MICROCALCIFICATIONS: NOT APPLICABLE
+8. LYMPH NODES: EIGHTEEN OF EIGHTEEN LYMPH NODES INVOLVED BY
+METASTATIC CARCINOMA WITH EXTRANODAL SPREAD
+☐ OF TUMOR.
+9. TNM STATUS: pT3.N3a,MX
+10. ANCILLARY STUDIES: IMMUNOHISTOCHEMICAL EVALUATION IS
+PENDING; AN ADDENDUM REPORT WILL BE
+Patient
+MRN
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Date of Service
+Performing Facility
+Ordering Provider
+Requested by:
+Result Provider
+Report Name
+Surgical Report
+ISSUED
+COMMENT: The fine needle aspiration report from
+is reviewed in conjunction
+with the slides.
+A-MAL IGNANT
+1
+(Electronic Signature)
+DATE AND TIME OF REPORT:

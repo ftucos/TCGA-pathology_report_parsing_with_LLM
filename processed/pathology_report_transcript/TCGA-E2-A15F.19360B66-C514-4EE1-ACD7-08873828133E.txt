@@ -1,0 +1,210 @@
+TSS
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+tw
+12/8/10
+Pasth
+CQCF Site: breast, Nos
+Site Code: breast, lupper outer
+'C50.9
+quadrant
+050.4
+UUID:19360B66-C514-4EE1-ACD7-08873828133E
+TCGA E2-A15F-01A-PR
+Redacted
+SPECIMENS:
+A. UPPER OUTER QUADRANT LEFT BREAST
+B. LEFT BREAST CANCER
+C. SLN #1
+D. SLN #2
+E. SLN #3
+SPECIMEN(S):
+A. UPPER OUTER QUADRANT LEFT BREAST
+B. LEFT BREAST CANCER
+C. SLN #1
+D. SLN #2
+E. SLN #3
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+A- upper outer quadrant left breast: Lesion 2 mm from posterior margin.
+B- left breast cancer: Tumor at anterior margin.
+TPC, TPD, TPE-sentinel lymph node #1, #2, #3: No tumor seen.
+Diagnoses called by Dr. to Dr. at
+GROSS DESCRIPTION:
+(C, D, E) and
+A. UPPER OUTER QUADRANT LEFT BREAST
+1. (A, B).
+Received fresh labeled with the patient's identification and "upper outer quadrant left breast" is an oriented (single-
+anterior, double-lateral) 18 g. 2.5 x 2.5 x 2 cm needle localized lumpectomy with radiograph. Ink code: Anterior-
+yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. Specimen is serially sectioned from
+lateral to medial in to 8 slices revealing a 0.5 x 0.4 x 0.3 cm firm fibrous area with hemorrhage that is closest to the
+posterior margin at 0.2 cm. Representatively submitted:
+A1: lateral margin, perpendicular sections
+A2: slice 3, posterior superior
+A3: slice 4, anterior/superior
+A4: slice 4, posterior superior (mass)
+A5: slice 4, anterior/inferior
+A6: slice 6, posterior inferior
+A7: slice 5, superior (mass)
+A8: slice 5, inferior
+A9: slice 6, inferior
+A10: slice 7, superior
+A11: slice 7, inferior
+A12: medial margin, perpendicular sections
+B. LEFT BREAST CANCER
+Received fresh labeled with the patient's identification and "left breast cancer" is an oriented (single-anterior, double-
+lateral) needle localized lumpectomy with radiograph. Ink code: Anterior-yellow, posterior-black, medial-green,
+lateral-right, superior-blue, inferior-orange. Specimen is serially sectioned from medial to lateral into 7 slices
+revealing a 1.8 x 1.5 x 1.5 cm firm tan stellate mass that is closest to the anterior margin at less than 0.1 cm. Tissue
+is procured. Representatively submitted:
+B1-B2: medial margin, perpendicular sections
+B3: slice 2, anterior/inferior
+B4: slice 3, mid section
+B5: slice 3, anterior/inferior
+B6: slice 4, anterior/superior (mass)
+B7: slice 4, posterior superior
+B8: slice 4, anterior/inferior
+B9: slice 4, posterior inferior
+B10: slice 5, anterior/superior (mass)
+B11: slice 5, posterior superior
+B12: slice 5, anterior-inferior (mass)
+B13: slice 5, posterior inferior
+B14: slice 6, anterior/inferior
+B15: lateral margin, perpendicular sections
+C. SLN #1
+Received fresh labeled with the patient's identification and "SLN #1" is a 2 x 1.5 x 1 cm piece of adipose tissue
+containing a 1.5-cm lymph node. It is sectioned and a touch prep is performed; lymph node is submitted entirely in
+cassette C1.
+D. SLN #2
+Received fresh labeled with the patient's identification and "SLN #2" is a 1.5 x 1 x 0.3 cm piece of adipose tissue
+containing a 0.5-cm lymph node. A touch prep is performed in the lymph node is submitted entirely in cassette D1.
+E. SLN #3
+Received fresh labeled with the patient's identification and "SLN #3" is a 2x2 x 1 cm piece of adipose tissue
+containing a 2-cm lymph node. Specimen is sectioned, touch prep is performed, submitted entirely in cassette E1.
+DIAGNOSIS:
+A. BREAST, LEFT OUTER QUADRANT:
+-
+BREAST TISSUE
+RADIAL SCAR
+- PREVIOUS BIOPSY SITE.
+- NO MALIGNANCY IS SEEN.
+B. BREAST, LEFT, EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE II, MEASURING 0.5-CM.
+- DUCTAL CARCINOMA-IN-SITU NUCLEAR GRADE 2/3, SOLID TYPE.
+- LYMPHOVASCULAR INVASION IS SEEN.
+- TUMOR IS VERY CLOSE TO THE ANTERIOR MARGIN (<1 MM).
+- PREVIOUS BIOPSY SITE CHANGES.
+SEE SYNOPTIC REPORT.
+C. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- ONE REACTIVE LYMPH NODE.
+- NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+D. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- ONE REACTIVE LYMPH NODE.
+NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+E. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+ONE REACTIVE LYMPH NODE.
+- NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: B: LEFT BREAST CANCER
+Specimen Type:
+Needle Localization:
+Excision
+Yes For mass
+Laterality: Left
+Present
+Multifocality: No
+Invasive Tumor:
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.8cm
+Additional dimensions:
+1.5cm x 1.5cm
+Tumor Site:
+Upper outer quadrant
+Margins:
+Distance from closest margin:
+Negative
+Less than 0.1cm
+anterior
+Tubular Score: 3
+Nuclear Grade:
+2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade:
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+2
+Present
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Negative 0/3
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 5%
+DCIS Type:
+Solid
+DCIS Location: Associated with invasive tumor
+Nuclear grade: Low
+Necrosis:
+Absent
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative
+Performed on Case:
+outside core biopsy
+PT 1c NO
+Pathological staging (pTN):
+CLINICAL HISTORY:
+1) upper outer quadrant radial scar by core biopsy
+2) 12 o'clock invasive cancer
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+7
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+rate of Distant Recurrence at 10 years of 6%
+ER Score: 11.4 Positive
+PR Score: 9.7 Positive
+Her2 Score: 8.9 Negative
+Interpretation:
+ER Negative < 6.5
+PR Negative < 5.5
+Positive >= 6.5
+Positive >= 5.5
+Her2 Negative <10.7
+Positive >=11.5
+Equivocal = 10.7-11.4
+report for further information.
+7 in the clinical validation study had an average
+See separate
+Test performed at:
+The maximum tumor size from the gross description and all slides of the tumor is 1.8cm,
+The smaller measurement 0.5cm in the diagnosis refers to a partial tumor measurement
+from a representative slide of the tumor.
+The maximum tumor size 1.8cm is the total final measurement used for the cancer staging
+in this case. The stage remains unchanged pT1cpNO
+Case discussed with Dr.
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+ase is (circle):
+Reviewer Initials
+UALIFIED
+DISQUAL
+Date Reviewed:
+Yes
+No

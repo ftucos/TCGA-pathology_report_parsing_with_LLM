@@ -1,0 +1,79 @@
+UUID:5E997487-9A03-4723-81E6-FA0B557D8FDF
+TCGA-D8-A27R-01A-PR
+Internal invoice No.
+Patient: XXX
+108-0-3
+carcinoma, infiltrating duct, NOS 8500/3
+Redacted
+Site, breast, Nos
+C50.9
+original
+Examination: Histopathological examination
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+Material: Total organ resection - right breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+لسلام
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Liscrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Revinrentia
+5/19/11
+page 1/2
+Examination No.
+Yes
+No
+QUALIFIED 7 DISQUALIFIED
+Date Reviewed:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast 7
+Examination performed on
+Macroscopic description:
+Right breast sized 14.4 x 11.2 x 4.2 cm removed along with axillary tissues sized 8 x 5 x 2 cm and a skin flap of 12,2 x
+8.8 cm. Weight 330 g.
+Tumour sized 3.2 x 2.3 x 2.6 cm found on the boundary of upper quadrants, located 1.6 cm from the upper
+boundary, 0.5 cm from the base and 1.2 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG3 (3 + 3 + 3 / 20 mitoses/10 HPF - visual area: 0.55mm).
+Numerous foci of carcinoma ductale in situ DCIS found within the tumour (solid type with high nuclear atypia and
+comedo necrosis with 
+calcinations, 20% of the tumour volume).
+Invasio carcinomatosa vasovum massiva.
+Emboliae carcinomatosae mamillae.
+Glandular texture showing parenchyma of normal structure.
+In situ lesions removed by 0.1 cm from the base
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodis (No XI/XI).
+Infitratio telae perinodalis.
+Emboliae carcinomatosae vasorum.
+Test result:
+Incl. Examination
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast
+Metastases carcinomatosae in lymphonodis axillae. Cancer metastases in axillary lymph nodes. (No XI/XI) (NHG3,
+pT2, pN3a).
+Invasio carcinomatosa vasorum massiva. Massive vascular invasion.
+Examination performed on
+Compliance validated by:
+Patient: XXX
+Examination: Histopathological examination
+page 2 / 2
+PESEL: XXX
+Gender: F
+Examination No.:
+Examination performed on
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% neoplastic cell nuclei.
+HER2 protein stained with Ventana's Pathway HER-2/neu (4B5) Rabbit Monoclonal Antibody. Score=2+, FISH
+verification recommended.
+dr
+Compliance validated by

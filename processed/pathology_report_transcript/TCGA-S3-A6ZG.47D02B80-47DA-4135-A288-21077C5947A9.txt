@@ -1,0 +1,367 @@
+MRN:
+Patient:
+Admission Date:
+Ordering Physician:
+Collected Date/Time:
+Received Date/Time:
+UUID:47D02B80-47DA-4135-A288-21077C5947A9
+TCGA-S3-A6ZG-01A-PR
+Redacted
+Sex/DOB:
+Discharge Date:
+Female
+Pathology Addendum Report
+Accession Number:
+Addendum Report
+Immunohistochemical studies were performed on formalin fixed, paraffin-embedded tissue (Blocks A1, A2) with adequate positive
+and negative control sections.
+Immunohistochemical stains for keratins AE1/AE3 are negative for carcinoma.
+The performance characteristics of these antibodies were determined by the
+They have not been cleared or approved by the U.S. Food and Drug Admunistration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+(Electronic signature)
+Verified:
+Collected Date/Time:
+Received Date/Time:
+съск
+ICDO
+Carcinoma, infiltrating 10bular
+coding
+changed
+11/20/13
+bath
+Surgical Pathology Report
+Accession Number:
+852013
+852213
+Carcinoma ductal and lobular
+Site Brant NOS C509 08/2413
+Final Diagnosis
+A. LEFT SENTINEL LYMPH NODES, EXCISION:
+- METASTATIC CARCINOMA (MACROMETASTASIS) IN ONE OF THREE LYMPH NODES WITH FOCAL
+EXTRACAPSULAR EXTENSION (1/3).
+B. LEFT BREAST, EXCISION:
+Printed by:
+Copied to:
+Distribute to:
+Page 1 of 6
+Print Date/Time:
+Patient Locations:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB:
+Female
+-
+INVASIVE MIXED DUCTAL AND LOBULAR CARCINOMA, GRADE 2, MEASURING 2.1 CM IN GREATEST
+DIMENSION, EXTENDING TO 0.5 MM FROM THE MEDIAL AND TO 1 MM FROM THE POSTERIOR RESECTION
+MARGINS OF THE SPECIMEN, WITH LYMPHOVASCULAR AND PERINEURAL INVASION.
+· CARCINOMA IN-SITU WITH MIXED DUCTAL AND LOBULAR FEATURES, NUCLEAR GRADE 2, WITH FOCAL
+NECROSIS, EXTENDING TO 1.8 MM FROM THE POSTERIOR RESECTION MARGIN OF THE SPECIMEN.
+ATYPICAL LOBULAR HYPERPLASIA.
+-
+SEE SYNOPTIC REPORT AND SPECIAL STAINS SECTION.
+(Electronic signature)
+Verified
+Synoptic Report
+SPECIMEN:
+Partial breast
+PROCEDURE:
+Excision without wire-guided localization
+LYMPH NODE SAMPLING:
+Sentinel lymph node(s)
+SPECIMEN INTEGRITY:
+Single intact specimen (margins can be evaluated)
+SPECIMEN SIZE:
+Greatest dimension: 5 cm
+SPECIMEN LATERALITY:
+Left
+TUMOR SITE: INVASIVE CARCINOMA:
+Not specified
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA:
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.1 cm
+TUMOR FOCALITY:
+Single focus of invasive carcinoma
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Skin is not present
+DUCTAL CARCINOMA IN SITU (DCIS):
+DCIS is present (THE CARCINOMA IN SITU IS MIXED, DUCTAL AND LOBULAR)
+Extensive intraductal component (EIC) negative
+NUCLEAR GRADE:
+Grade II (intermediate)
+NECROSIS:
+Present, focal (small foci or single cell necrosis)
+LOBULAR CARCINOMA IN SITU (LCIS):
+Present
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive carcinoma with ductal and lobular features ("mixed type carcinoma")
+GLANDULAR (ACINAR)/TUBULAR DIFFERENTIATION:
+Page 2 of 6
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Score 3: <10% of tumor area forming glandular/tubular structures
+NUCLEAR PLEOMORPHISM:
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape, occasionally with very
+large and bizarre forms
+MITOTIC COUNT:
+Score 1
+Number of mitoses per 10 high-power fields: 4
+Diameter of microscope field: 0.55 mm
+OVERALL GRADE:
+Grade 2: scores of 6 or 7
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: MEDIAL 0.5 mm
+Distance from superior margin: >2 mm
+Distance from inferior margin: >2 mm
+Distance from anterior margin: >2 mm
+Distance from posterior margin: 1 mm
+Distance from medial margin: 0.5 mm
+Distance from lateral margin: >2 mm
+Margins uninvolved by DCIS (if present) (THE IN SITU CARCINOMA IS MIXED, DUCTAL AND LOBULAR)
+Distance from closest margin: posterior 1.8 mm
+Distance from superior margin: >2 mm
+Distance from inferior margin: >2 mm
+Distance from anterior margin: >2 mm
+Distance from posterior margin: 1.8 mm
+Distance from medial margin: >2 mm
+Distance from lateral margin: >2 mm
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE BREAST;
+No known presurgical therapy
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE LYMPH NODES:
+No known presurgical therapy
+LYMPH-VASCULAR INVASION:
+Present
+DERMAL LYMPH-VASCULAR INVASION:
+No skin present
+LYMPH NODES:
+Number of sentinel lymph nodes examined: 3
+Total number of lymph nodes examined (sentinel and nonsentinel): 3
+Number of lymph nodes with macrometastases (>0.2 cm): 1
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor cells (less than or equal to 0.2 mm and less than or equal to 200 cells): 0
+EXTRANODAL EXTENSION:
+Present (focal)
+METHOD OF EVALUATION OF SENTINAL LYMPH NODES:
+H&E, multiple levels
+Immunohistochemistry
+Page 3 of 6
+Print Date/Tim<
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB:
+Female
+PRIMARY TUMOR (INVASIVE CARCINOMA (pT):
+pT2: Tumor >20 mm but less than or equal to 50 mm in greatest dimension
+REGIONAL LYMPH NODES (pN):
+pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+DISTANT METASTASIS (M):
+Not applicable
+ESTROGEN RECEPTOR:
+Performed on this specimen
+Immunoreactive tumor cells present (greater than or equal to 1%)
+Quantitation: 90%
+PROGESTERONE RECEPTOR:
+Performed on this specimen
+Immunoreactive tumor cells present (greater than or equal to 1%)
+Quantitation: 80%
+HER2/NEU IMMUNOPEROXIDASE STUDIES:
+Performed on this specimen
+Negative (Score 0)
+FLUORESCENCE IN SITU HYBRIDIZATION (FISH) FOR HER2/NEU:
+Not performed
+MICROCALCIFICATIONS:
+Present in invasive carcinoma
+Source of Specimen
+A
+Lymph Nodes, Sentinel Left
+B
+LT Lumpectomy
+Clinical Information
+Palpable mass upper outer quadrant, FNAB positive for lumpectomy and sentinel node biopsy
+PRE-OP DIAGNOSIS: Left breast cancer
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Left lumpectomy and sentinel node biopsy
+Gross Description
+Specimens received in 2 parts:
+A.The specimen is labeled "LEFT SENTINEL NODES" and is received unfixed. It consists of 3 lymph node measuring 0.5 x 0.5 x
+0.5-2.2 x 1.5 x 1 cm. Sectioned and entirely submitted as follows:
+A1 = bisection of a single lymph node
+A2 = single lymph node
+A3-A5 = entire sections of single lymph node
+Time specimen was removed from the patient:
+Time specimen was placed in formalin
+Ischemic time: 15 minutes
+Page 4 of 6
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+B. The specimen is labeled "LEFT LUMPECTOMY" is received unfixed. (Specimen is in formalin more than 6 hours and less then
+48 hours). It consists of an ovoid piece of yellow-tan fatty tissue with 3 sutures designate 1 silk anterior, 2 silk medial margin and 3
+silk posterior margin. Specimen measuring 5 x 4 x 4 cm. The specimen is oriented and inked as follow: Anterior-yellow, posterior-
+black, superior-orange, inferior-red, medial-blue, and lateral margin with green color. On sectioning cut surface shows 1.5 x 1 x 1 cm
+and irregular ill-defined mass without any area of hemorrhage or necrosis. This mass is 0.5 cm from anterior, 0.3 cm from posterior,
+1.0 cm from superior, 1.2 cm from inferior, 1.0 cm from medial and 2.0 cm from the lateral margin of resection.
+Representative sections are submitted as follows:
+B1-B7 mass with closest anterior, posterior, superior, and inferior margin
+B8-B9 = representative sections medial margin
+B10= representative sections lateral margin
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 30 minutes
+Dictated
+Special Stains / Slides
+IMMUNOHISTOCHEMICAL EVALUATION OF ESTROGEN RECEPTORS, PROGESTERONE RECEPTORS, AND
+HER-2NEU IN INVASIVE MAMMARY CARCINOMA.
+ESTROGEN RECEPTORS: 90 %, POSITIVE.
+PROGESTERONE RECEPTORS: 80 %, POSITIVE.
+STAINING INTENSITY: MODERATE
+HER-2NEU: SCORE 0, NEGATIVE.
+Immunohistochemical studies were performed on formalin fixed paraffin embedded tissue (Block B2) using the following monoclonal
+antibodies: Estrogen receptor (Clone SP1), Progesterone receptor (Clone 1E2) and Her-2neu
+Clone 4B5); control sections
+for HER-2Neu are provided within a kit (score 0 MCF-7, score 1+ T-47D, score 2+ MDA-MB-453, score 3+ BT-474). Detection
+system used: polymer. Primary antibodies, reagents and control sections for HER-2neu are all provided by
+All controls show appropriate reactivity.
+Reactivity of Estrogen and Progesterone receptors is determined based on the percentage of positively stained nuclei of tumor
+cells. Reference values (CAP accreditation program checklist 2010 and guidelines on webpage):
+Positive: nuclear staining in 1% or greater than 1% of invasive carcinoma cells
+Negative nuclear staining in less than 1% of invasive carcinoma cells
+Staining intensity: is reported as weak, moderate or strong.
+HER-2neu reactivity is reported applying the CAP scoring guidelines (CAP accreditation program checklist 2010 and guidelines on
+webpage):
+Score 0 = Negative: No immunoreactivity, or faint weak immunoreactivity in <10% of tumor cells but only a portion of the
+membrane is positive..
+Page 5 of 6
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB:
+Female
+1
+Score 1 = Negative: Faint weak immunoreactivity in 10% or >10% of tumor cells but only a portion of the membrane is positive.
+Score 2+ = Equivocal: Weak to moderate complete membrane immunoreactivity in >10% of tumor cells or
+circumferential intense membrane staining in <30% of cells.
+Score 3+= Positive: More than 30% of the tumor cells must show circumferential intense and uniform membrane staining. A
+homogeneous (chicken wire) pattern should be present.
+In the evaluation of the score the pathologist is assisted by the computerized
+Equivocal results for HER-2neu (Score 2+) will be subsequently followed by a reflex dual-color ISH testing.
+Immunohistochemical studies were performed on formalin fixed, paraffin-embedded tissue (Block B6, B8) with adequate positive and
+negative control sections.
+The invasive carcinoma shows scattered positivity for E-cadherin. The results support the above interpretation.
+Also the results of a P63 stain support hte above findings.
+The nerformance characteristice of these antibodies were determined by the
+hey have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+The performance characteristics of these antibodies were determined by the
+. They have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+Citan approval is not necessary. Inese tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+Tissue Code
+Page 6 of 6
+11/20/13
+Per TSS, after further
+review
+case
+to
+A new
+They determined this
+be
+lobular carcinoma.
+Form has
+dx discrepancy
+to support
+This
+все
+been submitted
+Change.
+Per Tss pathologic diagnostic
+discrepancy
+form,
+the TCGA tumor
+BCR
+is ductal carcinoma.
+Criteria
+w 7/10/13
+Diagnosis Discrepancy
+Prinary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nate
+Case is (circle):
+Reviewer Initia's
+Yes
+No
+L'ISQUALIFIED
+QUALIFIED I
+Date Reviewed: 7/10/2013
+Print Date/Time:
+TCGA Pathologic Diagnosis Discrepancy Form 4.05
+dy Subject
+Study/Site:
+Event:
+Interviewer:
+TCGA Breast Invasive Carcinoma -
+PathDiscrepancy
+Person ID:
+N/A
+N/A
+Age:
+Date of
+Birth:
+Sex:
+F
+Tumor Identifier Provided on Initial Case Quality Control
+Form
+Pathologic Diagnosis Provided
+on Initial Pathology Report
+Invasive mixed ductal
+and lobular carcinoma
+Histologic features of the sample provided for TCGA, as
+reflected on the CQCF
+Provide the tumor identifier documented on the initial case quality control form for
+this case.
+Provide the diagnosis/ histologic subtype(s) documented on the initial pathology report for
+this case. If the histology for this case is mixed, provide all listed subtypes.
+Lobular
+Carcinoma
+Provide the histologic features selected on the TCGA Case Quality Control
+Form completed for this case.
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for the
+discrepancy between the pathology
+report and the TCGA Case Quality
+Control Form
+Sample sent to TCGA was stained by IHC for E- Provide a reason describing why the diagnosis on the initial
+cadherin, the pattern of reactivity was absent to very pathology report for this case is not consistent with the
+incompletely weak, consistent with a lobular
+diagnosis selected on the TCGA Case Quality Control Form.
+phenotype.
+Name of TSS Reviewing Pathologist or Biorepository
+Director
+Provide the name of the pathologist who reviewed this case for
+TCGA.

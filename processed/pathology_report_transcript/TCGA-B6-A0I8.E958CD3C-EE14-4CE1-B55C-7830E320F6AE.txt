@@ -1,0 +1,48 @@
+Patient:
+1CD-0-3
+Carcinoma, infiltrating duct. Nos 8500/3
+Path: Site Code breast, upper quadrant C50.2
+breast Nos
+050.9
+CQCF:
+Surgical Pathology: Finał
+Surg Path
+CLINICAL HISTORY:
+History of recurrent left breast carcinoma with probable involvement of right
+breast. S/P left MRM and indurated firm area UIQ of right breast on physical
+exam. Rule out right breast recurrent carcinoma.
+GROSS EXAMINATION:
+A. "Right breast biopsy", received fresh. Two pieces of tissue measuring 3.6
+x 2.1 x 1.5 cm and 2.2 x 1.7 x 0.7 cm. The surgeon has stated the margins on
+the piece of tissue are not important. Portions of the specimen have been
+previously submitted for retinoic acid receptors and ER/PR evaulation. Both
+fragments are composed of firm pink-tan tissue embedded within yellow
+fibroadipose tissue. Remaining tissue is sectioned and submitted in Blocks
+Al-A4.
+DIAGNOSIS:
+A. "RIGHT BREAST BIOPSY":
+INFILTRATING DUCTAL CARCINOMA, NSABP AND NUCLEAR GRADE 3, HISTOLOGIC GRADE
+3. SURGICAL MARGINS NOT EVALUATED.
+eBrowser Result for
+Verified by:"
+(Electronic Signature)
+Date Signed:
+1/17/11
+M
+UUID:E958CD3C-EE14-4CE1-855C-7830E320F6AE
+TCGA-B6-A018-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (cincle):
+Reviewer a
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: d 311
+1 of 1

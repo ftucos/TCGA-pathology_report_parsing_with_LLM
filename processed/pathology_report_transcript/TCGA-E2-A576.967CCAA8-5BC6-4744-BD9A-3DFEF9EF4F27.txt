@@ -1,0 +1,158 @@
+UUID:967CCAA8-5BC6-4744-BD9A-3DFEF9EF4F27
+TCGA-E2-A576-01A-PR
+Redacted
+Date of Surgery:
+SPECIMEN(S):
+A. EXCISIONAL BIOPSY LEFT BREAST NEEDLE LOCALIZED
+B. SLN #31 LEFT AXILLA
+C. SLN #2 LEFT AXILLA
+CLINICAL HISTORY:
+100-0-3
+carcinoma, infiltrating lobulaw, No: 852013
+Site: breast, Nos
+650.9 lu 11/25/12
+Left breast infiltrating lobular carcinoma with Nottingham grade 2; LCIS with
+comedonecrosis at the 2:00 position. Ultrasound revealed 12 mm x 15 mm 9 mm lesion.
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+A-excisional biopsy left breast needle localized: Lesion identified 0.5 cm (gross) from
+superior margin. Diagnosis called by Dr. to Dr.
+DIAGNOSIS:
+A. BREAST, LEFT, NEEDLE LOCALIZATION WIDE LOCAL EXCISION:
+MULTIFOCAL INVASIVE LOBULAR CARCINOMA, NOTTINGHAM
+"
+GRADE 2.
+- 1.7 CM AND 0.1 CM IN SIZE.
+- DUCTAL CARCINOMA IN SITU (DCIS), MICROPAPILLARY TYPE,
+NUCLEAR GRADE 2, WITH MICROCALCIFICATIONS, MINOR
+COMPONENT.
+-
+LOBULAR CARCINOMA IN SITU (LCIS), PLEOMORPHIC AND CLASSIC
+TYPES.
+- MARGINS, NEGATIVE FOR INVASIVE CARCINOMA, DCIS, AND
+PLEOMORPHIC LCIS.
+- VESSELS WITH MICROCALCIFICATIONS.
+NOTE: The size of the tumor (1.7 cm) was determined by measuring the tumor in slides
+A4 and A5. A 0.1 cm non-contiguous focus of invasive carcinoma was also seen in slide
+A12.
+B. SENTINEL LYMPH NODE 1, LEFT AXILLA, BIOPSY:
+- FOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).
+C. SENTINEL LYMPH NODE 2, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes
+Laterality: Left
+Invasive Tumor: Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size:
+1.7cm
+Tumor Site:
+2:00
+Margins:
+Negative
+Distance from closest margin: 0.8cm
+superior
+Tubular Score:
+3
+Nuclear Grade:
+3
+Mitotic Score:
+1
+Modified Scarff Bloom Richardson Grade: 2
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+LCIS
+Lymph nodes: Sentinel lymph node
+Lymph node status: Negative 0/5
+DCIS present
+Margins uninvolved by DCIS: 0.7 cm from the posterior margin
+DCIS Quantity:
+DCIS Type:
+Estimate 3%
+Micropapillary
+DCIS Location: Separate from invasive tumor mass
+DCIS Size (pure DCIS only):
+Nuclear grade: Intermediate
+Absent
+Necrosis:
+Location of CA++:
+0.3cm
+DCIS
+Benign epithelium
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+pT 1c NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+SUMMARY OF IMMUNOHISTOCHEMISTRY/SPECIAL STAINS
+Material: Block A3
+Population: Tumor Cells
+Stain/Marker:
+ECADHERIN
+Result:
+Negative
+Comment:
+The interpretation of the above immunohistochemistry stain or stains is guided by published results in the medical literature, provided
+package information from the manufacturer and by internal review of staining performance and assay validation within the
+Immunohistochemistry Laboratory of the
+e use of one or more reagents in the above tests is
+regulated as an analyte specific reagent (ASR). These tests were developed and their performance characteristic determined by the
+Department of Pathology Laboratory at
+They have not been cleared or approved by the U.S. Food and
+Drug Administration. The FDA has determined that such clearance or approval is not necessary.
+Special stains and/or immunohistochemical stains were performed with appropriately stained positive and/or negative
+controls.
+GROSS DESCRIPTION:
+A. EXCISIONAL BIOPSY LEFT BREAST NEEDLE LOCALIZED
+Received fresh labeled with the patient's identification and "excisional biopsy left breast
+needle localized" is a previously inked, oriented (single stitch-anterior, double stitch-
+lateral, triple stitch-superior) 54 g, 3.1 x 3 x 2.9 cm needle localized excision with
+radiographs. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-right,
+superior-blue, inferior-orange. The specimen is serially sectioned from lateral to medial
+into 7 slices revealing a 1.5 x 1.4 x 1.2 cm firm tan stellate mass that is closest to the
+superior margin at 0.5 cm and a biopsy clip in slice 3. Tissue is procured; representatively
+submitted as per the attached diagram (time placed in formalin):
+Al: perpendicular sections of lateral margin
+A2: slice 2, mid section
+A3: slice 3, anterior superior with mass
+A4: slice 4, anterior superior with mass
+A5: slice 4, posterior superior with mass
+A6: slice 4, anterior inferior
+A7: slice 4, mid inferior
+A8: slice 4, posterior inferior
+A9: slice 5, mid superior
+A10: slice 5, posterior superior
+All: slice 5, mid section
+A12: slice 5, mid inferior
+A13: slice 6, anterior superior
+A14: slice 6, anterior inferior
+A15: perpendicular sections of medial margin
+B. SLN #1 LEFT AXILLA
+Received fresh labeled with patient's identification and "SLN #1 left axilla" is a piece of
+yellow-tan soft tissue, 6.2 x 3.1 x 1.2 cm containing 4 lymph nodes ranging from 0.4 x
+0.3 x 0.2 cm to 1 x 0.7 x 0.6 cm. The lymph nodes are sectioned and submitted entirely
+and separately in B1-B4.
+C. SLN #2 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #2 left axilla" is a 1.5 x
+0.9 x 0.7 cm lymph node. It is sectioned and submitted entirely in C1.
+Criterin
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous rir Nuted!
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+1/75/12

@@ -1,0 +1,134 @@
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right breast implant:
+- Breast implant, gross examination only.
+B. Right skin sparing mastectomy:
+- Invasive ductal carcinoma, SBR grade I with satellite lesion, see
+parameters.
+- Ductal carcinoma in-situ, intermediate nuclear grade, solid and
+cribriform type, with necrosis.
+- Intraductal papilloma with intraductal hyperplasia, usual type.
+- Columnar cell changes.
+- Apocrine metaplasia.
+- Intraductal hyperplasia, usual type.
+-
+Duct ectasia.
+- Fibroadenoma.
+- Focal lactational changes.
+- Fragments of implant capsule.
+C. Right breast, submuscular capsule:
+-
+No tumor present.
+ICD-0-3
+Carcinoma, ductal NOS
+850013
+Site Breast NOS
+C50.9
+12/18/13
+UUID:9536A134-A44C-4698-A525-DEEE7FACD144
+TCGA-OL-ASRX-01A-PR
+Redacted
+- Fibrovascular tissue with hyalinization and reactive change consistent
+with breast implant capsule.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 2.0 cm index lesion and 0.7 cm satellite lesion
+(located 2 cm superior from index mass).
+B. Composite histologic (modified SBR) grade: I
+- Architecture: 1
+- Nuclear grade: 3
+Mitotic count: 1
+C. Associated intraductal carcinoma in situ (DCIS):
+- Within main mass (forming 50% of tumor volume)
+- Extending away from main mass
+2. Intraductal carcinoma:
+A. Microscopic measurement: Approximately 4.7 cm (main mass extending to
+satellite lesion)
+B. Type: Cribriform, solid
+C. Nuclear grade: Intermediate
+D. Associated features: Necrosis, cancerization of lobules
+3. Excisional biopsy margins: Free of tumor
+- DCIS > 3 mm from posterior (closest) margin
+- Invasive carcinoma > 10 mm from posterior (closest) margin
+4. Blood vessel and lymphatic invasion: Not identified
+5. Nipple: Unremarkable
+6. Skin: Uninvolved
+7. Skeletal muscle: Uninvolved (attached small fragment)
+8. Axillary lymph nodes: Negative (0/4)
+9. Special studies
+- ER: Strong expression in > 90% of invasive tumor nuclei
+- PR: Strong expression in >90% of invasive tumor nuclei
+- Her2/neu antigen (FISH): Non-amplified (ratio: 1.0)
+10. pTNM (AJCC, 7th edition, 2010): pT1c(m), NO, MX
+Clinical History:
+The patient is a
+year-old female with invasive ductal carcinoma, grade 1
+undergoing right skin sparing mastectomy.
+Specimens Received:
+A: Right breast implant
+B: Right skin sparing mastectomy
+C: Right breast submuscular capsule
+Gross Description:
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'right breast implant'.
+Received is a 12.9 x 12.0 x 0.5 cm deflated breast implant with inscription
+with 0.9 x 1.5 x 0.5 cm portion of white soft tissue.
+Gross photographs are taken. The specimen is for gross only.
+B. The second container is additionally identified as, 'right skin sparing
+mastectomy'. Received fresh and placed in formalin is a 724 gm simple skin
+sparing mastectomy specimen. The specimen is oriented with a double short suture
+designating the superior aspect, a double long suture designating the lateral
+aspect, a single short suture designating the medial aspect, and a single long
+suture on the nipple margin. The specimen measures 21 cm from medial to lateral,
+cm from anterior to posterior. An
+18.5 cm from superior to inferior, and
+L-shaped piece of skin consists of a brown areola measuring 4.1 cm in diameter
+with an adjacent piece of brown skin extending laterally measuring 6.5 x 3.5 cm,
+and an adjacent piece of brown skin extending inferiorly from the areola
+measuring6.1 x 3.0 cm. In the center of the areola is a retracted nipple
+measuring 0.8 cm in diameter. There is a 4x5 cm area of white smooth and
+glistening membranous area on the posterior surface consistent with implant
+capsule.
+The specimen is inked as follows: anterior superior - blue; anterior inferior -
+green; posterior - black.
+The specimen is serially sectioned from medial to lateral into 16 slices to
+reveal a white, firm, 2.0 x 1.9 x 1.9 cm mass in slices 9. A clip is identified
+in slice 9. The mass is 2.5 cm from the posterior margin (black ink) and 1.5 cm
+from the inferior anterior margin (green ink). There is a 1 cm white firm area
+(abutting the posterior margin) just superior to the index lesion.
+There is a 0.7 x 0.7 x 0.6 cm ill-defined white firm area identified in slice 8.
+This lesion is 2.6 cm from the posterior margin, more than 2 cm away from all
+other margins and 2.0 cm superior to the index lesion.
+The remainder of the specimen consists of approximately extending onto 45 %
+dense gray-white fibrous breast parenchyma and 55 % lobulated yellow adipose
+tissue. No additional masses or nodules are grossly identified.
+Block summary:
+B1: Nipple, serially sectioned
+B2: Areola
+B3: Closest margins to index lesion
+B4-5: Index mass, slice 9
+B6: Index mass, slice 9, with the white firm area
+B7-12: White firm area, slice 8, entirely submitted
+B13-14: Lower inner quadrant, slice 2 and 4
+B15-16: Upper inner quadrant, slice 1 and 3
+B17-18: Lower outer quadrant, slice 7 and 10
+B19-20 Upper outer quadrant, slice 7 and 11
+C. The third container is additionally identified as, 'right breast submuscular
+capsule'. Received fresh is a 14.5 x 1.0 x 0.3 cm portion of white and
+glistening membranous tissue. A representative section is submitted as C1.
+Criteria
+hu
+Diagnosis Discrepancy
+2/10/13
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle)
+Reviewer initial
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+2/11/13

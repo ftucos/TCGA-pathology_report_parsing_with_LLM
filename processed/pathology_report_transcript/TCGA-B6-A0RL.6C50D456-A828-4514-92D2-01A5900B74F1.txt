@@ -1,0 +1,100 @@
+'Carcinoma, infiltrating ductal, NOS 8500/3
+Site Code. breast, Nos
+050.9
+1/17/11
+Surgica
+Surg Path
+كسار
+UUID:6C50D456-A828-4514-92D2-01A5900874F1
+TCGA-B6-AØRL-01A-PR
+Redacted
+CLINICAL HISTORY:
+Left breast mass, positive biopsy. Rule out breast CA.
+GROSS EXAMINATION:
+A. "Left breast biopsy", in formalin. Received is a portion of adipose
+tissue which measures 4.5 x 4.0 x 1.9 cm in greatest dimensions. A firm
+nodule is felt within the adipose tissue. Sections through this nodule reveal
+a 
+white, gritty mass with irregular borders which measures 3.0 x 1.3 x 2 cm in
+greatest dimensions. The tumor approaches the margin of resection. Frozen
+section was done on this tumor. Initially, the tissue is submitted for ER/PR
+receptors. The frozen section remnant is submitted in Block Al. Additional
+representative sections of tumor are submitted in Blocks A2 and A3.
+B.
+"Left breast with axillary contents". Received is a 620 gram, 20 x 16 x
+3.5 
+cm 
+modified radical mastectomy with attached axillary tail. The attached
+axillary tail measures 8 cm x 7.5 cm x 1.8 cm. The skin ellipse measures 20
+cm in length 
+x 7.5 cm in width with a medially eccentrically placed nipple.
+Lateral and inferior to the nipple is a 5 cm sutured incision. The deep
+surface 
+is painted with blue ink. Deep to the incision there is a hemorrhagic
+biopsy 
+cavity which measures approximately 5 cm x 4.5 cm x 3 cm in greatest
+dimensions
+. The biopsy cavity approaches the deep margin of the specimen, but
+no residual tumor 
+is identified. Along the superficial edge of the biopsy
+cavity is a residual firm nodule which measures 1.5 x 2.0 x 0.8 cm is felt.
+Examination of the remainder of the breast reveals only firm, white breast
+tissue and adipose tissue. The axillary tail is examined for lymph node
+candidates
+.
+Block Summary:
+B1:
+B2:
+B3-B5:
+B6, B7:
+1
+B8:
+B9:
+B10:
+B11:
+B12, B13:
+B14-B16:
+B17, B18:
+Representative sections of nipple.
+Representative sections of skin through incision.
+Representative sections of biopsy cavity to include deep margins.
+Nodule along superior aspect of biopsy cavity.
+Representative section of upper inner quadrant.
+Representative sections of lower inner quadrant.
+Representative section of upper outer quadrant.
+Representative section of normal lower outer quadrant.
+Lymph node candidates from Level-I.
+Lymph node candidates from Level-II (a single large lymph node
+candidate is bisected and submitted in toto in Block A16).
+Lymph node candidates from Level-III.
+INTRA OPERATIVE CONSULTATION:
+"Left breast biopsy": AF1 Carcinoma.
+DIAGNOSIS:
+A.
+"LEFT BREAST BIOPSY":
+Criteria
+Yes
+Now
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Cases (circle):
+Reviewer
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+INFILTRATING DUCTAL CARCINOMA (3 CM DIAMETER), NSABP NUCLEAR GRADE 3 of 3
+HISTOLOGIC 
+GRADE III. A SPINDLE CELL COMPONENT IS PRESENT.
+FOCAL INTRADUCTAL CARCINOMA OF COMEDO TYPE.
+B.
+"LEFT BREAST WITH AXILLARY CONTENTS":
+INFILTRATING DUCTAL ADENOCARCINOMA, NSABP NUCLEAR GRADE 2 to 3; HISTOLOGIC
+GRADE II.
+1 of 2
+SURGICAL MARGINS ARE FREE OF MALIGNANCY.
+ZERO OF 16 LYMPH NODES ARE POSITIVE FOR METASTATIC DISEASE.
+Verified by
+2 of 2

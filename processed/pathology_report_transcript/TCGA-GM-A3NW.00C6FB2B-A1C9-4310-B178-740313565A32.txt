@@ -1,0 +1,77 @@
+UUID:00C6FB2B-A1C9-4310-8178-740313565A32
+TCGA-GM-A3NW-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+w 1/11/12
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy.
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+Yes
+No
+QUALIFIED
+DISQUALIFILD
+Date Reviewed:
+#11012
+DIAGNOSIS
+(A) SENTINEL LYMPH NODE #1, BIOPSY:
+One lymph node, no tumor present (0/1).
+(B) SENTINEL LYMPH NODE #2, BIOPSY:
+One lymph node, no tumor present (0/1).
+(C) SENTINEL LYMPH NODE #3, BIOPSY:
+One lymph node, no tumor present (0/1).
+(D) LEFT BREAST, MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA OF BREAST, MODIFIED BLACK'S NUCLEAR GRADE 1-2 (WELL TO
+MODERATELY DIFFERENTIATED), CLASSIC AND SOLID TYPES.
+INVASIVE CARCINOMA MEASURES 3.0 CM IN GREATEST DIMENSION.
+Lymphovascular invasion not identified.
+INVASIVE CARCINOMA LOCATED IN THE UPPER/INNER QUADRANT.
+Margins are widely free of tumor.
+Skin and nipple, no tumor present.
+(E) SENTINEL LYMPH NODE #4, BIOPSY:
+One lymph node, no tumor present (0/1).
+Entire report and diagnosis completed by
+COMMENT
+Immunohistochemical staining for cytokeratin is performed on sentinel lymph nodes #1, 2, 3, 4 is negative for metastatic
+carcinoma.
+Carcinoma, infiltrating lobular, Nos 852013
+100-0-3
+Site: breast, NOS
+050.9
+Mw
+11/11/12
+GROSS DESCRIPTION
+(A) SENTINEL LYMPH NODE #1, BLUE, IN VIVO - 72, EX VIVO 73 - A 1.6 x 0.8 x 0.8 cm lymph node. The lymph node is blue.
+Two touch preparations are made for intraoperative evaluation. The entire specimen is submitted in A.
+*TP/DX: NO TUMOR PRESENT.
+(B) SENTINEL LYMPH NODE #2, (IN VIVO - 154, EX VIVO - 38) - A 0.8 x 0.8 x 0.6 cm lymph node. Two touch preparations are
+made for intraoperative evaluation and the entire specimen is submitted in B.
+*TP/DX: NO TUMOR PRESENT.
+(C) SENTINEL LYMPH NODE #3, (IN VIVO - 461, EX VIVO - 635) - A 1.1 x 0.9 x 0.9 cm lymph node. Two touch preparations
+are made for intraoperative evaluation and the entire specimen is submitted in C.
+*TP/DX: NO TUMOR PRESENT
+(D) LEFT BREAST, STITCH AT 12 O'CLOCK - An oriented total mastectomy specimen (25.0 x 15.0 x 4.0 cm) with attached skin
+ellipse (19.0 x 5.0 cm) containing an inverted nipple and areola (2.0 cm diameter). The specimen is cut into 11 slices, numbered
+from medial to lateral.
+Located in the upper inner quadrant at 11o'clock is a 3.0 x 2.0 x 2.0 cm, poorly-circumscribed, multinodular,
+heterogeneous, fleshy, brown, tan-white tumor mass, 1.0 cm from the superior superficial margin and approximately 1.0 cm from
+the deep margin. Adjacent breast tissue shows abundant firm white breast parenchyma in the lower outer quadrant. No other
+discrete lesions are identified. The skin and inverted nipple are grossly unremarkable.
+INK CODE: Blue - superior, orange - inferior, black - deep.
+SECTION CODE: D1, D2, inverted nipple and areola; D3, superior superficial margin; D4, deep margin; D5-D11, tumor
+mass; D12, D13, representative lower inner quadrant; D14, D15, representative outer upper quadrant; D16, D17, representative
+lower outer quadrant.
+(E) SENTINEL LYMPH NODE #4, NOT BLUE, COUNT IN VIVO - 88, EX VIVO - 313 - Two fragments of red-tan adipose tissue
+(0.8 x 0.4 x 0.3, 1.0 x 1.0 x 0.4 cm). A single lymph node is identified (1.0 x 1.0 x 0.4 cm). The lymph node is trisected and
+reveals a slightly pink-tan cut surface. Two touch preparations are performed for immediate intraoperative evaluation. The entire
+lymph node is submitted in E.
+*TP/DX: NO TUMOR PRESENT.
+CLINICAL HISTORY
+Left breast cancer.
+SNOMED CODES
+T-04050, T-C4710, M-85203
+Released by:
+-END OF REPORT--

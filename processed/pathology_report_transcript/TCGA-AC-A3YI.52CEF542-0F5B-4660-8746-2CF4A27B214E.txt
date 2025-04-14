@@ -1,0 +1,287 @@
+Referring Physician:
+UUID:52CEF542-0F5B-4660-8746-2CF4A27B214E
+TCGA-AC-A3YI-01A-PR
+Redacted
+DOB:
+Age
+Gender
+Ref#:
+Hosp#:
+Provider Group :
+Date of Service:
+Date Received:
+Outpatient
+Room.
+A copy of this report will be faxed to:
+Case #
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. - D.) RIGHT BREAST AND AXILLARY LYMPH NODES, LUMPECTOMY, SENTINEL
+LYMPH NODE BIOPSY FOLLOWED BY LYMPH NODE DISSECTION:
+- Invasive lobular carcinoma, Nottingham grade 1-2.
+- Focal atypical ductal hyperplasia (ADH) and atypical lobular hyperplasia (ALH).
+- Metastatic carcinoma in twelve of thirteen axillary lymph nodes (12/13, including
+all three sentinel lymph nodes).
+- Largest metastatic focus measures 1.1 cm in diameter.
+· Extranodal extension is identified in at least five lymph nodes,
+with the largest focus of extranodal extension measuring up to
+0.5 cm.
+- One sentinel lymph node (specimen B) shows evidence of having been
+previously biopsied.
+- The lumpectomy margins are free of tumor.
+- Invasive carcinoma is 0.5 cm from the inferior margin, 0.8 cm from medial,
+and is at least 1 cm from all other margins.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive lobular carcinoma, Nottingham grade 1.
+Primary tumor: pT1c.
+Regional lymph nodes: pN3a.
+Distant metastasis: Not applicable.
+Stage: IIIC.
+Lymphovascular invasion: Indeterminate.
+Margin status: Negative.
+Breast Invasive Tumor Staging Information
+(AJCC Cancer Staging Handbook,
+and CAP protocol,
+This staging also incorporates:
+Previous biopsy
+Breast profile:
+ICD-0-3
+carcinoma, lobular, infiltrating 852013
+Site: breast, NOS C50.9
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+FAA Discrepancy
+Prior Malignancy History
+Jual/Synchronous Primary Noted
+Case is (cirMI
+Reviewer Intial
+QUALIFIED
+Date Reviewed:
+6-672 2n
+Yes
+No
+DISQUALIFIED
+lu
+1/5/12
+Case #:
+Printed:
+Phone
+Acct No. -
+Patient Na
+Pathology Report - Page 1/5
+Page 1
+This report continues... (FINAL)
+Page 1
+Case #:
+-
+Specimen type:
+Specimen procedure:
+Lymph node sampling:
+Specimen integrity:
+Specimen laterality:
+Specimen size:
+Partial breast.
+Lumpectomy.
+Sentinel lymph node biopsies followed by axillary
+lymph node dissection.
+Intact specimen.
+Right.
+5.4 x 4.3 x 2.3 cm.
+INVASIVE TUMOR FEATURES:
+Invasive tumor size:
+Invasive tumor site:
+Invasive tumor focality:
+Histologic type:
+Total Nottingham Grade:
+Tubule formation:
+Nuclear Pleomorphism:
+Mitotic count for Nottingham:
+Mitotic count:
+Lymphatic invasion:
+1.8 cm.
+12:00.
+Single focus invasive carcinoma.
+Invasive lobular carcinoma.
+1 of 3.
+3 of 3.
+1-2 of 3.
+1 of 3.
+One mitosis in ten high power fields.
+Indeterminate.
+MARGIN STATUS FOR INVASIVE COMPONENT:
+Distance of tumor from margins:
+Closest margin:
+Other margins:
+DUCTAL CARCINOMA IN-SITU (DCIS):
+Negative.
+0.5 cm.
+Inferior
+See diagnosis section.
+Not identified.
+LOBULAR CARCINOMA IN-SITU (LCIS):
+Not identified.
+Skin:
+Nipple:
+Not applicable.
+Not applicable.
+Skeletal Muscle:
+Not applicable.
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+Primary tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+Pathologic stage:
+pT1c.
+pN3a.
+Not applicable.
+||C.
+RECEPTOR STATUS AND HER2/NEU:
+Estrogen receptors:
+Progesterone receptors:
+Her2/neu:
+Ki-67 proliferative index:
+98% positive cells.
+25% positive
+IHC 1+,
+15% positive cells.
+Case #:
+Printed
+Phone:
+i
+MR No.
+Acct No.
+Patient Name
+Pathology Report - Page 2/5
+Page 2
+This report continues... (FINAL)
+rage 2
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+athologist
+Signed by
+Source of Specimen:
+A. Breast lumpectomy;right
+B. Sentinel lymph node; right axillary
+C. Sentinel lymph node;right axillary
+D. Right axillary dissection
+Clinical History/Operative Dx:
+Malignant neoplasm of right breast.
+Intraoperative Diagnosis:
+B. Right axillary sentinel node (with wire): Two lymph nodes, positive for metastasis.
+C. Right axillary sentinel node
+One lymph node, positive for metastasis (Dr. '
+intraoperative interpretation(s) was/were performed and rendered at
+Gross Description:
+). The
+1,
+A. Specimen A is labeled right breast lumpectomy. Initially received in the fresh state for Oncogenotyping
+studies is a 42 gram yellow-tan portion of fibrofatty soft tissue, 5.4 cm anterior-posterior, 4.3 cm
+medial-lateral, 2.3 cm inferior-superior. A localizing guidewire impales the specimen through the
+superior-lateral periphery. Three sets of sutures are present designated as follows: two short - anterior, one
+long - medial, and two long - superior. The surgical margins are now differentially inked as follows:
+SUPERIOR: BLUE
+Case #:
+Printed:
+Phone:
+Acct No. -
+Patient Na
+Pathology Report - Page 3/5
+Page 3
+This report continues... (FINAL)
+· Page 3
+Case #:
+MEDIAL: RED
+ANTERIOR: YELLOW
+INFERIOR: GREEN
+LATERAL: ORANGE
+FINAL SURGICAL PATHOLOGY REPORT
+POSTERIOR: BLACK
+The specimen is serially sectioned perpendicularly through the anterior-posterior long axis to reveal a
+partially demarcated, to ill-defined, dense, light gray tumor mass 
+measuring up to 1.8 x 1.3 x 1.2 cm. 
+The
+lesion is grossly within 0.5 cm of the nearest inferior, 0.7 cm of the 
+superior, 0.9 cm of the medial, 1.3 cm
+of the lateral, 0.9 cm of the posterior, and 1.7 cm of the anterior surgical 
+margins. Representative portion
+of the tumor is submitted for Oncogenotyping studies. No biopsy site clips 
+are appreciated. The remaining
+cut sections demonstrate soft to rubbery admixed, yellow-tan 
+fibrofatty soft tissue without additional
+discrete nodularity. Representative sections are submitted in a sequential 
+fashion, posterior to 
+anterior.
+Cassette summary:
+A1-A3) slab 1, posterior,
+A4-A7) slab 2,
+A8-A10) slab 3,
+A11-A13) slab 4,
+A14-A16) slab 5,
+A17-A19) slab 6,
+A20-A21) slab 7, margins trimmed and submitted,
+A22-A23) slab 8, margins, trimmed and submitted,
+A24-A25) slab 9, anterior margin represented.
+(with hookwire). Initially received in the
+B. Specimen B is labeled right axillary sentinel lymph node
+fresh state for frozen section analysis is a 4.7 x 4.2 x 1.5 cm portion of soft tissue. A localizing guidewire is
+present. Examination of the tissue reveals two lymph node candidates, 1.5 
+and 1.0 cm each. Both lymph
+nodes are serially sectioned and two touch preparation slides are 
+forwarded for microscopic evaluation.
+The lymph node tissue is entirely submitted for microscopic evaluation 
+in B1-83.
+Cassette summary: B1-B2) largest lymph node, sentinel node protocol performed, B2) smaller lymph node,
+sentinel lymph node protocol performed.
+Initially received in the fresh state for
+C. Specimen C is labeled right axillary sentinel lymph node
+frozen section analysis is a 3.5 x 3.0 x 0.5 cm portion of yellow-tan fatty soft tissue. Examination reveals a
+single 1.5 cm lymph node candidate. The cut surfaces are rubbery 
+light pink to dense nodular light gray. A
+single touch preparation slide is forwarded for microscopic evaluation. The 
+lymph node is entirely
+submitted for routine histology in C1.
+D. Specimen D is labeled right axillary dissection. Received in formalin are two tattered pieces of
+fibrofatty soft tissue which measure in aggregate 14 grams and 6.4 x 
+4.7 x 1.7 cm. Examination 
+reveals
+twelve lymph node candidates ranging from 0.2-0.9 cm. The 
+larger lymph nodes demonstrate a palpable
+firm-nodular architectures. Lymph node tissue candidacy is entirely 
+submitted for microscopic evaluation
+.
+Case #
+Printed:
+Page 4
+This report continues... (FINAL)
+Pathology Report
+Page 4/5
+Phone
+Patient Na
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Cassette summary: D1) four lymph node candidates, D2) two lymph node candidates, D3) two lymph node
+candidates, D4) four lymph node candidates.
+Microscopic Description:
+A. Immunohistochemical stain:
+controls reviewed.
+B. Immunohistochemical stains:
+invasive lobular carcinoma. Appropriate positive and negative
+highlighting metastatic carcinoma and extranodal extension.
+Appropriate positive and negative controls reviewed.
+_ highlighting metastatic carcinoma and extranodal extension.
+C. Immunohistochemical stains:
+Appropriate positive and negative controls reviewed.
+D. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #
+Printed:
+Pathology Report
+-
+Page 5/5
+Phon
+Patient Nan
+Page 5
+END OF REPORT (FINAL)

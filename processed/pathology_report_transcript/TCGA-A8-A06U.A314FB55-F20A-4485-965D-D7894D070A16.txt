@@ -1,0 +1,42 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Path
+Site breast, 40Q C50.4
+CQCF
+Site: Breast, Nos
+050.9
+1/25/11
+کسل
+Diagnosis:
+1. Right-sided ablated breast tissue multicentric, poorly differentiated, invasive ductal breast
+carcinoma with at least 
+four foci measuring a maximum diameter of 2 cm, 3 cm, 0.7cm and
+2.5 cm, partly 
+with inclusion of a high-grade intraductal carcinoma with comedo necroses in
+the tumor periphery 
+and surrounded by a mastopathy with partially sclerotic, intraductal,
+papillomatous 
+scleradenosis with microcalcifications and also cystic mastopathy and
+cylindrical 
+epithelial metaplasia. The overlying skin and nipple are tumor-free, no pagetoid
+pattern of 
+spread. the outer resection margins are tumor-free.
+Tumor classification:
+M-8500/3, G 3, pT2 (m), pN1a (2/25), pMX, stage II B. RO.
+UUID:A314FB55-F20A-4485-965D-D7894D078A16
+TCGA-A8-A06U-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is (circle):
+Reviewer Initais
+QUALIFIED
+Date Reviewed:
+tw
+Redacted
+Yes
+No
+DISQUALIFIED

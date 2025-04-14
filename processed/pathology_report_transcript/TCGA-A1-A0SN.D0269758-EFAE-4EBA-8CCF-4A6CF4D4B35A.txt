@@ -1,0 +1,228 @@
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Ste Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Cual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+92941
+10/21/11
+UUID:D8269758-EFAE-4EBA-8CCF-4A6CF4D4B35A
+TCGA-A1-A0SN-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8.500/3
+Situ: breast, Nos
+C50.9
+lu 10/21/11
+Final Pathologic Diagnosis:
+A. Lymph node, left axillary sentinel node #1, excision: No metastatic carcinoma in
+one lymph node (0/1).
+B. Lymph node, left axillary sentinel node #2, excision: Metastatic carcinoma in one
+lymph node with extension into peri-nodal fat (1/1).
+C. Lymph node, left axillary sentinel node #3, excision: Metastatic carcinoma in one
+lymph node (1/1).
+D. Lymph node, left axillary non-sentinel node #1, excision: Metastatic carcinoma in
+one lymph node (1/1).
+Page 1 of 5
+Surgical Pathology -
+Working Draft
+E. Lymph node, left axillary non-sentinel node #2, excision: Metastatic carcinoma in
+one lymph node (1/1).
+F. Breast, left, partial mastectomy:
+1. Infiltrative ductal carcinoma, SBR grade 2, 1.1 cm in maximum dimension,
+margins negative; see comment.
+2. Ductal carcinoma in situ, high-grade, solid and comedo types, 1.1 cm in maximum
+dimension, intermixed with invasive ductal carcinoma, margins negative.
+G. Breast, left lateral anterior, excision: Benign breast tissue, no carcinoma
+identified.
+H. Breast, medial superior anterior, excision: Benign breast tissue, no carcinoma
+identified.
+I. Lymph node, left axillary contents, excision: No metastatic carcinoma in eight
+lymph nodes (0/8).
+Note: Breast Tumor Synoptic Comment
+- Laterality: Left.
+-
+- Invasive tumor type: Invasive ductal carcinoma.
+Invasive tumor size: 1.1 cm maximum diameter.
+- Invasive tumor grade (modified Bloom-Richardson): 2.
+Nuclear grade: 3, 3 points.
+Mitotic count: <10 mitotic figures/10 HPF, 1 point.
+Tubule/papilla formation: <10%, 3 points.
+Total points and overall grade = 7 points = grade 2.
+- Lymphatic-vascular invasion: Extensive lymphatic-vascular Invasion is noted with intra-lymphatic
+metastasis noted in lymphatics at least 1 cm from the main tumor.
+-
+"
+Perineural invasion: Not present.
+Resection margins for invasive tumor:
+-
+- Deep margin: Negative; (tumor is 0.2 cm away, on slide F6).
+Medial margin: Negative; (tumor is greater than 1 cm).
+- Lateral margin: Negative; (tumor is greater than 1 cm).
+- Anterior/superior margin: Negative; (tumor is 0.2 cm away, on slide F6).
+- Anterior/inferior margin: Negative; (tumor is 0.3 cm away, on slide F4).
+- Ductal carcinoma in situ (DCIS) type: Comedo and solid.
+- Ductal carcinoma in situ size: 1.1 cm, intermixed with invasive ductal carcinoma.
+- Ductal carcinoma in situ nuclear grade: High-grade.
+Necrosis in DCIS: Comedonecrosis.
+· Microcalcifications: Not identified.
+Resection margins for ductal carcinoma in situ:
+-
+-
+· Deep margin: Negative; (tumor is 0.6 cm away, on slide F6).
+· Medial margin: Negative; (tumor is greater than 1 cm).
+- Lateral margin: Negative; (tumor is greater than 1 cm).
+- Anterior/superior margin: Negative; (tumor is 0.25 cm away, on slide F6).
+- Anterior/inferior margin: Negative; (tumor is 0.25 cm away, on slide F6).
+- Lobular carcinoma in situ (LCIS): None.
+- Lymph node status: Positive.
+-
+Number of positive lymph nodes: 4.
+- Total number sampled: 13.
+Diameter of largest metastasis: 0.8 cm.
+Page 2 of 5
+Surgical Pathology -
+Extranodal extension: Present.
+- AJCC/UICC stage: pricN1MX.
+Working Draft
+An immunohistochemical test for estrogen and progesterone receptors was performed by manual
+morphometry on block #.
+The test for estrogen receptors is positive. There isstrong nuclear staining in 90% of tumor cells.
+Internal positive control is positive.
+The test for progesterone receptors is positive. There is moderate nuclear staining in 60% of tumor
+cells. Internal positive control is positive.
+Result of HER2/neu test: This carcinoma is positive for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed by manual morphometry on block F8 using the CB11
+monoclonal antibody to HER2/neu oncoprotein. The staining intensity of this carcinoma was 3 on a
+scale of 0-3 (HER2 test interpreted by Dr.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered indeterminate. We and others have observed that many carcinomas with
+staining intensity scores of 2 do not show gene amplification. All carcinomas with staining intensity scores of 2 are therefore
+submitted for FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in
+this category show an excellent correlation between the results of immunohistochemical and FISH testing, and almost always show
+gene amplification.
+Intraoperative Consult Diagnosis
+FS1 (A) Left axillary sentinel lymph node #1, biopsy: No tumor seen. (Tissue section and
+cytopreparation) (Dr.
+1
+FS2 (B) Left axillary sentinel lymph node #2, biopsy: Positive for metastatic carcinoma. (Tissue
+section and cytopreparation) (Dr.
+FS3 (C) Left axillary sentinel lymph node #3, blopsy: Positive for metastatic carcinoma. (Tissue
+section and cytopreparation) (Dr. I
+FS4 (D) Left axillary non-sentinel lymph node #1, biopsy: Positive for metastatic carcinoma. (Tissue
+section and cytopreparation) (Dr.
+Clinical History
+The patient is a year-old woman with left breast Invasive ductal carcinoma. She undergoes partial
+mastectomy.
+Gross Description
+The specimen is received fresh in nine parts, each labeled with the patient's name and medical record
+number.
+Part A is additionally labeled
+It consists of a single irregular piece of
+soft-firm, pink-red tissue, measuring 0.5 x 0.3 x 0.2 cm. The specimen is bisected, and cytologic
+touch and scrape preparations are prepared. The specimen is then entirely submitted for frozen
+section diagnosis as FS1, with the frozen section remnant submitted in cassette A1.
+Part B is additionally labeled
+* It consists of a single oval piece of soft-to-firm,
+red-pink tissue, measuring 0.9 x 0.6 x 0.6 cm. The specimen is bisected, and cytologic touch and
+scrape preparations are made. The specimen is then entirely submitted for frozen section diagnosis as
+FS2, with the frozen section remnant submitted in cassette B1.
+Part C is additionally labeled
+It consists of a single ovoid piece of soft-to-firm,
+Page 3 of 5
+Surgical Pathology -
+Working Draft
+pink-red tissue, measuring 0.8 x 0.5 x 0.4 cm. The specimen is bisected, and cytologic touch and
+scrape preparations are prepared. The specimen is then entirely submitted for frozen section
+diagnosis as FS3, with the frozen section remnant submitted in cassette C1.
+Part D is additionally labeled
+It consists of a single ovoid piece of
+soft-to-firm, pink-red tissue, measuring 1.3 x u., x 0.5 cm. The specimen is bisected, and cytologic
+touch and scrape preparations are prepared. The specimen is then entirely submitted for frozen
+section diagnosis as FS4, with the frozen section remnant submitted in cassette D1.
+Part E is additionally labeled
+It consists of a single ovoid piece of firm,
+off-white/tan tissue, measuring 1.5 x 0.7 x 0.4 cm. The specimen is bisected and entirely submitted
+in cassette E1.
+Part F is additionally labeled
+t consists of
+an oriented portion of fat, measuring 10.3 (anterior- posterior) x 7.4 (medial-lateral) x 6.4
+(superior-inferior) cm and weighing 13 gm. There is a 1.1 cm in diameter white-yellow hard mass
+with a white homogeneous Interior located within the specimen (slices 3-6). This mass abuts the
+posterior margin, is 0.6 cm from the anterior-inferior and anterior-superior margins, 1 cm from the
+lateral margin, and 7 cm from the medial margin. The specimen is inked so as the anterior-superior
+surface is blue, the anterior- inferior surface is green, and the posterior surface is black. A
+representative section is taken for tissue banking. The specimen is serially sectioned, from lateral to
+medial into thirteen 0.5 cm slices. Representative sections are submitted as follows:
+Cassette F1:
+Cassettes F2-F3:
+Cassettes F4-F5:
+Cassettes F6-F7:
+Cassette F8:
+Cassette F9:
+Cassette F10:
+Cassette F11:
+Lateral margin, slice 1, perpendicular.
+Slice 2, two pieces.
+Slice 3, two pieces, mass.
+Slice 4, two pieces, mass.
+Representative section of slice 5, mass.
+Representative section of slice 6, mass.
+Slice 12.
+Medial margin, slice 13. perpendicular.
+Part G is additionally labeled
+" It consists of a
+small fragment of fat, measuring 0.6 x 0.7 x 0.7 cm. A stitch marks a portion of the specimen
+indicating the true margin. The specimen is inked so as this true margin is blue, and the rest of the
+specimen is black. The specimen is entirely submitted in cassette G1.
+Part H is additionally labeled
+It
+consists of a fragment of yellow-white, soft fat, measuring 1 x 0.6 x 0.7 cm. A stitch marks the true
+margin of the specimen. The specimen is inked so as this true margin is blue, and the remaining
+portion of the specimen is black. The specimen is entirely submitted in cassette H1.
+Part I is additionally labeled
+It consists of a portion of fat measuring 4.2 x 3.8
+× 0.9 cm. Multiple pink-tan lymph nodes are noted within the specimen ranging in size from 0.6-1.3
+cm in diameter. Many of these nodes are previously bisected or trisected. Representative sections of
+the specimen are taken and submitted as follows:
+Six lymph nodes attached.
+Two lymph nodes, one bisected and one trisected.
+Cassette 11:
+Cassette 12:
+'Pathology Resident
+Pathologist
+Signed:
+Fee Codes:
+Page 4 of 5
+Surgical Pathology -
+Working Draft
+Other Specimens
+_ Specimen Class: 1
+Status: N/A
+Specimen(s) Received: Skin, biopsy, punch bx, right posterior calf
+Final Diagnosis
+Accessioned:
+Signed Out:
+{Final Report Not Signed Out}
+{Not Entered}
+Specimen Class:
+Specimen(s) Received: SP Consult
+Final Diagnosis
+Review
+from
+Status: Signed Out
+Accessioned:
+Signed Out:
+Breast, left, 1 o'clock, core needle biopsy:
+1. Invasive carcinoma; see comment.
+2. Microscopic focus of ductal carcinoma in situ, high nuclear grade; see comment.
+END OF REPORT
+Page 5 of 5

@@ -1,0 +1,236 @@
+TSS:
+ICD-0-3
+SPECIMENS:
+A. EXCISION RIGHT BREAST NEEDLE LOCALIZATION
+B. LEFT BREAST AND AXILLARY CONTENTS
+C. ADDITIONAL LEFT AXILLARY TISSUE
+SPECIMEN(S):
+A. EXCISION RIGHT BREAST NEEDLE LOCALIZATION
+B. LEFT BREAST AND AXILLARY CONTENTS
+C. ADDITIONAL LEFT AXILLARY TISSUE
+DIAGNOSIS:
+Carcinoma, infiltrating lobulew, NUS
+852013
+Site: breast, NUS C50.9
+A. BREAST, RIGHT, NEEDLE LOCALIZATION EXCISIONAL BIOPSY:
+-
+DUCTAL CARCINOMA IN SITU (DCIS), CRIBRIFORM TYPE, NUCLEAR
+GRADE 2, WITH NECROSIS AND MICROCALCIFICATIONS.
+- DCIS IS PRESENT AT THE MEDIAL MARGIN, IS WITHIN 0.1 CM
+OF THE POSTERIOR AND SUPERIOR MARGINS, AND IS WITHIN
+0.2 CM OF THE ANTERIOR MARGIN.
+- ATYPICAL INTRADUCTAL PAPILLOMAS, 0.1 CM FROM THE MEDIAL
+MARGIN.
+- COMPLEX SCLEROSING LESION WITH EXTENSIVE LOBULAR CARCINOMA
+IN SITU (LCIS), INTRADUCTAL PAPILLOMAS, SCLEROSING ADENOSIS,
+APOCRINE METAPLASIA, AND MICROCALCIFICATIONS.
+8/24/11
+NOTE: DCIS is present in 3 of 10 slides. On a single slide, DCIS measures 0.8 cm. Immunostains were
+performed with appropriate positive and negative controls. SMMHC, p63, and calponin are positive,
+showing 
+no evidence of invasive carcinoma.
+B. BREAST, LEFT, AND AXILLARY CONTENTS, MODIFIED RADICAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA, NOTTINGHAM GRADE 3.
+-
+-
+- 3.3 CM IN SIZE.
+EXTENSIVELY INVOLVES THE NIPPLE DERMIS.
+- LOBULAR CARCINOMA IN SITU (LCIS), PLEOMORPHIC TYPE, WITH
+-
+FOCAL NECROSIS.
+MARGINS, NEGATIVE FOR CARCINOMA.
+- ATYPICAL DUCTAL HYPERPLASIA.
+METASTATIC CARCINOMA IN 20 OF 24 LYMPH NODES WITH
+EXTRANODAL EXTENSION, LARGEST METASTASIS IS 2.4 CM (20/24).
+C. ADDITIONAL AXILLARY TISSUE, LEFT, EXCISION:
+-
+METASTATIC CARCINOMA IN ONE LYMPH NODE AND TUMOR
+IN FIBROADIPOSE TISSUE (1/1).
+NOTE: There is a 0.4 cm focus of invasive carcinoma in the fibroadipose tissue with no definite lymph
+node adjacent 
+to the focus and no breast parenchyma present. This focus is best interpreted as
+extranodal 
+extension.
+UUID:85E91C9F-9F61-4A25-B4D9-1BCBC7108F5E
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: EXCISION RIGHT BREAST NEEDLE LOCALIZATION
+Specimen Type:
+Needle Localization:
+Laterality: Right
+Invasive Tumor:
+Multifocality: N/A
+Excision
+Yes - For mass
+Absent
+WHO CLASSIFICATION
+Intraductal proliferative lesions
+Ductal carcinoma in situ 8500/2
+DCIS present
+Margins involved by DCIS: : medial margin
+TCGA-E2-A2P5-01A-PR
+Redacted
+TSS
+DCIS Type: Cribriform
+DCIS Size (pure DCIS only):
+0.8cm
+Nuclear grade:
+Intermediate
+Necrosis:
+Present
+Location of CA++:
+DCIS
+Benign epithelium
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+Performed on Case:
+Pathological staging (pTN):
+pT is NX
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimens Involved
+Specimens: A: EXCISION RIGHT BREAST NEEDLE LOCALIZATION
+Specimen:
+Surgical Excision
+A2
+Block Number:
+ER: Positive Allred Score:
+PR: Positive Allred Score:
+COMMENT:
+8 = Proportion Score 5 + Intensity Score 3
+8 = Proportion Score 5 + Intensity Score 3
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 
+11-30
+% of
+= weak
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity 
+score (1
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by
+) following the manufacturers 
+instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and 
+by internal
+review of staining performance.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: B: LEFT BREAST AND AXILLARY CONTENTS
+C: ADDITIONAL LEFT AXILLARY TISSUE
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Invasive Tumor:
+Multifocality: No
+Mastectomy
+No
+Present
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 3.3cm
+Tumor Site: Central
+Margins: Negative
+Distance from closest margin: 0.9cm
+deep
+Tubular Score:
+3
+Nuclear Grade:
+3
+TSS:
+Mitotic Score:
+2
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Lobular neoplasia:
+LCIS
+Lymph nodes:
+Axillary dissection
+Lymph node status:
+Positive 21/25 Extranodal extension
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 N 3
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+GROSS DESCRIPTION:
+A. EXCISION RIGHT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with the patient's identification and "right breast needle localization" is an
+oriented (short stitch-superior, long stitch-lateral, double stitch-deep), 35 g, 5.5 x 5.5 x 2.5 cm needle
+localized lumpectomy with radiographs. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-
+red, superior-blue, inferior-orange. The specimen is serially sectioned from medial to lateral into 7 slices
+revealing a 1.7 x 0.7 x 0.4 cm gritty, lobulated white tumor that is closest to the anterior margin at 0.1
+cm. A clip is identified in slice 2. No additional lesions are noted. Representatively submitted:
+A1-medial margin
+A2-slice 2, superior margin
+A3-4-slice 2, anterior/posterior margins to tumor
+A5-A8-slice 3, full cross-section/tumor
+A9-slice 4, additional deep margin to firmer fibrous tissue
+A10-lateral margin
+B. LEFT BREAST AND AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and "left breast and axillary contents" is an
+oriented 1150 g, 26 x 21 x 4 cm mastectomy with a 15 x 7 cm skin ellipse and 1.5 cm in diameter
+inverted nipple. There is also 15 x 11 cm attached axillary tissue. Ink code: Posterior-black, anterior
+superior-blue, anterior inferior-orange. The specimen is serially sectioned into 12 slices from medial to
+lateral with nipple in slices 5/6 revealing a retroareolar, 3.3 x 3 x 2.7 cm infiltrative, gritty indurated,
+lobulated tan to white tumor in slices 5 and 6, closest to the anterior margin (areolar skin) at 0.5 cm. No
+additional 
+lesions are identified. There are 24 possible lymph nodes identified, ranging from 0.2 cm to
+2.4 cm in greatest dimension. Representatively submitted:
+B1-deep margin closest to tumor, slice 5
+B2-B3-entire nipple, slices5-6
+B4-tumor to closest anterior (skin) margin, slice 6
+B5-B7-additional tumor, slice 6
+B8-UOQ, slice 9
+B9-LOQ, slice 8
+B10-UIQ, slice 4
+B11-LIQ, slice 4
+B12-superior skin margin, shave
+B13-6 lymph nodes
+B14-one trisected lymph node
+B15-6 lymph nodes
+B16-5 lymph nodes
+B17-one bisected lymph node
+B18-2 lymph nodes
+B19-2 lymph nodes
+B20-one lymph node
+LH
+C. ADDITIONAL LEFT AXILLARY TISSUE
+Received in formalin labeled with patient's identification and "additional left axillary tissue" is adipose
+tissue measuring 3 x 2.5 x 1 cm in aggregate. Representative sections submitted in C1.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+TSS:
+CLINICAL HISTORY:
+year-old female with multicentric left breast cancer; FNA-positive lymph nodes and right mass biopsy
+shows atypia, left mass retroareolar, right atypical ductal hyperplasia at 12:00
+PRE-OPERATIVE DIAGNOSIS:
+Invasive pleomorphic lobular carcinoma retroareolar, left breast
+Gross Dictation:,,
+Microscopic/Diagnostic Dictation:, .
+Microscopic/Diagnostic Dictation:,
+Final Review:., Pathologist,
+Final:., Pathologisí
+Yes
+No
+TSC/S
+QUALIFIED / DISQUALIFIED
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is (circle):
+Reviewer Initials
+Date Reviewed:
+tw 84

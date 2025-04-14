@@ -1,0 +1,37 @@
+Final Diagnosis
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Natel
+Case is (circle):
+Yes
+No
+QUALIFIED I DISQU. LiriED
+Reviewer Mitials RB Date Reviewed. 44/19/11
+bus 4/25/11
+UUID:CCE8E855-2582-4214-8981-25F0431065CB
+TCGA-AR-A240-01A-PR
+Redacted
+Least, left, simple mastectomy: Invasive ductal carcinoma, Nottingham grade III (of III), is identified forming a 6.0 x 4.0 x 3.5
+cm tumor (AJCC pT3) in the central-upper inner region of the breast. The deep and lateral margins of resection are negative for
+tumor. The closest margin is deep and is free by 1.0 cm. The overlying skin and nipple are not involved by carcinoma.
+bilateral breast CA
+Breast, right, simple mastectomy: Invasive ductal carcinoma, Nottingham grade III (of III), is identified forming a 1.7 x 1.3 x 1.0
+cm tumor (AJCC pT1c) in the upper outer region of the breast. The deep and lateral margins of resection are negative for tumor.
+The closest margin is deep and is free by 2.8 cm. The overlying skin and nipple are negative for involvement by carcinoma.
+Lymph nodes, left axillary sentinel, excision: Multiple (2) left axillary sentinel lymph nodes, both containing blue dye, are
+negative for metastatic carcinoma [(AJCC pN0 (i-)]. Immunohistochemical cytokeratin stain was performed on the paraffin
+embedded sentinel lymph node tissue and confirms the H&E impression.
+Lymph nodes, right axillary sentinel, excision: Multiple (4) right axillary sentinel lymph nodes are negative for tumor [(AJCC
+pN0) (i-)]. A single lymph node (1A) contains blue dye. Immunohistochemical cytokeratin stains were performed on the paraffin
+embedded sentinel lymph node tissue and confirm the H&E impression.
+Her-2/NEU has been ordered on paraffin-embedded tissue on the left breast.
+ICD-0-3
+carcen on
+•oma,
+infiltrating duct, Nos 8500/3
+Site. breast, Nos
+050.9
+4/25/11

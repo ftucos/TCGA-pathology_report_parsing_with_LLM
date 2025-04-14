@@ -1,0 +1,242 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+SPEC #:
+RECD:
+COLL:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Breast CA
+Remarks:
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+ROOM
+BED:
+STATUS:
+IME IN FORMALIN: 29:21
+'S.
+PAGE 1
+Specimen(s):
+Right breast stitch marks axillary contents
+MICROSCOPIC DIAGNOSIS
+BREAST. RIGHT. MODIFIED RADICAL MASTECTOMY:
+ICD-0-3
+1850013
+Carcinoma, infiltrating dust Nos
+Site CAC Buast NOS $30.9
+SEE COMMENT
+path
+06/10/13
+⑤Breast upper outer
+quadrant C50.4
+ep0.4
+MULTIFOCAL INVASIVE DUCTAL CARCINOMA
+LARGEST TUMOR MEASURES 4 CM: GRADE 2
+ANGIOLYMPHATIC INVASION PRESENT
+SEVEN (7) OF EIGHTEEN (18) AXILLARY LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA
+WITH FOCAL EXTRACAPSULARY EXTENSION 
+PRESENT
+MARGINS NEGATIVE
+UUID:5C3D9179-7434-4776-A2FF-68CEA0149C68
+TCGA-LL-A6FQ-01A-PR
+Redacted
+COMMENT(S)
+In addition to the two larger tumors present within the upper outer quadrant, a tumor is
+also present associated with the nipple 
+measuring 2 cm. This section was evaluated with
+E-cadherin with appropriate controls 
+demonstrating that the infiltrating carcinoma is
+strongly positive for a E-cadherin 
+confirming ductal type. Additionally, a couple of the
+lymph nodes were evaluated with PanKeratin 
+stain with appropriate controls. A section from
+the larger mass was evaluated for a 
+breast prognostic panel.
+PROTOCOL FOR EXAMINATION OF SPECIMENS WITH INVASIVE CARCINOMA OF THE BREAST
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE OF
+INVASIVE CARCINOMA:
+TUMOR SIZE:
+HISTOLOGIC GRADE:
+Total mastectomy
+Axillary disection
+Right
+Invasive ductal carcinoma (NOS)
+Greatest dimension of largest focus: 4 cm
+Nottingham histologic score
+Glandular differentiation: Score 3
+Nuclear pleomorphism: Score 2
+Mitotic index: Score 1
+Overall grade: Grade 2
+Multiple foci of invasive carcinoma
+No DCIS is present
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+MACROSCOPIC AND MICROSCOPIC
+** CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #
+PAGE 2
+Continued)
+COMMENT(S)
+EXTENT OF TUMOR:
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+(Continued)
+Skin: Invasive carcinoma directly invades into the
+dermis without skin ulceration
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 3 cm
+Number of sentinel lymph nodes examined: 0
+Total number of lymph nodes examined (sentinel and
+non-sentinel): 18
+Number of lymph nodes with macrometastasis: 5
+Number of lymph nodes with micrometastasis: 2
+Primary tumor: pT2
+Regional lymph nodes: pN2a
+Distance metastasis: Not applicable
+See microscopic description (ER+, PR+. Her2-)
+GROSS DESCRIPTION:
+Received fresh for selection of tissue for tissue banking labeled with the patient's name
+is a modified radical mastectomy specimen. The axillary contents measure 16 x 
+11 x 4 cm,
+The breast weighs 
+1.457 g
+palpation of which reveals clinically suspicious lymph nodes.
+and measures 30 x 18 x 6 cm. Skeletal muscle fibers are present on the deep margin.
+A large mass is palpated in the upper outer quadrant. The deep margin adjacent to this area
+The
+is inked blue. The breast is covered by a 30 x 18 cm ellipse of 
+dark brown skin.
+The nipple measures 2.5 cm in diameter and
+nipple and areolar complex is centrally placed.
+is somewhat firm on palpation. The breast is serially sectioned revealing a
+well-circumscribed grayish-white tumor within the upper outer quadrant measuring 3 x 3.5 x
+The deep margin
+On further evaluation, there
+4 cm.
+A portion of the tumor is provided to the tissue bank coordinator.
+measures 3 cm. The tumor lies 1.5 cm from the skin surface.
+is an apparent separate tumor in the upper outer quadrant with a core needle biopsy track
+This tumor is well away from the 
+surgical 
+margins.
+and this tumor measures 1.5 x 1 x 1 cm.
+No other discrete lesions are
+The remainder of the breast tissue is fatty in nature.
+identified. Examination of the axillary contents reveals multiple lymph nodes which range
+from 0.5 cm to 3.5 cm in greatest dimension each.
+tumor. Some are fatty in nature.
+Cassette Summary:
+1
+2
+3-7
+8
+9.10
+11-13-
+14
+15
+16-21-
+22.23-
+24-26-
+nipple
+deep margin adjacent to larger tumor
+sections of larger tumor
+Some of these are grossly involved by
+tissue between larger tumor and smaller tumor
+sections of smaller tumor
+sections of lateral, central. and medial breast tissue, respectively
+two highest axillary lymph nodes
+smaller whole lymph nodes
+one lymph node each sectioned and entirely submitted
+representative section of two large fatty lymph nodes
+representative section of each grossly positive lymph node
+** CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER
+SPEC #
+MICROSCOPIC DESCRIPTION:
+BREAST PROGNOSTIC PANEL
+LARGEST TUMOR
+ASSAY TYPE
+% TUMOR STAINED
+INTENSITY
+RESULTS
+Estrogen Receptor
+100
+3
+Progesterone Receptor
+85
+2
+POSITIVE
+POSITIVE
+Ki-67
+24
+2
+HIGH
+PAGE 3
+Continued)
+Her2/neu
+SCORE
+1+
+Positive >=1%
+NEGATIVE
+REFERENCE RANGES: ER/PR: Negative <1%.
+: Ki-67; Low <10%, Boderline 10-20%, High >20%
+: Her2/neu: Negative 0-1+, Equivocal 2+, Positive 3+
+Her2/neu results are reflexed to FISH.
+:
+All immunohistochemical staining and the
+interpretation utilizina
+Antibody clones:
+Clone 6F11;
+Her2/neu,
+were performed at
+performed scoring and
+Clone PgP1294: Ki-67,
+Clone MIB-1
+CAP/ASCO guidelines for ER and PgR IHC: formalin fixation time 6-72 hours; cold ischemia
+time 1 hour or less. CAP/ASCO guidelines for Her2 testing: formalin fixation 
+time 6-48
+hours: cold ischemia time 1 hour or less. Testing outside of these 
+guidelines may affect
+results.
+INTRAOPERATIVE CONSULTATION:
+RIGHT BREAST TISSUE:
+TUMOR ADEQUATE FOR TISSUE BANKING WITH PORTION OF TUMOR PROVIDED TO TISSUE BANK
+COORDINATOR
+Image
+Image
+Image
+Image
+Signed
+(signature on file).
+** END OF REPORT **
+Criteria
+liv
+lu 5/23/13
+Diagnosis Discrepancy
+Primary Tumur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nored
+Case is cle
+Review In
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+03/23/13

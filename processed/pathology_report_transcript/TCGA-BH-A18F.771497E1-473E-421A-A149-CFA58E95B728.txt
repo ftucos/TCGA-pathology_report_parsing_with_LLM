@@ -1,0 +1,122 @@
+Carcinoma, enfiltrating duct, NUS
+Site code: breast, NoS
+50.9
+CHIEF COMPLAINT/ PRE-OP/ POST-OP DIAGNOSIS: 1.2-cm mass posterior 12 o'clock right breast. Core biopsy Invasive ductal
+carcinoma.
+LMP DATE: Not provided.
+PROCEDURE. Right segmental mastectomy/sentinel lymph node biopsies
+SPECIFIC CLINICAL QUESTION: Not provided.
+OUTSIDE TISSUE DIAGNOSIS: No.
+PRIOR MALIGNANCY. No.
+CHEMORADIATION THERAPY: No.
+OTHER DISEASES No.
+8500/3
+10/14/10
+سال
+UUID:771497E1-473E-421A-A149-CFA58E95B728
+TCGA-BH-A18F-01A-PR
+Redacted
+ADDENDA:
+Addendum
+There a few satellite nodules ranging in size from 0.5-2 mm, which measure 0.5-1.2 cm from the main dominant nodule. These
+satellite nodules are the nodules that are seen closest to the margins, as reported.
+FINAL DIAGNOSIS:
+PART 1: BREAST, RIGHT, SEGMENTAL MASTECTOMY -
+A. INVASIVE DUCTAL CARCINOMA (see comment).
+B. NOTTINGHAM GRADE 3 (TUBULE FORMATION 3, NUCLEAR PLEOMORPHISM 3, MITOTIC ACTIVITY 3;
+TOTAL SCORE 9/9).
+C. THE INVASIVE TUMOR MEASURES 1.1 CM IN GREATEST DIMENSION (ON SLIDE IK).
+D. NO DUCTAL CARCINOMA IN-SITU (DCIS) IS IDENTIFIED.
+E.
+NO LYMPHOVASCULAR SPACE INVASION IS IDENTIFIED.
+F. RESECTION MARGINS ARE NEGATIVE FOR INVASIVE CARCINOMA; INVASIVE CARCINOMA MEASURES
+LESS THAN 1 MM FROM THE ANTERIOR AND INFERIOR MARGINS, 1 MM FROM THE MEDIAL MARGIN, AND
+1.5 MM FROM THE POSTERIOR MARGIN.
+G. SKIN, NEGATIVE FOR TUMOR.
+H. ATYPICAL DUCTAL HYPERPLASIA.
+1.
+J.
+CALCIFICATIONS ASSOCIATED WITH INVASIVE CARCINOMA.
+FIBROCYSTIC CHANGES WITH DUCTAL EPITHELIAL HYPERPLASIA AND COLUMNAR CELL ALTERATIONS.
+K. CHANGES CONSISTENT WITH PRIOR BIOPSY SITE
+L. THE INVASIVE TUMOR CELLS ARE NEGATIVE FOR ESTROGEN AND PROGESTERONE RECEPTORS AND
+ALSO NEGATIVE FOR HER-2/NEU (SCORE 0), AS PER PREVIOUS REPORT NE
+PART 2: AXILLA, RIGHT, CYST EXCISION -
+EPIDERMAL INCLUSION CYST.
+PART 3: LYMPH NODE, RIGHT AXILLARY, SENTINEL #1, BIOPSY –
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 4: LYMPH NODE, RIGHT AXILLARY, SENTINEL #2, BIOPSY-
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 5: LYMPH NODE, RIGHT AXILLARY, SENTINEL #3, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+COMMENT:
+The triple negative invasive tumor was reported to be positive for basal markers, as per previous report (
+M
+Although the mass grossly measured 1.4 cm by gross examination, the tumor is best estimated to be 1.1 cm
+based on the microscopic measurement from slide 1K.
+CASE SYNOPSIS:
+SYNOPTIC PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Right
+Segmental
+Clock position:12 odlock
+Maximum dimension invasive component: 11 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+CALCIFICATION:
+No
+Ductal adenocarcinoma, NOS, Other Type(s): Basal-like phenotype confirmed by IHC
+on biopsy
+Nuclear grade: 3
+Tubule formation 3
+Mitotic activity score. 3
+Total Nottingham score: 9
+Nottingham grade (1, 2, 3): 3
+No
+No
+Yes, malignant zones
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+Distance of invasive tumor to closest margin: 0.5 mm
+LYMPH NODES POSITIVE:
+LYMPH NODES EXAMINED:
+3
+METHOD(S) OF LYMPH NODE EXAMINATION:
+H/E stain
+SENTINEL NODE METASTASIS:
+No
+SKIN INVOLVED (ULCERATION):
+No
+NON-NEOPLASTIC BREAST TISSUE: ADH, FCD, Other: ductal epithelial hyperplasia, columnar cell alterations
+T STAGE, PATHOLOGIC:
+N STAGE, PATHOLOGIC:
+M STAGE:
+pT1c
+pNO
+Not applicable
+ESTROGEN RECEPTORS:
+negative
+PROGESTERONE RECEPTORS:
+negative
+HER2/NEU:
+0
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED
+Date Reviewed:
+the
+Yes
+No
+DISQUALIFIED

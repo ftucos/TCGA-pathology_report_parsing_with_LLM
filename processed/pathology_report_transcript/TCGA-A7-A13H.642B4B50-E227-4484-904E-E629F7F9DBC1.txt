@@ -1,0 +1,179 @@
+UUID:64284B50-E227-4484-904E-E629F7F9DBC1
+TCGA-A7-A13H-01A-PR
+Redacted
+ICD-0-3
+Carcinana, Infiltrating lobular, Nos
+852013
+SPECIMEN
+A. Right axillary sentinel node
+B. Right breast
+CLINICAL NOTES
+silk stitch marks superior breast
+سال
+11/1060
+Site: breast, C50.9
+Nos
+female with breast cancer.
+PRE-OP DIAGNOSIS: Right breast cancer
+CLINICAL HISTORY:
+year old
+POST-OP DIAGNOSIS: Right breast cancer
+FROZEN SECTION DIAGNOSIS
+A. Right axillary sentinel node, biopsy: Three lymph nodes.
+Negative for malignancy on frozen.
+GROSS DESCRIPTION
+The specimen is received fresh for frozen section labeled
+"A. right axillary sentinel node" and consists of a 5.5 x 3
+x 1.5 cm. piece of fatty yellow tissue. The specimen is sectioned to
+reveal three separate lymph nodes. One measures 4 cm. in greatest
+dimension and shows prominent fatty replacement of the hilus.
+Another node measures 1.5 cm. in greatest dimension and the smallest
+lymph node appears to measure 1 cm. in greatest dimension. The lymph
+node tissue is entirely frozen. The largest lymph node is sectioned
+and entirely frozen as frozen sections AFS1 and AFS2. The medium
+sized lymph node is entirely frozen as frozen section AFS3 and the
+possible smallest lymph node is frozen as frozen section AFS4. RS4
+kaa
+B. Received fresh for tissue procurement labeled "right)
+breast" is a 24.5 cm. (superior to inferior) x 19.0 cm.
+(medial to lateral) x 5.0 cm. (anterior to posterior) diffusely
+cauterized soft, lobulated tan gold-white portion of fibroadipose
+tissue in keeping with breast designated as right per requisition
+slip and container and oriented by a single suture as stated
+previously. There is a 7.5 cm. (medial to lateral) x 4.5 cm.
+(superior to inferior) slightly wrinkled white skin ellipse with a
+central, inverted, 0.5 x 0.5 cm. nipple along the anterior aspect.
+The intact deep margin is inked black and the specimen is sectioned.
+There is a stellate, 2.2 cm. (medial to lateral) x 1.6 cm. (superior
+to inferior) x 1.3 cm. (anterior to posterior) tan white lesion at
+the junction of the four quadrants subjacent to the aforementioned
+skin ellipse. The lesion is 4.0 cm. from the inked deep margin and
+1.7 cm. from the overlying skin ellipse. A 2.3 cm. (anterior to
+posterior) x 1.3 cm. (superior to inferior) x 1.3 cm. (medial to
+lateral) vacant biopsy cavity is present medial to the
+aforementioned lesion. A portion of the lesion and a portion of
+normal parenchyma are submitted for tissue procurement as requested.
+The cut surfaces throughout the remainder of the specimen consist
+predominantly of glistening lobulated golden yellow adipose tissue
+with a minimal amount of interspersed delicate tan-white fibrous
+tissue. A single, 0.3 cm. "blue dome cyst" is identified within the
+lower outer quadrant (see block 10). Representative sections are
+submitted in 11 blocks as labeled. RS-11.
+BLOCK SUMMARY: 1 - Deep margin subjacent to lesion; 2 - lesion to
+overlying skin ellipse; 3-6 - lesion and representative biopsy
+cavity; 7 random upper outer quadrant; 8 - upper inner quadrant; 9
+lower inner quadrant; 10 - lower outer quadrant; 11 - nipple with
+subjacent tumor.
+MICROSCOPIC DESCRIPTION
+A. Microscopic examination of the sentinel lymph nodes.
+from the right axilla involve evaluation of two H&E-stained
+sections at the time of frozen section and an additional three
+H&E stained sections of each of the tissue blocks after formalin
+fixation and paraffin embedding. Pancytokeratin AE1/AE3
+immunohistochemical stains were also evaluated.
+Although no tumor
+was identified on the original frozen sections, tumor was identified
+in the permanent sections in the largest lymph node in blocks AFS1
+and AFS2. Overall, the metastatic tumor measures 8 mm in greatest
+dimension. No extranodal tumor is identified (pNla).
+B.
+Microscopic examination of the right breast mastectomy
+reveals
+Invasive carcinoma: Present
+Histologic type:
+Infiltrating lobular carcinoma
+Histologic grade: Elston SBR grade 2
+Overall grade: 2
+Architectural score: 3
+Nuclear score: 1-2
+Mitotic score: 1
+Greatest dimension (PT):
+2.2 cm (pT2)
+Specimen margins: Completely negative for tumor (much greater
+than 1 cm from tumor)
+Vessel invasion: Not identified
+Calcification: Focally present
+Nipple (Paget's): There is no evidence of Paget's disease.
+Invasion of skin or chest wall: Not identified
+Ductal carcinoma in situ: Not identified
+Description of non-tumorous breast: Prominent lobular carcinoma in
+situ was
+identified associated with the invasive tumor and towards the edge
+around the invasive tumor. The background tissue shows.
+proliferative fibrocystic
+changes with florid ordinary ductal hyperplasia and columnar cell
+change,
+cysts and microcysts, apocrine metaplasia and sclerosing
+adenosis.
+Comments: E-cadherin immunohistochemical stain was evaluated on
+block 11 and demonstrated a lack of staining in both the invasive
+and the in situ tumor,
+helping to support the lobular interpretation.
+Distant metastasis (PM): Cannot evaluate pMx.
+Prognostic markers:
+Have been ordered on block Bll.
+Breast Prognostic Marker Report:
+Results
+% positive.... Staining intensity.
+Estrogen receptor:...
+80%
+Moderate strong
+Moderate
+Progesterone receptor:.. 30%
+Her2/neu by IHC:...
+.2+
+Interpretation
+Estrogen receptor:.
+POSITIVE
+Progesterone receptor:.. POSITIVE
+Her2/neu by IHC:
+EQUIVOCAL, BLOCK B11 SENT FOR FISH
+Comments
+Fixation time:
+30MIN
+Cold ischemia time: .....62HRS
+Prognostic markers were done by immunohistochemical stain on
+paraffin sections from 10% neutral buffered formalin fixed tissue
+using Ventana corporation antibodies on a Benchmark automated
+stainer.
+The Her2/neu antibody is clone 4B5 and has been approved by the
+FDA as an aid in the assessment of breast cancer patients for whom
+Herceptin treatment is considered.
+This laboratory meets the test validation and quality assurance
+requirements of the ASCO/CAP guidelines for Her2 and ER testing for
+carcinoma of the breast (Arch Pathol Lab Med 2007;131:18-43. Arch
+Pathol Lab Med 2010;134:907-922). ER, PR and HER-2 results are
+scored using the recommended ASCO/CAP criteria.
+4x2,14x1, 15x3,20x2,25×3
+DIAGNOSIS
+A. Right axillary sentinel lymph nodes, biopsy:
+B.
+METASTATIC LOBULAR CARCINOMA PRESENT IN 1 OF 3 LYMPH NODES.
+Tumor 8 mm in greatest dimension, no extranodal tumor present
+(pNla).
+Right breast, mastectomy:
+Infiltrating lobular carcinoma, tumor size 2.2 cm in greatest
+dimension (pT2).
+Resection margins are negative for invasive carcinoma.
+Lobular carcinoma in situ.
+Proliferative fibrocystic changes and prior biopsy site
+effects.
+Estrogen receptor Positive
+Progesterone receptor Positive
+HER-2 Equivocal, block sent for FISH testing.
+See microscopic description.
+DIAGNOSIS
+M.D. (Electronic Signature)
+riteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+[IPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+ase is circle):
+eviewer initial
+sx QUALIFIED
+Yes
+Na
+DISQUALIFIED
+Date Reviewed;

@@ -1,0 +1,273 @@
+101-0-3
+Carcinoma, infiltrating duct, NOS 8500/3
+Site: breast, Nos C50.9
+1/28/11
+Mu
+Pathology Form
+Specimen Information
+Collected by:
+Preserved by:
+n
+n
+Date:
+Time:
+Date:
+ime:
+Frozen
+Diseased
+x
+Normal
+☑
+Diseased
+Paraffin Block
+Normal
+SPECIMEN TYPE (# of samples provided)...
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+Normal
+☑
+х
+Time to LN2
+min
+min
+Organ
+Breat
+Time to Formalin
+хо
+PATHOLOGICAL DESCRIPTION:
+Primary Tumor
+Size
+Time to LN2
+min
+3x2x4.5cm
+Location
+Axilla
+Lymph Nodes
+Extension of Tumor
+Distance to NAT
+NO
+1,2
+cm
+# Examined
+7
+# Metastasized
+2
+Notes:
+Detailed Location
+Size
+Organ
+NO
+Distant Metastasis
+Pathological Staging
+NA
+PT2
+Мо
+Stage:
+11 B
+UUID:B6428344-2D68-404B-AD9F-CA6E0B055282
+TCGA-C8
+-A12U-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circie):
+QUALIFIED
+Date Reviewed:
+LISQUALIFIED
+tw
+n
+Microscopic Description
+Histological Pattern
+#: (
+Cell Distribution
+Diffuse
+Mosaic
+Necrosis
+Lymphocytic Infiltration
++
+-
+一个
+Streaming
+Storiform
++
+Fibrosis
+Palisading
+Structural Pattern
++
+Vascular Invasion
+Cystic Degeneration
+Clusterized
++
+Bleeding
+Alveolar Formation
+Myxoid Change
+Indian File
+Psammoma/Calcification
+Cellular Differentiation
+Squamous
++
+-
+Adenomatous
++
+Sarcomatous
++
+Squamoid Cell
+Glandular cell
++
+Round Cell
+Spindle Cell
+Cell Stratification
+Fibroblast
+Lymphomatous
+Large Cell
+Small Cell
++
+Keratin
+Secretion
+Osteoblast
+RS Cell/RS Like
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Inflam. Cell
+Pearl
+Gland formation
+H
+Myoblast
+Plasma Cell
+Cellular Differentiation:
+Well
+Nuclear Appearance
+* Moderate
+Poor
+Nuclear Atypia:
+0
+II
+III
+Aniso Nucleosis
++
++
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade:
+IHC Data
+Marker
+Result
+Value
+ER
+☐ Negative □ Positive
+□ Negative □ Positive
+PR
+Her-2/neu
+B-Cell Marker
+T-Cell Marker
+Other:
+Other:
+☐ Negative □ Positive
+□ Negative ☐ Positive
+□ Negative □ Positive
+□ Negative □ Positive
+☐ Negative □ Positive
+Final Pathology Report
+Histological Diagnosis: Invasive Ductal Carciuma
+Comments:
++
+Date
+Grade: π
+Date
+Principal Investigator
+Pathologist
+n
+117-
+1330
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+CELL DISTRIBUTION
++
+STRUCTURAL PATTERN
++
+Diffuse
+Mosaic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+2. Cellular features:
+Indian File
+Squamous
+Squamoid Cell
+Spindle Cell
+Keratin
+Desmosome
+Pearl
++
+-
+☑ Streaming
+Storiform
+☑Fibrosis
+Palisading
+2 Cystic Degeneration
+Bleeding
+☑Myxoid Change
+✓ Psammoma/Calcification
+Adenomatous
++
+-
+Glandular cell
+X
+Cell Stratification
+Secretion
+Intracyt. Vacuole
+X
+Gland formation
+Sarcomatous
+Round Cell
+Fibroblast
+Osteoblast
+Lipoblast
+☑ Myoblast
++
+Lymphomatous
++
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+Otherwise Specified: 0,707, Don 50% D3 507, 74 38%
+2. Cellular Differentiation:
+Well
+Moderately
+3. Nuclear Atypia:
+Nuclear Appearance
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade
+Poor
+☑
+I
+II
+0
+0
+Histological Diagnosis: Infiltrating Ductal Carcinoma, Nos, 6-3,
+M.: Carcinoma Metastasized to LN
+Comments:
+Date
+(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

@@ -1,0 +1,177 @@
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right axillary sentinel lymph node #1, biopsy:
+ICD-O-B
+Carcinoma, infiltrating
+ductal 8500/3
+Metastatic ductal carcinoma (1.3cm) involving single lymph node (1/1)
+B. Right axillary sentinel lymph node #2, biopsy:
+- One lymph node, no tumor (0/1)
+C. Right axillary sentinel lymph node #3, biopsy:
+- One lymph node, no tumor (0/1)
+D. Right axillary non sentinel lymph node, biopsy:
+- One lymph node, no tumor (0/1)
+E. Right breast, wire-guided lumpectomy:
+- Invasive ductal carcinoma, SBR III, multiple foci (largest 1.3cm)
+Site: ②Breast NOS
+0509
+W 2/18/13
+UUID:C8297152-7551-49A1-8C9D-6B411391AC77
+TCGA-OL-ASRY-01A-PR
+Redacted
+- Ductal carcinoma in situ high grade, solid, cribriform and micropapillary
+types with central necrosis and associated calcifications; DCIS spans entire
+specimen (8cm in greatest dimension)
+F. Right breast, new inferior lateral margin, excision:
+- Ductal carcinoma in situ, intermediate grade, microscopic foci (largest 5mm)
+- Microscopic foci (each 1mm) of DCIS present at outer medial aspect of specimen
+G. Right breast, new outer lateral margin, excision:
+· Ductal carcinoma in situ, rare microscopic foci (largest 1mm)
+© DCIS >1cm from nearest new margin
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Microscopic measurement: Multifocal; largest focus (measures 1.3cm)
+B. Composite histologic (modified SBR) grade: III (largest focus)
+Architecture: 2
+- Nuclear grade: 3
+- Mitotic count: 3
+C. Associated intraductal carcinoma in situ (DCIS):
+-
+- High grade, solid, cribriform and micropapillary types
+DCIS involves entire specimen and spans 8cm in greatest dimension
+2. Excisional biopsy margins: Positive
+- DCIS present at medial margin, <1mm from anterior, posterior, lateral,
+superior, and inferior margins (tumor approaches margins at multiple foci
+throughout specimen)
+- Invasive carcinoma at inferior and 1mm from posterior margin; additional
+margins greater than 2mm away
+3. Blood vessel and lymphatic invasion: Present in breast parenchyma
+4. Axillary lymph nodes: Positive (1/4)
+-Size of largest metastatic deposit: 13 mm
+- Extranodal extension: absent
+5. Special studies
+- ER: Weak expression in 10% of invasive tumor nuclei
+PR: No expression
+- Her2/neu antigen (FISH): Amplified (ratio: 7.6)
+6. pTNM (AJCC, 7th edition, 2010): pT1c(m), N1(sn), MX
+Effective
+is Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+has1
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow
+Electronically Signed Out by
+Clinical History:
+Patient is a -year-old female with right breast IDC undergoing lumpectomy and
+sentinel lymph node biopsy.
+Specimens Received:
+A: Sentinel lymph node #1
+B: Sentinel lymph node #2
+C: Sentinel lymph node #3
+D: Non-sentinel lymph node
+E: Right wire-guided lumpectomy
+F: Right breast new inferior lateral margin
+G: New outer lateral margin
+Gross Description:
+The specimens are received in seven containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'sentinel lymph node #1'.
+Received fresh and placed in formalin the specimen consists of a 1.5 x 1 x 1 cm
+lymph node which is serially sectioned and entirely submitted in cassette A1.
+B. The second container is additionally identified as, 'sentinel lymph node
+#2'. Received fresh and placed in formalin the specimen consists of a 1 x 0.5 x
+0.3 cm lymph node which is bisected and is entirely submitted in cassettes B1.
+C. The third container is additionallyidentified as, 'sentinel lymph node #3'.
+Received fresh and placed in formalin the specimen consists of a 0.7 x 0.3 × 0.3
+cm lymph node which is entirely submitted in cassette C1.
+D. The fourth container is additionally identified as, 'non-sentinel lymph
+node'. Received fresh and placed in formalin the specimen consists of a 0.5 x
+0.3 x 0.3 cm lymph node which is entirely submitted in cassette D1.
+E. The fifth container is additionally identified as, 'right wire guided
+lumpectomy'. Received fresh on a radiographic grid is a 102 gm lumpectomy
+specimen measuring 8 cm from medial to lateral, and 8 in cm from superior to
+inferior and 3 cm from anterior to posterior. The specimen is oriented with a
+short suture designating the superior pole and a long suture designating the
+lateral pole. There is a wire entering the antero-lateral aspect of the specimen
+through grid coordinate E5. Accompanying the specimen is an x-ray demonstrating
+a metallic clip located in grid coordinate E3. There is a circled mass in grid
+positions C3, C4, D3, D4, centered on the clip. The wire enters the specimen in
+grid coordinates E5 terminates in E3. 2 other areas of calcifications are
+circled in grid coordinates D6 (#2) and F4-F5 (#3).
+The margins are inked as follows:
+anterior - black;
+posterior - red;
+superior - blue;
+inferior - green;
+medial yellow;
+lateral violet.
+The specimen is serially sectioned from medial to lateral into 8 slices. The
+area of calcifications noted in grid D6 begins in the slides #2 and extends
+laterally the tumor the main to mass and measures 3 x 2 x 1.5 cm. is found in
+the slices #2 and 3 adjacent to the red and green ink. The main mass, which is
+irregular and firm, is present in slices #5 to #7 and measures 3.5 x 2.5 x 2 cm.
+It is present adjacent to red ink and is 1 cm from black ink, 3 cm from green
+ink, 1.5 cm away from blue ink. The area of calcification noted in grid F4 and
+F5 is present in the slices numbers 7 and activated ink measuring 1.5 x 1.1 × 1
+cm and is continuous with the main mass. The metallic clip is identified in
+slice 6. The wire enters the specimen in slice 5 and terminates in slice 5. The
+remainder of the breast parenchyma is white-yellow and lobulated with no
+additional masses or lesions.
+Entire mass including both calcified area was has a largest dimension of 5 cm.
+Specimen is submitted in toto.
+Block summary:
+E1-E4: medial margin, slice 1
+E5-E9: slice 2, area of calcification
+E10-E23: slice 3, area of calcification
+E24-E31: slice 4
+E32-E44; slice 5
+E45-E62: slice 6, clip in E49-E50
+E63-E78: slice 7
+E79-E86: lateral margin, slice 8
+F. The sixth container is additionally identified as, 'right breast, new
+inferior lateral margin'. Received fresh on the radiographic grid is a 13.5 gm,
+-
+6.5 x 4 x 1.2 cm medial inferior lateral margin which is oriented as follows:
+new outer lateral margin is marked with a long black stitch (violet)
+- new outer medial margin is designated with a short black stitch (yellow)
+- new outer anterior margin is designated with a short blue stitch (black)
+- new outer posterior margin is designated with a long blue stitch. (red)
+Inner cauterized margin is inked green. An area of calcification is noted on the
+accompanying x-ray in grid D4-D5-E5. Specimen is a serially sectioned from
+lateral to medial in to 14 slices. An area of calcification is present in slice
+#6 and measures 1 x 0.5 x 0.3 cm. No other lesions are identified. The specimen
+is entirely submitted from lateral to medial.
+F1: slice 1-3
+F2: slice 4-5
+F3: slice 6
+F4: slice 7
+F5-F6: slice 8
+F7: slice 9
+F8: slice 10
+F9: slice 11
+F10: slice 12
+F11: slice 13-14
+G. The seventh container is additionally identified as, 'new outer lateral
+margin'. Received fresh ona radiographic grid is a 20 gm, 8 x 3.5 x 1 cm new
+outer lateral margin. Specimen is oriented as follows
+- new outer superior is designated with a short black stitch (blue)
+- new outer inferior is designated with a long black a stitch (green)
+- new outer anterior is designated with a short blue stitch (black)
+- new outer posterior is designated with a long blue stitch (red)
+Inner cauterized margin is inked violet. Specimen is serially sectioned from
+lateral to medial into 14 slices and does not contain any distinct masses or
+lesions. Specimen is submitted in toto in cassettes G1-14.
+Criteria
+w 2/10/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is girdle): N
+Reviewers
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+113

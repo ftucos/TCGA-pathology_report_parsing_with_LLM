@@ -1,0 +1,110 @@
+urgical Pathology
+Surg Path
+Carcinoma, infiltrating ductal, NOS 8500/3
+Path: Site, breast, upper outer quadrent C50.4
+CQCF: breast, Nos (50.9
+1/25/" lead'
+CLINICAL HISTORY:
+Right breast mass with needle aspiration compatible with infiltrating ductal
+carcinoma. Right 
+breast carcinoma.
+GROSS EXAMINATION:
+A. "Right breast", in formalin. This is a 2700 gram, 36 x 21.5 x 63 cm
+modified 
+radical mastectomy specimen with an attached skin ellipse 31 x 22 cm.
+The skin contains 
+circumferential 8.3 x 2.2 cm area and a retracted 1.5 cm
+nipple. 
+There is no biopsy scar or other skin lesions.
+of the breast tissue is fibrofatty yellow-white in appearance. In the upper
+Upon sectioning 
+most
+outer quadrant. There 
+is a 3.0 x 2.8 x 3.0 cm firm, infiltrating pink-grey
+mass. It is 2 
+cm deep from the skin, 5 cm from the nearest lateral margin and
+5.0 cm from the nearest deep 
+margin. Tissue has been submitted for ER/PR
+studies. No 
+other focal lesions are found. Attached is a 13.0 x 9.0 × 4.0
+axillary 
+tail containing multiple potential lymph node candidates. A suture
+demarks level I from 
+levels II and III.
+BLOCK SUMMARY:
+A1-A3- tumor.
+A4- deep margin.
+A5- lateral margin.
+A6- lower outer quadrant.
+A7- upper medial quadrant.
+A8- lower medial quadrant.
+A9- skin overlying tumor mass.
+A10
+nipple.
+All areola.
+A12- bisected lymph node candidate level I.
+A13- three lymph node candidates level I.
+A14 three lymph nod candidates level II.
+A15- five respective lymph node candidates level II.
+A16- one bisected lymph node candidate level III.
+A17- one bisected lymph node candidate level III.
+A18- three potential lymph node candidates level III.
+Dr.
+DIAGNOSIS:
+with Dr.
+A. "RIGHT BREAST",
+(MODIFIED RADICAL MASTECTOMY):
+UUID:8587CCDD-1ED2-437A-BDF8-684AF474A8A6
+TCGA-B6-A0WZ-01A-PR
+Redacted
+INFILTRATING CARCINOMA PRESENT, INFILTRATING DUCTAL (TUBULOLOBULAR SUBTYPE)
+N.S.A.B.P HISTOLOGIC 
+GRADE 1-2 OF 3.
+N.S.A.B.P. NUCLEAR GRADE 1-2 OF 3.
+GROSS TUMOR SIZE, 3 CM.
+INVASIVE TUMOR SIZE, 3 CM.
+LOCATION OF TUMOR, UPPER OUTER QUADRANT.
+MULTIFOCAL TUMOR, NO.
+IN SITU CARCINOMA PRESENT OCCUPYING LESS THAN 5% OF TUMOR.
+TYPE OF IN SITU CARCINOMA, DUCTAL NON-COMEDO TYPE.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE, INTRADUCTAL HYPERPLASIA
+MODERATE
+,
+MICROCYST FORMATION, APOCRINE METAPLASIA, SCLEROSING ADENOSIS.
+LYMPHATIC/VASCULAR INVASION, PRESENT.
+SURGICAL MARGIN STATUS, NEGATIVE.
+NIPPLE STATUS, PAGET'S DISEASE ABSENT.
+Yes
+No
+SKIN STATUS, FREE OF MALIGNANCY.
+MUSCLE STATUS, NOT SAMPLED.
+Criteria
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noed
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+LYMPH NODE STATUS, 11 OF 21 LYMPH NODES POSITIVE FOR CARCINOMA (11/21).
+EXTRACAPSULAR EXTENSION, PRESENT IN 4 OF 21 NODES EXAMINED.
+SIZE OF LARGEST INVOLVED LYMPH NODE, 1.6 CM.
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS PENDING, YES.
+ADDENDUM 1:
+Verified by:
+Date Signed:
+M.D. Pager#
+Tissue was sent to the
+for assay of the Estrogen
+and Progesterone receptors. The Estrogen receptor activity was judged as
+positive with an estimated fmol valve of 127. The Progesterone receptor
+activity 
+was judged as positive with an estimated fmol valve of 152. Please
+refer to
+for a complete report.
+Verified by:
+Date Signed:
+M.D. Pager#

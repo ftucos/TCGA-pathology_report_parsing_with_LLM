@@ -1,0 +1,410 @@
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, Nos C50.9
+for 4/27/11
+سلام
+Redacted
+UUID: EA830A26-3DF5-4731-ADBA-F20A61D58817
+TCGA-A7-A26E-01A-PR
+DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE
+Date Coll:
+SPECIMEN
+A. Left axillary sentinel node #31
+B. Left breast stitch marks long lateral, short superior
+C. Intraop lymph node left axilla
+D. Right breast tissue long stitch lateral, short stitch superior
+E. Left axillary content
+CLINICAL NOTES
+PRE-OP DIAGNOSIS: Left breast carcinoma.
+POST-OP DIAGNOSIS: Left breast carcinoma.
+CLINICAL HISTORY: Left breast carcinoma.
+FROZEN SECTION DIAGNOSIS
+A
+-
+contains
+Two lymph nodes negative for metastatic disease.
+Amended 
+diagnosis
+-
+Upon re-appraisal, the smaller node
+a focus of carcinoma consistent with lobular origin.
+L
+.
+GROSS DESCRIPTION
+a
+A. The specimen is received fresh for frozen section
+labeled "left 
+axillary sentinel node #31". It consists of
+portion of hemorrhagic adipose tissue measuring 3.5 x 2.4 x 0.9 cm.
+On section it is fatty and 
+slightly indurated consistent with nodal
+tissue. One such node measures 
+3.2 x 1.8 x 0.6 cm. A second smaller
+node is present 
+measuring 0.6 cm. by 0.5 x 0.5 cm. The larger node
+is bisected and all submitted 
+for frozen section as FS1 and FS2.
+The smaller node is bisected 
+and all submitted as FS3.
+B. Received fresh, labeled "left breast" is an 18.0
+cm. (medial to lateral) x 15.5 cm. (superior to inferior) x
+5.0 cm. (
+anterior to posterior
+) diffusely cauterized soft, lobulated
+tan gold-white portion of 
+fibroadipose tissue in keeping with
+breast
+designated as left per requisition slip and container and oriented
+by two sutures as stated 
+previously. There is a 9.6 cm. (medial to
+lateral) x 3.8 cm. (superior to 
+inferior) wrinkled white skin
+ellipse
+with an eccentric, flattened, 1.2 x 1.1 cm. nipple along the
+anterior aspect. A well 
+healed and retracted 1 cm. cicatrix is
+present along the skin surface 
+corresponding to the lower outer
+quadrant. The anterior 
+surface surrounding the lateral portion of
+the skin ellipse is inked blue
+, the intact deep margin is inked
+There is a poorly defined,
+stellate, 5.5 cm. (medial to lateral) x 4.0 cm. (superior to
+black and the specimen is sectioned.
+inferior)
+The
+× 2.2 (anterior to posterior) oblique rubbery tan white tumor mass,
+extending from the lower outer quadrant 
+centrally to the junction
+of the four quadrants. A portion of tumor 
+and a portion of normal
+parenchyma are submitted for tissue procurement 
+as requested.
+tumor focally extends to within 1.2 cm. of 
+the inked deep margin 
+and
+1.1 cm. from the anterior/skin surface
+. The parenchyma throughout
+the remainder of the specimen consists predominently 
+of glistening
+lobulated golden yellow adipose tissue with 
+a minimal amount of
+No additional 
+mass
+interspersed delicate tan white fibrous 
+tissue.
+Representative sections are
+lesion or abnormality is identified.
+RS-12.
+submitted in twelve blocks as labeled.
+-
+tumor to
+BLOCK SUMMARY: 1,2 - Tumor to inked deep margin; 3,4
+overlying skin ellipse/anterior surface of 
+the 
+specimen;
+tumor
+8 random upper outer quadrant; 9
+lower outer
+lower inner quadrant; 11
+upper
+-
+to adjacent parenchyma;
+inner quadrant; 10 -
+quadrant; 12 nipple.
+axilla"
+pink
+4.2
+is
+-
+C. Received fresh, labeled "intraop lymph node left
+is 1 cm. in greatest dimension slightly rubbery white
+tissue in keeping with lymph node with a moderate amount of
+The specimen 
+is bisected and 
+entirely
+associated adipose tissue.
+submitted in one block. AS-1.
+D. Received fresh, labeled "right breast tissue" is a
+diffusely cauterized and slightly fragmented
+, 8.6
+cm. (medial to lateral) x 6.4 cm. (anterior to posterior
+) x 
+3.4
+cm. (superior to inferior) soft, lobulated 
+tan gold-white 
+portion of
+The
+fibroadipose tissue, with two sutures as 
+stated previously.
+superior 
+blue, inferior black
+,
+margins are inked as follows:
+The specimen is sectioned
+anterior green, and posterior orange.
+There is a 6.5 cm. (medial to lateral) x
+from medial to lateral.
+cm. (anterior to posterior) x 1.0 cm. (superior to inferior) vacant
+The cavity
+biopsy cavity occupying the majority of 
+the specimen.
+focally contiguous with the anterior, posterior, and superior inked
+The
+margins. No residual lesion or abnormality 
+is noted grossly.
+cut surfaces throughout the specimen consist 
+predominately of
+mildly
+congested glistening lobulated golden yellow adipose tissue with a
+scant amount of interspersed delicate 
+tan white fibrous tissue.
+Representative sections are submitted in a 
+sequential manner 
+from
+RS-10.
+medial to lateral in ten blocks as 
+labeled.
+-
+BLOCK SUMMARY: 1 Perpendicular sections entire medial margin cap;
+pale
+sequential sections; 10
+sections lateral margin cap.
+-
+representative perpendicular
+-"
+E. Received fresh, labeled "left axillary content'
+unoriented, 6.5 x 5.8 
+x 1.8 cm. portion of soft, lobulated
+is an
+golden 
+yellow adipose tissue. Several soft 
+to slightly rubbery
+tan tissues in keeping with lymph nodes measuring up to 1.8 cm. in
+greatest dimension are recovered. The 
+lymphoid tissues are
+entirely
+submitted in three blocks as labeled. RS-3.
+-
+BLOCK SUMMARY: 1 Eight whole lymph nodes; 2
+nodes; 3 one bisected 
+lymph node
+five whole lymph
+MICROSCOPIC DESCRIPTION
+A. Two lymph nodes are examined in their entirety at
+multiple levels.
+with minimal extra-capsular extension,
+The smaller 
+contains a 3 mm. metastasis
+].
+୮
+B. The previously biopsied large tumor is an infiltrating
+lobular carcinoma.
+main tumor), there is a focus of invasive ductal carcinoma which is
+In one 2 mm. 
+area (block %236 within the
+nuclear grade 1 (architectural score 1, 
+nuclear score 2, mitotic
+score 
+1). In addition, in blocks 4 
+and 5 there is in situ tumor
+which, with the help of E-Cadherin 
+stain, proves to be ductal
+carcinoma in situ, nuclear grade 2. 
+Please see the template below.
+Invasive carcinoma:
+Histologic type: Infiltrating lobular carcinoma with single
+small focus of associated infiltrating 
+ductal carcinoma.
+Histologic grade: The invasive 
+lobular carcinoma is moderately
+differentiated.
+Overall grade: (**Last Name (un) 1**] SBR grade 2.
+Architectural score:
+Nuclear score: 2.
+Mitotic score: 1.
+3.
+The tumor measures 5.5 cm., pT3.
+Greatest dimension (PT):
+Negative.
+Specimen margins:
+Vessel invasion: Suspicious for lymphatic invasion.
+invasion is noted.
+Calcification: Negative.
+Perineural
+Nipple (Paget's): No Paget's disease of the nipple is present.
+Major lactiferous ducts, however, contain 
+lobular neoplasia in
+situ, 
+supported by stain for E-Cadherin. 
+There is also a 1.5
+mm. of invasive lobular carcinoma within the subareolar tissue,
+supported by stains for P63 
+and E-Cadherin.
+Invasion of skin or chest wall:
+Negative.
+Ductal carcinoma in situ (supported by stain for E cadherin):
+Histologic pattern:
+Nuclear grade:
+2.
+Central necrosis:
+Solid.
+Negative.
+% DCIS of total tumor (if mixed):
+The DCIS appears to be
+Absent.
+separate from the invasive lobular carcinoma.
+Extensive intraductal component (present/absent):
+Specimen margins:
+Calcification:
+Negative.
+Negative.
+Description of non-tumorous breast:
+Fibrocystic changes are also
+fibroadenoma
+present, including cysts, apocrine metaplasia, a 3 mm.
+and rare calcification
+.
+Comments:
+E-Cadherin on block %235 supports the diagnosis of ductal
+carcinoma in situ.
+Lymph nodes:
+As per parts A, C and E,
+one of which contains metastatic
+Number of positive nodes of total:
+there are 16 mnh nodes
+.
+carcinoma, [
+Size of largest metastasis:
+3 mm.
+Extracapsular extension (present/absent):
+PN: 1A
+Present.
+Distant metastasis (PM):
+Cannot be assessed.
+Prognostic markers:
+Please see
+C. A single lymph node is present.
+Negative for
+metastatic
+disease, 0/1.
+In
+D. This portion of tissue contains biopsy site changes.
+situ tumor is noted in blocks 1 through 7. With the
+assistance of stains for E-Cadherin on all of these blocks, it is
+apparent that the tumor in 
+blocks
+*] and 5 is lobular
+carcinoma in
+situ. The tumor in blocks 4, 6 and 7 prove to be ductal carcinoma
+in situ. Also, in block 7, 
+there is a 1.1 mm.
+tumor which proves to be of ductal origin.
+focus of invasive
+below for the details regarding the ductal tumor.
+Please see the template
+Invasive 
+Carcinoma:
+Histologic type: Infiltrating ductal carcinoma.
+Histologic 
+grade: Moderately differentiated.
+Overall grade:
+[**Last Name (un) 1**] SBR grade 2.
+Architectural score:
+Nuclear score: 2.
+Mitotic score: 1.
+Greatest dimension (PT):
+3.
+Specimen margins:
+The tumor measures 1.1 mm., pT1a.
+Invasive tumor is less than 1 mm from the
+inferior margin.
+Vessel invasion:
+Negative.
+Calcification:
+Negative.
+Ductal carcinoma in situ:
+Histologic pattern: Solid and cribriform.
+Nuclear grade: 2.
+Central necrosis: Negative.
+% DCIS of total tumor (if mixed): The invasive component is very
+minor relative to the in situ 
+component.
+Extensive intraductal component (present/absent):
+Specimen 
+margins: DCIS less than 1 mm.
+Calcification: Negative.
+Present.
+from the inferior margin.
+Description of non-tumorous breast: Cysts and apocrine metaplasias
+present.
+Comments: In addition to the invasive and in situ ductal
+carcinoma,
+there are foci of lobular carcinoma in situ.
+Prognostic markers: Cold ischemia time too long for accurate
+marker
+as
+studies.
+E. Thirteen lymph nodes are present, all negative for
+metastatic disease
+, 0/13. This is supported by negative
+keratin stains on blocks 1 through 3.
+[A few of the antibodies used in our laboratory may be classified
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in [**Last Name
+(un) 2**]
+diagnosis is well described in the medical literature.
+not been cleared or approved by the FDA.]
+14, 15x2, 4x5, 20x12, PGRI 3260F
+DIAGNOSIS
+A. Left axillary sentinel node #1, excision
+PRIMARY
+B.
+bilateral
+They have
+Two lymph nodes, one of which contains metastatic carcinoma,
+(Left) breast, mastectomy
+minor
+Ductal
+Large (5.5 cm.) infiltrating lobular carcinoma,
+associated component of invasive ductal carcinoma.
+A 
+second minute 
+focus of
+carcinoma in situ also present.
+invasive lobular carcinoma is present in the sub-areolar
+tissue. All margins are negative for tumor.
+Intraoperative lymph node left axilla, excision
+C.
+Single lymph node negative for metastatic disease, 0/1.
+D. Right breast tissue, excision
+Breast tissue with biopsy site changes, lobular carcinoma in
+situ, ductal carcinoma in situ and invasive 
+ductal carcinoma
+,
+SBR grade 2. The 
+invasive ductal
+carcinoma and ductal
+carcinoma in situ are
+Hormone receptor
+less than 1 mm. from the inferior margin.
+studies cannot accurately be performed on the invasive ductal
+carcinoma.
+E. Left axillary contents, dissection
+Thirteen lymph nodes all negative for metastatic disease,
+0/13.
+End Of Report
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History dry
+Case is (circle):
+Dual/Synchronous Primary Nated
+QUALIFIED / DISQUALIFIED
+Date Reviewed
+Reviewer Initials.
+4/27/14

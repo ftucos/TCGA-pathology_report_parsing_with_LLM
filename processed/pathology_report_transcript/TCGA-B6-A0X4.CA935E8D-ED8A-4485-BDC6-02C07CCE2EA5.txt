@@ -1,0 +1,155 @@
+urgical Pathology:
+Surg Path
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, NOS
+1/25/11 lus
+050.9
+UUID:CA935E8D-ED8A-4485-BDC6-02C07CCE2EAS
+TCGA-B6-A0X4-01A-PR
+Redacted
+CLINICAL HISTORY:
+Breast cancer, tumor was 3 x 2.5 x 2 cm.
+GROSS EXAMINATION:
+A. "Left modified radical mastectomy", received fresh. Submitted is a 2050
+gram, 22 x 20 x 8 cm 
+left mastectomy specimen with 10 x 10 x 2 cm axillary
+tail. There is a 30 x 20 cm 
+skin ellipse with a 1.5 cm nipple and 6 cm areola.
+A sutured 10.5 cm linear 
+incision is present over the lower inner quadrant.
+The margins are inked in 
+blue. Sectioning reveals a 3 x 2 x 2 cm biopsy cavity
+in the lower inner quadrant, 3 
+cm from the inferior margin, 2 cm from the
+medial margin, 4.5 cm from 
+the deep margin, 8 cm from the superior margin, and
+more than 15 cm from the 
+lateral margin. The biopsy cavity extends to within
+1 cm of the skin incision. 
+Adjacent to the deep edge of the biopsy cavity is
+a 3 x 2 x 1 cm irregular mass 
+of firm, tan-white tissue.
+approximately 3.5 cm from the deep surgical margin, 2 cm from the medial
+The mass lies
+margin, 3 cm 
+from the inferior margin, 7.5 cm from the superior margin, and
+greater than 15 cm from the 
+lateral margin. In the upper inner quadrant,
+3.5 cm from the biopsy 
+cavity, is a 1.5 x 1.2 x 0.8 cm well circumscribed
+nodule of firm, pale pink
+-tan tissue. The nodule lies nearest the deep margin,
+extending to within 2 cm of 
+this margin. In the lower outer quadrant are two
+similar well-circumscribed 
+nodules of pale pink-tan tissue: a 1.1 x 0.6 x 0.5
+cm nodule and, 1.5 cm lateral 
+to this, a 0.6 x 0.5 × 0.2 cm nodule.
+0.6 x 0.5 
+cm nodule lies 5 cm from the lateral surgical margin and 4 cm from
+The 1.1 
+x
+the inferior surgical margin. 
+The 0.6 x 0.5 x 0.2 cm nodule is 3.5 cm from the
+lateral surgical margin 
+and 4 cm from the inferior surgical margin. Further
+lateral and inferior within the 
+lower outer quadrant is a small, 0.4 × 0.3 x
+0.2 cm, oblong mass of 
+firm tan tissue, lying 2 cm from the deep and the
+lateral surgical 
+margins. In the upper outer quadrant there are small areas
+of fibrosis, some associated 
+with small cysts (up to 0.3 cm in diameter).
+Within the axillary tail, 
+thirty-two lymph node candidates, 0.5 to 2.2 cm in
+greatest dimension, are identified: 
+8 within the proximal third (zone III), 6
+within the middle third (zone II)
+, and 18 lymph nodes in the distal third
+(zone I).
+BLOCK SUMMARY:
+Al- six lymph node candidates from zone III, 0.5 to 1.1 cm in greatest
+dimension.
+A2- two bisected lymph node candidates, 1.2 × 0.9 x 0.7 cm and 1 x 0.6 x 0.5
+cm, from zone III.
+A3- five lymph node candidates from zone II, 0.4 to 1 cm in greatest dimension
+A4-A5- one bisected lymph node 
+candidate, 2.2 x 1.5 x 0.4 cm, from zone II
+A6- four lymph node 
+candidates, 0.8 to 1.2 cm, from zone I.
+A7- six lymph node candidates, 0.5 to 1.1 cm, from zone I.
+A8- six lymph node candidates, 0.8 to 1 cm, from zone I.
+A9- two bisected lymph node candidates, 1.3 x 1 x 0.4 cm and 1.6 x 1.3 × 0.5
+cm, from zone I.
+A10- section through nipple.
+All sections adjacent to incision extending to the biopsy cavity.
+A12-A15- sections through 3 cm mass adjacent to biopsy cavity
+A16-A17 sections through 1.5 cm nodule in the upper inner quadrant.
+A18- section through the 0.6 and 1.1 cm nodules in the lower outer quadrant.
+A19- section through 1.1 cm 
+nodule in the lower outer quadrant.
+A20 section through 0.4 cm mass in the lower outer quadrant.
+A21- section extending to the deep surgical margin near the biopsy cavity.
+A22- section extending to the 
+inferior surgical margin near the biopsy
+cavity.
+A23- sections extending to the superior surgical margin nearest biopsy cavity.
+R
+Diagnosis Di.crepancy
+Primary Tumor Site Discrepancy
+IPAA Discrep....
+Prior Malignancy History
+Du: 1/5,ncher nous Primary Need
+Case is (circle):
+Criteria
+Page In
+A24 sections extending to the medial surgical margin nearest the biopsy
+cavity.
+A25- inner upper quadrant.
+1-
+A26- outer upper quadrant, including portion of fibrous tissue with cysts.
+A27 outer lower quadrant.
+A28 inner lower quadrant.
+A29 section through superior/medial edge of the biopsy cavity.
+A30 section through deep edge of biopsy cavity.
+DIAGNOSIS:
+A.
+Dr.
+"LEFT MODIFIED RADICAL MASTECTOMY" (MODIFIED RADICAL MASTECTOMY):
+INFILTRATING DUCTAL CARCINOMA, AT LEAST 3 CM IN GREATEST DIMENSION, NSABP
+CYTOLOGIC GRADE 2, HISTOLOGIC GRADE 2
+LYMPHOVASCULAR INVASION IS IDENTIFIED
+METASTATIC CARCINOMA IN TWO OF TWENTY-ONE LYMPH NODES
+DUCTAL CARCINOMA IN SITU OF NON-COMEDO TYPE, EXTENSIVE
+SURGICAL MARGINS FREE OF CARCINOMA
+BREAST TISSUE AWAY FROM TUMOR MASS SHOWS BENIGN PROLIFERATIVE CHANGES
+INCLUDING ATYPICAL INTRADUCTAL HYPERPLASIA, INTRADUCTAL HYPERPLASIA OF
+THE USUAL TYPE, INTRADUCTAL PAPILLOMATOSIS, APOCRINE METAPLASIA, BLUNT
+DUCT ADENOSIS, MICROCALCIFICATIONS, DUCT ECTASIA, AND MULTIPLE
+FIBROADENOMATA
+:
+ADDENDUM 1:
+Verified by:
+Date Signed:"
+Tissue was sent to the
+and progesterone receptor were performed.
+where assays for estrogen receptor
+revealed an estimated Fmol value of 292 which was interpreted as positive. The
+Assay for estrogen receptor
+estrogen receptor activity was interpreted as positive with estimated Fmol
+value of 268. Please refer to
+for the complete report.
+ADDENDUM 2:
+Verified by:
+Date Signed:
+ADDENDUM DIAGNOSIS:
+SURGICAL OPERATIVE MARGINS ARE FREE OF MALIGNANCY.
+DUCTAL CARCINOMA IN SITU OF NON COMEDO TYPE, EXTENSIVE.
+BREAST TISSUE AWAY FROM MAIN TUMOR MASS SHOWS BENIGN PROLIFERATIVE CHANGES
+INCLUDING HYPERPLASIA, INTRADUCTAL PAPILLOMATOSIS, BLUNT DUCT ECTASIA,
+APOCRINE METAPLASIA, MICROCALCIFICATIONS, AND MULTIPLE HYALIZING
+FIBROADENOMA.
+Verified by:
+Date Signed:
+Page 2 of 2

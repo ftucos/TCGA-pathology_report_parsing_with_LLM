@@ -1,0 +1,41 @@
+UUID:511282C5-02AC-4105-8852-5BBEC8B45D22
+TCGA-AR-A5QQ-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, squamous
+(Carcinoma, metaplastic)
+857513
+Site COFF BYBreast NOS
+C509
+path B Breast central
+portion Cso.1
+JW 4/2/13
+A. Breast, right, simple mastectomy: Moderately differentiated squamous carcinoma
+(metaplastic carcinoma) involving the mammary parenchyma forming a 5.2 x 5.0 x 4.7 cm mass
+located in the central aspect of the breast with skin ulceration. Angiolymphatic invasion is
+present. The surrounding breast parenchyma shows nonproliferative fibrocystic changes. A single
+(of 3) intramammary lymph node is positive for metastatic carcinoma forming a solid and cystic
+mass (6.5 x 5.0 x 4.7 cm) located in the lateral aspect of the breast. Extranodal extension is
+present. The skin and nipple areolar region is involved by tumor. All surgical resection margins,
+including skin and deep margins, are negative for tumor (minimum tumor free margin, 1.7 cm,
+deep margin).
+Estrogen receptor, progesterone receptor, and HER2 will be performed and reported in an
+addendum.
+B. Lymph nodes, right axillary, excision: Multiple (21) lymph nodes are negative for metastatic
+carcinoma.
+With available surgical materials, [AJCC pT3N1] (7th edition, 2010).
+Seen in consultation with
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+RTH Date Reviewed: 2813
+1/28/13

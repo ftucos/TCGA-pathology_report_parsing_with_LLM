@@ -1,0 +1,326 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, NOS
+050.9
+2/18/11
+Diagnosis:
+A: Posterior margin, left breast, re-excision
+- Skeletal muscle and fibroadipose tissue; no carcinoma identified
+B: Breast (300 grams), right, total mastectomy
+- Focal atypical ductal hyperplasia (slide B5)
+- Apocrine metaplasia
+- Microcalcifications present in association with benign breast ducts and
+lobules
+- Skin with seborrheic keratoses
+- No invasive or in situ carcinoma identified
+C: Breast, left, modified radical mastectomy
+Tumor type: Infiltrating ductal carcinoma with micropapillary features (two
+foci)
+Nottingham combined histologic grade: 3
+Tubule formation score: 3
+Nuclear Pleomorphism Score: 3
+Mitotic count score: 3
+Focality of tumor: Multifocal (two separate invasive tumor masses in lower
+inner quadrant, 1.9 cm apart) with intervening tissue showing lymphatic space
+invasion (see comment)
+Tumor size (greatest dimension):
+Mass #1: 2.5 cm
+Mass #2: 1.4 cm
+Lymphovascular invasion: Present, extensive
+In Situ Component: Present
+In Situ Component type/Architecture pattern:
+Ductal carcinoma in situ, comedo and solid subtypes
+Lobular carcinoma in situ
+UUID:D40D0424-E1DA-4AEF-AD00-126038E80218
+TCGA-AQ-A04H-01A-PR
+Redacted
+In Situ Component nuclear grade: High grade (nuclear grade 3)
+In Situ Component necrosis: Present
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Inials
+QUALIFIED
+Date Reviewed:
+In Situ Component extent/size: In situ carcinoma comprises less than 10% of
+total tumor volume and is present in association with both masses as well as
+tw
+Yes
+No
+DISQUALIFIED
+5/27/11
+being present in tissue between the masses
+Extensive intraductal component: Not identified
+Nipple involvement: Not identified
+Skin involvement: Not identified
+Margin status:
+Invasive component: Infiltrating ductal carcinoma is less than 1 mm from
+the deep specimen margin (see comment)
+In Situ component: Ductal carcinoma in situ is 3 mm from the deep specimen
+margin
+Axillary lymph nodes:
+Total number with metastasis: 4
+Total number examined: 15
+Size of largest metastasis: 9mm
+Extracapsular extension: not identified
+Microcalcifications: not identified
+Other findings:
+Biopsy site changes in Mass #1
+Fibroadenomatous change
+Skin with seborrheic keratosis
+AJCC PATHOLOGIC TNM STAGE:
+pT2 pN2a pMx
+Note: This pathologic stage assessment is based on information available at the
+time of this report, and is subject to change pending clinical review and
+additional information.
+Comment:
+Two foci of infiltrating ductal carcinoma are present, both in the lower inner
+quadrant. Grossly, these masses were separated by 1.9 cm of soft fibroadipose
+tissue. Histologically, the intervening tissue shows ductal carcinoma in situ
+and carcinoma present within lymphatic spaces. The smaller tumor is less than 1
+mm from the posterior specimen margin in the mastectomy specimen; however, it is
+possible that this margin is superseded by the separately submitted ' posterior
+margin' (part A).
+The morphology of the invasive carcinoma from the two masses is similar, as is
+the morphology of the in situ carcinoma admixed with each mass. These two
+masses may represent two separate foci of invasion arising from ductal carcinoma
+in situ or may be arising from a focus of lymphovascular invasion (i.e., an
+intramammary metastasis). The tumor stage is based on the larger of the two
+masses.
+Immunohistochemical studies for estrogen receptor, progesterone receptor and
+HER-2/neu were performed on the biopsy specimen from the larger of the two
+masses. Immunohistochemical analysis of the smaller tumor mass will be performed and
+the results will be reported in an addendum.
+Gross Description:
+Specimen A is received in a formalin-filled container labeled "left re-excision
+posterior margin, tumor clip posterior" and is a partially oriented 2.6 x 1.8 x
+1.0 cm fragment of mainly brown/red muscle with some minimal adherent
+fibroadipose tissue. There is a clip on one surface indicating the margin. This
+surface is inked blue. The remainder of the specimen is inked black.
+Sectioning exhibits unremarkable red/brown muscle with minimal fibroadipose
+tissue. The specimen is serially sectioned and entirely submitted in blocks Al
+and A2
+Specimen B is received in a formalin-filled container labeled "right total
+mastectomy, stitch marks axillary tail".
+Specimen fixation:
+Formalin
+Time in fixative:
+7 hours
+Type of mastectomy:
+Size of specimen:
+Orientation of specimen:
+Total, per the specimen container and requisition
+300 grams, 19 x 15.5 x 3.0 cm
+There is a stitch marking axillary tail. At
+the time of tissue procurement triage, the specimen is inked as follows:
+anterior/green, posterior/purple, axillary tail (lateral)/yellow.
+Skin ellipse dimensions: 18.5 x 4.2 cm. The lightly pigmented skin
+ellipse is remarkable for multiple brown papules from 2 to 13 mm in greatest
+dimension. Just superior lateral to the nipple, there is a 1.2 x 0.8 x 0.2 cm
+raised flesh colored papule identified. The remainder of the papules are
+somewhat flatter and some are macules.
+Nipple/areola:
+Axillary tail:
+1.5 cm / 2.7 cm.
+Axillary tail is not well-delineated. The lateral
+breast tissue is sectioned and no lymph node candidates are identified.
+Biopsy site:
+N/A
+Residual tumor:
+N/A
+Location of tumor:
+N/A
+Distance of mass/biopsy site from surgical margin:
+N/A
+Gross involvement of skin or fascia/muscle by tumor:
+Description of remainder of breast:
+N/A
+The entire specimen
+consists of yellow lobulated fibroadipose tissue separated by thin fibrous
+septae. There is scattered dense white breast tissue throughout the entire
+specimen. There are no abnormalities readily appreciated.
+Other remarkable features:
+Tissue submitted for special investigations:
+tissue procurement.
+Digital photograph taken:
+Block Summary:
+B1 - Nipple
+B2
+-
+None
+Normal given to
+Section from largest raised papule (larger section), smaller section
+through smaller papule
+B3-B4 - Inner upper quadrant
+-
+B5-B6 - Inner lower quadrant
+B7-B8 - Outer upper quadrant
+- Outer lower quadrant
+B9-B10
+B11-B12
+B13-B14
+Specimen C:
+- Central mastectomy
+- Lateral breast tissue
+Specimen fixation:
+Time in fixative:
+Type of mastectomy:
+Size of specimen:
+Orientation of specimen:
+Skin ellipse dimensions:
+Formalin
+7 hours
+Modified radical per the specimen requisition
+400 grams, 19 x 15 x 3.0 cm
+19 x 5.0 cm. The lightly pigmented skin
+ellipse is remarkable for scattered light brown to medium brown papules from 3
+mm to 1.3 cm in greatest dimension.
+Nipple/areola:
+unremarkable.
+Axillary tail:
+1.5 cm / 3.5 cm. These structures are
+Axillary tail is 8 x 6.5 x 1.8 cm. The
+axillary tail is amputated and palpated for lymph node candidates. Multiple
+lymph node candidates are identified from 4 x 4 x 3 mm to 1.5 x 1.0 x 0.6 cm.
+Biopsy site:
+Residual tumor:
+N/A
+Present. There are two lesions identified. The
+first lesion is 2.5 x 1.2 x 1.0 cm. This lesion is well-circumscribed and has a
+tan/red, focally hemorrhagic cut surface. This lesion is found within a
+background of dense white breast tissue. There is a second 1.4 x 1.2 x 1.0 cm
+mass identified. This mass is also well-circumscribed and has a firm red/white
+cut surface.
+These masses are 1.9 cm from one another. Mass #1 is slightly inferior to the
+nipple in the subareolar region. Mass #2 is inferior and posterior to mass #1.
+Location of tumor:
+quadrant.
+See above. Both masses are found in the inner lower
+Mass #1 2.4 cm to
+Distance of mass/biopsy site from surgical margin:
+the deep purple inked margin, 5 mm to the skin, 4.1 cm to the inferior margin,
+approximately 6 cm to the medial margin, approximately 8 cm to the superior
+margin and distal to the lateral margin. Mass #2 is very close to the purple
+inked posterior margin, is approximately 3 cm to the inferior margin, at least
+10 cm to the superior margin, approximately 5.6 cm to the medial margin and
+distant to the lateral margin. Mass #2 is 3.4 cm to the green inked anterior
+margin.
+Gross involvement of skin or fascia/muscle by tumor:
+Description of remainder of breast:
+N/A
+The remainder of the
+mastectomy specimen consists of yellow lobulated fibroadipose tissue separated
+by thin fibrous septae. There is dense firm white breast tissue scattered
+throughout the entire specimen.
+Other remarkable features:
+Tissue submitted for special investigations:
+given to tissue procurement.
+None
+Tumor and normal
+Digital photograph taken:
+Block Summary:
+C1
+C2
+C3
+- Nipple
+- Representative sections of epidermal papules
+- Section from edge of mass #1 (larger) and mass #2 (smaller mass); and
+the section mass #2 is abutting purple ink and mass #1 is cut through.
+C4 Additional medial mass #2
+C5
+C6
+C7
+-
+- Additional lateral mass #2
+- Additional fibroadipose tissue between masses
+- Inferior margin closest to both masses, en face
+C8-C9 · Mass #1 and skin, slice bisected
+C10 - Mass #1 and adjacent breast tissue (purple ink does not denote true
+margin)
+C11 - Additional mass #1 and adjacent breast tissue (purple ink does not
+denote true margin)
+C12
+C13
+C14
+C15
+- Deep margin closest to mass #1, en face
+- Inner upper quadrant
+- Inner lower quadrant
+-
+- Outer upper quadrant
+C16 - Outer lower quadrant
+C17
+C18
+C19
+C20
+C21
+C22
+C23
+C24
+C25
+C26
+C27
+- Three lymph node candidates
+- One lymph node candidate, trisected (suspicious)
+- One lymph node candidate, trisected
+-
+- Largest lymph node candidate, sectioned
+-
+- One lymph node candidate, trisected
+-
+One lymph node candidate, bisected
+One lymph node candidate, sectioned
+One lymph node candidate, sectioned
+- One lymph node candidate, sectioned
+Multiple suspected lymph nodes
+- One lymph node, serially sectioned
+Procedures/Addenda:
+Addendum
+Addendum
+The following addendum is issued to report the results of estrogen receptor,
+progesterone receptor, and HER2/neu immunohistochemical studies.
+Results:
+Estrogen receptor (Ventana, clone SP1):
+Interpretation: POSITIVE
+Computer-assisted quantitative score: 97%
+Progesterone receptor (Ventana, clone 1E2):
+Interpretation: POSITIVE
+Computer-assisted quantitative score: 27%
+HER2/neu (
+clone 4B5, FDA-approved):
+Interpretation: INDETERMINATE
+Computer-assisted quantitative score: 2+ (see comment)
+Site: Left breast
+Performed on block: C3
+Fixation: 10% neutral buffered formalin
+Fixation time: 6-48 hours
+Reference range:
+Estrogen receptor and progesterone receptor: <1%=NEGATIVE, 1-10% WEAK
+POSITIVE,
+>10% POSITIVE
+HER2/neu: 0,1=NEGATIVE FOR OVEREXPRESSION, 2=INDETERMINATE,
+3=POSITIVE FOR
+OVEREXPRESSION
+Comment:
+The quantitative scores reported above were obtained using the FDA-approved
+The control slides for this case show
+appropriate staining.
+The patient's larger tumor was sampled and tested previously, which showed a similar
+pattern of immunohistochemical staining for HER-2/neu. Subsequent in situ
+hybridization studies for HER-2/neu gene amplification on that specimen showed that the
+tumor was positive for Her-2/neu gene amplification. In situ hybridization studies can be
+repeated on the current specimen, if clinically desired.
+Some of the immunohistochemical reagents used in this case may be classified as
+analyte specific reagents (ASR) or research use only (RUO) reagents. These were
+developed and have performance characteristics determined by the
+These reagents have not
+been cleared or approved by the US Food and Drug Administration (FDA). The FDA
+has determined that such clearance or approval is not necessary. These tests
+are used for clinical purposes. They should not be regarded as investigational
+or for research. This laboratory is certified under the Clinical Laboratory
+Improvement Amendments of 1988 (CLIA-88) as qualified to perform high complexity
+clinical laboratory testing.

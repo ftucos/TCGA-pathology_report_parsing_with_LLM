@@ -1,0 +1,274 @@
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initia
+'RE
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+- w 10/21/11
+UUID:13302EC6-6511-42FE-AA8B-C875B5384FFE
+TCGA-A1-A0SK-01A-PR
+Redacted
+,C
+801313
+.3
+ICD-0-3
+Carcinoma, neuroendocrine, large cell type 8013/3
+Site: breast, NOS
+050.9
+Final Pathologic Diagnosis:
+lu 10/21/11
+A. Sentinel lymph node #1, right axilla, biopsy: No carcinoma identified in one
+lymph node (0/1).
+B. Sentinel lymph node #2, right axilla, biopsy: No carcinoma identified in two
+lymph nodes (0/2).
+C. Right breast, new inferior margin, excision: Benign breast tissue, no carcinoma
+identified.
+D. Sentinel lymph node #3, right axilla, biopsy: No carcinoma identified in one
+lymph node (0/1).
+E. Right breast, partial mastectomy:
+1. Neuroendocrine carcinoma, large cell type, high grade, SBR grade 3, 3.8 cm
+diameter, extending to deep resection margin and 0.1cm from anterior/superior
+margin; see comment.
+Page 1 of 6
+Surgical Pathology -
+Working Draft
+2. Microcalcifications associated with benign breast tissue.
+F. Right breast, new posterior margin, excision: Benign breast tissue, no carcinoma
+identified.
+Note: Immunohistochemical studies were necessary to evaluate this case and establish the correct
+diagnosis. The following immunohistochemical stains were performed and evaluated:
+Keratin cocktail:Patchy positive.
+CD56: Positive.
+PAX-5: Positive.
+LCA: Negative.
+Chromogranin: negative.
+Synaptophysin: negative.
+E-Cadherin: negative.
+The negative staining with LCA rules against a lymphold neoplasm. Negative E-Cadherin excludes a
+ductal carcinoma. The positive staining with PAX-5, CD56 and patchy cytokeratin staining as well as
+the morphology onH&E stain are compatible with a neuroendocrine carcinoma. Negative staining with
+chromogranin and synaptophysin, although expected in this entity, does not exclude it.
+Breast Tumor Synoptic Comment
+- Laterality: Right.
+- Invasive tumor type: Large cell neuroendocrine carcinoma, high grade.
+- Invasive tumor size: 3.8 cm maximum diameter.
+- Invasive tumor grade (modified Bloom-Richardson): 3.
+Nuclear grade: 3 points.
+Mitotic count: 2 points.
+Tubule/papilla formation: 3 points.
+Total points and overall grade = 8 points= Grade 3.
+- Lymphatic-vascular invasion: Absent.
+- Resection margins for invasive tumor:
+-
+- Deep margin: Positive; (slide E12).
+Medial margin: Negative; (tumor is >1 cm away).
+Lateral margin: Negative; (tumor is >1 cm away).
+- Anterior/superior margin: Close; (tumor is less than 0.1 cm away, on slide E7).
+- Anterior/inferior margin: Negative; (tumor is 0.25 cm away, on slide E15).
+- Lymph node status:
+-
+Number of positive lymph nodes: 0.
+- Total number sampled: 4.
+AJCC/UICC stage: pT2N0MX.
+An immunohistochemical test for estrogen and progesterone receptors as well as for HER2 was
+performed on block E9.
+The test for estrogen receptors is negative. There is no nuclear staining in any of tumor cells.
+Internal positive control is present.
+The test for progesterone receptors is negative. There is no nuclear staining in any of tumor cells.
+Internal positive control is present.
+Result of HER2/neu test: This carcinoma is negative for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed using the CB11 monoclonal antibody to HER2/neu
+oncoprotein. The staining intensity of this carcinoma was 0 on a scale of 0-3 (HER2 test interpreted
+Page 2 of 6
+Surgical Pathology
+Working Draft
+by Dr.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered indeterminate. We and others have observed that many carcinomas with
+staining intensity scores of 2 do not show gene amplification. All carcinomas with staining intensity scores of 2 are therefore
+submitted for FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in
+this category show an excellent correlation between the results of Immunohistochemical and FISH testing, and almost always show
+gene amplification.
+Intraoperative Consult Diagnosis
+FS1 (A) Sentinel lymph node #1, right axilla, biopsy: No carcinoma. (Dr
+FS2 (B) Sentinel lymph node #2, right axilla, biopsy: No carcinoma. (Dr.
+FS3 (C) Right breast, new inferior margin, biopsy: No carcinoma. (Dr.
+FS4 (D) Sentinel lymph node #3, right axilla, biopsy: Rare atypical cells in subcapsular space. (Dr.
+Clinical History
+The patient is a
+-year-old woman with post-operative diagnosis of breast cancer,
+sentinel lymph node biopsy and right partial mastectomy.
+who undergoes
+Gross Description
+The specimen is received fresh in six parts, each labeled with the patient's name and medical record
+number.
+sists of one soft tan-yellow fatty
+Part A, additionally labeled "
+tissue fragment measuring 2.5 x 1.1 x 0.4 cm. The specimen is trimmed, and one candidate lymph
+node is found. The lymph node is bisected. Touch preps and smear preps are made. The node is
+submitted for frozen section diagnosis 1 and subsequently submitted in cassette A1. The remaining
+yellow fatty tissue is submitted in cassette A2.
+Part B, additionally labeled "
+nsists of one soft tan-yellow fatty
+tissue fragment measuring 2.5 x 0.6 x 0.7 cm. The specimen is trimmed, and one large lymph node is
+found. The lymph node is bisected. Touch preps and smears are made. The node is submitted for
+frozen section diagnosis 2, and subsequently submitted in cassette B1. The remaining yellow fatty
+tissue is submitted in cassette B2.
+Part C, additionally labeled
+"1
+" consists of one
+firm, unoriented, off-white/tan and yellow tissue fragment measuring 2.3 x 2 x 0.8 cm. The specimen
+is bisected at the long axis and one-half is submitted for frozen section diagnosis 3, and subsequently
+submitted in cassette C1. The remaining half is submitted in cassette C2.
+Part D, additionally labeled ".
+nsists of one soft and firm pink-red
+unoriented tissue fragment measuring 0.8 x 0.7 x 0.4 cm. The specimen is bisected and touch preps
+and smears are made. The bisected node is submitted for frozen section diagnosis 4, and
+subsequently submitted in cassette D1.
+Part E, additionally labeled
+onsists of an oriented, roughly ovoid
+fragment of fibrofatty breast tissue containing a firm palpable mass. The specimen is oriented with
+two surgical sutures, per the requisition sheet. The short suture is superior and the long suture is
+lateral. Oriented as such, the specimen measures 5.7 cm from superior to inferior, 6 cm from medial
+to lateral, and 3.6 cm from anterior to posterior. The specimen is inked for microscopic evaluation,
+with the anterior superior surface inked in blue, the anterior inferior surface inked in green, and the
+posterior surface inked in black. The specimen has been previously incised, prior to receipt in
+Pathology, and the sections removed from the aforementioned central mass. The specimen is serially
+Page 3 of 6
+Surgical Pathology -
+Working Draft
+sectioned in the sagittal plane into fifteen slices and numbered 1-15, medial to lateral. The medial
+slice (slice 1) is 0.9 cm in thickness. The lateral slice (slice 15) is 0.9 cm in thickness. The remainder
+of the slices averages 0.4 cm in thickness. Serial sectioning reveals a firm, tan-white, nodular lesion,
+which spans serial slices 2-14. This multilobulated mass measures 3.8 cm from superior to inferior, 3
+cm from anterior to posterior, measured in slice 7. The mass grossly approaches the posterior margin
+in slices 6-8. The mass is 0.2 cm from the anterior superior margin in slice 4 and 0.8 cm from the
+anterior margin in slice 7. The medial and lateral margins are grossly clear (>1 cm). Representative
+sections are submitted as follows:
+Cassette E1:
+Cassette E2:
+Cassette E3:
+Cassette E4:
+Cassette E5:
+Cassette E6:
+Cassette E7:
+Cassette E8:
+Cassette E9:
+Cassette E10:
+Cassette E11:
+Cassette E12:
+Cassette E13:
+Cassette E14:
+Cassette E15:
+Cassette E16:
+Cassette E17:
+Cassette E18:
+Mediat margin, slice 1 (representative perpendicular section).
+Medial one-third, slice 2 (medial-most extent of lesion).
+Superior posterior, slice 4.
+Superior anterior, slice 4.
+Anterior superior, slice 5.
+Superior posterior, slice 5.
+Anterior superior, slice 7.
+Superior posterior, slice 7.
+Anterior inferior, slice 7.
+Inferior posterior, slice 7.
+Anterior superior, slice 8.
+Superior posterior, slice 8.
+Anterior superior, slice 11.
+Superior posterior, slice 11.
+Anterior inferior, slice 11.
+Inferior posterior, slice 11.
+Superior half, slice 14.
+Inferior half, slice 14.
+Cassettes E19-E20: Medial portion of lateral margin, slice 15 (perpendicularly sectioned).
+Part F, additionally labeled
+Consists
+of a grossly unremarkable fragment of fibrofatty breast tissue sutured to Telta and oriented by two
+surgical sutures, per the specimen container labels. The short stitch is superior and the long stitch is
+lateral. Oriented as such, the specimen measures 4.5 cm from superior to inferior, 3.7 cm from
+medial to lateral, and 1.6 cm from anterior to posterior. The specimen is inked for microscopic
+evaluation, with the anterior superior surface inked in blue, the anterior inferior surface inked in
+green, and the posterior surface inked in black. The specimen is serially sectioned from medial to
+lateral into ten slices. These are numbered 1-10, from medial to lateral. The specimen is grossly
+unremarkable on serially sectioning. The entire specimen is submitted as follows:
+Cassette F1:
+Slice 1.
+Cassette F2:
+Slice 2.
+Cassette F3:
+Slice 3.
+Cassette F4:
+Slice 4.
+Cassette F5:
+Slice 5.
+Cassette F6:
+Slice 6.
+Cassette F7:
+Slice 7.
+Cassette F8:
+Slice 8.
+Cassette F9:
+Cassette F10:
+Fee Codes:
+Slice 9.
+Slice 10.
+/Pathology Resident
+'Pathologist
+Signed:
+Page 4 of 6
+Surgical Pathology -
+Working Draft
+Other Specimens
+_Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: A: Right chest wall tumor (fresh), B: Subclavian vein margin
+Final Diagnosis
+A. Right chest wall, tumor, excision: Metastatic high-grade neuroendocrine
+carcinoma, 7.5 cm; see comment.
+B. Subclavian vein, margin, biopsy: Segment of vein with chronic inflammation, no
+tumor; see comment.
+pecimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received:
+Final Diagnosis
+Review of slides from
+Right breast, upper outer quadrant, biopsy: Neuroendocrine carcinoma,
+large-cell type, high-grade; see comment.
+Right anterior chest wall, fine-needle aspiration: Consistent with metastatic
+neuroendocrine carcinoma; see comment.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: A: Surgical scar right breast, B: New anterior superior margin right breast, C: New deep margin, D: New
+anterior inferior margin
+Final Diagnosis
+A. Skin, right breast surgical scar, excision: Scar with mild chronic inflammation and
+foreign body giant cell reaction, no tumor.
+B. Right breast, new anterior superior margin, excision: Scar with chronic
+inflammation, foreign body reaction, and fat necrosis, no tumor.
+C. Right breast, new deep margin, excision:
+1. Scar with chronic inflammation, foreign body reaction, and fat necrosis, no tumor.
+2. Microcalcifications associated with benign ducts.
+D. Right breast, new anterior inferior margin, excision:
+1. Scar with chronic inflammation, foreign body reaction, and fat necrosis, no tumor.
+2. Microcalcifications associated with benign ducts.
+Pan off
+Surgical Pathology -
+Working Draft
+END OF REPORT
+Page 6 of 6

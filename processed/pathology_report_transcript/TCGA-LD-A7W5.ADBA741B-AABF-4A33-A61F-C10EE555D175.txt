@@ -1,0 +1,170 @@
+DATE OBTAINED:
+DATE RECEIVED:
+DATE REPORTED:
+UUID:ADBA741B-AABF-4A33-A61F-C10EE555D175
+TCGA-LD-A7W5-01A-PR
+Redacted
+Surgical Pathology Report
+* Amended *
+LOCATION:
+SUBMITTING MD:
+CC:
+DIAGNOSIS
+#1-AXILLARY CONTENTS, LEFT: TWENTY THREE LYMPH NODES POSITIVE FOR METASTATIC
+CARCINOMA, LARGEST MEASURING 3.7 CM WITH EXTRANODAL EXTENSION (23/23).
+#2-BREAST, LEFT, 2 O'CLOCK, EXCISIONAL BIOPSY: INVASIVE MAMMARY CARCINOMA.
+SIZE (INVASIVE):
+LATERALITY:
+TUMOR FOCALITY:
+LESIONAL SITE:
+HISTOLOGIC TYPE:
+NUCLEAR GRADE:
+HISTOLOGIC GRADE(EEMSBR):
+IN-SITU COMPONENT:
+LYMPH NODE SAMPLING
+AJCC CATEGORIES:
+PTNM:
+CTNM:
+INTEGRITY/ORIENTATION:
+MARGINS:
+LYMPHOVASCULAR INVASION:
+MICROCALCIFICATIONS:
+NIPPLE/SKIN: (if applicable)
+SKELETAL MUSCLE:
+OTHER:
+2.8 cm
+Left
+Unifocal
+2 o'clock
+Ductal focal lobular features pW TSS, lobular features total 7%.
+III of III
+II of III (Tubules score 2 + NG score 3 + mitoses score 1).
+DCIS solid and cribriform types, nuclear grade III with comedonecrosis.
+Twenty three lymph nodes positive for carcinoma (23/23).
+(see specimen #1) with extranodal extension, largest measuring 3.7 cm.
+Stage IIIC (assuming “cMO” status)
+PT2
+CT2
+риза
+CN1
+Intact specimen with designated margins
+Все
+Positive posterior/superior margin focally (slide 2K, scut); medial margin 0.5 mm; other
+margins widely negative.
+Present
+Present in association with in situ and invasive carcinoma.
+Not applicable.
+Not present.
+Biopsy site changes, fibrocystic changes.
+#3-BREAST, LEFT, DEEP MARGIN, REEXCISION: 2 MM FOCUS OF RESIDUAL INVASIVE CARCINOMA
+PRESENT 4 MM FROM FINAL DEEP MARGIN; BACKGROUND PROLIFERATIVE BREAST PARENCHYMA WITH
+INTRADUCTAL PAPILLOMA.
+COMMENT
+ICD-0-3
+Carcinoma, infiltrating duct Nas
+Sute @ Breast NOS
+050.9
+10/10/13
+850013
+***Electronically Signed Out***
+The tumor was grossly measured as 2.4 cm with an additional tumor present at medial slice, not grossly appreciated; with an ~
+4mm span to make the final dimension 2.8 cm.
+Page 1 of 3
+Surgical Pathology Report
+The tumor is present 1 mm from deep margin in multiple foci at main specimen, and focally in slice 1K is present at
+posterior/superior margin; final deep margin (specimen #3) negative.
+88307 X 2, 88305
+Clinical Diagnosis and History:
+Left breast Ca
+CT2; cN1: Clinical Stage IIB
++ LN met)
+Tissue(s) Submitted:
+1: LEFT AXILLARY CONTENTS
+2: LEFT BREAST CANCER @ 2:00 (SUTURE MARKS ANTERIOR)
+3: LEFT BREAST TRUE DEEP MARGIN
+Gross Description:
+Specimen #1 is received fresh, subsequently placed in formalin labeled left axillary content and consists of a 10 x 8.5 x 3 cm
+aggregate of adipose tissue which is palpated to reveal multiple indurated lymph nodes ranging from 0.3 cm to 3.7 cm in greatest
+dimension. A representative section of each node is submitted as follows:
+1A-1B each cassette containing a representative section of each of four grossly positive nodes
+four halves of grossly four positive nodes
+1C-
+1D-1E- each cassette containing half of two grossly positive nodes
+1F-
+three representative sections of three grossly positive nodes
+1G- four representative sections of four grossly positive nodes.
+Additional sections are submitted as follows:
+1H- remaining node corresponding to negative node in slide 1B
+11-
+remaining nodes corresponding to fibrofatty tissue in slide 1A
+Specimen #2 is received in formalin labeled left breast cancer at 2 o'clock (suture marks anterior) and consists of an oriented
+portion of fibrofatty tissue measuring 10 cm from medial to lateral, 7 cm from superior to inferior and 2.7 cm from anterior to
+posterior. Loosely received outside of the tissue is a localization wire. The specimen is radiographed to document the loose
+localization wire, a mass and a clip.
+The tissue is inked per protocol such that the superior is blue, the anterior is green, the medial is red, the lateral is yellow, the
+anterior is orange, and the posterior is black. The specimen is serially sectioned from lateral to medial into 9 slices to reveal a 2.4
+x 2.3 x 2.2 cm indurated gray-white stellate mass in slices #4-8, grossly coming to within 0.5 cm of the posterior and superior
+margin, information relayed to the surgeon intraoperatively. The remaining cut surfaces are made up of approximately 10% dense
+fibrous tissue. Note the tissue is triaged per protocol. Representative sections, concentrating on the closest margins, are
+submitted as follows:
+2A-2B- representative perpendicular sections with lateral margin
+middle fibrous tissue from slice #2
+2C-
+2D-
+middle fibrous tissue from slice #3
+2E-
+posterior margin with tumor slice #4
+2F-
+superior posterior margin from slice #4
+2G-
+anterior margin with tumor slice #5
+2H-
+anterior inferior margin slice #5
+21-
+superior posterior margin with tumor slice #5
+2J-2K bisected section of posterior superior margin with tumor slice #6
+2L-
+2M-
+2N-
+20-
+anterior inferior margin with tumor slice #6
+interior margin with tumor slice #7
+posterior margin with tumor slice #7
+superior margin with tumor slice #7
+2P-2R- representative medial margin.
+Additional sections are submitted as follows:
+2S-2T- tumor slice 8, no real margins, ink run over
+2U-2BB-remaining superior half of medial margin (true margin over-inked red
+Page 2 of 3
+Surgical Pathology Report
+TIF: approximately
+Specimen #3 is received fresh for orientation labeled left breast true deep margin and consists of an oriented portion of fibrofatty
+tissue measuring 6 x 5 cm from medial to lateral, 3.5 cxm from superior to inferior and 0.4 cm from anterior to posterior. The true
+margin is inked per protocol such that the center is black, the superior edge is blue, the inferior edge is green, lateral edge yellow
+and the medial edge is red. The specimen is serially sectioned from medial to lateral into 12 slices to reveal focally dense fibrosis.
+No tumor is palpated or grossly identified. The specimen is submitted entirely labeled 3A-3K at approximately
+.
+Intraoperative Consult Diagnosis
+2A
+2.4CM GROSS TUMOR WITH NEGATIVE MARGINS, POSTERIOR CLOSEST.
+Amendments
+Amended:
+Reason: Proofreading error
+Previous Signout Date:
+END OF REPORT
+Criteria
+9/30/13 سر
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Pual/Synchronous Primary Not
+Case is (circle):
+Reviewer initials,
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+1301243
+Page 3 of 3

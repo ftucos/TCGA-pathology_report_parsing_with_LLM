@@ -1,0 +1,51 @@
+UUID:6C698240-6557-4F96-BF56-60792693920F
+TCGA-E9-A5U0-01A-PR
+Redacted
+Gross Description: There is a quadrant of the breast with tumor up to 3.5 x 3 cm in size. Lymph nodes
+are soft hyperemic.
+Microscopic Description: Mucinous adenocarcinoma of the breast, G-2. Ten examined lymph nodes
+demonstrated sinus histiocytosis.
+Diagnosis Details: Tumor Features: Indeterminate, Tumor Extent: T2 tumor size more than 2cm not
+more than 5 cm, Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+Comments:
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Partial mastectomy
+Specimen size: Not specified
+ICD6-3
+Adenocarcinoma, mucinous NOS
+848013
+Site & Breast Nos
+C50.9
+7102/19/13
+Tumor site: Breast
+Tumor size: 3 x 0 x 3.5 cm
+Grossly evident lesion: Yes
+Histologic type: Adenocarcinoma, mucinous type
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: Right
+Criteria
+Diagnosis Discrepancy
+LW 2/17/13
+Yes
+NO
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prio Malignancy History
+Dual/Synchronous Primary Mcted
+Case is (circle):
+Reviewer Initials
+1 QUALIFIED / DISQUALIFIED
+Date Reviewed:
+2/15/13

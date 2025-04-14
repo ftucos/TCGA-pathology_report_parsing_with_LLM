@@ -1,0 +1,134 @@
+Patient:
+Surgical Pathology: Final
+Surg Path
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 852013
+Path Site Code: breast, upper outer quadrant 0.50.4
+CQCF: Breast NOS
+050.9
+1/17/11
+UUID:12C64846-1CB3-42E4-8307-54C7AD12F530
+TCGA-B6-A0IH-01A-PR
+Redacted
+CLINICAL HISTORY:
+S/P adenocarcinoma.
+GROSS EXAMINATION:
+Invasive adeno carcinoma of breast.
+A. "Left breast biopsy (AF1)", in formalin. The specimen consists of an
+irregular ovoid fragment of firm pink and yellow-tan tissue measuring 2 x 1.5
+× 0.8 cm in greatest dimension. A portion of the specimen has been previously
+submitted as frozen section AF1, and portion of tissue has been previously
+submitted 
+for ER/PR evaluation. The frozen section remnant is submitted in
+Block Al and the remaining tissue is sectioned and submitted in Block A2.
+B.
+"Left breast", fresh. The specimen is a 500 gram, 35.5 x 16 x 5.5 cm in
+aggregate dimension less mastectomy specimen and attached axillary dissection.
+The breast measures approximately 24 x 15.5 x 5.5 cm. The skin ellipse is 18.7
+x 10.4 cm. The nipple is slightly atypical located on the skin surface away
+from the axillary tail. The nipple is 1.4 cm in diameter and is slightly
+depressed and surrounding areola is 4 cm in diameter. The tip of skin ellipse
+closes to the axillary dissection (upper outer quadrant) exhibit a recent
+sutured skin excision which is 4.5 cm long and is 2.7 cm from the superior
+upper outer surgical margin. The skin also exhibit three small purple-brown
+circumscribed lesion measuring from 0.1 cm to 0.2 cm in greatest dimension
+scattered in several areas over the surface. The surgical margin are marked
+with blue ink. The deep surface opposite the previously described suture
+excision 
+on the skin surface exhibits a focal area of suture material which
+closes a 2.1 cm defect in the deep surface. This defect communicates with the
+biopsy cavity. The margin in this area is inked carefully. Sectioning reveals
+the biopsy cavity is approximately 2.5 x 2 x 1.5 cm in greatest dimension and
+is hemorrhagic. Surrounding the biopsy cavity is a firm, poorly demarcated
+tan, slightly gritty mass which is 6.2 x approximately 4 x 2.7 cm in greatest
+dimension. This is well demarcated from the surrounding adipose tissue in the
+outer quadrant, however, but extends toward the center of the specimen it
+becomes less easily demarcated. The breast tissue of the remainder of the
+specimen is firm, fibrotic with multiple cystic structures measuring up to 1
+cm 
+in 
+greatest dimension and filled with gray-green fluid is a second
+relatively circumscribed area of soft pink-tan tissue which bulges above the
+cut surfaces and measures 3 x 2.5 x 1.5 cm in greatest dimension. This is
+located more centrally but in the lower outer quadrant. The larger firm mass
+surrounding the biopsy cavity to within approximately 0.5 cm of the surgical
+margin but the fibroadipose tissue on the deep surface is easily clear over
+the 
+lesions. Tumor extends to within 1.5 cm of the superior surgical margin.
+Criteria
+Dual/Synx hron cus Primary Noted
+Prior Malignancy History
+HIPAA Discrepancy
+Primary T:mor Site Discrepancy
+_ Diagnosis Discrepancy
+Case is
+_ Reviewe, Inities
+QUALIFIED /
+DISQUAL
+Reviewe
+BLOCK SUMMARY:
+B1-B2- representative sections of mass and adjacent biopsy cavity.
+B3-B5- representative sections of tumor and adjacent deep surgical margin.
+B6-B7- representative sections of superior surgical margin closest to tumor..
+B8- representative section of nipple.
+B9- representative section of skin and subcutaneous tissue at surgical
+incision.
+B10- representative section of soft, tan, demarcated lesion in the lower outer
+quadrant.
+B11- representative section through a firm area of breast tissue grossly
+separate from the main lesion by approximately 2 cm also near the lower
+outer 
+quadrant.
+B12- representative section of dense and cystic otherwise unremarkable breast
+tissue from the upper outer quadrant.
+B13- representative section of breast tissue from lower outer quadrant.
+1 of 2
+B14 representative section of dense breast tissue from upper inner quadrant.
+B15- representative section of dense breast tissue from lower inner quadrant.
+B16 representative section of breast tissue from beneath the nipple.
+B17- representative section from small skin lesion.
+The axillary dissection is approximately 13 x 10 x 2 cm in greatest dimension.
+The specimen is divided into the usual three levels and examined for lymph
+node candidates. There are numerous lymph node each of three levels. The lymph
+nodes measures up to 4 cm in greatest dimension. This largest lymph node is
+located in level I. Sectioning through this largest lymph node reveals that is
+appears to be completely replaced by adipose tissue.
+BLOCK SUMMARY:
+B18-B21- lymph nodes from level I as follows:
+B18- representative section of largest lymph node.
+B19- two bisected lymph node, one inked blue.
+B20 one bisected lymph node.
+B21- one bisected lymph node.
+B22-B25- lymph nodes from level II as follows:
+B22- five intact lymph node candidates.
+B23- one bisected lymph node candidate.
+B24-B25- one bisected lymph node candidate (one lymph node total in Block
+B24-B25).
+B26-B30 lymph node candidates from level III as follows:
+B26- eight lymph node candidates.
+B27- two bisected lymph node candidates, one ink blue.
+B28- three intact lymph node candidates.
+B29- one bisected lymph node candidate.
+B30- one bisected lymph node candidate.
+for Dr.
+INTRA OPERATIVE CONSULTATION:
+A. "Left breast biopsy": AF1- infiltrating carcinoma
+DIAGNOSIS:
+A. "LEFT BREAST BIOPSY":
+INFILTRATING CARCINOMA.
+B. "LEFT BREAST":
+EXTENSIVE INFILTRATING LOBULAR CARCINOMA (GREATEST DIMENSION IN EXCESS OF 6
+CM). SEE COMMENT.
+METASTATIC CARCINOMA PRESENT IN TWENTY FIVE OF TWENTY SEVEN (25/27)
+AXILLARY LYMPH NODES. SEE COMMENT.
+INFILTRATING CARCINOMA EXTENDS INTO SECTIONS OF LACTIFEROUS DUCT AND NIPPLE
+AS WELL AS RANDOM SECTIONS OF BREAST QUADRANT. SEE COMMENT.
+ALL SURGICAL MARGINS APPEAR FREE OF INVOLVEMENT.
+COMMENT: Because of the multifocal and extensive nature of the tumor, exact
+measurement are difficult to assess.
+Immunohistochemical staining for keratin on each block of lymphoid tissue
+reveals extensive infiltration of most lymph nodes. There does not appear to
+be associated extracapsular extension.
+Verified by:
+Dati
+2 of 2

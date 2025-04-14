@@ -1,0 +1,309 @@
+Name:
+Sex: F
+DOB.
+Location:
+Doctor:
+1
+10D-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site breast, NUS
+050-9
+1/25/11
+'
+SURGICAL REPORT
+Pathology Number:
+Date Collected:
+Date Received:
+M.R. Number
+Account Number:
+PRE-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+POST-OPERATIVE DIAGNOSIS
+RIGHT BREAST CA
+PROCEDURE
+MODIFIED RADICAL RIGHT MASTECTOMY, SENTINEL LYMPH NODE BIOPSY, F.S.; POSSIBLE AXILLARY DISSECTION
+TISSUES
+A. LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #1**FS**
+B. LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #2**FS**
+C LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #3**FS**
+D LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #4**FS**
+E. LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #5* *FS**
+F LYMPH NODE (S) - RIGHT SENTINEL LYMPH NODE #6**FS**
+G BREAST MASTECTOMY (WAO) NODES - RIGHT BREAST AND AXILLARY CONTENTS
+FS DIAGNOSIS
+LYMPH NODE #1, F.S. -
+DEFERRED FOR PERMANENT.
+UUID:849E9FA7-3420-427B-A310-3346CFA9F0CC
+TCGA-A2-
+A1FW-01A-PR
+Redacted
+B.
+LYMPH NODE #2, F.S. –
+DEFERRED FOR PERMANENT.
+C.
+LYMPH NODE #3, F.S. -
+DEFERRED FOR PERMANENT.
+LYMPH NODE #4, F.S. -
+POSITIVE FOR METASTATIC MALIGNANCY (1/1).
+LYMPH NODE #5, F.S. -
+DEFERRED FOR PERMANENT.
+LYMPH NODE #6, F.S. -
+DEFERRED FOR PERMANENT.
+(REPORTED TO SURGEON:
+Diagnosed by
+FINAL DIAGNOSIS
+RIGHT SENTINEL LYMPH NODE #1 –
+-
+Patient Name
+SURGICAL REPORT
+Pathology Number
+Page 1 of 5
+Patient Nam
+Pathology Number'
+i
+B.
+C.
+D.
+LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA.
+RIGHT SENTINEL LYMPH NODE #2 -
+LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA.
+RIGHT SENTINEL LYMPH NODE #3 –
+LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA.
+RIGHT SENTINEL LYMPH NODE #4 -
+LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA.
+RIGHT SENTINEL LYMPH NODE #5 -
+LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+RIGHT SENTINEL LYMPH NODE #6 -
+LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA.
+RIGHT BREAST AND AXILLARY CONTENTS -
+POORLY DIFFERENTIATED INVASIVE DUCTAL CARCINOMA, 75 MM IN GREATEST
+DIMENSION, EXTENDING WITHIN 25 MM. OF THE NEAREST DEEP INKED SURGICAL
+MARGIN.
+ALL DESIGNATED INKED SURGICAL MARGINS ARE FREE OF TUMOR.
+SCARFF-BLOOM-RICHARDSON BREAST CANCER HISTOLOGIC SCORE OF 9
+(3+3+3).
+EXTENSIVE ANGIOLYMPHATIC INVASION IS PRESENT.
+REMAINING BREAST TISSUE DISPLAYS FIBROCYSTIC CHANGE INCLUDING
+SCLEROSING ADENOSIS, FIBROSIS, DUCT ECTASIA, AND APOCRINE METAPLASIA,
+INCIDENTAL FIBROADENOMA, 10 MM. IN GREATEST DIMENSION
+.
+STIPPLED MICROCALCIFICATIONS AND MONCKEBERG'S MEDIAL CALCIFICATIONS ARE
+PRESENT IN THE NON-NEOPLASTIC TISSUE.
+THIRTEEN REACTIVE REGIONAL AXILLARY LYMPH NODES, NEGATIVE FOR
+MALIGNANCY.
+PATHOLOGIC TNM STAGE: T3 N2a M not applicable, STAGE IIIA, G3, INVASIVE DUCTAL
+CARCINOMA.
+PQRI CATEGORY II:
+Diagnosed by
+3260F.
+Reviewed ad electronically signed nut by.
+COMMENT
+This case is discussed with Dr.
+on
+by Di
+Patient Nam
+SURGICAL REPORT
+Pathology Number
+Page 2 of 5
+Patient Nam.
+Pathology Number:
+Key Note Block Summary: 1-nipple, 2 through 7-tumor, 8-deep resection line, 9
+superior/lateral/red, 10-inferior/lateral/black, 11-superior/medial/green, 12—
+inferior/medial/orange, 13, 14 and 15-random, 16, 17 and 18-apparent nodes
+MICROSCOPIC EXAM
+MICROSCOPIC EXAMINATION CONDUCTED BY PATHOLOGIST CONFIRMS FINAL DIAGNOSIS.
+SYNOPTIC REPORT:
+Specimen
+Procedure.
+Total breast (including nipple and skin).
+Total mastectomy (including nipple and skin).
+Lymph Node Sampling: Sentinel lymph nodes, Axillary dissection.
+Specimen Integrity: Single Intact specimen (margins can be evaluated).
+Specimen Size: greatest dimension - 27 cm.; additional dimensions 20 x 5.5 cm.
+Specimen Laterality:
+Tumor Site.
+Tumor Size
+Right.
+Mid superior lateral.
+Greatest dimension of largest focus of invasion over 0.1 cm.: 7.5 cm;
+Additional dimensions: 5 x 3 cm.
+Tumor Focality: Single focus of invasive carcinoma
+Skin:
+Invasive carcinoma does not invade into the dermis or epidermis.
+Skeletal Muscle:
+Ductal Carcinoma In-situ:
+No skeletal muscle present
+No DCIS is present.
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma (no special type or not otherwise
+specified).
+Glandular: Score 3: <10% of tumor area forming glandular/tubular structures.
+Nuclear Pleomorphism: Score 3: Vesicular nuclel, often with prominent nucleoli, exhibiting marked
+variation in size and shape, occasionally with very large and bizarre forms
+Score 3
+Mitotic Count
+Overall Grade
+Grade 3: scores of 8 or 9.
+Margins: uninvolved by invasive carcinoma:
+Distance from closest margin: 25 mm (deep).
+Distance from superior margin: 35 mm.
+Distance from inferior margin:
+Distance from posterior margin:
+Distance from medial margin:
+Distance from lateral margin:
+Treatment Effect:
+80 mm.
+25 mm.
+80 mm.
+35 mm.
+In the breast- No known presurgical therapy.
+In the lymph nodes - No known presurgical therapy
+Lymph-Vascular Invasion: Present
+Dermal Lymph-Vascular Invasion:
+Lymph Nodes:
+Not identified.
+Number of sentinel lymph nodes examined: 6
+Total number of lymph nodes examined:
+19
+Number of lymph nodes with macrometastases: 5
+Size of largest metastatic deposit:
+Extranodal Extension: Present
+15 mm.
+Method of Evaluation of Sentinel Lymph Nodes:
+Hematoxylin and eosin, one level
+H&E, multiple levels.
+Immunohistochemistry.
+Pathologic Stage:
+Patient Nam
+SURGICAL REPORT
+Pathology Number
+Page 4 of 5
+1
+Patient Nam
+Pathology Number:
+COMMENT2
+Immunohistochemical (IHC) stain for panKeratin (AE1/AE3) is negative for micrometastases in
+the uninvolved regional lymph nodes (specimens E and G).
+GROSS DESCRIPTION
+The specimen is received in seven separate containers labeled
+through G.
+designated A
+A
+B.
+C.
+D.
+E
+uj
+F
+G.
+The container is received fresh unfixed labeled "right sentinel lymph node #1 for frozen section"
+and consists of 
+an ovoid nodule of apparent fat which is 0.3 x 03 x 0.2 cm. Sectioning reveals a
+03 cm. tan-gray nodule. Frozen 
+section is deferred by Dr.
+The entire specimen is
+submitted in one block.
+The container is received fresh unfixed labeled "right sentinel lymph node #2 for frozen section"
+and consists of an 
+irregular mass of apparent fat which is 0.8 x 0.6 x 0.4 cm. in greatest overall
+dimension. Sectioning reveals 
+a 0.6 cm. tan-gray nodule. Frozen section is deferred by Dr.
+The entire 
+specimen is submitted in one block.
+The container is received fresh unfixed labeled "right sentinel lymph node #3 for frozen section*
+and consists of an ovoid 
+mass of apparent fat which is 1 x 1 x 0.6 cm. in greatest dimension.
+Sectioning reveals a 0.3 
+cm. tan-gray area. Frozen section is deferred by Dr.
+The container is received fresh unfixed labeled "right sentinel lymph node #4 for frozen section"
+and consists of an ovoid mass 
+of tan-gray firm rubbery tissue which is 1.5 x 1x1 cm in greatest
+overall dimension. Touch 
+prep and frozen section are obtained by Dr.
+specimen including frozen section is submitted in two blocks.
+The entire
+The container is received fresh unfixed labeled "right sentinel lymph node #5 for frozen section"
+and consists of an 
+irregular mass of apparent fat which is 1 x 0.4 x 03 cm. in greatest overall
+dimension. 
+Sectioning reveals a 0.3 cm. tan-gray area. Frozen section is deferred by Dr.
+The 
+entire specimen is submitted in one block.
+The container is received fresh unfixed labeled "right sentinel lymph node #6 for frozen section"
+and consists of an 
+irregular mass of apparent fat which is 0.6 x 0.4 x 0.4 cm. Sectioning reveals
+a(0.3 cm. tan-gray area
+. Frozen section is deferred by Dr.
+submitted in one block.
+The entire specimen is
+-
+The container is received fresh unfixed labeled "right breast – suture on superior/lateral aspect"
+and consists of a 
+1,242 gm. apparent right breast which is 27 x 20 x 5.5 cm. in greatest overall
+dimension and has an apparent 
+axillary tall. There is an attached suture indicating
+superior/lateral aspect inked with red dye, lower lateral is inked black, upper medial is inked
+green, 
+lower medial is inked orange. The underlying deep is inked with yellow. There is a
+eccentrically 
+placed nipple which is slightly inverted. Sectioning through the breast stroma
+reveals a 
+gray-white irregular-bordered tumor mass which grossly appears to be 7.5 x 5x 3 cm.
+In greatest overall 
+dimension and grossly appears to be located in the mid superior/lateral region.
+The tumor mass is 2.5 cm. from 
+the underlying/yellow margin, 3.5 cm. from the
+superior
+/lateral/red margin, 8 cm. from the inferior/lateral/black margin, 8 cm. from the¦
+superior/medial/
+green margin and 7 cm. from the inferior/medial/orange margin. Sectioning
+through the attached 
+axillary fat reveals pink-tan nodules varying up to 1.5 cm in greatest
+dimension. The 
+specimen is submitted in eighteen blocks.
+Patient Name
+SURGICAL REPORT
+Pathology Number:
+Page 3 of 5
+Patient Name
+1
+Pathology Numbe
+Primary Tumor: pT3
+Regional Lymph Nodes: pN2a
+Distant Metasstasis:
+Not applicable.
+Performed on another specimen - ¯
+Results:
+Ancillary Studies.
+ER
+PR
+Immunoreactive tumor cells present - Quantiation 90%
+Performed on another specimen -
+Results:
+No immunoreactive tumor cells present
+Immunoperoxidate Suties.
+Microcalcifications:
+Clinical History
+Performed on another specimen - S-1500-10
+Results:
+Negative (score 0)
+Present in non-neoplastic tissue.
+Palpable mass.
+SPECIAL STAINS PERFORMED:
+panKeratin (blocks E, G16 through G18)
+1.
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Disa epancy
+Prior Malignancy History
+Dual/synchronous Primary Noted
+Case is (circle):
+Pevic wer !nitials
+1 QUALIFIED / DISQUALIZED
+Date Reviewed
+Patient Nan
+SURGICAL REPORT
+Pathology Number: .
+Page 5 of 5

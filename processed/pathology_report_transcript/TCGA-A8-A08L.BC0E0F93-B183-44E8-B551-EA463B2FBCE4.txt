@@ -1,0 +1,28 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+1/21/11 fer
+Site: Breast, NOS
+050.9
+Diagnosis
+1. Left-sided ablated breast tissue with a poorly differentiated invasive ductal breast
+carcinoma measuring a maximum of 6 cm with focal invasion of the lymph vessels, extension
+to the base of the nipple and the pectoral muscle and excision extending just into the healthy
+tissue in the basal epidermis. No pagetoid tumor propagation or skin infiltration.
+Tumor classification:
+M-8500/3, G 3, pT3, pN2a (5/13), pMX, stage III A. RO.
+UUID:BCBEBF93-B183-44E8-8551-EA463B2FBCE4
+TCGA-A8-A08L
+-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case (circle:
+Reviwe s
+QUALIFIED
+Date Revieved:
+Yes
+DISQUALIFIED
+Redacted

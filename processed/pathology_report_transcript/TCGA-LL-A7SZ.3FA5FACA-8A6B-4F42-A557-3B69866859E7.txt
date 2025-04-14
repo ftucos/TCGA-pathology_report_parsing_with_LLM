@@ -1,0 +1,207 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+SPEC #:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks:
+Specimen(s):
+UUID:3FA5FACA-8A6B-4F42-A557-3869866859E7
+TCGA-LL-A7SZ-01A-PR
+Redacted
+PAGE 1
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+LOC:
+ROOM:
+BED:
+RECD:
+STATUS:
+COLL:
+TIME IN FORMALIN:
+COLD ISCHEMA TIME:
+hrs.
+mins.
+Left breast, stitch left axillary apex
+MICROSCOPIC DIAGNOSIS
+LEFT BREAST, SKIN-SPARING RADICAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, HIGH GRADE
+NOTTINGHAM HISTOLOGIC SCORE
+ICD-0-3
+Carcinoma, infiltrating duct No.5
+CACED
+Site Breast C50.9
+GLANDULAR TUBULAR DIFFERENTIATION SCORE 3
+NUCLEAR PLEOMORPHISM SCORE 3
+MITOTIC RATE SCORE 2
+OVERALL GRADE 3 (8 OF 9)
+path
+Breast, upper
+cuter quadrant
+94010/10/13
+MARGINS UNINVOLVED BY INVASIVE CARCINOMA
+CARCINOMA IS 5.5 MM FROM THE CLOSEST MARGIN (POSTERIOR MARGIN)
+MINUTE FOCUS OF HIGH-GRADE DCIS PRESENT WITHIN AREA OF CARCINOMA (1 MM IN SIZE)
+LYMPH-VASCULAR INVASION IDENTIFIED
+METASTATIC CARCINOMA INVOLVING TWO (2) OF ELEVEN (11) LYMPH NODES (2/11)
+LARGEST TUMOR DEPOSIT IS 14.5 MM
+EXTRACAPSULAR EXTENSION IDENTIFIED
+SEE SYNOPTIC REPORT
+COMMENT(S)
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+TUMOR SITE:
+HISTOLOGIC TYPE OF INVASIVE
+CARCINOMA:
+TUMOR SIZE:
+APPROVED BY
+Total mastectomy, skin sparing
+Axillary dissection
+Left
+Upper outer quadrant
+Invasive ductal carcinoma
+Greatest dimension of largest focus of invasion:
+25 mm
+Additional dimensions:
+HISTOLOGIC GRADE (NOTTINGHAM
+HISTOLOGIC SCORE):
+22 x 20 mm
+Glandular/tubular differentiation:
+Nuclear pleomorphism: score 3
+score 3
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME
+RUN USER:
+SPEC #:
+PATIENT:
+COMMENT(S)
+(Continued)
+Mitotic rate:
+score 2
+Overall grade:
+grade 3
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+Single focus of invasive carcinoma
+DCIS is present
+Estimated size of DCIS: 1 mm
+Architectural pattern:
+Nuclear grade:
+Necrosis:
+comedo
+grade III
+present, central
+PAGE 2
+(Continued)
+LOBULAR CARCINOMA IN SITU:
+MARGINS:
+LYMPH NODES:
+LYMPH-VASCULAR INVASION:
+DERMAL LYMPH-VASCULAR INVASION:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+Not identified
+Invasive carcinoma:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 5.5 mm.
+posterior
+DCIS:
+Margins uninvolved by DCIS
+Number of sentinel lymph nodes examined:
+Total number of lymph nodes examined: 11
+0
+Number of lymph nodes with macrometastases:
+Number of lymph nodes with ITC: 0
+Size of largest metastatic deposit:
+Extranodal extension: present
+14.5 mm
+Method of evaluation of sentinel lymph nodes:
+H&E. multiple levels
+Present
+Not identified
+Primary tumor: PT2
+Regional lymph nodes: pNla
+Distant metastasis: not applicable
+(RESULTS FROM CASE -
+Estrogen Receptor: positive
+with nuclear positivity}
+2
+(99% of tumor cells
+Progesterone Receptor: positive (99% of tumor
+cells with nuclear positivity
+Her2/neu:
+Immunoperoxidase studies:
+negative (1+)
+GROSS DESCRIPTION:
+Received fresh is a skin-sparing left radical mastectomy weighing 756 grams and measuring
+27 cm from medial to the axillary tail. 18 cm from superior to inferior, and 2.5 cm
+anterior to posterior. There is a linear portion of skin including nipple measuring 9 x
+2.1 cm. A mass is palpated in the lower portion of the upper outer quadrant.
+The deep
+margin underlying this tumor is inked black, and the anterior margin is inked blue. A cut
+is made from the posterior side. and a portion of tumor is given to the Tumor Bank. The
+tumor measures 2.5 x 2.2 x 2.0 cm. It is firm with focal areas of hemorrhage. There is an
+adjacent well-circumscribed tan-white soft, freely mobile area measuring up to 4.5 cm in
+greatest dimension. The carcinoma measures 0.8 cm from the posterior black-inked margin
+and 0.9 cm from the anterior blue-inked margin. The other margins are greater than 3 cm
+** CONTINUED ON NEXT PAGE **
+RUN DATE
+RUN TIME:
+RUN USER:
+SPEC #:
+PAGE 3
+(Continued)
+GROSS DESCRIPTION: (Continued)
+from the tumor including the nipple. The remainder of the breast is serially sectioned to
+reveal no additional masses, cysts or other gross abnormalities. There is a fat to fibrous
+ratio of up to 50:50. The most fibrotic areas are closest to the lateral quadrants,
+particularly the upper outer quadrant. The detached axillary tail itself measures 13.2 x
+5.5 x 2.6 cm. Serial section reveals multiple lymph nodes, the largest of which measures
+2.2 x 1.5 x 1 cm. Sections are as follows:
+1
+2
+3
+4
+5
+6-7
+8
+9-10
+11-12
+111
+tumor as it most closely approximates the anterior margin
+tumor as it most closely approximates the posterior margin
+additional representative section of tumor
+representative section of fibrotic area adjacent to tumor
+representative section of nipple
+additional representative sections of very fibrotic areas in the
+lateral quadrant
+representative sections of the medial quadrants
+multiple lymph nodes
+one lymph node each, bisected
+PHOTO DOCUMENTATION
+Signed
+(signature on file).
+* *
+END OF REPORT **
+Criteria
+l 9/23/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Init Is A
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+9/18/13

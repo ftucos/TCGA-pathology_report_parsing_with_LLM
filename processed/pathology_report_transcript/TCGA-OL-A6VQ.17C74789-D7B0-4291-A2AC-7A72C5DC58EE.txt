@@ -1,0 +1,135 @@
+Sample #
+I0D0-3
+Carinoma, infiltratio
+Lobular NOS 852013
+Suite ⑤Breart NOS
+JW 8/2/13
+C50.9
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right breast implant; removal:
+-
+· Breast implant (gross only)
+B. Right breast; skin-sparing mastectomy:
+- Invasive lobular carcinoma, SBR grade II, two foci, adjacent to prior
+lumpectomy site (1.9cm) and superior aspect of breast (2.2 cm)
+-
+· Lobular carcinoma in situ, classic type
+- Uninvolved breast parenchyma with adenosis, usual ductal hyperplasia,
+columnar cell change and apocrine metaplasia
+C. Right breast, anterior margin superior flap; excision:
+- Breast parenchyma with post-surgical change, no tumor
+D. Right breast, anterior margin inferior flap; excision:
+-
+Breast parenchyma with post-surgical change, no tumor
+UUID:17C74789-D7B0-4291-A2AC-7A72C5DC58EE
+TCGA-OL-A6VQ-01A-PR
+Redacted
+Breast Pathologic Parameters
+(combined with previous lumpectomy specimen
+1. Invasive carcinoma:
+A. Microscopic measurement: Two foci (1.9cm and 2.2 cm)
+B. Composite histologic (modified SBR) grade: II (all foci)
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic rate: 1
+C. Associated intraductal carcinoma in situ (LCIS):
+- Within and extending away from main mass (forming 10% of tumor
+volume)
+2. Excisional biopsy margins: Positive
+- Specimen margins positive, invasive carcinoma present at posterior
+margin (slide B11) and <0.1 mm from anterior-superior (slides B11 and B12)
+margin; superior lesion, slices 5 and 6 of 15 going medial to lateral
+3. Blood vessel and lymphatic invasion: Absent
+4. Nipple: Unremarkable
+5. Skin: Uninvolved
+6. Axillary lymph nodes: Negative (0/4 sentinel lymph nodes, see
+7. Special studies (see
+- ER: Strong expression in 90% of invasive tumor nuclei
+-
+PR: Weak expression in 10-20% of invasive tumor nuclei
+- HER2 antigen (FISH): Non-amplified (ratio: 1.05)
+- Ki67: 10%
+8. pTNM (AJCC, 7th edition, 2010): pT2(m), NO(sn), MX
+Clinical History:
+The patient is a -year-old female with right breast cancer undergoing a right
+breast skin sparing mastectomy.
+Specimens Received:
+A: Breast implant
+B: Right breast
+C: Anterior margin - superior flap
+D: Anterior margin - inferior flap
+Gross Description:
+The specimens are received in four containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'right breast implant'.
+Received is a spherical portion of clear synthetic plastic material filled with
+clear gel measuring 11.5 x 11.5 x 5 cm. The following is on the surface
+The specimen is consistent with an intact breast implant and
+received for gross description only. Gross photographs are submitted.
+B. The second container is additionally identified as, 'right breast skin
+sparing mastectomy'. Received fresh and placed in formalin is a 149 g oriented
+skin sparing simple mastectomy. The specimen measures 14.8 cm from superior to
+inferior, 19.8 cm from medial to lateral, and 1.2 cm from anterior to posterior.
+The anterior skin is tan and unremarkable measuring 3.4 x 3.3 cm. There is a
+central 2.4 x 2.3 cm areola and soft 1.2 x 1.1 x 0.5 cm nipple. The specimen is
+sectioned from lateral to medial into 15 slices (1 is lateral) with slice 10
+corresponding with the nipple. On the anterior aspect of the specimen is a
+metal clip identified in the mid-superior aspect at approximately 11:00. A 1.7
+x 1.5 x 1.0 cm hemorrhagic smooth cavity lies within slices 8 and 9 with
+adjacent yellow tissue consistent with fat necrosis. It is in the middle aspect
+of the slices adjacent to the aforementioned metallic clip. The cavity abuts
+the posterior margin and comes to within 0.1 cm of the anterior (blue ink)
+margin. Lateral to the cavity in slice 7 is a palpably firm and white
+ill-defined lesion (#1) at the anterior (blue ink) margin and 0.2cm from the
+posterior margin measuring 1.4 x 0.5 x 0.5 cm. In slices 5 and 6 in the
+superior aspect abutting the anterior and posterior margins is a firm
+well-circumscribed white 1.1 x 0.9 x 0.7 cm mass (#2). Lesion #2 is 1.5 cm
+superior and one cm lateral to lesion #1. Lastly in slices of 6 and 7 in the
+inferior aspect is an ill defined firm white lesion (#3) extending over 1.0 x
+0.7 x 0.5 cm, 0.3 cm from the anterior (green ink) margin. The remainder of the
+specimen is rubbery lobulated dense white tissue in the central slices (5-11).
+Remaining tissue is lobulated soft and yellow. No other discrete lesions are
+identified.
+Block summary:
+B1: Entire nipple, serially sectioned
+B2-B7: Entire cavity (lateral to medial respectively)
+B8-B10: Entire lesion #1 (all sections from slice 7)
+B11-B13: Entire lesion #2 (medial to lateral respectively)
+B14-B17: Entire lesion #3 (lateral to medial respectively)
+B18-B19: Representative sections of right upper outer quadrant (slices 8 and 9
+respectively)
+B20-B21: Representative sections of right lower outer quadrant (slices 5 and 8
+respectively)
+B22-B23: Representative sections of right lower inner quadrant (slices 9 and 10
+respectively)
+B24-B25: Representative sections of right upper inner quadrant (slices 11 and
+12 respectively)
+C. The third container is additionally identified as, 'anterior margin superior
+flap'. Received fresh and placed in formalin is an oriented piece of soft
+yellow tissue. The specimen is 0.5 g and measures 1.6 x 0.7 x 0.5 cm. On one
+side is a long black suture. There is no designation of the suture on the
+specimen container or requisition form. The side with the suture is inked
+black. The specimen is trisected and submitted entirely in cassette C1.
+D. The fourth container is additionally identified as, 'anterior margin
+inferior flap'. Received fresh and placed in formalin is an oriented piece of
+soft yellow tissue. The specimen is 1.0 g and measures 2.1 x 1.4 x 0.5 cm. On
+one side is a long black suture. There is no designation of the suture on the
+specimen container or requisition form. The side with the suture is inked
+black. The specimen is trisected and submitted entirely in cassettes D1-D2.
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours
+Interia
+agnosis Discrepancy
+hd 7/116/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Yior Malignancy History
+Qual/Synch: cnc Primaryoted
+Case is (circ
+Reviewer niis
+-
+QUALIFIED
+Yes
+No
+Date flowed:
+DISQUALIFIED
+41113

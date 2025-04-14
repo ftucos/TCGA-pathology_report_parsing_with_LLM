@@ -1,0 +1,57 @@
+UUID:25782EF0-8786-446E-ADBA-21F489844237
+TCGA-JL-A3YX-01A-PR
+Redacted
+1
+C.P #
+LAB NO:
+CLINICAL INFORMATION/COMMENTS:
+FEMALE - YEARS
+Loc:
+PATIENT CODE 1
+CONSULTANT
+DATE:
+PRINTED ON
+Histopathology Biopsy Small
+PR
+Clinical Note:
+Carcinoma breast left side.
+Microscopic Features:
+Section examined reveal breast tissue an infiltrative neoplastic lesion composed of cells
+showing moderate pleomorphism with nuclear hyperchromasia and eosinophilic cytoplasm.
+Few mitotic figures are seen. Almost 100% of the tumor is viable. No areas of necrosis are
+seen
+.
+Conclusion:
+Carcinoma left breast:-
+Infiltrating Lobular Carcinoma grade II. 100% of tumor is viable. No areas of necrosis are seen.
+Additional Report
+Necrosis
+Percent of tumor nuclei
+Other nuclei
+: 0%.
+90%.
+: 10%.
+168-0-3
+Carcinoma infiltrating lobular, ses
+852013
+Site: breast NES (50.9
+1
+نسك
+6/17/12
+Criteria
+Diagnosis Discrepancy
+Primary Timur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary
+Case is (circle):
+Reviewer Initial:
+Yes
+No
+ed
+ALIFIED
+Date Reviewed"
+DISQUALIFIED
+65-12
+السلام
+2/17/12

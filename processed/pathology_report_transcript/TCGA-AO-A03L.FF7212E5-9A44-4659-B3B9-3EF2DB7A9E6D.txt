@@ -1,0 +1,247 @@
+Clinical Diagnosis & History:
+T2 carcinoma right breast UOQ (core biopsy-invasive ductal carcinoma), for
+right total mastectomy, SLNB, possible ALND.
+Specimens Submitted:
+1: SP: Sentinel node #1, level 1, right axilla (fs) (
+2: SP: Right modified radical mastectomy with levels 1 & 2 axillary
+contents with tags attached
+UUID:FF7212E5-9A44-4659-8389-3EF2DB7A9E6D
+TCGA-A0-A03L-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+2)
+SENTINEL LYMPH NODE #231, LEVEL I, RIGHT AXILLA; BIOPSY:
+METASTATIC CARCINOMA INVOLVING LYMPH NODE.
+BREAST, RIGHT; MASTECTOMY WITH LEVELS I AND II AXILLARY CONTENTS:
+INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC GRADE III/III (SLIGHT
+OR NO TUBULE FORMATION), NUCLEAR GRADE III/III (MARKED VARIATION IN SIZE AND
+SHAPE), MEASURING 6.5 CM IN LARGEST DIMENSION GROSSLY.
+-
+THE INVASIVE CARCINOMA IS LOCATED IN THE CENTRAL AREA.
+THE NIPPLE LYMPHATICS ARE INVOLVED BY INVASIVE CARCINOMA.
+- NO CALCIFICATIONS ARE IDENTIFIED IN THE INVASIVE CARCINOMA.
+EXTENSIVE VASCULAR INVASION IS PRESENT.
+-
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY INVASIVE CARCINOMA IS
+IDENTIFIED.
+- THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES.
+-
+THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES EXAMINED): LEVEL
+I: 3/9; LEVEL II: 0/7.
+- THERE IS NO EXTRANODAL EXTENSION OF CARCINOMA.
+-
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+** Continued on next page
+PATH
+REPORT
+**
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+سا
+10/21/11
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: L
+tw 10/21/11
+Page 2 of 4
+Special Studies:
+Result
+Special Stain
+ER-C
+Comment
+Gross Description:
+M.D.
+PR-C
+HER2-C
+NEG CONT
+NEG-HER2
+IMM RECUT
+1)
+, M.D.
+The specimen is received fresh for frozen section diagnosis, labeled,
+"Sentinel node #1, level 1, right axilla".
+cm lymph node.
+It consists of a 3.0 x 1.8 × 0.7
+Trisected and one section is submitted for frozen section.
+Cut section shows firm tan-white tissue.
+as R. Entirely submitted.
+Summary of Sections:
+FSC frozen section control
+R
+remaining lymph nodal tissue
+The remaining tissue is submitted
+M.D.
+2)
+The
+Serially
+The specimen is received fresh, labeled, "Right modified radical
+It
+mastectomy with levels 1 & 2 axillary contents 
+with tags attached".
+consists of a product of modified radical 
+mastectomy, breast measuring 
+16.0
+x 11.5 x 5.0 cm with attached axillary 
+tissue, measuring 7.9 x 7.0 x 2.0 cm
+Anteriorly, the skin ellipse
+with tags attached labeled one and two.
+measures 9.2 x 1.5 cm bearing an unremarkable nipple and areola.
+epidermal surface is unremarkable, except 
+for blue dye staining.
+Cut section shows a 6.5 
+x 4.0 x
+sectioned from medial to lateral aspect
+.
+2.5 cm tumor, located in the central quadrant, about 1.5 cm beneath the
+The cut 
+section
+overlying skin and 0.2 cm from the deep 
+resection margin.
+of the tumor has firm, tan-pink tissue 
+with focal areas 
+of hemorrhage.
+adjacent breast tissue is predominantly 
+fatty with scattered fibrous
+Representative sections 
+from
+streaks. No other satellite nodules 
+are seen.
+Part of tissue is
+the tumor and the other quadrants are submitted.
+submitted for TPS. Multiple lymph nodes 
+are 
+dissected from the axillary
+tissue from levels one and two, size ranging 
+from 0.5 cm to 1.5 x 1.0 x 
+1.0
+The specimen is inked as follows
+:
+cm. The larger lymph nodes are bisected
+.
+superior-blue, inferior-red, posterior-black.
+Summary of Sections:
+N entirely submitted nipple and areola
+T
+tumor
+TM tumor to margin
+с
+UOQ
+LOQ
+UIQ
+central quadrant, two sections
+upper outer quadrant, two sections
+lower outer quadrant, two sections
+upper inner quadrant, two sections
+**Continued on next page **
+PATH
+REPORT
+The
+LIQ
+L1LN
+L2LN
+L1BLN
+lower inner quadrant, two sections
+level one lymph nodes
+level two lymph nodes
+level one bisected lymph nodes
+Page 3 of 4
+Summary of Sections:
+SP: Sentinel node #1, level 1, right axilla (fs)
+Part 1:
+Block
+1
+3
+Sect. Site
+FSC
+R
+PCs
+1
+3
+Part 2: SP: Right modified radical mastectomy with levels 1 & 2 axillary
+contents with tags attached
+Block
+1
+1
+2
+3
+1
+1122421
+Sect. Site
+с
+PCS
+2
+L1BLN
+2
+L1LN
+6
+L2LN
+12
+2
+LIQ
+2
+LOQ
+2
+N
+2
+T
+TM
+4
+2
+UIQ
+2
+UOQ
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+SITE: RIGHT BREAST
+PART #2.
+Status: Signed Out
+By:
+ER:
+PR:
+70% OF NUCLEAR STAINING WITH MODERATE INTENSITY.
+10% OF NUCLEAR STAINING WITH MODERATE INTENSITY
+HER2/NEU (HERCEPTEST):
+POSITIVE (STAINING INTENSITY OF 2+).
+PATH
+REPORT
+**Continued on next page **
+MD PHD
+1
+Page 4 of 4
+Intraoperative Consultation:
+Note:
+1)
+The diagnoses given in this section pertain only to the
+tissue sample examined at the time of the intraoperative
+consultation.
+FROZEN SECTION DIAGNOSIS: METASTATIC CARCINOMA.
+PERMANENT DIAGNOSIS:
+SAME.
+MD
+PATH
+REPORT
+**End of Report **

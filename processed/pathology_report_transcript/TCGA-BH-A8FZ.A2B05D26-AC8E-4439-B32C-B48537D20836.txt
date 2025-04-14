@@ -1,0 +1,142 @@
+UUID:A2B05D26-AC8E-4439-B32C-848537D20836
+TCGA-BH-A8FZ-01A-PR
+Redacted
+FINAL DIAGNOSIS:
+Collection Date:
+PART 1: BREAST, LEFT, SEGMENTAL MASTECTOMY AT 2 O'CLOCK -
+A. INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE.
+B. NOTTINGHAM GRADE 2 (TUBULE FORMATION 3, NUCLEAR ATYPIA 2, MITOTIC ACTIVITY 1; TOTAL SCORE
+6/9).
+C. INVASIVE TUMOR MEASURES 1.6 CM IN LARGEST DIMENSION (GROSS MEASUREMENT).
+D. NO LYMPHOVASCULAR IDENTIFIED.
+E. INVASIVE TUMOR IS 1 MM TO THE CLOSEST ANTERIOR MARGIN.
+F. LOBULAR CARCINOMA IN-SITU AND ATYPICAL LOBULAR HYPERPLASIA.
+G. NON-NEOPLASTIC BREAST TISSUE SHOWING FIBROCYSTIC CHANGE, SCLEROSING ADENOSIS, AND
+MICROCALCIFICATIONS.
+H. BIOPSY SITE CHANGE.
+1.
+INVASIVE TUMOR POSITIVE FOR ER, PR AND EQUIVOCAL FOR HER-2/NEU
+PART 2: AXILLARY SENTINEL LYMPH NODE #1, LEFT, BIOPSY -
+FIVE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/5).
+PART 3: AXILLARY SENTINEL LYMPH NODE #2, LEFT, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 4: AXILLARY NON-SENTINEL LYMPH NODE TISSUE, LEFT, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+CASE SYNOPSIS:
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Left
+Segmental
+Clock position:2
+Maximum dimension invasive component: 16 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR TYPE (invasive component):
+HISTOLOGIC TYPE:
+NOTTINGHAM SCORE:
+No
+Infiltrating lobular carcinoma
+Classical
+Nuclear grade: 2
+Tubule formation: 3
+Mitotic activity score: 1
+Total Nottingham score: 6
+Nottingham grade (1, 2, 3): 2
+No
+Not applicable
+Yes, benign zones
+LCIS
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+CALCIFICATION:
+TUMOR TYPE, IN SITU:
+LYMPH NODES POSITIVE:
+LYMPH NODES EXAMINED:
+No
+0
+7
+ICD0.3
+Carcinoma, lobular infiltrating
+NOS
+COCF
+882013
+Site ①Youast NOS C50.9
+Breast
+Path
+⑤Breast, upper
+outer
+quadrant C50.4
+84 11/24/13
+METHOD(S) OF LYMPH NODE EXAMINATION:
+H/E stain
+NON-NEOPLASTIC BREAST TISSUE: ALH, FCD
+T STAGE, PATHOLOGIC:
+N STAGE, PATHOLOGIC:
+M STAGE:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+pT1c
+PNO
+Not applicable
+positive, H-score: 180
+positive, H-score: 75
+2+
+Addendum
+Part #1:
+HER-2/NEU IMMUNOHISTOCHEMISTRY [NEGATIVE:0,1+; EQUIVOCAL: 2+; POSITIVE: 3+]
+RESULT
+HER-2/NEU Equivocal
+SCORE
+2+
+NOTE: HER2 FISH is being performed and the results will be subsequently reported.
+HER2 IMMUNOHISTOCHEMISTRY TEST DETAILS: Using appropriate formalin fixed (8 - 96 hours). controls and tissue test
+block, 4B5 antibody 
+clone is used as part of FDA approved
+and
+interpreted as follows: Score 0 (negative) = No staining is observed or membrane staining is observed in less than 10% of the
+tumor cells. Score 1+ (negative) = A faint/barely perceptible membrane staining is detected in more than 10% of the tumor cells.
+The cells 
+are only stained in part of their membrane. Score 2+ (equivocal) = A weak to moderate complete membrane staining is
+observed in more than 10% of 
+the tumor cells. This score requires reflex testing by FISH. Score 3+ (positive) = A strong complete
+membrane staining is 
+observed in more than 30% of the tumor cells.
+SPECIAL PROCEDURES:
+FISH
+Interpretation
+nuc ish(D17Z1x2-5, ERBB2x2-8)[40]
+No amplification of the HER-2/NEU gene was seen by interphase FISH analysis.
+RESULTS:
+Fluorescence in situ hybridization (FISH) analysis was performed on a formalin-fixed Block 1H (left segmental mastectomy @ 2:00)
+using the DNA probe for the HER-2/NEU gene
+An adequate number of invasive tumor cells were
+present and evaluated by two independent observers. The ratio of HER-2/NEU signals (ERBB2) to chromosome 17 centromere
+signals (D17Z1) was determined to be 1.34. A ratio of greater than 2.2 is considered to be amplified; therefore, this specimen is
+not amplified. Although amplification was not seen, many of the cells exhibited 3 or more signals for both the HER-2/NEU gene
+and for the chromosome 17 centromere. This may be indicative of either polyploidy or aneuploidy for chromosome 17. The
+average number of HER-2/NEU signals per cell was 3.26. The average number of signals for the chromosome 17 centromere was
+2.44. Concurrent positive and negative control specimens showed the expected results.
+FDA approved
+This FISH test is performed using a modification of the
+HER-2 DNA Probe Kit (1:2 LSI HER-2/neu
+/ CEP17 probe: T-denhyb-2 buffer). This FISH test was developed and its performance determined by the
+Pursuant to the requirements of CLIA '88, this laboratory has established and verified the test's
+accuracy and precision.
+Criteria
+10/24/13
+Yes
+N>
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+liPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted.
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 3

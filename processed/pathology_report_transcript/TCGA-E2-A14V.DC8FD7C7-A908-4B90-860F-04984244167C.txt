@@ -1,0 +1,214 @@
+TSS: N
+Path
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+12/8/10
+کسل
+Site lode: breast, lower inner quadrant C50.3
+CQCF Site breast, Nos
+050.9
+UUID:DC8FD7C7-A988-4898-860F-04984244167C
+TCGA-E2-A14V-01A-PR
+Redacted
+SPECIMENS:
+A. EXCISION LEFT BREAST
+B. LEFT AXILLARY SKIN TAG
+C. LEFT AXILLA S.L.N. #1
+D. LEFT AXILLA S.L.N. #2
+E. LEFT AXILLARY CONTENTS
+SPECIMEN(S):
+A. EXCISION LEFT BREAST
+B. LEFT AXILLARY SKIN TAG
+C. LEFT AXILLA S.L.N. #1
+D. LEFT AXILLA S.L.N. #2
+E. LEFT AXILLARY CONTENTS
+GROSS DESCRIPTION:
+A. EXCISION LEFT BREAST
+Received fresh labeled with the patient's identification, "Excision Left Breast" is a 130g, 8 x 11 x 4cm oriented
+(Single-Anterior, Double-Lateral, Triple-Superior) left lumpectomy with 5 x 2 cm tan pink unremarkable skin ellipse.
+Ink Code: Anterior-Yellow, Posterior-Black, Medial-Green, Lateral-Red, Superior-Blue, Inferior-Orange. The
+specimen is serially sectioned from medial to lateral into 8 slices to reveal a 3 x 3 x 2.3cm gray white firm ill defined
+mass, 0.5cm from the closest anterior-superior margins in slices 3-6. A portion of the specimen is submitted for
+tissue procurement. Representative sections are submitted as follows:
+A1: medial margin slice 1
+A2-A3: superior margin slice 2
+A4: area next to mass slice 2
+A5: skin slice 3
+A6: mass with anterior margin slice 3
+A7: mass with deep margin slice 3
+A8: mass with anterior margin slice 3
+A9: mass with deep margin slice 3
+A10: anterior/superior margin slice 4
+A11: superior margin slice 4
+A12: mass with anterior margin slice 4
+A13: mass with deep margin slice 4
+A14: mass with anterior margin slice 4
+A15: mass with anterior/inferior margin slice 4
+A16: mass slice 4
+A17: deep margin slice 4
+A18: deep/inferior margin slice 4
+A19: mass with anterior margin slice 5
+A20: superior margin slice 5
+A21: mass slice 5
+A22: mass with deep margin slice 5
+A23-A24: anterior margin slice 5
+A25: mass slice 5
+A26-A27: mass with deep margin slice 5
+A28-A29: mass with anterior margin slice 6
+A30-A31: mass slice 6
+A32: deep margin slice 6
+A33: next to mass slice 7
+A34-A35: deep margin slice 7
+A36: lateral margin slice 8
+B. LEFT AXILLARY SKIN TAGS
+Received in formalin are two polypoid skin tags, 0.1 and 0.3 cm in diameter. Submitted entirely in cassette B1.
+C. LEFT AXILLARY SLN #1
+Received fresh is a tan pink lymph node 1.0 x 0.6 x 0.3cm. The specimen is bisected and a touch prep is taken. Toto
+C1.
+D. LEFT AXILLARY SLN #2
+Received fresh is a tan pink lymph node 1.5 x 1.2 x 0.6cm. The specimen is bisected and a touch prep is taken. Toto
+D1.
+E. LEFT AXILLARY CONTENTS
+Received in formalin is a piece of yellow-tan adipose tissue, 9.5 × 0.5 x 2.7 cm. Multiple lymph nodes are identified
+ranging in size from 0.1 to 2.7 cm. The larger lymph nodes are bisected and have variegated pink-tan coloration.
+There is a blood vessel, 0.9 cm and the length and 0.4 cm in diameter, which is clipped at both ends. It contains
+blood clot. Specimen is submitted entirely:
+E1-E2: 6 lymph nodes each
+E3-E5: 2 lymph nodes each
+E6-E8: 1 lymph node each
+E9-E10: 1 lymph node
+E11-E25: remainder of soft tissue
+DIAGNOSIS:
+A. BREAST, LEFT, WIDE LOCAL EXCISION:
+-
+INVASIVE DUCTAL CARCINOMA, POORLY DIFFERENTIATED
+(SBR GRADE 3).
+INVASIVE CARCINOMA MEASURES 3 CM IN GREATEST DIMENSION.
+- MARGINS, FREE OF TUMOR.
+- LYMPHVASCULAR INVASION IS PRESENT.
+- DUCTAL CARCINOMA IN SITU (DCIS), SOLID AND MICROPAPILLARY
+TYPES, NUCLEAR GRADE 3, WITH NECROSIS AND MICROCALCIFICATIONS.
+DCIS IS WITHIN 3 MM OF THE SUPERIOR MARGIN AND IS WITHIN
+4 MM OF THE POSTERIOR MARGIN.
+-
+SKIN, NO TUMOR SEEN.
+B. AXILLA, LEFT, SKIN TAG, EXCISION:
+- ACROCHORDONS.
+C. SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+- METASTATIC CARCINOMA (0.3 CM IN SIZE) TO ONE LYMPH NODE (1/1).
+D. SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+-
+METASTATIC CARCINOMA (1.5 CM IN SIZE) TO ONE LYMPH NODE WITH
+FOCAL EXTRANODAL EXTENSION (1/1).
+E. AXILLARY CONTENTS, LEFT, DISSECTION:
+- METASTATIC CARCINOMA (0.8 CM IN SIZE) TO ONE OF 22 LYMPH NODES
+(1/22).
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Excision
+No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Tumor Site:
+Margins:
+3cm
+Lower inner quadrant
+Negative
+Distance from closest margin:
+0.5cm
+anterior
+Tubular Score: 3
+Nuclear Grade:
+3
+Mitotic Score: 3
+Modified Scarff Bloom Richardson Grade:
+Vascular/Lymphatic Invasion:
+Necrosis:
+Absent
+Lobular neoplasia:
+None
+3
+Present
+Lymph nodes: Sentinel lymph node and axillary dissection
+Lymph node status:
+DCIS present
+Positive 3/24 Extranodal extension
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 40%
+DCIS Type:
+Micropapillary
+Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: High
+Necrosis:
+Present
+Location of CA++:
+DCIS
+Stroma
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Pending
+Pathological staging (pTN):
+PT 2 N 1
+CLINICAL HISTORY:
+5cm tumor-Invasive Cancer on Core Bx. Lower Inner Quadrant Left Breast.
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+INTRAOPERATIVE CONSULTATION:
+A. GROSS INSPECTION: 3cm mass, 0.5cm from the closest Anterior margin.
+TPC-TPD: Positive for Adenocarcinoma.
+Diagnoses called to Dr. at
+ADDENDUM:
+(A) and
+'
+(C-D) by Dr.
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number: A16
+Interpretation: POSITIVE
+Intensity:
+3+
+% Tumor Staining:
+Fish Ordered: No
+METHODOLOGY:
+100%
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Her2 analysis
+was performed using the FDA approved Dako HercepTest (TM) test kit
+using rabbit anti-
+human HER2. This assay was not modified. External kit-slides provided by the manufacturer (cell lines with high,
+low and negative HER2 protein expression) and in-house known HER2 amplified control tissue were evaluated along
+with the test tissue. Adequate, well preserved, clear-cut invasive carcinoma was identified for HER2 evaluation.
+Interpretation of the HER2 immunohistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from ASCO and CAP
+and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology Department takes full responsibility
+for this test's performance.
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist,
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist
+Addendum Final: Pathologist, 1
+IN
+.riteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synch:onous Primary Noted
+Case is (circle):
+Reviewer initials.
+QUALIFU'D
+Date
+Reviewed:
+Yes
+No

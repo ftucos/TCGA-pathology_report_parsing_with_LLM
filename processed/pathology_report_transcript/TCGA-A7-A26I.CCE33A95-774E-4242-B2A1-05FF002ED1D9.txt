@@ -1,0 +1,117 @@
+Date Coll:
+UUID:CCE33A95-774E-4242-B2A1-85FF002ED1D9
+TCGA-A7-A261-01A-PR
+SURGICAL PATHOLOGY REPORT
+ICD-0-3
+Carcinoma, infiltrating duct. NOS 8500/3
+Site: breast, Nos
+Redacted
+SPECIMEN
+A. Left axillary sentinel node.
+B. Left breast mass Long stitch anterior, short stitch superior
+CLINICAL NOTES
+PRE OP DIAGNOSIS: Left breast cancer
+CLINICAL HISTORY:
+year-old white female with breast cancer
+POST-OP DIAGNOSIS: Left breast cancer
+GROSS DESCRIPTION
+A.
+Received fresh labeled "left axillary sentinel nodes"
+are two slightly rubbery tan-white-pink tissues in keeping
+with lymph nodes measuring 0.6 and 1.0 cm. in greatest dimension.
+The specimens are bisected and entirely submitted independently in
+two blocks (one bisected tissue per cassette).
+-
+B. Received fresh within a TranSpec container labeled
+"left breast mass" is a 7.3 cm. (medial to lateral) x 6.5
+cm. (superior to inferior) x 3.7 cm. (anterior to posterior), soft,
+lobulated tan gold-white portion of fibroadipose tissue with two
+sutures as stated previously. The margins are inked as follows:
+Anterior - blue, posterior black, superior - green, and inferior
+orange. The specimen is sectioned from medial to lateral. There is
+a central, moderately well-circumscribed, 3.2 cm. (medial to
+lateral) x 2.5 cm. (superior to inferior) x 2.4 cm. (anterior to
+posterior), firm tan white tumor mass with several central
+associated cylindrical tan white structures in keeping with cyte of
+prior needle core biopsy. A portion of tumor and a portion of
+normal parenchyma are submitted for tissue procurement as requested.
+The tumor appears to focally extend to within 0.3 cm. of both the
+anterior and posterior inked margins. The cut surfaces throughout
+the remainder of the specimen consist predominantly of glistening
+lobulated golden yellow adipose tissue with a minimal amount of
+interspersed dense tan-white fibrous tissue. No additional
+abnormality is noted. Representative sections are submitted in a
+sequential manner from medial to lateral in 10 blocks as labeled.
+BLOCK SUMMARY: 1 - Representative perpendicular sections medial
+margin cap; 2-9 sequential sections; 10 - representative
+perpendicular sections lateral margin cap.
+MICROSCOPIC DESCRIPTION
+A. Microscopic examination involved the evaluation of the
+four H&E stained sections of each of the tissue blocks.
+Also pan cytokeratin AE1/AE3 immunohistochemical stains were
+evaluated of each tissue block and no metastatic tumor was
+identified in any of the examined sections (0/2) (snpNO).
+B. Microscopic examination of the left breast lumpectomy
+specimen reveals:
+050.9
+سر
+4/27/11
+Invasive Carcinoma: Present.
+Histologic type: Infiltrating ductal.
+Histologic grade: Elston's SBR grade 2.
+Overall grade: 2
+Architectural score: 2
+Nuclear score: 2
+Mitotic score: 2
+Greatest dimension (PT): 3.2 cm. in greatest dimension (pT2).
+Specimen margins: The resection margins are negative for
+carcinoma with the closest resection margins being superior and
+anterior where invasive tumor is 2 mm. from the resection
+margin. Tumor is 3 mm from the posterior resection margin.
+Vessel invasion: Not identified.
+Calcification: Present.
+Ductal carcinoma in situ: Present.
+Histologic pattern: Solid with cancerization of lobules.
+Nuclear grade: High grade.
+Central necrosis: Absent.
+% DCIS of total tumor (if mixed): Less than 10%.
+Extensive intraductal component (present/absent):
+Absent.
+Specimen margins: DCIS is 2 mm from the anterior and superior
+margins and 3 mm from the posterior margin.
+Calcification: not identified.
+Description of non-tumorous breast: Fibrosis, apocrine metaplasia
+and microcysts with sclerosing adenosis.
+Prognostic markers.
+biopsy see
+4x2, 20x1
+DIAGNOSIS
+been reported previously on the core
+A. Left axillary sentinel lymph nodes, biopsy:
+B.
+Two lymph nodes negative for metastatic tumor (0/2).
+Left breast, lumpectomy:
+Invasive ductal carcinoma, Elston's SBR grade 2, tumor size
+3.2 cm.
+Associated high grade solid ductal carcinoma in-situ.
+Invasive and in-situ carcinoma are 2 mm from the resection
+margins designated superior and anterior and 3 mm from the
+resection margin designated posterior.
+No lymphovascular space invasion identified.
+See microscopic description.
+(Electronic Signature)
+End Of Report
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFISE
+DISQUALIFIED
+Date Reviewed: ☑
+4/27/44

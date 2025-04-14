@@ -1,0 +1,62 @@
+UUID: 292571E3-D500-4337-8435-8348504F3109
+TCGA-D8-A27W-01A-PR
+Redacted
+ICD-0-3
+carcinoma, mucinous 8480/3
+Site: breast, Nos
+050.9
+1 5/19/11
+page 1 / 1
+original
+Examination: Histopathological examination
+Internal invoice No.
+Value of diagnostic procedure
+Patient:
+PESEL:
+Age:
+Gender: F
+Criteria
+Material: Total organ resection - right breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Right breast with an ulcerous tumour and right axillary lymph nodes
+Examination No.:
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case in circle):
+Review in 41
+QUALIFIED
+Date Reviewed:
+11/15/19/11
+Yes
+No
+DISQUALIFIED
+Examination performed on
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in less than 10% of neoplastic cell nuclei.
+HER2 protein stained with Ventana's Pathway HER-2/neu (4B5) Rabbit Monoclonal Antibody. Score=2+, FISH
+verification recommended.
+Compliance validated by:
+Examination performed on.
+Macroscopic description:
+Right breast sized 21.3 x 17.8 x 6.2 cm removed along with axillary tissues sized 9 x 8 x 3 cm and a skin flap of 18.7 x
+8.2 cm. Weight 1040 g.
+Tumour sized 5.3 x 3.8 x 5.3 cm in the middle part, located 2.2 cm from the lower boundary, 1.1 cm from
+the base and 0 cm from the skin.
+Microscopic description:
+Carcinoma mucinosum invasivum - NHG3 (3 + 3 +2: 10 mitoses/10 HPF - visual area: 0.55mm).
+Infiltratio carcinomatosa cutis mammae.
+Glandular texture showing parenchymal atrophy.
+AXILLARY LYMPH NODES:
+Lymphonodulitis chronica (No XII).
+Histopathological Diagnosis;
+Carcinoma mucinosum invasivum mammae dextrae (NHG3, pT4b, pNO). Invasive mucinous carcinoma of the right e
+breast
+Compliance validated by:

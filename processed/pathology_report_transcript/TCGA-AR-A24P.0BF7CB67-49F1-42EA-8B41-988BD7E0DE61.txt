@@ -1,0 +1,29 @@
+Criteria
+Diagnosis Discrepancy
+UUID:0BF7CB67-49F1-42EA-8841-988BD7E0DE61
+Yes
+TCGA-AR-A24P-01A-PR
+No
+Redacted
+Final Diagnosis
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer initials B
+QUALIFIED DISQUALIFIED
+Date Reviewed: 419 41
+14/257/11
+Breast, left, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III), forming a 1.5 x 1.4 x 1.2 cm mass
+(AJCC pT1c). Associated ductal carcinoma in situ, intermediate nuclear grade, compromises approximately 20% of the tumor.
+Resection margins are free of tumor. Separately submitted lateral, deep, inferior and superior margins are free of tumor.
+Lymph nodes, left axillary sentinel Nos. 1, 2, and 3, excision: Multiple (3) left axillary sentinel lymph nodes without blue dye are
+negative for tumor. [AJCCpNO(i-)] Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel
+lymph node tissue and confirms the H&E impression.
+ICD-0-3
+carcinoma infiltrating duct, Nos 8500/3
+Site: breast, Nos
+C50.9
+سل
+4/25/11

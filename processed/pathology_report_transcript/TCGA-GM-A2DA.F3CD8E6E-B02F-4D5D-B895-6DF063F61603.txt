@@ -1,0 +1,78 @@
+UUID:F3CD8E6E-B02F-4D5D-B895-6DF063F61603
+TCGA-GM-A2DA-01A-PR
+CONSULTANT:
+TIME RFC:
+PHOTO: 90
+OX COMPLETED:
+D:N
+DIAGNOSIS :
+Redacted
+PATH:
+ICD-0-3
+carcinoma, infiltrating duct, was 8.500/3
+Site: breast, was C50.9
+3:
+1.4.
+FINAL DATE:1
+CHO:
+SURGERY
+IR COPY TO:R
+CLINIC COPY
+(A) RIGHT BREAST AND AXILLARY CONTENTS:
+INVASIVE DUCTAL CARCINOMA, BLACK'S NUCLEAR GRACE II.
+(SEE COMMENT)
+Fibrocystic changes.
+NETASTATIC CARCINOMA IN TWO OF THIRTEEN AXILLARY LYMPH NODES.
+(SEE COMMENT)
+Margins of resection free of tumor.
+COMMENT: The main tumor mass measures 2.5 X 2.0 x 1.5 cm in greatest
+dimensions and is located in the inner quadrant. A separate microscopic
+focus of invasive tumor is Located in the upper outer quadrant and measures
+1.5 x 1.0 x 0.5 mm. The largest lymph node containing metastatic disease
+measures 1.5 x 1.0 x 0.5 cm and 
+shows 50% replacement by tumor. One of
+Lymph nodes containing metastatic tumor shows several foci of extracapsular
+extension with a cumulative area of 3.0 x 3.5 mm.
+the
+GROSS DESCRIPTION:
+-
+cm)
+elliose
+(A) RIGHT BREAST AND AXILLARY CONTENTS The specimen (25 × 15 x 4
+consists of breast (15 x 13 x 2 cm) covered by an unremarkable skin
+(3 x 5 cm) with nipple. The axillary contents measure 12 x 5 x ).1 cm.
+A mass is identified in the inner quadrant and measures 2.5 x 2.0 x
+1.5 C in. The
+nass is 0.5 cm from the deep surgical margin. The mass is 2.5
+cm away from the medial margin and 5 cm away from the nipple, 2.5 cm
+from the inferior margin and 5 cm away from the superior margin. The rest 0
+the breast parenchyma shows fibrosis. No other mass is present
+aWaY
+SECTION CUDE: Al, tumor with deep surgical margin; A2-A7, sections of
+tumori Ad, inner upper quadrant peripheral; 19, inner Lower quadrant central
+11J0
+inner Lower quadrant peripheral; All, outer upper quadrant peripherali
+112, outer upper quadrant central; A15, outer lower quadrant central; A14,
+Outer Lover quadrant peripheral; A15, Alé, nipple; A17, two tymph nodes; Al
+one lymph node; 11), one lymph node; 420, three lymph nodes; A21, two lymph
+nodes; 122, two lymph nodes; A23, one lymph node, bisected: 424, one, (v noh
+REPORT OF TISSUE
+DIAGNOSIS
+Criteria
+Diagnosis Discrepancy
+Primary Tuino S
+Site Discrepa
+HIPAA Discrepancy
+Prior Malignancy Pistory
+Tual/synchronous rary No
+Case is (cr):
+Reviewer Initials
+CALITIO
+Mb
+DISQUALID
+e Reviewed
+node.
+A portion of the tumor is submitted for flow
+TECHNICAL CHARGES:
+REPORT OF TISSUE
+DIAGNOSIS

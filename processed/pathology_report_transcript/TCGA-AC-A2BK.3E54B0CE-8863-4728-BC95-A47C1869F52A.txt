@@ -1,0 +1,141 @@
+MRN:
+Surgery
+Criterla
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+_Dual/Synchronous Primaryoted
+Case is (circle):
+Reviewer lo
+QUALIFIED
+Date Reviewed
+Yes
+DISQUALIFIED
+Hospital
+t 3/27/14
+Laboratory Patient Report
+Print Date/Time:
+ον
+MD
+Redacted
+;
+UUID:3E54B0CE-8863-4728-BC95-A47C1869F52A
+TCGA-AC-A2BK-01A-PR
+Histopathological Examination
+Surgical Pathology
+UNWAL
+Path#
+Collected:
+Received:
+Pre-Op Diagnosis : Left“ Breast Can
+Order Physician
+Specimens
+Frozen Diagnosis :
+Report
+MR#:
+:
+: Breast, left
+: GROSS EXAMINATION:
+MD
+> Complete
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS C50.9
+5/27/11
+The specimen is received in a container labeled with the
+name 
+of the patient and labeled as breast, left. The
+specimen consists of a mastectomy designated left which
+measures en bloc 31 x 20 x 5.5 cm and weighs 1515 g.
+Anteriorly located is an ellipse of brown skin which
+measures 22 x 17 cm. Centrally located is a 4.5 cm diameter
+areolar complex with slightly retracted nipple which is
+sampled in block 1. 
+The deep margin is inked and the
+specimen 
+is serially sectioned and shows a gray-tan firm
+mass in 
+the upper outer quadrant. This mass measures 2.8 x
+2.5 x 2.3 
+cm and grossly extends to within 1 cm of the inked
+deep 
+margin. A section of skin overlying the mass is
+submitted in block 
+2. A section of the inked deep margin is
+submitted in block 3. 
+Sections of the mass are submitted in
+block 4-7
+. The remaining breast is composed of yellow
+lobulated adipose 
+tissue admixed with islands of gray-white
+rubbery tissue. The breast is 
+divided into four quadrants;
+upper inner, lower inner
+, upper outer and lower outer and
+sampled in blocks 
+8-11. The attached axillary tissue is
+dissected 
+for lymph nodes with the lower part sampled in
+blocks 12-14 in the 
+upper part sampled in blocks 15-16.
+DIAGNOSIS BASED ON GROSS AND MICROSCOPIC EXAMINATION:
+SPECIMEN TYPE: Modified radical mastectomy.
+LYMPH NODE SAMPLING: Axillary dissection.
+LATERALITY: Left
+TUMOR SITE: Upper outer quadrant
+SIZE OF INVASIVE COMPONENT: Greatest dimension: 2.8 cm.
+ADDITIONAL 
+DIMENSIONS: 2.5 × 2.3
+HISTOLOGIC TYPE:
+ductal carcin
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE LAW
+. UNAUTHORIZED DISCLOSURE, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #:
+Visit #:
+Page 1
+of 2
+$
+$
+MR#:
+i
+i
+HISTOLOGIC GRADE: Nottingham histologic score 3/3.
+DUCT IN SITU COMPONENT:
+Not identified.
+· MICROCALCIFICATIONS: Not identified.
+EXTENT OF INVASION
+PRIMARY TUMOR (PT): PT2: Tumor more than 2.0 cm but not more
+than 5.0 cm in greatest dimension.
+REGIONAL LYMPH NODES (PN): pN2a: Metastases in 4 to 9
+axillary lymph nodes.
+NUMBER EXAMINED: 23
+NUMBER INVOLVED: 6
+DISTANT METASTASIS (PM): PMX
+MARGINS: Uninvolved by invasive carcinoma.
+DISTANCE TO NEAREST MARGIN: 1.0 cm to deep margin.
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION 
+(V
+/L):
+Present.
+Summary of pathologic staging: pT2N2aMXG3.
+Intradepartmental consultation obtained
+.
+COMMENT: Immunohistochemical stains for estrogen and
+progesterone receptors and HER2 are pending and will be
+supplementally reported when complete.
+Pathologist
+M.D.
+Electronically signed by:
+MD
+A
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE LAW. UNAUTHORIZED DISCLOSURE
+, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #:
+Visit #:
+Page 2
+of 2

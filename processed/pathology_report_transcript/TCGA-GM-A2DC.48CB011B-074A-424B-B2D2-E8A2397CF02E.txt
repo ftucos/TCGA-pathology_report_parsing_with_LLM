@@ -1,0 +1,102 @@
+ICD-0-3
+carcinoma, infiltrating ductal Nos 8500/3
+Site: breast, Nos
+050. 1.9
+lw 6/23/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+ReviewerAnitials
+Yes.
+m
+QUALIFIED / DISQUALIFIED
+Date Reviewed: 1221
+how 6/23/11.
+(A) RIGHT BREAST, NEEDLE-LOCALIZED SEGMENTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA WITH CENTRAL SCLEROSIS, INTERMEDIATE
+NUCLEAR GRADE,
+NOTTINGHAM HISTOLOGIC GRADE 2. (SEE COMMENT)
+INVASIVE CARCINOMA MEASURES 1.8 CM IN THE LARGEST DIMENSION.
+LYMPHOVASCULAR INVASION PRESENT.
+INVASIVE TUMOR EXTENDS TO LESS THAN 1 MM FROM ANTERIOR MARGIN AND
+TO 5 MM FROM
+DEEP MARGIN (NOT FINAL MARGINS, SEE COMMENT).
+Focal adjacent atypical ductal hyperplasia.
+Atypical lobular hyperplasia.
+Columnar cell change.
+(B) RIGHT AXILLARY CONTENTS, DISSECTION:
+METASTATIC CARCINOMA IN ONE OF TWELVE LYMPH NODES (1/12); LARGEST
+METASTASIS MEASURES
+2.0 CM; NO EXTRANODAL EXTENSION IDENTIFIED.
+(C) RIGHT AXILLARY LEVEL II LYMPH NODES, EXCISION:
+Nine lymph nodes, no tumor present (0/9).
+(D) RIGHT BREAST, NEW SUPERIOR SUPERFICIAL MARGIN, EXCISION:
+Benign breast tissue (predominantly fibroadipose tissue), no tumor present.
+(E) RIGHT BREAST, NEW INFERIOR SUPERFICIAL MARGIN, EXCISION:
+Benign breast tissue, no tumor present.
+(F) RIGHT BREAST, NEW INFERIOR SUPERFICIAL MARGIN, EXCISION:
+Fibroadipose tissue, no tumor present.
+(G) RIGHT BREAST, NEW LATERAL SUPERFICIAL MARGIN, EXCISION:
+Benign breast tissue, no tumor present.
+Entire report and diagnosis completed by
+COMMENT
+Although the tumor has central sclerosis, this comprises less than 30% of the tumor (so the
+tumor does not qualify as the subtype of invasive carcinomas with a "large central acellular zone”).
+Although tumor approached the anterior margin in the initial segmental mastectomy specimen,
+this tissue was re-excised and found to be free of tumor, so tumor does not approach the final
+surgical margins. Tumor is 5 mm from nearest deep margin.
+Tumor marker studies were reported previously (see
+GROSS DESCRIPTION
+(A) RIGHT SEGMENTAL MASTECTOMY - An oriented segmental mastectomy specimen (5.5 x
+5.1 x 3.3 cm). Nine slices are cut from superior to inferior, and a specimen radiograph is obtained.
+There is a well-circumcised tan-pink mass (1.8 x 1.5 x 0.9 cm) located less than 0.1 cm
+from the anterior margin and 0.4 cm from the deep margin. On the medial side of the mass there
+is a fibrotic area measuring 2.0 x 2.0 x 3.5 cm. The entire mass and entire fibrotic area is
+submitted.
+INK CODE: Green - inferior; blue - superior; black - deep; yellow - superficial; red -
+medial and lateral.
+UUID:48CB011B-874A-424B-B2D2-E8A2397CF02E
+TCGA-GM-A2DC-01A-PR
+Redacted
+No
+SECTION CODE: A1, inferior margin, perpendicular; A2, superior margin, perpendicular;
+A3-A8, tumor entirely submitted; A9, A10, remainder of slice 6; A11-A22, entire fibrotic area from
+medial aspect of specimen.
+(B) AXILLARY CONTENTS, RIGHT - A non-oriented irregular portion of adipose tissue (13.0 x
+5.0 x 0.8 cm). The specimen is serially sectioned, and eleven lymph nodes are identified ranging
+from 0.2 x 0.2 x 0.2 cm to 2.0 x 1.5 x 1.0 cm.
+SECTION CODE: B1, two lymph nodes; B2, three lymph nodes; B3, two lymph nodes;
+B4, one lymph node; B5, one lymph node; B6, B7, one lymph node bisected; B8, B9, one lymph
+node bisected.
+(C) RIGHT AXILLARY LEVEL II - An irregular portion of adipose tissue (4.0 x 2.0 x 0.4 cm). The
+specimen is serially sectioned, and six lymph nodes are identified ranging from 0.2 x 0.2 x 
+0.2 to
+1.5 x 0.8 x 0.7 cm.
+SECTION CODE: C1, two lymph nodes; C2, two lymph nodes; C3, two lymph nodes.
+(D) NEW SUPERIOR SUPERFICIAL MARGIN - A portion of fibroadipose tissue, 7.0 x 3.0 x 1.2
+cm, with clips on the true margin. The true margin is inked black. The specimen is serially
+sectioned and entirely submitted in D1-D7.
+(E) NEW INFERIOR SUPERFICIAL MARGIN - A portion of fibroadipose tissue, 4.0 x 4.0 x 1.0
+cm, with clips on the true margin. The true margin is inked black. The specimen is serially
+sectioned ad entirely submitted in E1-E4. !
+(F) NEW INFERIOR SUPERFICIAL MARGIN - A portion of fibroadipose tissue, 2.5 x 2.5 x 0.6
+cm, with clips on the true margin. The true margin is inked black. The specimen is serially
+sectioned and entirely submitted in F1, F2.
+(G) NEW LATERAL SUPERFICIAL MARGIN - A portion of fibroadipose tissue, 5.0 x 2.0 x 0.6
+cm, with clips on the true margin. The true margin is inked black. The specimen is serially
+sectioned and entirely submitted in G1-G4.
+CLINICAL HISTORY
+Right breast cancer.
+SNOMED CODES
+T-04050, M-85003, T-C4710, M-85006
+"Some tests reported here may have been developed and performance characteristics
+determined by
+These tests have not been
+specifically cleared or approved by the U.S. Food and Drug Administration."
+Released by:
+--END OF REPORT---
+>

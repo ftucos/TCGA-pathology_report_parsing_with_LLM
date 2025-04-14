@@ -1,0 +1,30 @@
+Yes
+No
+UUID:887F0E3A-DC70-4CD4-AAAF-3C613195D895
+TCGA-AR-A240-01A-PR
+Redacted
+Final Diagnosis
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Naled
+Case is (ci:cle):
+Reviewer initials
+QUALIHED
+DISQUALIFIED
+Date Reviewed: 4/19/11
+tw 4/25/11
+Breast, left, modified radical mastectomy: Multifocal lobular carcinoma with focal ductal features, Nottingham grade I (of III)
+forming two separate masses, 5.3 x 2.7 x 1.4 cm and 1.2 x 1.0 x 1.0 cm in the inferior and medial breast respectively (AJCC pT3).
+A biopsy cavity is identified adjacent to the tumor in the medial breast. Lymphovascular space invasion is not seen. The
+remaining breast parenchyma shows adenosis and duct ectasia. The nipple shows no diagnostic abnormalities. Margins of
+resection are negative for tumor (closest margin is anterior/inferior, free by at least 0.8 cm). Multiple (6 of 17) left axillary lymph
+nodes are involved by metastatic lobular carcinoma (AJCC pN2). Focal extracapsular extension is also present.
+Her-2/NEU has been ordered on paraffin embedded tissue.
+ICD-0-3
+Carcinoma, infiltrating duct and lobulw, Nes 8522/3
+Site: breast, Nos
+050.9 hu
+4/25/11

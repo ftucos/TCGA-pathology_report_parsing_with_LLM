@@ -1,0 +1,303 @@
+Clinical Diagnosis & History:
+year old female with right breast cancer diagnosed on core biopsy.
+Specimens Submitted:
+1: SP: Sentinel node #231, level 1, right axilla
+2: SP: Sentinel node #2, level 1, right axilla (fs)
+3: SP: Right breast mass
+4: SP: Additional medial margin
+5: SP: Superior lateral tissue, right breast
+6: SP: Level 1 and 2, right axillary contents with tags attached
+UUID:15CAD156-1E40-4C83-B3ED-484964FE407F
+TCGA-AO-A0ØJE-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+2)
+3)
+-
+SENTINEL NODE #1, LEVEL I, RIGHT AXILLA; EXCISION:
+METASTATIC CARCINOMA INVOLVING ONE LYMPH NODE (1/1).
+- NO EXTRANODAL EXTENSION IS IDENTIFIED.
+-
+-
+-
+SENTINEL NODE #2, LEVEL I, RIGHT AXILLA; EXCISION:
+METASTATIC CARCINOMA INVOLVING ONE LYMPH NODE (1/1).
+EXTRANODAL EXTENSION IS IDENTIFIED AND MEASURES 0.5 CM.
+BREAST, MASS, RIGHT; EXCISION:
+INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC GRADE III/III (SLIGHT
+OR NO 
+TUBULE FORMATION),
+NUCLEAR GRADE III/III (MARKED VARIATION IN SIZE AND SHAPE), MEASURING
+2.5 CM 
+IN LARGEST
+DIMENSION MICROSCOPICALLY.
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE, WITH
+HIGH 
+NUCLEAR GRADE
+AND EXTENSIVE NECROSIS.
+LOBULAR INVOLVEMENT BY DCIS IS PRESENT.
+THE DCIS CONSTITUTES <25% OF THE TOTAL TUMOR MASS, AND IS PRESENT
+ADMIXED 
+WITH AND AWAY
+FROM 
+THE INVASIVE COMPONENT.
+CALCIFICATIONS ARE PRESENT IN THE IN SITU, AND IN BENIGN BREAST
+PARENCHYMA.
+NO VASCULAR INVASION IS NOTED.
+- A MICROSCOPIC FOCUS OF INVASIVE CARCINOMA (<1 MM) IS PRESENT IN ONE
+OUT OF SIX SECTIONS OF THE ANTERIOR SHAVED MARGIN.
+-
+DCIS INVOLVES THE FOLLOWING SHAVED MARGINS: SUPERIOR (ONE OUT OF FOUR
+SLIDES), INFERIOR (ONE OUT 
+OF SIX SLIDES) AND POSTERIOR (TWO OUT OF FIVE
+** Continued on next page **
+ICD-0-3
+carcinoma infiltrating duct, Nos 8500/3
+Sitz:
+breast, Nos
+050.9
+سلام
+W 10/22/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary No
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED DISQUALIFICO
+Date Reviewed:
+w
+10/22/14
+་
+Page 2 of 5
+SLIDES).
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES,
+FIBROCYSTIC 
+CHANGES
+,
+AND USUAL DUCTAL HYPERPLASIA.
+RECEPTOR STUDIES WERE PERFORMED ON PRIOR MATERIAL (CORE BIOPSY,
+5)
+6)
+-
+-
+BREAST, RIGHT, ADDITIONAL MEDIAL MARGIN; EXCISION:
+BENIGN BREAST TISSUE WITH DUCTAL HYPERPLASIA WITHOUT ATYPIA.
+BREAST, RIGHT, SUPEROLATERAL TISSUE; EXCISION:
+FOCAL ATYPICAL DUCTAL HYPERPLASIA.
+LYMPH NODES, LEVELS I AND II, RIGHT AXILLARY CONTENTS; DISSECTION:
+LEVEL I: EIGHT 
+BENIGN LYMPH NODES (0/8).
+- LEVEL II:
+CARCINOMA (6/19).
+SIX OF NINETEEN LYMPH NODES POSITIVE FOR METASTATIC
+EXTRANODAL EXTENSION IS IDENTIFIED (2 MM).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER 
+MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description.
+1) The specimen is received initially fresh for frozen section
+consultation, which 
+was later canceled, labeled, "Sentinel node number one,
+level 1, right axilla", and 
+consists of a single lymph node measuring 1.8 x
+1.2 x 0.6 cm. Cut section shows 
+fleshy red-tan appearance.
+entirely submitted.
+Specimen is
+Summary of sections:
+U
+bisected lymph node
+2).
+The specimen is received fresh for frozen section consultation labeled,
+"Sentinel 
+node number two, level 1, 
+right axilla", and consists of a single
+lymph node measuring 1.2 x 0.7 x 
+0.4 cm.
+entirely frozen.
+The specimen is bisected and
+A sample is submitted to TPS.
+Summary of sections:
+** Continued on next page
+**
+Σ
+FSC frozen section control
+Page 3 of 5
+3)
+The specimen is received fresh, labeled "Right breast mass". It
+consists of a round piece of fibroadipose tissue measuring 11.5 × 10.0 x 4.0
+cm. The specimen is 
+oriented with short suture superior and long suture
+lateral. 
+The specimen is inked and the margins are entirely shaved.
+Sectioning of the central portion of the tissue reveals a firm stellate
+shaped 
+gray-tan mass measuring 2.0 x 2.0 x 1.5 cm located at the lateral
+aspect of the tissue. A portion of the tissue is submitted for TPS.
+rest of the tumor is entirely submitted for histologic examination.
+Representative section of the remaining tissue are also submitted.
+Summary of Sections:
+S
+superior margin
+The
+I
+inferior margin
+M
+medial margin
+L
+lateral margin
+A
+anterior margin
+P
+T
+tumor
+R
+posterior margin
+representative section of remaining tissue
+The
+3
+4)
+The specimen is received fresh, labeled "Additional medial margin,
+stitch 
+marks 
+final margin breast". It consists of a fragment of
+fibroadipose 
+tissue measuring 4.0 x 2.0 x 0.4 cm. The surface of the tissue
+marked with stitch is 
+inked black. The tisue is serially sectioned to
+reveal a 
+fibroadipose cut surface with no gross pathologic abnormality.
+specimen is entirely 
+submitted.
+Summary of Sections:
+U -
+undesignated
+5)
+The specimen is received fresh, labeled "Superior lateral tissue,
+right breast
+". 
+It consists of a round piece of fibroadipose tissue
+measuring 3.0 x 2.0 x 0.5 cm. The surface of the tissue marked with stitch
+is inked black and 
+the tissue is serially sectioned to reveal a fibroadipose
+cut surface 
+with no gross pathologic abnormalities. The specimen is
+entirely submitted
+.
+Summary of Sections:
+U -
+undesignated
+6)
+The specimen is received fresh, labeled "Levels 1 and 2, right
+axillary contents, with tags attached". It consists of a fragment of
+adipose tissue 
+measuring 7 x 4 x 3 cm with attached tags designating levels
+1 and 2. Dissection of 
+tissue reveals multiple lymph nodes ranging in size
+from 0.2 x 0.2 x 0.1 cm 
+to 1.2 x 1.0 x 0.5 cm. All lymph nodes are entirely
+** Continued on next page **
+submitted.
+Summary of Sections:
+LN1 - Lymph nodes, level 1
+LN2
+-
+Lymph nodes, level 2
+Page 4 of 5
+6.
+SP: Level 1 and 2, right axillary contents with tags attached (am) :
+Summary of Sections:
+Part 1:
+SP: Sentinel node #1, level 1, right axilla
+Block
+1
+Part 2:
+Block
+1
+Part 3:
+Block
+6
+6
+2
+1
+5
+1
+4
+4
+Part 4:
+Block
+3
+Part 5:
+Block
+3
+Part 6:
+Block
+4
+5
+Sect. Site
+PCs
+1
+SP: Sentinel node #2, level 1, right axilla (fs)
+Sect. Site
+fsc
+SP: Right breast mass
+Sect. Site
+A
+I
+L
+M
+P
+R
+S
+T
+PCs
+1
+PCS
+6
+6
+26
+1
+4
+5
+1
+SP: Additional medial margin
+Sect. Site
+11
+PCS
+3
+SP: Superior lateral tissue, right breast
+Sect. Site
+U
+PCs
+3
+SP: Level 1 and 2, right axillary contents with tags attached
+Sect. Site
+LNI
+LNII
+Intraoperative Consultation:
+PCs
+8
+10
+** Continued on next page **
+2)
+Note:
+Page 5 of 5
+The diagnoses given in this section pertain only to the
+tissue 
+sample examined at the time of the intraoperative
+consultation.
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+POSITIVE FOR CARCINOMA.
+SAME.
+End of Report **
+ID
+и

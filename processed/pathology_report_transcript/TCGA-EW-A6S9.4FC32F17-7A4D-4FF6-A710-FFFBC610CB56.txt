@@ -1,0 +1,238 @@
+Name:
+XX
+DOB:
+Gender:
+MRN:
+XX
+UUID:4FC32F17-7A4D-4FF6-A710-FFFBC610CB56
+TCGA-EW-A659-01A-PR
+Redacted
+Surgical Pathology Report
+Location: X
+Physician: X
+Pathologic Interpretation:
+A. SENTINEL NODE #1
+Case #:
+X
+Collected:
+Received: X
+Reported: X
+ICD-0-3
+Carcinoma, infiltrating
+duct Nos
+⑬Breast NOS
+METASTATIC CARCINOMA to one lymph node (1/1).
+Largest tumoral deposit is 1mm.
+/ 3
+CSCF
+NOTE: Metastatic deposit is not identified in frozen section slide.
+Sutt
+B. SENTINEL NODE #2
+C50.9
+Negative for carcinoma, one lymph node (0/1).
+path
+C. SENTINEL NODE #3
+it C50.4
+Negative for carcinoma, one lymph node (0/1).
+07/24/13
+D. RIGHT BREAST MASS:
+® Broust, upper-outer
+jaradiant
+INVASIVE DUCTAL CARCINOMA, poorly differentiated, Nottingham grade 2 (3+2+2=7), 2.0 cm.
+Surgical resection margins are negative for invasive carcinoma; the closest one is the anterior at 6mm.
+DUCTAL CARCINOMA IN SITU, intermediate grade, solid and cribriform type with necrosis and retrolobular
+involvement present in five out of 15 slides examined.
+Surgical resection margins are negative for in situ carcinoma; the closest one is the anterior at 10 mm.
+Lymphovascular invasion is identified.
+INVASIVE CARCINOMA OF THE BREAST: Complete Excision (Less Than Total Mastectomy, Including
+Specimens
+Designated Biopsy, Lumpectomy, Quadrantectomy, and Partial Mastectomy With or Without Axillary
+Contents) and
+Mastectomy (Total, With or Without Axillary Contents; Modified Radical; Radical)
+Procedure
+Excision without wire-guided localization
+Lymph Node Sampling
+Sentinel lymph node(s)
+Specimen Laterality
+Right
+Tumor Site: Invasive Carcinoma
+Upper outer quadrant
+Histologic Type of Invasive Carcinoma
+Invasive ductal carcinoma (no special type or not otherwise specified)
+Tumor Size: Size of Largest Invasive Carcinoma
+Greatest dimension of largest focus of invasion >1 mm: 20 mm
+Additional dimensions: 15.0 x 10.0 mm
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation
+Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism
+Score 2: Cells larger than normal with open vesicular nuclei, visible nucleoli, and moderate variability in both size and
+shape
+Mitotic Rate
+Score 2 (4-7 mitoses per mm²)
+Overall Grade
+Grade 2: scores of 7
+Tumor Focality
+Single focus of invasive carcinoma
+Ductal Carcinoma In Situ (DCIS)
+DCIS is present
+Size (Extent) of DCIS
+Present in five out 15 slides examined
+Architectural Patterns (select all that apply)
+Cribriform
+Nuclear Grade (see Table 2)
+Grade II (intermediate)
+Necrosis
+Present, focal (small foci or single cell necrosis)
+Lobular Carcinoma In Situ (LCIS)
+Not identified
+Margins
+Invasive Carcinoma
+Margins uninvolved by invasive carcinoma
+DCIS
+Distance from closest margin: 6 mm
+Specify margin: Anterior
+Margins uninvolved by DCIS
+Distance from closest margin: 10 mm
++ Specify margin: Anterior
+Lymph Nodes
+Number of sentinel lymph nodes examined: 3
+Total number of lymph nodes examined (sentinel and nonsentinel): 3
+Number of lymph nodes with macrometastases (>2 mm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 2 mm and/or >200 cells): 1
+Number of lymph nodes without tumor cells identified: 2
+Extranodal Extension
+Not identified
+Method of Evaluation of Sentinel Lymph Nodes
+Hematoxylin and eosin (H&E), 1 level
+Immunohistochemistry pending
+Lymph-Vascular Invasion
+Not identified
+Pathologic Staging (based on information available to the pathologist) (pTNM)
+Primary Tumor (Invasive Carcinoma) (pT)
+pT1c:
+Tumor >10 mm but ≤20 mm in greatest dimension
+Regional Lymph Nodes (pN)
+Modifier
+(sn):
+Category (pN)
+pN1mi:
+Only sentinel node(s) evaluated.
+Micrometastases (greater than 0.2 mm and/or more than 200 cells, but none greater than 2.0
+mm).
+Distant Metastasis (PM)
+Not applicable
+Ancillary Studies
+Performed on another specimen
+Specify specimen (accession number): xx
+Estrogen Receptor (ER)
+Results and interpretation:
+Positive Immunoreactive tumor cells present
+Quantitation: 50%
+Progesterone Receptor (PqR)
+Results and interpretation:
+Positive Immunoreactive tumor cells present
+Quantitation: 50%
+HER2 (results for invasive carcinoma performed on this specimen or a prior core needle biopsy or incisional biopsy)
+Immunoperoxidase Studies
+Results:
+Positive (Score 3+)
+Preliminary AJCC Classification (7th Edition): pT1c pN1mi pMn/a
+(Final classification pending evaluation of keratin immunostain on sentinel nodes)
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Status:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+Parts B-C:
+Immunohistochemistry for keratin is negative.
+Final AJCC Classification: pT1c pN1mi pMn/a
+Intraoperative Consultation:
+A. SENTINEL NODE #1 (
+), FS: Negative lymph node.
+B. SENTINEL NODE #2 ( ), FS: Negative lymph node.
+C. SENTINEL NODE #3 (
+Reported to OR at
+:), FS: Negative lymph node.
+Clinical History:
+Not provided
+Operation Performed:
+Right breast lumpectomy with sentinel node biopsy
+Pre Operative Diagnosis:
+Right breast carcinoma
+Specimen(s) Received/Processing Information:
+Fee Codes:
+A: SENTINEL NODE #1 (
+), FS Frozen section x 1, FS Perm x 1
+B: SENTINEL NODE #2 ( ), FS Frozen section x 1, FS Perm x 1, Cytokeratin Cocktail
+(KER) x 1
+C: SENTINEL NODE #3 ( ), FS Frozen section x 1, FS Perm x 1, FSDeep 1 x 1,
+Cytokeratin Cocktail (KER) x 1
+XX, MD
+D: RIGHT BREAST MASS (1 STITCH SUPERIOR, 2 STITCHES LATERAL, 3 STITCHES
+DEEP) H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1,
+H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x
+1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E
+A:
+B:
+C:
+D:
+Gross Description:
+A.
+B.
+C.
+Specimen is received fresh and labeled “Sentinel node #1 ( ), FS". The specimen consists of one lymph
+node measuring 1.6 x 0.9 x 0.4cm. Specimen is bisected and submitted in toto for frozen section.
+Specimen is received fresh and labeled "Sentinel node #2 ( ), FS". The specimen consists of one lymph
+node measuring 1.3 x 0.9 x 0.3 cm. Specimen is bisected and submitted in toto for frozen section.
+Specimen is received fresh and labeled "Sentinel node #3 ( ), FS". The specimen consists of one lymph
+node measuring 1.1 x 0.6 x 0.3 cm. Specimen is bisected and submitted in toto for frozen section.
+D.
+Specimen is received in formalin and labeled "Right breast mass (1 stitch superior, 2 stitches lateral, 3
+stitches deep". The specimen consists of an 8.0 x 8.0 x 4.0 cm lumpectomy specimen, oriented with one
+stitch at superior, two stitches as lateral and three stitches as deep.
+The specimen is inked for evaluation of margins:
+Posterior black
+Anterior yellow
+Superior blue
+Inferior green
+Lateral orange
+Medial red
+Serial sections are white-gray, ill-defined and firm. A mass is identified measuring 2.0 x 1.5 x 1.0 cm; the
+mass is 1.0 cm from the superior margin, 2.0 cm from the inferior margin, 1.0 cm from the anterior margin,
+3.0 cm from the lateral margin, 1.5 cm from the medial margin and 1.0 cm from the deep margin. The
+remainder of the specimen consists of yellow-white adipose tissue. No other lesions are identified. 90% of
+the mass was submitted for microscopic examination.
+Representative sections are submitted as follows:
+Cassette #1
+Cassette #2
+Cassette #3
+Cassette #4
+Cassette #5
+Cassette #6
+Cassettes #7-10
+Cassettes #11-15
+Superior margin perpendicular
+Inferior margin perpendicular
+Lateral margin perpendicular
+Medial margin perpendicular
+Anterior margin perpendicular
+Deep margin perpendicular
+Mass and breast tissue adjacent
+Other areas
+Criteria
+L 7/19/13 PA
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+☑QUALIFIED
+Pate Reviewed:
+Yes
+добило
+No

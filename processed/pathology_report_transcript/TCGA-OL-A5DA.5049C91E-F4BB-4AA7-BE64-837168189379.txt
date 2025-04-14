@@ -1,0 +1,123 @@
+Sample #
+UUID:5849C91E-F4BB-4AA7-BE64-837168189379
+TCGA-OL-ASDA-01A-PR
+Redacted
+ICD0-3
+Carcinoma, lobular infiltrating
+852013
+FINAL PATHOLOGIC DIAGNOSIS
+Sentinel node biopsy and partial mastectomy,
+A. Right axillary sentinel node:
+Single lymph node, no tumor (0/1).
+B. Right breast partial mastectomy:
+Site:
+- Invasive lobular carcinoma, SBR grade II, with focal necrosis.
+- Focal atypical ductal hyperplasia and atypical columnar cell change.
+- Uninvolved breast parenchyma with apocrine metaplasia.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Combined gross and microscopic measurement: 3.2cm
+B. Composite histologic (modified SBR) grade II
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic count: 1
+C. Associated ductal carcinoma in situ (DCIS): Absent
+2. Excisional biopsy margins: Free of tumor
+- Invasive carcinoma 1mm from superior (closest) margin (slide B14)
+- Additional margins greater than 2mm away
+3. Blood vessel and lymphatic invasion: Absent
+4. Axillary lymph nodes: Negative for tumor
+5. Special studies (see
+- Expression of ER in 68% of invasive tumor nuclei
+- Expression of PR in 66% of invasive tumor nuclei
+- Her2/neu antigen (FISH): Non-amplified (ratio: 1)
+6. pTNM: pT2, NO(sn), MX.
+Clinical History:
+This patient is a
+-year-old female with a right breast mass. The patient
+self-palpated a breast mass in the right upper outer quadrant in
+Path-Breast UOQ
+C50.4
+COCF B Breast, NOS
+was sent for diagnostic mammography and ultrasound which revealed a
+worrisome mass approximately 2.5 cm in size. An ultrasound-guided core biopsy
+and clip placement was done. This was read as 3invasive mammary carcinoma with
+lobular features4 by
+The patient underwent a breast MRI on the
+which demonstrated an irregularly shaped, posteriorly
+positioned mass at 11 o'clock in the right breast measuring 4.5 x 2.5 cm. The
+W
+050.9
+12/24/12
+left breast and bilateral axillae were normal. The patient undergoes right
+sentinel lymph node biopsy and right breast partial mastectomy with needle
+localization.
+Comment
+The tumor cells are negative for E-cadherin consistent with a lobular phenotype.
+AE1/AE3 stain is negative on the sentinel node.
+Specimens Received:
+A: Right axillary sentinel lymph node
+B: Right Breast Partial Mastectomy
+Gross Description:
+The specimen is received in two containers each labeled with the patient's name
+and medical record number.
+A. Part A is additionally designated 31 right axillary sentinel node #14.
+Received fresh for frozen diagnosis is a 0.9 x 0.7 x 0.6 cm lymph node which is
+bisected and entirely frozen and read as 3no evidence of metastatic tumor4 per
+The remnant of frozen tissue is entirely submitted in cassette A1FS.
+B. Part B is additionally designated 32. right breast partial mastectomy4.
+Received fresh on an AccuGrid with accompanying radiograph is a 185.5 gm partial
+mastectomy specimen. The specimen bears two needle localization wires and a
+double long stitch as well as double short stitch for orientation. The overall
+measurements are as follows: superior to inferior 9.8 cm, medial to lateral 9.5
+cm, anterior to posterior 3.7 cm. The requisition designates the double long
+stitch as lateral margin and short stitch as superior margin. The accompanying
+radiograph demonstrates an irregularly shaped stellate mass within the partial
+mastectomy specimen overlying quadrant C2, C3, D3 and D2. There is a needle
+localization wire which enters at A3 and terminates at E1. There is a second
+needle localization wire which enters A5 and terminates at E4. The mass is in
+between these two wires. Thereis a single clip in quadrant D2.
+The specimen is inked as follows: anterior-black, posterior=red, lateral=violet,
+medial=yellow, superior-blue and inferior-green. The specimen is serially
+sectioned from lateral to medial into nine slices to demonstrate an irregularly
+shaped, firm, white-tan mass present in slices #4 through #8. Needle
+localization wires terminate in slices #3 and #8. The clip is not identified.
+The dimensions of the mass are 2.8 x 2.4 x 1.5 cm. The mass is present 0.2 cm
+from the anterior margin, 2.7 cm from the inferior margin, 1.6 cm from the
+superior margin, and greater than 2 cm from both lateral and medial margins.
+The remainder of the specimen demonstrates grossly unremarkable 
+breast
+parenchyma consisting of lobular, soft, yellow-tan tissue with intervening white
+fibrous septa. Representative sections are submitted as follows:
+B1,B2: lateral margin, serially sectioned, entirely submitted
+B3,B4: medial margin, serially sectioned, entirely submitted
+B5: closest approach of mass to anterior margin, slice #5
+B6: closest approach to superior margin, slice #6
+B7: closest approach of mass to inferior margin, slice #6
+B8: mass, representative section slice #6
+B9: additional representative section of mass, slice #7
+B10: representative section of tissue at termination of localization wire,
+slice #3
+B11,B12: tissue at needle localization wire termination, slice #8
+B13,B14: representative sections of nodular tan-white breast parenchyma,
+slice #9
+B15,B16: representative sections of nodular tan-white breast parenchyma,
+slice #10
+B17: representative section of unremarkable breast parenchyma, slice #8
+B18: representative section of unremarkable breast parenchyma, slice #12
+Intraoperative Consult Diagnosis:
+A1FS. Right axillary sentinel lymph node: No evidence of metastatic tumor.
+Criteria
+Diagnosis Discrepancy
+W 12/20/12
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Note
+Case is (cile)
+Reviewer Intils.
+QUALIFIED
+Late Reviewed:
+-Yes
+DISQUALIFIED
+12/20/12

@@ -1,0 +1,307 @@
+Clinical Diagnosis & History:
+Left breast IDC, DCIS, approximately 1.5 cm BRCA2 (+), presents for
+bilateral TM, left 
+sentinel lymph node biopsy.
+Specimens Submitted:
+1: SP: Sentinel node #231, level 1, left axilla (fs)
+2: SP: Sentinel node #232, level 1, left axilla (fs)
+3: SP: Left breast
+4: SP: Right breast
+UUID:63E34973-F630-4295-AC1B-94F81BBEBE41
+TCGA-A0-A03V-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+LYMPH NODE, SENTINEL #1 LEVEL I LEFT AXILLA; EXCISION:
+ONE BENIGN LYMPH NODE (0/1).
+DEEPER LEVELS RECUTS AND SPECIAL STAINS HAVE BEEN ORDERED.
+WILL BE REPORTED IN AN ADDENDUM.
+2)
+LYMPH NODE, SENTINEL #232 LEVEL 1 LEFT AXILLA; EXCISION:
+ONE BENIGN LYMPH NODE (0/1).
+THE RESULTS
+- DEEPER LEVELS RECUTS AND SPECIAL STAINS HAVE BEEN ORDERED. THE RESULTS
+WILL BE REPORTED IN AN ADDENDUM.
+3)
+-
+BREAST, LEFT; MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC GRADE III/III (SLIGHT
+OR NO TUBULE FORMATION), NUCLEAR GRADE II/III (MODERATE VARIATION IN SIZE
+AND SHAPE
+), MEASURING 1.5 CM IN LARGEST DIMENSION MICROSCOPICALLY.
+-
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE, WITH
+INTERMEDIATE NUCLEAR GRADE.
+- THE DCIS CONSTITUTES LESS THAN OR EQUAL TO 25% OF THE TOTAL TUMOR MASS,
+AND IS 
+PRESENT ADMIXED WITH THE INVASIVE COMPONENT.
+- THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER INNER QUADRANT.
+- THE DCIS IS LOCATED IN THE UPPER INNER QUADRANT.
+-
+NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+-
+NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+COMPONENT.
+- NO VASCULAR INVASION IS NOTED.
+-
+NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+** Continued on next page **
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8.500/3
+Site: breast, Nos
+C50.9
+سار
+10/21/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case in (circle):
+Reviewer Initials
+Yes
+No
+AUALIF
+Date
+CISQUALIFIED
+Reviewed:
+w 10/21/11
+Page 2 of 6
+THE NON-NEOPLASTIC BREAST TISSUE IS UNREMARKABLE.
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+4)
+BREAST, RIGHT; MASTECTOMY:
+BENIGN BREAST TISSUE WITH FIBROCYSTIC CHANGES INCLUDING DUCTAL
+HYPERPLASIA WITHOUT ATYPIA AND APOCRINE METAPLASIA.
+-
+UNREMARKABLE NIPPLE AND SKIN.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+1).
+The specimen is received fresh for frozen section consultation labeled
+"sentinel node number one, level 1, left axilla" and consists of a single
+lymph node measuring 2.2 x 1.2 x 1.0 cm, which is bisected and entirely
+submitted for frozen section consultation.
+Summary of sections:
+FSC-frozen section control
+2).
+The specimen is received fresh for frozen section consultation labeled
+"sentinel node number two, level 1, left axilla" and consists of a single
+lymph node measuring 0.8 x 0.5 x 0.5 cm, which is entirely submitted for
+frozen section consultation.
+Summary of sections:
+FSC-frozen section control
+3).
+A
+The specimen is received fresh labeled, "left breast, stitch marks
+axillary tail, ink margins" and consists of a breast measuring 17.5 x 6.5 x
+4.5 cm with overlying skin ellipse measuring 1.5 x 1.4 x 1.1 cm. Situated
+centrally on the skin surface is an everted nipple measuring 2.2 x 2.0 x 1.0
+cm and areola measuring 3.5 x 2.5 cm. The skin is grossly unremarkable.
+suture demarcates the axillary aspect. The posterior surface of the breast
+is inked black and the specimen is serially sectioned to reveal a firm
+tan-white stellate nodule measuring 1.5 x 1.4 x 1.1 cm, and located 1.2 from
+the deep margin, in the upper inner quadrant. No additional lesions are
+identified. Tissue is given to TPS. Sectioning of the axillary aspect
+** Continued on next page **
+Page 3 of 6
+reveals no grossly identifiable lymph nodes. Representative sections are
+submitted.
+Summary of sections:
+N
+-
+nipple
+NB - nipple base
+S - skin
+D
+-
+deep margin
+T-
+UIQ
+-
+LIQ
+tumor
+upper inner quadrant
+lower inner quadrant
+UOQ
+upper outer quadrant
+LOQ lower outer quadrant
+4).
+A
+The specimen is received fresh labeled, "right breast, stitch marks
+axillary tail, ink margins" and consists of a breast measuring 18.0 x 15.5 x
+4.2 cm with overlying skin ellipse measuring 14.2 x 5.2 cm. Situated
+centrally on the skin surface is an everted nipple measuring 2.0 × 2.0 × 0.7
+cm and areola measuring 4.5 x 3.2 cm. The skin is grossly unremarkable.
+suture demarcates the axillary aspect. The posterior surface of the breast
+is inked black and the specimen is serially sectioned to reveal predominant
+fatty breast tissue with streaks of fibrous tissue. No masses or lesions
+are identified. Sectioning of the axillary aspect reveals no grossly
+identifiable lymph nodes. Representative sections are submitted.
+Summary of sections:
+N - nipple
+nipple base
+NB
+S -
+skin
+UIQ
+-
+upper inner quadrant
+LIQ - lower inner quadrant
+-
+UOQ
+LOQ - lower outer quadrant
+upper outer quadrant
+Summary of Sections:
+Part 1:
+SP: Sentinel node #231, level 1, left axilla (fs)
+Block
+1
+Sect. Site
+fsc
+PCs
+1
+Part 2: SP: Sentinel node #2, level 1, left axilla (fs)
+Block
+1
+Sect. Site
+fsc
+PCs
+1
+** Continued on next page **
+Part 3: SP: Left breast
+Block
+1122122
+Sect. Site
+D
+PCs
+1
+LIQ
+2
+LOQ
+2
+N
+1
+NB
+1
+S
+1
+Τ
+1
+UIQ
+2
+UOQ
+2
+Part 4: SP: Right breast
+Block
+2211122
+Sect. Site
+PCs
+LIQ
+LOQ
+N
+1
+NB
+1
+S
+1
+UIQ
+4
+UOQ
+4
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Page 4 of 6
+Status: Signed Out
+By:
+3). BREAST, LEFT; MASTECTOMY:
+Immunohistochemical stains were performed on formalin-fixed tissue with the
+following results for invasive carcinoma (block T4):
+ESTROGEN RECEPTOR (6F11, -
+>95% nuclear staining with moderate to strong intensity
+PROGESTERONE RECEPTOR (1E2; ·
+>80% nuclear staining with wean LU
+HER2 (HercepTest;
+Negative (0)
+ce to strong intensity
+(0% of invasive tumor cells exhibit complete membranous staining;
+Uniformity of staining: absent;
+Homogeneous, dark circumferential pattern:
+absent)
+** Continued on next page **
+Controls are satisfactory.
+Comment:
+NercepTestTM
+Page 5 of 6
+is an FDA-approved method for assessment of
+HER2 protein overexpression in breast cancer tissue routinely processed for
+histological evaluation. The HER2 test results are reported in accordance
+with the ASCO/CAP guideline recommendations for HER2 testing in breast
+cancer (J Clin Oncol 2007; 25(1):118-145).
+1
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Status: Signed Out
+By:
+1)
+2)
+LYMPH NODE, SENTINEL #1, LEVEL 1, LEFT AXILLA; EXCISION:
+LYMPH NODE, SENTINEL #2, LEVEL 1, LEFT AXILLA; EXCISION:
+ADDITIONAL H&E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS (AR1:AE3) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+M.D.
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+SP: SENTINEL NODE #31, LEVEL 1,
+LEFT AXILLA (FS)
+PERMANENT DIAGNOSIS:
+2)
+LYMPH NODE, NEGATIVE FOR TUMOR
+SAME
+FROZ SECTION DIAGNOSIS:
+SP: SENTINEL NODE #232, LEVEL 1,
+LEFT AXILLA (FS) (
+: LYMPH NODE, NEGATIVE FOR TUMOR
+PERMANENT DIAGNOSIS:
+SAME
+** Continued on next page **
+Page 6 of 6
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative 
+consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+LEFT AXILLA (FS)
+PERMANENT DIAGNOSIS:
+SP: SENTINEL NODE #31, LEVEL 1,
+LYMPH NODE, NEGATIVE FOR TUMOR
+SAME
+2)
+FROZEN SECTION DIAGNOSIS:
+SP: SENTINEL NODE #232. LEVEL 1,
+LEFT AXILLA (FS)
+PERMANENT DIAGNOSIS:
+LYMPH NODE, NEGATIVE FOR TUMOR
+SAMB
+End of Report
+**

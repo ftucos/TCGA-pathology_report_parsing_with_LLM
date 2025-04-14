@@ -1,0 +1,33 @@
+UUID:ED2D1BA8-8FEB-43E1-9174-91F9D59565F9
+TCGA-AR-A0U3-01A-PR
+Redacted
+ICD-0-3
+carcinoma infiltrating duct, Nos 8500/3
+Site: breast, NoS
+050-9
+Breast, left, wide-local excision: Invasive ductal adenocarcinoma, Nottingham grade III (of III), forming
+a mass 2.3 x 2.0 x 2.0 cm (AJCC pT2). Ductal carcinoma in-situ, high nuclear grade, solid type
+comprises 10% of the tumor. The surgical margins are negative for tumor.
+Lymph nodes, left axillary sentinel, excision: A single (1) left axillary sentinel lymph node is positive for
+tumor (AJCC pN1mi). No blue dye identified.
+Lymph nodes, left axillary, excision: Multiple (3) left axillary lymph nodes are negative for tumor
+(AJCC pN0).
+Estrogen: Positive, > 10% nuclear staining
+Progesterone: Focally Positive, 1-10% nuclear staining
+ER (Estrogen Receptor) test was developed and its performance characteristics determined by
+and Drug Administration.
+It has not been cleared or approved by the U.S. Food
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Liscrepancy
+Prior Malignancy History
+Dual/Synchronous Primary flotad
+Case is (circle:
+Reviewer Initial
+QUALIFIED
+mr
+Yes
+N
+DISQUALIFIED
+Date keviewed:

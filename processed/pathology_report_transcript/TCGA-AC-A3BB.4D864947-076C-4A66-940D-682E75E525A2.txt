@@ -1,0 +1,236 @@
+Patient:
+DOB:
+Age:
+Gender: F
+Ref#:
+Hosp#:
+Date of Service:
+Date Received:
+Referring Physician:
+Patient Location:
+Outpatient
+Room:
+Bed:
+A copy of this report will be faxed to:
+UUID:4D864947-076C-4A66-940D-682E75E525A2
+TCGA-AC-A3BB-01A-PR
+Case #:
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Criteria
+Diagnosis:
+Redacted
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+BREAST, RIGHT, MODIFIED RADICAL MASTECTOMY:
+- Invasive lobular carcinoma, grade 2.
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+od 10/25/11 11/25/11
+"
+Tumor size at least 65 mm, see comment.
+- Surgical margins negative.
+- Five of fourteen lymph nodes POSITIVE for carcinoma (5/14).
+- Extracapsular extension identified.
+10D-0-3
+Carcinoma, infiltrating lobulaw, NUS 8520/3
+Site: breast, Nos
+C50.9
+In 10/25/11
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive lobular carcinoma, grade 2.
+Type and grade (in situ): Lobular carcinoma in situ.
+Primary tumor: pT3.
+Regional lymph nodes: pN2a (5/14 lymph nodes positive).
+Distant metastasis: pMX.
+Pathologic stage: IIIA.
+Lymphovascular invasion: Not identified.
+Margin status: R0, negative.
+COMMENT: The tumor size is measured at least 6.5 cm grossly, however, there is a
+second tumor mass grossly noted that shows similar histology to the large tumor
+mass grossly noted. On random sections between the two tumor masses, invasive
+lobular carcinoma is seen, therefore, these masses are considered to be one large
+tumor mass rather than two separate masses (overall gross estimate of 14 cm).
+Results discussed with Dr.
+Case #:
+Printed:
+Page 1
+This report continues... (FINAL)
+Phone:
+Fax:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Breast Invasive Tumor Staging Information
+(AJCC Cancer Staging Handbook, 7th Ed, and CAP protocol, Oct 2009)
+This staging also incorporates:
+Previous biopsy:
+Breast profile:
+Other: N/A.
+Specimen type:
+Specimen procedure:
+Lymph node sampling:
+Specimen integrity:
+Specimen laterality:
+Specimen size (other than mastectomy):
+INVASIVE TUMOR FEATURES:
+Invasive tumor size:
+Invasive tumor site:
+Invasive tumor focality:
+Histologic type:
+Total Nottingham Grade:
+Tubule formation:
+Nuclear Pleomorphism:
+Mitotic count for Nottingham:
+Mitotic count:
+Other Grading System:
+Lymphatic invasion:
+MARGIN STATUS FOR INVASIVE COMPONENT:
+Distance of tumor from margins:
+Closet margin:
+Other margins:
+DUCTAL CARCINOMA IN-SITU (DCIS):
+LOBULAR CARCINOMA IN-SITU (LCIS):
+Skin:
+Nipple:
+Skeletal Muscle:
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+Primary tumor (PT):
+Total breast including nipple and skin.
+Modified radical mastectomy.
+Axillary dissection.
+Single intact specimen.
+Right.
+2,220 grams, 28 x 23 x 6 cm.
+At least 65 mm.
+Upper outer quadrant.
+Single focus of invasive carcinoma.
+Invasive lobular carcinoma.
+Grade 2, cumulative score 6 of 9.
+Less than 5% (3 of 3).
+Intermediate (2 of 3).
+Low (1 of 3).
+Two per ten high power field.
+N/A.
+Not identified.
+RO, negative.
+Deep at 15 mm.
+All other margins 15 mm or greater.
+Not identified.
+Present.
+Present, invades skin, no ulceration or
+lymphovascular invasion.
+Present, tumor invades nipple.
+Not identified.
+pT3.
+FINAL SURGICAL PATHOLOGY REPORT
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+Pathologic stage:
+pN2a (5/14 lymph nodes POSITIVE).
+PMX.
+ΙΙΙΑ.
+RECEPTOR STATUS AND HER2/NEU:
+Estrogen receptors:
+Progesterone receptors:
+Her2/neu:
+KI-67 proliferative index:
+COMMENT:
+Additional pathologic findings:
+POSITIVE (95-100% positive cells, strong
+intensity).
+POSITIVE (90-100% positive cells, strong
+intensity).
+Negative (0, scale 0-3+).
+Low (2-5% positive cells).
+The biomarkers are combined from previous
+cases and show a similar staining pattern. The
+patient had two previous biopsies, however, on
+the mastectomy specimen, there are two
+identified masses, however, there is intervening
+tumor cells and both tumor masses show a
+similar histology, therefore, it's felt to represent
+one large tumor mass. In addition to the five
+macrometastases seen in the fourteen lymph
+nodes, two additional lymph nodes show isolated
+tumor cells (and are not included in the five
+positive nodes).
+Apocrine metaplasia, atypical lobular
+hyperplasia, usual ductal hyperplasia.
+. MD,
+Signed by
+Source of Specimen:
+Right Breast total mastectomy
+Clinical History/Operative Dx:
+Right breast cancer.
+Gross Description:
+The specimen is labeled right breast modified radical mastectomy and is received without fixative. It
+consists of a modified radical mastectomy which weighs 2,220 grams. Overall, the specimen measures 28
+x 23 x 6 cm. There is an overlying broad ellipse of brown skin measuring 30 x 19.5 cm. Centrally and
+slightly superiorly within the skin, there is a 7.5 cm areola and a protuberant 1.5 cm nipple. The
+peripheral skin displays five sharply delineated dark brown, smooth, shiny papules. The anterior-superior
+margin is inked blue, the anterior-inferior margin is inked green, and the posterior margin, which consists
+of smooth facial tissue, is inked black. Axillary tissue is present with at stitch marking the axilla. The
+axillary tail measures 10 × 5 × 2 cm. In the lower outer quadrant of the breast, there is palpably firm and
+hemorrhagic breast parenchyma which is very poorly delineated. There is some bright yellow
+discoloration of the associated fatty tissue. This area of firm fibrous parenchyma involves an area
+Case #:
+Printed:
+Phone:
+Page 3
+This report continues... (FINAL)
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+measuring 6.5 cm from medial to lateral, 5.5 cm from superior to inferior, and up to 3 cm from superficial
+to deep. The fibrous tissue is 4 cm from the closest inferior margin, 12 cm from the closest superior margin,
+9 cm from the closest medial margin, and 11 cm from the closest lateral margin. It is 2.5 cm from the
+closest deep margin, and 2 cm from the closest skin. Representative sections of this tissue are obtained for
+research purposes. Further examination of the breast reveals scattered moderately dense
+, tan-white
+fibrous parenchyma throughout all four quadrants. In the lower outer quadrant of the breast centrally, 5.5
+cm lateral to the palpably firm breast tissue, there is an additional Ill-defined 2 cm area of moderately
+dense fibrous tissue with very focal bright yellow discoloration of the surrounding fat. This lower outer
+quadrant fibrous parenchyma is 1.5 cm from the closest margin which is the deep margin. It 
+is 5 cm 
+from
+the closest lateral margin, and greater than 5 cm from all other margins, except for the skin where 
+it is 
+1.8
+cm from the skin. There are multiple palpable firm nodes within the axillary portion of the dissection.
+Representative sections are submitted. Section summary:
+A1) nipple and tissue just deep to nipple,
+A2) representative skin including small papules,
+A3) sections from medial edge of palpably firm and fibrous tissue,
+A4-A6) central sections of firm neoplastic tissue submitted from superior to inferior,
+A7-A8) representative sections of lateral edge of fibrous tissue,
+A9) representative section of fibrous tissue from far lateral lower outer quadrant,
+A10) representative deep margin far lateral lower outer quadrant,
+A11) representative deep margin central breast underlying palpably firm tissue,
+A12) representative tissue from upper inner quadrant,
+A13) representative tissue lower inner quadrant,
+A14) representative tissue upper outer quadrant,
+A15) representative sections of lower outer quadrant (in between palpable central tumor and far lateral
+lower outer quadrant sections),
+A16) representative sections of largest 2.7 cm node (grossly suspicious for tumor),
+A17) single node, bivalved (grossly suspicious for tumor),
+A18) single node, trisected (grossly suspicious),
+A19) single node, trisected,
+A20) two nodes, inked and bivalved, one possible node intact,
+A21) one node, inked and bivalved, possible smaller nodes intact,
+A22-A25) additional sections following reexamination for possible lymph nodes.
+Microscopic Description:
+Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered. Immunohistochemistry was performed with adequate control for OSCAR keratin.
+Case #:
+Printed:
+Page 4
+REPRINT: Orig. printing on
+Phone:
+Fax:

@@ -1,0 +1,71 @@
+Patient:
+AP Surgical Pathology: Additional Info
+Surg Path
+UUID:CC77BA51-CE5A-4839-A27A-DD8F389A2733
+TCGA-B6-A409-01A-PR
+Redacted
+CLINICAL HISTORY:
+If invasive carcinoma, please
+Biopsy of known carcinoma right 10:00 breast.
+obtain ER, PR, EGFR, HER2/Neu by immunohistochemistry; for all 2+ IHC results
+please do FISH analysis.
+GROSS EXAMINATION:
+A. "USNCB right breast, five cores 10:00 area"
+Received in formalin is a 1.7
+x 1 x 0.2 cm aggregate of fibrofatty needle core tissue submitted entirely in
+a mesh bag in block Al.
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+DIAGNOSIS:
+A. "USNCB RIGHT BREAST, FIVE CORES 10:00 AREA":
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL.
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 3 OF 3.
+TUBULE FORMATION SCORE: 3.
+NUCLEAR PLEOMORPHISM SCORE: 3.
+MITOTIC RATE SCORE:
+3.
+LYMPHATIC/VASCULAR INVASION: NOT IDENTIFIED.
+IN-SITU CARCINOMA: PRESENT.
+TYPE OF IN-SITU CARCINOMA: COMEDO.
+Criteria
+Diagnosis Discrepancy
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is circle):
+Review Inta
+ICD-0-3
+Yes
+Nu
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+6/23/12
+Carcinoma, Infiltrating ductal Nos
+$150013
+Site: breast, NOS C50.9
+NUCLEAR GRADE OF IN-SITU CARCINOMA: 3 OF 3.
+MICROCALCIFICATIONS: ABSENT.
+ESTROGEN/PROGESTERONE RECEPTOR, HER2/NEU, AND EGFR ANALYSIS: PENDING.
+PARAFFIN BLOCK NUMBER: Al.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis
+(es).
+21
+ADDENDUM 1:
+Please see
+Electronically signed:
+for results of supplementary
+tests.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis
+(es).
+Performed by:
+Attending MD:
+Ordering MD:
+Electronically signed: {
+7-2-12
+ко

@@ -1,0 +1,157 @@
+Clinical Diagnosis & History:
+y/o female with right invasive lobular carcinoma.
+Specimens Submitted:.
+1: SP: Right breast
+DIAGNOSIS:
+1)
+BREAST, RIGHT; MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, MEASURING 0.4 CM IN
+LARGEST DIMENSION MICROSCOPICALLY.
+FOCAL DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, WITH SQUAMOID
+MORPHOLOGY, SOLID TYPE WITH 
+INTERMEDIATE NUCLEAR GRADE AND MINIMAL NECROSIS,
+IS PRESENT ADJACENT TO BIOPSY CAVITY
+.
+- LOBULAR CARCINOMA IN SITU (LCIS) IS ALSO IDENTIFIED, CLASSICAL TYPE (TYPE
+A).
+- THE NIPPLE BASE IS INVOLVED BY INVASIVE CARCINOMA.
+- CALCIFICATIONS ARE PRESENT IN BENIGN BREAST PARENCHYMA.
+-
+NO VASCULAR INVASION IS NOTED.
+NO INVOLVEMENT OF THE SURGICAL MARGINS BY INVASIVE CARCINOMA IS
+IDENTIFIED.
+- THE SKIN SHOWS AN ULCER.
+- THE ATTACHED SKELETAL MUSCLE IS UNINVOLVED BY CARCINOMA.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES.
+FOUR BENIGN INTRAMAMMARY LYMPH NODES (0/4).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), 
+AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+MD
+M.D.
+UUID:1E3F3136-6D86-4470-85AA-55B11C9E24CD
+TCGA-AO-A039-01A-PR
+Redacted
+1). The specimen is received fresh labeled, "right breast" and consists of a
+✶✶ Continued on next page **
+ICD-0-3
+carcinoma infiltrating lobular, Nos 8.520/3
+Site: brust, Nos C50.9
+lu 10/22/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials,
+ROWLIFTED/
+Yes
+No
+DISQUALIFIED
+Date Reviewed:
+Aw 10/22/11
+breast without attached axillary tail.
+Page 2 of 3
+The breast measures 30.5 x 17.5 x
+7.5 cm with overlying skin ellipse measuring 30.5 x 8 cm. The nipple
+measures 
+1.2 x 1.2 x 1 cm and areola measures 5 x 5 cm. Two centimeters
+above the nipple (upper inner quadrant), there is a well healed scar,
+measuring 8 
+cm. A skin defect and ulceration is identified in the axillary
+area
+, 
+measuring 1.0 x 0.5 cm. The skin is slightly red, suggestive of a
+possible 
+surgical draining site. At the posterior aspect of the specimen,
+there is a 
+fibrotic area, measuring 6.5 x 3.5 cm. A suture demarcates the
+axilla. 
+The posterior surface of the breast is inked blue. Serial
+sectioning of the specimen reveals a biopsy cavity under the scar, measuring
+4 x 4 cm. 
+The biopsy cavity is about 0.3 cm from the posterior inked margin.
+The cavity 
+is lined by hemorrhagic fibrotic tissue with bright yellow, fat
+necrosis. No gross 
+nodule is identified. Under the skin defect, there is a
+hemorrhagic area, 
+measuring 1 x 0.4 cm. This area is very close to the
+posterior fibrosis. 
+Sectioning the rest of the breast reveals a fatty cut
+surface. 
+A few intramammary lymph nodes are identified. Representative
+sections 
+are submitted.
+Summary of sections:
+N -
+NB
+S
+-
+nipple
+nipple base
+skin with scar
+SD skin defect
+F -posterior fibrotic area
+D
+-
+deep margin
+Bx -biopsy cavity
+L -lesion under the skin defect
+UIQ - upper inner quadrant
+LIQ
+-
+"
+lower inner quadrant
+UOQ upper outer quadrant
+LOQ lower outer quadrantLN
+-
+intramammary lymph nodes, entirely submitted
+Summary of Sections:
+Part 1:
+Block
+SP: Right breast
+Sect. Site
+PCs
+12
+1
+1
+2
+2
+BX
+12
+D
+1
+F
+1
+L
+2
+LIQ
+2
+32122
+LN
+3
+LOQ
+2
+N
+1
+NB
+1
+S
+1
+SD
+1
+UIQ
+2
+UOQ
+2
+**Continued on next page
+**
+End of Report
+**
+Page 3 of 3

@@ -1,0 +1,44 @@
+8-0-801
+Carcinoma, infiltrating ductal and lobular 8522/3
+Site: breast, NOS
+C50.9
+11/1/8
+کسا
+BREAST TISSUE CHECKLIST
+Specimen type: Mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 4.3 x 3 x 3 cm
+Grossly evident lesion: Yes
+[Histologic type: Infiltrating ductal and lobular carcinoma
+Histologic grade:
+Tumor extent: Not specified
+Lymph nodes: 0/9 positive for metastasis (Regional 0/9)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Right, upper
+outer
+quadrant
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+3/1/11
+UUID:740CF6E1-C742-47DC-8857-9D73AF4D6171
+TCGA-E9-A1NF-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Ncted
+Case is (circle): A
+Reviewer initials

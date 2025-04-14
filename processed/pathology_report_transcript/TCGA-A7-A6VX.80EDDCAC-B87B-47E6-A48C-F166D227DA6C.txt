@@ -1,0 +1,94 @@
+UUID:80EDDCAC-B87B-47E6-A48C-F166D227DA6C
+TCGA-A7-A6VX-01A-PR
+Redacted
+Final Surgical Pathology Report
+ICD-0-3
+duct NOS
+Caranoma, infiltrating duct 3
+Site ①Breast NOS 2509
+Procedure:
+Diagnosis
+A. Left axillary sentinel lymph node, excision:
+No evidence of metastasis in 2 lymph nodes (0/2).
+Left breast, excisional biopsy:
+B.
+Infiltrating ductal carcinoma, grade 3, 2.5 cm, extending to within
+0.5 mm from the inferior margin of resection.
+Ductal carcinoma in situ, comedo and solid subtypes, nuclear grade 3
+with necrosis, extending to posterior margin.
+Microscopic Description:
+Microscopic examination performed.
+A.
+Sections of the left axilla sentinel lymph node demonstrate 2 lymph
+nodes with no evidence of metastasis. The nodes are examined by
+multilevel sectioning with hematoxylin and eosin, as well as by
+immunohistochemistry for pankeratin
+B. Invasive Carcinoma:
+Histologic type: infiltrating ductal carcinoma
+Histologic grade:
+Overall grade: 3
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 2
+Greatest dimension (PT): 2.5 cm, pT2
+Specimen margins: extremely close, < 0.5 mm to black ink,
+(inferior margin)
+Vessel invasion: not identified
+Calcification: present
+Ductal carcinoma in situ:
+Histologic pattern:
+Nuclear grade: 3
+comedo and solid
+Central Necrosis: present
+% DCIS of total tumor (if mixed): <10%
+Extensive intraductal component (present/absent): absent
+Specimen margins: positive, in situ carcinoma at orange ink (
+posterior margin)
+Prognostic markers: see outside report
+Specimen
+A.
+Left axillary sentinel node
+B. Left breast biopsy long suture anterior short superior
+Clinical Information
+year-old black female with left breast cancer
+Gross Description
+A. Received fresh labeled "left axillary sentinel node" is a 3.4 × 3.0
+x 1.5 cm portion of soft, lobulated tan gold adipose tissue which
+contains two rubbery tan-pink tissues in keeping with lymph nodes
+averaging 1.4 cm in greatest dimension. The lymphoid tissues are
+bisected and entirely submitted independently in 2 blocks.
+07/25/13
+labeled
+B. Received fresh and subsequently placed in formalin at
+"left breast biopsy" is a 6.2 cm (medial to lateral) by 5.3 cm
+(anterior to posterior) by 3.0 cm (superior to inferior) soft,
+lobulated tan-white-gold portion of fibroadipose tissue with 2 sutures
+as stated previously. The margins are inked as follows: Superior blue,
+inferior black, anterior green, and posterior orange. The specimen is
+sectioned from medial to lateral. There is a 2.5 cm (medial to
+lateral) by 2.0 cm (anterior to posterior) by 1.9 cm (superior to
+inferior) rubbery tan-white tumor mass within the lateral half of the
+specimen. The tumor focally approaches the superior margin to within
+0.2 cm. The remaining cut surfaces consist predominantly of soft,
+lobulated tan gold adipose tissue with a scant amount of interspersed
+delicate tan-white fibrous tissue. A representative portion of tumor
+and a representative portion of normal parenchyma are submitted for
+tissue procurement as requested.
+Summary: 1 - perpendicular sections medial margin, 2 through 9 -
+sequential sections including entire lesion, 10 - perpendicular
+sections lateral margin
+riteria
+iagnosis Discrepancy
+w 7/13/13
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Noted
+ase is (circle):
+QUALIFIED
+eviewer initials N
+Yes
+No
+DISQUALIFIED
+_Date Reviewed: 4/11/13
+✓

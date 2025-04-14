@@ -1,0 +1,84 @@
+D.O.B.:
+MRN #: 1
+Ref Physician
+Collected
+Received:
+Reported:
+ge: +
+UUID:83BA3E82-E8E4-4A78-ADEE-A1360940EECE
+TCGA-AC-A2FM-01A-PR
+SPECIM
+Accession #.
+Acct/Reg#:
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS:
+DIAGNOSIS:
+A. Sentinel lymph nodes x2:
+Small foci of metastatic carcinoma in the perinodal connective tissue.
+These foci of metastatic carcinoma are not seen within the node.
+Size: Approximately 0.5 cm.
+These foci are identified on the H and E stain and confirmed by
+B. Right breast:
+* Infiltrating mammary carcinoma. Size: 3 x 3 x 2.8 cm.
+Architectural score: 3/3
+Nuclear score: 2/3
+Mitotic score: 1/3
+Total score: 6/9 = grade II.
+No significant component of in situ carcinoma.
+Angio invasion not identified.
+staining for cytokeratin CAM 5.2
+Ancillary studies were reported on the original needle biopsy and will not be repeated.
+All surgical margins of excision are free of carcinoma.
+The closest surgical margin is deep and is approximately 0.2 cm.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pammary Nuted
+Cses (circle):
+Review al
+QUALIFIED
+Date Reviewed:
+/ 6/10/11
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right breast cancer
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Sentinel node x2
+B. Right breed
+Electronic Signature:
+CLINICAL INFORMATION.
+Redacted
+Yes
+NO
+DISQUALIFIED
+per
+confirming
+email
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos
+852013
+Site: breast
+Nos
+C50.9
+fu 4/10/11
+GROSS DESCRIPTION:
+A. Container A is labeled
+SPECIMEN DATA
+nd consists of two tan yellow firm fatty lymph nodes the largest 1.0 x 0.8 x 0.5 cm. Both nodes are sampled for frozen
+section and all tissue submitted in two cassettes designated as frozen section tissue as 1; all remaining tissue as 2.
+B. Container B is labeled
+and consists of a 450 gram portion of right breast tissue, 20 x 15 x 5 cm with attached tan pink ellipse of skin, 18 x 8
+cm displaying an eccentrically located raised nipple 1.0 cm in greatest dimension. The deep margin of the specimen has been inked and the specimen
+serially sectioned to reveal predominantly tan yellow lobular adipose tissue intermixed with a minimal amount of tan gray dense fibrous tissue. A gray
+white dense mass is found near the lateral aspect of the specimen 3x3 x 2.8 cm in greatest dimension which extends from 1 cm below the skin margin
+up to within 0.1 cm of the deep margin. No other lesions are grossly identified. Sectioning along the lateral margin of the specimen reveals no lymph
+nodes. Samples from the four quadrants of the breast tissue are submitted. Samples of the mass have been submitted for genomic studies in three
+cassettes. Representative sections are submitted in ten cassettes and are designated as follows: nipple submitted as 1; lesion as 2-5; deep margin 6;
+upper inner quadrant 7; upper outer as 8; lower inner 9; lower outer as 10.
+E
+deep margin.
+is 2.5 cm mass found 1 mm from the
+Т....

@@ -1,0 +1,169 @@
+UUID:1159E2EF-6407-4D90-8ED6-7AB04CF4FB32
+TCGA-A7-A26H-01A-PR
+Date Coll:
+Redacted
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+Site: breast, Nus
+C50.9
+850013
+tw
+4/27/11
+DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE
+SURGICAL PATHOLOGY REPORT
+SPECIMEN
+A. Left axillary sentinel node
+B. Left breast (arrow points up)
+C.
+Right axillary sentinel node
+D.
+Right axillary sentinel node #32 active in blue
+E.
+Right breast (arrow points up).
+F. Left axillary contents
+CLINICAL NOTES
+PRE-OP DIAGNOSIS:
+Bilateral breast.
+FROZEN SECTION DIAGNOSIS
+A) Sentinel lymph node, left axilla, biopsy: One lymph node,
+positive for carcinoma.
+C. Sentinel lymph node,
+negative for carcinoma.
+ALA,
+psy: One lymph node,
+D. Sentinel lymph node, right axılla #2, biopsy: One lymph node,
+negative for carcinoma.
+GROSS DESCRIPTION
+A. The specimen is received unfixed labeled "left axillary sentinel
+noand consists of a yellow and red piece of soft tissue measuring
+2.5 x 2 x 0.8 cm.
+On cut section there is a contained lymph node
+measuring 1.2 cm. in greatest dimension. The node is bis nd and
+submitted all for frozen section diagnosis as requested.
+B. The specimen is received unfixed labeled "left breast
+arrow points up" and consists of a breast resection
+specimen measuring 19.5 x 18.5 x 3.0 cm. There is an overlying
+white ellipse of skin measuring 16 x 9.3 cm. There is a central
+areola measuring 3 x 4 cm. and a central nipple measuring 1.2 x 1 x
+0.4 
+cm.
+There is an arrow incised in the skin and there is an area
+of induration at the superior edge of the areola that might be a
+biopsy scar. It measures 1.5 x 0.7 cm. The deep surface of the
+specimen is inked. The breast is sectioned at 1 cm. intervals in
+the deep surface towards the skin. Some blue-domed cysts are
+present. There is a relatively central red area compatible with a
+biopsy site defect and there is some firmness around this area. The
+firm area measures 1.5 x 1.5 x approximately 1.5 cm. This area is
+central and 
+inferior and there is another area that is central below.
+the indurated part of the skin that looks like carcinoma grossly and
+measures 1.2 x 1.5 x approximately 1.5 cm. A portion of the larger
+area is taken for research purposes. Sections after fixation.
+Block summary:
+1,2 nipple and skin with tumor; 3 deep margin; 4-6
+biopsy site; 7-10 quadrants (UO, UI, LO, LI)
+C.
+Received unfixed labeled "right axillary sentinel node"
+and consist of two pieces of yellow and red soft tissue
+measuring 2 x 1.8 x 0.7 cm. and 2.5 x 2.5 x 0.7 cm. There is a
+contained lymph node measuring 1 cm. in greatest dimension and the
+entire 
+node is submitted for frozen section diagnosis as requested.
+D.
+Received unfixed labeled "right axillary sentinel node
+#2 active in blue" and consist of a yellow, red and blue
+piece of soft tissue measuring 5.5 x 3 x 0.6 cm.
+There is a
+partially blue contained lymph node measuring 2.3 cm. in greatest
+dimension. The specimen is submitted all for frozen section
+diagnosis as requested.
+E. [The original gross dictation on specimen E. is lost.] The
+specimen was received unfixed labeled right breast and consisted of
+a 27 x 19 x 4.5 cm breast resection specimen with overlying ellipse
+of skin measuring 16.5 x 9 cm. There was a central areola and
+nipple. An area of arrow was incised to the skin. Some blue dye and
+injected. The deep surface the specimen was inked and the breast
+resection at 1 cm intervals from the deep surface towards the skin.
+There was a central biopsy site and additional relatively central
+firm area compatible with carcinoma.
+Block summary:
+-
+1,2 nipple; 3 skin; 4 deep margin; 5-7 biopsy
+site; 8,9 area resembling tumor; 10-13 quadrants (UO.UI.LO.LI)
+F. The specimen was received unfixed, labeled "left
+axillary contents" and consists of a yellow and pink of
+soft tissue measuring 12 x 8 x 2 cm. RS-2.
+MICROSCOPIC DESCRIPTION
+A. Metastatic carcinoma is present in one lymph node. The tumor is
+0.7 cm in diameter. No extranodal tumor is seen.
+B.
+Invasive carcinoma
+Tumor type: Infiltrating ductal carcinoma
+Tumor grade: 1 (Elston SBR grade; A/N/M =
+Mitotic index: 3 mitoses/10 HPFs (1 HPF = 0.196 sq mm)
+Tumor size: 1.5 cm
+Vessel invasion:
+Absent
+Calcification: Absent
+pTNM stage: T1 pNla
+Prognostic markers: Requested
+2/2/1)
+Nipple: Carcinoma is present in skin adjacent to the nipple
+Deep margin: Negative for malignancy
+Nontumorous breast: Sections from the biopsy site away from
+the tumor show scar, cyst formation, columnar metaplasia,
+benign calcification, usual ductal hyperplasia and focal atypical
+ductal hyperplasia.
+C. A Single lymph node is negative for malignancy
+D. A single lymph node is negative for malignancy
+E.
+Invasive carcinoma
+Tumor type: Infiltrating ductal carcinoma
+Tumor grade: 2 (Elston SBR grade; A/N/M = 3/2/1)
+Mitotic index: 3 mitoses/10 HPFs (1 HPF = 0.196 sq mm)
+Tumor size: 1.2
+cm on the glass slide
+Vessel invasion: Absent
+Calcification: Absent
+PTNM stage: T1
+Prognostic markers: See previous biopsy
+The tumor is specimen E from the right breast has a central fibrotic
+focus.
+Primary
+Bilateral
+beast et
+Sections near the biopsy site away from the gross carcinoma
+described above show columnar metaplasia, usual ductal hyperplasia,
+cyst formation apocrine metaplasia. An atypical area is p63
+positive.
+F. There is no evidence of malignancy in any of 4 lymph nodes.
+4x6,25x3,20,14x3
+DIAGNOSIS
+A. Sentinel lymph node, left axilla, biopsy: Metastatic carcinoma in
+a single lymph node
+B. Breast, left, resection: Infiltrating ductal carcinoma, Elston
+SBR grade 1
+C. Sentinel lymph node, right axilla, biopsy: A single lymph node is
+negative for malignancy
+D. Sentinel lymph node #232, right axilla, biopsy: A single lymph node
+is negative for malignancy
+E. Breast, right, resection: Infiltrating ductal carcinoma, Elston
+SBR grade 2 F. Lymph nodes, left axilla, biopsy: There is no
+evidence of malignancy in any of 4 lymph nodes
+ectronic Signature)
+End Of Report
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous frinary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+No
+QUALIFIED
+DIFQUALIFIED
+the 4/27/11

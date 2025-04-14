@@ -1,0 +1,53 @@
+FINAL DIAGNOSIS:
+PART 1: LEFT AXILLARY SENTINEL LYMPH NODE #1, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+PART 2: BREAST, LEFT, SEGMENTAL MASTECTOMY -
+A.
+INVASIVE DUCTAL CARCINOMA, NOTTINGHAM GRADE 3, (TUBULE FORMATION - 3, NUCLEAR GRADE -
+3, MITOTIC RATE-3, TOTAL SCORE: 9/9).
+B. INVASIVE CARCINOMA MEASURES 1.8 CM IN GREATEST DIMENSION (SLIDE 2B).
+C. DUCTAL CARCINOMA IN SITU (DCIS), NUCLEAR GRADE 3, SOLID AND MICROPAPILLARY TYPES WITH
+COMEDO NECROSIS AND ASSOCIATED CALCIFICATIONS.
+Qui
+D.
+E.
+DCIS IS PRESENT OUTSIDE OF INVASIVE CARCINOMA COMPONENT (see comment).
+MARGINS OF RESECTION ARE NEGATIVE FOR INVASIVE CARCINOMA, INVASIVE CARCINOMA IS 0.9 CM
+FROM CLOSEST (ANTERIOR) MARGIN OF RESECTION.
+F. DCIS IS PRESENT AT INFERIOR MARGIN OF RESECTION.
+G. NO LYMPHOVASCULAR INVASION IS IDENTIFIED (see comment).
+FGHS
+H. ATYPICAL DUCTAL HYPERPLASIA.
+I.
+J.
+FIBROCYSTIC CHANGES WITH COLUMNAR CELL CHANGE AND DUCTAL EPITHELIAL HYPERPLASIA.
+INVASIVE CARCINOMA IS NEGATIVE FOR ESTROGEN AND PROGESTERONE RECEPTORS AND NEGATIVE
+FOR HER-2/NEU WITH A SCORE OF 0, AS PER PREVIOUS PATHOLOGY REPORT
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/=
+Site: breast, Nos
+3/13/11 Au
+050.9
+COMMENT:
+The in situ carcinoma is noted outsite of invasive carcinoma component, near the inferior margin, focally involving the
+inferior margin, in three out of fifty-eight slides. Entire specimen was submitted for histological evaluation.
+No definite lymphovascular invasion was seen in the current specimen. No lymphatic invasion was seen in the previous
+biopsy specimen confirmed by D2-40 stain. However, vascular space invasion was seen in the previous biopsy
+confirmed by CD31 stain. This data will be used for filling the synoptic template.
+Redacted
+UUID:CB0C2E8E-2D5D-492C-9C7E-0ECD0458425A
+TCGA-BH-A0BG-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notad
+Case is (circle):
+Reviewer initiale
+QUALIFIED
+Reviewed:
+Yes
+No
+DISQUALIFIED
+to 3/13/111

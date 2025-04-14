@@ -1,0 +1,244 @@
+UUID:2B30A85F-7A5F-46E4-BE22-28C902D5DFA3
+TCGA-AQ-A707-01A-PR
+Redacted
+Diagnosis:
+SURGICAL PATHOLOGY
+Case Number :
+A: Breast, left, total mastectomy
+Tumor type: invasive lobular carcinoma
+Nottingham combined histologic grade: 2
+Tubule formation score: 3
+Nuclear pleomorphism score: 2
+Mitotic count score: 1
+Focality of tumor: single focus
+ICD0.3
+NOS
+Carcinoma, Icular infiltrating Now
+CSCE
+Site ①Breast NOS C50.9
+Ste Breast, overlapping lesion
+Tumor site: upper outer and lower outer quadrants
+9105/16/14
+Tumor size (greatest dimension): 4.1 cm (see comment)
+Lymphovascular invasion: none identified
+Ductal carcinoma in situ (DCIS): none identified
+Lobular carcinoma in situ (LCIS): present
+Nipple involvement: not involved
+Skin involvement: not involved
+Skeletal muscle involvement: not applicable
+Margin status:
+Invasive component: Margins free of carcinoma, closest is black
+inked posterior margin at 2 mm
+Size of largest metastasis: 4.1 cm
+Extracapsular extension: absent
+Axillary lymph nodes (from parts B-G):
+Total number with metastasis: 2
+Total number examined: 7
+Size of largest metastatic focus: 0.7 cm
+Extracapsular extension: absent
+Microcalcifications: associated with benign breast changes
+850.9
+Other pathologic findings:
+-
+-
+Extensive stromal fibrosis with patchy amyloid deposition
+- Fibrocystic changes
+-
+Columnar cell change
+-
+-
+Epidermal inclusion cyst
+- Previous biopsy site changes
+AJCC PATHOLOGIC TNM STAGE: PT2 pNla
+BREAST STAGE GROUPING: IIB
+Note: This pathologic stage assessment is based on information
+available at the time of this report, and is subject to change
+pending clinical review and additional information.
+Ancillary studies previously performed on core biopsy case and
+reported as:
+Estrogen receptor: positive, 88%, 3+
+Progesterone receptor: positive, 82%, 3+
+HER2/neu: negative for overexpression, 0
+B: Lymph node, left axillary sentinel lymph node #231, biopsy
+One lymph node positive for metastatic carcinoma (1/1) based
+on H & E and cytokeratin stained slides
+-
+-
+-
+Metastatic focus measures 0.5 cm
+No extracapsular extension is identified
+- Amyloid present
+C: Lymph node, left axillary sentinel lymph node #232, biopsy
+-
+One lymph node negative for metastatic carcinoma (0/1) based
+on H & E and cytokeratin stained slides
+-
+-
+Amyloid present
+D: Lymph node, left axillary sentinel lymph node #233, biopsy
+One lymph node positive for metastatic carcinoma (1/1) based
+on H & E and cytokeratin stained slides
+Metastatic focus measures 0.7 cm
+No extracapsular extension is identified
+Amyloid present
+E: Lymph node, left axillary sentinel lymph node #4, biopsy
+Two lymph nodes negative for metastatic carcinoma (0/2) based
+on H & E and cytokeratin stained slides
+Amyloid present
+F: Lymph node, left axillary sentinel lymph node #35, biopsy
+One lymph node negative for metastatic carcinoma (0/1) based
+on H & E and cytokeratin stained slides
+-
+Amyloid present
+G: Lymph node, left axillary sentinel lymph node #36, biopsy
+-
+One lymph node negative for metastatic carcinoma (0/1) based
+on H & E and cytokeratin stained slides
+-
+Amyloid present
+Clinical History:
+-year-old female with left breast invasive lobular carcinoma.
+Gross Description:
+Received are seven appropriately labeled containers.
+Container A:
+Specimen fixation: formalin
+Time in fixative: 33 hours
+Cold ischemic time: 71 mins
+Type of mastectomy: left total mastectomy
+Weight of specimen: 330 grams
+Size of specimen: anterior to posterior, 2.5 cm; superior to
+inferior, 19.0 cm; medial to lateral, 20.0 cm
+Orientation of specimen: The specimen is oriented with a stitch
+in the axillary tail.
+Inking: anterior-blue, posterior=black, axillary tail-dotted
+yellow
+Skin ellipse dimensions: 19.0 x 5.8 cm
+Nipple/areola: 1.4 cm/3.0 cm
+Axillary tail: present, minimal tissue
+Biopsy site: absent
+Discrete Mass(es): Area of fibrotic, homogeneously firm,
+white/tan tissue
+Number of discrete masses: one
+Size of fibrotic tissue: 7.5 cm from medial to lateral, 6.7 cm
+from superior to inferior, and 3.5 cm from anterior to posterior
+Location of fibrotic tissue: upper inner quadrant, upper outer
+quadrant, lower outer quadrant (includes the area deep to the
+nipple/areola)
+Distance of mass/biopsy site from surgical margin: The fibrotic
+tissue abuts the black inked deep margin extensively, it also
+abuts the blue inked anterior margin in multiple slices.
+Gross involvement of skin or fascia/muscle by tumor: The tumor
+extends very close to the skin, however, does not appear to
+grossly involve the skin.
+Description of remaining breast: predominantly yellow lobular
+adipose tissue
+Other remarkable features: none
+Tissue submitted for special investigations: Tumor and normal
+submitted to Tissue Procurement foundation.
+Block Summary:
+Al
+A2
+-
+nipple, perpendicular sections, in relation to the tumor
+nipple, perpendicular sections, in relation to the tumor
+-
+A3, A4 perpendicular sections of the areola, in relationship to
+the deep tumor
+A5,A6 representative section of the tumor, in relation to the
+blue inked inferior margin
+A7, A8
+-
+representative section of the tumor, in relation to the
+black inked deep margin
+A9,A10 - additional representative sections of the mass
+All
+representative section, upper outer quadrant
+A12
+A13
+A14
+-
+-
+representative section, lower outer quadrant
+representative section, upper inner quadrant
+representative section, lower inner quadrant
+Additional sections, upper outer quadrant surrounding metallic
+clip, lateral to medial:
+A19
+-
+one section bisected
+A20
+-
+one section bisected
+A21-A22
+-
+one section bisected
+A23-A24 one section bisected
+A25 one section
+A26
+A27
+-
+one section
+-
+one section
+A15-A18, A28-A67 additional sections from lateral towards
+medial, respectively
+"
+A
+Container B is additionally labeled "lymph node, left axillary
+sentinel lymph node #1.' Received is a single, unoriented,
+yellow lobular adipose tissue fragment, 3.7 x 3.0 x 1.0 cm.
+single lymph node candidate, 2.2 x 1.3 × 0.8 cm is identified
+and is sequentially sectioned at 2 mm intervals. The entire
+lymph node is submitted in blocks B1 and B2. Adipose tissue
+remains in the container.
+Container C is additionally labeled "lymph node, left axillary
+sentinel lymph node #2." Received is a single, unoriented,
+brown/tan fibroadipose tissue fragment, 3.4 x 2.3 x 1.3 cm. A
+single, possibly two, lymph node candidates matted together are
+identified, 2.3 x 2.3 x 0.8 cm. The lymph node candidate is
+serially sectioned at approximately 2 mm intervals and is
+entirely submitted in blocks C1-C3. Adipose tissue remains in
+the container.
+Container D is additionally labeled "lymph node, left axillary
+sentinel lymph node #3." Received is a single, unoriented,
+brown/tan fibroadipose tissue fragment, 1.8 x 1.8 x 1.5 cm. A
+single lymph node candidate, 1.2 x 0.8 x 0.8 cm is identified,
+is serially sectioned at approximately 2 mm intervals and
+entirely submitted in blocks D1 and D2. Adipose tissue remains
+in the container.
+Container E is additionally labeled "lymph node, left axillary
+sentinel lymph node #234." Received is a brown/tan, single,
+unoriented fibroadipose tissue fragment, 1.5 x 1.0 x 0.9 cm. Two
+lymph node candidates, 0.5 and 0.2 cm in diameter are
+identified. The larger lymph node is bisected and submitted in
+block El. The smaller lymph node is submitted in block E2
+without sectioning.
+Adipose tissue remains in the container.
+Container F is additionally labeled "lymph node, left axillary
+lymph node #5.1 " Received is a single, unoriented, brown/tan
+fibroadipose tissue fragment, 1.2 x 1.2 x 0.6 cm. A single lymph
+node candidate, 1.1 x 0.8 x 0.6 cm is identified.
+The lymph node candidate is serially sectioned at approximately
+2 mm intervals and entirely submitted in block Fl. Adipose
+tissue remains in the container.
+Container G is additionally labeled "lymph node, left axillary
+sentinel lymph node #36." Received is a single, gray/tan,
+unoriented, 1.0 x 0.9 x 0.6 cm lymph node candidate. The
+specimen is serially sectioned, at approximately 2 mm
+intervals, and entirely submitted in blocks G1 and G2,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+PAA Discrepancy
+Prier Malignancy History
+9/24/13
+Yes
+Dual/Synchronous Primary Noted DLBC
+Case is (circle
+Reviewer rais
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+No
+✓
+9/24/13

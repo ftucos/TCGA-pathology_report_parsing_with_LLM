@@ -1,0 +1,170 @@
+PATIENT HISTORY:
+Not provided.
+LMP: Not provided.
+PRE-OP DIAGNOSIS: Right breast cancer.
+POST-OP DIAGNOSIS: Same.
+PROCEDURE: Right breast segmental mastectomy, right axillary sentinel node biopsy.
+MICROSCOPIC:
+Microscopic examination substantiates the above diagnosis.
+Antibody/Antigen
+AE1/AE3 (1B)
+Result
+negative
+Utilizing formalin-fixed (8-96 hour range), paraffin embedded tissue, immunohistology is
+performed with the following selected antibodies and 
+designated antibody clone(s), directed
+against the following antigenic target (s), with 
+adequate positive and negative internal and
+external controls. Antibodies are optimized appropriate 
+for fixation times.
+ANTIBODY
+AE1/AE3
+CLONE
+AE1/AE3
+TARGET ANTIGEN
+carcinomas
+VENDOR
+The following statement applies to all immunohistochemistry, insitu hybridization (ISH & FISH), molecular anatomic pathology, and
+immunofluorescence testing:
+The testing was developed and its performance characteristics determined by the
+required by the CLIA '88 
+regulations. The testing has not been cleared or approved for the specific use by the U.S. Food and Drug
+Administration, but the FDA has determined such approval is not necessary 
+for clinical use.
+4, as
+This laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 ("CLIA") as qualified to perform high-
+complexity clinical testing. Pursuant to the requirements of CLIA, ASR's used in 
+this laboratory have been established and verified for
+accuracy and precision. Additional information about this type of test is 
+available upon request.
+CASE SYNOPSIS:
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Right
+Segmental
+Not specified
+Maximum dimension invasive component: 1.4 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+No
+Metaplastic carcinoma
+Nuclear grade: 3
+Tubule formation: 3
+Mitotic activity score: 3
+Total Nottingham score: 9
+f
+UUID:87E28DAE-5012-4A16-BE27-A9F0F3F30F5B
+TCGA-BH-AOWA-01A-PR
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+CALCIFICATION:
+TUMOR TYPE, IN SITU:
+Nottingham grade (1,2, 3): 3
+No
+No
+Yes, benign zones
+Cribriform
+Solid
+DCIS admixed and outside of Invasive carcinoma component
+Percent of tumor occupied by in situ component: 5%
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+Distance of invasive tumor to closest margin: 2.0 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+Redacted
+No
+Distance of in situ disease to closest margin: 4.0 mm
+LYMPH NODES POSITIVE:
+0
+LYMPH NODES EXAMINED:
+3
+METHOD(S) OF LYMPH NODE EXAMINATION:
+SENTINEL NODE METASTASIS:
+No
+1CD-0-3
+HVE stain, Keratin stain Carcinoma, metaplastic, Nos 8:575/3
+SKIN INVOLVED (ULCERATION):
+No
+Site breast, Nos
+050.9
+T STAGE, PATHOLOGIC:
+pTic
+lu 10/15/11
+N STAGE, PATHOLOGIC:
+PNO(i-)
+M STAGE, PATHOLOGIC:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+PMX
+negative
+negative
+zero or 1+
+Criteria
+Diagnosis Discrepancy
+Primary Tum.or Site Discrepancy
+HIPAA Discrepancy
+Pr.or Malignancy History
+al/Synchronous Priniary Note
+Case is (circle):
+Reviewer initials
+Yes
+No
+QUALIFIED 1 DISQUALIFIED
+Date Paviewed
+W194
+tw 10/15/11
+PATIENT HISTORY:
+Not provided.
+LMP: Not provided.**
+PRE-OP DIAGNOSIS: Right breast cancer.
+POST-OP DIAGNOSIS: Same.
+PROCEDURE: Right breast segmental mastectomy, right axillary sentinel node biopsy.
+FINAL DIAGNOSIS:
+PART 1: LYMPH NODES, RIGHT AXILLARY, SENTINEL #1, BIOPSY -
+THREE (3) LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/3).
+PART 2: BREAST, RIGHT, SEGMENTAL MASTECTOMY --
+A. INFILTRATING DUCTAL CARCINOMA, METAPLASTIC TYPE.
+B.
+NEOPLASM MEASURES 1.4 CM ON SLIDE.
+· C.
+NOTTINGHAM SCORE: 9/9, GRADE 3.
+D. MARGINS OF RESECTION FREE OF NEOPLASM, CLOSEST POSTERIOR AT 0.2 CM.
+NO LYMPHOVASCULAR 
+INVASION IDENTIFIED.
+E.
+F. ER NEGATIVE, PR NEGATIVE, HER-2/neu NEGATIVE (SCORE: 1+) PER PREVIOUS REPORT.
+G. PATHOLOGIC STAGE: pT1c pN0 pMX
+.
+H. DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES, NUCLEAR GRADE 3 WITH COMEDO
+NECROSIS.
+I.
+DUCTAL CARCINOMA IN SITU IS ADMIXED AND ADJACENT TO INVASIVE COMPONENT.
+J.
+MARGINS OF RESECTION FREE OF DUCTAL CARCINOMA IN SITU, CLOSEST POSTERIOR AT 0.4 CM.
+K. 
+UNREMARKABLE SKIN
+L. MÖNCKEBERG'S CALCIFIC MEDIAL SCLEROSIS OF ARTERY.
+COMMENT:
+One of the lymph nodes is confirmed negative by Immunohistochemical staining (1B). The positive basal-like
+Immunohistochemical markers performed on the previous 
+blopsy combined with the presence of matrix production and
+squamous differentiation in the current specimen support metaplastic 
+subtype of Infiltrating ductal carcinoma.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+My
+Date Reviewed:
+DISQUALIFIED
+No

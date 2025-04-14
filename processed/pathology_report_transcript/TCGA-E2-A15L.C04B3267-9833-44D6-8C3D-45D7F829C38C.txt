@@ -1,0 +1,209 @@
+ICD-0-3
+Carcinoma, lobular, Nos
+12/8/10
+852013
+Site Code breast, Nos.
+کسل
+TSS:
+SPECIMENS:
+A. NEEDLE LOCALIZATION LEFT BREAST
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+D. RIGHT BREAST
+€509
+E. ADDITIONAL ANTERIOR FLAP RIGHT BREAST UPPER OUTER QUADRANT
+SPECIMEN(S):
+A. NEEDLE LOCALIZATION LEFT BREAST
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+D. RIGHT BREAST
+E. ADDITIONAL ANTERIOR FLAP RIGHT BREAST UPPER OUTER QUADRANT
+GROSS DESCRIPTION:
+A. NEEDLE LOCALIZATION LEFT BREAST
+Received fresh labeled with the patient's identification and "needle localization left breast" is an oriented
+18g, 6 x 3.5 x 2.4cm needle localized lumpectomy with radiograph. Ink code: anterior-yellow, posterior-
+black, superior-blue, inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from
+medial to lateral into 12 slices revealing unremarkable breast parenchyma. Entirely submitted:
+A1: medial margin slice 1
+A2-A3: slice 2
+A4-A5: slice 3
+A6-A7: slice 4
+A8-A9: slice 5
+A10-A11: slice 6
+A12-A13: slice 7
+A14-A15: slice 8
+A16-A17: slice 9
+A18-A19: slice 10
+UUID:C0483267-9833-44D6-8C3D-45D7F829C38C
+TCGA-E2-A15L-01A-PR
+Redacted
+A20-A21: slice 11
+A22: lateral margin slice 12
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+Received fresh is a tan pink lymph node 2.8 x 2.4 x 1cm. The specimen is sectioned and two touch
+preps are taken. Toto B1-B2
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+Received fresh are two tan pink lymph nodes 1.2 x 1 x 0.8cm and 0.6 x 0.4 x 0.4cm. Two touch preps
+are taken.
+C1: one lymph node
+C2: one lymph node
+D. RIGHT BREAST
+Received fresh labeled with the patient's identification and "right breast" is an 1129g, 29 x 24 x 5cm
+oriented (stitch in axilla) simple mastectomy with 23 x 9cm tan pink skin ellipse with 0.5 cm scar, 3.5cm
+from the nipple in the UIQ, and 0.8cm flattened nipple. Ink code: anterior-superior-blue, anterior-inferior-
+orange, posterior-black. The specimen is serially sectioned from medial to lateral into 14 slices with
+nipple in slice 10, revealing a 1.8 x 1.7 x 1.7cm tan white firm well circumscribed mass, 1.4cm from the
+deep margin in the UOQ of slices 11-12. Also seen is a 0.7 x 0.5 x 0.5cm previous biopsy site with
+surrounding fat necrosis, 2.4cm from the mass and corresponding to the scar on the skin surface in the
+UC of slice 10. A portion of the specimen is submitted for tissue procurement. Representatively
+submitted:
+D1: nipple slice 10
+D2: UIQ slice 5
+D3: LIQ slice 7
+D4: UIQ slice 9
+D5: LIQ slice 9
+D6-D7: biopsy site UC slice 10
+D8: area next to mass UC slice 10
+D9: deep margin UC slice 10
+D10: LC slice 10
+D11: next to biopsy site UOQ slice 11
+D12: mass UOQ slice 11
+D13: deep margin UOQ slice 11
+D14: scar UOQ slice 11
+D15: LOQ slice 11
+D16: mass UOQ slice 12
+D17: deep margin UOQ slice 12
+D18: anterior margin UOQ slice 12
+D19: LOQ slice 12
+D20: UOQ slice 13
+E. ADDITIONAL ANTERIOR FLAP RIGHT BREAST UPPER OUTER QUADRANT.
+Received fresh is an oriented (suture at final margin) 18g, 8.4 x 3.9 x 2cm fibrofatty tissue. Final margin
+is inked blue. Serial sectioning reveals no discrete lesions. Representatively submitted in E1-E2.
+DIAGNOSIS:
+A. BREAST, LEFT, NEEDLE LOCALIZATION EXCISION:
+-
+ATYPICAL LOBULAR HYPERPLASIA (ALH) AND PREVIOUS BIOPSY SITE
+CHANGES.
+B. SENTINEL LYMPH NODE 1, RIGHT AXILLA, BIOPSY:
+ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+C. SENTINEL LYMPH NODE 2, RIGHT AXILLA, BIOPSY:
+- TWO LYMPH NODES, NO TUMOR SEEN (0/2).
+NOTE: Cytokeratin AE1/3 stains were performed on B1 and C1 and are negative.
+D. BREAST, RIGHT, MASTECTOMY:
+-
+MULTIFOCAL INVASIVE LOBULAR CARCINOMA, SBR GRADE 2.
+LARGEST TUMOR MEASURES 2.2 CM.
+MARGINS, FREE OF TUMOR.
+- DUCTAL CARCINOMA IN SITU (DCIS), MICROPAPILLARY TYPE,
+NUCLEAR GRADE 2, WITH NECROSIS.
+- LOBULAR CARCINOMA IN SITU (LCIS).
+-
+SKIN AND NIPPLE, NO TUMOR SEEN.
+NOTE: The tumor is present in the upper inner and upper outer quadrants with the largest focus of
+invasive carcinoma measuring 2.2 cm that is associated with previous biopsy site changes. In addition,
+a few small foci (the largest of the small foci is 0.3 cm) of invasive carcinoma are seen, with one focus
+associated with previous biopsy site changes.
+E. BREAST, RIGHT, ADDITIONAL ANTERIOR UPPER OUTER QUADRANT, EXCISION:
+- NO TUMOR SEEN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+No
+Laterality: Right
+Invasive Tumor
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 2.2cm
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+3
+2
+1
+Mitotic Score:
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+Lymph nodes:
+LCIS
+Sentinel lymph node
+2
+Lymph node status: Negative 0/3
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:
+Estimate 10%
+DCIS Type: Micropapillary
+DCIS Location:
+Nuclear grade:
+Necrosis: Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+Associated with invasive tumor
+Intermediate
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+Right invasive lobular carcinoma and left atypical lobular hyperplasia.
+year-old post menopausal female noted a right breast mass
+Mammogram performed
+showed 1.8 x 2cm mass in right breast, solid in nature on ultrasound. Repeat imaging also showed
+left breast nodule at 9 o'clock. Biopsy of both lesions showed right invasive lobular carcinoma. Left
+breast atypical lobular hyperplasia.
+PRE-OPERATIVE DIAGNOSIS:
+Right invasive lobular carcinoma, left atypical lobular hyperplasia
+INTRAOPERATIVE CONSULTATION:
+TPB1-TPB2-TPC1-TPC2: SLN #1-#2 Right axilla-No definitive tumor cells identified. Diagnoses called
+(C) by Dr.
+to Dr at
+ADDENDUM:
+(B) and
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score: 8
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+an average rate of Distant Recurrence at 10 years of 6%
+ER Score: 10.6 Positive
+PR Score:
+9 Positive
+Her2 Score: 9.3 Negative
+Interpretation:
+ER Negative <6.5
+PR
+Negative < 5.5
+Her2 Negative <10.7
+See separate
+Test performed at:
+Gross Dictation
+Microscopic/Diagnostic Dictation:
+Final Reviev
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist, (
+Addendum Final: Pathologist, '
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+8 in the clinical validation study had
+Equivocal = 10.7-11.4
+I report for further information.
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewe: Initial
+QUALIFIED I
+DISQUALIFIED
+Date Reviewed.

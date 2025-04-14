@@ -1,0 +1,28 @@
+ICD-0-3
+Carcinoma, infiltrating ductal and lobuler 8522/3
+Path
+Site: Breast, upper outer @
+C50.4
+CQCE Site: Breast, Nos C50.9
+1/19/11
+Summary diagnosis:
+Left breast at 3 o'clock: invasive breast carcinoma of mixed differentiation with a tumor
+classification pT2 
+(28 mm) pM0 (0/28) grade 1 (L0(V0) R1 (ventral).
+Associated extensive lobular neoplasia and DCIS grade 1 corresponding to pTis R1 ventral.
+UUID: AC2E3DDC-3AF6-45F0-8269-E9DA68F4367A
+TCGA-A8-A075-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case Is (circle):
+Peviewer Initials
+QUALIFIED
+Ste Reviewed
+Yes
+DISQUALIFIED
+Redacted
+1105

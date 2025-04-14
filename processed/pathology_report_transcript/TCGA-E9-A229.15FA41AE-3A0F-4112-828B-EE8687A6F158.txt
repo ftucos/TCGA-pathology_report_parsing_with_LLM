@@ -1,0 +1,46 @@
+ICD-0-3
+carcinoma infiltrating cluct, Nos 8500/3
+Site: breast, NoS
+C50.9
+for 4/7/11
+Procurement Date:
+Laterality: Right, lower inner quadrant
+Path Report:BREAST TISSUE CHECKLIST
+Specimen type: Mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2 x 1.5 x 2 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: Not specified
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+UUID:15FA41AE-3A0F-4112-828B-EE8687A6F158
+TCGA-
+E9-A229-01A-PR
+Criteria
+Redacted
+Yes
+Now
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pary Noted
+Cais (cinje)
+Reviewer
+QUALIFIED
+DISQUALIFIED
+Date Reviewed:,
+tw 4/7/11

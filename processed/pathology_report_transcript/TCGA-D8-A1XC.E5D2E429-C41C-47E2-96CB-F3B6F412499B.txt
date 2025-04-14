@@ -1,0 +1,83 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No.:
+PESEL: XXX
+Age:
+Gender: F
+ICD-0-3
+Material: Multiple organ resection right breast.
+Unit in charge:
+Physician in charge:
+Material collected on
+Material received on:
+page 1 / 2
+Carcinoma, mucinous 8480/3
+Sitas breast, NOS
+050.9
+Expected time of examination: 5 working days
+Clinical diagnosis: Right breast - advanced cancer of both breasts, toilet mastectomy of both breasts.
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell
+nuclei. HER2 protein stained with HercepTestTM by DAKO. Negative reaction in invasive carcinoma cells (Score = 1+ }
+Examination performed on:
+'
+Compliance validated by:
+سل
+for 4/12/11
+Macroscopic description:
+Right breast sized 19 x 9 x 6 cm removed along with axillary tissues sized 7 x 3 x 2 cm and a skin flap of 13 x 9.5 cm. Weight 370
+g.
+Tumour sized 7 x 4 x 8 cm found in the central part. Margin to the lower boundary - uncertain, margin to the base - uncertain,
+margin to the skin 0.1 cm.
+Histopathological diagnosis:
+Carcinoma mucinosum invasivum - NHG2 (3+2+1/5 mitoses/10 HPF - visual area 0.55mm).
+Invasive mucinous carcinoma of the right breast
+Numerous foci of carcinoma ductale found outside the tumour (cribrate type, with medium nuclear atypia, without
+necrosis) and lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis simplex (UDH) AXILLARY LYMPH
+NODES:
+Micrometastases carcinomatosae in lymphonodo (No I/XX).
+Examination performed on:
+Compliance validated by:
+UUID:ESD2E429-C41C-47E2-96CB-F3B6F412499B
+TCGA
+-D8-A1XC-01A-PR
+Redacted
+Geria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tuinur Site Discrepancy
+HIPAA Disc pancy
+Prior Malignancy History
+Dual/Synchronous Prinary Noted
+Case is (circle):
+ReviewerInitals
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+tw 4/12/11/
+Patient: XXX
+Examination: Histopathological examination
+page 2 / 2
+examination No.:
+PESEL: XXX
+Gender: F
+Examination performed on:
+Complementary diagnosis:
+Complementary macroscopic description:
+Extensive skin proliferation. Minor ulceration in the skin. Skin proliferation confirmed microscopically. Focal
+tumour pattern along the incision line at the side of the base and lower boundary.
+Compliance validated by:
+Examination performed on:
+Test result:
+Carcinoma mucinosum invasivum with a neuroendocrinic component mammae dextrae. Micrometastasis
+carcinomatosa in lymphonodo axillae (No I/XX) (NHG2, pT4b, pNla mi). Immunophenotype: CK7+/- (Only part of the
+cells exhibit positive reaction, CK5/6 -, p63-, calponin ambiguous reaction, synaptophysin +, chromogranin -/+).
+Compliance validated t
+CONTACT YOUR DOCTOR WITH THIS REPORT!

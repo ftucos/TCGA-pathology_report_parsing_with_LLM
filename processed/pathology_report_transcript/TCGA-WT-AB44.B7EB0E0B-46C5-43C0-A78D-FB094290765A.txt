@@ -1,0 +1,232 @@
+NAME:
+MR #:
+BILLING #:
+LOCATION:
+AGE:
+DOB:
+PHYSICIAN:
+UUID:B7EBOEOB-46C5-43C0-A78D-FB094290765A
+TCGA-WT-AB44-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+SURG PATH #:
+SPECIMEN CLASS:
+ALT ID #:
+DATE OF PROCEDURE:
+DATE RECEIVED:
+SEX: F
+TIME RECEIVED:
+COPY TO:
+Material Received:
+A: left breast SLN #1 time out
+B: left breast SLN #2 time out
+C: left breast SLN #3 time out
+D: left breast SLN #4 time out
+E: left breast lumpectomy time out
+F: additional anterior left breast tissue
+History:
+DATE OF REPORT:
+DATE OF PRINTING:
+760-0-3
+Carcinoma infiltrating lobular NOS 852013
+Es
+Site Breast Nos (50.9
+year-old female with history of invasive lobular carcinoma of the breast.
+Final Diagnosis:
+A. Lymph node (1), "left breast SLN #1", biopsy:
+There is no evidence of malignancy in one lymph node. (0/1)
+path
+Breast, upper-cuter quadrant
+NW 5/80/14
+Deeper sections and a pancytokeratin immunostain are negative in support of the above diagnosis.
+B. Lymph node (1), "left breast SLN #2", biopsy:
+There is no evidence of malignancy in one lymph node. (0/1)
+Deeper sections and a pancytokeratin immunostain are negative in support of the above diagnosis.
+C. Lymph node (1), "left breast SLN #3", biopsy:
+There is no evidence of malignancy in one lymph node. (0/1)
+Deeper sections and a pancytokeratin immunostain are negative in support of the above diagnosis.
+D. Lymph node (1), "left breast SLN #4", biopsy:
+There is no evidence of malignancy in one lymph node. (0/1)
+Deeper sections and a pancytokeratin immunostain are negative in support of the above diagnosis.
+E. Breast, "left breast lumpectomy", lumpectomy:
+Invasive lobular carcinoma, moderately differentiated. See comment.
+Lobular carcinoma in-situ and atypical lobular hyperplasia.
+Previous biopsy site changes.
+F. Breast, "additional anterior left breast tissue", excision:
+Microscopic focus of invasive lobular carcinoma. See comment.
+Lobular carcinoma in-situ and atypical lobular hyperplasia.
+050,4
+Date of Printing:
+Order Number:
+MR#:
+Page 1 of 4
+SURGICAL PATHOLOGY REPORT
+NAME:
+MR #:
+Comment:
+INVASIVE CARCINOMA OF THE BREAST
+Specimen Type: Lumpectomy
+Laterality: Left
+SURGICAL PATHOLOGY REPORT
+SURG PATH #:
+ALT ID #:
+Tumor Site: 1:00, 6 cm FTN
+Histologic Type: Invasive lobular carcinoma
+Size of Invasive Component: 1.5 cm in greatest dimension in the main lumpectomy. 0.3 cm in greatest dimension in the separately
+submitted "additional anterior left breast tissue".
+Tumor Multicentricity: Yes
+Surgical Margins: The carcinoma is focally 1.5 mm from the anterior margin and focally 1.75 mm from the inferior margin in the
+main lumpectomy (Specimen E); all other margins are greater than 0.2 cm away. In specimen F ("additional anterior left breast
+tissue") which is unoriented, carcinoma is present at one shave margin/tissue edge while all other margins are 0.2 cm or greater
+away.
+Histologic Grade (Nottingham Histologic Score): I/III
+Tubule Formation: 3
+Nuclear Grade: 2
+Mitotic Count (40x objective): 1
+Total Nottingham Score: 6/9
+Ductal Carcinoma In-situ (DCIS): Absent
+Lobular Carcinoma In-situ (LCIS): Present
+Lymph-Vascular Invasion: Not identified
+Perineural Invasion: Not identified
+Tumor Necrosis: Absent
+Nipple Involvement: Not applicable
+Skin Involvement: Not applicable
+Lymph Node Sampling:
+Sentinel lymph node(s) only
+Total number of involved nodes/total nodes found: 0/4
+Non-neoplastic Breast Tissue: Focal atypical ductal hyperplasia. Fibrosis and prior biopsy site changes.
+Prognostic markers: Ordered on prior biopsy. See
+for addendum
+Time between tumor removal and placement into formalin ≤1 hour: Yes
+Fixation Time between 6-48 hours: Yes
+Pathologic Staging:
+pT1c snNO(i-)
+Primary Tumor (Invasive Carcinoma) (PT)
+pT1c:
+Tumor >10 mm but d20 mm in greatest dimension
+Regional Lymph Nodes (pN)
+Modifier (required only if applicable)
+(sn):
+PNO (i-):
+Only sentinel node(s) evaluated. If 6 or more sentinel nodes and/or nonsentinel nodes are removed, this modifier
+should not be used.
+No regional lymph node metastases histologically, negative IHC
+Distant Metastasis (M)
+Not applicable
+The pathologic stage assigned here should be regarded as provisional, as it reflects only current pathologic data and does not
+incorporate full knowledge of the patient's clinical status and/or prior pathology.
+In Specimen F, immunohistochemical stain for smooth muscle myosin supports the diagnosis.
+Attestation:
+By this signature, I attest that I have personally formulated the final interpretation expressed in this report and that the above diagnosis is based
+upon my examination of the slides and/or other material indicated in this report.
+Date of Printing:
+Interpreted by:
+MR #:
+***Electronically Signed Out By***
+SURGICAL PATHOLOGY REPORT
+Page 2 of 4
+NAME:
+MR #:
+SURGICAL PATHOLOGY REPORT
+SURG PATH #:
+ALT ID #:
+Resident
+Gross Description:
+A. Received in formalin labeled with the patient's name "left female breast sentinel lymph node #1 out at
+lymph nodes measuring 0.9 x 0.9 x 0.6 cm and 1.4 x 1.3 x 0.6 cm. The smaller lymph node is inked black.
+serially sectioned and submitted entirely in cassette A1.
+are two tan-pink
+Both lymph nodes are
+" is a 2.3 x 1.8 x
+B. Received in formalin labeled with the patient's name "female left breast sentinel lymph node #2 time out
+0.6 cm aggregate of yellow-tan fibroadipose tissue that is palpated to reveal two possible lymph nodes measuring 1.2 x 0.8 x 0.4
+cm and 1.5 x 0.7 x 0.5 cm. The smaller lymph node is inked black. Both lymph nodes are serially sectioned and submitted
+entirely in cassette B1.
+C. Received in formalin labeled with the patient's name and "female left breast sentinel lymph node #3 time out ." is a 3.2 x
+1.7 x 0.9 cm aggregate of yellow-tan fibroadipose tissue that is palpated to reveal two possible lymph nodes measuring 0.5x 0.5 x
+0.3 cm and 1.0 x 0.6 x 0.4 cm. The smaller lymph node is inked black. Both lymph nodes are serially sectioned and submitted
+entirely in cassette C1.
+D. Received in formalin labeled with the patient's name and “left female breast sentinel lymph node #4 out at ." is a 2.2 x 1.1
+× 0.8 cm aggregate of yellow-tan fibroadipose tissue that is palpated to reveal one possible lymph node measuring 0.4 x 0.3 × 0.3
+cm. The specimen is serially sectioned and submitted entirely in cassette D1.
+E. Received fresh labeled with the patient's information and “female left breast lumpectomy" is a 35 gm lumpectomy specimen
+measuring 7.0 x 5.5 x 1.0 cm. The specimen has already been inked by the surgeon as follows:
+Orange-Lateral
+Yellow Medial
+Red - Superior
+Blue Inferior
+Green - Anterior
+Black Posterior.
+The specimen is serially sectioned from lateral to medial into twelve slices. In slices 6 through 8, there is a 1.2 × 0.7 x 0.6 cm firm
+white well circumscribed mass that is:
+0.1 cm from the anterior margin.
+1.8 cm from the posterior margin.
+1.5 cm from the superior margin.
+2.2 cm from the inferior margin.
+2.0 cm from the lateral margin.
+1.6 cm from the medial margin.
+The remainder of the breast parenchyma is yellow-white adipose tissue. The specimen is entirely submitted as follows:
+Slice #1 (lateral margin).
+E1
+E2
+Slice #2.
+E3-4
+Slice #3 bisected.
+E5-7
+Slice #4 trisected.
+E8-9
+Slice #5 bisected.
+E10-12 Slice #6 trisected.
+E13-14 Slice #7 bisected.
+E15-17 Slice #8 trisected.
+E18-20 Slice #9 trisected.
+E21-22 Slice #10 bisected.
+E23-24 Slice #11 bisected.
+E25
+Slice #12 (medial margin).
+The specimen was removed from the patient at
+and placed in formalin at
+on and not removed from formalin until
+F. Received in formalin labeled with the patient's name and "additional anterior left breast tissue" is a 2.7 x 1.9 x 1.0 cm piece of
+yellow lobular adipose tissue. The outer surface is inked black. The specimen is serially sectioned to reveal a yellow
+homogeneous cut surface with no discrete lesion or abnormalities identified. The specimen is entirely submitted in cassettes
+Date of Printing:
+MR #:
+SURGICAL PATHOLOGY REPORT
+Page 3 of 4
+SURGICAL PATHOLOGY REPORT
+NAME:
+MR #:
+SURG PATH #:
+ALT ID #:
+F1-F3. The breast was removed from the patient at
+formalin until
+and placed in formalin immediately in the OR and not removed from
+on today's date.
+If immunohistochemical stains and/or in situ hybridization are cited in this report, the performance characteristics were determined by the
+in compliance with CLIA'88
+regulations. Some of these tests rely on the use of "analyte specific reagents" and are subject to specific labeling requirements by the FDA. Known
+positive and negative control tissues demonstrate appropriate staining. This testing was developed by the
+It has not been cleared or approved by the FDA. The FDA has determined that such clearance or approval
+is not necessary.
+le 1/24/19
+سل
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 114
+7
+✓
+Date of Printing:
+MR #:
+SURGICAL PATHOLOGY REPORT
+Page 4 of 4

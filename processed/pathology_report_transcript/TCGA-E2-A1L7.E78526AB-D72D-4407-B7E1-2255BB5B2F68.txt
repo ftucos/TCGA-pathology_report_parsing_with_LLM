@@ -1,0 +1,266 @@
+TSS:
+SPECIMENS:
+ICD
+-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path Site breast, upper outer quadrant C50.4
+CQCF Site: breast, Nos C50.9
+A. RIGHT BREAST WITH AXILLARY CONTENTS LEVELS 1,2
+B. ADDITIONAL AXILLARY CONTENTS
+SPECIMEN(S):
+A. RIGHT BREAST WITH AXILLARY CONTENTS LEVELS 1,2
+B. ADDITIONAL AXILLARY CONTENTS
+GROSS DESCRIPTION:
+2/15/11
+w
+A. RIGHT BREAST WITH AXILLARY CONTENTS LEVELS 1,2
+Received fresh labeled with the patient's identification and "right breast with axilla" is a 934g, 28 x 25 x
+5cm oriented (stitch in axilla) modified radical mastectomy with attached 19 x 9cm tan pink skin ellipse
+and 1.3cm everted nipple. Ink code: anterior-superior: blue, anterior-inferior: orange, posterior-black.
+The specimen is serially sectioned from lateral to medial into 10 slices with nipple in slice 7, revealing a
+3 x 2.5 x 2cm tan white firm well circumscribed mass, 1.5cm from the skin margin and 3cm from the
+deep margin in the UOQ and UC of slices 5-7. A surgical clip is identified in the UOQ of slice 8. The
+axillary tail is 9 x 7 x 5cm. Dissection reveals 19 possible lymph nodes ranging from 0.7 x 0.5 x 0.5cm to
+4 x 3 x 3cm. The largest lymph node is serially sectioned to reveal a tan white firm homogenous cut
+surface. A portion of the specimen is submitted for tissue procurement. Representatively submitted:
+A1-A2: nipple slice 7
+A3: UOQ slice 2
+A4: LOQ slice 4
+A5: UOQ slice 4
+A6: mass UIQ slice 5
+A7: LOQ slice 5
+A8-A10: mass with clip ID in A9 slice 6
+A11-A12: mass slice 6
+A13: deep margin slice 6
+A14: skin slice 6
+A15: mass UC slice 7
+A16: LC slice 7
+A17: UIQ slice 8
+A18: LIQ slice 8
+A19: UIQ slice 9
+A20: 4 lymph nodes
+A21: 4 lymph nodes
+A22: 4 lymph nodes
+A23: 2 lymph nodes
+A24: 1 lymph node
+UUID:E78526AB-D72D-4407-87E1-2255BB5B2F68
+TCGA-E2-A1L7-01A-PR
+Redacted
+A25-A26: 1 lymph node
+A27: 1 lymph node
+A28-A29: 1 lymph node
+A30-A32: representative section of largest lymph node
+A33-A38: UIQ
+B. ADDITIONAL AXILLARY CONTENTS
+Received fresh are two tan pink-white firm lymph nodes 1.5 x 1.5 x 1cm and 2 x 1.5 x 1.5cm.
+B1-B2: 1 lymph node
+B3-B4: 1 lymph node
+DIAGNOSIS:
+A. BREAST, RIGHT, MODIFIED RADICAL MASTECTOMY:
+-
+TWO FOCI OF INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, WITH
+EXTENSIVE NECROSIS AND MICROCALCIFICATIONS.
+- TUMOR MEASURES 3 CM AND 1.5 CM.
+- MARGINS, FREE OF TUMOR.
+- DUCTAL CARCINOMA IN SITU (DCIS), SOLID TYPE, NUCLEAR GRADE 3,
+WITH NECROSIS AND MICROCALCIFICATIONS.
+- SKIN AND NIPPLE, NO TUMOR SEEN.
+METASTATIC CARCINOMA IN 5 OF 18 LYMPH NODES WITH
+EXTRANODAL EXTENSION, LARGEST METASTASIS IS 4 CM (5/18).
+NOTE: Invasive carcinoma is present in the upper outer quadrant and upper inner quadrant.
+TSS:
+B. ADDITIONAL AXILLARY CONTENTS, EXCISION:
+- METASTATIC CARCINOMA IN 2 OF 2 LYMPH NODES WITH
+EXTRANODAL EXTENSION (2/2).
+- LARGEST METASTASIS IS 2 CM.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization: No
+Laterality: Right
+Invasive Tumor:
+Multifocality: Yes
+Present
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 3cm
+Tumor Site: Upper outer quadrant
+Upper inner quadrant
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+3
+3
+Modified Scarff Bloom Richardson Grade:
+Vascular/Lymphatic Invasion: Present
+Necrosis: Present
+Lobular neoplasia:
+Lymph nodes:
+Lymph node status:
+None
+Axillary dissection
+3
+Positive 7/20 Extranodal extension
+Margins uninvolved by DCIS
+Estimate 15%
+DCIS present
+DCIS Quantity:
+DCIS Type: Solid
+DCIS Location:
+Associated with invasive tumor
+Nuclear grade:
+High
+Necrosis: Present
+Location of CA++:
+DCIS
+ER/PR/HER2 Results
+ER: Negative
+PR: Negative
+HER2: Negative by IHC
+Pathological staging (pTN): pT 2N2
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen:
+Surgical Excision
+Block Number:
+A31
+ER: Negative Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+2 = Proportion Score 1 + Intensity Score 1
+0 = Proportion Score 0 + Intensity Score 0
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = 
+weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+TSS:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by
+following the manufacturers instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+CLINICAL HISTORY:
+None provided
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+ADDENDUM:
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+A17 (smaller tumor)
+ER: Positive Allred Score:
+3 = Proportion Score 2 + Intensity Score 1
+PR: Positive Allred Score: 7 = Proportion Score 4 + Intensity Score 3
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by
+following the manufacturers instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+Intensity:
+2+
+% Tumor Staining:
+A17 (smaller tumor)
+EQUIVOCAL
+40%
+Fish Ordered:
+METHODOLOGY:
+Yes, on Date ⚫
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved Dako HercepTest (TM) test kit
+using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is guided by published results in the medical literature, information provided
+by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology
+Department takes full responsibility for this test's performance.
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results:
+HER-2 NOT AMPLIFIED
+TSS:
+Clinical Interpretation of results
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HER-2 probe that spans the entire HER-2 gene in the
+majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no
+amplification of the HER2/neu gene.
+Block used
+Tissue fixation
+Tissue source
+A17
+Source of case:
+formalin-fixed tissue
+Outside Case No: NA
+breast Results interpreted:
+yes
+1.06
+HER2/CEP17 ratio:
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method of ratio enumeration:
+No
+Limitations
+manual count
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status.
+treatment decision for stage II, node-positive breast cancer patients should be based on HER-
+2/neu
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+patients for whom HercentinⓇ therony in being considered. These tests were performed in the
+univity, under the direction
+of Dr.. The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+Gross Dictation:, I
+Microscopic/Diagnostic DictationPathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist, 1
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIGED DISQUALIFIED
+Date Reviewed: I

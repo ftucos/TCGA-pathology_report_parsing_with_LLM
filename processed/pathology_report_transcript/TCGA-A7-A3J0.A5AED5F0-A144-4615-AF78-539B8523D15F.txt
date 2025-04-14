@@ -1,0 +1,86 @@
+UUID:ASAED5F0-A144-4615-AF78-539B8523D15F
+TCGA-A7-A330-01A-PR
+Redacted
+Procedure:
+Diagnosis
+Final Surgical Pathology Report
+A. Sentinel lymph nodes, right axilla, biopsy:
+ICD-0-3
+carcinoma invisive mucinous 8480/3
+Site: breast, Nos
+There is no evidence of malignancy in either of 2 lymph nodes.
+B. Breast, right, excisional biopsy:
+Invasive mucinous type carcinoma, Nottingham grade 1. Fibrocystic
+changes.
+Microscopic Description:
+A. There is no evidence of malignancy in either of 2 lymph nodes.
+[At the request of some staff oncologists and in keeping with the
+opinion of some experts in breast pathology, immunohistochemical stains
+for keratin were not used on the sentinel lymph node sections in this
+case. These stains can be obtained if desired. Our paraffin blocks
+are retained for 10 years. (Weaver DL et al. New Engl J Med 364:412,
+2011. Schwartz GF et al. Cancer 94 (10):2542, 2002)].
+B.
+Invasive carcinoma:
+Histologic type: Invasive mucinous carcinoma
+Nottingham grade: 1
+Architectural score: 3
+Nuclear score: 1
+Mitotic score: 1
+Mitotic index: 4 mitoses 10 HPFS (1 HPF = 1.96 sq. mm)
+Tumor size: 2.5 cm
+Specimen margins: Negative for malignancy. Carcinoma is focally
+1.9 mm from the red (anterior) margin.
+Vessel invasion:
+Calcification:
+Absent
+Absent
+C50.9
+سار
+12/8/11
+Non-tumorous breast:
+Fibrocystic changes are present including cyst
+formation, sclerosing adenosis, columnar metaplasia and intraductal
+epithelial hyperplasia without atypia, benign calcification and
+apocrine metaplasia.
+TNM stage: T2 NO
+Prognostic markers:
+See previous biopsy
+Specimen
+A. Right axillary sentinel node
+B. Right breast biopsy long stitch anterior short stitch superior
+Clinical Information
+Right breast cancer
+Gross Description
+Specimen A is received unfixed labeled right axillary sentinel nodes
+and consists of 2 pieces of yellow and red soft tissue measuring 3.5 x
+2.5 x 1 and 2.8 x 2 by 1.3 cm. Sections after fixation. One LN in
+blocks 1-3, second LN in blocks 4-7
+:
+Specimen B. is received unfixed labeled right breast biopsy. The
+specimen is received in a Transpec container and consists of yellow and
+red piece of soft tissue measuring 8.5 by 7.5 by approximately 3 cm.
+The external surface of the specimen is inked as indicated below.
+Anterior: Red
+Posterior: Orange
+Lateral: Blue
+Medial: Green
+Superior: Yellow
+Inferior: Black
+There is a relatively central mucinous appearing firm tumor measuring
+2.2 x 2.5 by approximately 2.5 cm. A portion of the specimen is taken
+for research purposes as requested. Sections after fixation. RS13
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Duai/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials
+QUALIFILES
+Date Reviewed:
+tw
+Yes
+No
+DISQUALIFIED

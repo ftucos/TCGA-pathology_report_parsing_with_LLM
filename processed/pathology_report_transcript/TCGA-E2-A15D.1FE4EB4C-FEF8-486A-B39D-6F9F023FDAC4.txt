@@ -1,0 +1,167 @@
+TSS:
+ICD-0-3
+Carcinoma infiltrating duct, Nos
+850013
+12/8/10
+سو
+Site Code: breast,
+Nos
+C50.9
+SPECIMENS:
+A. RIGHT BREAST CANCER
+B. SENTINEL L.N. #1 RIGHT AXILLA
+C. SENTINEL L.N. #2 RIGHT AXIL;LA
+D. SENTINEL L.N. #3 RIGHT AXILLA
+E. SENTINEL L.N. #4 RIGHT AXILLA
+SPECIMEN(S):
+A. RIGHT BREAST CANCER
+B. SENTINEL L.N. #1 RIGHT AXILLA
+C. SENTINEL L.N. #2 RIGHT AXIL;LA
+D. SENTINEL L.N. #3 RIGHT AXILLA
+E. SENTINEL L.N. #4 RIGHT AXILLA
+GROSS DESCRIPTION:
+A. RIGHT BREAST CANCER
+UUID:1FE4EB4C-FEF8-486A-B39D-6F9F023FDAC4
+TCGA-E2-A15D-01A-PR
+Redacted
+Received fresh labeled with the patient's identification and "right breast needle localization" is a previously inked 53g,
+6 x 5 x 4cm needle localized lumpectomy with radiograph. Ink code: anterior-yellow, posterior-black, superior-blue,
+inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from lateral to medial into 8 slices revealing
+a 2.5 x 2.3 x 1.5cm tan white firm well circumscribed mass, 0.6cm from the closest inferior margin in slices 2-7. A
+surgical clip is identified in slice 5. A portion of the specimen is submitted for tissue procurement. Representatively
+submitted:
+A1-A2: lateral margin slice 1
+A3-A5: slice 2
+A6-A8: slice 3
+A9-A15: slice 4
+A16: slice 5 with clip ID
+A17-A18: slice 6
+A19-A20: slice 7
+A21: medial margin
+B. SENTINEL L.N. #1 RIGHT AXILLA
+Received fresh is a tan pink lymph node 1.2 x 1 x 1cm. The specimen is sectioned and a touch prep is taken. Toto
+B1.
+C. SENTINEL L.N. #2 RIGHT AXILLA
+Received fresh is a tan pink lymph node 0.8 x 0.6 x 0.5cm. The specimen is bisected and a touch prep is taken. Toto
+C1.
+D. SENTINEL L.N. #3 RIGHT AXILLA
+Received fresh is a tan pink lymph node 1.2 x 1 x 0.8cm. The specimen is bisected and a touch prep is taken. Toto
+D1.
+E. SENTINEL L.N. #4 RIGHT AXILLA
+Received fresh is a tan pink lymph node 1.4 x 1 x 0.6cm. The specimen is bisected and a touch prep is taken. Toto
+E1.
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 1, MEASURING 2.2-CM
+-
+INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, CRIBRIFORM TYPE WITH CENTRAL
+NECROSIS
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- DCIS PRESENT WITHIN 0.15-CM FROM INFERIOR SURGICAL RESECTION MARGIN
+- BIOPSY SITE CHANGES WITH FIBROSIS AND GRANULATION TISSUE
+- SEE SYNOPTIC REPORT.
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODE, SENTINEL #3, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+E. LYMPH NODE, SENTINEL #4, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes - For mass
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+2.2cm
+Tumor Site: Not specified
+Margins:
+Negative
+Distance from closest margin:
+0.4cm
+inferior
+Tubular Score: 2
+Nuclear Grade:
+2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade: 1
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+None identified
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Negative 0/4
+DCIS present
+Margins uninvolved by DCIS 0.15-cm from inferior
+DCIS Quantity: Estimate 30%
+DCIS Type: Cribriform
+DCIS Location:Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 NO
+CLINICAL HISTORY:
+None provided.
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer.
+INTRAOPERATIVE CONSULTATION:
+A. GROSS EXAMINATION: Right breast- mass is 2.5cm and 0.6cm from the closest inferior margin. Diagnosis called
+to Dr. at
+by Dr.
+TPB-TPC-TPD-TPE: SLN #1-4: Negative for carcinoma. Diagnosis called to Dr. at
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+17
+by Dr.
+CLINICAL EXPERIENCE: Patients with a recurrence score of: 17 in the clinical validation study had an average
+rate of Distant Recurrence at 10 years of 11%
+ER Score: 9.8 Positive
+PR Score: 8.4 Positive
+Her2 Score: 9.5 Negative
+Interpretation:
+ER
+Negative <6.5
+Positive >= 6.5
+PR
+Negative < 5.5
+Positive >= 5.5
+Her2 Negative <10.7 Positive >=11.5
+Equivocal = 10.7 - 11.4
+See separate
+Test performed at:
+report for further information.
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Patholict
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+.riteria
+Diagnosis Discrepancy
+'rimary Turnor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Prinary Noted
+ase is (Lircle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DSQUALLY
+Yes
+No

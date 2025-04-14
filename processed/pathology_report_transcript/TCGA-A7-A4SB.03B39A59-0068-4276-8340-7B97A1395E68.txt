@@ -1,0 +1,163 @@
+UUID:03B39A59-0068-4276-8340-7B97A1395E68
+TCGA-A7-A4SB-01A-PR
+Redacted
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A.
+Right axillary sentinel node, excisional biopsy:
+1 of 2 lymph nodes positive for micrometastatic lobular carcinoma
+(
+0.98mm)
+B.
+Right breast excisional biopsy:
+Invasive lobular carcinoma, grade 2, tumor size 5.3 cm
+Invasive carcinoma is present at posterior and inferior/medial margins
+and less than 1 mm from 
+the anterior margin.
+Suspicious for lymphatic space invasion
+Microscopic Description:
+Microscopic examination performed.
+A. Microscopic examination of the sentinel lymph nodes involve the
+evaluation of 6 
+H&E-stained sections through the smaller lymph node and
+12 H&E stained sections 
+through the larger lymph node. Multiple
+cytokeratin 
+stains were also evaluated including 1 cytokeratin stain
+from each tissue block.
+Micrometastatic tumor was identified by pancytokeratin AE1/AE3
+immunohistochemical 
+stain of block A2. A total of 69 cells. The
+largest cluster measures 0.98 mm by ocular micrometer measurement
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific 
+reagents. These antibodies are monitored and
+controlled 
+in our laboratory and their performance for in vitro
+diagnosis 
+is well described in the medical literature.
+been cleared or approved by the FDA.]
+They have not
+B. Microscopic examination of the right breast lumpectomy specimen is
+summarized in the template 
+below:
+Invasive Carcinoma:
+Histologic type: Invasive lobular
+Histologic grade: 2
+Architectural score: 3
+Overall grade:
+Nuclear score: 2
+Mitotic score: 1
+1CD-0-3
+carcinoma, infiltrating lobule, NOS
+Site: breast, Nos C50.9
+852013
+lw
+10/27/12
+Greatest dimension (PT): 5.3 cm.
+The adjacent anterior
+nodule microscopically connects with the larger tumor and is not
+changed the 
+overall greatest dimension (PT3)
+Specimen margins: Invasive lobular carcinoma is identified at
+inked at the posterior margin (B7) and the inferior margin, medial
+aspect (B10). 
+Invasive lobular carcinoma is less than 1 mm from the
+resection 
+margin designated anterior. And 2 mm from the resection
+margin designated 
+superior.
+Vessel invasion: Focal areas suspicious for lymphovascular
+space invasion 
+are identified 
+in B 10
+Calcification: Not identified
+Ductal carcinoma in situ: None
+Description of non-tumorous breast: Dense fibrosis
+Comments: Core biopsy site changes are identified.
+site changes are directly at the posterior margin.
+The core biopsy
+Prognostic markers: Performed on the prior core biopsy
+Specimen
+A. Right axillary sentinel node
+B. Breast biopsy
+Clinical Information
+Right breast cancer,
+year-old white female with breast cancer
+Gross Description
+A. Received fresh and subsequently fixed in formalin labeled "right
+axillary sentinel node" is a 4.5 x 4.0 x 2.2 cm aggregate 
+of yellow
+lobular fatty tissue fragment which are palpated to identify 
+2 
+possible
+lymph nodes measuring 3.7 cm and 2.5 cm in greatest 
+dimension. The
+lymph nodes are sectioned and entirely submitted 
+as follows: 
+1-2-
+smaller lymph node bisected, 3 - 6 - larger lymph node 
+sectioned. 
+The
+remainder of the fat is retained and the lymph nodes are 
+entirely
+submitted.
+and
+B. Received fresh and subsequently fixed in formalin labeled "breast
+12 x 8 x 4 cm yellow 
+lobular 
+fatty
+biopsy" in a Transpec container is a
+tissue fragment. The specimen is received in pathology at
+The specimen has 4 inserted needle
+fixed in formalin at
+localization wires. The specimen has a long suture designating anterior
+and a short suture designating superior. The specimen is inked 
+as
+follows: Anterior red, superior blue, posterior black, 
+inferior 
+green,
+lateral orange and medial yellow. The specimen is sectioned 
+to show a
+5.3 x 4.0 x 1.7 cm white-tan ill circumscribed firm 
+lesion which may
+grossly involve the inferior posterior margin. The remainder 
+of the 
+cut
+surface is predominantly fatty with scanty fibrous tissue 
+present.
+There is a 1.4 x 1.0 x 1.0 cm white-tan ill 
+circumscribed firm 
+nodule
+adjacent and possibly involving the anterior margin this is grossly
+contiguous with the previously described larger lesion
+. No other
+Representative 
+portions 
+of
+discrete gross lesions are identified.
+tumor and normal breast tissue are submitted for tissue procurement as
+requested. Representative sections of the specimen are submitted 
+as
+follows: 1 - cruciate medial margin, 2 - cruciate lateral 
+margin, 3 
+- 4
+full thickness composite of anterior lesion to posterior 
+margin, 5-
+representative superior margin, 6 - 10 - representative section 
+of
+tumor with additional margins.
+riteria
+Diagnosis Discrepancy
+rimary Turnor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Preary Noted
+ase is (circle):
+leviewer Initial
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+No
+10/27/12

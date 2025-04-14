@@ -1,0 +1,32 @@
+ICD-0-9
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: Breast, NoOS
+050.9
+Diagnosis:
+Moderately differentiated invasive ductal breast carcinoma with a diameter of 2.2 cm
+extending cranially to within 5 mm of the resection margin at 3 and 
+12 o'clock. 
+Normal
+follow-up resection material and tumor-free sentinel lymph 
+nodes.
+Tumor classification:
+M-8500/3, G2, pT2, pN 0 (sn), MX, R0.
+UUID:1E002C47-CEC6-491C-9E67-8289687D5B66
+TCGA-AB-A09C
+-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is cle
+Revieweni
+QUALIFIED
+Date Reviewed:
+Redacted
+Yes
+NOL
+DISQUALIFIED
+1/21/11
+for

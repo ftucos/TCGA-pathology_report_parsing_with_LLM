@@ -1,0 +1,363 @@
+Clinical Diagnosis & History:
+Patient with right breast mass, suspicious MMG, FNA positive adenocarcinoma.
+Specimens Submitted:
+1: SP: Sentinel node #231, level 1, right axilla
+2: 
+SP: Sentinel node #232, level 2, right axilla
+3: 
+SP: Sentinel node %233, level 2, right axilla
+4: SP: Right breast cancer
+5: SP: Posterior margin. right breast
+6: SP: Anterior medial margin, right breast
+7: SP: Non-sentinel tissue, right axilla'
+DIAGNOSIS:
+1)
+SENTINEL LYMPH NODE #1, LEVEL I, RIGHT AXILLA; BIOPSY:
+THREE 
+BENIGN LYMPH NODES (0/3).
+- DEEPER LEVEL RECUTS AND SPECIAL STAINS (AE1:AE3 AND CAM 5.2) ARE ALSO
+NEGATIVE 
+FOR METASTASIS.
+2)
+SENTINEL LYMPH NODE #2, LEVEL II, RIGHT AXILLA; BIOPSY:
+TWO 
+BENIGN LYMPH NODES (0/2).
+DEEPER LEVEL RECUTS AND SPECIAL STAINS (AE1:AE3 AND CAM 5.2) ARE ALSO
+NEGATIVE 
+FOR METASTASIS.
+3)
+SENTINEL LYMPH NODE #3, LEVEL II, RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+DEEPER LEVEL RECUTS AND SPECIAL STAINS (AE1:AE3 AND CAM 5.2) ARE ALSO
+NEGATIVE 
+FOR METASTASIS.
+4)
+BREAST, RIGHT; EXCISION:
+- INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC GRADE III/III (SLIGHT
+OR NO 
+TUBULE FORMATION), 
+NUCLEAR GRADE III/III (MARKED VARIATION IN SIZE AND
+SHAPE), MEASURING 4.0 CM IN LARGEST DIMENSION GROSSLY.
+- NO DUCTAL CARCINOMA IN SITU (DCIS) IS IDENTIFIED.
+- NO CALCIFICATIONS ARE IDENTIFIED IN THE INVASIVE CARCINOMA.
+- NO VASCULAR INVASION IS NOTED.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY INVASIVE CARCINOMA IS
+IDENTIFIED.
+THE NON-NEOPLASTIC BREAST TISSUE IS UNREMARKABLE.
+THE TUMOR IS NEGATIVE FOR ER, PR, AND HER2-NEU (STAINING INTENSITY OF 0).
+PATH
+REPORT
+** Continued on next page
+UUID:03526CFD-0C3E-4ACB-AB26-3E0B0ED0ADA2
+TCGA-AO-A128-01A-PR
+Redacted
+1
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site. breast, NoS
+050.9
+lu 10/22/11
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted.
+Casc is (circle):
+Peviewer Initials
+UALIFIED
+Date Reviewed:
+DISQUALIFIED
+10/22/11
+5)
+6)
+7)
+BREAST, RIGHT, POSTERIOR MARGIN; EXCISION:
+- FIBROADIPOSE TISSUE.
+- NO TUMOR SEEN.
+BREAST, RIGHT, ANTERIOR MEDIAL MARGIN: EXCISION:
+FIBROCYSTIC CHANGES.
+SCLEROSING ADENOSIS.
+- FLORID DUCTAL HYPERPLASIA.
+MICROCALCIFICATIONS IN BENIGN DUCTS.
+NON-SENTINEL LYMPH NODE, RIGHT AXILLA; BIOPSY:
+- NINE BENIGN LYMPH NODES (0/9).
+Page 2 of 5
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out
+Special Studies:
+Result
+***
+Special Stain
+AE1:AE3
+CAM 5.2
+IMM RECUT
+NEG CONT
+AE1:AE3
+CAM 5.2
+IMM RECUT
+NEG CONT
+AEL:AE3
+CAM 5.2
+IMM RECUT
+NEG CONT
+ER-C
+PR-C
+HER2-C
+AE1:AE3
+CAM 5.2
+S-100
+HMB-45
+A103
+CD30 BERH2
+CD45 (LCA)
+ALK
+Berep4
+IMM RECUT
+NEG CONT
+NEG-HER2
+P53
+IMM RECUT
+NEG CONT
+** Continued on next page **
+Comment
+PATH
+REPORT
+て
+Gross Description:
+3
+Page 3 of 5
+1)
+The specimen is received fresh for frozen section diagnosis, labeled.
+"Sentinel node #1, level 1, right axilla". It consists of one lymph node,
+measuring 2.0 x 0.4 x 0.2 cm. It was bisected and entirely submitted.
+Summary of Sections:
+FSC frozen section control
+2)
+The specimen is received fresh for frozen section diagnosis, labeled,
+"Sentinel node #32, level 2, right axilla". It consists of one lymph node,
+measuring 1.0 x 0.3 x 0.2 cm. The lymph node is bisected and entirely
+submitted for frozen evaluation.
+Summary of Sections:
+FSC
+frozen section control
+3)
+The specimen is received fresh for frozen section diagnosis, labeled,
+"Sentinel node #233, lovel 2, right axilla". It consists of one lymph node,
+measuring 0.8 × 0.2 x 0.2 cm. The lymph node is bisected and entirely
+submitted for frozen evaluation.
+Summary of Sections:
+FSC frozen section control
+4)
+The specimen is received fresh for frozen section diagnosis, labeled,
+"Right breast cancer, (long stitch lateral and short superior)". It
+consists of a segment of soft yellow fatty tissue, measuring 12.0 x 12.5 x
+4.5 cm. A long and short stitch are identified designating the superior and
+lateral margins. The specimen is inked as follows: posterior-black,
+anterior-yellow, superior-blue, and inferior-red. The specimen is serially
+sectioned and a cut-surface revealed a well-circumscribed soft tan to yellow
+tumor mass, measuring 4.0 x 2.5 x 2.5 cm. This is located 1.5 cm from the
+anterior margin and 1.0 cm from the posterior margin, 2.5 cm from the
+superior margin and 2.0 cm from the inferior margin, 6.0 cm from the medial
+margin and 2.0 cm from the lateral margin. The remaining breast is soft
+yellow fatty tissue with irregular fibrosis. No other separate lesion is
+identified. Representative tissue is submitted for frozen evaluation and
+representative sections are submitted.
+Summary of Sections:
+frozen section control
+FSC
+LM
+lateral margin
+MM
+medial margin
+AM
+anterior margin
+PM posterior margin
+SM
+superior margin
+IM
+inferior margin
+PATH
+REPORT
+** Continued on next page **
+"
+tumor mass with surrounding tissue
+R
+representative sections of the breast
+4
+Page 4 of 5
+5)
+The specimen is received fresh, labeled, "Posterior margin, right
+breast, 
+(stitch marks new margin to ink) "
+.
+soft yellow 
+fatty tissue, measuring 10.0 x 2.2 x 0.8 cm.
+It 
+consists 
+of one segment of
+noted on one side of the 
+specimen, which is inked black.
+A black suture is
+serially sectioned and 
+cut-surfaces revealed a
+The specimen is
+No tumor is 
+identified.
+soft yellow to tan tissue.
+The entire specimen is submitted.
+Summary of Sections:
+0 - undesignated
+6)
+The specimen is received fresh, labeled, "Anterior medial margin,
+right 
+breast, (stitch marks new margin 
+to ink)".
+of soft yellow 
+to tan tissue, measuring 3.0 x 3.0 x 2.0 cm.
+It consists 
+of one segment
+containing dark-colored 
+fluid is identified.
+Multiple cysts
+specimen 
+is inked black.
+The suture site of the
+The specimen is serially sectioned.
+revealed a soft tan to yellow tissue with multiple cysts.
+A cut-surface
+identified. The entire 
+specimen is submitted.
+No firm mass is
+Summary of Sections:
+σ - undesignated
+7)
+The specimen is received in formalin, labeled, "Non-sentinel tissue,
+right 
+axilla". It consists of multiple 
+pieces of irregular tan to yellow
+fatty tissue. The aggregate measured 4.5 x 
+3.0 x 0.8 cm.
+revealed multiple 
+soft tan lymph node with a sizes ranging from 0.3 to 0.9
+Dissection
+cm. The entire lymphoid tissue is submitted
+.
+Summary of Sections:
+U
+undesignated
+Summary of Sections:
+Part 1:
+SP: Sentinel node #1, level 1, right axilla
+Block
+1
+Part 2:
+Block
+1
+Sect. Site
+FSC
+PCs
+2
+SP: Sentinel node #2, level 2, right axilla
+Sect. Site
+FSC
+PCs
+2
+** Continued on next page **
+PATH
+REPORT
+Part 3:
+SP: Sentinel node #3, level 2, right axilla
+Block
+1
+Sect. Site
+FSC
+PCs
+2
+Part 4:
+SP: Right breast cancer
+Block
+Sect. Site
+1
+AM
+1
+FSC
+1
+IM
+1
+LM
+1
+MM
+1
+PM
+7
+R
+1
+6
+SM
+T
+PCs
+I
+1
+1
+1
+1
+1
+7
+1
+6
+Part 5:
+SP: Posterior margin, right breast
+Block
+6
+Sect. Site
+U
+PCs
+10
+Part 6:
+Block
+7
+Part 7:
+Block
+4
+SP: Anterior medial margin, right breast
+Sect. Site
+U
+PCs
+8
+SP: Non-sentinel tissue, right axilla i
+Sect. Site
+U
+PCs
+10
+Page 5 of 5
+51
+Intraoperative Consultation:
+Note:
+1)
+The diagnoses given in this section pertain only to the
+tissue sample 
+examined at the time of the intraoperative
+consultation.
+FROZEN SECTION DIAGNOSIS: BENIGN.
+PERMANENT DIAGNOSIS:
+SAME.
+2)
+FROZEN SECTION DIAGNOSIS: BENIGN.
+PERMANENT DIAGNOSIS:
+SAME.
+3)
+FROZEN SECTION DIAGNOSIS: BENIGN.
+PERMANENT DIAGNOSIS:
+SAME.
+4)
+FROZEN SECTION DIAGNOSIS: INVASIVE CARCINOMA.
+PERMANENT DIAGNOSIS:
+SAME.
+PATH
+REPORT
+**End of Report **

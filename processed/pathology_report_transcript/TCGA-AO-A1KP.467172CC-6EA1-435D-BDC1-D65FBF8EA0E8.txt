@@ -1,0 +1,286 @@
+Clinical Diagnosis & History:
+y/o female with multicentric invasive CA of left breast (2 foci, at 3:00
+and 5:00). For left total mastectomy, SLNB, possible ALND.
+Specimens Submitted:
+1: SP: Sentinel node #1, level 1, 1t. axilla (fs)
+2: SP: Sentinel node #2, level 1, It. axilla (fs)
+3: SP: Non sentinel tissue, It. axilla (
+4: SP: Lt. total mastectomy
+DIAGNOSIS:
+1)
+NOTE:
+LYMPH NODE, SENTINEL #1. LEVEL 1, LEFT AXILLA; EXCISION:
+- ONE LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA (1/1) (SEE NOTE).
+- THE METASTATIC FOCUS MEASURES 0.3 CM.
+- EXTRANODAL EXTENSION IS IDENTIFIED.
+THE METASTATIC TUMOR IS NOT PRESENT ON THE FROZEN SECTION SLIDE AND
+APPEARS ONLY ON THE DEEPER PERMANENT SECTION.
+2)
+3)
+4)
+LYMPH NODE, SENTINEL #2, LEVEL I, LEFT AXILLA; EXCISION:
+ONE BENIGN LYMPH NODE (0/1).
+LYMPH NODE, NON-SENTINEL TISSUE, LEFT AXILLA; EXCISION:
+- ONE BENIGN LYMPH NODE (0/1).
+BENIGN FIBROADIPOSE TISSUE.
+OTAL
+BREAST, LEFT: TOTAL MASTECTOMY:
+- MULTIPLE FOCI OF INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC
+GRADE II/III (MODERATE TUBULE FORMATION), NUCLEAR GRADE II/III (MODERATE
+VARIATION IN SIZE AND SHAPE), RANGING IN SIZE FROM 0.3 CM UP TO 1.8 CM.
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID AND
+MICROPAPILLARY TYPES WITH
+INTERMEDIATE NUCLEAR GRADE AND MODERATE
+NECROSIS.
+THE DCIS CONSTITUTES <* 25% OF THE TOTAL TUMOR MASS, AND IS PRESENT
+ADMIXED WITH THE
+INVASIVE COMPONENT.
+"
+THE INVASIVE CARCINOMA IS LOCATED IN THE LOWER INNER QUADRANT AND THE
+AREA BETWEEN THE
+LOWER OUTER QUADRANT AND LOWER INNER QUADRANT.
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA
+IS IDENTIFIED.
+** Continued on next page **
+UUID:467172CC-6EA1-435D-BDC1-D65FBF8EASES
+TCGA-AO-A1KP-01A-PR
+ICD-0-3
+Redacted
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site breast, Nos
+050.9
+2/16/11
+Criteria
+Diagnos's Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Reviewer Initials
+Case is (circle):
+Yes
+No
+* QUALIFIED / DISQUALIFIED
+Date Reviewed:
+tw
+K
+سلام
+Page 2 of 5
+- CALCIFICATIONS ARE PRESENT IN BOTH THE IN SITU AND INVASIVE
+CARCINOMA.
+- VASCULAR INVASION IS PRESENT.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+- THE ATTACHED SKELETAL MUSCLE IS NEGATIVE FOR TUMOR.
+- THE NON-NEOPLASTIC BREAST TISSUE SHOWS APOCRINE METAPLASIA AND
+COLUMNAR CELL
+ALTERATION.
+- RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Gross Description:
+Special Stain
+ER-C
+PR-C
+HER2-C
+NEG CONT
+IMM RECUT
+NEG-HER2
+Comment
+1)
+The specimen is received fresh for frozen section, labeled "Sentinel
+Node #1 Level 1 Left Axilla". It consists of a 1 x 1 x 0.6 cm lymph node.
+The lymph node is bisected and entirely frozen.
+Summary of Sections:
+FSC
+"
+frozen section control
+2)
+The specimen is received fresh for frozen section, labeled "Sentinel
+Node #2 Level 1 Left Axilla". It consists of a 1 x 0.7 × 0.6 cm tan lymph
+node. The lymph node is bisected and entirely frozen.
+Summary of Sections:
+FSC
+frozen section control
+3)
+The specimen is received in formalin, labeled "Non-sentinel Tissue
+** Continued on next page
+Page 3 of 5
+Left Axilla". It consists of two fragments of adipose tissue measuring 1.5
+x 1 x 0.5 cm and 3 x 1.5 x 1 cm. Two possible tan lymph nodes measuring 0.2
+and 0.8 cm in greatest dimension are identified. The specimen is entirely
+submitted.
+Summary of Sections:
+LN- lymph node
+BLN bisected lymph node
+F
+remainder of fat
+4)
+The specimen is received fresh, labeled "Left Total Mastectomy
+(stitch marks axillary aspect) *. It consists of a breast measuring 28 x 27
+x 
+4.5 cm and 
+weighing 1,750 grams. A suture designates the axillary aspect
+of the specimen. Identified on the anterior surface is a light tan skin
+ellipse measuring 24 x 12 cm. No scars are identified on the epidermal
+surface. A grossly unremarkable nipple measuring 0.7 x 0.5 × 0.3 cm is
+identified. The entire deep resection margin is inked. Identified on the
+deep aspect is a 6 x 2.5 x 2 cm defect near the axillary aspect of the
+specimen. Serial sections through the specimen reveal two distinct tumor
+masses in the lower inner quadrant and one separate tumor mass between the
+lower inner and lower outer quadrants. The two masses in the lower inner
+quadrant are fairly well-circumscribed, firm, spiculated with focal areas of
+necrosis and measure 2 x 1 x 1 cm and 1.3 x 1 x 1 cm. The larger tumor mass
+is at a distance of 4 cm from the closest deep resection margin and 2 cm
+from the closest superficial resection margin, The smaller tumor mass in
+the lower inner quadrant is at a distance of 5 cm from the closest deep
+resection margin and 4 cm from the closest anterior resection margin. The
+tumor mass located between the lower inner and lower outer quadrants is
+well-circumscribed, firm, tan and measures 0.7 x 0.5 x 0.5 cm and is located
+at a distance of 5 cm from the closest deep resection margin. The remainder
+of the parenchyma is comprised of approximately 5% tan-white fibrous tissue
+and 95% yellow-tan adipose tissue. A portion of the largest tumor is
+submitted for TPS studies. The tumors are entirely submitted.
+Representative sections from the remainder of the specimen are submitted.
+Summary of Sections:
+N nipple
+larger tumor in the lower inner quadrant
+smaller tumor in the lower inner quadrant
+deep margin closest to larger tumor
+s
+skin
+TL
+TS
+DL
+AL
+DS
+AS
+anterior margin closest to larger tumor
+deep margin closest to smaller lower inner quadrant tumor
+anterior margin closest to smaller lower inner quadrant tumor
+TIO tumor between lower inner and lower outer quadrant
+D
+deep margin closest to tumor between lower inner and lower outer
+quadrants
+AM - anterior margin closest to tumor between lower inner and lower outer
+quadrants
+UOQ - upper outer quadrant
+-
+LIQ
+-
+LOQ lower outer quadrant
+UIQ upper inner quadrant
+lower inner quadrant
+** Continued on next page
+Summary of Sections:
+Part 1:
+Block
+1
+SP: Sentinel node #1, level 1, 1t. axilla (fs)
+Sect. Site
+Esc
+PC3
+1
+Part 2:
+Block
+1
+Part 3:
+Block
+1
+2
+1
+SP: Sentinel node #2, level 1, 1t. axills (fs)
+Sect. Site
+Esc
+PCS
+1
+SP: Non sentinel tissue, It. axilla
+Sect. Site
+BLN
+k
+LN
+Part 4: SP: Lt. total mastectomy
+Block
+Sect. Site
+1
+1
+AM
+1
+AS
+D
+1
+DL
+1
+DS
+LIQ
+LOQ
+N
+S
+TIO
+TL
+TS
+2
+2
+UIQ
+UOQ
+ឌឹ ង ≥ 12 = ដ ឌ ឌី ទី = ២ ដំ ដ ឌ ដី ខ្លី
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+PCs
+2
+4
+1
+PCs
+1
+1
+1
+1
+1
+1
+2
+2
+4
+1
+12
+4
+2
+2
+Status: Signed Out
+By:
+** Continued on next page **
+Page 4 of 5
+Page 5 of 5
+SITE: BREAST, LEFT. TOTAL MASTECTOMY
+PART #4.
+ER:
+PR:
+POSITIVE (ABOUT 80% OF NUCLEAR STAINING WITH STRONG INTENSITY).
+POSITIVE (ABOUT 40% OF NUCLEAR STAINING WITH STRONG INTENSITY).
+HER2/NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 1+).
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+issue sample examined at the time of the intraoperative
+consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SEE FINAL DIAGNOSIS.
+2)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SAME.
+**End of Report **

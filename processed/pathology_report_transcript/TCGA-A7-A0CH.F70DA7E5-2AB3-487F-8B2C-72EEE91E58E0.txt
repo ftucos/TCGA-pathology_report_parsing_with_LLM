@@ -1,0 +1,120 @@
+UUID:F70DA7E5-2AB3-487F-8B2C-72EEE91E58E0
+TCGA-A7-A0CH-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS
+050.9
+1w 9/3/11
+Sentinel node left breast
+SPECIMEN
+A.
+B.
+Left breast
+C. Left sentinel node
+CLINICAL NOTES
+PRE-OP DIAGNOSIS: Left breast cancer
+FROZEN SECTION DIAGNOSIS
+A. Benign on frozen section.
+C. Benign on frozen section.
+GROSS DESCRIPTION
+node
+A. Received fresh in a container labeled "A. sentinel
+left breast" is a portion of soft to rubbery tissue, 2.6 x
+2 x 0.7 cm. Externally much of the specimen is fatty. On cut
+surface, there is some tan-pink lymph node tissue, with prominent
+fat replacement. The specimen is entirely submitted for frozen
+section in three blocks.
+B. Received fresh in a container labeled "left breast" is
+a 33 x 16 x 3.5 cm mastectomy specimen, partially surfaced
+by a 20 x 11 cm tan-pink wrinkled skin ellipse, with a 1.6 cm in
+diameter everted nipple. There is no gross lesion on the skin
+surface. There is an arrow indicating superior. The deep aspect of
+the specimen is inked and the specimen is serially sectioned,
+revealing a 3.3 x 3.3 × 2 cm tan-white firm indurated mass which is
+1.3 cm from the deep margin. The mass is located centrally but
+slightly laterally, with the closest margin the aforementioned deep
+margin, with the tumor not grossly near a margin. The specimen
+outside the mass lesion consists of yellow adipose tissue with
+interspersed tan-white tissue, without additional focal lesion. No
+lymph nodes are identified with the breast. RS-10.
+GROSS DESCRIPTION
+BLOCK SUMMARY: B1, B2
+deep to tumor; B4-B6
+entire nipple, and skin; B3 - deep margin
+tumor (sections do not include margin); B7 -
+inner upper quadrant; B8 - inner lower quadrant; B9 outer lower
+quadrant; B10 outer upper quadrant.
+-
+-
+C. Received fresh in a container labeled "left sentinel
+node" is a portion of soft to rubbery tan-yellow tissue, 2
+x 1.5 x 0.7 cm. On cut surface, the specimen is predominantly
+fatty,
+with some identifiable tan-pink lymph node tissue. It is entirely
+submitted for frozen section in two blocks.
+MICROSCOPIC DESCRIPTION
+part
+In
+A,C. The lymph nodes are negative for malignancy.
+addition to examining serial H&E stained sections,
+immunostains with antibodies to keratin (AE1/AE3) are examined,
+without specific staining, supporting the interpretation that the
+lymph nodes are negative for malignancy.
+B. The following template summarizes the findings in this
+part:
+Invasive carcinoma: Present in the mass lesion in the breast in
+B
+Histologic type: Invasive ductal carcinoma
+Histologic grade:
+Overall grade: 1
+Architectural score: 2
+Nuclear score: 2
+Mitotic score: 1
+MICROSCOPIC DESCRIPTION
+Greatest dimension (PT): 3.3 cm (pT2)
+Specimen margins: Negative for tumor
+Vessel invasion: Not identified
+Calcification: Present focally
+Nipple: Negative for tumor
+Invasion of skin or chest wall: Not identified
+Ductal carcinoma in situ: Present very focally, with the vast
+majority of the carcinoma in this specimen invasive carcinoma.
+Histologic pattern: Cribriform
+Nuclear grade: 1-2
+Central necrosis:
+Specimen margins:
+Absent
+Negative
+Calcification: Not identified within DCIS
+Description of non-tumorous breast:
+Fibrocystic changes.
+Prognostic markers: Previously performed on a prior specimen at an
+outside institution.
+4x3, 14x2, 15x3,20x5
+DIAGNOSIS
+A, C.
+B.
+Lymph nodes, left sentinel, excisions
+Negative for malignancy.
+Breast, left, excision
+-
+Invasive ductal carcinoma (see microscopic description).
+Skin, nipple, and margins negative for malignancy.
+M.D.
+(Electronic Signature)
+End Of Report
+Yes
+No,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy.
+HIPAA Discrepancy.
+Por Malignancy History
+Dual Syr churous Primary Anted
+Case is (circle):
+Reviver Initials
+GUALIFIED
+✓ DISQUED
+Pete Reviewer
+Aw 9/3/11

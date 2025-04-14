@@ -1,0 +1,118 @@
+UUID:C1B1FAA6-EB15-43BB-B3A3-D11511C76060
+TCGA-A7-A4SF-01A-PR
+Redacted
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Sentinel lymph node, right axilla, biopsy: Two negative lymph
+nodes (0/2).
+B. Breast, right, excisional biopsy:
+Invasive ductal carcinoma, grade 2, size not less than 2.5 cm,
+present at the medial and posterior margins; see microscopic
+description.
+Ductal carcinoma in-situ, grade 2, present at the inferior
+margin.
+Microscopic Description:
+Invasive Carcinoma:
+Histologic type:
+Histologic grade:
+Ductal
+2
+Overall grade: 7/9
+Architectural score: 3
+Nuclear score:
+Mitotic score: 1
+2
+ICD-0-3
+carcinoma, infiltrating duct, NOS 8500/3
+Site: brust, NOS
+Greatest dimension (pT2): Not less than 2.5 cm, and possibly as
+much as 4.0 cm (invasive carcinoma extends away from the main
+tumor mass into the surrounding fat throughout much of the
+specimen).
+Specimen margins: Invasive carcinoma is broadly present at
+the medial and posterior margins.
+Vessel invasion: Not identified
+Calcification: Not identified
+Ductal carcinoma in situ:
+Histologic pattern: Solid, cribriform
+Nuclear grade: 2
+Central Necrosis: Focal
+% DCIS of total tumor (if mixed): 28
+Extensive intraductal component (present/absent): Absent
+Specimen margins: DCIS is at the inferior margin of the
+050.9
+سل
+10/27/12
+specimen
+Calcification:
+Negative
+i
+Comments: Two prior biopsy sites are identified in the mid-portion of
+the specimen. There is a confluence of tumor present microscopically
+between the two 
+apparent masses formed by the tumor, supporting the
+conclusion of a single tumor mass lesion. Additionally, there is
+tumor infiltrating around and beyond the tumor mass areas, into the
+surrounding fat, and to the specimen margins as stated above.
+immunostaining performed to confirm the presence of invasive carcinoma
+p63
+at the 
+margin. E-cadherin performed to exclude LCIS and confirm DCIS
+at the inferior 
+margin.
+Cytokeratin immunostaining performed on two lymph node blocks to
+exclude 
+metastatic carcinoma; stains are negative.
+Prognostic markers: See previous biopsy report
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature.
+been cleared or approved by the FDA.]
+They have not
+Specimen
+A. Right axillary sentinel lymph node
+B. Right breast mass, long anterior, short superior
+procurement
+Clinical Information
+Right breast cancer;
+cancers
+tissue
+year old black female with two side by side
+Gross Description
+A. Received unfixed, labeled right axillary sentinel node, are 2
+lymph nodes, 0.7 and 0.8 cm in greatest dimension each, entirely
+submitted with each lymph node and a separate block (bisected).
+B. Received unfixed, and a transparent container, labeled right
+breast mass, is a 5.5 x 4.3 x 3.0 cm portion of fibroadipose tissue
+with orienting sutures. Margins are inked: Anterior black,
+posterior blue, lateral green, and medial yellow.
+serially sectioned from superior to inferior.
+The specimen is
+There is a 2.5 x 2.5
+x 1.5 cm tumor mass, which is somewhat dumbbell-shaped, but appears
+to consist of one tumor mass. Sections submitted as follows: 1
+superior margin, 2 through 6 superior-most portion of tumor, 7
+through 9 transition area of probable second lobe of tumor mass
+(contiguous sections), 10 breast tissue intervening between tumor
+Portion of tumor and normal
+mass and margin, 11 - inferior margin.
+Additional
+submitted for tissue procurement, as requested.
+sections submitted: RR1 intervening tissue between superior margin
+and tumor; 2-4 additional superior tissue, 5-7 representative
+remaining first half of specimen; 8-14 inferior half of specimen;
+15 additional inferior margin.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Pc History
+C
+'')
+ous Diary Noted
+KUALIFIED
+Date Reviewed:
+DISQUALIRED
+10/27/12

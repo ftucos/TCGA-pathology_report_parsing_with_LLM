@@ -1,0 +1,177 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT
+REG DR:
+SPEC #:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks:
+Specimen(s):
+UUID:79A10C4B-1B5F-47BB-99EA-E694FB341696
+TCGA-LL-A8F5-01A-PR
+Redacted
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+LOC:
+ROOM:
+BED:
+RECD:
+STATUS:
+PERFORMED AT
+COLL:
+TIME IN FORMALIN:
+COLD ISCHEMA TIME:
+A. Right breast lumpectomy
+B. 1st sentinel lymph node
+C. 2nd sentinel lymph node
+MICROSCOPIC DIAGNOSIS
+A. RIGHT BREAST LUMPECTOMY:
+INVASIVE DUCTAL CARCINOMA
+SEE COMMENT FOR DETAILS
+B. FIRST SENTINEL LYMPH NODE:
+TWO REACTIVE LYMPH NODES
+C. SECOND SENTINEL LYMPH NODE:
+ONE REACTIVE LYMPH NODE
+hrs.
+mins.
+PAGE 1
+ICD.0.3
+185003
+Carcinoma inftrating duct Nos
+Site ® Breast Nos
+JJ 4/14/14
+€50.9
+COMMENT(S)
+COLLEGE OF AMERICAN PATHOLOGISTS' PROTOCOL FOR EXAMINATION OF SPECIMENS WITH INVASIVE
+CARCINOMA OF THE BREAST, BASED ON AJCC/UICC TNM. 7TH EDITION
+The following classification should be adjusted based on additional clinical information.
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE:
+TUMOR SIZE:
+HISTOLOGIC GRADE:
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+EXTENT OF TUMOR:
+MARGINS:
+Right breast lumpectomy and sentinel lymph node
+biopsies
+Sentinel lymph nodes
+Right
+Invasive ductal carcinoma
+4 cm
+Tubular differentiation: Score 3
+Nuclear pleomorphism: Score 3
+Mitotic rate: Score 3
+Overall grade: Grade 3
+Single focus of invasive carcinoma
+Indeterminate
+Skin: Uninvolved by invasive carcinoma
+Margins uninvolved by invasive carcinoma
+CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+COMMENT(S)
+LYMPH NODES:
+PATHOLOGIC STAGING:
+PAGE 2
+Specimen Inquiry
+Lab Database:
+(Continued)
+(Continued)
+Distance from closest margin: 6 mm,
+deep/posterior
+Number of sentinel lymph nodes examined: 3
+Total number of lymph nodes examined: 3
+Number of lymph nodes with macrometastasis: 0
+Number of lymph nodes with micrometastasis: 0
+Number of lymph nodes with isolated tumor cells: 0
+Number of lymph nodes without tumor cells
+identified: 3
+Primary tumor: pT2
+Regional lymph nodes: pN0 (i-)
+Distant metastasis: Not applicable
+GROSS DESCRIPTION:
+A. Received fresh in the operating room labeled with the patient's name and "right breast
+lumpectomy" with request for gross evaluation of margins as well as selection of tissue for
+tissue banking is a lumpectomy specimen which weighs 131 grams and measures 9 x 8 x 5 cm.
+It is partially covered by a 9 x 1.5 cm ellipse of dark brown skin. Two sutures orient the
+specimen as follows: long suture is 10:30 and short suture is 4:30. A palpable mass is
+present within the specimen. The tissue surrounding the mass moves easily. The specimen
+is inked as follows: 10:30-4:30 blue, 4:30-10:30 black, 4:30 edge red. 10:30 edge yellow,
+and deep/posterior green. The specimen is serially sectioned revealing a fairly well
+circumscribed grayish-tan mass with hemorrhagic needle tracts which measures 4 cm in
+length, 3 cm in depth, and 3 cm in width. Towards the 4:30 aspect. the tumor has a
+somewhat more lobulated appearance. The margins are negative with the closest
+margin deep which measures 1.5 cm. A portion of the tumor is provided to the tissue bank
+coordinator. The specimen is placed in formalin with sections to be held overnight for
+optimum formalin fixation.
+Al
+A2-A3
+A4
+A5
+A6
+A7
+skin and underlying breast tissue
+the tumor as it most closely approximates to green. inked margin
+tumor as it most closely approximates to blue, inked margin
+additional representative section of tumor
+tumor grossly extending into surrounding ducts
+section of fibrotic area near the red, inked margin
+B. In formalin. labeled with the patient's name and "first sentinel lymph node" is a 2.5 x
+2 x 1 cm ovoid tan lymph node covered by a small amount of adipose tissue. On cross
+section, the node is largely composed of adipose tissue. It is totally submitted in blocks
+B1 through B3 per sentinel lymph node protocol. The specimen was evaluated late in the day
+and is found to be unfixed. It is held for overnight fixation prior to tissue processing.
+C. In formalin, labeled with the patient's name and "second sentinel lymph node" is a 1.5 x
+1.5 x 1 cm ovoid portion of fatty tissue which contains a 1.5 x 1 x 0.5 cm fatty lymph
+node. The lymph node is submitted in block C1 to be held for overnight formalin fixation.
+prior to further tissue processing.
+** CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 3
+(Continued)
+MICROSCOPIC DESCRIPTION:
+The tumor is a well delineated, nodular, necrotic. poorly differentiated carcinoma with
+bizarre nuclei. increased mitotic activity. There is very little tubular differentiation.
+Clinical and radiographic correlation is recommended.
+INTRAOPERATIVE CONSULTATION:
+RIGHT BREAST LUMPECTOMY:
+GROSS TUMOR PRESENT WITH CLOSEST MARGIN DEEP MEASURING 1.5 CM
+TUMOR TISSUE PROVIDED TO TISSUE BANK COORDINATOR
+RESULTS GIVEN TO DR.
+IN OPERATING ROOM AT
+PHOTO DOCUMENTATION
+Image
+Picture Copy Error
+Signed
+(signature on file).
+** END OF REPORT
+**
+Criteria
+Diagnosis Discrepancy
+- 11/3/13.
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+rior bialignancy History
+Cual/Synchronous Prinary Noted
+Case is (cirlej:
+Moviewer In
+CAUFIED/
+Gate Reviewed:
+Yes
+D'SQUALIFIED
+No

@@ -1,0 +1,153 @@
+TSS:
+ICD-0-3
+Carcinoma, infiltrating duct, NOS
+850013
+Site Code: breast, Nos
+12/8/10
+سر
+050.9
+SPECIMENS:
+A. SLN 1 RIGHT AXILLA
+B. SLN 2 RIGHT AXILLA
+C. SLN 3 RIGHT AXILLA
+D. SLN 4 RIGHT AXILLA
+E. RIGHT BREAST
+SPECIMEN(S):
+A. SLN 1 RIGHT AXILLA
+B. SLN 2 RIGHT AXILLA
+C. SLN 3 RIGHT AXILLA
+D. SLN 4 RIGHT AXILLA
+E. RIGHT BREAST
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+UUID:8F708C6E-0262-46EE-8ED2-67E791D5C379
+TCGA-E2-A15R-
+01A-PR
+Redacted
+TPA, Lymph node, sentinel, right axilla, biopsy: Negative for carcinoma
+TPB, Lymph node, sentinel, right axilla, biopsy: Negative for carcinoma
+TPC, Lymph node, sentinel, right axilla, biopsy: Negative for carcinoma
+TPD, Lymph node, sentinel. right axilla, biopsy: Negative for carcinoma
+Diagnoses called at
+by Dr.
+GROSS DESCRIPTION:
+A. SLN 1 RIGHT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number one right axilla"
+is a tan lymph node measuring 2.2 x 1 x 0.8 cm. Touch preparation is performed. Entirely submitted, A1.
+B. SLN 2 RIGHT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number two right axilla"
+is a tan lymph node measuring 1.5 x 1 x 0.8 cm. Touch preparation is performed. Entirely submitted, B1.
+C. SLN 3 RIGHT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number three right axilla"
+is a tan lymph node measuring 0.6 x 0.4 x 0.3 cm. Touch preparation is performed. Entirely submitted, C1.
+D. SLN 4 RIGHT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number four right axilla"
+is a tan lymph node measuring 1 x 0.6 x 0:4 cm. Touch preparation is performed. Entirely submitted, D1.
+E. RIGHT BREAST
+Received fresh labeled with the patient's identification and designated "right breast" is an oriented, 27 g, 5.3 x 4.5 x 3
+cm lumpectomy specimen. The short suture designates superior, long-lateral. Ink code: Anterior-yellow, posterior-
+black, medial-green, lateral-red, superior-blue, inferior-orange. The specimen is serially sectioned from superior to
+inferior into 5 slices to reveal a firm lobulated tan mass, 2.2 x 1.5 x 0.9 cm, located 0.1-cm from the nearest anterior
+margin. The entire specimen is submitted:
+E1-E3: Perpendicular sections superior margin
+E4-E7: Slice 2, E5 demonstrating mass and nearest anterior margin
+E8-E11: Slice 3, E9, E11 demonstrating mass and nearest anterior margin
+E12-E15: Slice 4, submitted entirely
+E16-E18: Perpendicular sections inferior margin
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.3-CM WITH EXTRANODAL
+EXTENSION, SEE NOTE.
+B. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.1-CM WITH EXTRANODAL
+EXTENSION, SEE NOTE.
+C. LYMPH NODE, SENTINEL #3, RIGHT AXILLA, EXCISION:
+-
+• ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODE, SENTINEL #4, RIGHT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.6-CM WITH EXTRANODAL
+EXTENSION, SEE NOTE.
+E. BREAST, RIGHT, WIDE LOCAL EXCISION:
+-INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.9-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID TYPE
+- INVASIVE TUMOR PRESENT 0.15-CM FROM MEDIAL AND 0.1-CM FROM ANTERIOR SURGICAL RESECTION
+MARGINS
+· FOCAL LYMPHOVASCULAR INVASION IDENTIFIED
+- BIOPSY SITE CHANGES WITH FIBROSIS,
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+NOTE: The touch preparation of SLN #1 and 2 shows no tumor cells. Therefore the false negativity is due to
+sampling error. The touch preparation of SLN #4 shows two clusters of atypical cells. Dr. concurs.
+A few clusters branching out and focally separated from the main tumor mass are identified in a close proximity to
+the medial margin (0.15-cm). The main tumor mass is 0.1-cm from the anterior surgical resection margin.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes For mass
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Margins:
+1.9cm
+Negative
+Distance from closest margin:
+Less than 0.15cm
+medial and anterior
+Tubular Score: 3
+Nuclear Grade:
+2
+Mitotic Score: 2
+Necrosis:
+Absent
+Modified Scarff Bloom Richardson Grade:
+Vascular/Lymphatic Invasion:
+2
+Present
+Extent:
+focal
+Lobular neoplasia:
+None
+Lymph nodes: Sentinel lymph node
+Lymph node status:
+Positive 3/4 Extranodal extension
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 5%
+DCIS Type: Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Absent
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+pT 1c N 1
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+year-old female right breast mass, invasive ductal carcinoma on core bx. Right needle localization excision with
+sentinel lymph node biopsy
+PRE-OPERATIVE DIAGNOSIS:
+Carcinoma, right breast
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Te Reviewed:
+CEQUAL TO

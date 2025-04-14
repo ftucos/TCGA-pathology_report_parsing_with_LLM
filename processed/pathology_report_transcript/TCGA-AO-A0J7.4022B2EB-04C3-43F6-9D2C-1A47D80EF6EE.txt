@@ -1,0 +1,401 @@
+Clinical Diagnosis & History:
+Invasive duct carcinoma left breast 5:0 and severe ADH left breast 11:00 (on
+core biopsy); for left total mastectomy
+, SLNB, possible left ALND and
+immediate reconstruction.
+Specimens Submitted:
+1: SENTINEL NODE #1, LEVEL ONE LEFT AXILLA, EXCISION:
+2: SENTINEL NODE #32, LEVEL ONE LEFT AXILLA, EXCISION
+3: NON-SENTINEL NODE, LEFT AXILLA, EXCISION
+4: BREAST, LEFT, SIMPLE MASTECTOMY
+UUID:4022B2EB-04C3-43F6-9D2C-1A47D80EF6EE
+TCGA-AO-A037-01A-PR
+Redacted
+DIAGNOSIS:
+SUMMARY OF FINDINGS IN THIS CASE:
+Invasive ductal carcinoma present as two foci spaning 28 mm and 2 mm and is
+3.6 cm from the closest inked margin.
+The nipple dermis is involved by invasive ductal carcinoma.
+Mucinous carcinoma spans 2.5 mm and does not involve the inked margin.
+All foci of invasive carcinoma (ductal and mucinous) are ER positive, HER2
+negative.
+DCIS is present and is 3.6 cm from the closest inked margin.
+Sentinel lymph nodes: 2/3.
+Non-sentinel lymph nodes: 1/1.
+Total lymph nodes: 3/4.
+Type of metastasis: macrometastasis (6 mm) to an intramammary lymph node
+1.
+SENTINEL NODE #1, LEVEL ONE LEFT AXILLA, EXCISION::
+Sentinel 
+Lymph Node Status:
+Number of Sentinel Lymph Nodes Examined: 1
+Number of Sentinel Lymph Nodes with carcinoma: 1
+Size of Largest Metastatic Focus:
+>= 0.2 mm to =< 2 mm (micrometastasis)
+The metastatic focus spans 0.4 mm
+Level of Detection:
+Initial H&E stained section
+Extracapsular Extension:
+Not present
+2.
+SENTINEL NODE #2, LEVEL ONE LEFT AXILLA, EXCISION:
+** Continued on next page **
+100-0-3
+carcinoma, infiltrating duct and mucinous
+Site: breast, NOS
+C50.9
+852313
+سلام
+10/22/11
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Nialignancy History
+Dual/Synchronous Pinary Not
+Case is (circle):
+Reviewer Initials
+VALIFIED
+DISQUALIFIED
+Date Reviewed: Lak
+10/22/11
+Page 2 of 6
+Sentinel Lymph Node Status:
+Number of Sentinel Lymph Nodes Examined: 1
+Number of Sentinel Lymph Nodes with carcinoma: 1
+Size of Largest Metastatic Focus:
+> 2 m
+The metastatic focus spans 3
+Level of Detection:
+Initial H&E stained section
+Extracapsular Extension:
+3.
+-
+Present, measuring < 2mm in largest diameter
+The metastatic carcinoma is negative for WT1.
+Non-sentinel node, left axilla, excision:
+One benign lymph node (0/1).
+4. BREAST, LEFT, SIMPLE MASTECTOMY:
+Invasive Carcinoma:
+Ductal, NOS type
+Focal mucinous carcinoma (see note)
+Histologic Grade:
+III/III: Minimal or no tubule formation (< 10% of tumor)
+Nuclear Grade:
+Tumor Size:
+III/III (marked variation in size and shape)
+Two foci (size specified below)
+the invasive ductal carcinoma spans 28 mm and 2 mm
+Ductal carcinoma in situ (DCIS):
+Present
+DCIS, Architecture:
+Solid
+Papillary
+DCIS Nuclear Grade:
+High
+Necrosis in DCIS:
+Minimal
+Extensive intraductal component (>25% of tumor mass):
+Not Identified
+Lobular Neoplasia:
+Lobular carcinoma in situ (LCIS), classical type
+Location of Invasive Carcinoma:
+Upper inner quadrant (UIQ)
+Lower inner quadrant (LIQ)
+Location of DCIS:
+Upper inner quadrant (UIQ)
+Lower inner quadrant (LIQ)
+Nipple Involvement:
+Skin:
+Invasive carcinoma involves the nipple stroma
+Tumor emboli are present in dermal lymphatic channels
+The examined skin margins are uninvolved by carcinoma
+Calcification:
+In benign breast tissue
+In invasive carcinoma
+Lymphovascular Invasion:
+** Continued on next page **
+Page 3 of 6
+Present
+Surgical Margins:
+Invasive carcinoma is 36 mm from the closest margin
+DCIS is 36 mm from the closest margin
+Benign Breast Tissue:
+Atypical ductal hyperplasia (ADH)
+Fibrocystic changes, including apocrine metaplasia, cyst formation
+and stromal fibrosis
+Biopsy site changes
+Columnar cell changes
+Lymph Nodes:
+LN Number of lymph nodes with metastatic carcinoma: 1
+Number of lymph nodes examined: 1
+The mass identified in the UOQ at 1:00 is an intramammary lymph
+node, almost entirely replaced by metastaic carcinoma. The metastaic
+carcinoma 
+measures 0.6 cm and is negative for WT1. Results of immunostains
+for calponin 
+and p63 support the diagnosis.
+A 2.5 mm focus of invasive mucinous carcinoma is also identified, with
+nuclear grade II
+/III.
+Immunohistochemical stains were performed on formalin-fixed tissue with the
+following results for
+INVASIVE DUCTAL CARCINOMA
+ESTROGEN RECEPTOR (6F11,
+intensity
+(block 4-5):
+90% nuclear staining with strong
+PROGESTERONE RECEPTOR (1E2;
+negative (no nuclear staining)
+HER2 (4B5,
+Negative (0 / 1+)
+The invasive ductal carcinoma is negative for WT1.
+The smaller focus of invasive ductal carcinoma has similar immunoprofile.
+Positive membranous 
+immunoreactivity for E-cadherin supports ductal
+differentiation.
+MUCINOUS CARCINOMA (block 4-19):
+ESTROGEN RECEPTOR
+intensity
+PROGESTERONE RECEPTOR (
+intensity
+}:
+95% nuclear staining with strong
+95% nuclear staining with strong
+HER2 (
+Negative (0)
+The mucinous carcinoma is positive for WT1.
+Comment:
+Controls are satisfactory.
+PATHWAY anti-HER-2/neu is
+an FDA-approved rabbit monoclonal primary antibody (clone 4B5) directed
+against the internal 
+domain of the c-erbB-2 oncoprotein (HER2) for
+immunohistochemical 
+detection of HER2 protein overexpression in breast
+cancer tissue routinely 
+processed for histologic evaluation. The HER2 test
+results are 
+reported in accordance with the ASCO/CAP guideline
+recommendations for HER2 testing in breast cancer (J Clin Oncol 2007;
+25 (1):118-145).
+The ER and PR rabbit monoclonal antibodies are also FDA
+approved.
+** Continued on next page **
+Page 4 of 6
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER 
+MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+1) The specimen is received fresh for frozen section consultation, labeled
+"sentinel node #231, level one, 
+left axilla" and consists of a single node
+measuring 1 cm. Bisected 
+and entirely submitted for frozen section.
+Summary of sections:
+FSC
+frozen section control
+2) The specimen is received fresh for frozen section consultation, labeled
+"sentinel node #232, level one
+, left axilla" and consists of a single node
+measuring 2.0 cm. Bisected 
+and entirely submitted for frozen section.
+Summary of sections:
+FSC
+frozen section control
+3) The specimen is received fresh for frozen section consultation, labeled
+"non-sentinel node left 
+axilla" and consists of a single fatty node
+measuring 0.7 cm. 
+Bisected and entirely submitted for frozen section.
+Summary of sections:
+FSC frozen section control
+1
+4.) The specimen is received fresh labeled, "Left total mastectomy, suture
+marks axillary aspect" and 
+consists of a previously incised, 24.1 x 19.5 x
+4.6 cm breast with a partially 
+overlying, 11.7 x 3.5 x 0.1 cm skin ellipse.
+Situated centrally on the skin 
+surface is a 1.2 x 1.2 x 0.1 cm, crusty,
+partially inverted, diffusely 
+indurated, nipple with smooth, pink-white
+suspicious cut surfaces 
+surrounded by a 4.7 x 3.4 cm areola.
+tan-white skin 
+is free of any gross abnormalities.
+The wrinkled,
+7.2 x 4.6 
+x 0.5 cm axillary aspect.
+A suture demarcates the
+The posterior surface of the breast is
+inked black, the anterior blue and the axillary aspect is inked yellow. The
+specimen is serially sectioned 
+to reveal a 2.8 x 2.4 x 2.1 cm, firm, lobular
+to fatty infiltrating bordered, 
+pink-white mass, located in the lower inner
+and outer quadrants, from 5 
+o'clock to 7 o'clock, underlying the nipple, 0.5
+cm from the nipple base and 
+3.6 cm from the deep margin, (designated Mass
+#1). The mass grossly appears 
+to be separate from the suspicious indurated
+nipple. Also, 5.9 cm superior 
+and 1.5 cm medial to Mass #1, is a 2.5 x 2.2
+** Continued on next page **
+x 1.3 cm, biopsy site partially surrounded by moderately dense, focally;
+Page 5 of 6
+cystic, nodular and hemorrhagic, 
+white fibrous tissue, located within the
+upper outer quadrant, at 1 
+o'clock, 5.1 cm the nipple and 3.2 cm from the
+deep margin, (designated Biopsy 
+site #1). In addition, partially abutting
+biopsy site #1 is a twist-clip situated within a 2.6 x 1.6 x 1.4 cm
+well-healed biopsy 
+site with a peripherally attached 0.9 x 0.9 x 0.7 cm,
+ovoid, firm, smooth to nodular 
+bordered, white to indigo blue ink-tinged
+mass, located within the 
+upper outer quadrant, at 2 o'clock, 5.5 cm from the
+nipple and 4.2 cm the deep margin (
+designated Biopsy site #2 and Mass #2).
+The remaining breast parenchyma 
+consists of lobules of yellow adipose
+separated by bands of 
+mild to moderately dense, focally nodular and cystic,
+white fibrous tissue. Sectioning of 
+the axillary aspect reveals no grossly
+identifiable lymph nodes. TPS is 
+submitted of Mass #1, per protocol
+Representative sections are submitted. 
+Additional sections are submitted
+following microscopic 
+review of the specimen.
+Summary of sections:
+N - nipple
+NB
+D
+M1
+-
+nipple base
+deep margin
+Mass #1
+BX1
+BX12
+BX2
+Biopsy site #1
+Biopsy sites %231 & #232
+Biopsy site #2
+M2BX2 Mass #2 with Biopsy site #2
+M2
+Mass #2
+UIQ upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ lower outer quadrant
+AD12 skin additional sections, 12 o'clock
+AD3 skin additional sections, 3 o'clock
+AD6 skin additional sections, 6 o'clock
+AD9 skin additional sections, 9 o'clock
+Summary of Sections:
+Part 1: SENTINEL NODE #1, LEVEL ONE LEFT AXILLA, EXCISION:
+Block
+1
+Part 2:
+Block
+1
+Part 3:
+Block
+1
+Sect. Site
+FSC
+PCs
+1
+SENTINEL NODE #32, LEVEL ONE LEFT AXILLA, EXCISION
+Sect. Site
+FSC
+PCs
+1
+NON-SENTINEL NODE, LEFT AXILLA, EXCISION
+Sect. Site
+FSC
+PCs
+1
+** Continued on next page **
+Part 4:
+BREAST, LEFT, SIMPLE MASTECTOMY
+Block
+Sect. Site
+PCs
+1
+AD12
+1
+1
+AD3
+1
+1
+AD6
+1
+1
+AD9
+1
+4
+BX1
+5
+1
+BX12
+1
+1
+BX2
+1
+1
+D
+1
+1
+LIQ
+2
+1
+LOQ
+2
+6
+M1
+6
+M2
+1
+1
+M2BX2
+1
+2
+N
+5
+1
+NB
+1
+1
+UIQ
+2
+1
+UOQ
+2
+Page 6 of 6
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time 
+of the intraoperative consultation.
+1.
+FROZEN SECTION DIAGNOSIS: SP: Sentinel node #31 level 1 left axilla (fs):
+Benign
+2.
+PERMANENT DIAGNOSIS: SEE FINAL DIAGNOSIS
+FROZEN SPOON DIAGNOSIS: SP: Sentinel node #232 level 1 left axilla (fs):
+Benign
+3.
+PERMANENT DIAGNOSIS: SEE FINAL DIAGNOSIS
+FROZEN SECTION DIAGNOSIS: SP: Non-sentinel node left axilla (fs): Benign
+PERMANENT DIAGNOSIS: SAME
+** End of Report **

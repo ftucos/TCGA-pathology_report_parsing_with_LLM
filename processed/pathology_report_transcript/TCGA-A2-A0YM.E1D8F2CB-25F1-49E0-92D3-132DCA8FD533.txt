@@ -1,0 +1,208 @@
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+C50.9
+1/27/11 for
+Name
+Sex: F
+DOB
+Location:
+Doctor:
+PRE-OPERATIVE DIAGNOSIS
+LEFT BREAST CANCER
+POST-OPERATIVE DIAGNOSIS
+LEFT BREAST CANCER
+SURGICAL REPORT
+Pathology Number
+Date Collected:
+Date Received:
+M.R. Number:
+Account Number:
+UUID:E1D8F2CB-25F1-49E0-92D3-132DCA8FD533
+TCGA-A2-AØYM-01A-PR
+PROCEDURE
+LEFT BREAST LUMPECTOMY, LEFT AXILLARY SENTINEL MAPPING, F.S.
+TISSUES
+A. BREAST EXCISION, NEEDLE LOC, SIMPLE, MARGINS, ETC. - LEFT BREAST LUMP
+B. MARGINS - ADDITIONAL ANTERIOR MARGIN
+C. MARGINS - ADDITIONAL SUPERIOR MARGIN
+D. LYMPH NODE (S) - SENTINEL LYMPH NODE #1 **FS**
+E. LYMPH NODE (S) - SENTINEL LYMPH NODE #2 **FS**
+F. LYMPH NODE (S) - SENTINEL LYMPH NODE #3 **FS**
+G. LYMPH NODE (S) - SENTINEL LYMPH NODE #4 **FS**
+H. LYMPH NODE (S) - ADDITIONAL NON-SENTINEL NODE **FS**
+FS DIAGNOSIS
+A.
+LEFT BREAST LUMP "GROSS MARGINS” –
+BREAST TISSUE WITH TUMOR (2.4 X 2.2 X 2.2 CM.) EXTENDING WITHIN 0.2 CM.
+OF NEAREST SUPERIOR SURGICAL MARGIN AND 0.3 CM. OF ANTERIOR SURGICAL
+MARGIN.
+ALL DESIGNATED SURGICAL MARGINS ARE FREE OF TUMOR (GROSS).
+D.
+SENTINEL LYMPH NODE #1, F.S. -
+LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+E.
+SENTINEL LYMPH NODE #2, F.S. -
+LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+F.
+SENTINEL LYMPH NODE #3, F.S. -
+LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+SENTINEL LYMPH NODE #4, F.S. -
+LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+H.
+SENTINEL LYMPH NODE #5, F.S. -
+LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+(Reported to surgeon:
+Patient Nam
+SURGICAL REPORT
+Redacted
+Pathology Number:
++
+Page 1 of 4
+Patient Name:
+Pathology Numb
+Diagnosed by:
+FINAL DIAGNOSIS
+A.
+B.
+C.
+D.
+LEFT BREAST LUMP -
+INFILTRATIVE DUCT CARCINOMA (2.4 CM.).
+BLOOM-RICHARDSON GRADING:
+DCIS:
+GRADE III OF III (MINIMAL TUBULE FORMATIONS, HIGH NUCLEAR GRADE
+AND HIGH MITOTIC INDEX).
+NONE IDENTIFIED.
+TUMORAL NECROSIS/CALCIFICATION:
+NECROSIS ONLY.
+LOBULAR CANCERIZATION:
+PRESENT, FOCAL.
+SURGICAL MARGINS:
+UNINVOLVED, SUPERIOR MARGIN IS THE CLOSEST AND IS 0.2 CM. FROM
+THE TUMOR.
+ADDITIONAL ANTERIOR MARGIN -
+BENIGN BREAST TISSUE, THE NEW REVISED ANTERIOR MARGIN IS 0.9 CM. (0.3
++ 0.6 CM.).
+ADDITIONAL SUPERIOR MARGIN-
+BENIGN BREAST TISSUE, THE NEW REVISED SUPERIOR MARGIN IS 0.8 CM.
+(0.2 + 0.6 CM.).
+SENTINEL LYMPH NODE #1 -
+ONE BENIGN REACTIVE LYMPH NODE (0/1).
+SENTINEL LYMPH NODE #2 -
+E.
+ONE BENIGN REACTIVE LYMPH NODE (0/1).
+F.
+SENTINEL LYMPH NODE #3 -
+ONE BENIGN REACTIVE LYMPH NODE (0/1).
+H.
+SENTINEL LYMPH NODE #4 -
+ONE BENIGN REACTIVE LYMPH NODE (0/1).
+ADDITIONAL NON-SENTINEL LYMPH NODE-
+ONE BENIGN REACTIVE LYMPH NODE.
+PTNM CLASSIFICATION:
+T2, NO, MX, STAGE IIA.
+Diagnosed by:
+Reviewed and electronically signed out by:
+COMMENT
+The ER, PR, and Her-2/neu have been performed on previous surgical
+discussed with Dr.
+by Dr.
+This case is
+COMMENT2
+Patient Name'
+SURGICAL REPORT
+Pathology Number:
+Page 2 of 4
+Patient Name'
+Patrology Number:
+staining.
++
+Lymph nodes in parts D, E, F, G and H are negative for malignancy by Cytokeratin (AE1/AE3)
+GROSS DESCRIPTION
+The specimen is received in eight separate containers labele
+through H.
+nated A
+A.
+B.
+C.
+D.
+E.
+பட்
+The container is received fresh unfixed labeled "left breast lump for gross margin". The specimen
+consists of a 20 gm. ovoid mass of apparent fatty and fibrous encased tissue which is 4.1 x 3.3 x
+2.5 cm. in greatest overall dimension. There is a single short suture indicating anterior margin
+inked with yellow dye, posterior/deep margin is inked black. There are two short sutures
+Indicating superior margin Inked with orange dye, inferior is Inked red. There is a single long
+suture indicating lateral margin inked with blue dye, medial is inked green. Sectioning reveals a
+well-circumcised tumor mass which is 2.4 x 2.2 x 2.2 cm. In greatest overall dimension and
+consists of a pink-tan firm with scattered cystic spaces filled with amber-colored fluld. The tumor
+mass grossly appears to be 0.3 cm. from the anterior, 0.5 cm. from the posterior/deep, 0.2 cm.
+from the superior, 04 cm. from the inferior, 0.6 cm. from the lateral, 0.6 cm. from the medial. The
+specimen is submitted in ten blocks.
+Key Note Block Summary:
+1-anterior, 2-posterior/deep, 3 superior, 4-inferior, 5-
+medial, 6-lateral, 7 through 10-remaining.
+The container is received fresh unfixed labeled "additional anterior margin - suture on new
+anterior margin". The specimen consists of a 2 gm. ovoid mass of apparent fatty tissue which is
+3.5 x 2 x 0.6 cm. In greatest overall dimension. There is an attached suture Indicating new
+anterior margin Inked orange. Serial sectioning reveals fatty tissue and a scant amount of pink-
+tan firm tissue. The entire specimen is submitted in two blocks.
+The container is received fresh unfixed labeled "additional superior margin - suture on new
+superior margin". The specimen consists of a 3 gm. ovoid mass of apparent fatty tissue which is
+2.5 x 2.5 x 0.6 cm. in greatest overall dimension. The attached suture indicates new superior
+margin inked with yellow dye. Serial sectioning reveals fatty tissue. The entire specimen is
+submitted in two blocks.
+The container is received fresh unfixed labeled "sentinel lymph node #1 for frozen section". The
+specimen consists of an ovoid nodule of tan-gray firm rubbery tissue with attached fatty material
+measuring 0.6 x 0.6 x 0.4 cm. Touch prep and frozen section are obtained by Dr.
+The entire specimen Including frozen section is submitted in two blocks.
+The container is received fresh unfixed labeled “sentinel lymph node #2 for frozen section". The
+specimen consists of an ovoid nodule of tan-gray firm rubbery tissue with attached fatty material
+0.3 x 0.3 x 0.2 cm. Touch prep and frozen section are obtained by Dr.
+The
+specimen is bisected and the entire specimen including frozen section is submitted in two blocks.
+The container is received fresh unfixed labeled "sentinel lymph node #3". The specimen consists
+of an ovold nodule of tan-gray firm rubbery tissue with attached fatty material 0.3 x 0.3 x 0.3 cm.
+Frozen section and touch prep are obtained by Dr.
+The specimen is bisected and
+the entire specimen including frozen section is submitted in two blocks.
+The container is received fresh unfixed labeled "sentinel lymph node #4 for frozen section". The
+specimen consists of an ovold nodule of tan-gray firm rubbery tissue with fatty material 0.6x0.3x
+0.3 cm. Frozen section and touch prep are obtained by Dr. (
+The specimen is
+bisected. The entire specimen including frozen section is submitted in two blocks.
+Patient Name:
+SURGICAL REPORT
+Pathology Number
+Page 3 of 4
+Patient Name.
+に
+Pathology Number:
+H.
+The container is received fresh unfixed labeled "additional non-sentinel node for frozen section".
+The specimen consists of an ovoid nodule of tan-gray firm rubbery tissue with attached fatty
+material 0.3 × 0.2 x 0.2 cm. Frozen section and touch prep are obtained by Dr.
+specimen is bisected. The entire specimen including frozen section is submitted in two blocks.
+The
+MICROSCOPIC EXAM
+MICROSCOPIC EXAMINATION CONDUCTED BY PATHOLOGIST CONFIRMS FINAL DIAGNOSIS.
+SPECIAL STAINS PERFORMED:
+Cytokeratin (AE1/AE3) (specimens D, E, F, G, H)
+Patient Name:
+SURGICAL REPORT
+Criteria
+Diagnosis Discrepancy
+Primary Turner Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary floted
+Case is (circle):
+Reviewer Initial: MON
+QUALIFIEST
+Pate Reviewed:
+Yes
+No
+PRQUAED
+Pathology Number:
+Page 4 of 4

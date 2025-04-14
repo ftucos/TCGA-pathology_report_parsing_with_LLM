@@ -1,0 +1,57 @@
+TSS IC
+TSS ID
+OC ID
+Date of Procurement:
+Gross Description:
+Breast with the tumor measuring 2.7 x 2.5 cm. Fatty lymph nodes are soft and hyperemic.
+Microscopic Description:
+Infiltrating duct carcinoma; G2. Ten examined lymph nodes demonstrate focal fibrosis and lipomatosis.
+Diagnosis Details:
+Tumor Features: Unknown, Tumor Extent: T2 tumor size more than 2cm not more than 5 cm, Venous Invasion: Absent,
+Margins: Absent, Treatment Effect:
+Comments:
+Formatted Path Report:
+BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Central breast
+Tumor size: 2.5 x 0 x 2.7 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NUS C50.9
+fu 4/8/11
+UUID:38E8EA29-3C5F-4339-9CE7-98994B545848
+TCGA-E9-A1RB-01A-PR
+Redacted
+Tubule formation: Not specified
+Yes
+No
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Unterla
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+PAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer
+QUALIFIED / DISQUALIFIED
+Dato Reviewed:
+tw 4/8/11
+TSS ID:
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Laterality:
+Left, upper inner quadrant (central)

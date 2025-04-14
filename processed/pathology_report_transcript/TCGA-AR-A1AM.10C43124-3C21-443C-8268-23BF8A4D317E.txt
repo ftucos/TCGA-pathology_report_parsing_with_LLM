@@ -1,0 +1,72 @@
+#1 libelas
+#2, Memming
+due tal
+Final Diagnosis
+ICD-0-3
+Carcinoma, lobular, infiltrating 8520/3
+Path
+Site Code breast, upper
+CQCF Site: breast, was C50.9
+outer quadrant C50.4
+12/23/10 w
+Dual / Synchimions preman
+(selv breast)
+Breast, right, simple mastectomy: Multiple (2) nodules of invasive mammary carcinoma are
+identified. Infiltrating lobular carcinoma, Nottingham grade I (of III) [tubules 3/3, nuclei 1/3,
+mitoses 1/3; Nottingham score 5/9] is identified forming a mass (1.1 x 0.9 x 0.8 cm) located in
+the upper outer quadrant of the breast [AJCC pT1c]. This cancer shows HER2/neu protein
+overexpression (scored as 2+; see comment below) and has metastasized to right axillary sentinel
+lymph node No. 1D as a roughly 1.1 mm keratin positive collection of tumor cells barely visible
+by routine H&E morphology (see comment regarding right axillary sentinel lymph node excision
+below).
+Infiltrating ductal carcinoma, Nottingham grade I (of III) [tubules /3, nuclei /3, mitoses /3;
+Nottingham score /9] is identified forming a second lesion (1.7 x 1.5 x 0.9 cm) in the upper outer
+quadrant located 0.6 cm inferior and medial to the first lobular carcinoma mass [AJCC pT1c].
+This tumor also shows HER2/neu protein overexpression (scored as 2+; see comment below).
+However, there is no morphologic evidence of metastasis by this second lesion into any of the
+sentinel lymph nodes.
+Extensive ductal carcinoma in situ, intermediate nuclear grade, is present within and outside the
+invasive component with a separate nodule in the central/deep breast, 1.2 x 1.2 x 0.6 cm, located
+1.4 cm medial to the infiltrating ductal carcinoma. Angiolymphatic invasion is not seen. The
+non-neoplastic breast parenchyma shows proliferative fibrocystic changes. Biopsy site changes
+are present. The tumor does not involve the nipple, overlying skin, or underlying chest wall. All
+surgical resection margins, including the deep margin, are negative for tumor (minimum tumor
+free margin, 0.4 cm, anterior/superior margin).
+Lymph nodes, right axillary sentinel, excision: A single (of 12) right axillary sentinel lymph
+node is positive for metastatic carcinoma [AJCC pN1 mi (sn)]. This positive sentinel node is
+designated No. 1D (tissue block A4) and is characterized by a roughly 1.1 mm collection of
+keratin positive tumor cells without much in the way of H&E morphologic correlation. As noted
+above, this microscopic focus of cancer has lobular features. The remaining 11 right axillary
+sentinel lymph nodes are negative for metastatic cancer (verified by keratin immunostaining).
+Blue dye is identified in right axillary sentinel lymph nodes No. 1A, No. 2A, No. 3A, No. 3B, and
+No. 4. Blue dye is not identified in right axillary sentinel lymph nodes No. 1B, No. 1C, No. 1D,
+No. 2B, No. 2C, No. 2D, or No. 3C.
+HER2/neu protein overexpression is weakly positive, score of 2+, according to the interpretation
+guidelines in the FDA-approved HercepTest. This degree of overexpression is seen in both tumor
+nodules (using tissue blocks B2 and B4). Fluorescence in situ hybridization (FISH) for
+HER2/neu amplification will be performed and reported in an addendum.
+HER2 protein immunohistochemical (IHC) test results are only valid for non-decalcified paraffin
+embedded specimens fixed in neutral buffered formalin or Bouin's fixatives. Testing is
+performed using commercially available kit/reagents employing a polyclonal antibody and a
+polymer-based detection system.
+ADDENDA:
+12/21/10
+UUID:10C43124-3C21-443C-8268-23BF8A4D317E
+TCGA-AR-A1AM-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Sync!.ronous Primary N
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+2
+DISQUALIFIED
+Date Reviewed: 1775
+No amplification for HER2/neu is demonstrated by fluorescence in situ hybridization (FISH,
+performed in Laboratory Genetics) (blocks B2 and B4) according to the interpretation guidelines
+in the FDA approved PathVysion Her2 DNA Probe Kit.

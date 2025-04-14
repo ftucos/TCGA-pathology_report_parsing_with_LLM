@@ -1,0 +1,83 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+1CD-0-3
+Material: Multiple organ resection - left breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+page 1 / 2
+Carcinoma, infiltrating lobule, Nos 852013
+for 4/12/11
+Site: breast, Nos
+050.9
+Clinical diagnosis: Cancer of the left breast.
+Examination performed on:
+Macroscopic description:
+Left breast sized 22.4 x 17.8 x 6.4 cm removed along with axillary tissues sized 12 x 5 x 3 cm and a skin flap of 24.2 x 11.3 cm.
+Weight 950 g.
+Tumour sized 2.7 x 1.4 x 2.8 cm found in the central part, removed 6.0 cm from the lower boundary, 0.3 cm from the base and 1.4
+cm from the skin.
+Microscopic description:
+Carcinoma lobulare invasivum (classical type, partly solid) multifocale - NHG2 (3+2+1/0 mitoses/10 HPF - visual area
+0.55mm). Infiltratio carcinomatosa mamillae.
+In situ lesions of the type pagetoid spread and hyperplasia within the foci of adenosis sclerosans. Glandular tissue
+showing lesions of the type fibrosa et cystica, adenosis sclerosans. AXILLARY LYMPH NODES: Metastases
+carcinomatosae in lymphonodis (No IX/XI).
+Test result:
+Carcinoma lobulare mixtum invasivum mammae sinistrae.
+Metastases carcinomatosae in lymphonodis axillae (No IX/XI) (NHG2, pTlc, pN2a).
+Compliance validated by:
+Examination performed or
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO. Score = 2+. FISH verification recommended
+Examination performed on:
+Compliance validated by:
+Criteria
+UUID:5F1C3B85-5E5C-4288-8779-3A5878DCE1F2
+TCGA-D8-A1X8-01A-PR
+Redacted
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchoncus Primary Neted
+Case is (circle):
+Rewis
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+The 4/12/14.
+Examination: Histopathological examination
+page 2 / 2
+Examination No.:
+Patient: XXX
+PESEL:XXX
+Examination performed on:
+Histopathological diagnosis:
+Gender: F
+Carcinoma lobulare invasivum mammae sinistrae.
+Invasive lobular carcinoma of the left breast
+Metastases in lymphonodis axillae (No IX/XI) (NHG2, pTlc, pN2a).
+Cancer metastases in axillary lymph nodes (No IX/XI) (NHG2, pTlc, pN2a).
+Compliance validated by:
+Examination performed on
+Results of immunohistochemical examination:
+RESULT OF HER2/neu GENE AMPLIFICATION with the FISH method by Path Vysion HER2 DNA Probe Kit
+FINAL RESULT:
+HER-2 GENE AMPLIFICATION NOT FOUND
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!

@@ -1,0 +1,357 @@
+1
+Clinical Diagnosis & History:
+Patient with left breast cancer IFDC on core left MRM and right prophylactic
+TM and SLNB.
+Specimens Submitted:
+1: SP: Left breast & axillary contents levels 1,2 with tags attached
+2: SP: Right breast
+3: SP: Level 3 axillary contents
+4: SP: Sentinel node #1. level one right axilla
+5: SP: Sentinel node %232. lovel one right axilla
+DIAGNOSIS:
+1)
+BREAST, LEFT AND AXILLARY CONTENTS, LEVELS I AND II; EXCISION:
+INVASIVE DUCTAL CARCINOMA
+, WITH MEDULLARY FEATURES, HISTOLOGIC GRADE
+II/III 
+(MODERATE TUBULE FORMATION), 
+NUCLEAR GRADE III/III (MARKED VARIATION
+IN SIZE AND SHAPE), MEASURING 2.3 
+CM IN LARGEST DIMENSION MICROSCOPICALLY.
+- DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO 
+IDENTIFIED, SOLID TYPE WITH HIGH
+NUCLEAR GRADE AND EXTENSIVE NECROSIS.
+-THE DCIS CONSTITUTES <= 25% OF THE TOTAL TUMOR MASS, AND IS PRESENT ADMIXED
+WITH THE INVASIVE COMPONENT
+-
+THE INVASIVE CARCINOMA IS LOCATED IN THE LOWER OUTER QUADRANT.
+IS LOCATED IN THE LOWER OUTER QUADRANT.
+THE DCIS
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+- NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+CARCINOMA.
+-
+NO VASCULAR INVASION IS NOTED.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+- THE NON-NEOPLASTIC BREAST TISSUE IS UNREMARKABLE.
+- THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF
+POSITIVE LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES
+EXAMINED): LEVEL I: 2/13; 
+LEVEL II: 0/4.
+-
+THERE IS EXTRANODAL EXTENSION OF CARCINOMA.
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+ΡΑΤΗ
+REPORT
+Continued on next page
+11/05/01
+carcinoma, infiltrating duct, Nos 8.500/3
+Site: breast, NUS
+C50.9 Lu
+8-0-871
+UUID:DD973A0E-3CC3-4ED7-BE2C-7E5E3C55032B
+TCGA-AO-A129-01A-PR
+Redacted
+Y S
+Crier
+Diagnosis is repancy
+Farmery Tumor it Discrepsiy
+HIPAA Discrepancy
+Prignancy History
+Dual/Synchronous 
+Primary Not
+Cuse is (cle)
+Seeve: Intiais
+QUALIFIC
+Reviewedt:
+DISQUALIU
+BW 10/22/11
+2)
+BREAST, RIGHT; EXCISION:
+BENIGN BREAST PARENCHYMA WITH SECRETORY CHANGE.
+3)
+LYMPH NODES. LEFT AXILLA, LEVEL III; EXCISION:
+TWO BENIGN 
+LYMPH NODES (0/2).
+4)
+- TWO BENIGN LYMPH NODES (0/2).
+LYMPH NODES, SENTINEL #1, LEVEL I, RIGHT AXILLA; EXCISION:
+STAINS HAVE BEEN ORDERED. THE RESULTS WILL BE REPORTED IN AN ADDENDUM.
+DEEPER LEVEL RECUTS AND SPECIAL
+5)
+LYMPH NODE, SENTINEL #2, LEVEL I, RIGHT AXILLA; EXCISION:
+- BENIGN BREAST TISSUE. NO LYMPH NODE IDENTIFIED.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), 
+AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Gross Description:
+Special Stain
+HER2-C
+ER-C
+PR-C
+NEG CONT
+IMM RECUT
+NEG-HER2
+AEL:AE3
+CAM 5.2
+AE1:AE3
+CAM 5.2
+NEG CONT
+IMM RECUT
+NEG CONT
+IMM RECUT
+Comment
+1)
+The specimen is received fresh, labeled, "Left breast & axillary
+contents 
+levels 1,2 with tags attached
+".
+mastectomy, consisting of an ellipse of tan skin, breast tissue and axillary
+It is a product of left modified
+tail designated as levels one and two. The 
+skin measures 15.0 x 4.0 cm.
+The breast tissue measures 23.0 x 23.0 
+x 6.5 cm.
+measures 14.0 x 6.5 x 2.0 cm.
+The axillary tail site
+The nipple is everted.
+present on the skin surface.
+No visible scars are
+A scanty amount of skeletal muscle tissue is
+present at the deep margin which is inked.
+to reveal an ill-defined pink-gray focally hemorrhagic rubbery tumor
+The breast tissue was 
+sectioned
+completely surrounded by thickened 
+fibrous tissue situated in the lower
+outer quadrant, 3.5 cm from the 
+deep surgical margin.
+surrounding 
+the tumor abuts the deep surgical margin. The rest of the tissue
+The fibrous tissue
+is predominantly fibrous. Serial sectioning 
+of the axillary tail reveals
+PATH
+REPORT
+** Continued on next page
+**
+2
+Page 3 of 5
+multiple lymph nodes, ranging from 0.3 up to 1.5 cm in greatest dimension.
+Representative sections were submitted, 
+portion of the tumor was given to
+TPS.
+Summary of Sections:
+nipple
+N
+T
+tumor
+DM deep margin closest to the tumor
+UOQ
+upper outer quadrant
+LOQ
+lower outer quadrant
+LIQ
+lower inner quadrant
+LN1
+lymph nodes level one
+LN2
+lymph nodes level two
+2)
+The specimen is received fresh, labeled, "Right breast, (stitch marks
+axillary 
+tail)". It is a product of right 
+modified mastectomy consisting of
+an ellipse of tan skin with breast tissue.
+The breast 
+tissue measures 16.0 x 16.0 x 6.0 cm.
+The 
+skin measures 15.5 x 5.0 cm.
+Grossly no 
+visible scars are present on
+The nipple is everted.
+amount 
+of skeletal muscle tissue present at the deep margin which is inked.
+the skin surface. There is a scanty
+The breast tissue was sectioned to reveal 
+fibrofatty tissue. The fibrous
+tissue counts to approximately 55% of 
+the entire breast tissue.
+Grossly no
+evert lesions were identified. No lymph nodes were present at the axillary
+tail site. Representative sections were 
+submitted.
+Summary of Sections:
+N nipple
+OUQ
+upper outer quadrant
+LOW lower outer quadrant
+UIQ
+upper inner quadrant
+LIQ
+lower inner quadrant
+DM
+deep margin
+AXT
+axillary tail site
+3)
+The specimen is received in formalin, labeled, "Level 3 axillary
+contents
+". It consists of three piece 
+of fibroadipose tissue measuring in
+aggregate 1.5 x 1.0 x 0.6 cm. Entirely 
+submitted.
+Summary of Sections:
+0
+undesignated
+4)
+The specimen is received in formalin, labeled, "Sentinel node #1.
+level 
+one, right axilla". It 
+consists of a single piece of adipose tissue
+measuring 2.5 x 2.0 x 0.5 cm. Entirely 
+submitted.
+Summary of Sections:
+U undesignated
+** Continued on next page **
+PATH
+REPORT
+3
+Page 4 of S
+4
+5)
+The specimen is received in formalin, labeled, "Sentinel node #2,
+level 
+one right axilla". It consists of a 
+single piece of fibroadipose
+tissue with embedded lymph node, measuring 
+0.8 cm in its greatest dimension.
+Entirely submitted.
+Summary of Sections:
+LN lymph node
+Summary of Sections:
+Part 1:
+SP: Left breast & axillary contents levels 1,2 with tags attached
+Block
+5
+2
+1
+2
+2
+2
+4
+2
+2
+Sect. Site
+PCs
+ALN
+BLN
+13
+7
+DM
+3
+LIQ
+2
+LOQ
+2
+N
+2
+T
+4
+UIQ
+2
+UOQ
+2
+Part 2: SP: Right breast
+Block
+1
+1
+4
+4
+2
+4
+4
+Part 3:
+Block
+1
+Part 4:
+Block
+2
+Part 5:
+Block
+1
+Sect. Site
+PCS
+AXT
+2
+DM
+3
+LIQ
+4
+LOQ
+N
+UIQ
+00Q
+SP: Level 3 axillary contents
+Sect. Site
+U
+PCS
+3
+SP: Sentinel node #1, level one right axilla
+Sect. Site
+"
+PCs
+2
+SP: Sentinel node #2, level one right axilla
+Sect. Site
+LN
+PCs
+I
+** Continued on next page
+PATH
+REPORT
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+SITE: LEFT BREAST
+-
+ER-ICA: NEGATIVE
+-
+PR-ICA: NEGATIVE
+Status:
+By:
+Signed Out
+- HER2/NEU (HERCEPTEST):
+CONTROLS ARE SATISFACTORY.
+NEGATIVE (STAINING INTENSITY OF 0).
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Status:
+By:
+Signed Out
+Page 5 of 5
+SITE: SENTINEL LYMPH NODE, RIGHT AXILLA
+PART #4.
+ADDITIONAL H&E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS (AEL:AE3 AND CAM 
+5.2) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+PATH
+REPORT
+** End of Report **
+51

@@ -1,0 +1,153 @@
+Patient:
+AP Surgical Pathology: Additional Info
+Surg Path
+UUID:F5A14797-6676-4331-9424-D8B820008924
+TCGA-B6-A408-01A-PR
+Redacted
+CLINICAL HISTORY:
+Left breast cancer. Per E browser, invasive ductal carcinoma with lobular
+features 
+in the left axillary tail.
+GROSS EXAMINATION:
+A. "Left breast with axillary contents", received unfixed and placed in
+formalin is a 842 gram, 
+24 x 18.5 x 7 cm mastectomy specimen with a 20 x 10 cm
+attached skin ellipse 
+and a 1.1 cm nipple. The specimen is received with
+incisions in the 
+lateral aspect of the breast and in the axillary tail.
+specimen 
+is oriented with a long suture at the lateral edge.
+there is also 
+a short stitch to indicate superior, but no short stitch is
+Per 
+requisition
+present on the 
+specimen.
+The
+There is a 2.1 x 2 x 1.2 cm firm, tan mass at lateral 3:00. The mass is 0.3 cm
+from the closest deep 
+margin, 2 cm from the superior margin, 5.8 cm from the
+inferior margin, 
+3.5 cm from the lateral margin and 20 cm from the medial
+margin.
+The mass is 
+0.2 cm from the overlying skin, which is slightly
+puckered. 
+The remainder 
+of the breast consists of grossly unremarkable
+fibroadipose tissue. 
+Multiple lymph nodes are identified in the axillary tail,
+1.7 cm in greatest dimension.
+BLOCK SUMMARY:
+A1-8-
+A9-
+A10-13-
+entire mass with the closest approach to skin in Al and closest
+approach 
+to deep margin in A2
+superior margin nearest to tumor, tangential
+intact lymph node candidates
+one lymph node, bisected in each
+A14-16-
+A17-
+A18-
+A19-
+representative upper inner quadrant
+representative lower inner quadrant
+A20-
+A21-
+nipple
+representative upper outer quadrant
+representative lower outer quadrant
+Criteria
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case (circle):
+Reviewer it
+Dar of'
+Page 1 of 2
+Yes
+No
+QUALIFIED
+Date Reviewed:
+DISQUALIFIER
+6/23/12
+PATHOLOGIC STAGE:
+PROCEDURE: MODIFIED RADICAL MASTECTOMY
+PATHOLOGIC STAGE (AJCC
+Edition): pT2 pN3 a
+pMX
+ICD03
+adenocarcinoma, ductal and lobular
+Site: breast, Nos C50.9
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this 
+Institution's Cancer Registry as required for
+accreditation by the 
+Commission on Cancer. Pathology stage is based solely
+upon the current tissue 
+specimen being evaluated, and does not incorporate
+information on any specimens 
+submitted separately to our Cytology section,
+past pathology 
+information, imaging studies, or clinical or operative
+findings. Pathology stage is 
+only a component to be considered in determining
+the clinical stage, and should 
+not be confused with nor substituted for it.
+The exact operative 
+procedure is available in the surgeon's operative report.
+DIAGNOSIS:
+A. "LEFT BREAST WITH AXILLARY CONTENTS" (MODIFIED RADICAL MASTECTOMY):
+RESIDUAL INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL WITH LOBULAR FEATURES.
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 2 OF 3.
+852213
+7-2-12
+ко
+* י
+Page 2 of 2
+TUBULE FORMATION SCORE: 2
+NUCLEAR PLEOMORPHISM SCORE: 3.
+MITOTIC RATE SCORE: 2
+GROSS TUMOR SIZE: 2.1 X 2 X 1.2 CM.
+SIZE OF INVASIVE COMPONENT: 2.1 CM.
+LOCATION OF THE TUMOR: 3:00, LATERAL NEAR THE AXILLARY TAIL.
+LYMPHATIC/VASCULAR INVASION: PRESENT.
+MULTIFOCAL TUMOR: ABSENT.
+IN-SITU CARCINOMA: PRESENT.
+TYPE OF IN-SITU CARCINOMA: CRIBRIFORM.
+NUCLEAR GRADE OF IN-SITU CARCINOMA: 2 OF 3.
+NECROSIS: PRESENT.
+DCIS EXTENDING OUTSIDE INVASIVE TUMOR MASS: ABSENT.
+SIZE OF IN-SITU CARCINOMA: NOT APPLICABLE.
+NIPPLE STATUS: FREE OF TUMOR.
+SKIN STATUS: FREE OF TUMOR.
+MUSCLE STATUS: NOT SAMPLED.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: FIBROCYSTIC CHANGES. HEMATOMA.
+SURGICAL MARGIN STATUS: NEGATIVE.
+AXILLARY LYMPH NODE STATUS: TEN OF TWENTY-THREE LYMPH NODES POSITIVE
+FOR METASTATIC CARCINOMA (10/23).
+SIZE OF LARGEST LYMPH NODE METASTASIS: 1.1 CM.
+EXTRANODAL EXTENSION: PRESENT.
+ESTROGEN/PROGESTERONE RECEPTOR, CELL CYCLE, EGFR AND HER2/NEU ANALYSIS:
+NOT PERFORMED.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+ADDENDUM 1:
+Please see
+tests.
+Electronically signed:
+for results of supplementary
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+Performed by:
+Ordering MD:
+1
+Electronically signed:

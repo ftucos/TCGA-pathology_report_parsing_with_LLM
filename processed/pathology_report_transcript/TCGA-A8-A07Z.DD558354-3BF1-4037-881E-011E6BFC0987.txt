@@ -1,0 +1,35 @@
+90
+Path
+ICD-0-3
+Carcinoma, infiltrating ductal, was 8500/3
+1/19/11 for
+Site: Breast Central C50.1
+portion
+CQCF Site: Breast, Nos
+050.9
+Diagnosis
+Left mastectomy preparation with a predominantly solid, moderately differentiated ductal
+breast carcinoma showing invasive growth with a minimum dorsal margin of less than 0.1 cm,
+with overlying carcinoma-free skin and the inclusion of eleven carcinoma-free lymph nodes.
+Tumor classification:
+M-8500/3, G 2 (seven points), pT2, pN0 (0/11), MX, pL0, pV0.
+Assessment:
+Dorsal margin of carcinoma less than 0.1 cm, ventral margin 0.5 cm and the remaining
+resection margins markedly greater than 1 cm.
+UUID:DD558354-3BF1-4837-881E-011E6BFC0987
+TCGA-AB-A07Z-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Turaur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Ncted
+Case (ircle):
+Reviewer a
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+tw
+Redacted

@@ -1,0 +1,402 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT
+REG DR:
+SPEC #:
+RECD:
+COLL:
+Specimen Inquiry
+Lab Database:
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+LOC:
+σ %1
+ROOM:
+BED:
+TLOC:
+REG:
+DIE
+STATUS:
+PERFORMED AT
+TIME IN FORMALIN:
+CLINICAL INFORMATION:
+Invasive lobular carcinoma of the left breast
+Pre-Op Diagnosis:
+Remarks:
+Specimen(s) :
+A.
+B.
+Left breast
+Sentinel node #1
+C. Sentinel node #2
+D.
+Sentinel node #33
+E.
+Right breast tissue versus fat
+F. Right sentinel node #1
+G.
+H.
+Right breast tissue, new/additional margin
+Right breast, stitch is superior
+PAGE 1
+UUID:5577BE88-72ED-43E5-9BB1-83D56C2EA346
+TCGA-LL-A440-01A-PR
+Redacted
+MICROSCOPIC DIAGNOSIS
+A. LEFT BREAST:
+B.
+C.
+D.
+E.
+F.
+-
+INVASIVE LOBULAR CARCINOMA
+SEE COMMENT
+SENTINEL LYMPH NODE #1:
+ONE REACTIVE LYMPH NODE
+SENTINEL LYMPH NODE #2:
+-
+TWO REACTIVE LYMPH NODES
+SENTINEL LYMPH NODE #3:
+ONE REACTIVE LYMPH NODE
+RIGHT BREAST TISSUE VERSUS FAT:
+BREAST PARENCHYMAL TISSUE
+ICD-0-3
+carcinoma, lubular, infiltrating
+Site: breast, NOS
+050,9
+NO SIGNIFICANT HISTOPATHOLOGIC CHANGE
+RIGHT SENTINEL LYMPH NODE #1:
+852013
+8/23112
+RD
+G.
+ISOLATED TUMOR CELLS IN ONE LYMPH NODE
+RIGHT BREAST TISSUE, NEW MARGIN:
+FIBROCYSTIC CHANGES
+INTRADUCTAL PAPILLOMA
+H.
+RIGHT BREAST:
+DUCTAL CARCINOMA IN SITU
+SEE COMMENT
+** CONTINUED ON NEXT PAGE **
+1/8/19/12
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case's Circle):
+Reviewer Intias
+QUALIFIED
+IN situⓇ Bist
+Date Reviewed.
+DISQUALIFIED
+No
+8/17/12
+RUN DATE:
+RUN TIME: 1
+RUN USER:
+SPEC #:
+COMMENT(S)
+PATIENT
+PAGE 2
+Specimen Inquiry
+(Continued)
+Findings discussed with
+Protocol for Examination of Specimens with Invasive Carcinoma of the Breast based on
+AJCC/UICC TNM 7th Edition
+SPECIMEN A:
+SPECIMEN:
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN INTEGRITY:
+SPECIMEN LATERALITY:
+TUMOR SIZE:
+TUMOR FOCALITY:
+MACROSCOPIC AND MICROSCOPIC EXTENT
+OF TUMOR:
+DUCTAL CARCINOMA IN SITU:
+LOBULAR CARCINOMA IN SITU:
+HISTOLOGIC TYPE OF INVASIVE
+CARCINOMA:
+HISTOLOGIC GRADE (NOTTINGHAM
+HISTOLOGIC SCORE):
+Total breast
+Total mastectomy
+Sentinel lymph nodes
+Single intact specimen
+Left
+1.7 cm
+Single focus of invasive carcinoma
+Skin:
+Nipple:
+invasive carcinoma does not invade into the
+dermis or epidermis
+carcinoma does not involve the nipple
+epidermis
+Skeletal muscle: skeletal muscle is present and is
+free of carcinoma
+No DCIS is present
+Present
+Invasive lobular carcinoma
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+Glandular/tubular differentiation score:
+3
+Nuclear pleomorphism score:
+2
+Mitotic count score:
+1
+Overall grade: grade 2
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1.0 mm from the
+superficial to lateral peripheral margin
+Number of sentinel lymph nodes examined:
+Total number of lymph nodes examined:
+Number of lymph nodes with macrometastasis:
+Number of lymph nodes with micrometastasis:
+Number of lymph nodes with isolated tumor cells:
+Primary tumor: pT1c
+4
+4
+0
+0
+0
+Regional lymph nodes: PNO (i-)
+Distant metastasis: not applicable
+See previous pathology report
+ANCILLARY STUDIES:
+ADDITIONAL FINDINGS:
+Fibrocystic changes, microcalcifications
+Protocol for Examination of Specimens with Ductal Carcinoma in Situ of the Breast based on
+AJCC/UICC TNM 7th Edition
+SPECIMEN B:
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER
+SPEC #:
+PATIENT:
+COMMENT(S)
+SPECIMEN:
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN INTEGRITY:
+SPECIMEN LATERALITY:
+EXTENT OF DCIS:
+HISTOLOGIC TYPE:
+NUCLEAR GRADE:
+NECROSIS:
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+ADDITIONAL FINDINGS:
+PAGE 3
+(Continued)
+(Continued)
+Total breast
+Total mastectomy
+Sentinel lymph nodes
+Single intact specimen
+Right
+8 mm
+Ductal carcinoma in situ
+Grade 2
+Present, focal
+Margins uninvolved by DCIS
+Distance from closest margin: 3.5 cm, deep
+margin
+Number of sentinel lymph nodes examined: 1
+Total number of lymph nodes examined:
+1
+Number of lymph nodes with macrometastasis:
+Number of lymph nodes with micrometastasis: 0
+Number of lymph nodes with isolated tumor cells: 1
+Primary tumor: pTis
+0
+Regional lymph nodes: pNO (i+)
+Distant metastasis: Not applicable
+See previous pathology report
+Fibrocystic changes
+GROSS DESCRIPTION:
+The specimen is received in eight parts.
+Each part is labeled with the patient's name.
+A. Received fresh for tissue banking and "left breast" is an 858 gram, 28.0 x 16.0 x 5.0
+cm fibrofatty breast. The breast is received with a suture designating superior at one
+corner of the skin ellipse. There is no axillary tail, and the breast is consistent with a
+simple mastectomy specimen. Separate within the specimen container is a linear 7.0 x 1.5 x
+0.8 cm strip of tissue with fibroskeletal muscle. The fascial plane is somewhat smooth,
+and no additional fibroskeletal muscle is identified. The breast has an overlying 8.5 x
+3.5 cm skin ellipse with a central 3.0 cm areola which extends to the edges of the ellipse
+and a 1.0 cm nipple with an adjacent associated papule. No scars or lesions are identified
+on the skin surface. There is blue localization dye. The deep margin is inked blue, and
+the breast is serially sectioned to have a 1.7 x 1.5 x 1.2 cm indurated tumor mass. A
+portion of the tumor is sampled for tissue banking. The tumor is 2.0 cm from the deep
+margin. The tumor appears to be in the upper outer quadrant according to the orientation
+of the specimen. The tumor is approximately 8.0 cm from superior, 14 cm from inferior, is
+11.5 cm from medial and approximately 7 cm from lateral. The tumor is 1.0 cm from the
+superficial to lateral peripheral aspect of the breast. The tumor is in the upper outer
+quadrant. The remainder of the parenchyma is diffusely fatty, and no additional indurated
+lesions are identified. White fibrous tissue appears to involve <20% of the parenchyma.
+The breast has an odd shape for orientation and is longer superior to inferior than medial
+to lateral. Representative sections are sampled as labeled:
+Al
+A2
+sections of nipple
+areola
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT
+PAGE 4
+(Continued)
+GROSS DESCRIPTION:
+B.
+A3
+A4
+A5-A6
+A7
+A8
+A9
+A10
+(Continued)
+separate portion of fibroskeletal muscle sampled
+deep margin nearest tumor sampled
+full cross sections of tumor to include entire tumor and tumor to
+superficial peripheral aspect
+upper outer quadrant
+lower outer quadrant
+upper inner quadrant
+lower inner quadrant
+Part 2, received in formalin for gross evaluation, labeled with the patient's name and
+The
+"sentinel node #1", is a 2.0 x 1.4 x 1.0-cm aggregate of yellow, lobulated adipose.
+The node is
+adipose is sectioned to have a 1.0 x 0.6 x 0.5-cm nodular lymph node.
+sectioned to be entirely submitted per sentinel lymph node protocol in cassette Bl.
+c.
+Part 3, received for gross evaluation, labeled "sentinel node #2", is a 4.0 x 3.0 x
+2.0-cm aggregate of yellow, lobulated adipose. The adipose is sectioned to have a 0.5-cm
+nodular lymph node. The node is bisected. There is an additional minute 0.3-cm lymph node
+present within the aggregate of adipose. Lymphoid tissue is entirely submitted per
+sentinel lymph node protocol in cassette C1.
+D.
+Part 4, received for gross evaluation, labeled "sentinel node %33", is a 1.5 x 1.4 x
+0.8 cm portion of yellow, lobulated adipose. The adipose is sectioned to have a nodular,
+1.2 x 0.5 x 0.4-cm lymph node. The node is trisected to be entirely submitted per sentinel
+lymph node protocol in cassette D1.
+E. Part 5, received fresh for frozen section diagnosis labeled with the patient's name and
+"breast tissue or fat?", is a 6.3-gram, 5.0 x 3.0 x 1.3-cm portion of yellow, lobulated
+The fibrous
+adipose. The adipose is sectioned to have scant dense white fibrous tissue.
+tissue makes up between 5 and 10% of the parenchyma. No indurated lesions or tumor-like
+masses are identified. A section is sampled for frozen section diagnosis with the frozen
+section residue in El. Additional sections are sampled in E2-E3.
+Parts 6, 7, and 8 are received in formalin, labeled with the patient's name.
+F. Part 6, labeled "right sentinel node #1", is a 1.0 x 0.8 x 0.6-cm nodular lymph node.
+The node is sectioned perpendicular to the long axis to be entirely submitted for frozen
+section diagnosis with the frozen section residue in cassette F1.
+G. Part 7, labeled "right breast tissue new margin", is a 77-gram, 19.5 x 9.5 x 2.0-cm
+fibrofatty portion of breast tissue. The specimen is oriented with a single suture
+superior and a double suture designating the new margin. The "new margin" will be inked
+blue with the remainder of the specimen inked black. A portion of breast tissue is
+sectioned from superior to inferior to have a diffusely glistening fatty cut surface with
+scant delicate white fibrous tissue. No areas of induration or tumor-like masses are
+identified. The breast is sampled from superior to inferior, concentrating on the areas of
+white fibrous tissue. The fibrous tissue makes up <20% of the parenchyma. Representative
+sections are sampled in G1-G6.
+H.
+Part 8, labeled "right breast", is a 558-gram, 20.0 x 13.5 x 4.5-cm fibrofatty breast.
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 5
+(Continued)
+GROSS DESCRIPTION: (Continued)
+The breast is received with an eccentric, medial overlying 8.0 x 4.0-cm "drop-shaped" skin
+excision. The excision has an overlying, inferior 5.0 x 4.0-cm areola, which extends to
+the skin edges and a 1.5-cm flat nipple. The remainder of the skin surface demonstrates no
+areas of scar. There is a suture at the pole of the excision designating superior. The
+deep margin has a roughened to focally smooth fascial plane. There is scant focal
+fibroskeletal muscle identified. No axilla is present and the breast is consistent with a
+simple mastectomy specimen. The breast is serially sectioned from lateral to medial to
+have a 3.0 x 2.0 x 0.8-cm blood-filled biopsy cavity. The biopsy cavity appears to focally
+abut the superficial peripheral margin medial toward the skin excision. The biopsy cavity
+comes within 1.0 cm of the edge of the skin. The surrounding tissue adjacent to the biopsy
+cavity appears to be predominantly glistening yellow adipose. No indurated lesions or
+tumor-like masses are identified associated with the biopsy cavity. There are additional
+adjacent areas of fat necrosis and hemorrhage associated with the biopsy cavity. The
+biopsy cavity is 3.5 cm from the deep margin. The biopsy cavity is approximately 4.0 cm
+from superior, 6.0 cm from inferior, is approximately 6 cm from medial and at least 10 cm
+from lateral. The biopsy cavity is centrally located within the breast between the upper
+and lower inner quadrants. There is diffuse nodular white fibrous breast tissue extending
+throughout the specimen. No discrete indurated lesions or tumor-like masses are
+identified. There are focal areas consistent with fibrocystic change. The fibrous breast
+tissue has a somewhat gritty, granular appearance adjacent to the biopsy cavity underlying
+the nipple. The breast is sampled as labeled:
+H1
+H2
+H3
+H4-H6
+H7, H8
+H9
+H10
+Hll
+H12
+sections of nipple
+areola
+deep margin nearest biopsy cavity
+sections of biopsy cavity to nearest superficial peripheral margin
+sections of biopsy cavity with adjacent granular white fibrous tissue
+upper outer quadrant
+lower outer quadrant
+upper inner quadrant (quadrant most closely associated with biopsy
+cavity)
+lower inner quadrant sampled
+MICROSCOPIC DESCRIPTION:
+H&E sections of specimen B shows a ductal carcinoma in situ in the surrounding breast
+tissue. P63 and CD10 stains of the residual ductal carcinoma in situ does not show
+definitive areas of invasion.
+INTRAOPERATIVE CONSULTATION:
+A. LEFT BREAST TISSUE:
+TUMOR DISSECTED FOR TISSUE BANKING
+B. "SENTINEL LYMPH NODE #1":
+NO TUMOR IDENTIFIED
+REPORTED TO
+C. "SENTINEL LYMPH NODE #2":
+** CONTINUED ON NEXT PAGE **
+RUN DATE
+RUN TIME
+RUN USER
+SPEC #:1
+PATIENT
+INTRAOPERATIVE CONSULTATION:
+NO TUMOR IDENTIFIED
+D.
+E.
+REPORTED TO
+(Continued)
+"SENTINEL LYMPH NODE #3":
+NO TUMOR IDENTIFIED
+REPORTED TO
+FROZEN SECTION DIAGNOSIS "RIGHT BREAST TISSUE VERSUS FAT":
+SMALL AMOUNT OF DUCTAL BREAST TISSUE PRESENT.
+REPORTED TO
+PHOTO DOCUMENTATION
+Signed
+(signature on file)
+** END OF REPORT **
+PAGE 6
+(Continued)

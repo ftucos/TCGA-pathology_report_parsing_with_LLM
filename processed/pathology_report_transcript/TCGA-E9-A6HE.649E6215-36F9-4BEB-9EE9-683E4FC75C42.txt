@@ -1,0 +1,89 @@
+Surgical Date:
+Gross Description: A. "Right axilla palpable node." A 2.2 x 1.5 x 0.6 cm portion of lymph node bearing
+fat contains a 0.5 x 0.5 x 0.5 cm hard white nodule. Imprints are prepared, and a portion is selected for
+frozen section examination. B. "Right breast stitch marks axillary tail." A he 14.9 x 13.5 x 4.0 cm right
+breast with an overlying 8.0 x 4.0 cm keyhole-shaped skin. The areolar complex is unremarkable. There
+is a 0.3 cm skin lesion (grossly consistent with seborrheic keratosis), 0.5 cm and located 0.6 cm medial to
+the nipple. There is a stellate mass within the central breast 5.7 x 4.0 x 2.0 cm, located 2.0 cm from the
+deep margin and occupies the upper and lower outer quadrants as well as the upper inner and outer
+quadrants. There is a biopsy marker recognize in the lower outer quadrant (8 o'clock aspect), 3.7 cm
+from the deep margin. A second biopsy marker is recognized and approximately 1 o'clock, 3.5 cm from
+the deep margin. Superior to the main mass is a satellite nodule attached by fibrous strands, 0.7 x 0.5 x
+0.5 cm, located 2.0 cm from the deep margin and 1.8 cm superior to the main mass at approximately 12
+o'clock. The remaining breast tissue is centrally dense. There are no intramammary lymph nodes. The
+margin is a blue. C. "Level 1 and 2 right axillary lymph nodes." A 7.0 x 5.0 x 2.0 cm aggregate of adipose
+tissue fragments containing 11 lymph nodes up to 1.5 cm. The lymph nodes all appear involved by
+tumor with the largest metastasis measuring 1.4 cm. Extracapsular extension is noted.
+Microscopic Description: Biopsy type: Mastectomy
+ICD-O.3
+Carcinoma, infiltrating
+Tumor site: Central
+Size: 5.7 cm
+Specimen Margin: Free of invasive carcinoma by 20 mm (deep)
+Tumor grade (SBR/Nottingham):N/A
+Tubule formation: N/A
+Nuclear atypia: 2
+NIOS
+852013
+Site B Breast Nos.
+NOS
+050.9
+6/10/13
+UUID:649E6215-36F9-4BEB-9EE9-683E4FC75C42
+TCGA-E9-A6HE-01A-PR
+Redacted
+Mitotic rate: 2 (focal)
+Lymphovascular invasion: Present (focal)
+In situ component: Lobular carcinoma in situ
+Calcifications: Absent
+Non-neoplastic breast: Atrophic with intramammary metastases
+Estrogen (ER) and Progesterone (PR) Receptors (IMPX): ER strongly positive, PR strongly positive on
+previous biopsyHer-2/Neu (H2N)
+Amplification: Negative on previous biopsy
+Nipple involvement: Present
+Skin involvement: No
+Skeletal muscle: Not present
+Lymph nodes: Axillary (specimens A and C): 12 metastases (12 nodes examined) The largest metastasis
+is 14 mm; there is extensive extracapsular extension.
+PTNM Stage: pT3 N3
+Diagnosis Details: Subcutis (right axilla): Metastatic invasive lobular carcinoma (presumable an effaced
+lymph node) Breast (right): Invasive lobular carcinoma, pleomorphic type with intramammary and
+axillary metastases
+Comments: Multiple axillary lymph nodes exhibit effacement by invasive lobular carcinoma, with
+extensive involvement of extranodal adipose tissue. Invasive lobular carcinoma extends to the
+cauterized margin of axilla specimen
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 5.7 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating lobular carcinoma
+Histologic grade: Not specified
+Tumor extent: Nipple
+Lymph nodes: 12/12 positive for metastasis (Axillary 12/12)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: Right breast
+Criteria
+agnosis Discrepancy
+w 1/3/13 1
+Pissy Turor She Discrepancy
+Prepancy.
+Por argnancy History
+Dial/Senchronous Primary Nethe
+Ca(ci
+Reviewer l
+Yes
+QUALIFIED ㅏ DISQUALIFIED
+eviewed:
+013413
+No

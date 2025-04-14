@@ -1,0 +1,278 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nes 8500/3
+Site: breast, Nos
+050.9
+Collected by:
+-
+Preserved by:
+Diseased
+a
+Frozen
+Normal
+Time to LN2
+ሊስ
+x
+Notes:
+min
+1/28/11
+سل
+Pathology Form
+Specimen Information
+Date:
+Time:
+Date:
+Time:
+SPECIMEN TYPE (# of samples provided)
+Paraffin Block
+Diseased
+х
+Normal
+x
+Blood Serum/Plasma
+Diseased
+Slide
+Normal
+Diseased
+Normal
+Time to Formalin
+Time to LN2
+До
+min
+80
+min
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Organ
+sent
+2.5x
+x
+ст
+Extension of Tumor
+me
+Distance to NAT
+2
+cm
+Location
+Axilla
+Lymph Nodes
+# Examined
+10
+# Metastasized
+Detailed Location
+Size
+Organ
+No
+Distant Metastasis
+Pathological Staging
+PT2
+No
+Mo
+Stage: IIA.
+Redacted
+UUID:273152AA-7B4C-4AE5-9231-1A3160058C74
+TCGA-C8-
+A120-01A-PR
+Crite la
+Diagnosis Cscrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima.yNoted
+Case (circle):
+Review A
+QUALIFIED
+Date Biewed:
+Yes
+No
+DISQUALIFIED
+9/30/10
+Microscopic Description
+Histological Pattern
+#:\
+Structural Pattern
++
+Cell Distribution
++
+-
+Diffuse
++
+Mosaic
+Necrosis
+土
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
++
+Alveolar Formation
+Indian File
+Streaming
+Storiform
+Fibrosis
+Palisading
+Cystic Degeneration
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+Cellular Differentiation
+Squamous
++
+Adenomatous
++
+Sarcomatous
++
+-
+Squamoid Cell
+Glandular cell
++
+Round Cell
+Spindle Cell
+Cell Stratification
+Fibroblast
+Lymphomatous +
+Large Cell
+Small Cell
+Keratin
+Secretion
+Osteoblast
+RS Cell/RS Like
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Inflam. Cell
+Pearl
+Gland formation
+Myoblast
+Plasma Cell
+Cellular Differentiation:
+Well
+✓ Moderate
+Poor
+Nuclear Appearance
+Nuclear Atypia:
+0
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade:
+IHC Data
+Value
+Marker
+ER
+PR
+Her-2/neu
+B-Cell Marker
+T-Cell Marker
+Other:
+Other:
+Result
+□ Negative
+□ Positive
+□ Negative □ Positive
+□ Negative ☐ Positive
+□ Negative □ Positive
+□ Negative □ Positive
+□ Negative ☐ Positive
+☐ Negative □ Positive
+Final Pathology Report
+Histological Diagnosis: Imasive Ductal carciuma
+Comments:
++
+土
++
+III
++
+Date
+Grade: I
+nalarint
+Date
+Principal Investigator
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+Diffuse
+1. Histological pattern:
+CELL DISTRIBUTION
++
+-
+4 Streaming
+STRUCTURAL PATTERN
+Mosaic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+2. Cellular features:
++
+☑
+☑
+Storiform
+☑ Fibrosis
+Palisading
+☑ Cystic Degeneration
+☑ Bleeding
+☑ Myxoid Change
+Psammoma/Calcification
+Squamous
+Squamoid Cell
+Spindle Cell
+Keratin
+Desmosome
+Pearl
+Adenomatous
++
+-
+Sarcomatous
++
+Glandular cell
+1.
+Round Cell
+Lymphomatous
+Large Cell
++
+Cell Stratification
+या
+Fibroblast
+Secretion
+☑
+Osteoblast
+Intracyt. Vacuole
+Gland formation
+☑
+☑
+Lipoblast
+Myoblast
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+Otherwise Specified:
+D, 55% Dr 55%
+2. Cellular Differentiation:
+Well
+Moderately
+Poor
+3. Nuclear Atypia:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Appearance
+Nuclear Grade
+0
+II
+III
+א
+a
+✓
+Histological Diagnosis: Infiltrating Ductal alconime,
+Comments:.
+NOS, 6-3
+Date
+TEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLO
+TCH USE ONLY).

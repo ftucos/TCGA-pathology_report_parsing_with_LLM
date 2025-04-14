@@ -1,0 +1,58 @@
+UUID:36F6CB19-17FE-47FA-BFCA-3846578C028B
+TCGA-D8-A27E-01A-PR
+Internal invoice No.
+Patient: XXX
+Redacted
+1CD-0-3
+carcinoma, infiltrating duct and
+mucinous 8523/3
+Site: breast, Nos C50.9
+Department of Cancer Pathology
+copy No.
+2
+Date:
+Examination: Histopathological examination
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+Material: Partial organ resection - left breast, inner upper quadrant.
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+fw 5/19/11
+page 1 / 1
+Examination No.:
+Expected time of examination: 5 working days
+Clinical diagnosis:
+Examination performed on:
+Macroscopic description:
+Part of the breast sized 6.6 x 5.3 x 1.9 cm removed together with a skin flap of 5.8 x 3.3 cm, marked typically, with an
+X-ray image. Tumour in cross section sized 0.9 x 0.8 x 1.7 cm. Location of margins: 0.4 cm to the base; 0.5 cm to the
+front surface; 1.8 cm to the sternum; 3.7 cm to the axilla; 1.8 cm to the shoulder 2.3 cm, 1.7 cm to the lower edge.
+Radiogram showing a shadowing of 1.4 x 1.4 cm, skin injected with blue dye.
+Microscopic description:
+Carcinoma ductale invasivum partim mucinosum invasivum mammae sinistrae NHG2 (3 + 2 + 1/1 mitoza/10 HPF,
+visual area diameter: 0.55 mm). Largest lesion dimension 1.7 cm. Normal tissue margines as in the macroscopic
+description. Surgical specimen texture outside tumour showing mastopathia fibrosa partim lipomatosis.
+Histopathology Diagnosis:
+Carcinoma ductale partim mucinosum invasivum mammae sinistrae N1IG2, pTlc.
+Invasive ductal and in part mucinous carcinoma of the left breast.
+dr
+Compliance validated by:
+dr
+Criterla
+Diagnosis Discrepancy
+Prunary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dul/Sinchronous Prima Noted
+Case is (circle):
+Review Inti
+QUALIFIED
+Die Reviewe
+5/19/1
+Yes
+DISQUALIHED
+15/13/11

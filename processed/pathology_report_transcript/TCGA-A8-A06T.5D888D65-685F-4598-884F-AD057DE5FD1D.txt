@@ -1,0 +1,33 @@
+1CD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+CQCF
+Site: breast, HoQ C50.4
+Site: breast, Nos
+050.9
+1/25/11
+سر
+Diagnosis:
+1. Left-sided ablated breast tissue with a 55 mm moderately differentiated invasive ductal
+breast carcinoma measuring with completely circumscribed invasion of the lymph vessels
+without an intraductal tumor component with a minimum basal margin of 3 mm, a 6 mm
+margin at 12 o'clock and surrounding a fibrocystic and proliferating mastopathy with ductal
+hyperplasia and sclerotic, intraductal papillomas, tumor-free epidermis, including nipple and
+tumor-free isolated samples of pectoral muscle.
+Tumor classification:
+M-8500/3, G 2, pT3, pL1, pN1a (1/13), pMx, stage III A. RO.
+UUID:5D888D65-685F-4598-884F-AD057DESFD1D
+TCGA-A8-A06T-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case cirlca
+Review In
+QUALIFIED
+Date Revieved:
+Yes
+DISQUALIFIED
+Redacted

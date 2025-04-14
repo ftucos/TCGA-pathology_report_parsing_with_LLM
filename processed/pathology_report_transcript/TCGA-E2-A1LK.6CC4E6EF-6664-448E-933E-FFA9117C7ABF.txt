@@ -1,0 +1,160 @@
+سل
+TSS:
+SPECIMENS:
+A. LEFT MODIFIED RADICAL MASTECTOMY
+B. LEFT AXILLARY CONTENTS LEVELS 1 AND 2
+SPECIMEN(S):
+A. LEFT MODIFIED RADICAL MASTECTOMY
+B. LEFT AXILLARY CONTENTS LEVELS 1 AND 2
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+8500/3
+Path Site: breast, upper outer quadrant C50.4
+CQCF Site: breast, Nos C50.9
+Gross Exam A Left breast, modified radical mastectomy: Tumor is grossly 0.1 cm for posterior margin
+and >0.5 cm from other margins.
+By Dr., called to Dr. at
+GROSS DESCRIPTION:
+A. LEFT MODIFIED RADICAL MASTECTOMY
+Received fresh labeled with the patient name designated "left modified radical mastectomy", is a
+resected mastectomy specimen 
+weighing 203 grams and measuring 19.6 x 7.5 x 5.8 cm. Specimen is
+received with orientation, a suture 
+indicating the axillary tail. The ellipse of beige-tan skin measures
+15.8 x 7.2 cm. The light brown areola 
+measures 2.5 cm in diameter. The everted nipple measures 1.3
+cm in diameter. The surface of the skin shows 
+two firm masses, the larger measuring 2.5 x 2, the
+smaller measuring 0.6 x 0.6 cm. 
+A large mass is palpated beneath the two lesions. The deep posterior
+margin is inked black, the anterior is inked 
+orange. The specimen is serially sectioned from lateral to
+medial. Cut section shows a beige-
+tan firm, slightly necrotic mass which demonstrates a thick amber
+colored mucoid fluid. The mass lies 
+just beneath the deep margin at a distance of 0.1 cm. The mass
+occupies the upper outer quadrant into 
+the axillary tail. The mass measures 6.8 x 6.5 x 3.5 cm. The
+remainder of the specimen shows 
+dark yellow lobulated adipose tissue with focal areas of white firm,
+fibrous parenchyma. A portion of the 
+specimen is submitted for tissue procurement. Gross
+photographs are taken. Representative 
+sections are submitted as follows:
+A1-A2: sections of lesion and closest margin, posterior, and skin
+A3-A4: one full thickness section from skin to deep margin with lesion
+A5-A11: sections 
+of lesion from upper-outer quadrant through mid portion
+A12-A13:
+A14-A15:
+A16-A17:
+A18-A19:
+A20-A24:
+sections of lower-outer quadrant
+representative sections lower-inner quadrant
+representative sections upper-inner quadrant
+sections of nipple
+axillary lymph nodes, 2 sections from each
+B. LEFT AXILLARY CONTENTS LEVELS 1&2
+Received fresh are multiple tan-pink fragments of fibrofatty tissue aggregating to 6.0 x 3.0 x 2.0 cm.
+Dissection reveals 13 possible lymph nodes 
+ranging from 0.1 x 0.1 x 0.1 cm to 3.5 x 2.5 x 2.0 cm.
+Section code:
+B1: Three possible lymph nodes
+B2: Four possible lymph nodes
+B3: Two possible lymph nodes
+2/15/11
+UUID:6CC4E6EF-6664-448E-933E-FFA9117C7ABF
+TCGA-E2-A1LK-01A-PR
+Redacted
+B4: Two possible lymph nodes
+B5: One lymph node serially sectioned
+B6-B10: Largest lymph node serially sectioned
+DIAGNOSIS:
+A. BREAST, LEFT, MODIFIED RADICAL MASTECTOMY:
+-
+-
+MULTIFOCAL, INVASIVE, DUCTAL CARCINOMA, SBR GRADE 3 WITH
+NECROSIS, 
+LARGEST FOCUS MEASURES 6.8-CM, INVOLVING LATERAL
+HALF OF THE 
+BREAST WITH EXTENSION TO SUPERFICIAL DERMIS
+- SURGICAL RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA
+- LYMPHOVASCULAR AND PERINEURAL INVASIONS IDENTIFIED
+METASTATIC CARCINOMA TO TWO OF THREE LYMPH NODES (2/3), WITH
+EXTRANODAL EXTENSION
+, LARGEST MEASURING 2.8-CM
+SEE SYNOPTIC REPORT.
+-
+B. LYMPH NODES, LEFT AXILLARY CONTENTS, LEVELS 1 AND 2, RESECTION:
+METASTATIC 
+CARCINOMA TO NINE OF TWELVE LYMPH NODES (9/12),
+WITH EXTRANODAL 
+EXTENSION, LARGEST MEASURING 3.5-CM.
+TSS:
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+No
+Laterality: Left
+Invasive tumor:
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 6.8cm
+Tumor site: Upper outer quadrant
+Lower outer quadrant
+Margins: Negative
+Distance from closest margin: 0.4cm
+deep
+Tubular score:
+Nuclear grade:
+Mitotic score:3
+3
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: Present
+Extent:
+focal
+Lobular neoplasia:
+None
+Lymph nodes:
+Axillary dissection
+Lymph node status:
+3
+Positive 11/15 Extranodal extension
+Non-neoplastic areas: fibroadenoma
+DCIS not present
+ER/PR/HER2 Results
+Performed on Case:
+ER: Negative
+PR: Negative
+HER2: Negative by FISH
+Pathological staging (pTN):
+pT 3 N 3a
+CLINICAL HISTORY:
+year old female with large left breast IDC/ulcerating - now for modified radical mastectomy (left).
+PRE-OPERATIVE DIAGNOSIS:
+Left breast carcinoma.
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review:., Pathologist,
+Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary fumor Site Dis Tenancy
+HIPAA Disa pan
+Prior Malignancy History
+Dual/Sychronous Primary Noted
+Case is (circie):
+Reviewer initials
+QUALINES / DSQUAure
+Date Reviewed:_
+Yes
+No

@@ -1,0 +1,146 @@
+Patient:+
+Surgical Pathology: Additional Info
+Surg Path
+ICD-0.3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site Code: breast, Nos
+050.9
+1/17/11
+سا
+UUID:1E498731-FE74-493E-A330-477643800305
+TCGA-B6-A0I1-01A-PR
+CLINICAL HISTORY:
+Left breast carcinoma.
+GROSS EXAMINATION:
+AF1", received fresh. A previously
+A. "Left breast tissue 3.5 × 2 × 2
+incised unoriented 5.4 × 4.8 x 3.5 cm portion of yellow-white fibrofatty
+tissue. There is a 3.5 x 2 x 2 cm firm variegated yellow-gray sabulous mass
+focally abutting the margin. Representative tissue from the mass is frozen as
+AF1, the remnant is submitted as Al. The majority of the remainder of the
+mass is submitted as A2-A5.
+B. "Left breast", received fresh. A 10360 gram 33 x 21 x 5. 5 cm mastectomy
+composed of a 29 x 16.3 cm ellipse of tan brown skin with underlying 28 x 21 x
+5.5 
+cm of fibrofatty breast tissue and contiguous 9.0 x 5.8 x 2.4 cm of
+axillary contents. There is a central 5.5 cm areolar with a central everted
+1.3 cm nipple. 6 cm lateral to the edge of the areolar is an 8 cm freshly
+sutured 
+incision. The surgical margin is marked with blue ink and the
+specimen is sectioned to reveal an approximately 6 cm diameter cavity 0.6 cm
+subjacent to the previously described skin incision. The cavity is within 1.4
+cm of the deep margin and 3 cm from the closest soft tissue margin
+(inferior). The biopsy cavity is in the outer half of the specimen and has
+slightly indurated borders but no residual tumor grossly appreciated.
+remainder of the breast parenchyma is composed primarily of yellow adipose
+tissue 
+intermixed with focal dense pink fibroconnective tissue and no
+additional lesions noted.
+Block Summary:
+Bl
+B2
+B3
+B4
+-
+-
+-
+Nipple
+Edge of incision and underlying cavity.
+Cavity in relationship to deep margin.
+Representative of closest soft tissue margin (inferior).
+B5-6 Representative random cavity wall.
+Random lower outer quadrant.
+Random upper outer quadrant.
+Representative central parenchyma.
+Lower inner quadrant.
+B7
+B8
+B9
+B10
+B11
+-
+Upper inner quadrant.
+B12
+B13
+B14
+One lymph node candidate, proximal.
+Four lymph node candidates, mid
+One bisected lymph node candidate, mid.
+The
+B15-17 Largest section of lymph node candidate, mid (4.7 x 2.4 x 0.9 cm.
+Two lymph node candidates, distal.
+B18
+-
+INTRA OPERATIVE CONSULTATION:
+A. "Left breast tissue": AF1 - invasive carcinoma present
+DIAGNOSIS:
+A. "LEFT BREAST TISSUE" (EXCISIONAL BIOPSY):
+INFILTRATING CARCINOMA PRESENT, HISTOLOGIC TYPE DUCTAL.
+N.S.A.B.P. NUCLEAR GRADE 3 OF 3.
+N.S.A.B.P. HISTOLOGIC GRADE 3 OF 3.
+GROSS TUMOR SIZE: 3.5 X 2 X 2 CM.
+SIZE OF INVASIVE COMPONENT: 3.5 X 2 X 2 CM.
+LYMPHATIC/VASCULAR INVASION: ABSENT.
+MULTIFOCAL TUMOR: ABSENT.
+Criteria
+Diagnosis Discrepancy
+Yes
+Redacted
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignamy history
+Dual, Synchronous Primary Noted
+Case is (circle):
+Reviewer Initias
+QUALIFIED
+De Reviewed:
+DISQUALIFIED
+"KM in IBTI
+1 of 2
+IN-SITU CARCINOMA: PRESENT, OCCUPYING 50% OF TUMOR (SEE COMMENT)
+TYPE OF IN-SITU CARCINOMA: COMEDO, MICROPAPILLARY.
+SIZE OF IN-SITU CARCINOMA: APPROXIMATELY SIZE OF BIOPSY (5.4 CM).
+EXTENSIVE INTRADUCTAL COMPONENT: PRESENT.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: NOT APPLICABLE.
+SIZE OF BIOPSY: 5.4 X 4.8 X 3.5 CM.
+MICROCALCIFICATIONS: FOCALLY PRESENT
+SURGICAL MARGIN STATUS: NOT EVALUATED.
+ESTROGEN/PROGESTERONE RECEPTOR AND CELL CYCLE ANALYSIS: PENDING.
+METHODOLOGY: IMMUNOHISTOCHEMISTRY, PARAFFIN BLOCK A4.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+COMMENT: The tumor mass is a complex admixture of invasive and in-situ
+carcinoma. The exact percentage of invasive carcinoma is difficult to
+determine with certainty, but is estimated at approximately 50%.
+B. "LEFT BREAST" (MODIFIED RADICAL MASTECTOMY):
+RESIDUAL INFILTRATING CARCINOMA ABSENT.
+RESIDUAL IN SITU CARCINOMA PRESENT.
+TYPE OF IN-SITU CARCINOMA MICROPAPILLARY.
+SIZE OF IN-SITU CARCINOMA: SEE COMMENT, EXTENSIVE.
+NIPPLE STATUS, FREE OF TUMOR.
+SKIN STATUS, FREE OF TUMOR.
+MUSCLE STATUS, NOT SAMPLED.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: FIBROCYSTIC CHANGES.
+SURGICAL MARGIN STATUS: NEGATIVE.
+LYMPH NODE STATUS: SEVEN LYMPH NODES, NO EVIDENCE OF MALIGNANCY (0/7).
+COMMENT: Random sections around the biopsy site show foci of residual in-situ
+carcinoma. 
+In addition, a random section in the central breast several cm
+away from the biopsy site is also positive for in-situ carcinoma, indicating a
+rather large area involved by residual in-situ disease. The margins of
+resection are negative, however.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+Electronically signed.
+ADDENDUM 1:
+Tissue was sent to the image cytometry laboratory for assay of the estrogen
+and 
+progesterone receptors. The estrogen receptor activity was judged to be
+negative with an 
+estimated FMOL value of 0. The progesterone receptor activity
+was judged as 
+negative with an estimated FMOL value of 0. Please refer to
+For a complete report.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis (es).
+Electronically :
+2 of 2

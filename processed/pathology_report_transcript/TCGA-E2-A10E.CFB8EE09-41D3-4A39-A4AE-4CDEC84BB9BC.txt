@@ -1,0 +1,224 @@
+ICD-0-3
+Carcinoma, Infiltrating duct, Nos 8500/3
+Path Site Code; breast, central (50.1
+TSS Pt ID
+SPECIMENS:
+A. WLE VULVA
+B. SENTINEL LYMPH NODE #1
+C. SENTINEL LYMPH NODE #2
+D. SENTINEL LYMPH NODE #3
+E. SENTINEL LYMPH NODE #4
+F. SENTINEL LYMPH NODE #5
+G. LEFT BREAST
+H. LEFT AXILLARY CONTENTS
+SPECIMEN(S):
+A. WLE VULVA
+B. SENTINEL LYMPH NODE #1
+C. SENTINEL LYMPH NODE #2
+D. SENTINEL LYMPH NODE #3
+E. SENTINEL LYMPH NODE #4
+F. SENTINEL LYMPH NODE #5
+G. LEFT BREAST
+H. LEFT AXILLARY CONTENTS
+GROSS DESCRIPTION:
+A. WLE VULVA
+CQCF
+Site: breast, Nos 050.9
+UUID:CFB8EE09-41D3-4A39-A4AE-4CDEC84BB9BC
+TCGA-E2-A10E-01A-PR
+Redacted
+Received is a vulvectomy specimen measuring 4 x 1.7 x 1 cm. The surface of the specimen is tan-gray
+and unremarkable. The single right stitch is arbitrarily designated 12 o'clock. The specimen is inked as
+follows: 12 o'clock, 3 o'clock, 6 o'clock-blue, 6 o'clock, 9 o'clock, 12 o'clock-orange. The specimen is
+serially sectioned from right to left and submitted in toto as follows:
+A1: 12 o'clock right margin
+A2-A4: full thickness sections from right to left
+A5: 6 o'clock left margin
+B. SLN #1: Received fresh is a tan pink lymph nodes 1.0 x 0.9 x 0.5cm. The specimen is bisected,
+touch preps are taken and the specimen is submitted in toto in FSB.
+C. SLN #2: Received fresh is a tan pink lymph nodes 0.5 x 0.3 x 0.3cm. The specimen is bisected,
+touch preps are taken and the specimen is submitted in toto in C1.
+D. SLN #3: Received fresh is a tan pink lymph nodes 1.0 x 0.5 x 0.5cm. The specimen is bisected,
+touch preps are taken and the specimen is submitted in toto in D1.
+E. SLN#4: Received fresh is a tan pink lymph nodes 1.5 x 1.3 x 0.5cm. The specimen is bisected, touch
+preps are taken and the specimen is submitted in toto in E1.
+F. SLN#5: Received fresh is a tan pink lymph nodes 1.0 x 0.9 x 0.5cm. The specimen is bisected, touch
+preps are taken and the specimen is submitted in toto in F1.
+G. LEFT BREAST:
+Received fresh is a 474 gram simple mastectomy specimen measuring 21 x 19 x 3.5 cm. The
+specimen is partially surfaced with a tan-pink ellipse of skin measuring 16 x 16 cm. The skin surface is
+remarkable for a centrally located partially raised nipple 1 cm. The areola rim measures 1.3 cm. The
+specimen is inked as follows: superior anterior-blue, anterior inferior-orange, posterior-black. The
+specimen is serially sectioned from lateral to medial into 10 slices; slice serially sectioned from medial
+to lateral in 10 slices; slice 1 the most medial, slice 10 the most lateral. The nipple is located in slice 5
+and 6. The cut surface reveals a gray-white firm well circumscribed mass measuring 2.5 x 1.5 x 1 cm,
+located in slice 5 and 6 and measuring 0.7 cm. from the closest deep margin. The mass is retroareolar
+measuring 2 cm. deep from the nipple. A second satellite nodule is identified in slice 8 measuring 1 x
+0.9 x 0.8 cm, 0.4 cm. from the deep margin and 5.5 cm. from nodule #1. A third possible satellite
+nodule is grossly identified in slice 7 measuring 0.4 cm. in greatest dimension, greater than 0.1 cm. from
+the deep margin and 2.0 cm. from nodule #2 and 4 cm. from nodule #1. Nodule 2 and 3 are both
+located in the lower outer quadrant. Remaining cut surfaces reveal predominantly yellow lobulated
+adipose tissue interdispersed with gray-white fibrous tissue. A portion of the specimen is submitted for
+tissue procurement. Representative sections are submitted as follows:
+G1: nipple serially sectioned slice 5
+G2: nipple serially sectioned slice 6
+G3: upper inner quadrant slice 3
+G4: upper inner quadrant with deep margin slice 4
+G5: lower inner quadrant slice 3
+12/19/10
+سر
+G6: lower inner quadrant slice 4
+G7: area immediately adjacent to mass #1
+G8; slice 4
+G9: slice 5
+G10: upper central slice 5
+G11: lower central slice 5
+G12: skin adjacent no nodule #1
+G13-G14: nodule #1 with closest deep margin slice 6
+G15: area above nodule #1 slice 6
+G16: immediately adjacent to nodule #1 with deep margin slice 7
+G17: nodule #3 with deep margin slice 7
+G18: lower outer quadrant slice 7
+G19: area immediately adjacent to nodule #2 with deep margin slice 7
+G20: upper outer quadrant with deep margin slice 8
+G21: inferior margin lower outer quadrant adjacent to nodule #2 slice 8
+G22: nodule #2 with deep margin slice 8 lower outer quadrant
+G23: area immediately adjacent to nodule #2 with inferior and deep margin slice 9
+H. LEFT AXILLARY CONTENTS:
+Received in formalin are multiple tan-pink fragments of fibrofatty tissue aggregating to 7 x 6 x 3 cm.
+Dissection reveals 15 possible lymph nodes ranging from 0.1 x 0.1 x 0.1 cm to 2 x 1.5 x 1 cm. Section
+code:
+H1: Five possible lymph nodes
+H2: Five possible lymph nodes
+H3: Four possible lymph nodes
+H4: One lymph node serially sectioned.
+DIAGNOSIS:
+A. VULVA, WIDE LOCAL EXCISION:
+- MODERATE TO SEVERE SQUAMOUS DYSPLASIA (VIN II-III)
+- MILD SQUAMOUS DYSPLASIA PRESENT AT 12 O'CLOCK TO 6 O'CLOCK
+MARGIN, SEE NOTE 1.
+B. LYMPH NODE, SENTINEL #1, LEFT AXILLA, BIOPSY:
+-
+METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+MEASURING 3.5 MM WITH EXTRANODAL EXTENSION.
+C. LYMPH NODE, SENTINEL #2, LEFT AXILLA, BIOPSY:
+-
+-
+ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODE, SENTINEL #3, LEFT AXILLA, BIOPSY:
+ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+E. LYMPH NODE, SENTINEL #4, LEFT AXILLA, BIOPSY:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+MEASURING 1.2-CM WITH NO EXTRANODAL EXTENSION.
+F. LYMPH NODE, SENTINEL #5, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+G. BREAST, LEFT SIMPLE MASTECTOMY:
+- THREE FOCI OF INVASIVE, DUCTAL CARCINOMA, SBR GRADE 1, LARGEST
+MEASURING 1.8-CM
+-
+SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+-
+TUMOR (LARGEST FOCUS) IS 2.5-MM FROM THE DEEP SURGICAL
+RESECTION MARGIN
+- LOW NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, MICROPAPILLARY,
+CRIBRIFORM AND PAPILLARY TYPES
+- PERINEURAL INVASION IDENTIFIED
+-
+SEE SYNOPTIC REPORT AND SEE NOTE 2.
+H. LYMPH NODES, LEFT AXILLARY CONTENTS, DISSECTION:
+SIXTEEN LYMPH NODES, NEGATIVE FOR METASTASES (0/16).
+NOTE 1: Mild squamous dysplasia is present at the 12 o'clock-3 o'clock-6 o'clock margin in multiple
+levels. Focally, this margin has cautery artifact which precludes the assessment of degree of dysplasia.
+NOTE 2: Three foci of invasive ductal carcinoma are identified; largest measuring 1.8-cm is located
+centrally. The other two foci measure 1.0-cm and 0.4-cm respectively. All surgical resection margins
+are free of tumor. The closest margin is posterior (2.5 mm from the largest tumor mass).
+Specimen Type:
+SYNOPTIC REPORT - BREAST
+Mastectomy
+Needle Localization:
+No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.8cm
+Tumor Site:
+Margins:
+Central__
+Negative
+Distance from closest margin: 0.25cm
+deep
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+2
+2
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+Lymph nodes:
+None
+1
+Sentinel lymph node and axillary dissection
+Positive 2/21 Extranodal extension
+Lymph node status:
+Micrometastases:
+DCIS present
+No
+Margins uninvolved by DCIS
+DCIS Quantity:
+DCIS Type: Cribriform
+Micropapillary
+Papillary
+Estimate 2%
+DCIS Location:
+Associated with invasive tumor
+Nuclear grade:
+Low
+Necrosis: Absent
+Location of CA++:
+DCIS
+Benign epithelium
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN): pT 1c N 1a
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Multifocal invasive ca. left breast
+INTRAOPERATIVE CONSULTATION:
+FSB/TPB: Positive for tumor cells. Diagnosis called to Dr. at
+TPC/TPD/TPF: Negative for tumor cells. Diagnosis called to Dr at
+TPE: Positive for tumor cells. Diagnosis called to Dr. at
+1
+by Dr
+by Dr.
+by Dr.
+Gross Dictation:., Pathologist
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist
+Microscopic/Diagnostic Dictation: Pathologist,
+Microscopic/Diagnostic Dictation:.. Pathologist
+Final Review:., Pathologist,
+Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual,Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+D'ALTIED
+But Reviewed:
+W

@@ -1,0 +1,99 @@
+UUID:BB85F844-C710-41D5-8620-E246DC9D2C6A
+TCGA-A7-A6VY-01A-PR
+ICD-0-3
+Carcinoma, infiltrating No S
+850013
+Redacted
+Sute Breast NOS
+C50.9
+لله
+60 7/25/13
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Right breast, excisional biopsy:
+Infiltrating ductal carcinoma, grade 3, 3.5 cm in greatest dimension.
+Invasive carcinoma 1 mm from posterior margin of resection.
+Ductal carcinoma in situ, solid subtype, nuclear grade 3, accounting
+for less than 5% of the tumor, margins uninvolved
+B.
+Right axillary contents, resection:
+Metastatic carcinoma in 2 of 14 lymph nodes, size of largest
+metastasis 3.4 cm, extracapsular extension present (2/14).
+Microscopic Description:
+Microscopic examination performed.
+A.
+Invasive Carcinoma: present
+Histologic type: infiltrating ductal cancer
+Histologic grade:
+Overall grade: 3
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (PT): 3.5 cm, pT2
+Specimen margins: negative but close, 1 mm from the
+posterior margin (black in block A6)
+Vessel invasion: not identified
+Ductal carcinoma in situ: present
+Histologic pattern: solid
+Nuclear grade: 3
+Central Necrosis: focal
+% DCIS of total tumor (if mixed): < 5%
+Extensive intraductal component (present/absent):
+Specimen margins: negative, 3 mm from posterior
+Calcification: not identified
+absent
+B. Sections of the axillary dissection demonstrate metastatic
+carcinoma in 2 of 14 lymph nodes, (pN1). The size of largest
+metastasis is 3.4 cm. Extracapsular extension is present.
+Specimen
+A. Right breast mass
+B. Right axillary contents
+Clinical Information
+Right breast cancer -year-old black female with right cancer and
+positive nodes
+Gross Description
+Received fresh in a transpec container, subsequently fixed in formalin
+labeled "right breast mass" is a 6.0 x 5.5 x 4.5 cm yellow pink fatty
+tissue fragment which has a short suture designating superior and a
+long suture designating anterior. The margins are inked as follows
+based upon the orienting sutures: superior - orange; anterior - blue;
+posterior - black; inferior green. The specimen is serially
+sectioned from medial to lateral. There is a 3.5 x 3.2 x 2.5 cm ill
+circumscribed white tan mass centrally located, and within 0.2 cm of
+the closest margin (deep). White rice-like pellets or gross identified
+in the central which we be grossly consistent with a previous biopsy
+site. The specimen is received in pathology it
+nd fixed in
+formalin and
+Representative sections of the specimen are
+submitted as Hollows: 1 - medial margin perpendicular, 2 - lateral
+margin perpendicular. 3 - 10 - representative sections of the remainder
+of the specimen.
+B. Received fresh and subsequently fixed in formalin labeled "right
+axillary contents" is a 12.0 x 6 x 5 x 2.5 cm aggregate of yellow fatty
+tissue grossly consistent with axillary contents. The specimen has a
+suture designating superior. Multiple lymph nodes are palpated the
+largest measuring 3.4 cm and located midway through the specimen. The
+highest is markedly indurated as is the largest lymph node. The lymph
+nodes are submitted from highest to lowest as follows: 1 -lymph node
+bisected, 2 - 3 possible lymph nodes, 3 - 4 - 3 possible lymph nodes
+each, 5 representative section of largest positive lymph node, /1
+possible lymph node bisected, 7 - 2 possible lymph nodes, 8 - 1
+possible lymph node.
+riteria
+iugnosis Discrepancy
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+7/13/13
+Yes
+No
+✓
+✓
+✓
+I DISQUALIFIED
+ual/Synchronous Primary Noted
+ase is (circle):
+QUALIFIED
+eviewer initials - Date Reviewed: U

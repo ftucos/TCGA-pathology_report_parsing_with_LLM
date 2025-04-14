@@ -1,0 +1,198 @@
+TSS:
+Metastatic Lymph Node
+UUID:3687AF42-4BB3-46E2-8091-E0C5C84F15E6
+TCGA-E2-A15A-06A-PR
+Redacted
+SPECIMENS:
+A. LEFT AXILLARY NON SLN #1
+B. RIGHT AXILLARY SLN #1
+C. RIGHT BREAST
+D. LEFT BREAST
+E. LEFT AXILLARY CONTENTS
+SPECIMEN(S):
+A. LEFT AXILLARY NON SLN #1
+B. RIGHT AXILLARY SLN #1
+C. RIGHT BREAST
+D. LEFT BREAST
+E. LEFT AXILLARY CONTENTS
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICD-0-3
+carcinoma, infiltrating duct, Nos
+8500/3
+Site: lymph node, axillary c77.3
+TPA-left axillary non-sentinel lymph node #1: Positive for carcinoma.
+TPB-right axillary Sentinel lymph node #1: Negative for carcinoma.
+Diagnoses called by Dr. to Dr. at
+GROSS DESCRIPTION:
+A. LEFT AXILLARY NON SLN #1
+سل
+3/5/14
+Received fresh labeled with the patient's identification and "left axillary non-sentinel lymph node #1" is a 1.3 x 1.1 x
+0.4 cm lymph node. Bisected, a touch prep is performed, and specimen is submitted entirely in cassette A1.
+B. RIGHT AXILLARY SENTINEL LYMPH NODE #1
+Received fresh labeled with the patient's identification and "right axillary Sentinel lymph node #1" is a 1.2 x 1.1 x 0.5
+cm lymph node. It is bisected; touch prep is performed, submitted entirely in cassette B1.
+C. RIGHT BREAST
+Received fresh labeled with the patient's identification and "right breast" is an oriented 243 g, 16 x 15 x 12 cm
+mastectomy with 5 x 2.5 cm skin ellipse and 1.7 cm everted nipple. Ink code: anterior/superior-blue, anterior/inferior-
+orange, posterior-black. Specimen is serially sectioned into 11 slices from medial to lateral with nipple in slice 4
+revealing a 1.5 x 1.3 x 1.2 cm biopsy site located in the upper outer quadrant, 0.4 cm from the deep margin and less
+than 0.1 cm from the anterior margin. Representatively submitted:
+C1: slice 3, upper inner quadrant
+C2: slice 5, upper inner quadrant
+C3: slice 7, upper outer quadrant
+C4: slice 10, upper outer quadrant
+C6-C8: slice 11, upper outer quadrant (biopsy site)
+C7: slice 9, lower outer quadrant
+C8: slice 8, lower outer quadrant
+C9: slice 4, lower inner quadrant
+C10: slice 2, lower inner quadrant
+C11-C12: nipple, perpendicular sections
+C13: skin and nipple
+D. LEFT BREAST
+Received fresh labeled with the patient's identification and "left breast" is an oriented 359-g, 15 x 13.5 x 3 cm
+mastectomy with 9.5 x 3.7 cm skin ellipse and 1.4 cm everted nipple. Ink code: Anterior/superior-blue,
+anterior/inferior-orange, posterior-black. Specimen is serially sectioned into 11 slices from lateral to medial with
+nipple in slice 5 revealing 3 lesions:
+1) 4 x 3.5 x 3 cm firm stellate mass in the upper inner quadrant slices 6-9 that is closest to the anterior margin at 1.1-
+cm.
+2) 1.5 x 1.2 x 1 cm firm nodule in the upper outer quadrant in slice 1 which is 0.8 cm from the deep margin and 5.7
+cm lateral to lesion #1
+3) 1.4 x 1.2 x 1.1 cm nodule in the lower outer quadrant in slice 1 which is less than 0.1-cm from the anterior margin
+and 1.6 cm inferior to lesion #2
+Tissue is procured. Representatively submitted:
+D1: slice 1, upper outer quadrant (nodule 2)
+D2: slice 1, tissue connecting nodule 1 to nodule 2
+D3: slice 1, lower outer quadrant (nodule 3)
+D4: slice 2, posterior mid
+D5: slice 3, mid section
+D6: slice 4, mid section
+D7: slice 5, mid section posterior to nipple
+D8: slice 6, section (mass)
+D9: slice 7, mass and posterior margin
+D10-D13: mass including margins, en bloc
+D14: slice 9, mass
+D15: slice 10, medial to mass
+D16: slice 6, upper outer quadrant
+D17: slice 3, lower outer quadrant
+D18: slice 4, upper outer quadrant
+D19-D20: perpendicular sections of nipple and skin
+E. LEFT AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and "left axillary contents" is an aggregate of yellow-tan soft
+tissue, 7 x 5 x 2.2 cm. Multiple lymph nodes are identified with firm pink-tan cut surfaces. Lymph nodes are
+submitted entirely.
+E1-E2: 6 lymph nodes each
+E3-E8: 1lymph node each
+E9-E10: 1 lymph node, bisected
+E11-E12: 1 lymph node, bisected
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.8-CM WITH NO
+EXTRANODAL EXTENSION.
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. BREAST, RIGHT, MASTECTOMY:
+- MULTIPLE FOCI OF LOBULAR CARCINOMA IN SITU
+- FLAT EPITHELIA ATYPIA AND ATYPICAL DUCTAL HYPERPLASIA
+- BIOPSY SITE CHANGES WITH FIBROSIS
+- MULTIPLE RADIAL SCARS, FIBROCYSTIC CHANGES WITH FIBROSIS, COMPLEX SCLEROSING ADENOSES
+AND APOCRINE METAPLASIA, AND MICROCALCIFICATIONS IN DUCTAL EPITHELIUM, NO DCIS OR
+INVASIVE CARCINOMA IDENTIFIED
+- SEE NOTE
+D. BREAST, LEFT, MASTECTOMY:
+- MULTIPLE FOCI OF INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, LARGEST FOCUS MEASURING 4.0-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH
+CENTRAL NECROSIS AND MICROCALCIFICATIONS
+- INVASIVE TUMOR PRESENT AT ANTERIOR INFERIOR SURGICAL RESECTION MARGIN
+- BIOPSY SITE CHANGES WITH FIBROSIS
+- SEE SYNOPTIC REPORT.
+E. LYMPH NODES, LEFT AXILLARY CONTENTS, AXILLARY DISSECTION:
+- METASTATIC CARCINOMA TO TWELVE OF EIGHTEEN LYMPH NODES (12/18), LARGEST MEASURING 2.2
+CM WITH EXTRANODAL EXTENSION
+NOTE: E-Cadherin is positive in the ADH focus and negative in the LCIS.
+Drs. and concur on presence of ADH in the right breast.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: LEFT AXILLARY NON SLN #1
+D: LEFT BREAST
+E: LEFT AXILLARY CONTENTS
+Specimen Type:
+Needle Localization:
+Mastectomy
+No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+4cm
+Margins:
+Involved at
+Anterior-inferior
+Extent::
+1-cm
+Tubular Score: 3
+Nuclear Grade:
+2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade:
+Necrosis:
+Extent:
+Vascular/Lymphatic Invasion:
+Absent
+extensive
+LCIS
+Lobular neoplasia:
+2
+Present
+Lymph nodes: Sentinel lymph node and axillary dissection
+Lymph node status:
+DCIS present
+Positive 13/19 Extranodal extension
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 10%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+ADDENDUM:
+PT 2 N 3a
+Specimen A was incorrectly designated in the diagnosis field as "LYMPH NODE, SENTINEL #1, LEFT AXILLA,
+EXCISION"; the correct designation of the specimen is "LYMPH NODE, NON-SENTINEL #1, LEFT AXILLA,
+EXCISION." Only the specimen description is changed, the diagnosis remains the same.
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum Review: Pathologist,
+Addendum Final: Pathologist,
+Metastatic Axillary Lymph Nade
+Criteria
+Diagnosis Discrepancy
+w 3/5/14
+Primary Tumor Site Discrepancy MET
+HIPAA Discrepancy
+Prior Malignancy Histor
+Dual/Synchronous
+Case is (circle):
+Peviewer Initials
+Noted
+QUALIFIED
+Yes
+No
+7 DISQUALIFIED 10
+Date Reviewed:

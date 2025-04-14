@@ -1,0 +1,310 @@
+Patient
+Referring Physician:
+UUID:COF7848A-DD0B-4782-956F-A24D597D70BC
+TCGA-AC-ASEI-01A-PR
+Redacted
+Gender: F
+Ref#:
+Hosp#:
+Provider Group :
+Date of Service:
+Date Received:
+Outpatient
+Case #
+A copy of this report will be faxed to:
+ICD-0-3
+COCF Breast, NOS
+Site: Path ® Brast, LIQ C50.3
+Tumor Phyllodes, malignant 9020/3
+9201/2/13
+050,9
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. - D.) RIGHT BREAST AND AXILLARY LYMPH NODES, MASTECTOMY WITH SENTINEL
+LYMPH NODE BIOPSIES:
+- Invasive ductal carcinoma, Nottingham grade 1.
+- Present in lower inner quadrant.
+- Tumor size: 1.2 cm in diameter.
+- Invasive carcinoma invades into dermis; carcinoma focally
+abuts but does not invade into pectoralis muscle.
+Ductal carcinoma in situ (DCIS), low to intermediate nuclear
+grade, cribriform-type, with comedo necrosis and calcifications.
+- DCIS is present in the area of invasive carcinoma, as well as
+in the central breast tissue.
+Malignant phyllodes tumor. See comment.
+- Phyllodes tumor size: 3.2 cm in diameter.
+- Present in upper outer quadrant.
+- The mastectomy margins are free of tumor.
+- Invasive carcinoma is 0.5 cm from deep margin, and is at least 1 cm
+from all other margins.
+- Phyllodes tumor is at least 1.5 cm from all margins.
+- Micrometastatic carcinoma in one of two sentinel lymph nodes (1/2).
+- Size of metastatic focus: 0.1 cm.
+- Isolated tumor cells are found in the second lymph node.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 1.
+- Malignant phyllodes tumor also present.
+Type and grade (in situ): DCIS, low to intermediate nuclear grade.
+Primary tumor: pT1c.
+Regional lymph nodes: pN1(mi).
+Distant metastasis: Not applicable.
+Stage: IB.
+Case #:
+Acct No.
+Patient Name .
+Pathology - Page 1/6
+Page 1
+This report continues... (FINAL)
+age 1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Lymphovascular invasion: Not identified.
+Margin status: Negative.
+COMMENT: The mastectomy specimen contains two separate neoplasms, a
+conventional low grade invasive ductal carcinoma in the lower inner quadrant, and a
+malignant phyllodes tumor in the upper outer quadrant.
+Histologic features of malignancy in the phyllodes tumor include marked cytologic
+atypia of the stromal cells and frequent mitotic activity (in some areas sixteen
+mitoses per ten high power fields). The edge of the phyllodes tumor shows
+microscopic infiltration into the surrounding adipose tissue, but no grossly
+appreciable infiltration into the surrounding breast tissue is seen. No significant
+stromal overgrowth is identified.
+The separately submitted superior margin and the separately submitted medial
+breast tissue (specimens C and D) contain no additional foci of neoplasia.
+Intradepartmental consultation:
+Invasive Breast Cancer Tumor Staging Information
+concurs with the above diagnoses.
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised
+Previous pathology specimens)
+| Staging information based on invasive ductal carcinoma.
+Case #:
+Acct No
+Patient Name -
+Pathology - Page 2/6
+Page 2
+This report continues... (FINAL)
+2 Doc# 1
+Patient:
+Case #:
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Tumor site:
+Tumor size:
+Right mastectomy.
+Right.
+Sentinel lymph node biopsies.
+Invasive ductal carcinoma. Malignant phyllodes
+tumor also present.
+Lower inner quadrant.
+1.2 cm.
+Single focus invasive carcinoma.
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+1 of 3.
+1 of 3.
+1-2 of 3.
+1 of 3.
+Indeterminate.
+Invasive carcinoma invades into dermis by direct
+extension; tumor does not invade into pectoralis
+muscle.
+Low to intermediate grade DCIS with comedo
+necrosis, present in association with invasive
+carcinoma and extending into central breast.
+MARGINS
+Invasive carcinoma:
+Ductal carcinoma in situ:
+Phyllodes tumor:
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit:
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+AJCC Stage:
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+0.5 cm from deep margin, at least 1 cm from all
+other margins.
+At least 1 cm from all margins.
+1.5 cm from deep margin, at least 1.5 cm from
+all other margins.
+Two.
+One.
+0.1 cm.
+Not identified.
+pT1c.
+pN1(mi).
+Not applicable.
+IB.
+ProPath
+100% positive cells, strong intensity.
+60% positive cells, strong intensity.
+Page 3
+This report continues... (FINAL)
+Case #:
+Acct No.
+Patient Name
+Pathology
+Page 3/6
+e 3 Doc# 1
+Patient
+Case #
+HER2:
+Ki-67:
+FINAL SURGICAL PATHOLOGY REPORT
+IHC score 0.
+5% positive cells.
+Source of Specimen:
+A. Sentinel lymph node;right axillary (200)
+B. Breast total mastectomy
+C. Additional superior right breast
+D. Medial right breast tissue
+Clinical History/Operative Dx:
+Malignant neoplasm of upper outer quadrant of female breast.
+Intraoperative Diagnosis:
+A. Sentinel node, right axillary, touch prep: Negative for metastasis
+interpretation(s) was/were performed and rendered at
+Gross Description:
+The intraoperative
+A. Part A is labeled sentinel node #1, right axillary (200), touch prep. Initially received in the fresh state
+for touch prep analysis is a portion of yellow-tan fibrofatty soft tissue, 3.8 x 3.0 x 1.5 cm. Examination
+reveals two lymph node candidates, 3.5 and 2.0 cm each. The lymph nodes are serially sectioned
+demonstrating rubbery, light pink and tan cut surfaces without grossly discrete nodularity. Four touch
+preparation slides are forwarded for microscopic evaluation. The lymph node tissue is entirely submitted
+for routine histology with a sentinel node protocol performed.
+Cassette summary:
+A1-A3) largest lymph node,
+Case #:
+Acct No.
+Patient Name -
+Pathology - Page 4/6
+Page 4
+This report continues... (FINAL)
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+A4-A5) smallest lymph node.
+B. The specimen is labeled right breast mastectomy tissue and is received without fixative. It consists of a
+mastectomy specimen weighing 490 grams. A black suture marks medial. With this orientation the
+specimen measures 23 cm from medial to lateral, 13 cm from superior to inferior, and is up to 3.8 cm
+from anterior to posterior. There is an overlying ellipse of tan skin which measures 20 × 12.5 cm. In the
+medial most portion of the skin there is a linear scar with a slight palpable firmness. This linear scar is 2
+cm in length. It is 8 cm medial to the nipple. The skin is otherwise tan and unremarkable. The
+anterior-superior margin is inked blue, the anterior-inferior margin is inked green, and the posterior margin,
+which consists predominantly of smooth fascial tissue, is inked black. In the medial portion of the
+specimen, corresponding to the linear scar superficially, skeletal muscle is present at the deep margin and
+measures 2.5 x 2 cm.
+The specimen is serially sectioned at close intervals to reveal a small stellate neoplasm in the lower inner
+quadrant. It measures 1.2 cm from medial to lateral, 0.9 cm from superior to inferior, and 0.8 cm from
+anterior to posterior. It causes dimpling of the skin and abuts the skeletal muscle at the deep edge of the
+neoplasm. The neoplasm is 0.5 cm from the closest deep margin which is the skeletal muscle, 1.7 cm from
+the closest inferior margin, 4 cm from the closest superior margin, 2.5 cm from the closest medial margin,
+and greater than 15 cm from the lateral margin.
+In the upper and outer quadrant there is a relatively well circumscribed mass which is composed of slightly
+bulging glistening tan tissue. This mass measures 2.8 cm from medial to lateral, 3.2 cm from superior to
+inferior, and 3 cm from superficial to deep. Representative sections of the upper outer quadrant mass are
+obtained for research purposes. It is 0.7 cm from the closest margin which is the anterior-superior margin. It
+is 1.5 cm from the closest deep margin. It is 6.5 cm from the closest inferior margin, 3 cm from the closest
+lateral margin, and 12 cm from the closest medial margin. The remainder of the breast is composed of
+lobulated fatty tissue and predominantly centrally located fibrous parenchyma. The central fibrous
+parenchyma is moderately dense but no other areas have a stellate or retracted appearance. No lymph
+nodes are identified within the lateral portion of the excision.
+Representative sections are submitted. Section summary:
+B1) nipple and tissue deep to nipple,
+82-86) deep margin of mastectomy specimen lower inner quadrant including skeletal muscle progressing
+from medial breast toward center of breast,
+B7-B8) lower inner quadrant neoplasm and closest approach to skin,
+B9-B10) upper outer quadrant mass and closest approach to anterior-superior margin,
+B11-B15) representative sections of upper outer quadrant mass,
+816) deep surgical margin underlying upper outer quadrant mass,
+817) representative sections upper inner quadrant,
+818) lower inner quadrant,
+819) upper outer quadrant.
+B20-821) central breast.
+C. Part C is labeled additional superior margin over tumor, right breast. Received in formalin is a 12 gram
+ovoid pad of yellow-tan fibrofatty soft tissue, 5.7 cm medial-lateral, 3.4 cm posterior-anterior, and 1.1 cm
+Case #:
+Acct No.
+Patient Name
+Pathology
+Page 5/6
+Page 5
+This report continues.
+(FINAL)
+5 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+old surface (blue)-superior surgical margin. Two sets of sutures are present; a short suture marks
+anterior-medial and a long suture marks anterior-lateral. The surgical margins are now differentially inked
+as follows:
+Superior surface is marked blue,
+Inferior (old surface) is over-inked green,
+Anterior edge is marked yellow,
+Posterior edge is marked black,
+Medial edge is marked red,
+Lateral edge is marked orange.
+The specimen is serially sectioned perpendicularly through the medial-lateral long axis demonstrating
+glistening, lobular, yellow-tan fatty cut surfaces without discrete residual or invasive tumor component.
+The specimen is entirely submitted for microscopic evaluation in a sequential fashion, medial to lateral in
+C1-C9.
+D. Part D is labeled as medial right breast tissue. Received in formalin is a flimsy pad of fibrofatty soft
+tissue weighing 8 grams and measuring 5.1 cm inferior-superior, 2.3 cm medial-lateral, and 2.1 cm
+anterior (blue)-posterior. A clip marks the medial edge and the anterior surface has been previously
+marked blue. The specimen is now differentially inked as follows:
+Anterior is over-inked blue,
+Posterior is inked black,
+Medial periphery is marked red,
+Lateral periphery is marked orange,
+Inferior periphery is marked green,
+Superior periphery is marked yellow.
+The specimen is serially sectioned perpendicularly through the superior-inferior long axis to reveal
+glistening, yellow-tan fatty cut surfaces without gross residual/invasive tumor component. The specimen is
+entirely submitted for microscopic evaluation in a sequential fashion, superior to inferior, in A1-A6.
+Microscopic Description:
+A. Immunohistochemical stain: CK-OSCAR, highlighting micrometastasis in isolated tumor cells in axillary
+lymph nodes. Appropriate positive and negative controls reviewed.
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+C. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+D. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #:
+Acct No.
+Patient Name
+Pathology
+Page 6/6
+Page 6
+END OF REPORT (FINAL)
+Giteria
+Diagnosis Discrepancy
+12/21/12
+Priniary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+ed breast ductal ✓
+Dual/Synchronous Primary Noted 97
+Case is (cirdel
+Reviewer !rs
+QUALIFIED / DISQUALIFILD
+are Reviewed:
+12/21/12

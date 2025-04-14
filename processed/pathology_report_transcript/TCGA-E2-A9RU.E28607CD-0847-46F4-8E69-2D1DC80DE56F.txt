@@ -1,0 +1,166 @@
+TSS
+Surg Date!
+SPECIMENS:
+A. RIGHT AXILLARY CONTENTS
+B. RIGHT BREAST WIDE EXCISION
+C. RIGHT POSTERIOR MARGIN
+SPECIMEN(S):
+A. RIGHT AXILLARY CONTENTS
+B. RIGHT BREAST WIDE EXCISION
+C. RIGHT POSTERIOR MARGIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICDO 3
+Carcinoma, infiltrating duct 8500/3
+Suite Breast NoOS C50.9
+18/10/14
+UUID:E28607CD-0847-46F4-8E69-2D1DC80DE56F
+TCGA-E2-A9RU-01A-PR
+Redacted
+A.-excision right breast: Mass/lesion identified 1 cm to the superior margin.
+Diagnosis called by Dr. to Dr. at
+DIAGNOSIS:
+A.RIGHT AXILLARY CONTENTS:
+-12 OF 22 LYMPH NODES ARE POSITIVE FOR METASTATIC CARCINOMA (12/22).
+-FOCAL EXTRANODAL INVOLVEMENT IS IDENTIFIED.
+B. RIGHT BREAST WIDE EXCISION:
+- INVASIVE DUCTAL CARCINOMA (IDC), SBR GRADE 3, MEASURING 3.5 CM
+- DUCTAL CARCINOMA IN -SITU, INTERMEDIATE NUCLEAR GRADE, SOLID AND CRIBRIFORM
+TYPES (MINOR COMPONENT).
+- SURGICAL RESECTION MARGINS ARE NEGATIVE FOR TUMOR
+-
+- BIOPSY SITE CHANGES WITH FIBROSIS, GRANULATION TISSUE, FOREIGN BODY GIANT CELL
+REACTION AND FAT NECROSIS
+SEE SYNOPTIC REPORT AND SEE NOTE.
+C. RIGHT POSTERIOR MARGIN:
+- MAINLY ADIPOSE TISSUE WITH CALCIFICATION OF VESSEL WALL
+(MONCKEBERGS CALCIFIC SCLEROSIS).
+- NO TUMOR IS IDENTIFIED.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: RIGHT AXILLARY CONTENTS
+B: RIGHT BREAST WIDE EXCISION
+Specimen Type:
+Excision
+Localization: Needle
+Laterality: Right
+Multifocality: No
+WHO CLASSIFICATION
+Invasive carcinoma of no special type (NST) 8500/3
+Tumor size: 35mm
+Additional dimensions:
+Tumor Site: Not specified
+Margins: Negative
+30mm x 30mm
+distance from (in mm): anterior margin: 6
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+3
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: Present
+Lymph nodes:
+Non-sentinel lymph node
+Lymph node status: Positive 12/22
+Size of largest metastasis: 20mm
+TSS
+Surg Date
+Micrometasteses: Yes
+Extranodal extension: Yes
+DCIS PRESENT
+Yes
+Margins:
+Margins uninvolved by DCIS Specify: 1.5 mm to superior resection margin
+Estimate % 2
+DCIS Quantity:
+DCIS Type: Solid
+Cribriform
+DCIS Location:
+Nuclear Grade:
+Necrosis: Absent
+ER/PR/HER2 Results
+Estrogen Receptor:
+Allred Score: 6
+Separate from invasive tumor mass
+Intermediate
+Progesterone Receptor:
+Allred Score: 0
+Positive
+Negative
+Her2:
+Interpretation:
+Negative
+Methodology:
+FISH
+(outside slides0
+pT 2 N 3a
+Performed on Case:
+Pathological staging (pTN):
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+GROSS DESCRIPTION:
+A. RIGHT AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and "right axillary contents "are piece of yellow-
+tan adipose tissue, 14 x 10 x 2 cm, containing lymph nodes ranging from 0.2 cm to 2 cm; lymph nodes
+are sectioned and submitted entirely:
+A1: 6 possible lymph nodes
+A2: 2 lymph nodes, bisected (one inked green)
+A3-A5: 1 lymph node, bisected, each block
+A6: 1 lymph node
+A7: 2 lymph nodes, bisected (one inked green)
+A8: 1 lymph node, bisected
+A9:2 lymph nodes
+A10: 1 lymph node
+A11: 3 lymph nodes
+A12-13:1 lymph node
+A14-A17: 1 lymph node
+A18-A19: 1 lymph node
+B. RIGHT BREAST EXCISION
+Received fresh labeled with the patient's identification and "right breast excision" is an previously inked,
+177 g, 11.5 cm medial to lateral x 7.5 cm superior to inferior x 3.5 cm anterior to posterior, excision. The
+overlying skin measuring 9.5x 7 cm in diameter. There are multiple brown papules on the skin. Ink
+code: anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. The
+specimen is serially sectioned from medial to lateral into 7 slices revealing a 3.5 x 3 x 3 cm, white, firm
+mass that is closest to the superior and anterior margins at 1 cm. The clip was retrieved in slice 4.
+Representatively submitted as per the attached diagram:
+B1: medial margin
+B2: slice 2, anterior margin with tumor
+B3: slice 2, superior margin with tumor
+B4: slice 3, skin with tumor
+B5-B6: slice 3, anterior margin with tumor
+B7: slice 3, superior margin with tumor
+B8: slice 3, posterior margin with tumor
+B9: slice 3, inferior margin
+TSS
+Surg Date
+B10: slice 4, tumor around clip
+B11: slice 4, skin with tumor
+B12: Slice 5, superior and anterior margins
+B13: slice 7, lateral margin
+C. RIGHT POSTERIOR MARGIN
+Received fresh labeled with the patient's identification and "right posterior margin" is a yellow-tan
+adipose tissue, 10 x 2 x 1.3 cm. One surface has been marked with clips indicating new margin. This
+surface is inked black. Serial sectioning does not reveal any abnormality. Representative sections
+submitted in 4 cassettes.
+CLINICAL HISTORY:
+None Given
+PRE-OPERATIVE DIAGNOSIS:
+None Given
+Gross Dictation:
+Final Review:
+Final: M.D.,
+1/7/14
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALI LED

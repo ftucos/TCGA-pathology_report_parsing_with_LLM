@@ -1,0 +1,44 @@
+3
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8.500/3
+Path
+Site: breast, UOQ C50.4
+CQCF
+Site: breast, Nos
+C50.9
+1/25/11 w
+سل
+Diagnosis:
+Multifocal moderately differentiated invasive breast carcinoma (larger tumor:
+moderately differentiated 
+invasive ductal carcinoma (tumor size: 5.3 cm) with focal
+signet-ring cell 
+differentiation and focal intraductal components; smaller tumor:
+moderately 
+differentiated invasive ductal carcinoma (tumor size: 1.5 cm)).
+Foci of 
+angioinvasion.
+Diagnosis:
+1. Ablated (left) breast sample with further invasive tumor components in the
+quadrant of the 
+sample excision cavity and retromamillary (maximum surface spread:
+0.8 cm). Dorsal resection 
+margin tumor-free.
+Tumor classification: NOS, G II, pT3(mult)N2aL1V0R0.
+(compare E. no. xxxx)
+UUID:8FE77EF7-C83A-431F-83BA-D9385ECC70AF
+TCGA-A8-A060-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History.
+Dual/Synchronous Primary Noted
+Case Is (circle:\
+Revivells
+QUALIFIED
+Date Revieve
+Yes
+No
+DISQUALIFIED
+Redacted

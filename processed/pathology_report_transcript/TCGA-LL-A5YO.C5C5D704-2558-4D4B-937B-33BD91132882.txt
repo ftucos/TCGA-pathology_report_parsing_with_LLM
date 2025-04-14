@@ -1,0 +1,198 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+SPEC #:1
+UUID:C5C5D704-2558-4D4B-937B-33BD91132882
+TCGA-LL-A5Y0-01A-PR
+RECD:
+COLL:
+Redacted
+AGE/SX:
+DOB:
+STATUS:
+Lab Database:
+LOC:
+U #:
+ROOM:
+REG:
+BED:
+TLOC:
+DIS:
+TIME IN FORMALIN: 7:21
+hrs.
+PAGE 1
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Left breast cancer
+Remarks:
+Specimen(s): A. Left breast lumpectomy
+B. Left breast new lateral margin
+Left axillary sentinel node
+C.
+MICROSCOPIC DIAGNOSIS
+A.
+LEFT BREAST TISSUE, LUMPECTOMY:
+B.
+INFILTRATING DUCTAL CARCINOMA
+ICD-0-3
+Carcinoma, ductal infiltrating NOS
+850013
+Site Breast Nas
+7134/2/13
+050-9
+MODIFIED NOTTINGHAM HISTOLOGIC GRADE 3 OF 3: NUCLEAR SCORE 3 OF 3, TUBULE
+FORMATION SCORE 3 OF 3. MITOTIC SCORE 3 OF 3 (11 MITOTIC FIGURES PER SQUARE
+MILLIMETER)
+NO DUCTAL CARCINOMA IN SITU IDENTIFIED
+INVASIVE TUMOR MEASURES 13 MM
+LATERAL SURGICAL MARGIN OF THIS SPECIMEN FOCALLY INVOLVED (RE-EXCISED BELOW).
+TUMOR PRESENT 
+2 MM FROM MEDIAL MARGIN
+SEE COMMENT FOR SYNOPTIC REPORT
+EXCISION LESION BREAST TISSUE, NEW LATERAL MARGIN:
+NO TUMOR SEEN
+FIBROCYSTIC CHANGES
+ONE LYMPH NODE. LEFT AXILLARY SENTINEL, LYMPHADENECTOMY:
+NO TUMOR SEEN IN MULTIPLE STEP SECTIONS STAINED WITH ROUTINE AND PANKERATIN
+IMMUNOCHEMICAL STAINS
+COMMENT(S)
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+Procedure:
+Lymph Node Sampling:
+Specimen Laterality:
+Histologic Type of Invasive Carcinoma:
+Tumor Size:
+Histologic Grade (Nottingham):
+CAP APPROVED:
+Excision without wire-guided localization
+Sentinel lymph node(s)
+Left
+Invasive ductal carcinoma
+Greatest dimension of largest focus of invasion >1
+mm: 13 mm
+Glandular/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 3
+CONTINUED ON NEXT PAGE
+* *
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+Specimen Inquiry
+- natahace
+PAGE 2
+(Continued)
+COMMENT(S)
+Tumor Focality:
+n
+Ductal Carcinoma In Situ:
+Margins:
+Lymph Nodes:
+Pathologic Staging:
+Ancillary Studies:
+(Continued)
+Mitotic Rate: Score 3
+Overall Grade: Grade 3
+Single focus of invasive carcinoma
+No DCIS is present
+Invasive Carcinoma: Margins uninvolved by invasive
+carcinoma
+Distance from closest margin: 2 mm: medial
+Number of sentinel lymph nodes examined: 1
+Total number of lymph nodes examined (sentinel and
+nonsentinel): 1
+Number of lymph nodes with macrometastases (>2 mm):
+0
+Number of lymph nodes with micrometastases (>0.2 mm
+to 2 mm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor cells
+(≤0.2 mm and 200 cells): 0
+Number of lymph nodes without tumor cells
+identified: 1
+Primary Tumor: pT1b
+Regional Lymph Nodes:
+Modifier: (sn)
+Category: PNO (i-)
+Distant Metastasis: Not applicable
+ER: Negative (<1% of tumor cells with nuclear
+positivity)
+PR: Negative (<1% of tumor cells with nuclear
+positivity)
+HER2 Immunoperoxidase Studies: Negative (Score 1+)
+GROSS DESCRIPTION:
+The specimen is received in the fresh state in three parts for immediate gross evaluation.
+A. This specimen is received for tumor banking and evaluation of the surgical margins and
+Present on the
+consist of an excision of breast tissue which measures 4 x 4 x 2.5 cm.
+surface is an ellipse of light brown skin measuring 3 x 0.7 cm. The surgeon has tagged the
+surgical margins. With this as reference, I have inked the margins as follows:
+Blue is lateral
+Yellow is inferior
+Black is medial
+Red is superior
+Orange is deep
+Sectioning reveals a firm, stellate. tan tumor which measures 13 mm in greatest dimension.
+The tumor focally touches the lateral margin. The next nearest margin is medial at 2 mm.
+The remaining margins are greater than 1 cm from tumor. A representative section of the
+tumor is submitted for tumor banking. A recent biopsy site is present in the tumor.
+** CONTINUED ON NEXT PAGE
+**
+----
+RUN DATE:
+RUN TIME:
+RUN USER
+SPEC #:
+PATIENT:
+PAGE 3
+Specimen Inquiry
+(Continued)
+GROSS DESCRIPTION:
+(Continued)
+Representative sections are submitted as blocks Al through A5.
+B.
+This is an excision of breast tissue which measures 2 x 2 x 1 cm.
+tagged the new lateral margin.
+The surgeon has
+I have applied blue ink to this margin.
+of residual tumor is present in this specimen.
+No gross evidence
+Representative sections are submitted as
+blocks B1 and B2.
+sectioned and totally
+There is no gross evidence of metastatic
+C. This is a soft. tan lymph node which measures 15 x 10 x 5 mm,
+submitted as 
+block C1 for sentinel node protocol.
+tumor.
+INTRAOPERATIVE CONSULTATION:
+IMMEDIATE GROSS EVALUATION A (BREAST EXCISION):
+FOCAL TUMOR PRESENT AT LATERAL MARGINS WITH REMAINING MARGINS FREE OF TUMOR
+IMMEDIATE GROSS EVALUATION B (RE-EXCISION LATERAL MARGIN):
+NO GROSS EVIDENCE OF TUMOR
+IMMEDIATE GROSS EVALUATION C (SENTINEL NODE):
+NO GROSS EVIDENCE OF TUMOR
+PHOTO DOCUMENTATION
+Image
+. .
+Signed
+(signature on file).
+END OF REPORT
+**
+Criteria
+10 3/15/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Cise is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+11/13
+!

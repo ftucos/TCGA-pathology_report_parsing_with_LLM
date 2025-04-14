@@ -1,0 +1,151 @@
+UUID:1CF3FA64-EAE6-4A18-9851-F5980A885371
+TCGA-AC-A2FK-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchroncus Primary Hoted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+MAT/26/10/11
+Yes
+DISQUALIFIED
+6/3/11
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+Physician(s):
+Specimen(s) Received
+A: Right breast tissue
+B: Sentinel node #1
+SURGICAL PATHOLOGY REPORT
+Location:
+Service:
+Billing #:
+Accession #:
+Billing Type:
+Taken:
+Received:
+Reported:
+C: Sentinel node #2
+D: Left breast tissue
+E: Sentinel node #3
+Pathologic Diagnosis
+A. Right breast tissue, mastectomy: Benign breast tissue with multiple intraductal papillomas and
+proliferative fibrocystic change.
+B. Sentinel node #1: One lymph node positive for metastatio lobular
+ar 
+carcinoma. The deposit measures
+1.5 cm in greatest dimension. Superficial extranodal extension is present.
+C. Sentinel node #2: One lymph node positive metastatic lobular carcinoma. The deposit measures 1.3
+cm. Superficial extranodal extension is present.
+D. Left breast tissue:
+Histologic Type:
+Modified B-R Grade:
+Invasive lobular carcinoma
+2
+Tumor Size:
+Tubular score: 3
+Nuclear score: 2
+Mitosis score: 1
+Greatest dimension: 3.4 cm
+Additional dimensions: 3 X
+1.2 cm
+Margins of Invasive Carcinoma: Negative
+Invasive carcinoma is located: 1.8 cm
+away from the deep margin
+ICB-0-3
+carcinoma, infiltrating
+Tobular, Nos 8520/3
+Site, breast, Nos C50.9
+for 6/10/11
+Lymphovascular Invasion:
+Absent
+Duotal Carcinoma In Situ:
+Absent
+Paget's Disease:
+Absent
+Distant Metastasis:
+Cannot be assessed
+Specimen Type:
+Mastectomy
+Tumor Laterality:
+Tumor Site:
+Lymph Node Sampling:
+Left
+Upper outer quadrant
+Sentinel lymph nodes only
+Surgical Pathology Report - Page 1/3
+ChartMax Final Reports
+--1'
+Page 1 of 3
+Surgical Pathology Report
+Comment: Small intraductal papillomas present. Hormone receptors were performed on previous
+specimen
+E. Sentinel node #3: One lymph node positive for metastatic lobular carcinoma. The deposit measures
+1.2 cm in greatest dimension. Superficial extranodal extension is present.
+PATHOLOGIC STAGE: pT2, pNX, pMX
+All three nodes sampled are positive and, therefore, the nodal stage is at least pN1a.
+NOTE: Information on pathology stage and the operative procedure is transmitted to this Institution's Cancer Registry as required
+for accreditation by the Commission on Cancer. Pathology stage is based solely upon the current tissue specimen being evaluated
+and does not incorporate other relevant data. Pathology stage is only a component to be considered in determining the clinical
+stage and should not be confused with nor substituted for it. The exact operative procedure is available in the surgeon's operative
+report.
+Clinical History
+Breast carcinoma.
+Gross Description
+"A" - The specimen is received in formalin labeled "right breast". It consists of an unoriented mastectomy
+specimen without axillary tissue measuring 18 x 17.5 x 4 cm and weighing 719 grams. There is an
+overlying tan-white ellipse of skin measuring 12.2 x 9 cm showing a slightly eccentric, wrinkled pale tan
+areola, measuring 4.6 x 4.5 cm. In the center of the areola, there is an everted pale tan soft nipple
+measuring 1 x1x0.5 cm. There are grossly no biopsy sites or healed incisions on the skin surface. The
+deep margin is inked black and the specimen is serially sectioned to reveal lobulated fat interspersed with
+a moderate amount soft-to-firm pink-tan nonfatty breast tissue. There are scattered pink-tan soft
+circumscribed nodules measuring up to 0.4 cm in diameter. Also noted are cysts filled with brown fluid
+measuring up to 0.3 cm in diameter. There is grossly no evidence of malignity. Representative sections
+are submitted in seven cassettes. Block summary: "A1" - vertical section of nipple; “A2" - cross section of
+nipple; "A3" -tissue underlying the nipple; "A4 -"A7" - tissue and nodules from each quadrant with the cyst
+Included in cassette "4". The specimen is reviewed with
+"B" - The specimen is received in formalin labeled "sentinel node #1". It consists of a firm pink-tan lymph
+node and attached fat measuring overall 1.5 x 1 x 0.2 cm. The specimen is bisected and totally submitted
+in cassette "B".
+"C" - The specimen is received in formalin labeled "sentinel node #2". It consists of a pink-tan lymph node
+with attached fat measuring overall 1.3 x 0.8 x 0.6 cm. The specimen is bisected and totally submitted in
+cassette "C".
+"D" - The specimen is received in formalin labeled "left breast". It consists of an unoriented mastectomy
+specimen without axillary tissue measuring 20 x 17 x 4 cm and weighing 744 grams. There is an overlying
+tan-white ellipse of skin measuring 11.5 x 8 cm showing a slightly eccentric, wrinkled pale tan areola,
+measuring 4.5 x 4.5 cm. In the center of the areola, there is an everted pale tan soft nipple measuring 1 x
+1 x 0.5 cm. There are grossly no biopsy sites or healed incisions on the skin surface. However, a papule
+is identified 0.3 cm from the nearest margin of the skin ellipse, measuring 0.4 x 0.3 cm. The deep margin
+is inked black and the specimen is serially sectioned to reveal a firm pale pink-tan mass which appears to
+Page 2 of 3
+Surgical Pathology Report - Page 2/3″
+Surgical Pathology Report
+be within the upper outer quadrant measuring 3.4 x 3 x 1.2 cm. The mass comes to within 1.8 cm of the
+deep margin and 1 cm of the nearest superficial margin (inked blue). The mass comes to within 3.2 cm of
+the nipple. The deep margin is inked black and the specimen is serially sectioned to reveal lobulated fat
+interspersed with a moderate amount soft-to-firm pink-tan nonfatty breast tissue. The tumor shows
+adjacent linear and focal areas of induration extending predominantly lateral and medial. No lymph nodes
+are grossly identified at the axillary margin. Representative sections are submitted in 12 cassettes. Block
+summary: "D1" - vertical section of nipple; “D2" - cross section of nipple; "D3" - tumor and nearest
+superficial margin; "D4" - tumor and nearest deep margin; "D5" - tumor away from the surgical margin; "D6"
+and "D7" - irregular firm tissue approximately 1.5 cm medial to the tumor within the upper inner quadrant,
+"D8" and "D9" - Irregularly firm tissue within the upper outer quadrant lateral to the tumor, "D10" - lower
+Inner quadrant; "D11" - lower outer quadrant; "D12" - tissue underlying the nipple. The specimen is
+reviewed with '
+"E" - The specimen is received in formalin labeled "sentinel node #3". It consists of a tan-yellow portion of
+fatty tissue measuring 2 x 1.5 x 0.6 cm. Sectioning reveals a pink-tan lymph node measuring 1.7 x 0.6 x
+0.4 cm. the lymph node is totally submitted in cassette "E".
+Microscopic Description
+Microscopic examination has been performed on all slides. The pathologic diagnosis encompasses the
+essential microscopic findings of this case.
+Surgical Pathology Report - Page 3/3
+ChartMax Final Reports
+Page 3 of 3
+ge 11

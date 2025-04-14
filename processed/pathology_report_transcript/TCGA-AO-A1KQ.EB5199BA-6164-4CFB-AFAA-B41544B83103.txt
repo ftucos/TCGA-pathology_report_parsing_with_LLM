@@ -1,0 +1,197 @@
+Clinical Diagnosis & History:
+y/o male with left breast cancer (invasive ductal carcinoma (IDC)).
+Specimens Submitted:
+1: SP: Sentinel node #1, level 1, left axilla (fs) (
+2: SP: Left breast with levels one and two axillary contents
+UUID:EB5199BA-6164-4CFB-AFAA-B41544883103
+TCGA-AO-A1KQ-01A-PR
+Redacted
+DIAGNOSIS:
+1}
+LYMPH NODE, LEFT AXILLA, SENTINEL LYMPH NODE #13 LEVEL 1; BIOPSY:
+- METASTATIC CARCINOMA IN ONE LYMPH NODE (1/1).
+THE METASTATIC DEPOSIT IS SEEN ONLY ON THE ACTUAL FROZEN SECTION AND
+MEASURES AT LEAST
+2 MM. NO EXTRANODAL EXTENSION IDENTIFIED.
+THE LYMPH NODE EXHIBITS INCIDENTAL BENIGN CAPSULAR NEVUS CELL
+AGGREGATES.
+2)
+-
+BREAST, LEET: MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA. NOS TYPE. HISTOLOGIC GRADE III/III (SLIGHT
+OR NO TUBULE FORMATION), NUCLEAR GRADE III/III (MARKED VARIATION IN SIZE AND
+SHAPE), MEASURING 2.2 CM IN LARGEST DIMENSION MICROSCOPICALLY.
+DUCTAL CARCINOMA IN-SITU (DCIS) IS ALSO IDENTIFIED, SOLID, CRIBRIFORM TYPE
+WITH HIGH NUCLEAR GRADE AND MODERATE NECROSIS.
+- THE DCIS CONSTITUTES <= 25% OF THE TOTAL TUMOR MASS, AND IS PRESENT
+ADMIXED WITH AND AWAY FROM THE INVASIVE COMPONENT.
+THE INVASIVE CARCINOMA IS LOCATED IN THE LOWER INNER QUADRANT AND CENTRAL
+AREA (RETROAREOLAR).
+THE NIPPLE IS INVOLVED BY INVASIVE CARCINOMA.
+A FOCUS OF PERINEURAL INVASION BY CARCINOMA IS SEEN IN THE DERMIS OF
+THE NIPPLE REGION. THERE IS ALSO FOCAL LYMPHATIC INVASION IN THE NIPPLE
+REGION.
+- CALCIFICATIONS ARE PRESENT IN THE IN SITU CARCINOMA.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+- THE NON-NEOPLASTIC BREAST TISSUE IS UNREMARKABLE.
+- THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF
+POSITIVE LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES
+EXAMINED):- METASTATIC CARCINOMA IN ONE OF EIGHT LYMPH NODES (1/8).
+THIS IS A MACROMETASTASIS (1.8 CM).
+-
+THERE IS NO EXTRANODAL EXTENSION OF CARCINOMA.
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site breast, Nos
+050.9
+2/16/11
+Ju
+✶✶ Continued on next page **
+riteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+teviewer Initials
+Yes
+NC
+K
+QUALIFIED
+/ DISQUALIFIED
+Date Reviewed:
+tw
+Page 2 of 4
+- RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Gross Description:
+Special Stain
+ER-C
+PR-C
+HER2-C
+NEG CONT
+NEG-HER2
+IMM RECUT
+Comment
+1). The specimen is received fresh for frozen section consultation labeled,
+"Sentinel node #1, level 1, left axilla", and consists of one lymph node
+measuring 1.5 x 1.0 x 0.8 cm. The lymph node is bisected and submitted for
+frozen section diagnosis.
+Summary sections:
+FSC - frozen section control
+2). The specimen is received fresh labeled, "Left breast with levels one and
+two axillary contents, stitch marks axillary tail" and consists of a breast
+measuring 19 x 18 x 3.5 cm with overlying skin ellipse measuring 19 x 11 cm,
+attached axillary contents measuring 11 x 10 x 3 cm. The axillary tail is
+marked with a black suture. Situated centrally on the skin surface is a
+flattened nipple measuring 0.8 x 0.8 cm and areola measuring 2.5 x 2.5 cm.
+There are no scars or lesions noted on the skin. A suture demarcates the
+axillary aspect. The posterior surface of the breast is inked black and the
+specimen is serially sectioned to reveal a well circumscribed stony hard
+white-tan tumor measuring 2.0 x 2.0 x 1.7 cm, and located 1.8 cm from the
+deep margin. The tumor is located subjacent to the nipple The remainder of
+the breast tissue is yellow tan fatty and lobulated. The specimen is
+submitted for lymph node dissection. Representative sections are submitted.
+A sample of the tumor is given to
+Summary of sections:
+N nipple
+** Continued on next page ⭑*
+NB
+nipple base
+DM
+deep margin
+T-
+tumor
+UIQ - upper inner quadrant
+LIQ
+UOQ
+LOQ
+-
+-
+"
+lower inner quadrant
+upper outer quadrant
+lower outer quadrant
+LN-lymph nodes
+Summary of Sections:
+SP: Sentinel node #1, level 1, left axilla (fs)
+Part 1:
+Block
+1
+Sect. Site
+FSC
+PCs
+1
+Page 3 of 4
+Part 2:
+SP: Left breast with levels one and two axillary contents
+Block
+1
+I
+5
+Sect. Site
+dm
+lig
+LN
+PCs
+1
+1
+8
+1
+log
+1
+1
+n
+1
+I
+nb
+1
+6
+t
+6
+1
+uiq
+I
+1
+uog
+1
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDEN
+Status:
+By:
+Signed Out
+SITE:
+- ER:
+-
+PR:
+HER-2/NEU
+#2. LEFT BREAST
+(Hercep Test):
+>95% OF NUCLEAR STAINING WITH STRONG INTENSITY.
+>80% OF NUCLEAR STAINING WITH STRONG TO MODERATE INTENSITY.
+NEGATIVE (STAINING INTENSITY OF FOCAL 1+).
+- CONTROLS ARE SATISFACTORY.
+** Continued on next page **
+Page 4 of 4
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+METASTATIC CARCINOMA
+SAME,
+**End of Report **

@@ -1,0 +1,276 @@
+UUID:17B51CA5-E325-4EA0-AFED-C6D0FD5A40EF
+TCGA-LL-A5YL-01A-PR
+PATIENT:
+REG DR:
+COLL:
+Redacted
+AGE/SX:
+ROOM:
+DOB:
+BED:
+REG
+DIS:
+STATUS:
+TLOC:
+TIME IN FORMALIN: 4:16
+hrs.
+PAGE 1
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks:
+Specimen(s):
+Right breast CA
+A. Right breast tissue stitch axillary tail
+Right axillary node x2
+B.
+C.
+#1 sentinel node right breast
+D.
+E.
+IS level 3 node stitch marks highest level node
+Axillary contents
+MICROSCOPIC DIAGNOSIS
+A.
+RIGHT BREAST, TOTAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA
+B.
+ICD-0-3
+852013
+Carcinoma Lobular infiltrating
+Site CSCF ® Breast NOS C50.9
+path ⑤Breast, upper outer quadrant copit
+720 4/2/13
+INVASIVE CARCINOMA MEASURES AT LEAST 4.5 CM IN GREATEST DIMENSION (PT2)
+NOTTINGHAM COMBINED 
+HISTOLOGIC GRADE 2 OF 3
+-
+TUBULE FORMATION SCORE 3 OF 3
+NUCLEAR PLEOMORPHISM SCORE 2 OF 3
+MITOTIC COUNT SCORE 1 OF 3
+SURGICAL MARGINS OF RESECTION FREE OF INVASIVE LOBULAR CARCINOMA
+FOCI OF LOBULAR CARCINOMA IN SITU
+FOCI OF DUCT CARCINOMA IN SITU. INTERMEDIATE NUCLEAR GRADE, NOT EXTENSIVE
+SEE COMMENT FOR SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST
+RIGHT AXILLARY LYMPH NODES X2, EXCISION:
+METASTATIC BREAST CARCINOMA IN TWO OF TWO LYMPH NODES
+C.
+SENTINEL LYMPH NODE #1. EXCISION:
+D.
+E.
+NEGATIVE. NO EVIDENCE OF METASTATIC CARCINOMA IN THIS SPECIMEN
+LEVEL 3 AXILLARY LYMPH NODES, REGIONAL RESECTION:
+NEGATIVE. NO EVIDENCE OF METASTATIC CARCINOMA IN SIX HIGHEST LEVEL 3 LYMPH NODES
+RIGHT AXILLARY LYMPH NODES, REGIONAL RESECTION:
+METASTATIC BREAST CARCINOMA IN ONE OF 14 AXILLARY LYMPH NODES
+COMMENT(S)
+SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST CAP APPROVED
+Procedure:
+Total mastectomy
+CONTINUED ON NEXT PAGE
+RUN DATE: 1
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 2
+(Continued)
+COMMENT(S)
+Lymph Node Sampling:
+Specimen Laterality:
+Histologic Type of Invasive Carcinoma:
+Tumor Size:
+Histologic Grade (Nottingham):
+Ductal Carcinoma In Situ:
+Lobular Carcinoma In Situ:
+Margins:
+Lymph Nodes:
+Extranodal Extension:
+Method of Evaluation:
+Lymph-Vascular Invasion:
+Dermal Lymph-Vascular Invasion:
+Pathologic Staging:
+Ancillary Studies:
+(Continued)
+Sentinel lymph node(s), axillary dissection
+Right
+Invasive lobular carcinoma
+Greatest dimension of largest focus of invasion: 45
+mm
+Glandular/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 2
+Mitotic Rate: Score 1
+Overall Grade: Grade 2
+DCIS is present; negative for extensive intraductal
+component (EIC)
+Architectural Patterns: Cribriform, solid
+Nuclear Grade: Grade II
+Necrosis: Present, focal
+Present
+Invasive Carcinoma: Margins uninvolved by invasive
+carcinoma
+Distance from closest margin: 10mm
+DCIS: Margins uninvolved by DCIS
+Distance from closest margin: >10 mm
+Number of sentinel lymph nodes examined: 1
+Total number of lymph nodes examined (sentinel and
+nonsentinel): 23
+Number of lymph nodes with macrometastases (> 2 mm):
+3
+Number of lymph nodes with micrometastases (>0.2 mm
+to 2 mm and/or > 200 cells): 0
+Number of lymph nodes with isolated tumor cells
+(≤0.2 mm and 1200 cells): 0
+Number of lymph nodes without tumor cells
+identified: 20
+Not identified
+Hematolxylin and eosin. level 1
+Not identified
+Not identified
+Primary Tumor: pT2
+Regional Lymph Nodes: pNla
+Distant Metastasis: Not applicable
+ER: Positive (92% of tumor cells with nuclear
+positivity); strong
+PR: Negative
+HER2 Positive (score 3+)
+In Situ Hybridization for HER2: Not amplified
+CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 3
+Specimen Inquiry
+(Continued)
+GROSS DESCRIPTION:
+The specimen is submitted in five containers.
+A.
+The first specimen submitted in the fresh state is labeled "right breast tissue".
+specimen 
+is the right breast, 
+total mastectomy specimen.
+the breast. There is an ellipse of white skin containing the nipple.
+cm
+The
+In the center
+A
+Suture marks the axillary tail of
+The breast itself measures 23 x 22.5 x 6.5 cm.
+This measures 9 x 4.5
+the surface at approximately the 11 o'clock position.
+There is a firm mass palpable beneath
+adjacent to the skin is marked with black ink and the deep margin beneath this is marked
+The overlying superficial margin
+with blue ink. On cut section the mass 
+measures approximately 4.5 x 3 x 3 cm.
+are quite difficult to discern 
+and are more easily palpated than visualized.
+The edges
+of the specimen there 
+is a small focus of hemorrhage consistent with previous biopsy.
+portion of this mass is set aside 
+for tissue banking per protocol.
+within approximately 
+1 cm of the overlying superficial margin at approximately 11 o'clock
+The mass extends to
+at its closest point. It is located 
+well above the deep margin which is approximately 7 cm
+beneath the mass. Cut sections through the remainder 
+of the breast tissue reveals some
+rubbery white parenchymal breast tissue 
+and abundant yellow fat.
+nodules or 
+mass is identified.
+There are no other
+Sections are submitted as follows:
+Al
+A2-5
+A6
+nipple
+mass in breast
+A7-9
+mass in breast with adjacent tissue
+non-neoplastic appearing breast tissue
+B.
+The second specimen is received in the fresh state in the operating room and represents
+two 
+axillary lymph nodes, one measuring 2 x 1.5 x 
+1 cm and the other measuring 1 x 0.7 x
+0.7 cm. The cut sections are hard. 
+A section of each is examined by frozen section.
+These are submitted in block B1, frozen section 
+control.
+submitted in block B2.
+Additional section of each is
+C. The third specimen initially in the fresh state is labeled "sentinel node #1" and is a
+piece of yellow fat measuring 2.5 x 2 x 
+1 cm with a 1 cm round moderately firm lymph node
+which is bisected and submitted in toto in 
+block C1.
+D. The fourth specimen is labeled "level 3 axillary nodes".
+yellow 
+fatty tissue measuring 9 x 3 x 1.5 cm with a suture marking the highest level 3
+The specimen is a piece 
+of
+lymph node. There are five additional 
+small lymph nodes.
+block 
+D1 and the other five lymph nodes are submitted in block D2.
+The 
+highest node is submitted in
+E. The fifth container is labeled "right axillary contents".
+tissue 
+measuring 10 x 9 x 2.5 cm.
+The specimen is yellow fatty
+Within the fatty tissue are several nodules consistent
+with lymph nodes. The largest of these measures 2 cm in diameter and on cut section is
+partially replaced by very hard white tissue. 
+A section of each node is submitted in
+blocks El through E4.
+MICROSCOPIC DESCRIPTION:
+The slides are examined and evaluated.
+* ⭑ CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+"
+RUN USER.
+SPEC #:
+PATIENT:
+PAGE 4
+Specimen Inquiry
+(Continued)
+INTRAOPERATIVE CONSULTATION:
+OPERATING ROOM CONSULTATIONS:
+A.
+Portions of the breast mass are processed for tumor tissue banking per protocol.
+B. FROZEN SECTION DIAGNOSIS OF RIGHT AXILLARY LYMPH NODES X2:
+METASTATIC CARCINOMA IN TWO LYMPH NODES
+PHOTO DOCUMENTATION
+Image
+Image
+Image
+Image
+Image
+Image
+Signed
+(signature on file).
+END OF REPORT
+**
+Criteria
+w 3/15/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+PAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted CLS, LEIS
+Cas: is (circle):
+Reviewer
+Punt
+QUALIFIED / DISQUALIFIED
+Dete Reviewed:
+3/4/13

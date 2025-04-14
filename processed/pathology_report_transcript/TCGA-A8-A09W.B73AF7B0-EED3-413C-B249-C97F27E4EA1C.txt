@@ -1,0 +1,27 @@
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Patt- Site. Breast, UIQ C50.2
+CQCF Site: Breast, Nos C50.9
+1/19/11 w
+Diagnosis:
+1. Invasive carcinoma (tumor diameter: 2.5 cm) with focal slight
+intraductal spread. Invasion of lymph vessels.
+In conclusion this is a poorly differentiated lobular carcinoma.
+Tumor classification: lobular carcinoma, G III, pT2N3aL1V0RX.
+Criteria
+Diagnosis Discrepancy
+UUID:B73AF7B0-EED3-413C-B249-C97F27E4EA1C
+TCGA-A8-A09W-01A-PR
+Yes
+No ✓
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Jual/Synchronous Primary Noted
+Case is circle):
+Reviewer li
+ant
+QUALIFIED
+Date Reviewed
+DISQUALIFIED
+Redacted

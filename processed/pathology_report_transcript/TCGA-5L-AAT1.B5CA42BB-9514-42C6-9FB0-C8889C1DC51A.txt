@@ -1,0 +1,52 @@
+UUID:B5CA42BB-9514-42C6-9FB0-C8889C1DC51A
+TCGA-5L-AAT1-01A-PR
+Redacted
+Date:
+Gender: Female
+Color: White
+Origin:
+Nature of material: Breast
+Biopsy number:
+PATHOLOGY REPORT:
+Gross description:
+ICD03
+Carunoma, lobular infiltrating
+NOS 8520/3
+Site: Breast NOS C509
+05/21/14
+Specimens are received in three containers.
+Container 01: Right breast (mastectomy) weighing 863 g. It measures 22.5 x 17.5 x 4.0 cm.
+Superficially, a skin ellipse is seen, and measures 18.0 x 7.0 cm. There is no superficial lesion. On
+slicing in the breast parenchyma is a white spiculated nodule with central necrosis measuring 3.5
+x 2.5 x 0.8 cm. Macroscopically, all the margins are clear.
+Container 02: Axillary lymph node: One white, soft and nodular tissue measuring 1.1 x 0.8 x 0.3
+cm containing no gross lesion.
+Container 03: 10 Axillary lymph nodes. A gross nodular fibrofatty tissue measuring 3.0 x 2.2 x
+0.6 cm in aggregate. Contained within the tissue are 4 soft nodular structures with diameters
+ranging from 0.2 to 0.4 cm in the largest diameters.
+Microscopy
+Dispensable description.
+Conclusions:
+Right breast:
+-
+Invasive lobular carcinoma, grade 1, measuring 1.1 cm in the largest diameter;
+Clear surgical margins.
+Lymph nodes:
+There is no lymph nodes metastasis.
+PARTICIPANTS OF APPRAISAL REPORT
+-
+- Issuer
+- Reviewer
+Criteria
+2/10/14/Tes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 12914

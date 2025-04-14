@@ -1,0 +1,39 @@
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy Hi to:y
+UUID:16BE833B-E17B-488A-9D71-B0D83D73D9DE
+Yes
+No
+TCGA-AR-A250-01A-PR
+Redacted
+Final Diagnosis
+Dual, Synchronous Primary Hote
+Case 
+is (circle):
+Revi.wer Initials
+QUAUSILO
+DISQUALIFIED
+Date Reviewed: 4/2011
+tw 4/25/11
+✓ east, left, wide local excision and simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III), [tubules 3/3,
+nuclei 2/3, mitoses 3/3; Nottingham score 8/9], forming a 2.4 x 2.0 x 1.6 cm mass (in the wide local excision specimen)
+[AJCCpT2]. Extensive ductal carcinoma in-situ, high nuclear grade, present within (> 25%) and outside the invasive component
+involving an area measuring at least 3.8 x 2.2 x 2.0 cm. Angiolymphatic invasion is absent. The non-neoplastic breast
+parenchyma shows proliferative fibrocytic changes and multiple small intraductal papillomas. Biopsy site changes present.
+Multiple margins on the wide local excision specimen, including the separately submitted inferior margin, are positive for tumor.
+There is residual in-situ carcinoma in the mastectomy specimen adjacent to the biopsy cavity which is located in the outer
+quadrant. The tumor does not involve the nipple, overlying skin, or underlying chest wall. All surgical margins, mastectomy, are
+negative for tumor (minimum tumor free margin, 1.7 cm, deep margin).
+Lymph nodes, left axillary sentinel, excision: Multiple (3) left axillary sentinel lymph nodes are negative for metastatic carcinoma
+[AJCC pN0 (i-) (sn)]. Blue dye is identified in left axillary sentinel lymph nodes No. 1 and No. 2. Blue dye is not identified in
+left axillary sentinel lymph node No. 3.
+Lymph node, left axillary non-sentinel, excision: A single left axillary non-sentinel lymph node (adjacent to left axillary sentinel
+lymph node No. 1) is negative for metastatic carcinoma.
+Estrogen and progesterone receptor analysis and Her-2/NEU have been ordered on paraffin-embedded tissue.
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NoS
+w 4/25/11
+C50.9

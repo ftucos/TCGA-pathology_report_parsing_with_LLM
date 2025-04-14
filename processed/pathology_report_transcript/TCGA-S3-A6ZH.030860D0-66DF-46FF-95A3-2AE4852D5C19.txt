@@ -1,0 +1,205 @@
+MRN:
+Patient:
+Admission Date:
+Ordering Physician:
+Collected Date/Time:
+Received Date/Time:
+UUID:030860D0-66DF-46FF-95A3-2AE4852D5C19
+TCGA-S3-A6ZH-01A-PR
+Redacted
+Sex/DOB:
+Discharge Date:
+Surgical Pathology Report
+Accession Number:
+Female
+Final Diagnosis
+A. LEFT HIGHEST AXILLARY NODE, EXCISION:
+- METASTATIC CARCINOMA IN ONE LYMPH NODE (1/1).
+B. LEFT BREAST AND AXILLARY CONTENTS, MASTECTOMY AND LYMPHADENECTOMY:
+· INVASIVE DUCTAL CARCINOMA, GRADE 3.
+METASTATIC CARCINOMA IN THIRTEEN OF NINETEEN LYMPH NODES (13/19).
+- MARGINS ARE NOT INVOLVED.
+- SEE TEMPLATE.
+C. LEFT LEVEL I AXILLARY LYMPH NODE, EXCISION:
+- NO EVIDENCE OF CARCINOMA IN ONE LYMPH NODE (0/1).
+D. SKIN, LEFT AXILLA, EXCISION:
+"
+FOLLICLE INFUNDIBULAR CYST, RUPTURED AND INFLAMMED.
+(Electronic signature)
+Verified:
+Synoptic Report
+SPECIMEN TYPE:
+Excision
+LYMPH NODE SAMPLING:
+Axillary dissection
+SPECIMEN SIZE:
+Greatest dimension: 24 cm
+*Additional dimensions: 18 x 5
+LATERALITY:
+Left
+TUMOR SITE:
+CGLFO
+ICD-0-3
+Carcinoma, infiltrating duct
+©
+Site Breast NOS,
+path
+850013
+C50.9
+Ⓒ Breast, upper outer
+juadrant C50.4
+Do 8/2/13
+Printed by:
+Copied tr
+Distribute to:
+Page 1 of 4
+Print Date/Time:
+Patient cations:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Upper outer quadrant
+SIZE OF INVASIVE COMPONENT:
+Greatest dimension: 7 cm (3 cm in this specimen and 4 cm in previous lumpectomy
+HISTOLOGIC TYPE:
+Invasive ductal carcinoma
+HISTOLOGIC GRADE:
+Tubule formation:
+Tubule formation: Minimal less than 10% (score = 3)
+Nuclear pleomorphism:
+Nuclear pleomorphism: Marked variation in size, nucleoli, chromatin clumping, etc. (score = 3)
+Mitotic count (for those using the Nottingham system) - for a 25x objective with a field area of 0.274mm2:
+Mitotic count (25x objective): 10 to 20 mitoses per 10 HPF (score = 2)
+Nottingham Grade III: 8-9 points
+PRIMARY TUMOR (pT):
+pT3: Tumor more than 5.0 cm in greatest dimension
+REGIONAL LYMPH NODES (pN):
+pN3a: Metastasis in 10 or more axillary lymph nodes (at least 1 tumor deposit greater than 2.0 mm), or metastasis to the
+infraclavicular lymph nodes
+Number examined: 21
+Number involved: 14
+DISTANT METASTASIS (M):
+pMX: Cannot be assessed
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 15 mm
+Specify which margin: posterior/deep
+*VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L):
+*Present
+*MICROCALCIFICATIONS:
+*Not identified
+*ADDITIONAL PATHOLOGIC FINDINGS:
+adenosis.
+Biomarkers evaluated in previous specimen (
+ER: positive, 98%
+PR: positive, 8%
+Her-2neu: equivocal 2+ by IHC, not amplified by FISH.
+Source of Specimen
+A
+LEFT HIGHEST AXILLARY NODE
+B
+LEFT BREAST AND LEFT AXILLARY CONTENTS
+C
+LEVEL I LEFT AXILLARY LYMPH NODE
+D
+LT AXILLA
+Page 2 of 4
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Clinical Information
+female with left breast cancer on ultrasound core needle biopsy status post
+PRE-OP DIAGNOSIS: Left breast cancer and axillary hydradenitis
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Left mastectomy and left axillary hidradenitis node dissection
+Gross Description
+Specimen is received in 4 parts:
+A. The specimen is labeled "LEFT HIGHEST AXILLARY NODE" and is received unfixed. It consists of one nodule of fatty yellow-
+tan tissue with staples measuring 1.2 x 0.7 x 0.5 cm. On sectioning, there is one lymph node identified measuring 0.7 cm in maximum
+dimensions. The lymph node is bisected and entirely submitted in cassette Al.
+Time specimen was removed from the patient
+Time specimen was sectioned and placed in formalin:
+Ischemic time: 30 minutes
+B. The specimen is labeled "LEFT BREAST AND AXILLARY CONTENTS" and is received in formalin. (The specimen is in the
+formalin more than
+It consist of mastectomy specimen with lymph nodes weighing 480 grams and
+measuring 24 x 18 x 5 cm with brown skin ellipse measuring 17 x 4 cm, containing grossly unremarkable 1.5 cm in diameter nipple.
+[The skin is tagged with a black stitch designating 12:00]. The posterior margin is composed of smooth fascia which is inked black.
+The anterior margin of resection is inked with blue ink. The breast is slices in sagittal planes revealing 3 x 3 x 2.5 cm an ill-defined
+white-tan mass which is 1.5 cm away from the deep fascial margin of resection. This mass is located in the upper outer quadrant
+(approximately 2:00 position). The remaining portions reveal unremarkable yellow mammary fat with streaks of white-gray
+mammary parenchyma. An axillary fat pad measuring 7 x 5 x 3 cm. On sectioning multiple lymph nodes are identified. Some lymph
+nodes are white in and firm in consistency. The largest lymph node measuring 2 cm in greatest diameter. Representative sections are
+submitted as follows:
+B1 = nipple
+B2-B5 mass
+B6 = mass closest deep fascial margin of resection
+B7 = upper inner quadrant
+B8 lower inner quadrant
+B9 = lower outer quadrant
+B10 = 6 lymph nodes
+B11 = bisection of a single lymph node
+B12 = bisection of a single lymph node
+B13
+B14
+representative sections of 3 lymph nodes
+bisection of a single lymph node
+B15 = representative section of the single lymph node
+B. 16 = bisection of a single lymph node
+B-17
+two small lymph nodes
+B. 18 = bisection of a single lymph node
+Time specimen was removed from the patient:
+Page 3 of 4
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Time specimen was sectioned and placed in formalin: `
+Ischemic time: 20 minutes
+Accession Number:
+Sex/DOB: Female
+C. The specimen is labeled "AXILLARY LYMPH NODE LEVEL I" and is received unfixed. It consists of two nodular pieces of fatty
+yellow-tan tissue with metallic staples measuring 2.2 x 1.5 x 0.5 cm in aggregate. On sectioning, there are two lymph nodes measuring
+0.7 and 1.0 cm in maximum dimensions. The lymph nodes are entirely submitted in cassette C1.
+Time specimen was removed from the patier
+Time specimen was sectioned and placed in formalin
+Ischemic time: 11 minutes
+D. The specimen is labeled "LEFT AXILLARY HYDRADENITIS" and is received in formalin. It consists of an unoriented brown
+ellipse of skin with attached subcutaneous tissue measuring 3.0 x 1.2 x 1.2 cm. There is a central old scar measuring 0.4 x 0.3 cm in
+maximum dimensions. On sectioning, there is a firm white area measuring 1.0 x 1.0 cm in maximum dimensions beneath the scar.
+Representative sections are submitted in cassettes D1-D2 scar with firm white area.
+Time specimen was removed from the patient:
+Time specimen was sectioned and placed in formalin:
+Ischemic time: 1 minute
+Dictated by:
+Special Stains / Slides
+22 H&E
+Tissue Code
+Page 4 of 4
+Criteria
+Diagnosis Discrepancy
+w 7/10/13
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Jual/Synchronous Primary Nate
+QUALIFIED
+Case is (circle):
+Reviewer Initials
+DISQUALIFIED
+Date Reviewed: 2013
+Print Date/Time:

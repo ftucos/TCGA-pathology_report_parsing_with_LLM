@@ -1,0 +1,400 @@
+Name:
+DOB:
+(Age:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+SENTINEL NODE NO.1 AXILLA CONTENT
+- No malignancy seen in one lymph node (0/1).
+B.
+C.
+- Immunohistochemistry for keratin to follow.
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, Nos C50.9 2/8/11 fu
+RIGHT BREAST (SHORT STITCH SUPERIOR LONG STITCH LATERAL):
+- Invasive lobular carcinoma, intermediate nuclear grade, with formation of two dominant tumoral masses, 40 cm and
+1.0 cm.
+-
+The tumor invades the dermal skin.
+-
+· Lymphovascular spaces invasion is identified.
+- Specimen margin is negative for tumor.
+Metastatic carcinoma to two of eight lymph nodes (/2/8)
+SENTINEL NODE NO. 2 AXILLA COUNT
+No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin to follow.
+Tumor Summary:
+Specimen:
+Total breast
+Procedure:
+- Total mastectomy
+Lymph Node Sampling:
+· Sentinel lymph node
+- Axillary dissection
+Specimen Integrity:
+- Single intact specimen
+Specimen Size:
+Greatest dimension: 21 cm
+* Additional dimension: 16 x 4 cm.
+Laterality:
+- Right
+Tumor Site:
+Lower outer quadrant
+- Upper inner quadrant
+- Lower inner quadrant
+-
+Tumor Size:
+Greatest dimension of largest focus of invasion over 0.1 cm: 4 cm.
+Additional dimensions: 1 x 1 cm.
+Tumor Focality:
+- Multiple focus of invasive carcinoma.
+Macroscopic and Microscopic Extent of tumor:
+- Skin: Satellite skin foci of invasive carcinoma are present
+Lobular Carcinoma IN Situ (LCIS):
+- Present
+Histologic Type:
+- Invasive lobular carcinoma
+Histologic Grade:
+Overall Grade: Grade 2
+Margins:
+- Margins uninvolved by invasive carcinoma.
+Lymph-Vascular Invasion:
+- Present
+Dermal Lymph-Vascular Invasion:
+UUID:D4194F52-3E15-4105-9A1A-1326CF128BF8
+TCGA-EW-A1IW-01A-PR
+Redacted
+SURGICAL PATHOL Report
+-
+Not identified.
+Lymph Nodes:
+-
+• Number of sentinel lymph nodes examined: 2
+- Total number of lymph nodes examined (sentinel and Nonsentinel): 10
+Number of lymph nodes with macrometastases (>0.2 cm): 2
+Extranodal Extension:
+-
+· Not identified
+Method of Evaluation of Sentinel Lymph Nodes:
+Hematoxylin and eosin (H&E, one level)
+- Immunohistochemistry.
+Ancillary Studies:
+Estrogen Receptor:
+-
+Performed on another specimen:
+Progesterone Receptor:
+- Performed on another specimen:
+HER2/neu
+-
+• Performed on another specimen:
+CISH for HER2/Neu:
+.
+Performed on another specimen:
+TNM Descriptors:
+- m (multiple foci of invasive carcinoma)
+Primary Tumor (invasive Carcinoma) (pT).
+pT4b
+Regional Lymph Nodes (pN):
+- pN1a
+Distant Metastasis (M):
+- Not applicable
+Pathologic Staging (pTNM): mpT3, N1a, M-not applicable
+Results: Immunoreactive tumor cells present (≥1%).
+Results: Immunoreactive tumor cells present (≥1%).
+Results: Equivocal (Score 2+)
+Results: Not amplified (HER2 gene copy <4.0 or ratio <1.8)
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA roval. These clones are
+IDS-ER, PgR 636-PR, A485-HER2, H-11=EGFR. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by
+pathologist as positive or negative.
+The results are read by
+Procedures/Addenda
+Addendum
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Date Ordered:
+Date Complete:
+Date Reported:
+Status: Signed Out
+Addendum Diagnosis
+C.
+-
+SENTINEL NODE # 1 AXILLA CONTENT
+Immunohistochemistry for keratin stain is negative for metastatic carcinoma to the lymph node.
+SENTINEL NODE #2 AXILLA COUNT
+- Immunohistochemistry for keratin stain is negative for metastatic carcinoma to the lymph node.
+Page 2 of 3
+Intraoperative Consultation
+A. Sentinel node # 1 axilla content
+C. Sentinel node # 2 Axilla count
+SURGICAL PATHOL Report
+@
+frozen section: Touch prep: Negative for metastatic carcinoma.
+and Touch prep: Negative for metastatic carcinoma.
+Clinical History:
+Lobular carcinoma
+Operation Performed
+Right breast total mastectomy; Possible axillary node dissection; Sentinel node biopsy
+Pre Operative Diagnosis:
+Breast cancer
+Specimen(s) Received:
+A: Sentinel node # 1 axilla content:
+B: Right breast (short stitch superior long stitch lateral)
+C: Sentinel node # 2 Axilla count
+Gross Description:
+A.
+B.
+Received fresh is an ovoid pale tan tissue fragment, 1 x 1 x 0.2 cm. Bisected and submitted in toto in one cassette for
+frozen section.
+Received is a right mastectomy specimen with axillary tail, 21 x 16 x 4 cm. The specimen is oriented with short suture-
+superior margin and long suture-lateral margin. At the anterior aspect, there is a segment of skin 10 x 5.5 x 0,5 cm with
+areola and nipple. The nipple is depressed. There is an ill defined tumor mass, 4 x 3 x 1 cm, located at both lower inferior
+quadrants (outer and inner). There is a metallic clip. At the upper inner quadrant, there is a second tumor mass, 1 x 1 x
+0.5 cm present, close to the anterior margin. The rest of the breast presents fow breast stroma and abundant yellow
+adipose tissue. Representative portion of tissue was taken for the
+Ten possible lymph nodes are
+grossly identified and present at the axillary tail. Representative sections are submitted in nineteen cassettes as follows:
+Nipple
+1
+Deep margin
+2
+3&4
+Tumor, lower outer quadrant
+5&6
+Tumor, lower inner quadrant
+7
+Middle line tumor
+8
+Second mass, upper inner quadrant close to anterior margin
+9
+Upper outer quadrant
+10&11
+One entire lymph node, per block
+12-19
+One lymph node bisected, per block
+Received is an ovoid pale tan tissue fragment, 1.2 x 1 x 0.5 cm. Bisected and submitted in toto in one cassette for frozen
+section.
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+DISQUALIFIED
+QUALIFIED
+Date Reviewed:
+Page 3 of 3
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+AMMENDMENT TO PATHOLOGIC TUMOR STAGING AND RESULTS OF HER2 BY CISH (.
+A.
+B.
+SENTINEL NODE NO.1 AXILLA CONTENT
+- No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin to follow.
+RIGHT BREAST (SHORT STITCH SUPERIOR LONG STITCH LATERAL):
+- Invasive lobular carcinoma, intermediate nuclear grade, with formation of two dominant tumoral masses, 4.0 cm and
+1.0 cm.
+-
+The tumor invades the dermal skin.
+- Lymphovascular spaces invasion is identified.
+- Specimen margin is negative for tumor.
+- Metastatic carcinoma to two of eight lymph nodes (/2/8)
+SENTINEL NODE NO. 2 AXILLA COUNT 605 FS:
+.
+No malignancy seen in one lymph node (0/1).
+-
+Immunohistochemistry for keratin to follow.
+iCD-03
+carcinoma, infiltrating
+lobular, Nos 8520/3
+Site: breast,NOS C50.9
+Tumor Summary:
+Specimen:
+Total breast
+Procedure:
+- Total mastectomy
+Lymph Node Sampling:
+- Sentinel lymph node
+- Axillary dissection
+Specimen Integrity:
+- Single intact specimen
+Specimen Size:
+- Greatest dimension: 21 cm
+Additional dimension: 16 x 4 cm.
+Laterality:
+- Right
+Tumor Site:
+- Lower outer quadrant
+Upper inner quadrant
+- Lower inner quadrant
+Tumor Size:
+"
+Greatest dimension of largest focus of invasion over 0.1 cm: 4 cm.
+- Additional dimensions: 1 x 1 cm.
+Tumor Focality:
+- Multiple focus of invasive carcinoma.
+Macroscopic and Microscopic Extent of tumor:
+· Skin: Satellite skin foci of invasive carcinoma are present
+Lobular Carcinoma IN Situ (LCIS):
+- Present
+Histologic Type:
+- Invasive lobular carcinoma
+Histologic Grade:
+- Overall Grade: Grade 2
+Margins:
+Margins uninvolved by invasive carcinoma.
+5/31/12
+RD
+Lymph-Vascular Invasion:
+- Present
+Dermal Lymph-Vascular Invasion:
+- Not identified.
+Lymph Nodes:
+.
+- Number of sentinel lymph nodes examined: 2
+Total number of lymph nodes examined (sentinel and Nonsentinel): 10
+- Number of lymph nodes with macrometastases (>0.2 cm): 2
+Extranodal Extension:
+- Not identified
+Method of Evaluation of Sentinel Lymph Nodes:
+- Hematoxylin and eosin (H&E, one level)
+- Immunohistochemistry.
+Ancillary Studies:
+Estrogen Receptor:
+-
+• Performed on another specimen:
+Progesterone Receptor:
+- Performed on another specimen:
+HER2/neu
+Performed on another specimen:
+CISH for HER2/Neu:
+- Performed on another specimen:
+TNM Descriptors:
+- m (multiple foci of invasive carcinoma)
+Primary Tumor (invasive Carcinoma) (pT).
+- pT4b
+Regional Lymph Nodes (pN):
+- pN1a
+Distant Metastasis (M):
+- Not applicable
+Results: Immunoreactive tumor cells present (≥1%).
+Results: Immunoreactive tumor cells present (≥1%).
+Results: Equivocal (Score 2+)
+Results: Amplified (HER2 gene copy <4.0 or ratio <1.8)
+(amended.
+Pathologic Staging (pTNM): mpT4b, N1a, M-not applicable (amended
+The results are read by a
+NOTE: Same immunohistochemical antibodies are analyte specific reagents (ASPs) valukated by our laboratory. These ASRs are chincally useful unheats that do not require FDA approval. These clones are awd
+ID5· ER PÅR 636 - PR. A485-HER2, H1-AT-EGFR All immunohistochemical stains are wed with formale or molecular fixed, paraffin embedded tissue. Detection is h;
+pathologist as positive or negume.
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Amendments
+Amended:
+Reason: Revise/Update Tumor Staging
+Case is amended to rovice Pathologic Tumor Staging and update results of Her2 by CISH.
+Previous Signout Date:
+Procedures/Addenda
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Status: Signed Out
+Page 2 of 1
+Addendum Diagnosis
+A.
+C.
+SENTINEL NODE # 1 AXILLA CONTENT
+- Immunohistochemistry for keratin stain is negative for metastatic carcinoma to the lymph node.
+SENTINEL NODE # 2 AXILLA COUNT
+- Immunohistochemistry for keratin stain is negative for metastatic carcinoma to the lymph node.
+Intraoperative Consultation
+A. Sentinel node # 1 axilla content
+C. Sentinel node # 2 Axilla count
+2 frozen section: Touch prep: Negative for metastatic carcinoma.
+and Touch prep: Negative for metastatic carcinoma.
+Clinical History:
+Lobular carcinoma
+Operation Performed
+Right breast total mastectomy; Possible axillary node dissection; Sentinel node biopsy
+Pre Operative Diagnosis:
+Breast cancer
+Specimen(s) Received:
+A: Sentinel node # 1 axilla content
+B: Right breast (short stitch superior long stitch lateral)
+C: Sentinel node #2 Axilla count
+Gross Description:
+A.
+B.
+Received fresh is an ovoid pale tan tissue fragment, 1 x 1 x 0.2 cm. Bisected and submitted in toto in one cassette for
+frozen section.
+Received is a right mastectomy specimen with axillary tail, 21 x 16 x 4 cm. The specimen is oriented with short suture-
+superior margin and long suture-lateral margin. At the anterior aspect, there is a segment of skin 10 x 5,5 x 0.5 cm with
+areola and nipple. The nipple is depressed. There is an ill defined tumor mass, 4 x 3 x 1 cm, located at both lower inferior
+quadrants (outer and inner). There is a metallic clip. At the upper inner quadrant, there is a second tumor mass, 1 × 1 ×
+0.5 cm present, close to the anterior margin. The rest of the breast presents few breast stroma and abundant yellow
+adipose tissue. Representative portion of tissue was taken for the
+Ten possible lymph nodes are
+grossly identified and present at the axillary tail. Representative sections are submitted in nineteen cassettes as follows:
+Nipple
+Deep margin
+1
+2
+3&4
+Tumor, lower outer quadrant
+5&6
+Tumor, lower inner quadrant
+7
+Middle line tumor
+8
+Second mass, upper inner quadrant close to anterior margin
+g
+Upper outer quadrant
+10&11
+12-19
+One entire lymph node, per block
+One lymph node bisected, per block
+C.
+Received is an ovoid pale tan tissue fragment, 1.2 x 1 x 0.5 cm. Bisected and submitted in toto in one cassette for frozen
+Page 3 of 1
+section.
+riteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous imary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed.
+Yes
+No
+Page 4 of 4

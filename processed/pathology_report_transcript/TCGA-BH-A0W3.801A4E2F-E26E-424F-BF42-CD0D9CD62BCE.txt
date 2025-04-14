@@ -1,0 +1,159 @@
+PATIENT HISTORY:
+CHIEF COMPLAINT/PRE-OP/POST-OP DIAGNOSIS: 1.2-cm mass upper inner quadrant left breast, core blopsy invasive ductal
+carcinoma.
+LMP DATE: Not provided.
+PROCEDURE: Left segmental mastectomy, sentinel lymph node biopsy.
+SPECIFIC CLINICAL QUESTION: Not provided.
+OUTSIDE TISSUE DIAGNOSIS: No.
+PRIOR MALIGNANCY: No.
+CHEMORADIATION THERAPY: No.
+OTHER DISEASES: No.
+UUID:801A4E2F-E26E-424F-BF42-CD8D9CD62BCE
+TCGA-BH-A0W3-01A-PR
+Redacted
+ADDENDA:
+Addendum
+Immunostains for HER-2/neu were performed on block 1B.
+HER2 IMMUNOHISTOCHEMISTRY: Using appropriate formalin fixed (8 - 96 hours), controls and tissue
+test block, 485 antibody clone is used as part of FDA approved Pathway on the
+and interpreted as follows:
+2 +
+=
+A weak to moderate complete membrane staining is
+observed in more than 10% of the tumor cells)
+(Equivocal)
+NOTE: Her-2/Neu FISH was ordered and will be subsequently reported.
+CASE SYNOPSIS:
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+Left
+Segmental
+Upper inner quadrant
+Maximum dimension invasive component: 15 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+No
+Ductal adenocarcinoma, NOS
+Nuclear grade: 2
+Tubule formation: 3
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+CALCIFICATION:
+TUMOR TYPE, IN SITU:
+Mitotic activity score: 1
+Total Nottingham score: 6
+Nottingham grade (1, 2, 3): 2
+No
+Not applicable
+No
+Cribriform
+Micropapillary
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+4
+METHOD(S) OF LYMPH NODE EXAMINATION:
+LYMPH NODES EXAMINED:
+SENTINEL NODE METASTASIS:
+T STAGE, PATHOLOGIC:
+IN STAGE, PATHOLOGIC:
+H/E stain
+Yes
+pT1c
+pN1a
+Not applicable
+positive, H-score: 300
+positive, H-score: 225
+2+
+ICD-0-3
+carcinoma, infiltrating duct, Nos
+8500/3
+Site: breast, Nos C50.9
+10/15/11
+M STAGE:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+INTERPRETATION
+nuc ish(D17Z1,ERBB2)x2-6[80]
+No amplification of the HER-2/NEU gene was seen by interphase FISH analysis.
+RESULTS:
+Fluorescence in situ hybridization (FISH) analysis was performed on a formalin-fixed Block 1B (Left segmental mastectomy 10:00)
+using the DNA probe for the HER-2/NEU 
+gene
+An adequate number of invasive tumor cells were
+present and evaluated by four Independent observers. The ratio of HER-2/NEU signals (ERBB2) to chromosome 17 centromere
+signals ( was determined to 
+be 1.69. A ratio of greater than 2.2 is considered to be amplified with ratios of 1.80 to 2.20 in
+the equivocal range; 
+therefore, this specimen is not amplified. The average number of HER-2/NEU signals per cell was 4.10.
+The average number of 
+signals for the chromosome 17 centromere was 2.43. Many of the cells exhibited 3 or more signals for
+both the HER-2/NEU gene and for the 
+chromosome 17 centromere. This may be indicative of either polyploidy or aneuploidy
+for chromosome 17. 
+Concurrent positive and negative control specimens showed the expected results.
+This FISH test is performed using a modification of the Vysis FDA approved PathVysion HER-2 DNA Probe Kit (1:2 LSI HER-2/neu
+/ CEP17 probe: T-denhyb-2 buffer)
+. This FISH test was developed and its performance determined by the
+Pursuant to the requirements of CLIA '88, this laboratory has established and vermed the test's
+accuracy and precision.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discreparry
+Prior Malignancy History
+Dual/Synchronous Primary floted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+CISQUALIFIED
+Yes
+Nu
+10/15/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+12/10
+FINAL DIAGNOSIS:
+PART 1: BREAST, LEFT, SEGMENTAL MASTECTOMY AT 10:00-
+A. INVASIVE DUCTAL CARCINOMA, NOTTINGHAM GRADE 2 (TUBULAR FORMATION 3, NUCLEAR GRADE 2,
+MITOTIC ACTIVITY 1; TOTAL SCORE 6/9).
+B. THE INVASIVE TUMOR MEASURES 1.5 CM IN LARGEST DIMENSION (GROSS MEASUREMENT).
+C. DUCTAL CARCINOMA IN SITU (DCIS), MICROPAPILLARY AND CRIBRIFORM PATTERNS, NUCLEAR GRADE
+2.
+D. DCIS ACCOUNTS FOR 6% OF TOTAL TUMOR VOLUME, ADMIXED WITH OR CLOSE TO INVASIVE
+COMPONENT.
+E. INVASIVE TUMOR IS 2.5 MM FROM ANTERIOR MARGIN AND 4 MM FROM POSTERIOR MARGIN; DCIS IS
+LESS THAN 0.2 MM FROM THE ANTERIOR MARGIN.
+F.
+NO LYMPHOVASCULAR INVASION IDENTIFIED.
+G. ATYPICAL DUCTAL HYPERPLASIA.
+H. NON-NEOPLASTIC BREAST TISSUE SHOWING PAPILLOMA, FIBROCYSTIC CHANGE AND DUCTAL
+EPITHELIAL HYPERPLASIA.
+I.
+BIOPSY SITE CHANGES.
+J. TUMOR IS POSITIVE FOR ER AND PR, HER-2/NEU SCORE 2+ (*
+PART 2: ADDITIONAL ANTERIOR MARGIN, NEW ANTERIOR MARGIN, EXCISION
+BENIGN BREAST FIBROADIPOSE TISSUE.
+PART 3: LEFT AXILLARY SENTINEL LYMPH NODE #1, BIOPSY.
+-
+A. ONE OF TWO (1/2) LYMPH NODES, POSITIVE FOR METASTATIC CARCINOMA (SEE COMMENT).
+B. THE TUMOR MEASURES 1 CM.
+PART 4: LEFT SENTINEL LYMPH NODE #2, BIOPSY —
+ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 5: LEFT SENTINEL LYMPH NODE #3, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).

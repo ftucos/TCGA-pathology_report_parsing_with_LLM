@@ -1,0 +1,196 @@
+Final Surgical Pathology Report
+UUID:8644AEB6-7D46-4D4D-BA00-D42BCDDCB164
+TCGA-A7-A426-01A-PR
+Redacted
+Procedure:
+Diagnosis
+A.
+Lymph nodes, right axillary sentinel nodes, resection:
+2 of 3 lymph nodes contain metastatic lobular carcinoma (2/3).
+B.
+Lymph node, left axillary sentinel node, resection:
+Single lymph node negative for metastatic carcinoma (0/1).
+C. Breast, right, simple mastectomy:
+Invasive lobular carcinoma.
+The nipple, overlying skin and deep margin of the mastectomy are free
+of carcinoma.
+Fibrocystic changes with ductal hyperplasia and lobular carcinoma in
+situ.
+Post-biopsy changes are present.
+D.
+Breast, left, simple mastectomy:
+Invasive lobular carcinoma.
+The nipple, overlying skin and deep margin of the mastectomy are free
+of carcinoma.
+Fibrocystic changes with ductal hyperplasia microcalcifications.
+Post-biopsy changes are present.
+E.
+Lymph nodes, right axillary, resection:
+11 of 17 additional lymph nodes contain metastatic lobular carcinoma
+(11/17).
+(See template for total lymph node count).
+A portion of breast tissue is also present which contains a
+microscopic focus
+free of carcinoma.
+of invasive lobular carcinoma.
+The margins of resection of that tissue portion are
+Microscopic Description:
+A., C. and E.:
+Right Breast
+1CD0-3
+Carcinoma, infiltrating, lobular, Nos
+852013
+Invasive carcinoma:
+Histologic type: Invasive lobular carcinoma
+Site: breast, NOS
+Histologic grade: 1
+060.9
+Overall grade:
+Architectural score: 3
+Nuclear score: 1
+7-23-1280
+Mitotic score: 1
+Greatest dimension (PT): Tumor measures grossly a span of
+approximately 6 cm (pT3).
+Specimen margins: Deep margin of the mastectomy is negative for
+malignancy.
+Vessel invasion: Negative
+Nipple: Negative
+Invasion of skin or chest wall: Negative
+Description of non-tumorous breast: Fibrocystic changes with ductal
+hyperplasia and lobular carcinoma in situ.
+Lymph nodes:
+Number of positive nodes of total: 13 of 20 (including 2 of 3
+positive sentinel lymph nodes)
+Size of largest metastasis: 1.1 cm
+Extracapsular extension (present/absent):
+pN3a.
+pN:
+Distant metastasis (PM): pMx
+Prognostic markers: See prior core biopsy
+Present
+The invasive
+tumor was estrogen receptor positive, progesterone receptor positive
+and showed normal expression for HER-2/neu.
+B. and D.:
+Left breast-
+Invasive carcinoma:
+Histologic type: Invasive lobular carcinoma
+Histologic grade: 1
+Overall grade:
+Architectural score: 3
+Nuclear score: 1
+Mitotic score: 1
+Greatest dimension: Residual tumor measures maximally 5 x 5 x 3 mm
+as measured from the glass slide.
+Specimen margins: Deep margin mastectomy is negative for
+malignancy.
+Vessel invasion: Negative
+Nipple: Negative
+Invasion of skin or chest wall: Negative
+Description of non-tumorous breast: Fibrocystic changes with ductal
+hyperplasia and microcalcifications.
+Lymph nodes:
+Number of positive nodes of total: 0 of 1 (sentinel lymph node)
+PN: PNO
+Distant metastasis (pM): pMx
+Prognostic markers: See prior core biopsy (
+The invasive
+carcinoma was estrogen receptor positive, progesterone receptor
+positive showed normal expression for HER-2/neu.
+Specimen
+A.
+Right axillary sentinel node
+B. Left axillary sentinel node
+C. Right breast
+D. Left breast
+E. Right axillary contents
+Clinical Information
+year-old white
+Intraoperative Consultation
+Bilateral invasive lobular carcinoma
+-
+Two of
+'FSA) Right axillary sentinel nodes Three lymph nodes present.
+three nodes positive for metastatic lobular carcinoma.
+FSB) Left axillary sentinel node Negative for metastatic carcinoma.
+-
+Gross Description
+A.
+Submitted fresh for frozen section labeled "right axillary sentinel
+node" or 3 nodules of partially cauterized tan yellow soft tissue.
+Bisecting the nodules reveal them to range from 0.7-1.8 cm in greatest
+dimension. They're grossly involved by tumor. Half of each is
+submitted for frozen section the remainder is kept for permanents.
+B.
+Submitted fresh for frozen section labeled "left axillary sentinel
+node is enlarged 3 x 2 x 1.5 cm mass of fatty tissue. Bisecting the
+mass shows it to be possibly a large lymph node replaced with fat.
+Lymph node is bisected and submitted entirely for frozen section in 2
+blocks. The remainder of the fat is submitted for permanent sections.
+C. Received fresh and subsequently fixed in formalin labeled "right
+breast "is a 22.0 x 20.0 x 5.8 cm mastectomy which is partially covered
+with a 13.0 x 7.5 cm pink-tan wrinkled skin ellipse having a 2.0 cm
+everted nipple. The specimen is inked black the deep margin and
+sectioned to show predominantly fibrous cut surface which is diffusely
+nodular. Specimen shows an ill circumscribed fibrous mass which is
+approximately 6 cm in greatest dimension. The shows a 0.8 cm previous
+biopsy site, partially filled with white rice-like pellets. This comes
+within 0.5 cm of the deep margin is located toward the lateral aspect
+of the specimen. The specimen is diffusely nodular firm and rubbery no
+additional biopsy sites are grossly identified. No lymph nodes are
+grossly identified in the apex of the specimen. The specimen is
+collected at
+and fixed in
+formalin at
+Representative sections of the specimen are submitted
+as follows: 1 - 2 - entire nipple with representative skin, 3-6-
+representative sections of tumor, biopsy site and deep margin, 7 -
+representative upper outer quadrant, 8 - representative lower outer
+quadrant, 9 - representative lower inner quadrant, 10 - representative
+upper inner quadrant.
+received in pathology at
+D. Received fresh and subsequently fixed in formalin labeled "left
+breast "is a 23.0 x 20.0 x 6.5 cm mastectomy which is partially covered
+with a 13 x 8 cm pink-tan wrinkled skin ellipse having a 2.0 cm everted
+nipple. The specimen is inked at the deep margin to show a
+predominantly white yellow nodular fibrous cut surface. There is a 1.5
+x 1.2 x 0.5 cm hemorrhagic focus which is grossly consistent with a
+previous biopsy. Located in the lower outer quadrant, coming within 1.2
+cm of the deep margin. No other discrete biopsy sites are grossly
+identified. The fibrous tissue is remarkably firm and nodular
+diffusely. No lymph nodes gross identified in the apex of the specimen.
+The specimen is collected at
+received in pathology at
+and fixed in formalin at
+Representative sections of the specimen
+are submitted as follows: 1 - 2 - entire nipple with skin, 4 - 6 -
+entire biopsy site representative deep margin and surrounding tissue, 7
+representative inner upper quadrant, 8 - representative lower inner
+quadrant, 9 - representative lower outer quadrant, 10 - representative
+upper outer quadrant. RS 10
+E. Received fresh and subsequently fixed in formalin labeled "right
+axillary content "is a 9.5 x 8.5 x 4.5 cm aggregate of friable fatty
+tissue. Less than has a suture is undesignated. This may designate the
+highest node. Due to the fragment in nature, orientation of the
+remainder of the tissue is indeterminate. Also received is a 6.5 cm
+additional portion of possible breast tissue was which is fibrous and
+nodular. Representative sections which include all the lymph nodes are
+submitted as follows: 1 - representative section of breast tissue, 2 -
+highest node, 3 - 3 possible lymph nodes, 4 - 4 possible lymph nodes, 5
+- 2 possible lymph nodes, 6 - 5 possible lymph nodes, 7 - 2 possible
+lymph node.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials W
+QUALIFIED
+Yes
+No
+Date Reviewed:
+DISQUALIFI
+7/1/7112

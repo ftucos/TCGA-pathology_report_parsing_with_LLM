@@ -1,0 +1,61 @@
+TSS ID:
+TSS ID.
+OC ID
+Date of Procurement:
+Gross Description:
+Lump with the tumor of 1.2 x 1.3 cm in size.
+Fatty tissue lymph nodes are dense, hyperemic.
+ICD-0-3
+Carcinoma, infiltrating duct. Nos 8500/3
+Site: breast, Nos C50.9
+4/8/11 f
+سلم
+Microscopic Description:
+Infiltrating duct carcinoma, G2.
+Ten dissected lymph nodes demonstrate reactive changes.
+Diagnosis Details:
+Tumor Features: Unknown, Tumor Extent: T1 tumor size 2 cm or less, Venous Invasion: Absent, Margins: Absent, Treatment
+Effect:
+Comments:
+Formatted Path Report:
+BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Upper outer quadrant
+Tumor size: 1.2 x 1.3 x 0 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+UUID:26140CA5-AF22-47DD-BE48-C3C7DE07E5DB
+TCGA-E9-A1RA-01A-PR
+.riteria
+Diagnosis Discrepancy
+Redacted
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Noted
+Case is (circle):
+Reviewer itals
+QUALIFIED
+Pataviewed:
+DISQUALIFIED
+Low 4/8/11
+TSS IC
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Laterality:
+Left, upper outer quadrant

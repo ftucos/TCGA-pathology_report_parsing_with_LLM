@@ -1,0 +1,217 @@
+UUID:58D54D1A-3A8D-40DD-A643-846CAF242494
+TCGA-MS-A51U-01A-PR
+SPECIMEN(S):
+Redacted
+A: Left sentinel lymph node #1
+B: Left sentinel lymph node #2
+C: Left breast with axillary lymph nodes
+D: Right breast
+101-0-3
+carcinoma, infiltrating lubular, Nos 8520/3
+Site: breast, Nos
+050.9
+FINAL DIAGNOSIS:
+**Amended Microscopic Breast Carcinoma Checklist (see below)**
+A. Lymph nodes, "left sentinel lymph node #1," biopsy (including AFS1)
+-
+Metastatic carcinoma in one lymph node consistent with breast
+primary (1/1)
+- Metastatic deposit measures 6mm in greatest dimension
+No extracapsular extension
+B. Lymph nodes, "left sentinel lymph node #2," biopsy (including BFS1)
+-
+Two lymph nodes with no evidence of malignancy (0/2)
+C. Breast left, modified radical mastectomy
+- Invasive lobular carcinoma
+- Multifocal with largest tumor 3.2 cm in greatest dimension in
+upper outer quadrant; additional foci in retroareolar area and lower
+Citeria
+Diagnosis Discrepancy
+سنا
+10/4/12
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nati
+Case is (circle):
+viewer initials
+QUAREI
+DISQUALIFIED
+BTH Date Reviewed 10/14/2012 10/4/12
+outer quadrant up to 1.1cm in greatest dimension
+- Histological grade = 2/3 (score: tubules 3 + nucleus 2 + mitoses 1 =
+6/9) by
+criteria
+- Mitotic index = <1/hpf (low)
+- Margins negative for invasive carcinoma (nearest = 1.2 cm; location:
+deep margin)
+- Lobular carcinoma in situ (LCIS)
+- LCIS comprises 5% of total carcinoma in specimen
+- Nuclear grade 1/3 by SBR criteria (low)
+- Margins negative for LCIS
+- Metastatic carcinoma present in one of fifteen lymph nodes (1/15)
+- Tumor deposit measures 4mm in greatest dimension, with no
+extracapsular extension
+- Nevus cell aggregate also identified
+D. Breast, right, prophylactic simple mastectomy
+- Fibrocystic changes
+- Columnar cell hyperplasia
+-
+- Usual ductal hyperplasia
+- No evidence of atypical hyperplasia, in situ carcinoma, or invasive
+carcinoma
+- Skin, nipple, and resection margins unremarkable
+COMMENT:
+This report was amended to correct the number of positive nodes in the
+microscopic section, in the "Breast Carcinoma Checklist." The Diagnosis
+above is unchanged, and is correct, with a total of 2 positive nodes;
+that count has been re-verified by review of the microscopic slides.
+The microscopic checklist section has now been corrected, to indicate
+that a total of 2 nodes are positive. The "N" stage has thus been
+corrected to pN1, as well.
+This case was discussed with
+at a recent
+conference, and he in fact pointed out this discrepancy. I informed him
+at that time that I would make these corrections to the report.
+CLINICAL HISTORY:
+The patient is a year-old woman with biopsy proven infiltrating
+lobular cancer of the left breast (ER+ PR+ Her2/neu-). Operative
+procedure: Sentinel lymph node biopsies, left modified radical
+mastectomy and right simple mastectomy.
+GROSS:
+Received are four fresh containers each labeled with the patient's name
+A. The first container is additionally labeled "A - left
+sentinel lymph node #1." The specimen consists of a 2.1 x 2.06 cm
+fragment of pale, yellow-tan, fibrofatty tissue. A single potential
+lymph node is identified measuring 1.8 cm in greatest dimension. The
+node is serially sectioned and entirely submitted for frozen section
+analysis as AFS1.
+B.
+The next container is labeled "B - left sentinel lymph node
+#2." The specimen consists of a 1.8 x 1.5 x 0.4 cm fragment of
+yellow-tan, fibrofatty tissue. Two potential lymph nodes are identified
+measuring 0.8 x 0.4 cm in greatest dimension. The smaller node is inked
+black. The nodes are serially sectioned and entirely submitted for
+frozen section analysis as BFS1. The remaining adipose tissue is
+submitted for permanent sections in cassette B2.
+Summary of Sections:
+BFS1 - two potential sentinel lymph nodes, entirely submitted.
+B2 remaining soft tissue.
+The next container is labeled "C - left breast at 12 o'clock
+with left axillary node dissection." The specimen consists of a 613 gm
+modified radical mastectomy with axillary tail. The breast measures 17
+cm medial to lateral, 15.5 cm superior to inferior and 3.9 cm
+superficial to deep. The attached axillary tail measures 8 x 7.5 x 2
+cm. There is an attached ovoid portion of skin measuring 4 x 3.5 cm
+with an everted, freely mobile nipple which measures 2.5 x 2.5 cm with
+the areolar complex. The deep fascial plane is inked black, the
+remaining superior half is inked blue with the remaining inferior half
+inked green. The specimen is serially sectioned from medial to lateral.
+A gray-white, firm, irregularly-bordered mass is identified in the
+upper outer quadrant measuring 3.2 x 2.2 x 1.3 cm in greatest dimension.
+This mass is consistent with a bilobed single mass. However, it could
+represent two separate masses. The central area of the mass is
+submitted which could represent normal parenchyma in between the two
+masses. The mass is 1.8 cm to the deep margin and 2.5 cm to the nipple.
+A dumbbell-shaped biopsy clip is identified near the medial portion of
+the mass. There are firm, indurated possibly calcified areas located
+posteriorly to the nipple. The axillary tail is dissected to reveal 19
+potential lymph nodes ranging in size from 0.3 to 2.6 cm in greatest
+dimension. The nodes are entirely submitted. The specimen is sectioned
+and laced in formalin.
+Summary of Sections:
+C1 middle portion of mass.
+-
+C2-C3 - medical portion of tumor.
+C4 lateral portion of tumor with deep margin.
+C5 lateral portion of tumor.
+C6 representative upper inner quadrant.
+C7 representative upper outer quadrant.
+C8 representative lower outer quadrant.
+C9 representative lower inner quadrant.
+C10 representative retroareolar areas of induration.
+-
+C11 - nipple.
+C12-
+- one potential lymph node, bisected, entirely submitted.
+C13 one potential lymph node, bisected, entirely submitted.
+-
+C14 - one potential lymph node, bisected, entirely submitted.
+-
+C15 six potential lymph nodes, submitted intact.
+C16-six potential lymph nodes, submitted intact.
+-
+C17 four potential lymph nodes, submitted intact.
+D.
+The next container is additionally labeled "D - right
+breast." The specimen consists of a 510 gm simple mastectomy measuring
+20 x 17 x 2.8 cm. Attached roughly ovoid portion of skin measures 3.9 x
+2.5 cm which is pale tan without lesions identified. The attached
+nipple is everted and freely mobile and measures 2.7 x 2.0 cm with the
+areolar complex. The deep fascial plane is inked black. The remaining
+specimen is inked blue. The specimen is unoriented. It is serially
+sectioned to reveal yellow-tan, lobulated parenchyma with interspersed,
+dense and gray-white fibrosis and fibrocystic change. A small 0.6 cm
+area of hemorrhage is identified located at the periphery. Masses or
+lesions suspicious for malignant process are not grossly identified.
+The specimen is arbitrarily divided into quadrants and representative
+sections are submitted. The specimen is sectioned and placed in
+formalin .
+Summary of Sections:
+D1 - nipple.
+D2-D3 representative of quadrant 1.
+D4-D5 representative of quadrant 2.
+D6-D7 - representative of quadrant 3.
+D8-D9 representative of quadrant 4.
+INTRAOPERATIVE CONSULTATION:
+FROZEN SECTION DIAGNOSIS:
+AFS1: Left sentinel lymph node #1 - "Metastatic breast carcinoma in
+one lymph node."
+FROZEN SECTION DIAGNOSIS:
+BFS1: Left sentinel lymph node #2 - "Two lymph nodes with no evidence
+of malignancy."
+MICROSCOPIC:
+Microscopic examination is performed. Permanent sections confirm the
+frozen section diagnoses.
+Breast carcinoma checklist:
+Operative procedure: mastectomy
+Specimen size: 17 x 15.5 x 3.9 cm
+Specimen integrity: Intact
+Tumor location: Upper outer quadrant, lower outer quadrant, and
+sub-areolar
+Tumor focality: Multifocal
+Tumor size: 3.2 x 2.2 x 1.3 cm, with other nodules as large as 1.1 cm
+Tumor extent: tumor limited to breast, without invasion of skin or
+muscle
+Tumor type: Infiltrating lobular carcinoma
+Histologic grade: 2/3 (score: tubules 3 + nucleus 2 + mitoses 1 = 6/9)
+by ESBR criteria
+Mitotic index: <1/hpf (low)
+Lymphovascular invasion: Present
+Perineural invasion: Absent
+Margins of invasive carcinoma: Negative (nearest = 12 mm; location;
+deep)
+In situ carcinoma: Present; Lobular carcinoma in situ (LCIS)
+Extent of in situ carcinoma: Non-extensive, comprises 5% of total
+carcinoma
+Grade of in situ carcinoma: 1/3 by SBR criteria (low)
+Margins of in situ carcinoma: Negative
+Paget's disease: Absent
+Number of Lymph nodes examined: 18
+Number of Lymph nodes positive: **2** (1/3 sentinel nodes, and 1/15
+nodes from mastectomy)
+Size of largest metastatic focus: 6 mm
+Extracapsular extension: Absent
+Receptor studies (performed on prior biopsy)
+ER +
+PR:+
+her2/neu:-
+AJCC Cancer Staging:
+pT: Primary tumor (pT)
+pT2
+pN: Regional nodes (pN)
+**pN1** **(2 total positive nodes)**
+M: Distant metastases (M)
+MO (clinically absent)

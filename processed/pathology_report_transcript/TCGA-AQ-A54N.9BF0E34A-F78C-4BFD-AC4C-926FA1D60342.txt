@@ -1,0 +1,172 @@
+SURGICAL PATHOLOGY REVISED REPORT
+Case Number:
+UUID:9BF0E34A-F78C-4BFD-AC4C-926FA1D60342
+TCGA-AQ-A54N-01A-PR
+Redacted
+Diagnosis:
+A: Breast, left, partial mastectomy
+Tumor type: Invasive ductal carcinoma
+Nottingham combined histologic grade: 3
+Tubule formation score: 3
+Nuclear pleomorphism score: 3
+Mitotic count score: 3
+Focality of tumor: Unifocal
+Tumor size (greatest dimension): 4.9 cm
+Lymphovascular invasion: Not identified
+In Situ Component: Not identified
+Nipple involvement: Not applicable
+Skin involvement: Not identified
+Margin status:
+ICD0-3
+Carcinoma, Infiltrating Duct, No.
+8500/3
+Site L Breast, NOS
+Invasive component: Negative; 0.3 cm to anterior margin (see
+comment), all
+other margins widely free of tumor
+In Situ component: Not applicable
+Axillary lymph nodes:
+Total number with metastasis: 0
+Total number examined: 1
+Microcalcifications: Not identified
+Other findings: Duct ectasia
+AJCC PATHOLOGIC TNM STAGE: PT2 pN0
+Note: This pathologic stage assessment is based on information
+available at the
+time of this report, and is subject to change pending clinical
+review and
+additional information.
+050.9
+B: Lymph node, sentinel left breast, removal
+-
+-
+No carcinoma identified in one lymph node (0/1)
+Cytokeratin immunostain (AE1/AE3) negative
+C: Breast, left lateral margin, stitch new margin, removal
+No atypia or carcinoma identified
+D: Breast, left medial margin, stitch new margin, removal
+-
+No atypia or carcinoma identified
+Comment:
+The anterior margin represented in block A3 has ink within a
+somewhat fragmented
+tissue section that is 0.3 cm from tumor. The true margin may be
+closer to the
+gross measurement of 0.8 cm. Clinical correlation is advised.
+Clinical History:
+with left breast cancer.
+Gross Description:
+Received are four formalin-filled containers.
+Container A is additionally labeled "left breast cancer, short
+stitch/superior,
+long stitch/lateral."
+Specimen fixation: formalin
+Time in fixative: 8.5 hours
+Type of mastectomy: left partial mastectomy
+Weight of specimen: 229 grams
+Size of specimen: 13.5 cm superior to inferior, 11 cm medial to
+lateral, 6
+cm anterior to posterior
+Orientation of specimen: Medial-green, lateral=red,
+anterior=blue,
+posterior=black
+Skin ellipse dimensions: 12.1 x 5.2 cm ellipse of dark
+brown/gray skin with no
+lesions identified.
+Nipple/areola: not present
+Axillary tail: not present
+Biopsy site: not present
+Discrete Mass(es): present
+Number of discrete masses: one
+Size of mass (es)/biopsy site: 4.9 x 3.6 x 3.8 cm
+Location of mass(es): central portion of resected specimen
+Distance of mass/biopsy site from surgical margin: The mass is
+located 1.3 cm
+from the black inked deep margin, 2.9 cm from the
+medial margin, 2.7 cm from the lateral margin, 1 cm subjacent to
+the skin
+and within 0.8 cm of the blue inked anterior
+margin adjacent to the skin.
+Gross involvement of skin or fascia/muscle by tumor: absent
+Description of remaining breast: composed primarily of yellow
+lobulated fat
+which is blue dye stained along the superior edge.
+There are delicate bands of white/pink fibroconnective tissue
+coursing
+throughout the remainder of the specimen.
+Other remarkable features: none
+Tissue submitted for special investigations: Tumor is given to
+Tissue
+Procurement.
+Block Summary:
+(Inking: anterior=blue, posterior=black, medial=green,
+lateral red)
+Al superior tip
+A2
+-
+inferior tip
+A3
+A4
+-
+tumor and closest approach to blue inked anterior margin
+tumor and closest approach to black inked posterior margin
+A5 - closest approach to green inked medial margin
+A6 - closest approach to red inked lateral margin
+A7 - closest approach to skin
+A8,A9 - central tumor
+A10-A13 representative sections from breast tissue
+Container B is additionally labeled "sentinel node, left
+breast." It holds a 3.4
+x 2.5 x 1.2 cm fragment of fat containing a 2.4 x 1.6 x 1.0 cm
+gray/tan lymph
+node candidate. The fat is removed and the lymph node candidate
+is sectioned to
+reveal a homogeneous gray/tan cut surface. The specimen is
+entirely submitted in
+blocks B1-B3. A small amount of fat remains in formalin.
+Container C is additionally labeled "left lateral margin, stitch
+new margin.
+་་
+It
+holds a 13.2 x 6.5 cm discoid fragment of yellow/red fibrofatty
+tissue ranging
+in thickness from 0.6 to 1.7 cm. One surface has a stitch
+designating "new
+margin." This surface is marked with blue ink and the opposite
+surface is marked
+with red ink for identification purposes. Sectioning reveals
+yellow lobulated
+fat with no lesions grossly identified. Representative sections
+are submitted in
+blocks C1-C5. The majority of the specimen is retained in
+formalin.
+"
+Container D is additionally labeled "left medial margin, stitch
+new margin. It holds a 10.7 x 5.6 cm discoid fragment of
+yellow/tan fibrofatty tissue with a
+uniform thickness of 1.8 cm. There is a stitch present on one
+surface
+designating the "new margin." This surface is marked with blue
+ink and the
+opposite surface is marked with red ink for identification
+purposes. The
+specimen is serially sectioned to reveal yellow lobulated fat
+with no discrete
+mass or nodule appreciated. Representative sections are
+submitted in blocks
+D1-D5.
+Criteria
+Diagnosis Discrepancy
+for 12/12/17/
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cicle).
+Reviewer uitia
+QUALIFIED
+Yes
+Date Reviewed:
+DISQUALIFIED
+1/2
+No

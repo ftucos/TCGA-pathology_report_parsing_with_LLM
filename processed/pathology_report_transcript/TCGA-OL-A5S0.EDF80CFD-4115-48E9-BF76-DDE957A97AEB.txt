@@ -1,0 +1,147 @@
+UUID: EDF80CFD-4115-48E9-BF76-DDE957A97AEB
+TCGA-OL-A550-01A-PR
+Redacted
+FINAL PATHOLOGIC DIAGNOSIS
+A. Breast, right, modified radical mastectomy:
+- Invasive ductal carcinoma, grade III/III, 5.0 cm in greatest dimension,
+present 1.0 mm from posterior inked surgical margin, other margins widely free
+(see pathologic parameters and comment below)
+- Ductal carcinoma in-situ, high grade, solid type with associated central
+necrosis and calcifications, surgical margins negative
+- Previous biopsy site identified
+- Metastatic carcinoma involving two of twelve lymph nodes (2/12)
+B. Breast, right, deep margin re-excision:
+- Skeletal muscle and fibroadipose tissue, negative for carcinoma
+C. Breast, right 'additional tissue under superiomedial skin flap,' excision:
+· Breast and fibroadipose tissue, negative for carcinoma
+D. Skin, right 'chest wall at corner of incision,' excision:
+- Skin and fibroadipose tissue, negative for carcinoma
+ICD-0-3
+850013
+Carcinoma, Infiltrating Ductal NOS
+Site: ® Breast NOS C50.9
+9202/18/13
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 5.0 cm
+B. Composite histologic (modified SBR) grade: III/III
+C. Associated intraductal carcinoma in situ (DCIS)
+- High grade, solid type with associated central necrosis and
+calcifications
+- Within main mass
+2. Surgical margins: Free of tumor
+- DCIS 3.0 mm from closest margin (posterior)
+- Invasive carcinoma 1.0 mm from closest margin (posterior) on mastectomy,
+separately submitted deep margin re-excision (specimen B) negative for carcinoma
+- Additional margins widely free
+3. Blood vessel and lymphatic invasion: Present
+4. Nipple: Uninvolved
+5. Skin: Uninvolved
+6. Skeletal muscle: Focally involved
+7. Axillary lymph nodes: Metastatic carcinoma involving two of twelve lymph
+nodes (2/12)
+-Size of largest metastatic deposit: 1.1 cm
+- Extranodal extension: Present (2.0 mm)
+8. Special studies
+- ER: Weak expression in 30% of invasive tumor nuclei
+- PR: No expression in invasive tumor nuclei
+- Ki-67: 50% proliferation rate
+- Her2/neu antigen (FISH): Amplified (ratio: 3.8)
+9. pTNM (AJCC, 7th edition, 2010): pT2, N1a, MX
+Clinical History:
+The patient is a
+year-old female with right breast invasive ductal carcinoma
+with axillary nodal metastases who undergoes right modified radical mastectomy.
+Comment
+The 5.0 cm mass identified on gross examination is comprised of both invasive
+and in-situ carcinoma with extensive necrosis and calcifications.
+Specimens Received:
+A: Right breast and axillary contents
+B: Additional deep margin
+C: Additional tissue under superiomedial skin flap
+D: Skin at corner of incision; r chest wall
+Gross Description:
+The specimens are received in four containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'right breast and
+axillary contents'. Received fresh and placed in formalin is a 730 g simple
+mastectomy specimen. The specimen is oriented with a double short suture
+designating the superior aspect and a double long suture designating the lateral
+aspect. The breast measures 23 cm from medial to lateral, 21 cm from superior
+to inferior, and 4.5 cm from anterior to posterior. On the anterior surface is
+20 x 8.5 cm ellipse of skin with a 4.2 x 4.0 cm areola and a 1.3 x 1.3 x 0.5 cm
+nipple. The nipple-areolar complex reveals no evidence of ulceration or
+retraction. There is an attached 6.5 x 5.5 x 1.5 cm portion of apparent axillary
+tail on the lateral aspect of the specimen. There is an attached 4.5 x 1.8 x 0.2
+cm skeletal muscle consisting of pectoralis at the deep margin at junction of
+upper-outer quadrant and lower-outer quadrant in slice3-5. The specimen is
+inked as follows:
+anterior-superior - blue;
+anterior-inferior - green;
+posterior - black.
+The specimen is serially sectioned from lateral (slice #1) to medial (slice #11)
+to reveal a 5.0 x 3.8 x 3.5 cm pink-tan, firm mass (lesion #1) extending from
+upper-outer quadrant to lower-outer quadrant in slices 3-7. The mass is 1.6 cm
+from the anterior-inferior margin and abuts the posterior margin. Surrounding
+the mass is a 10 x 7 x 4 cm ill-defined, pink area composing of dilated ducts
+and fibrotic tissue in slices 4-9 and the most prominent in slice 7-8. The
+ill-defined area (lesion #2) extends towards anterior aspect and is 0.6 cm from
+the closest anterior margin and 2.0 cm from the closest posterior margin. The
+remainder of the specimen consists of approximately 10% dense gray-white fibrous
+breast parenchyma and 90% lobulated yellow adipose tissue. No additional masses
+or nodules are grossly identified. Within the axillary tail are identified
+several lymph node candidates measuring from 0.3-2.5 cm in greatest dimension.
+Block summary:
+A1: Lesion #1, slice 3
+A2: Lesion #1, slice 4
+A3: Lesion #1 abutting posterior margin, slice 5
+A4: Lesion #1, slice 6
+A5: Lesion #1, slice 7
+A6: Lesion #2, slice 4
+A7: Lesion #2, slice 5
+A8: Lesion #2, slice 6
+A9: Lesion #2, slice 7
+A10: Lesion #2, slice 8
+A11: Lesion #2, slice 9
+A12: Representative adjacent medial to lesion #2, slice 10
+A13: Representative adjacent lateral to lesion #2, slice 3
+A14: upper-outer quadrant slice 2
+A15: lower-outer quadrant slice 1
+A16: upper-inner quadrant slice 11
+A17: lower-inner quadrant slice 10
+A18: nipple
+A19: skin
+A20: One lymph node
+A21-A23: 4 lymph node candidates, each cassette
+A24-A26: One lymph node, serial section
+B. The second container is additionally identified as, 'additional deep margin;
+underlying palpable tumor'. Received in formalin is a 3.9 g, 4.2 x 2.2 x 0.8 cm
+yellow-tan, soft tissue fragment with one short stitch designating as new true
+deep margin (inked blue) and attached clips on original margin (inked black).
+The specimen is serially sectioned and entirely submitted as B1-B5.
+C. The third container is additionally identified as, 'additional tissue under
+superiomedial skin flap'. Received in formalin is an unoriented 2.3 g, 4.8 x 1.2
+× 1.1 cm portion of yellow-tan fibroadipose tissue, which is serially sectioned
+and entirely submitted C1-C2.
+D. The fourth container is additionally identified as, 'skin at corner of
+incision; right chest wall'. Received fresh and placed in formalin is an
+unoriented V-shaped ellipse of wrinkled, tan-brown skin measuring 4.5 x 1.5 cm
+adjunct with 3.2 x 1.5 cm excised to a depth of 1.3 cm. The specimen is serial
+sectioned and review grossly unremarkable parenchyma. The representative section
+is submitted as D1.
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours.
+Criteria
+Diagnosis Discrepancy
+No 2/10/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case if (cicle):
+Reviewers
+QUALIFIED
+Date Reviewed:
+Yes
+Να
+DISQUALIFIED
+22/9/13

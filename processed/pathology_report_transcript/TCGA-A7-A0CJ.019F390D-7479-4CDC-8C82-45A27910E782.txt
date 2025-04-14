@@ -1,0 +1,109 @@
+UUID:019F3900-7479-4CDC-8C82-45A27910E782
+TCGA-A7-A0C]-01A-PR
+ICD-0-3
+Redacted
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+9/3/4 سال
+SPECIMEN
+A. Left axillary sentinel lymph node
+B. Left breast biopsy
+CLINICAL NOTES
+CLINICAL HISTORY: A -year-old white female with left breast
+cancer.
+FROZEN SECTION DIAGNOSIS
+AFS: Left axillary sentinel node, excision One lymph node with no
+metastasis identified.
+GROSS DESCRIPTION
+A. Container A is labeled with the patient's name, medical
+record number and "left axillary sentinel node". The
+specimen consists of a single partially fatty replaced lymph node
+measuring 1.3 x 1 x 0.6 cm. AFS, bisected.
+short
+B. Container B is labeled with the patient's name, medical
+record number and "left breast biopsy, long anterior,
+superior." The specimen consists of a single piece of fibrous
+adipose tissue oriented by two sutures and measuring 6.5 cm in
+medial to lateral, 3.5 cm from superior to inferior and 3 cm from
+anterior to posterior. The specimen margins are inked as follows:
+anterior; black posterior; yellow lateral; orange
+--
+--
+--
+Blue
+medial; red superior; green inferior. The specimen is
+serially sectioned. On cut section, there is a firm tan
+fibrotic-appearing tumor mass measuring 2.2 x 1.5 x 1.8 cm.
+mass appears to extend to the posterior margin of resection.
+portion is submitted for tissue procurement. The remainder of the
+tissue is submitted in blocks 1-15.
+The
+A
+MICROSCOPIC DESCRIPTION
+A. Sections of the left axillary sentinel lymph node
+demonstrate 1 lymph node with no evidence of metastasis.
+The lymph node was examined and multilevel sectioning with H&E
+stain
+as well as immunohistochemistry for pankeratin.
+B. The following template applies to the left breast
+biopsy:
+Invasive Carcinoma:
+Present.
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade:
+Overall grade: 3
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 2
+Greatest dimension (PT): 2.2 cm. (pT2)
+Specimen margins:
+Positive.
+Invasive carcinoma extended to the green ink involving the
+inferior margin.
+Vessel invasion:
+Calcification:
+Not identified.
+Present
+Ductal carcinoma in situ: Present
+Histologic pattern:
+Nuclear grade: 2-3
+Solid and cribriform
+Central necrosis: Focally present
+*DCIS of total tumor: 25%
+Extensive intraductal component (present/absent): Present
+Specimen margins: Close. In situ carcinoma is less than 1 mm
+from the anterior, posterior, medial and inferior margins.
+Calcification: Present
+Description of non-tumorous breast: Proliferative changes.
+Comments: None.
+MICROSCOPIC DESCRIPTION
+Prognostic markers: Previously performed.
+4x2, 20
+DIAGNOSIS
+A. Left axillary sentinel lymph node, resection:
+B.
+No evidence of metastasis in one lymph node (0/1).
+Left breast, excisional biopsy:
+Infiltrating ductal carcinoma, grade 3, 2.2 cm. extending to
+the inferior margin.
+Extensive ductal carcinoma in situ, solid and cribriforming
+subtypes, nuclear grade 2-3, less than 1 mm from multiple
+margins.
+M.D, (Electronic Signature)
+End Of Report
+Criteria
+Yes
+No
+Diagnoris Discrepancy
+"
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Pri Malignancy History
+Dual, Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+N 9/3/4
+SQUALED

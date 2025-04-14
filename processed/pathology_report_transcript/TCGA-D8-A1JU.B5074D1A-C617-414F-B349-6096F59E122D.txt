@@ -1,0 +1,63 @@
+Patient:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site breast, Nos
+Department of Cancer Pathology
+C50.9
+Examination: Histopathological examination
+PESEL:
+Material: Multiple organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected on: .
+Material received on:
+3/11/2
+в
+page 1 / 1
+Examination No.:
+Age:
+Gender: F
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast - lesion in the upper outer quadrant.
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 75% of neoplastic
+cell nuclei. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells
+(Score = 1+)
+Examination performed on:
+Macroscopic description:
+Compliance validated by:
+Left breast sized 20 x 13 x 2 cm removed without axillary tissues. Skin flap
+20 x 9.5 cm in size. Tumour sized 1.7 x 1.8 x 1.5 cm found on the boundary of outer quadrants, placed 2 cm
+from the lower edge, 0.2 cm from the base and 1.0 cm from the skin. Cysts of 0.1-0.5 cm in the cross-
+section.
+Microscopic description:
+Carcinoma ductale invasivum NHG1 (2+2+1/1 mitosis /10 HPF, vision area diameter 0.57 mm)
+Additionally, focuses of carcinoma ductale in situ: cribrate type with medium nuclear atopia, no
+necrosis, found in the glandular tissue (30% of the tumour cross-section).
+Glandular tissue showing lesions of the type: mastopathia fibrosa et cystica, adenosis sclerosans,
+fiat epithelial atypia (FEA).
+fibrocystic changes, sclerosing adenosis
+Histopathological diagnosis:
+(including test No. G-15785/10):
+Carcinoma ductale invasivum et in situ mammae sinistrae.
+( NHG 1, PT1C, PN0/sn/).
+Invasive and in situ ductal carcinoma of the left breast
+UUID:B5874D1A-C617-414F-8349-6896F59E122D
+TCGA-D8-A1JU-01A-PR
+Redacted
+Compliance validated by:
+Criteria
+Diagnosis Discrepancy
+Primary lumer Site Discrepancy
+HIPAA Discrepancy
+Yes
+No
+Prior Malignancy History
+Dual Svchronous Primary Notes
+Cases circ)
+Reviewer a
+RCALLED
+De Reviewed:
+DISQUALIFIED
+2/11/11

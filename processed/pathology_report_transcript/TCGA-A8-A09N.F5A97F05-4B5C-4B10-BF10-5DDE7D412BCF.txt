@@ -1,0 +1,35 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, was
+Path
+Site: Breast, LOQ C50.5
+850013
+1/19/11 fur
+CQCF Site: Breast, Nos
+C50.9 hu
+4. Invasive ductal breast carcinoma (max. diameter 2.2 cm, now also in some sections
+malignancy 
+grade III) with angioinvasion in the immediate tumor periphery, also with
+concomitant 
+high-grade DCIS (procomponent > 10). Distant fibrolipomatous parenchyma of
+the breast (with cystic 
+duct ectasia) with risk lesions of unsettled to atypical ductal
+hyperplasia
+, but tumor-free. Minimal width of caudal and dorsal safety margin 0.7-0.8 cm.
+Histologically unremarkable skin spindle.
+Tumor classification:
+G3 (L1, V0), pT2, pN3a, MX, RO.
+UUID:F5A97F05-485C-4810-BF10-5DDE7D412BCF
+TCGA-A8-A09N-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Priman Noted
+Case is circle):
+Reviewer.tilsa
+QUALIFIED
+Yes
+DIS QUALETED
+www.wed:
+Redacted

@@ -1,0 +1,29 @@
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Path Site: Breast, UIQ C50.2
+1/19/11
+CQCF
+Site: Breast, Nos C50.9
+سلوا
+Poorly differentiated invasive malignant tumor (tumor diameter 3.5 cm)
+with focal in situ spread and marked angioinvasion.
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: lobular carcinoma, NOS, G III, pT2N3aL1V1RX.
+Criteria
+UUID:F72783A2-2C57-459A-9015-94BD3D302491
+TCGA-A8-
+A09X-01A-PR
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initial
+QUALIFIED
+Date Reviewed
+the
+DISQUALIFIED
+Redacted

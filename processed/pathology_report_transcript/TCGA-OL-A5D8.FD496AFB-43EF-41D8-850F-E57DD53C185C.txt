@@ -1,0 +1,136 @@
+Sample
+UUID:FD496AFB-43EF-41D8-850F-E57DD53C185C
+TCGA-OL-A5D8-01A-PR
+Redacted
+FINAL PATHOLOGIC DIAGNOSIS
+Mastectomy and sentinel lymph node biopsy,
+A. Left axillary sentinel node #1:
+- Single lymph node, no tumor (0/1).
+B. Left axillary sentinel node #2:
+- Single lymph node, no tumor (0/1).
+C. Mastectomy, left breast:
+ICD-0-3
+Carcinoma, Infiltrating Duct
+NOS
+850013
+Site: Path; Breast at 6:00
+- Invasive ductal carcinoma, SRB grade II, with focal necrosis.
+- Ductal carcinoma in situ, high nuclear grade, solid type.
+- Focal Paget's disease of the nipple.
+COCF Breast, NOS
+- Uninvolved breast parenchyma with focal flat epithelial atypia, columnar
+cell change, ductal hyperplasia of usual type, intraductal papilloma.
+D. Left axillary base, non-sentinel lymph node:
+- Two lymph nodes, no tumor (0/2).
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Size: Gross measurement: 6.5cm
+B. Composite histologic (modified SBR) grade II
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic count: 1
+C. Associated ductal carcinoma in situ (DCIS):
+- High nuclear grade, solid type.
+- Associated with (forming 5% of tumor volume) and extending away (focal to
+involved lactiferous ducts and nipple) from index lesion
+2. Excisional biopsy margins: Free of tumor
+- DCIS >1cm from deep (closest) margin
+- Invasive carcinoma 5mm from deep (closest) margin
+3. Blood vessel and lymphatic invasion:
+- Rare microscopic foci worrisome for lymphatic involvement in breast
+parenchyma.
+4. Axillary lymph nodes: Negative for tumor (0/4)
+5. Special studies (see
+- Strong expression of ER in 100% of invasive tumor nuclei
+- Strong expression of PR in 100% of invasive tumor nuclei
+- Her2/neu antigen (FISH): pending on prior biopsy material.
+6. pTNM: pT3, N0(sn), MX.
+C50.8
+C50.9
+JW 12/24/12
+Clinical History:
+The patient is a -year-old female with palpable left breast mass. Biopsy at
+outside hospital showed invasive ductal carcinoma, ER/PR positive, HER-2
+negative. Breast MRI on
+showed left inferior irregular margin
+with irregular mass and heterogenous enhancement at 6 o'clock position.
+Multiple contiguous satellite lesions are present predominantly extending
+anterior from the mass. Overall dimensions are 6.4 x 6.1 x 4.1 cm. The right
+breast was normal. Bilateral axillae were normal.
+Specimens Received:
+A: Left axillary sentinel node
+B: Left axillary sentinel node
+C: Left breast
+D: Non-Sentinel node base of axilla
+Gross Description:
+The specimen is received in four containers each labeled with the patient's
+name and medical record number.
+A. Container A is further identified as, 3left axillary sentinel node4.
+Received fresh is a 2.5 x 1.5 x 1.0 cm apparent lymph node with blue ink. The
+specimen is bisected and entirely submitted for frozen section with the
+diagnosis of 3no evidence of tumor4 per
+entirely submitted in cassette A1FS.
+The frozen remnant is
+B. Container B is further identified as, 3left axillary sentinel node4.
+Received fresh is a 2.0 x 1.5 x 1.0 cm apparent lymph node with blue ink. The
+specimen is bisected and entirely submitted for frozen section with a diagnosis
+of 3no evidence of tumor4 per
+The remnant of the frozen section is
+entirely submitted in cassette B1FS.
+C. Container C is further identified as, 3left breast4. Received fresh and
+placed in formalin is a specimen mastectomy weighing 1100 grams measuring 23.8
+cm from medial to lateral, 17.4 cm from superior to inferior, 6.0 cm from
+anterior to posterior. The specimen is oriented with two short sutures
+designated as superior and two long sutures designated as lateral. The breast
+is overlaid with 14.5 x 10.5 cm adipose and skin. Eccentricallylocated is a
+5.8 x 5.2 cm areola with a nipple with a diameter of 1.5 cm. The nipple areolar
+complex displays no evidence of ulceration or retraction. The deep fascia is
+inked black and the specimen is sectioned from medial to lateral into ten
+slices, with the medial slice designated as slice 1. The nipple is located in
+slice 4 and slice 5. A 6.5 x 4.9 x 3.3 cm mass is located in slice 4 through
+slice 7. The mass is white and firm and inferior to the nipple. The margin of
+the mass is irregular especially at the anterior aspect. A satellite lesion is
+identified superior and anterior to the index mass located in slice 5 measuring
+1.5 x 1.1 x 1.1 cm and is 0.4 cm from the nearest skin. The mass is 1.0 cm from
+the closest inked margin on slice 5. A 2.0 x 2.0 x 1.5 cm black discolored area
+is identified in slice 3 and 4 and another 4.0 x 3.8 x 2.0 cm blue discolored
+area is identified on slice 5 and 6. The remainder of the breast consists
+approximately 17% of adipose tissue and 30% of breast duct parenchyma.
+Additional masses or nodules are not grossly identified. Representative
+sections are submitted as follows:
+C1: nipple
+C2-C3: areola
+C4-C7: full section of the tumor on slice 5 with cassette 4 showing
+the closest deep margin and cassette
+6 showing the satellite lesion and the closest skin
+C8: section from slice 5 showing satellite lesion and the closest skin
+C9: representative sections from the tumor on slice 6
+C10: inner upper quadrant slice 3
+C11: inner upper quadrant slice 4
+C12: inner lower quadrant slice 3
+C13: inner lower quadrant slice 2
+C14: outer upper quadrant slice 5
+C15: outer upper quadrant slice 8
+C16: outer lower quadrant slice 8
+D. Container D is further identified, as 3non-sentinel node base of axilla
+left4. Received fresh and placed in formalin are two apparent lymph nodes
+measuring 1.8 x 1.0 x 0.6 cm and 1.2 x 0.7 x 0.5 cm. The specimen is entirely
+submitted in cassettes D1-D2 with one lymph node in each cassette bisected.
+Intraoperative Consult Diagnosis:
+A1FS. Left axillary sentinel node: No evidence of tumor.
+B1FS. Left axillary sentinel node: No evidence of tumor.
+Criteria
+A 12/20/12
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notect
+Case is (circle
+Reviewer laitt
+QUALIFIED
+Dave Reviewed:
+DISQUALIFIED
+12/21/12

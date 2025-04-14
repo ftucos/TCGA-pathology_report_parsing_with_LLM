@@ -1,0 +1,30 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Path
+Site: Breast, 408
+C50.4
+1/19/11 fo
+CQCF Site: Breast, Nos C50.9
+Diagnosis:
+Invasive ductal breast carcinoma (malignancy grade II) with concomitant high-grade comedo-
+type DCIS with inclusions also of isolated coarse calcifications (procomponent of tumor
+20%), with confluent manifestations in the tumor nucleus and other DCIS components in the
+tumor periphery. Narrow medial safety margin, as already macroscopically documented. Also
+rich DCIS formations extending to within 0.5 cm of the dorsal resection line. dye-stained
+resection margins are free of atypia. Mastopathic base structure.
+Tumor classification: pT2 (maximum diameter 2.5 cm) pN0 sn (n=3), MX, R0; G2 (L0, V0).
+UUID:5664F531-9D45-4302-A455-63E4685EDD26
+TCGA-A8-A06Y-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (oircle):
+Reviewer Initials
+QUALIHED / DISQUALIFIED
+Date Reviewed:

@@ -1,0 +1,46 @@
+ICD-0-3
+Carcinoma infiltrating ductal and lobular 8522/3
+Sita, breast, NoS
+60050
+3/1/11 fur
+BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2.2 x 2.2 x 2 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal and lobular carcinoma
+Histologic grade:
+Tumor extent: Not specified
+Lymph nodes: 2/11 positive for metastasis (Axillaris 2/11)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None_
+Left, upper
+outer
+quadrant
+CGCF
+Mixed-ducted
++ Tubular
+Should Say
+ronous Primary Noted
+Primary Tumor Site Discrepancy
+Diagnosis Discrepancy
+or Malignancy History
+HIPAA Discrepancy
+Dual/Synchronous Pri
+Cafe is (circle): A
+✓ QUALIFIED ) DISQUALIFIED
+Date Reviewed:
+Criteria
+Redacted
+UUID:224A51C8-8EEB-424C-AD88-44C4321850EA
+TCGA-E9-A1N5-01A-PR

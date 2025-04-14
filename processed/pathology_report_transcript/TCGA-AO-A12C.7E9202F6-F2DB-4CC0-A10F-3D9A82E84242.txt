@@ -1,0 +1,332 @@
+Clinical Diagnosis & History:
+y/o female with left breast IDC and DCIS, now for segmental resection and
+SLNB
+.
+Specimens Submitted:
+1: SP: Sentinel node #1,
+2: SP: Sentinel node %232,
+3: SP: Sentinel node #33,
+4: SP: Sentinel node #4, level 1, left axilla
+5: SP: Left 
+axillary contents levels 1, 2 and 3
+6: SP: Additional 
+level 3 nodes, left axilla
+level 1, left axilla (fs)
+level 1, left axilla /
+level 1, left axilla
+7: SP: Left breast mammographic mass
+DIAGNOSIS:
+1)
+2)
+LYMPH NODE, SENTINEL #1 LEVEL I LEFT AXILLA BIOPSY:
+METASTATIC MAMMARY CARCINOMA IN ONE OF ONE LYMPH NODE (1/1).
+EXTRANODAL EXTENSION IS PRESENT 
+(>2 MM).
+LYMPH NODE, SENTINEL #2 LEVEL I LEFT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1) WITH A TUMOR EMBOLUS IN PERINODAL
+LYMPHATIC 
+VESSEL.
+3)
+4)
+5)
+-
+-
+LYMPH NODE, SENTINEL #3 LEVEL I LEFT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1)
+.
+LYMPH NODE, SENTINEL #4 LEVEL I LEFT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+AXILLARY CONTENTS, LEFT LEVELS I, II AND III; DISSECTION:
+LEVEL I: A MICROSCOPIC FOCUS OF METASTATIC MAMMARY CARCINOMA IN ONE
+OF THREE LYMPH NODES (1/3).
+6)
+7)
+-
+LEVEL II: EIGHTEEN BENIGN LYMPH NODES (0/18).
+LEVEL III: SIX BENIGN LYMPH NODES (0/6).
+LYMPH NODE, ADDITIONAL LEVEL III LEFT AXILLA; EXCISION:
+BENIGN ADIPOSE TISSUE WITH MICROSCOPIC LYMPHOID AGGREGATES.
+BREAST, LEFT; EXCISION:
+- MULTIPLE FOCI OF INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC
+** Continued on next page **
+carcinoma, infiltrating duct, NUS 8500/3
+Site: breast, Nos
+C50.9
+lu 10/22/11
+8-0-071
+Diagresis D's repancy__
+y Tumor Site Discrepancy
+Discrepancy
+or Malignancy History
+Dual/Synchronous Primary
+10/22/11
+UUID:7E9202F6-F2DB-4CC0-A10F-3D9A82E84242
+TCGA-AO-A12C-01A-PR
+Redacted
+GRADE II-III/III, NUCLEAR GRADE II/III, RANGING IN SIZE FROM 0.1 CM UP TO
+2.5 CM (THE TWO LARGEST FOCI OF TUMOR MEASURE 1.4 CM AND 2.5 CM GROSSLY).
+Page 2 ot b
+-
+A FEW FOCI OF DUCTAL CARCINOMA IN SITU (DCIS). SOLID AND CRIBRIFORM TYPES
+WITH INTERMEDIATE NUCLEAR GRADE.
+- NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+COMPONENT.
+- PROMINENT VASCULAR INVASION IS PRESENT.
+INVASIVE CARCINOMA EXTENDS TO THE FOLLOWING SHAVED MARGINS:
+1/8 SLIDES, 0.6 CM); INFERIOR (IN 3/8 SLIDES, THE LARGEST FOCUS MEASURING
+0.8 CM) ANTERIOR (IN 4/19 SLIDES, THE LARGEST FOCUS MEASURING 0.5 CM); AND
+LATERAL (IN
+POSTERIOR (IN 1/15 SLIDES, THE LARGEST FOCUS MEASURING 0.2 CM).
+ADDITION, LYMPHATIC TUMOR EMBOLI ARE ALSO SEEN AT THE MARGINS.
+IN
+NO INVOLVEMENT OF THE SURGICAL MARGINS BY DCIS IS IDENTIFIED.
+BIOPSY SITE CHANGES.
+RESULTS OF SPECIAL STAINS (ER, PR, HER-2/NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Gross Description:
+Special Stain
+RECUT
+RECUT
+RECUT
+RECUT
+NEG CONT
+IMM RECUT
+ER-C
+PR-C
+HER2-C
+NEG-KER2
+Comment
+1)
+The specimen is received fresh for frozen section consultation
+labeled, "Sentinel node #1, level 1, left axilla", and consists of a piece
+of yellow-tan fatty tissue measuring 3.5 x 2 x 1 cm, containing firm gray
+lymph node measuring 1.4 x 1 x 0.7 cm. Representative section is frozen.
+The remainder of the specimen is entirely submitted.
+Summary of Sections:
+FSC frozen section control
+U - undesignated
+** Continued on next page
+rage s OI b
+3
+2)
+The specimen is received in formalin, labeled, "Sentinel node #2,
+level 1, left axilla".
+with attached adipose tissue.
+It consists of a 0.9 x 0.5 x 0.4 cm tan lymph node
+The entire lymph node is submitted.
+Summary of Sections:
+LN lymph node
+3)
+The specimen is received in formalin, labeled, "Sentinel node #2,
+level 1, left axilla". It consists of a 1.3 x 0.4 x 0.3 cm tan lymph node.
+The lymph node is entirely submitted.
+Summary of Sections:
+LN
+- lymph node
+4)
+The specimen is received in formalin, labeled, "Sentinel node #4,
+level 1, left axilla". It consists of a 0.3 x 0.3 x 0.2 cm tan lymph node
+The lymph node is entirely submitted.
+with attached adipose tissue.
+Summary of Sections:
+LN lymph node
+5)
+The specimen is received in formalin, labeled, "Left axillary
+contents levels 1, 2 and 3 (with tags attached) *.
+15.0 x 4.0 cm fragment of adipose tissue with metallic tags labeling levels
+It consists of a 17.0 x
+1 through 3. Multiple lymph nodes are identified within each level,
+measuring from 0.2 to 2.8
+nodes are submitted.
+cm in greatest dimension. All identified lymph
+Summary of Sections:
+LIBLN level one bisected lymph node
+LILNSS level one, one lymph node serially sectioned
+LII
+level two lymph nodes
+LIII
+level three lymph nodes
+6)
+The specimen is received in formalin, labeled, "Additional level 3
+nodes left axilla". It consists of a 2.0 x 1.8 x 1.0 cm aggregate of
+adipose tissue. No definite lymph nodes are identified.
+'
+submitted.
+Summary of Sections:
+U undesignated
+Entirely
+7)
+The specimen is received fresh, labeled, "Left breast mammographic
+mass (short stitch superior, long stitch lateral)". It consists of a 9.5 x
+** Continued on next page **
+--- Page 4 of 6
+8.0 x 5.3 cm fragment of fibroadipose tissue with a needle localizing wire
+and sutures marking the superior and lateral margins.
+as follows: black-anterior and posterior, yellow-superior, green-inferior,
+blue-lateral, red-medial.
+The specimen is inked
+There is a palpable mass at the lateral/inferior portion of the specimen.
+The margins are entirely shaved and submitted.
+Serial sectioning reveals a 2.5 x 2.0 x 1.8 cm firm white stellate mass,
+located in the center of the specimen, closely approaching the anterior
+margin. Noted adjacent to this mass, near or close to the medial margin is
+a second tan firm nodular mass, measuring 1.4 x 1.1 x 0.9 cm.
+breast parenchyma is predominantly fatty with foci of fibrous tissue.
+other lesions are identified.
+The remaining
+Portions of both the larger and smaller tumors are submitted for TPS.
+Representative sections are submitted.
+Summary of Sections:
+NO
+M
+medial
+L
+lateral
+I
+inferior
+A
+anterior
+S
+superior
+P posterior
+LT
+larger tumor
+ST
+smaller tumor
+ADJ
+RS
+adjacent to tumor mass
+representative sections
+Summary of Sections:
+SP: Sentinel node #1, level 1, left axilla
+Part 1:
+Block
+1
+I
+Part 2:
+Block
+1
+Part 3:
+Block
+1
+Part 4:
+Block
+1
+Part 5:
+Block
+Sect. Site
+£sc
+PCS
+1
+1
+SP: Sentinel node #2, level 1, left axilla
+Sect. Site
+1n
+PCS
+1
+SP: Sentinel node #233, level 1, left axilla
+Sect. Site
+la
+PCS
+1
+SP: Sentinel node #234, level 1, left axilla
+Sect. Site
+In
+PCs
+1
+SP: Left axillary contents levels 1, 2 and 3
+Sect. Site
+PCS
+** Continued on next page **
+'
+4
+2
+5
+3
+5
+LIBLN
+LII
+LIII
+LILNSS
+10
+6
+5
+Part 6:
+Block
+1
+Part 7:
+Block
+19
+2
+8
+SP: Additional level 3 nodes, left axilla
+Sect. Site
+22
+PCS
+1
+SP: Left breast mammographic mass
+Sect. Site
+PCs
+a
+19
+adj
+2
+i
+13
+1
+4
+14
+it
+q
+4
+m
+10
+15
+P
+5
+15
+rs
+5
+4
+S
+2
+10
+st
+2
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+Status:
+By:
+Signed Out
+ADDENDUM REPORT
+SITE: LEFT BREAST (PART #7)
+ER:
+PR:
+95% NUCLEAR STAINING WITH MODERATE INTENSITY
+40% NUCLEAR STAINING WITH WEAK TO MODERATE INTENSITY
+HER-2/NEU (HERCEPTEST): POSITIVE (STAINING INTENSITY OF 3+)
+Page 5 of 6
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+tissue sample examined at the time of the intraoperative
+consultation.
+** Continued on next page **
+5
+Page 6 of 6
+1)
+FROZEN SECTION DIAGNOSIS:
+METASTATIC CARCINOMA.
+PERMANENT DIAGNOSIS:
+SAME
+End of Report **

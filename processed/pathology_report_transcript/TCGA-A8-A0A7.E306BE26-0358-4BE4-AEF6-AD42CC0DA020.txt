@@ -1,0 +1,31 @@
+ICD-0-3
+Carcinoma, infiltrating lobule, NOS 8520/3
+Path
+Site: Breast, UOQ C50.4
+1/19/11 fur
+CQCF Site: Breast, was C50.9
+Diagnosis:
+1. Polymorphocellular undifferentiated breast, G II (maximum tumor diameter 2.8 cm)
+showing infiltrative growth, with marked chronic secondary inflammation, focal
+invasion of lymph vessels and spread to just below the skin.
+The conventional histological findings are consistent with the polymorphocellular
+variant of invasive lobular breast carcinoma. The nodular tumor infiltration in the
+axillary tissue described under 6. is to be interpreted as a lymph node metastasis
+extending beyond the capsule into the surrounding soft tissue. This gives rise to the
+following summary tumor classification: G II, pT2pN1a(1/14)L1V0R0, negative for
+estrogen and progesterone receptors, positive for C-erb B-2 oncoprotein.
+UUID:E306BE26-0358-4BE4-AEF6-AD42CCODA020
+TCGA-A8-A0A7-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Cases circle):
+Revie
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALHED
+Redacted

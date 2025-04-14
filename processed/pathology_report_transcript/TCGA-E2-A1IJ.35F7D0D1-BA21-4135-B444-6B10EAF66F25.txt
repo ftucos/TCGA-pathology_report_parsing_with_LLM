@@ -1,0 +1,188 @@
+TSS IL
+SPECIMENS:
+A. RIGHT BREAST CANCER
+B. ADDITIONAL LATERAL MARGIN
+C. SENTINEL LYMPH NODE #1
+D. SENTINEL LYMPH NODE #2
+E. SENTINEL LYMPH NODE #3
+SPECIMEN(S):
+A. RIGHT BREAST CANCER
+B. ADDITIONAL LATERAL MARGIN
+C. SENTINEL LYMPH NODE #1
+D. SENTINEL LYMPH NODE #2
+E. SENTINEL LYMPH NODE #3
+ICD-0-3
+Carcinoma infiltrating lobular, Nos 8520/3
+Site: breast, Nos
+050.9
+2/814
+سسر
+UUID:35F7D0D1-BA21-4135-8444-6810EAF66F25
+TCGA-E2-A1I]-01A-PR
+Redacted
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+Part A, Right breast, gross examination: Tumor is 1 cm from anterior/inferior/ medial margin
+TPC - TPE, Sentinel lymph 
+nodes #1 - #3: Negative for carcinoma
+Diagnoses called to Dr. at
+GROSS DESCRIPTION:
+1. (A) and
+. (C-E) by Dr.
+A. RIGHT BREAST CANCER
+Received fresh labeled with the patient's identification and designated "right breast" is an oriented, 74-g,
+7.6 x 6 x 4.3 cm needle localized lumpectomy 
+specimen with two radiographs. The single suture
+designates anterior, double-lateral
+, triple-superior. Ink code: Anterior-yellow, posterior-black, medial-
+green, lateral-red, superior-blue, 
+inferior-orange. The specimen is serially sectioned from medial to
+lateral into 6 slices, 
+revealing a firm tan mass with granular cut surface, 2 x 1.2 x 1 cm, located 0.8 from
+the closest inferior margin. A clip is identified 
+in slice 3. The remainder of the specimen shows areas of
+firm dense fibrous focally cystic parenchyma
+. A portion of the specimen is submitted for tissue
+procurement. Submitted 
+representatively:
+A1: Medial margin
+A2-A3: Mass and anterior, slice 2
+A4-A5: Mass and medial, slice 2
+A6-A7: Mass, inferior / anterior, slice 3
+A8-A9: Inferior/posterior, slice 3
+A10: Superior, slice 3
+A11: Posterior, slice 3
+A12: Mass, inferior/ anterior, slice 4
+A13: Inferior/anterior, slice 5
+A14: Inferior/posterior, slice 5
+A15-A16: Lateral margin
+B. ADDITIONAL LATERAL MARGIN
+Received in formalin in a container labeled with the patient's identification and designated "additional
+lateral margin" is an oriented (suture 
+at final margin) 8-g, 4.1 x 4 x 0.5 cm fragment of fibroadipose
+tissue. The final margin inked black. 
+Sectioning shows nodule measuring 0.5-cm. Submitted entirely:
+B1-B3: Serial sections
+B4: Nodule
+B5: Serial sections
+C. SENTINEL LYMPH NODE #1
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node #1" is a
+fragment of fibroadipose tissue, 3 x 2.3 x 
+1.1 cm showing one possible 2-cm lymph node. Touch
+preparation is performed. The 
+lymph node is entirely submitted in cassette C1.
+D. SENTINEL LYMPH NODE #2
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node #2" is a
+fragment of fibroadipose tissue, 3 x 1.5 x 
+1 cm, showing a possible 2.3-cm lymph node. Touch
+preparation is performed. The 
+lymph node is entirely submitted, D1.
+E. SENTINEL LYMPH NODE #3
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node #3" is a
+fragment of fibroadipose tissue, 3.1 x 
+2.2 x 1.1 cm, showing a possible 1.5-cm lymph node. Touch
+preparation is performed. The lymph node 
+is entirely submitted, E1.
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+TSS ID
+- INVASIVE LOBULAR CARCINOMA, SBR GRADE 2, MEASURING 1.5-CM
+- LOBULAR CARCINOMA IN SITU
+-
+SURGICAL RESECTION MARGINS NEGATIVE FOR INVASIVE TUMOR
+- LCIS PRESENT AT LATERAL AND MEDIAL SURGICAL RESECTION MARGINS AND WITHIN 1 MM
+FROM INFERIOR SURGICAL RESECTION MARGIN
+BIOPSY SITE CHANGES WITH FIBROSIS
+- FIBROADENOMA
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+B. BREAST, RIGHT, LATERAL MARGIN, EXCISION:
+-
+INVASIVE LOBULAR CARCINOMA, SBR GRADE 2, MEASURING 0.6-CM
+- LOBULAR CARCINOMA IN SITU
+- LCIS PRESENT WITHIN 1 MM FROM FINAL LATERAL MARGIN
+- INVASIVE TUMOR PRESENT 2.5 MM FROM FINAL LATERAL MARGIN
+SEE NOTE.
+C. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1
+).
+D. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES 
+(0/1).
+E. LYMPH NODE, SENTINEL #3, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+NOTE: The in situ and invasive tumors are negative for E-cadherin, compatible with lobular carcinoma
+phenotype. In part A., the main tumor mass is identified 
+in slices #2 and 3. However, additional
+scattered foci of invasive lobular carcinoma are identified 
+in slices #4, 5, 6 and 7. Moreover, the
+additional submitted lateral margin (part B.) shows invasive lobular 
+carcinoma (0.6-cm). Therefore
+, this
+tumor is considered multifocal. Lobular carcinoma in situ 
+is identified throughout the submitted
+sections.
+The closest surgical resection margin to invasive lobular carcinoma is the lateral (2.5 mm). LCIS is
+identified at medial and within 1 mm from inferior and lateral 
+surgical resection margins.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization: Yes - For mass
+Invasive Tumor:
+Laterality: Right
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 1.5cm
+Tumor Site: Not specified
+Margins: Negative
+Distance from closest margin: 0.25cm
+lateral
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+2
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+LCIS
+Lymph nodes:
+Lymph node status:
+Negative 0/3
+Sentinel lymph node only
+DCIS not present
+2
+TSS ID
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case: s09-118
+Pathological staging (pTN):
+PT 1c NO
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+Gross Dictation: ., Pathologist,
+Microscopic/Diagnostic Dictation: .. Pathologist,
+Final Review: Pathologist
+Final Review: ., Pathologist,
+Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Case is (circle):
+Dual/Synchronous Frimary Not
+Reviewer initials
+Yes
+No
+✓
+✓
+QUALIFIED ✓ DISQUALIFIED
+Date Reviewed:

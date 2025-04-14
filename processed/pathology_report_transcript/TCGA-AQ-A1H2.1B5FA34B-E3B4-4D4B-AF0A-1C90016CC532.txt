@@ -1,0 +1,236 @@
+SURGICAL PATHOLOGY REVISED REPORT
+Case Number:
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS
+8500/3
+Path Site: breast, upper outer quadrant
+CQ1F 050.9
+C50.4
+Diagnosis:
+Breast, right, mastectomy
+Tumor type: invasive ductal carcinoma with extensive fibrosis (see comment)
+Nottingham combined histologic grade: 2
+Tubule formation score: 2
+Nuclear Pleomorphism Score: 3
+Mitotic count score: 2
+Focality of tumor: single focus
+Tumor size (greatest dimension): 3.5 cm (see comment)
+Lymphovascular invasion: present (A8)
+In Situ Component: present
+In Situ Component type/Architecture pattern: solid and cribriform
+In Situ Component nuclear grade: 3
+In Situ Component necrosis: none identified
+1/31/11
+Redacted
+UUID:185FA34B-E3B4-4D4B-AF0A-1C90016CC532
+TCGA-AQ-A1H2-01A-PR
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initii/
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+In Situ Component extent/size: DCIS is present with tumor and focally away from tumor. Size is approximately 6 mm.
+Extensive intraductal component: Absent. The DCIS comprises approximately 2% of total tumor.
+Nipple involvement: none identified
+Skin involvement: none identified
+Margin status:
+nvasive component: >5 mm
+In Situ component: >5 mm
+Axillary lymph nodes:
+Total number with metastasis: 7
+Total number examined: 10 (1 from part A, 9 from part B below)
+Size of largest metastasis: 1.3 cm (A14, A15)
+Extracapsular extension: present and extends into fibrous septae of surrounding fibroadipose tissue
+Microcalcifications: associated with invasive carcinoma, ductal carcinoma in situ, and sclerosing adenosis
+Other findings:
+- Fibrocystic changes with ductal epithelial hyperplasia.
+- Sclerosing adenosis.
+- Benign skeletal muscle.
+AJCC PATHOLOGIC TNM STAGE: pT2 pN2a
+Note: This pathologic stage assessment is based on information available at the time of this report, and is subject to
+change pending clinical review and additional information.
+B: Soft tissue, axillary contents, removal
+- Six of nine lymph nodes with metastatic carcinoma (6/9).
+- Largest metastatic focus 1.3 cm.
+- Extracapsular extension is present.
+Comment:
+Although two foci of carcinoma were previously identified radiologically (2.0 cm and 1.5 cm) and sampled by core
+biopsy, only one large focus of tumor is identified grossly in this mastectomy specimen. Gross examination has
+been repeated several times and additional sections submitted with no second tumor nodule identified. A second firm
+nodule was identified 3 cm away from the first, but microscopically it appeared to be sclerosing adenosis and this was
+confirmed with positive immunostaining with p63 and smooth muscle myosin heavy chain (A17). The current single
+focus of tumor is extremely fibrotic and measures 3.5 cm (which is equal to the two previously identified foci combined).
+Of the two foci initially seen, one was described as superficial and the other deep, but they were very close to each
+other (10:00 and 9:00 to 10:00). The current large focus is located at 9:00 to 10:00 and extends from superficial to
+deep. Histologically, the tumor demonstrates morphologic features consistent with both of the previous core biopsies
+(predominant morphology is that of the "deep" core with some areas resembling the "superficial" core). The
+different-appearing areas merge into each other and are part of the same nodule of tumor.
+40Q
+Immunostain for e-cadherin was performed on a couple of areas that have lobular features (similar to the superficial
+core biopsy); it is positive, confirming the ductal phenotype of the tumor (A8, B3). Immunostain for AE1/AE3 was
+performed on block B8 and confirms no metastatic tumor in that lymph node.
+Immunohistochemical stains for ER, PR and HER2/Neu were performed with the following results. These stains were
+performed on tumor that resembles the deep core biopsy, and results are similar to those from the deep core biopsy
+(except HER2 is 1+ instead of 0, but still considered negative). Material from an additional block (with areas resembling
+the superficial core) has been submitted to see if it stains similarly to the superficial core; the original superficial
+core showed HER2 at 2+ and amplification by FISH. These results will be reported in an addendum.
+Results:
+Estrogen receptor (.
+clone SP1):
+Interpretation: Positive
+Computer-assisted quantitative score: 100%
+Progesterone receptor ('
+clone 1E2):
+,
+Interpretation: Positive
+Computer-assisted quantitative score: 12%
+HER2/neu (Ventana, clone 4B5, FDA-approved):
+Interpretation: Negative (not overexpressed)
+Computer-assisted quantitative score: 1+
+Site: right breast
+Performed on block: A7
+Fixation: 10% neutral buffered formalin
+Fixation time: 6-48 hours
+Reference range:
+Estrogen receptor and progesterone receptor: <1%=NEGATIVE, 1-10% WEAK POSITIVE, >10% POSITIVE
+HER2/neu: 0,1=NEGATIVE FOR OVEREXPRESSION, 2=INDETERMINATE, 3=POSITIVE FOR OVEREXPRESSION
+Comment:
+The quantitative scores reported above were obtained using the FDA-approved
+The control slides for this case show appropriate staining.
+Some of the immunohistochemical reagents used in this case may be classified as analyte specific reagents (ASR) or
+research use only (RUO) reagents. These were developed and have performance characteristics determined by the
+These reagents have not been cleared or
+approved by the US Food and Drug Administration (FDA). The FDA has determined that such clearance or approval is not
+necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform
+high complexity clinical laboratory testing.
+Intraoperative Consult Diagnosis:
+Clinical History:
+with right breast cancer.
+Gross Description:
+Received are two appropriately labeled containers.
+Container A:
+Specimen fixation: formalin
+Time in fixative: 9 hours
+Type of mastectomy: modified radical
+Weight of specimen: 970 grams
+Size of specimen: 25 cm medial to lateral, 24 cm superior to inferior, and 3.5 cm anterior to posterior
+Orientation of specimen: Inking: lateral=yellow, anterior=blue, posterior-black
+Skin ellipse dimensions: 21.5 x 16.3 cm
+Nipple/areola: 0.6 cm/3.4 cm, respectively
+Axillary tail: absent
+Biopsy site: not identified
+Discrete Mass(es): present; one large firm mass is identified. The cut surface is tan with small areas of hemorrhage and
+fat necrosis. The mass is well demarcated and lobular in shape.
+Number of discrete masses: one
+Size of mass (es)/biopsy site: 3.5 x 2.9 x 1.8 cm
+Location of mass(es): upper outer quadrant
+Distance of mass/biopsy site from surgical margin: 2.4 cm from the black inked posterior margin and 4.5 cm from the
+closest blue inked anterior margin.
+Gross involvement of skin or fascia/muscle by tumor: absent
+Description of remaining breast: The remainder of the breast tissue is predominantly yellow lobulated fat which is
+interspersed with delicate strands of white fibroconnective tissue.
+Other remarkable features: There is an arterial graft in the subareolar breast tissue that runs from the superior to
+inferior aspects of the specimen. This graft is 11.7 cm long and 1.4 cm in diameter.
+Tissue submitted for special investigations: tumor and normal tissue are submitted for
+Addendum: On further gross examination, a second mass is identified. The second mass is approximately 3 cm medial to
+the first mass. The second mass is a well circumscribed, white firm nodule measuring 1.5 x 1.0 x 1.0 cm. This mass is 7.
+cm from the nearest blue inked anterior margin, 3.0 cm from the nearest black inked deep margin, and 3.0 cm from the
+skin. There is no evidence of hemorrhage or necrosis associated with this mass. (Histologically, this mass is sclerosing
+adenosis.)
+Block Summary:
+Inking: lateral=yellow, anterior-blue, posterior=black)
+A1 - perpendicular sections of nipple
+A2 - areola, en face
+A3 - representative section of mass with closest black inked posterior margin
+A4 - representative section of breast tissue from closest anterior margin
+A5-A9 representative sections of mass
+A10 representative section of breast tissue from upper inner quadrant
+A11 representative section of breast tissue from lower inner quadrant
+A12 - representative section of breast tissue from lower outer quadrant
+A13 representative section of breast tissue from upper outer quadrant
+A14,A15 - intraparenchymal lymph node, serially sectioned
+A16-A18- second mass, submitted entirely from lateral to medial
+Container B holds a 9.5 x 5.4 x 3.5 cm mass of yellow/tan lobulated fat with associated connective tissue. This specimen
+is unoriented. The specimen is dissected to identified lymph node candidates and multiple lymph node candidates
+are identified. The largest candidate measures 3.1 x 1.9 x 1.0 cm.
+Block summary:
+81,B2 largest lymph node candidates, serially sectioned
+B3 - one lymph node candidate, serially sectioned
+B4 one lymph node candidate, serially sectioned
+-
+B5 one lymph node candidate, serially sectioned
+-
+B6 - three lymph node candidates
+B7 one lymph node candidate, serially sectioned
+-
+B8 - one lymph node candidate, serially sectioned
+-
+B9 two lymph node candidates
+B10 three lymph node candidates
+B11.
+- one lymph node candidate, bisected
+B12-one lymph node candidate
+Grossing Pathologist:
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+For cases in which immunostains are performed, the following applies: Appropriate internal and/or external positive and
+negative controls have been evaluated. Some of the immunohistochemical reagents used in this case may be classified
+as analyte specific reagents (ASR). These were developed and have performance characteristics determined by the
+Anatomic Pathology Department,
+These reagents have not been cleared or
+approved by the US Food and Drug Administration (FDA). The FDA has determined that such clearance or approval is not
+necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform
+high complexity clinical laboratory testing.
+Signature
+Resident Physician:
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).
+Procedures/Addenda:
+Addendum
+Addendum
+The following addendum is issued to report the results of estrogen receptor, progesterone receptor, and HER2/neu
+immunohistochemical studies.
+Results:
+Estrogen receptor (1) 1, clone SP1):
+Interpretation: Positive
+Computer-assisted quantitative score: 94%
+Progesterone receptor
+Interpretation: Negative
+clone 1E2):
+Computer-assisted quantitative score: 0%
+HER2/neu (
+clone 485, FDA-approved):
+Interpretation: Positive (overexpressed)
+Computer-assisted quantitative score: 3+ (see note)
+NOTE:
+This block (A5) includes areas that show morphologies similar to both the superficial and deep cores. ER and PR are
+relatively homogeneous throughout the tumor, regardless of morphology. Immunostain for HER2 is heterogeneous, but
+staining does not correlate with any particular morphology. There is enough strong complete staining to interpret the
+HER2 as 3+ (overexpressed); however, areas in this block range from no staining to strong and complete staining.
+Site: right breast
+Performed on block: A5
+Fixation: 10% neutral buffered formalin
+Fixation time: 6-48 hours
+Reference range:
+Estrogen receptor and progesterone receptor: <1%=NEGATIVE, 1-10% WEAK POSITIVE, >10% POSITIVE
+HER2/neu: 0,1=NEGATIVE FOR OVEREXPRESSION, 2=INDETERMINATE, 3=POSITIVE FOR OVEREXPRESSION
+Comment:
+The quantitative scores reported above were obtained using the FDA-approved
+The control slides for this case show appropriate staining.
+Some of the immunohistochemical reagents used in this case may be classified as analyte specific reagents (ASR) or
+research use only (RUO) reagents. These were developed and have performance characteristics determined by the
+These reagents have not
+been cleared or approved by the US Food and Drug Administration (FDA). The FDA has determined that such clearance
+or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational
+or for research. This laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as
+qualified to perform high complexity clinical laboratory testing.

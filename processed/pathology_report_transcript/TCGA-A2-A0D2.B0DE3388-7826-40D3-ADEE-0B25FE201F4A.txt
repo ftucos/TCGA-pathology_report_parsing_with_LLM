@@ -1,0 +1,263 @@
+Patient:
+FMP/SSN:
+DOB/Age/Sex
+Location:
+Physician(s):
+s
+Carcinoma infiltrating ductul, Nos 8500/3
+Site: breast, Nos C50.9
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+1/25/11
+lu
+- PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Race: WHITE
+Specimen #:
+Taken:
+Received:
+Reported:
+SPECIMEN:
+A: RIGHT BREAST B: SENTINEL NODE #1 C: SENTINEL NODE #2
+D: SENTINEL NODE #3 E: SENTINEL NODE #4 F: left breast
+====
+FINAL DIAGNOSIS:
+A. RIGHT BREAST, SIMPLE MASTECTOMY:
+FIBROCYSTIC CHANGES TO INCLUDE FIBROADENOMAS, SCLEROSING ADENOSIS,
+USUAL DUCTAL HYPERPLASIA, DUCT ECTASIA, CYSTIC CHANGE WITH APOCRINE
+METAPLASIA.
+MICROCALCIFICATIONS IDENTIFIED IN BENIGN PROCESSES (A3).
+SKIN AND NIPPLE WITH NO SIGNIFICANT PATHOLOGIC CHANGES.
+B. LYMPH NODE, SENTINEL #1, BIOPSY:
+ONE LYMPH NODE POSITIVE FOR ISOLATED TUMOR CELLS (ITC) BY IMMUNOSTAINS
+AND POSITIVE FOR ISOLATED TUMOR CELL NODULE ON H AND E. (0/1)
+(SEE COMMENT)
+C. LYMPH NODE, SENTINEL #2, BIOPSY:
+ONE OF TWO LYMPH NODES POSITIVE FOR ISOLATED TUMOR CELLS (ITC) BY
+IMMUNOSTAINS; NEGATIVE BY H AND E. (0/2)
+D. LYMPH NODE, SENTINEL #3, BIOPSY:
+ONE LYMPH NODE POSITIVE FOR ISOLATED TUMOR CELLS (ITC) BY IMMUNOSTAINS;
+NEGATIVE BY H AND E. (0/1)
+E. LYMPH NODE, SENTINEL #4,
+BIOPSY:
+ONE LYMPH NODE POSITIVE FOR ISOLATED TUMOR CELLS (ITC) BY
+IMMUNOSTAINS.
+NEGATIVE BY H AND E. (0/1)
+F. LEFT BREAST, MASTECTOMY:
+TUMOR TYPE: INFILTRATING DUCTAL CARCINOMA, NO SPECIAL TYPE (F2-F5;
+F12-13).
+NOTTINGHAM GRADE: POORLY DIFFERENTIATED.
+NOTTINGHAM SCORE: 9/9
+(Tubules= 3, Nuclei= 3, Mitoses= 3; mitotic count 12 per 10 HPF at
+40x power)
+TUMOR SIZE (GREATEST DIMENSION): 2.5 CM (measured grossly)
+UUID:BODE3388-7826-4003-ADEE-0B25FE201F4A
+TCGA-A2-A0D2-01A-PR
+Redacted
+Page 1
+Continued on Next Page
+ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+Patient:
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+FINAL DIAGNOSIS (continued) :
+TUMOR NECROSIS: ABSENT.
+MICROCALCIFICATIONS: PRESENT, IN ASSOCIATION WITH PRIOR BIOPSY (F5)
+AND IN BENIGN BREAST TISSUE.
+VENOUS / LYMPHATIC INVASION: PRESENT (F5).
+MARGINS: NEGATIVE FOR TUMOR.
+-DISTANCE OF TUMOR FROM NEAREST MARGIN IS 0.34 CM, FROM DEEP MARGIN
+(measured microscopically, F12).
+INTRADUCTAL COMPONENT: ABSENT.
+LYMPH NODES: FIVE NODES NEGATIVE FOR TUMOR (PARTS B-E ABOVE).
+NIPPLE INVOLVEMENT: ABSENT.
+SKIN INVOLVEMENT: ABSENT.
+MULTICENTRICITY: UNIFOCAL.
+ESTROGEN RECEPTORS: NEGATIVE (Previously performed on
+PROGESTERONE RECEPTORS: NEGATIVE (Previously performed on
+HER 2 NEU by IHC: NEGATIVE (Previously performed on
+PATHOLOGIC STAGE: PT2 NO (i+) MX
+ADDITIONAL PATHOLOGIC CHANGES:
+-CYSTIC CHANGE WITH APOCRINE METAPLASIA.
+-MICROCALCIFICATIONS IN BENIGN TISSUE.
+(SEE COMMENT)
+COMMENT:
+diagnosis by email on
+and
+were notified of this
+The lymph nodes show individual tumor cells but only one cluster was
+identified on H&E and was measured microscopically at 89.9 micrometers
+or 0.09mm, under the total size of allowable for micrometastasis.
+**
+Report Electronically Signed Out
+CLINICAL DIAGNOSIS AND HISTORY:
+-year-old female with left breast cancer.
+GROSS DESCRIPTION:
+A. Received fresh, labeled with the patient's name,
+designated "RIGHT BREAST, ORIENTED SHORT STITCH SUPERIOR AND LONG STITCH
+LARAL" is a 685 gram right breast measuring 21.0 cm superior to
+in rior, 18.0 cm medial to lateral, and 3.5 cm anterior to posterior.
+Page 2
+FOR OFFICIAL USE ONLY -
+PERSONAL DATA
+===
+Patient:
+FOR OFFICIAL USE ONLY - PERSONAL DATA- PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+GROSS DESCRIPTION (continued):
+The admixed
+The lightly pigmented superficial skin ellipse measures 7.0 x 3.5 cm, and
+displays a 1.0 cm centrally located, everted nipple free of discharge.
+The deep margin is inked black.
+moderately dense, tan-white, fibrous tissue with multiple scattered
+Serial sections reveal a marked amount of
+blue-gray cysts measuring up to 0.5 cm in greatest dimension.
+adipose tissue is yellow-tan, lobulated, and comprises 30% of the cut
+surface. A 0.8 cm bulging, tan-white, well circumscribed nodule is
+identified in the lower outer quadrant which is consistent with a
+fibroadenoma.
+Time in Formalin =
+No lymph nodes are identified.
+Cassette Key:
+A1: Skin.
+A2: Upper outer quadrant.
+Time excised is not provided.
+A3: Lower outer quadrant with nodule.
+A4: Lower inner quadrant.
+A5: Upper inner quadrant.
+A6:
+Central.
+A7: Additional upper outer quadrant.
+A8: Additional lower outer quadrant.
+A9: Additional lower inner quadrant.
+A10: Upper inner quadrant.
+All: Nipple.
+Matched sections of Al through A6 are submitted in
+11CF
+for CBCP protocol.
+B. Received fresh, labeled with the patient's name,
+designated "SENTINEL NODE #1" is a 3.0 x 1.5 x 0.8 cm pink-yellow, fatty
+lymph node.
+cassettes B1 through B2.
+The specimen is sectioned, and entirely submitted in
+CBCP protocol.
+A matched section of B2 is submitted in
+2CF
+C. Received in formalin, labeled with the patient's name.
+for
+designated "SENTINEL NODE #2" is a 1.5 x 1.5 x 0.5 cm irregular portion of
+yellow-tan, soft tissue. Sectioning reveals a single 0.5 cm pink-tan
+lymph node. The specimen is entirely submitted as follows:
+Cassette Key:
+C1: Lymph node.
+:
+Adipose tissue. 2CF
+Page 3
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+Patient:
+FOR OFFICIAL USE ONLY
+PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+GROSS DESCRIPTION (continued) :
+D. Received in formalin, labeled with the patient's name,
+designated "SENTINEL 
+NODE #3" is a 2.0 x 1.2 x 0.4 cm yellow-tan fragment
+of adipose tissue. This is 
+submitted entirely in cassette D. 1CF
+E. Received in formalin, labeled with the patient's name,
+designated "SENTINEL NODE #4" is a fragment of yellow-tan, adipose tissue
+which measures 0.8 × 0.8 x 0.4 cm. 
+The specimen is submitted entirely in
+one cassette. 1CF
+F. Received fresh, labeled with the patient's name,
+No
+designated "LEFT BREAST AND ORIENTED WITH A SHORT STITCH SUPERIOR, LONG
+STITCH LATERAL" is an 844 
+gram left breast measuring 22.0 cm superior to
+inferior, 19.0 cm medial to 
+lateral, and 4.0 cm anterior to posterior.
+The lightly pigmented superficial 
+skin ellipse measures 10.0 x 2.5 cm and
+displays a 1.3 cm centrally 
+located everted nipple free of discharge.
+scar is identified. The deep 
+margin is inked black, and the superficial
+inferior surface is inked blue. Serial 
+sections reveal a well
+circumscribed mass 
+in the lower outer/lower mid breast.
+2.5 x 2.5 
+x 2.5 cm and comes to within 0.2 cm of the deep margin, and 1.0
+The mass measures
+cm of the superficial inferior surface
+.
+firm and gray.
+The cut surface is pink-white,
+The remainder of the specimen is composed of a marked
+amount of dense, 
+pink-white, 
+fibrous tissue with scattered blue-gray cysts
+measuring up to 0.5 cm in greatest 
+dimension.
+is 
+yellow-tan, lobulated, and otherwise unremarkable.
+The 
+admixed adipose tissue
+lesions are 
+identified.
+No additional
+No lymph nodes are identified.
+sections of the specimen are submitted as follows:
+Representative
+Cassette Key:
+F1: Skin.
+F2: Mass with margin.
+F3: Margin of F2.
+F4: Mass.
+F5: Mass.
+F6: Adjacent normal.
+F7: Upper outer quadrant.
+F8: Upper inner quadrant.
+F9: Lower inner quadrant.
+F10: Lower outer quadrant.
+F11: Central.
+F12 F13 Additional mass plus deep margin.
+F14: Upper outer quadrant.
+F15: Lower outer quadrant.
+Page 4
+Continued on Next Page
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY
+- PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Patient:
+GROSS DESCRIPTION (continued) :
+F16: Lower inner quadrant.
+Specimen #:
+F17: Upper inner quadrant.
+F18: Nipple.
+F19: Possible intraparenchymal lymph node candidates.
+Page 5
+FOR OFFICIAL USE ONLY PERSONAL DATA
+-
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Yes
+No
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials W
+QUALIFIE PISQUALIFIED
+Date Reviewed ĽA
+PRIVACY ACT OF 1974
+End of Report

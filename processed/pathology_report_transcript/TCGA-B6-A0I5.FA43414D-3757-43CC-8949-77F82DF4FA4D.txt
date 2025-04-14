@@ -1,0 +1,39 @@
+*DIAGNOSIS
+ICD-0-3
+Carcinoma, ducted, NOS 8500/3
+1/17/11
+ha
+Site Cake breast, Nos 150.9
+==========
+Not for patient's chart
+A
+Collection Date: *
+Date of Birth:
+Order Doctor:
+Sex: F
+ars
+ORIGINAL TEXT:
+FEMALE BREAST, RIGHT
+RIGHT BREAST MASS; MULTIFOCAL INTRADUCTAL AND INFILTRATING
+DUCTAL CARCINOMA, GRADE 2/3, NUCLEAR GRADE MODERATELY
+DIFFERENTIATED, THE TUMOR EXTENDS TO WITHIN 0.1MM OF THE
+SURGICAL MARGIN.
+ORIGINAL VER ID
+AT 00:00 BY
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials.
+QUALIFIED
+*** End of Report ***
+Yes
+DISQUALIFIED
+Toate Reviewed:
+UUID:FA43414D-3757-43CC-8949-77F82DF4FA4D
+TCGA-B6-A015-01A
+-PR
+Redacted

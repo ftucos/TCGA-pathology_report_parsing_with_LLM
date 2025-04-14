@@ -1,0 +1,217 @@
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+12/8/10
+سل
+Posth
+site code:
+breast, lower outer quadrant C50.5
+CQCF
+Site: breast, Nos 050.9
+TSS:
+SPECIMENS:
+A. RIGHT TUBE AND OVARY
+B. UTERUS WITH LEFT TUBE, OVARY AND CERVIX
+C. SENTINEL LYMPH NODE #1 LEFT AXILLA
+D. SENTINEL LYMPH NODE #2 LEFT AXILLA
+E. SLN #3
+F. SLN #4
+G. WLE LEFT BREAST NEEDLE LOCALIZATION
+SPECIMEN(S):
+A. RIGHT TUBE AND OVARY
+B. UTERUS WITH LEFT TUBE, OVARY AND CERVIX
+C. SENTINEL LYMPH NODE #1 LEFT AXILLA
+D. SENTINEL LYMPH NODE #2 LEFT AXILLA
+E. SLN #3
+F. SLN #4
+G. WLE LEFT BREAST NEEDLE LOCALIZATION
+GROSS DESCRIPTION:
+A. RIGHT TUBE AND OVARY
+UUID:7CA117DA-5D1C-4F8B-8330-5C58FE05DE36
+TCGA-E2-A159-01A-PR
+Redacted
+Received fresh is a 90 gm ovary and fallopian tube. There is a 7 x 5 x 4.5 cm thin walled multiloculated, translucent
+paratubal cyst filled with clear fluid. There are no papillary excrescences seen. Representative sections submitted for
+frozen section and resubmitted for permanent examination in cassette FSA1. The ovary measures 3.5 x 3 x 2 cm.
+The ovary is bisected to reveal pale yellow cut surface. One corpus luteum cyst is present measuring 1.5 x 0.8 × 0.7
+cm. The fallopian tube measures 7.5 cm in length, 0.5 cm in diameter. Serial section through the fallopian tube to
+reveal unremarkable cut surface. Representative sections submitted for microscopic examination as follows:
+A1: cyst
+A2: section from the ovary
+A3: 3 sections from the fallopian tube
+A4: 2 sections from the paratubal cyst
+B. UTERUS WITH LEFT TUBE, OVARY AND CERVIX
+Received in formalin is a 1,421 gm uterus with left fallopian tube and ovary. The uterus measures 19 cm from
+superior to inferior, 10 cm from right to left, 14 cm from anterior to posterior. The cervix measures 5.5 cm in length, 4
+cm in diameter. Serosal surface is pale, smooth and glistening. Multiple leiomyomas are identified protruding from
+the anterior surface ranging in size from 2.5 cm in diameter to 9 x 5.5 x 4 cm. The anterior uterus is inked in blue,
+posterior is inked in black. The uterus is bivalved to reveal multiple leiomyomas in the myometrium and right under
+endometrium ranging in size from 0.7 cm in diameter to 8 cm in diameter. The endometrial cavity is distorted by the
+leiomyomas. The leiomyoma is serial sectioned to reveal white whorled cut surface with focal necrosis. The uterine
+cervix is sectioned to reveal a cystic lesion containing yellow sticky material at posterior cervix measuring 2.5 cm in
+diameter. The left ovary measures 3 x 2 x 1.5 cm. The left fallopian tube measures 8 cm in length and 0.6 cm in
+diameter. A paratubal cyst measuring 2 cm in diameter is identified with thin wall and contains clear fluid. The ovary
+and fallopian tube are serial sectioned to reveal unremarkable cut surface. Summary of sections submitted for
+microscopic examination as follows:
+B1: anterior cervix
+B2: posterior cervix with cyst
+B3-B4: 2 sections from the anterior uterus endometrium
+B5-B6: 2 sections from the posterior uterus endometrium
+B7-B10: each has 2 sections from the largest leiomyoma
+B11-B12: each has 2 sections from the 2nd largest leiomyoma
+B13: section from left ovary including cyst
+B14: 3 sections from the fallopian tube
+B15-B16: each has 2 sections from the largest leiomyoma.
+C. SENTINEL LYMPH NODE #1 LEFT AXILLA
+Received fresh are two tan pink lymph nodes 1.5 x 1.2 x 0.7cm and 2 x 1.5 x 1cm. The specimens are sectioned and
+a touch prep is taken.
+C1: 1 lymph node
+C2: 1 lymph node
+D. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received fresh is a tan pink lymph node 0.5 x 0.4 x 0.4cm. The specimen is sectioned and a touch prep is taken.
+Toto D1.
+E. SLN #3
+Received fresh is a tan pink lymph node 1 x 0.5 x 0.4cm. The specimen is sectioned and a touch prep is taken. Toto
+E1.
+F. SLN #4
+Received fresh is a tan pink lymph node 0.5 x 0.4 x 0.4cm. The specimen is sectioned. Toto F1.
+G. WLE LEFT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with the patient's identification and "left breast needle localization" is an oriented 58g, 6.5 x
+6.5 x 4.8cm needle localized lumpectomy with radiograph. Ink code: anterior-orange, posterior-black, superior-blue,
+inferior-yellow, medial-green, lateral-red. Specimen is serially sectioned from medial to lateral into 7 slices revealing
+a 2 x 2 x 2cm tan white firm well circumscribed mass, 0.6cm from the closest posterior margin in slices 3-5. A portion
+of the specimen is submitted for tissue procurement. Representatively submitted:
+G1: medial margin slice 1
+G2-G3: next to mass slice 2
+G4-G5: superior margin slice 3
+G6: deep margin slice 3
+G7-G8: inferior margin slice 3
+G9: anterior margin slice 3
+G10-G11: mass slice 3
+G12-G17: slice 4
+G18: mass slice 5
+G19: deep margin slice 5
+G20: next to mass slice 6
+G21-G24: lateral margin slice 7
+DIAGNOSIS:
+A. OVARY AND FALLOPIAN TUBE, RIGHT, SALPINGO-OOPHORECTOMY:
+-
+BENIGN OVARY.
+- FALLOPIAN TUBE WITH PARATUBAL CYST.
+B. UTERUS, OVARY AND FALLOPIAN TUBE, LEFT, HYSTERECTOMY AND SALPINGO-OOPHORECTOMY:
+- WEAKLY PROLIFERATIVE ENDOMETRIUM.
+- ADENOMYOSIS.
+- LEIOMYOMAS, LARGEST MEASURING 9 CM.
+-
+BENIGN CERVIX, OVARY AND FALLOPIAN TUBE.
+C. SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+- TWO LYMPH NODES, NO TUMOR SEEN (0/2).
+D. SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+E. SENTINEL LYMPH NODE #3, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+F. SENTINEL LYMPH NODE #4, LEFT AXILLA, BIOPSY:
+- FIBROADIPOSE TISSUE, NO LYMPH NODE OR TUMOR SEEN.
+G. BREAST, LEFT, NEEDLE LOCALIZATION WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, WITH NECROSIS,
+LYMPHOID INFILTRATE, AND FOCAL SQUAMOUS FEATURES.
+-
+TUMOR MEASURES 2.2 CM.
+MARGINS, FREE OF TUMOR.
+- DUCTAL CARCINOMA IN SITU (DCIS), SOLID TYPE, NUCLEAR GRADE 3,
+MINOR COMPONENT.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes For mass
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Tumor Site:
+Margins:
+2.2cm
+4:00
+Negative
+Distance from closest margin: Greater than 0.5cm
+all margins
+Tubular Score: 3
+Nuclear Grade:
+3
+Mitotic Score: 3
+Modified Scarff Bloom Richardson Grade: 3
+Necrosis:
+Vascular/Lymphatic Invasion:
+Present
+Lobular neoplasia:
+Lymph node status:
+None
+None identified
+Lymph nodes: Sentinel lymph node only
+Negative 0/4
+DCIS present
+DCIS Quantity: Estimate 5%
+DCIS Type:
+Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: High
+ER/PR/HER2 Results
+ER: Negative
+PR: Negative
+HER2: Negative by FISH
+Pathological staging (pTN):
+PT 2 N 0
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number: G18
+ER: Negative Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+0 = Proportion Score 0 + Intensity Score 0
+2 = Proportion Score 1 + Intensity Score 1
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the proportion score
+(0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 11-30% of cells staining, 4 = 31-60% of
+cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak intensity of staining, 2 = intermediate
+intensity of staining, 3 = strong intensity of staining), with a scoring range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of less than
+or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR 136, 1:100)
+provided by Dako
+) following the manufacturers instructions. This assay was not modified.
+Interpretation of the ER/PR immunohistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+CLINICAL HISTORY:
+year-old
+female G3 P3 with invasive ductal cancer of the left breast and uterine fibroid
+PRE-OPERATIVE DIAGNOSIS:
+Left breast DCIS, Adnexal cyst and uterine fibroid
+INTRAOPERATIVE CONSULTATION:
+FSA: Right tube and ovary: Benign cyst-defer further classification to permanent.
+Diagnosis by Dr., called to Dr. at:
+TPC1-2/TPD/TPE: SLN #1, 2, 3, lert axilla - No tumor seen.
+F. GROSS EXAMINATION: SLN #4 left axilla: No tumor seen.
+Diagnosis called to Dr. at
+Gross Dictation:
+(C-F) by Dr.
+Microscopic/Diagnostic Dictation: Pathologis
+Final Review: Pathologist. 1
+Final: Pathologist,
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Syr.chronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUAMED

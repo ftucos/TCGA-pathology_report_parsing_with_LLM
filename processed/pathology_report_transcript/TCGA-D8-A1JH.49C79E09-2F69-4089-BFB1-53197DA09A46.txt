@@ -1,0 +1,67 @@
+1CD-0-3
+Carcinomic infiltrating, ductal, Nos 8500/3
+Site: breast. NoS
+050.9
+3/11/11
+سل
+Department of Cancer Pathology
+page 1 / 1
+copy No.
+Date:
+Internal invoice No.
+Patient: XXX
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No.: '
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - right breast and axillary tissue
+Unit in charge:
+Physician in charge:
+Material collected on: .
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+)
+UUID:49C79E09-2F69-4089-BFB1-53197DA09A46
+TCGA-D8-A1JH-01A-PR
+Redacted
+Compliance validated by:
+Examination performed on
+Macroscopic description:
+Right breast sized 14 x 14.5 x 2.5 cm removed along with axillary tissues sized 11 x 4.5 x 2 cm and a 11 x 5.6
+cm skin flap. Weight 260 g.
+Tumour sized 1,2 x 10 x 1,0 cm found in the outer lower quadrant, 0.9 cm from the lower boundary, 0.5 cm
+from the base and less than 0.1 cm from the parenchyma.
+Lymph nodes 1.8 cm in length.
+Microscopic description:
+Carcinoma ductale invasivum - NHG1 (2 +2 +1: 5 mitoses/ 10 HPF, visual area diameter: 0.55 m).
+Calcifications within the tumour.
+Mamilla sine laesionibus.
+Glandular tissue showing lesions of the type mastopathia fibrosa (fibrocystic changes).
+Invasive lesions reaching the base.
+AXILLARY LYMPH NODES
+Lymphonodulitis chronica et sinis histiocytosis No IX.
+Histopathology diagnosis:
+Carcinoma ductale invasivum mammae dextrae. (NHG1, pT1c, pNO). Invasive ductal carcinoma of the right
+breast
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual, Synchronous Primary Noted
+Case i
+Reviewer Int
+QUALIFIED
+Yes
+Dat Beviewed:
+DISQUALIFILD
+3/14/11
+Compliance validated by:

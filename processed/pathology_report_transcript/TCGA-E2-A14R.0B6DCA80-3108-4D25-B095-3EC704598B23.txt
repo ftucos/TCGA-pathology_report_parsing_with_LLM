@@ -1,0 +1,257 @@
+TSS
+ICD-0-3
+Carcinoma, infiltrating duct, NOS
+850013
+12/8/10
+Path
+Site Code:
+breast,
+Central
+lw
+CQCF Site: breast, NOS C50.9 portion C50.1
+UUID:0B6DCA80-3108-4D25-8095-3EC704598823
+TCGA-E2-A14R-01A-PR
+SPECIMENS:
+A. SENTINEL NODE #1 LEFT AXILLA
+B. SENTINEL NODE #2 LEFT AXILLA
+C. SENTINEL NODE #3 LEFT AXILLA
+D. WIDE LOCAL EXCISION LEFT BREAST NEEDLE LOCALIZATION
+E. INFERIOR MARGIN LEFT BREAST
+F. LATERAL MARGIN LEFT BREAST
+G. MEDIAL MARGIN LEFT BREAST
+H. POSTERIOR MARGIN LEFT BREAST
+I. SENTINEL NODE #4 LEFT AXILLA
+J. SENTINEL NODE #5 LEFT AXILLA
+K. SENTINEL NODE #6 LEFT AXILLA
+SPECIMEN(S):
+A. SENTINEL NODE #1 LEFT AXILLA
+B. SENTINEL NODE #2 LEFT AXILLA
+C. SENTINEL NODE #3 LEFT AXILLA
+D. WIDE LOCAL EXCISION LEFT BREAST NEEDLE LOCALIZATION
+E. INFERIOR MARGIN LEFT BREAST
+F. LATERAL MARGIN LEFT BREAST
+G. MEDIAL MARGIN LEFT BREAST
+H. POSTERIOR MARGIN LEFT BREAST
+I. SENTINEL NODE #4 LEFT AXILLA
+J. SENTINEL NODE #5 LEFT AXILLA
+K. SENTINEL NODE #6 LEFT AXILLA
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA-TPC: One lymph node each part, negative for carcinoma
+D: Gross assessment 2.0 cm mass >0.5 cm all margins and 1.0 cm satellite nodule at inferior margin
+TPI: One lymph node, negative for carcinoma
+TPJ/FSJ: 2 lymph nodes, negative for carcinoma
+TPK: One lymph node, negative for carcinoma
+By Dr. called to Dr. at 1
+(A),
+(B),
+C),
+(D) and
+(I, J, K).
+GROSS DESCRIPTION:
+A. SENTINEL NODE #1, LEFT AXILLA
+Received fresh and labeled with the patient name designated "A - sentinel node #1, left axilla", is a fragment of
+beige-tan possible lymphoid tissue measuring 2.0 x 2.0 x 1.2 cm. The specimen is serially sectioned, touch prep
+performed. The entire specimen is submitted in cassette A1 and A2.
+B. SENTINEL NODE #2, LEFT AXILLA
+Received fresh and labeled with the patient name designated "B - sentinel node #2, left axilla", is a fragment of
+beige-tan possible lymphoid tissue measuring 1.0 x 1.0 x 1.3 cm. The specimen is serially sectioned, touch prep
+performed. The entire specimen is submitted in cassette B1 and B2.
+C. SENTINEL NODE #3, LEFT AXILLA
+Received fresh and labeled with the patient name designated "C - sentinel node #3", is a fragment of beige-tan
+possible lymphoid tissue measuring 0.7 x 0.5 x 0.3 cm. The specimen is serially sectioned, touch prep performed.
+The entire specimen is submitted in cassette C1.
+D. LEFT BREAST WIDE NEEDLE LOCALIZATION
+Received in fresh state the specimen labeled with patients name and identification number and labeled as wide local
+excision left breast needle localization. The specimen consists of 293 grams resected breast tissue measuring 12.5
+cm from medial to lateral, 7.5 cm from anterior to posterior and 6.0 cm from superior to inferior. The margins of
+specimen are oriented with sutures, single indicating anterior, double-lateral and triple-superior. There is a
+localization needle coursing from the superior to the inferior aspect of the specimen and the accompanying
+radiogram that shows density located in the mid portion of the specimen. The margins of specimen are color coded
+as follows: Inferior-orange, superior-red, lateral-yellow, anterior-blue, medial-green and posterior-black. At mid
+portion of the specimen is a firm palpable mass which on cut section shows solid firm mass with nodular and
+lobulated pushing borders with a tan white cut surface with total dimensions of 4.0 x 3.0 x 0.9 cm. A metallic clip is
+identified within the main portion of the tumor and the surrounding breast tissue consists mostly of fatty parenchyma.
+The tumor grossly 0.9 cm from the nearest inferior margin. Multiple sections are submitted and labeled as follows:
+D1-D8: One en bloc section of tumor with margins
+Redacted
+D9: Cross section of tumor
+D10-D18: En bloc section of tumor with margins, (block 15 section taken site of apparent previous biopsy site
+wherein a clip was identified)
+D19: Sections of gross fat necrosis
+D20: Sections from posterior and medial margins
+D21: Sections from inferior and medial margins
+D22-D23: Sections from the posterior margin
+D24-D25: Sections from lateral margin
+n26-D27: Additional medial margin
+E. LEFT BREAST INFERIOR MARGIN
+Stitch marks new margin. Received fresh is an oriented 17.0-gram fragment of fibrofatty tissue 6.0 x 5.0 x 2.0 cm.
+The new true margin is inked blue, the specimen is serially sectioned and submitted in toto in cassette E1-E11.
+F. LEFT BREAST LATERAL MARGIN
+Stitch at new lateral margin. Received fresh is an oriented tan-pink fragment of fibrofatty tissue 5.0 x 2.0 x 1.5 cm.
+The new true margin is inked blue. Also separate within the container is an unoriented tan-pink fragment of fibrofatty
+tissue 5.5 x 4.0 x 2.0 cm. The specimen is inked blue. The entire specimen is submitted as follows:
+F1-F5: Oriented tissue fragment
+F6-F12: Unoriented tissue fragment.
+G. LEFT BREAST MEDIAL MARGIN
+Irregular fragment of fibrofatty tissue measuring 3.5 x 2.0 x 1.0 cm. Submitted in toto in cassettes labeled G1-G2.
+H. LEFT BREAST POSTERIOR MARGIN
+Received fresh is an unoriented 3.0-gram tan-pink fragment of fibrofatty tissue 4.0 x 2.0 x 1.5 cm. The specimen is
+inked blue, serially sectioned and submitted in toto in cassette H1 and H2.
+I. SENTINEL NODE #4, LEFT AXILLA
+Received fresh is a tan-pink lymph node 0.8 x 0.7 x 0.7 cm. The specimen is serially sectioned, touch preps are
+taken. The specimen is submitted entirely in cassette 11.
+J. SENTINEL NODE #5, LEFT AXILLA
+Received fresh are 2 tan-pink lymph nodes 1.5 x 1.0 x 1.0 cm and 0.8 x 0.5 x 0.5 cm. A portion of the larger lymph
+node is submitted for frozen section in FSJ1. Touch preps are taken. The remainder of the lymph node is submitted
+as follows:
+J2-J3: One lymph node
+J4: One lymph node
+K. SENTINEL NODE #6, LEFT AXILLA
+Received fresh is a tan-pink lymph node 0.7 x 0.6 x 0.5 cm. The specimen is bisected. Touch preps are taken and
+the specimen is submitted entirely in cassette K1.
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA
+- ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA
+- ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+C. SENTINEL LYMPH NODE #3, LEFT AXILLA
+-
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+D. LEFT BREAST, NEEDLE LOCALIZATION WIDE LOCAL EXCISION:
+-INVASIVE DUCTAL CARCINOMA WITH AREAS OF NECROSIS, SBR GRADE III OF
+LEFT BREAST.
+- SIZE OF TUMOR: 4.0 x 3.0 x 0.9 CM.
+- PREDOMINANTLY FATTY BREAST TISSUE WITH FOCAL AREAS OF COLUMNAR
+CELL CHANGE.
+- POST BIOPSY SITE CHANGES.
+- MARGINS OF RESECTION-NEGATIVE FOR TUMOR.
+E. LEFT BREAST, INFERIOR MARGIN:
+- PREDOMINANTLY FATTY BREAST TISSUE-NEGATIVE FOR TUMOR.
+F. LEFT BREAST, LATERAL MARGIN:
+- FATTY BREAST TISSUE-NEGATIVE FOR TUMOR.
+G. LEFT BREAST, MEDIAL MARGIN:
+- FATTY TISSUE AND 1 MM FOCUS OF LYMPH NODE-NEGATIVE FOR TUMOR (0/1).
+H. LEFT BREAST, POSTERIOR MARGIN:
+- FATTY BREAST TISSUE INCLUDING SKELETAL MUSCLE TISSUE-NEGATIVE FOR TUMOR.
+1. SENTINEL LYMPH NODE #4, LEFT AXILLA:
+- ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+J. SENTINEL LYMPH NODE, #5 LEFT AXILLA:
+TWO LYMPH NODES, NEGATIVE FOR TUMOR (0/2)
+K. SENTINEL LYMPH NODE #6, LEFT AXILLA:
+-
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+Note: specimen # D- grossly, of what appears clinically as two tumor is only one large tumor with lobulated and
+nodulat extensions. the main bulk of the specimen consist mostly of fatty breast tissue.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: D: WIDE LOCAL EXCISION LEFT BREAST NEEDLE LOCALIZATION
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Excision
+Yes
+Present
+Multifocality: No
+Invasive Tumor:
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+4cm
+Additional dimensions:
+Tumor Site:
+Margins:
+3cm x 0.9cm
+Central
+Negative
+Distance from closest margin:
+superior
+Tubular Score: 3
+Nuclear Grade:
+3
+Mitotic Score: 3
+1.5cm
+Necrosis:
+Present
+Lobular neoplasia:
+Modified Scarff Bloom Richardson Grade:
+Vascular/Lymphatic Invasion:
+None
+3
+Indeterminate
+Lymph nodes: Sentinel lymph node only
+Lymph node status:
+Negative 0/8
+Non-neoplastic areas:
+Post biopsy site changes
+DCIS not present
+Pathological staging (pTN):
+PT 2 NO
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimens Involved
+Specimens: D: WIDE LOCAL EXCISION LEFT BREAST NEEDLE LOCALIZATION
+Specimen: Surgical Excision
+Block Number: D9
+ER: Negative Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+0 = Proportion Score 0 + Intensity Score 0
+0 = Proportion Score 0 + Intensity Score 0
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the proportion score
+(0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 11-30% of cells staining, 4 = 31-60% of
+cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak intensity of staining, 2 = intermediate
+intensity of staining, 3 = strong intensity of staining), with a scoring range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of less than
+or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR 136, 1:100)
+provided by Dako
+^) following the manufacturer s instructions. This assay was not modified.
+Interpretation of the ER/PR immunonistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+CLINICAL HISTORY:
+-year-old Caucasian female with palpable left breast mass. Ultrasound showed 2 masses at 12 o'clock position,
+largest one 2.0 cm. Core biopsy showed DCIS, here for wide local excision and sentinel node biopsy.
+PRE-OPERATIVE DIAGNOSIS:
+None given
+ADDENDUM:
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen:
+Surgical Excision
+Block Number: D9
+Interpretation: NEGATIVE
+Intensity:
+1+
+% Tumor Staining:
+Fish Ordered: No
+METHODOLOGY:
+8%
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Her2 analysis
+was performed using the FDA approved Dako HercepTest (TM) test kit (Dako, Carpenteria, CA) using rabbit anti-
+human HER2. This assay was not modified. External kit-slides provided by the manufacturer (cell lines with high,
+low and negative HER2 protein expression) and in-house known HER2 amplified control tissue were evaluated along
+with the test tissue. Adequate, well preserved, clear-cut invasive carcinoma was identified for HER2 evaluation.
+Interpretation of the HER2 immunohistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from ASCO and CAP
+and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology Department takes full responsibility
+for this test's performance.
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist.
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchi unou. Prirety Noted
+QUALIFIED
+Date Reviewed:
+Case is (circle):
+Reviewer initials
+Yes
+No

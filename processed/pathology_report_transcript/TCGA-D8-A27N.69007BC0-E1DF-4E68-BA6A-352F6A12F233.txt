@@ -1,0 +1,60 @@
+UUID:69007BC0-E1DF-4E68-BA6A-352F6A12F233
+TCGA-D8-A27N-01A-PR
+168-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Redacted
+Site: breast, NOS
+$
+C50.9
+lo 5/19/11
+page 1 / 1
+copy No.
+5
+Date:
+Examination: Histopathological examination
+Internal invoice No.
+Patient: XXX
+Value of diagnostic procedure
+PESEL: XXX
+Examination No
+Age: _
+Gender: F
+Material: Multiple organ resection - right breast
+Unit in charge: (
+Physician in charge:
+Material collected on
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast – status post biopsy, contents of the right axillary cavity.
+Examination performed on:
+Macroscopic description:
+Right breast sized 20 x 17.5 x 6 cm removed without axillary tissues and with a skin flap of 15.5 x 5 cm. Weight 1200
+g.
+Tumour sized 3.0 x 3.2 x 2.5 cm found in the upper outer quadrant, located 4 cm from the upper boundary,
+0.8 cm 
+from the base and 1.3 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (3 + 2 + 2/16 mitoses/10 HPF - visual area: 0.55mm).
+Foci of carcinoma ductale in situ DCIS found within and outside the tumour (solid and cribrate type with medium and
+high nuclear atypia
+, comedo necrosis and calcinations, 40% of the tumour).
+Glandular texture showing parenchymal atrophy
+AXILLARY LYMPH NODES:
+Lymphonodulitis reactiva (No II).
+Histopathological Diagnosis:
+Carcinoma ductale invasivum et ductale in situ. Invasive ductal carcinoma and carcinoma in situ of the right breast. 1
+Metastases 
+carcinomatosae in lymphonodis axillae (No IV/XIX) (NHG2, pT2, pN2a).
+dr
+Compliance validated by: dr
+Criteria
+Diagnosis Discrepancy
+Primary Tuinur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prinary Noted
+Case is (circle):
+view al
+Yes
+QUALIFIED / DISQUALIFIED
+Date Reviewed:

@@ -1,0 +1,495 @@
+Redacted
+n Inquiry
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+UUID:B6B4DCFE-F044-44D6-BB90-EF71E6981E82
+TCGA-LL-ASYP-01A-PR
+REG DR:
+SPEC #:
+COLL:
+AGE/SX:
+DOB:
+STATUS:
+LOC:
+U #
+ROOM:
+REG:
+BED:
+DIS:
+TLOC:
+TIME IN FORMAL IN: 77:14
+hrs.
+PAGE 1
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Breast CA
+Remarks:
+Specimen(s): A. Left breast
+B. Left sentinel node
+C. Right breast and axillary contents
+MICROSCOPIC DIAGNOSIS
+A.
+BREAST. LEFT. SIMPLE MASTECTOMY:
+B.
+C.
+ICD-0-3
+Carcinoma, dactal infiltrating NOS
+850013
+Site ⑤Breast NOS 050.9
+W 4/2/13
+INVASIVE GRADE 3 DUCTAL CARCINOMA WITH EXTENSIVE TUMOR NECROSIS AND ASSOCIATED
+HIGH-GRADE 
+DUCTAL CARCINOMA IN SITU (DCIS) WITH COMEDO NECROSIS
+TUMOR MEASURES 1.8 CM IN GREATEST DIMENSION (pT1c)
+ONE (1) OF TWO (2) TAIL OF BREAST/LOW AXILLARY LYMPH NODES POSITIVE FOR
+METASTATIC CARCINOMA MEASURING 7 MM IN EXTENT WITHOUT EXTRACAPSULAR EXTENSION
+HEALING 
+WOUND REACTION CONSISTENT WITH PREVIOUS NEEDLE BIOPSY
+NO DEFINITIVE PERITUMORAL ANGIOLYMPHATIC INVASION IDENTIFIED
+MARGINS NEGATIVE WITH CLOSEST MARGIN DEEP MEASURING 5 MM
+ADDITIONAL PATHOLOGIC FINDINGS:
+NEUROFIBROMATOSIS
+PROLIFERATIVE FIBROCYSTIC CHANGES
+FIBROADENOMA (SMALL)
+LEFT AXILLARY SENTINEL LYMPH NODE. EXCISION:
+ONE (1) SENTINEL NODE NEGATIVE FOR METASTATIC CARCINOMA BY ROUTINE LIGHT
+MICROSCOPY 
+AND CYTOKERATIN (PANK+) IMMUNOSTAIN
+TWO (2) NONSENTINEL LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA
+BREAST, RIGHT, MODIFIED RADICAL MASTECTOMY:
+INVASIVE GRADE 3 DUCTAL CARCINOMA MEASURING 4 CM WITH EXTENSIVE TUMOR NECROSIS
+(pT2)
+ASSOCIATED HIGH-GRADE DUCTAL CARCINOMA IN SITU (DCIS) WITH COMEDO NECROSIS: NOT
+EXTENSIVE)
+TUMOR INVADES DERMIS WITHOUT ULCERATION
+TUMOR DOES NOT INVADE DEEP SKELETAL MUSCLE
+TWO (2) OF 12 AXILLARY LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA WITH
+EXTRANODAL 
+CAPSULAR EXTENSION PRESENT AND FOCAL AREA SUSPICIOUS FOR PERINODAL
+VENOUS INVASION
+MARGINS NEGATIVE WITH CLOSEST MARGIN TO INVASIVE TUMOR SUPERIOR (2 MM) AND TO
+DCIS MEDIAL 
+(4 MM)
+ADDITIONAL PATHOLOGIC FINDINGS:
+2.5 CM FIBROADENOMA
+NEUROFIBROMATOSIS
+*⭑
+CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 2
+Specimen Inquiry
+MICROSCOPIC DIAGNOSIS
+(Continued)
+PROLIFERATIVE FIBROCYSTIC CHANGES
+(Continued)
+COMMENT(S)
+Both have positive axillary
+Bilateral poorly differentiated ductal carcinomas are present.
+lymph nodes with the positive left axillary node present 
+in 
+the tail of the breast region
+of the simple mastectomy specimen. Of note is that 
+the sentinel lymph node on the left
+High-grade DCIS with comedo necrosis is
+side was found to be negative for carcinoma.
+associated with both tumors, most prominent on the left side where in some areas it is
+The left breast
+difficult to distinguish the in situ from the 
+invasive component.
+carcinoma is associated with numerous amorphous chunk
+-like 
+microcalcifications.
+The previous core needle biopsy material from these tumors (
+left and
+The carcinomas were both
+right) were evaluated with a breast prognostic panel.
+found to be weakly positive for estrogen receptor and with discordant findings with
+Due to the 
+extensive
+regards to HER2/neu by immunohistochemical stain and 
+FISH analysis.
+necrosis present on the previous core needle biopsy
+, both tumors 
+are being further
+evaluated for HER2/neu status. As this case was 
+received in the department such 
+that it
+does not fall within the 6-48 hour time frame for 
+formalin fixation and due to some
+difficulty in sorting out the invasive component from the DCIS 
+component in sections 
+of the
+left breast mass, the positive lymph node from the 
+left breast with 5 hours of formalin
+fixation and two sections of the tumor from the right 
+breast (block C1 with 5 hours of
+formalin fixation and block C5 with 77 hours of formalin 
+fixation) are being further
+evaluated for HER2/neu status by immunohistochemical stains 
+and possible FISH.
+of these studies will be reported separately as an 
+addendum.
+The results
+CAP Protocol for the Examination of Specimens From Patients with Invasive Carcinoma of the
+Breast
+Based on AJCC/UICC TNM. 7th edition
+Specimen A
+Left Breast Carcinoma:
+PROCEDURE:
+LYMPH NODE SAMPLING:
+LATERALITY:
+HISTOLOGIC TYPE:
+TUMOR SIZE:
+HISTOLOGIC GRADE (NOTTINGHAM):
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+MARGINS:
+Total mastectomy
+Sentinel lymph nodes and lymph nodes present
+within the breast specimen
+Left
+Invasive ductal carcinoma (NOS)
+Greatest dimension: 1.8 cm
+Glandular Differentiation: Score 3
+Nuclear Pleomorphism: Score 3
+Mitotic Rate: Score 3
+Overall Grade: Grade 3
+Single focus of invasive carcinoma
+DCIS is present
+Margins uninvolved by invasive carcinoma and
+DCIS
+CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 3
+Specimen Inquiry
+(Continued)
+COMMENT(S)
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+Specimen C
+PROCEDURE:
+-
+Right Breast Carcinoma
+LYMPH NODE SAMPLING:
+LATERALITY:
+HISTOLOGIC TYPE:
+TUMOR SIZE:
+HISTOLOGIC GRADE (NOTTINGHAM):
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+MICROSCOPIC EXTENT OF TUMOR:
+MARGINS:
+LYMPH NODES:
+(Continued)
+Distance from closest margin: 5 mm (deep)
+Number of sentinel lymph nodes examined: 1
+Total number of lymph nodes examined (sentinel
+and nonsentinel): 5
+Number of sentinel lymph nodes with
+macrometastases: 1
+Number of lymph nodes with micrometastases
+(> 0.2 mm to 2 mm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor
+cells (10.2 mm and 1 200 cells): 0
+Number of lymph nodes without tumor cells
+identified: 4
+Primary Tumor: pT1c
+Regional Lymph Nodes: pNla
+Distant Metastasis: Not applicable
+ER: Positive (26% of tumor cells weak staining
+intensity)
+PR: Negative
+HER2 Immunoperoxidase Studies: 2+
+HER2 FISH: Not amplified
+NOTE: Results are on previous core biopsy
+material
+Total mastectomy
+Axillary dissection
+Right
+Invasive ductal carcinoma (NOS)
+Greatest dimension: 4 cm
+Glandular Differentiation: Score 3
+Nuclear Pleomorphism: Score 3
+Mitotic Rate: Score 3
+Overall Grade: Grade 3
+Single focus of invasive carcinoma
+DCIS is present
+Skin: Invasive carcinoma directly invades into
+the dermis without skin ulceration
+Invasive carcinoma: Margins uninvolved by
+invasive carcinoma
+Distance from closest margin: 2 mm (superior)
+Ductal Carcinoma In Situ: Margins uninvolved
+by DCIS
+Distance from closest margin: 4 mm (medial)
+Number of sentinel lymph nodes examined: 0
+Total number of lymph nodes examined (sentinel
+and nonsentinel): 12
+Number of sentinel lymph nodes with
+macrometastases: 2
+**
+CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 4
+Specimen Inquiry
+(Continued)
+COMMENT(S)
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+(Continued)
+Number of lymph nodes with
+micrometastases (>0.2 mm to 2 mm and/or >200
+cells): 0
+Number of lymph nodes with isolated tumor
+cells (<0.2 mm and 1200 cells): 0
+Number of lymph nodes without tumor cells
+identified: 10
+Primary Tumor: pT2
+Regional Lymph Nodes: pNla
+Distant Metastasis: Not applicable
+ER: Positive (8% of tumor cells) weak staining
+intensity)
+PR: Negative
+HER2 Immunoperoxidase Studies: Negative (1+)
+In Situ Hybridization: Amplified
+Average Number of HER2 gene copies/cell: 5.9
+Average Number of chromosomes 17/cell: 1.8
+Note: Performed on core needle biopsy
+GROSS DESCRIPTION:
+Received is
+A. Received fresh for Tissue Banking. gross evaluation and "left breast".
+a 413 gram. 27.0 x 12.5 x 3.0 cm fibrofatty breast. The breast 
+has an 
+overlying 24.0 x 12.5
+cm portion of brown/black skin. The skin has a central 
+to slightly eccentric 5.5 x 4.5 cm
+areola and a somewhat central 1.5 cm nipple. The skin surface 
+has multiple papules with 
+no
+scars or lesions identified. The deep margin is predominantly 
+smooth and is inked blue. The
+breast is serially sectioned from medial to lateral to have 
+a central/lateral 2.0 x 1.0 x
+1.4 cm indurated to centrally necrotic hemorrhagic to yellow 
+appearing tumor mass. The
+tumor mass is at least 18 cm from medial, is approximately 
+5 cm from lateral. is
+approximately 5 cm from superior and 5 cm from inferior. The 
+tumor is 0.2 cm from 
+the deep
+margin and the deep margin slides easily over the 
+mass. Sections of tumor are sampled for
+Tissue Banking. A large, 1.4 x 1.0 x 0.8 cm, nodular 
+lymph node is identified in the
+lateral most aspect of the breast tissue. Two additional 
+smaller lymph nodes are 
+present. A
+section of the large lymph node is sampled for frozen section 
+diagnosis. The two smaller
+The remainder of the breast tissue 
+is diffusely fibrous with
+nodes are 0.4 and 0.8 cm.
+fibrocystic change. There is indurated fibrocystic change adjacent to the tumor and ranges
+up to an additional 2.0 cm. The white fibrous tissue makes 
+up between 75 and 80% of the
+parenchyma. There is diffuse ecchymotic hemorrhage lateral 
+to the tumor predominant in 
+the
+lower/outer quadrant. The breast tissue is diffusely 
+nodular, however, no additional
+discrete tumor like mass is identified. Representative 
+sections are sampled to be 
+submitted
+following overnight fixation for a repeat of tumor markers. The 
+remainder of the specimen
+will be held for fixation. Representative sections are sampled 
+as labeled in the following
+cassettes:
+Al
+A2
+A3
+frozen section residue
+remainder of the lymph node
+sliver of tumor
+**
+CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+Specimen Inquiry
+PAGE 5
+(Continued)
+GROSS DESCRIPTION: (Continued)
+All these sections will be submitted following overnight fixation. The remainder of the
+sections will be submitted following further fixation as labeled:
+B.
+A4-A5
+A6
+A7-A8
+A9
+A10
+A11
+A12
+A13
+A14
+node".
+sections of nipple
+en face areola sectioned
+full cross sections of tumor to deep margin
+smaller lymph node submitted in toto
+area of indurated nodularity adjacent to tumor
+upper/outer quadrant sampled
+lower/outer quadrant sampled (quadrant most closely associated with
+tumor)
+upper/inner quadrant sampled
+lower/inner quadrant sampled
+Part B is received in formalin. labeled with the patient's name and "left sentinel
+Received is a 3.5 x 2.5 x 0.8 cm aggregate of yellow adipose. The adipose is
+sectioned 
+to 
+have three nodular lymph nodes which range from 0.5 cm to a linear 1.7 x 0.6 x
+0.4 cm. The larger node has been designated in the OR as the sentinel node. Each node is
+sectioned perpendicular to the long axis to be entirely submitted per sentinel lymph node
+protocol 
+with the sentinel node submitted in B1-B2 and the additional nodes submitted
+separately B3-B4.
+C. Received fresh for Tissue Banking, labeled with the patient's name and "right breast
+with 
+axillary node contents" is a 445 gram. 23.0 x 13.0 x 3.0 cm fibrofatty breast. The
+breast 
+has an overlying 22.5 x 11.0 cm black/brown skin ellipse. The ellipse has multiple
+raised 
+papules across the surface and an eccentrically, medially located 6.0 x 5.0 cm
+areola with a 1.3 cm mildly flattened nipple. No scars or lesions are identified on the
+skin surface. 
+The breast is received with a 9.0 x 4.5 x 3.0 cm axillary tail and the
+specimen is consistent with a modified radical mastectomy specimen. The deep fascial plane
+is smooth and 
+somewhat irregular. The deep fascial plane will be inked blue and the breast
+is serially 
+sectioned from medial to lateral to have a medially located 4.0 x 3.7 x 3.0 cm
+tumor mass
+. The mass is 0.5 cm from the nearest inked deep margin. There is a portion
+that comes within 0.6 cm 
+of superior, 0.8 cm of medial and is 0.4 cm from inferior at the
+medial most tip of the breast specimen. A second spherical 2.0 cm mass is located in the
+upper/outer 
+quadrant. This mass is 0.4 cm from the deep margin and the deep margin slides
+easily 
+over the mass. The second mass is approximately 2.5 cm from superior. is 12.5 cm
+inferior. is 15 cm from 
+medial and 8 cm from lateral. Further sectioning of the large mass
+shows it to focally 
+extend to the superior peripheral margin. The remainder of the breast
+parenchyma 
+has diffuse dense white fibrous tissue with diffuse fibrocystic change. The
+fibrous tissue makes 
+up between 80 and 90% of the parenchyma. No additional discrete tumor
+like masses 
+are identified. The axillary tail is sectioned to have multiple nodular lymph
+nodes. The nodes 
+include tumor replaced nodes and range up to a positive. 4.0 x 2.5 x 2.5
+cm, lymph node. 
+The large lymph node appears to have necrosis in the center, similar to
+the necrosis 
+in the large tumor mass. Representative sections are sampled as labeled in
+the following 
+cassettes:
+Cl
+C2
+C3
+C4
+C5-C6
+sliver of tumor which will be submitted following overnight tissue
+processing for tissue markers
+nipple
+en face section of areola
+section of large tumor mass to deep margin
+large tumor mass to superior/medial peripheral margins
+CONTINUED ON NEXT PAGE
+A.
+RUN DATE:
+RUN TIME :
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 6
+Specimen Inquiry
+(Continued)
+GROSS DESCRIPTION:
+C7-C8
+C9
+C10
+C11-C12
+C13
+C14
+C15
+C16
+C17-C18
+C19
+C20
+(Continued)
+tumor to skin
+cross section of large tumor mass
+deep margin nearest smaller tumor mass
+smaller tumor mass sampled
+upper/outer quadrant (quadrant most closely associated with smaller
+tumor mass)
+lower/outer quadrant sampled
+upper/inner quadrant sampled (quadrant most closely associated with
+large tumor mass)
+lower/inner quadrant
+whole axillary lymph nodes
+one whole lymph node and one lymph node (positive)
+largest lymph node sampled
+KRM/mf
+INTRAOPERATIVE CONSULTATION:
+A.
+FROZEN SECTION DIAGNOSIS LEFT BREAST:
+TAIL OF BREAST / AXILLARY LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA
+PRIMARY TUMOR JUDGED ADEQUATE FOR TISSUE BANKING WITH PORTION OF NEOPLASTIC
+TISSUE PROVIDED TO TISSUE BANK COORDINATOR
+RESULTS GIVEN TO
+Image
+Image
+Image
+Image
+Signed
+PHOTO DOCUMENTATION
+**
+END OF REPORT **
+(Bilateral disease)
+3/15/13
+Criteria
+Diagnosis Discreuar.cy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Duai/Synchrorcus Primary Noted
+Case is (circlej:
+Reviewer al
+No
+Yes
+Pheo&breast
+QUALIFIED
+Reviewed:
+DISQALIFIED
+3/10/13

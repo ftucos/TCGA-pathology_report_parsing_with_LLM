@@ -1,0 +1,188 @@
+TSS:
+Path
+CQCF
+ICD-0-3
+Carcinoma, infiltrating duct, NOS
+850013
+12/8/10
+سد
+Site Code: breast, upper onter quadrant (50.4
+Site: breast, Nos
+050.9
+UUID:352BF6A2-974B-448E-BB0B-DCD79874DAC3
+TCGA-E2-A15]-01A-PR
+Redacted
+SPECIMENS:
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. SENTINEL LYMPH NODE #3 LEFT AXILLA
+D. SENTINEL LYMPH NODE #4 LEFT AXILLA
+E. LEFT BREAST
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+C. SENTINEL LYMPH NODE #3 LEFT AXILLA
+D. SENTINEL LYMPH NODE #4 LEFT AXILLA
+E. LEFT BREAST
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA/TPB/TPC/TPD1/TPD2/TPD3/TPD4-SLN #1, #2, #3, #4: No tumor seen.
+Diagnoses called a Dr to Dr. at
+(A, B, C, D).
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #1" is a 1.1 × 0.7 x 0.5-cm lymph node; sectioned, a
+touch prep is performed, and lymph node is submitted entirely in cassette A1.
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #2" is a 0.8 x 0.6 x 0.4 cm lymph node; sectioned,
+touch prep is performed, submitted entirely in cassette B1.
+C. SENTINEL LYMPH NODE #3 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #3" is a 1 x 0.8 x 0.6 cm lymph node; sectioned, a
+touch prep is performed, and lymph node is submitted entirely in cassette C1.
+D. SENTINEL LYMPH NODE #4 LEFT AXILLA
+Received fresh labeled with the patient's identification and "SLN #4" are 4 lymph nodes, 0.4 x 0.4 x 0.2 cm, 0.3 x 0.3
+x 0.2 cm, 0.3 x 0.2 x 0.2 cm, and 0.3 x 0.2 x 0.2 cm; 4 touch preps are performed, and lymph nodes are submitted
+respectively and entirely in cassettes D1-D4.
+E. LEFT BREAST
+Received fresh labeled with the patient's identification and "left breast" is an oriented 574 g, 24 x 19 x 4.5 cm
+mastectomy with 10.5 x 4 cm skin ellipse and 1.3-cm everted nipple. Ink code: Anterior/superior-blue,
+anterior/inferior-orange, and posterior-black. Specimen is serially sectioned from lateral to medial into 10 slices with
+nipple in slice 7 revealing:
+1) 3.5 x 3.4 x 2.2 cm area of hemorrhage and containing a biopsy site in the lower outer quadrant to the lower mid
+section in slices 4-6 at is closest to the anterior margin at 2.3 cm
+2) 5.5 cm superior to the biopsy site, in slice 6, is a 1.5 x 1.4 x 1.4 cm irregularly shaped firm tan mass in the upper
+inner quadrant that is closest to the anterior margin at 0.2 cm.
+Within the axillary region is a 1 cm firm tan lymph node. Representatively submitted:
+E1: slice 4, LOQ granular region lateral to biopsy site
+E2: slice 5, most lateral aspect of area of hemorrhage and biopsy site
+E3: slice 6, most inferior aspect of biopsy site extending to the anterior margin/skin
+E4: slice 6, most inferior aspect of biopsy site extending to the posterior margin
+E5: slice 6, mid anterior region of biopsy site
+E6: slice 6, mid posterior region of biopsy site
+E7-E8: slice 6, fibrous tissue connecting biopsy site of lesion
+E9-E11: slice 6, upper inner quadrant mass including posterior margin (trisected)
+E12: slice 7, fibrous tissue medial to biopsy site
+E13: slice 7, fibrous tissue medial to mass
+E14: slice 10, LIQ
+E15: slice 9, UIQ
+E16: slice 3, UOQ
+E17: slice 2, LOQ
+E18-E19: nipple, perpendicular sections
+E20: skin and bisected lymph node
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+B. LYMPH NODE, SENTINEL #2, LEFT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, SENTINEL #3, LEFT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODE, SENTINEL #4, LEFT AXILLA, EXCISION:
+- FOUR LYMPH NODES, NEGATIVE FOR METASTASES (0/4).
+E. BREAST, LEFT, MASTECTOMY:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 1, MEASURING 1.7-CM
+-INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID, CRIBRIFORM, MICROPAPILLARY
+AND PAPILLARY TYPES WITH CENTRAL NECROSIS, MICROCALCIFICATIONS AND LOBULAR EXTENSION
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- FIVE LYMPH NODES, NEGATIVE FOR METASTASES (0/5)
+- LOW GRADE AND HIGH GRADE (PLEOMORPHIC) LOBULAR CARCINOMA IN SITU
+- TWO BIOPSY SITES WITH FIBROSIS ABD GRANULATION TISSUE
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+NOTE: Two lesions are grossly identified, both located in slice #6 (outer quadrants/central). The upper lesion is
+DCIS extending from slice #4 to slice #6, measuring approximately 3-cm. The second lesion is located centrally
+showing invasive ductal carcinoma, measuring 1.7-cm. The tissue sections between two lesions (slides #7 and #8)
+show no invasive or in situ ductal carcinoma.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+1.7cm
+Tumor Site: Upper outer quadrant
+Central
+Margins:
+Negative
+Tubular Score: 2
+Nuclear Grade:
+2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade: 1
+Vascular/Lymphatic Invasion:
+Necrosis:
+Absent
+Lobular neoplasia:
+Lymph node status:
+LCIS
+None identified
+Lymph nodes: Sentinel lymph node only
+Negative 0/12
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 60%
+DCIS Type:
+Cribriform
+Micropapillary
+Papillary
+Solid
+DCIS Location: Both associated and separate from invasive tumor mass
+Nuclear grade: Intermediate
+Necrosis:
+Present
+Location of CA++:
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+DCIS
+Pathological staging (pTN):
+pT 1c NO
+CLINICAL HISTORY:
+Left breast invasive cancer with extensive surrounding DCIS
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+20
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+rate of Distant Recurrence at 10 years of 13%
+ER Score: 8.9 Positive
+PR Score:
+Her2 Score:
+Interpretation:
+7.6 Positive
+9.9 Negative
+20 in the clinical validation study had an average
+ER Negative < 6.5
+PR Negative < 5.5
+Her2 Negative <10.7
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal = 10.7 - 11.4
+report for further information.
+See separate (
+Test performed at:
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist, ɩ
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor S.te Discrepancy
+HIPAA Disu erancy
+Prior Malignancy History
+Duel/synchronous Prinary Noted
+Case is (circle);
+Reviewer Initial XX
+QUALIFIED / DAQUALIFIED
+Date Reviewed:

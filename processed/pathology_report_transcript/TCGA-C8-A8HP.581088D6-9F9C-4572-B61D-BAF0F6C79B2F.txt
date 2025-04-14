@@ -1,0 +1,361 @@
+UUID:581088D6-9F9C-4572-861D-BAF0F6C79B2F
+TCGA-C8-A8HP-01A-PR
+Redacted
+Clinical Case Report
+ID03
+(For Collection of Cancerous Tissue) Carcinoma, metaplastic was
+050.9
+8575/3
+Site ①Breast NOS
+po Breast, upper outer quadrant
+Informed Consent
+Jp 11/26/13
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Date of Birth (mm/dd/yyyy)
+Height
+Gender
+Weight
+□ Male ☑Female
+Signature
+Clinical Information
+GENERAL INFORMATION
+Marital Status
+☐ Single ✗DMarried
+Divorced □ Widow
+Date
+Race
+Temperature
+VIETNAMESE
+Blood Pressure
+Heart Rate
+HISTORY OF PRESENT ILLNESS
+Chief Complaints: A tumont in the left breast; painful
+Symptoms: Alump was found in the
+Clinical Findings:
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory
+armpit
+✓ 60-70 Symptomatic, in bed less than 50% of day
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+□ 20-30 Bed Ridden
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+To 1 l
+To 1
+To
+To
+Το
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Diagnosis Date
+Treatment
+Status
+OB/GYN HISTORY
+Menopausal Status
+☐ Pre-menopausal
+Date of First Menses
+Date of Last Menses
+□ Peri-Menopausal
+☑Post-menopausal
+Birth Control: ☐ Condom □ Oral Contraceptive ☑IUD
+☐ Other:
+# of Pregnancies
+03
+# of Live Births
+02
+☐ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Environmental Hazards:
+Current Status
+TYPE
+Smoking History
+Packs/day
+Duration
+When Quit
+□ YES
+NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+Duration
+When Quit
+□ YES NO
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+Test
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+LAB DATA
+Test
+Result
+Date
+HIV
+Hep B
+☑ Negative ☐ Positive:
+☑ Negative ☐ Positive:
+Hep C
+Negative ☐ Positive:
+AFP
+Other:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+DIAGNOSTIC STUDIES
+Results
+Date
+Biopsy x
+Carcinoma
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+L. Breast Cancer
+Location of Suspected Involved Lymph Nodes
+Location of Suspected Distant Metastasis
+Date of Diagnosis
+Clinical Staging
+T2 N2 MO
+Stage: II A
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Modified radical mastectomy
+Organ
+Teft breast tumor
+Primary Tumor
+Detailed Location
+Date of Procedure
+Size
+epper outer quadrant 3x25x2 cm
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+Extension of Tumor
+Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Distant Metastasis
+Detailed Location
+Size
+Surgical Staging
+T2
+N 2 Mo
+Stage:
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+3
+Date (mm/dd/yyyy)
+1 To
+1
+To I
+To
+1
+To
+I
+To
+I
+Collected by:
+Preserved by:
+Pathology Form
+Specimen Information
+Date:
+_Time:
+Date:
+Time:
+SPECIMEN TYPE (# of samples provided)
+Frozen
+Paraffin Block
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+2
+2
+2
+Normal
+2
+Diseased
+Normal
+Diseased
+2
+Normal
+2
+Time to LN2
+Time to Formalin
+Time to LN2
+13
+min
+14
+min
+min
+Organ
+PATHOLOGICAL DESCRIPTION
+left breast Tumor
+Location
+Primary Tumor
+Size
+Extension of Tumor
+Distance to NAT
+6
+13 x2,5 x 2 cm upper criter quadrant
+Lymph Nodes
+# Examined
+# Metastasized
+cm
+Organ
+Distant Metastasis
+Detailed Location
+Size
+Stage: A
+☑
+Pathological Staging
+PT z
+Nz Mo
+Notes:
+3)
+Lymphs notes 9 ( positive 6, Negative 3.
+4
+Consolidated Pathology Diagnosis
+Cell Distribution
++
+Diffuse
+Mosaic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+Structural Pattern
+✓ Streaming
+Storiform
+Fibrosis
+Palisading
+Cystic Degeneration
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+Squamous +
+Adenomatous
++
+Sarcomatous +
+M
+Squamoid Cell
+☑
+Glandular cell
+✗
+Round Cell
+Spindle Cell
+☑
+Cell Stratification
+Χ
+Fibroblast
+Keratin
+Secretion
+Osteoblast
+Desmosome
+☑
+Intracyt. Vacuole
+☑
+Lipoblast
+Pearl
+Gland formation
+Cellular Differentiation:
+Myoblast
+□ Well
+□ Moderate
+な
+Nuclear Atypia:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Lymphomatous
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+□ Poor
+III
+Nuclear Grade:
+0, 50%, 72 30%, 8345% Da 38%
+Final Pathology Report
+Tony
+Лескове
+becassis 
+5%
+Histological Diagnosis: rating Ductal Carina Grade:
+Comments:
+3
+Melaylactic type (Adeccoquamore Caren
+MI- Mz: CaReinmometalterizes to LN
+Director, Research Pathology
+INTEGRATED REPORT OF FINDINGS BY COLLABORATORS AND
+Criteria
+Date
+11/8/13
+Yes
+No
+V
+PATHOLOGISTS -
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Lase is (circle
+Reviewer Indals
+QUALIFIED
+DISQUALIFIED
+Date Reviewed:,
+A

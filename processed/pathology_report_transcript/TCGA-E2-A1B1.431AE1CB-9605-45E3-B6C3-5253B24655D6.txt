@@ -1,0 +1,238 @@
+TSS
+Carcinoma, infiltrating duct, NUS 8500/3
+Path
+Site Code breast.
+Cyper
+"CQCF Site: breast, Nos c50.9
+inte
+UUID:431AE1CB-9605-45E3-B6C3-5253B24655D6
+TCGA-E2-A1B1-01A-PR
+quadrant C50.4
+12/29/10
+fu
+Redacted
+TSS
+SPECIMENS:
+A. SENTINEL LYMPH NODE 1
+B. SENTINEL LYMPH NODE 2
+C. SENTINEL LYMPH NODE 3
+D. SENTINEL LYMPH NODE 4
+E. SENTINEL LYMPH NODE 5
+F. SENTINEL LYMPH NODE 6
+G. SENTINEL LYMPH NODE 7
+H. WLE LEFT BREAST
+1. ADDITIONAL MARGIN LEFT BREAST
+DIAGNOSIS:
+SENTINEL LYMPH NODE, #1, EXCISION (PART A)
+-
+-
+- FRAGMENT OF FIBROADIPOSE TISSUE, NEGATIVE FOR MALIGNANCY, NEGATIVE FOR
+LYMPHOID TISSUE.
+SENTINEL LYMPH NODE #2, EXCISION (PART B)
+METASTATIC DUCTAL CARCINOMA (4 MM IN DIAMETER, FOCAL EXTRACAPSULAR
+EXTENSION). SEE COMMENT.
+SENTINEL LYMPH NODES, #3-#7, EXCISION (PARTS C-G)
+FIVE LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/5).
+LEFT BREAST, WIDE LOCAL EXCISION (PART H)
+WELL DIFFERENTIATED INFILTRATING DUCTAL CARCINOMA, WITH A MUCINOUS
+COMPONENT (3.7 CM IN GREATEST DIAMETER, SBR GRADE 1),
+SEE COMMENT.
+- SURGICAL MARGINS OF EXCISION, NEGATIVE FOR MALIGNANCY.
+LEFT BREAST, ADDITIONAL MARGIN, EXCISION (PART I)
+- FIBROGLANDULAR BREAST TISSUE, NEGATIVE FOR MALIGNANCY.
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE 1
+B. SENTINEL LYMPH NODE 2
+C. SENTINEL LYMPH NODE 3
+D. SENTINEL LYMPH NODE 4
+E. SENTINEL LYMPH NODE 5
+F. SENTINEL LYMPH NODE 6
+G. SENTINEL LYMPH NODE 7
+H. WLE LEFT BREAST
+1. ADDITIONAL MARGIN LEFT BREAST
+CLINICAL HISTORY:
+✓✓r old white female abnormal mammogram left upper outer breast. Cone Biopsy shows well
+differentiated infiltrating ductal carcinoma with mucinous features. ER+, Pr+ HER2+ by FISH
+Right 
+breast MRI showed mass at left upper outer quadrant 3x3x0.8cm. Second enhancing mass at
+posterior aspect 7mm 
+measurement. Questionable satellite lesion.
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA, TPB: Lymph nodes, left axillary sentinel 1 & 2, excision: No malignancy identified, specimen A is
+predominantly fat.
+TPC, TPD: Lymph nodes, left axillary sentinel 3 & 4, excision: No malignancy identified.
+TPE, TPF, TPG: Lymph nodes, left axillary sentinel 5, 6 & 7, excision: No malignancy identified.
+By Dr. called in at
+GROSS DESCRIPTION:
+and
+A. SENTINEL LYMPH NODE 1:
+- Received fresh for touch-prep and labeled, Sentinel Lymph Node #1, Left" is a piece of adipose tissue
+measuring 2.4x2x.4cm. 
+It is bisected and a touch-prep is performed. Specimen is submitted in toto in
+block A1.
+B. SENTINEL LYMPH NODE 2:
+TSS:
+- Received in formalin and labeled "Sentinel Lymph Node #2, Left Axilla" is a lymph node with fat
+measuring 2x3.5x1.1cm. Bisected. A touch-prep is performed and lymph node is 
+submitted in 
+toto in
+block B1.
+C. SENTINEL LYMPH NODE 3:
+- Received in formalin and labeled Sentinel Lymph Node #3, Left Axilla" is a tan lymph node measuring
+1.3x1.2x0.6cm. Bisected and a touch-prep is performed. Submitted in toto in 
+block C1
+D. SENTINEL LYMPH NODE 4:
+- Received fresh for touch-prep and labeled, Sentinel Lymph Node #4, Left Axilla" is a piece of yellow-
+tan fat and a tan lymph node measuring 1.5x1.2x0.3cm. It is bisected and a touch
+-prep is performed.
+Specimen is submitted in toto in block D1.
+E. SENTINEL LYMPH NODE 5:
+-
+Received fresh for touch-prep and labeled, Sentinel Lymph Node #5, Left Axilla" is a piece of fat and a
+tan lymph node measuring 2.3x1.5x0.7cm. The specimen is serially sectioned 
+and touch-prep is
+performed. Lymph node is submitted in toto in block E1-E2.
+-
+F. SENTINEL LYMPH NODE 6:
+- Received fresh for touch-prep and labeled, Sentinel Lymph Node #6, Left Axilla" is a piece of yellow-
+tan adipose tissue containing a lymph node measuring 1.5x0.7x0.5cm. The 
+lymph node is bisected 
+and
+a touch-prep is performed. The lymph node is submitted in toto 
+in block F1.
+G. SENTINEL LYMPH NODE 7:
+Received fresh for touch-prep and labeled, Sentinel Lymph Node #7, Left Axilla" is a piece of yellow-
+tan fat containing a lymph node measuring 1.0x9.0x4cm. It is bisectioned and a touch
+-prep is
+performed. Specimen is submitted in toto in block G1.
+-
+H. WLE LEFT BREAST
+Received fresh and labeled, Wide Local Excision, Left Breast with Needle Localization" is an oval
+shaped piece of yellow-tan fibrofatty soft tissue weighing 161 grams and measuring 9.2x8.1x3.2cm.
+The specimen is received with an accompanying radiogram which shows 
+a needle coursing from 
+the
+medial aspect to the lateral aspect. The needle is a stellate area of increased 
+density and a surgical
+clip is present. The specimen has been oriented in surgery with short 
+designating superior long 
+lateral
+and looped anterior. Specimen is inked as follows: inferior-orange, superior-
+red, lateral-yellow,
+anterior-blue, medial-green and posterior black. Specimen is serially 
+sectioned from superior to 
+inferior
+and in the inferior aspect of the specimen is an irregularly shaped firm pink-tan 
+mass measuring
+3.7x3.5x1.5cm. Areas of hemorrhage are seen. The mass is within 1.1cm from the 
+lateral 
+margin,
+1.2cm from the anterior margin, 2.2cm from the medial margin, 1.7cm from 
+the deep margin, 1.7cm
+from the inferior margin and approximately 4.4cm from the superior margin. Superior 
+and slightly
+posterior from this mass is a firm tan nodule measuring 0.7cm which is 
+located 0.8cm from the 
+larger
+mass. It is possible that it is a continuous mass located 1.2cm from the lateral 
+margin, 3.7cm from 
+the
+anterior margin, 1.3cm from the posterior margin and 4.8cm from the 
+medial margin. This mass
+corresponds with the increased area of density and second needle 
+localization which is present 
+on the
+radiogram which is shown superior to the larger mass. Representative sections 
+are submitted as
+follows: H1-H6 larger mass including adjacent margins; H7-H8 breast tissue 
+between larger mass 
+and
+smaller mass; H9 smaller mass; H10-H13 additional fibrous breast tissue; 
+H14 superior margin; H15
+inferior margin.
+I. ADDITIONAL MARGIN LEFT BREAST:
+- Received in formalin and labeled, Additional Margin Left Breast. This Marks New Inferior Margin" is
+an irregularly shaped piece of yellow-tan fibrofatty breast tissue measuring 
+4.7x4.7x0.8cm. There is 
+a
+stitch present marking the new inferior margin. The margin is inked 
+blue and serially sectioned. On
+sectioning little fibrous tissue is seen and no masses or lesions are found
+. Specimen is submitted 
+in
+toto in blocks 11-110.
+COMMENT:
+Review of the original touch prep, for sentinel lymph node #2, shows a single minute focus of metastatic
+tumor cells. The metastatic deposit in sentinel lymph node #2 measures 4mm 
+in greatest diameter, and
+shows approximately 1mm of extracapsular extension focally. Gross 
+examination of the left breast wide
+local excision shows an irregularly shaped 3.7x3.5x1.5cm lesion, which is grossly 
+away from the
+TSS:
+margins of excision. On gross examination, there is a separate firm nodule which measures 0.7cm in
+diameter 
+which is near the larger tumor mass. Examination of microscopic sections, in the intervening
+breast 
+between these two nodules, however shows continuity of the 2nd smaller nodule with the larger
+mass, 
+consistent with an irregular, dumbbell shaped single lesion. This patient had ER, PR and HER2
+IHC performed on her prior needle core biopsy (). These results were ER positive, PR positive and
+HER2 was 
+found to be amplified by FISH.
+Specimens Involved
+Specimens: H: WLE LEFT BREAST
+BREAST CANCER TEMPLATE
+Specimen Type:
+Excision
+Needle Localization: Yes
+Laterality: Left
+Invasive tumor:
+Multifocality: No
+Specimen size:
+Additional dimensions:
+Present
+Size of Invasive focus 3.7cm
+3.5cm x 1.5cm
+Tumor Site: Upper outer quadrant)
+Margins: Negative
+Distance from closest margin: 0.4cm
+Margin:
+anterior
+1 (>75% tubule)
+Tubular score:
+Mitotic score (Olympus 40x): 1 (0-6/10 hpf)
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+None
+Nuclear score:
+2
+Lymph nodes:
+Sentinel lymph node only
+Lymph node status:
+1 (3-5 points)
+DCIS PRESENT?
+No
+Positive 1/6 Extranodal extension
+Pathological staging (pTN):
+PT 2 N 1
+Microscopic/Diagnostic Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: PATHOLOGIST,
+Final Review: PATHOLOGIST
+Final Review: PATHOLOGIST.
+Final:PATHOLOGIST,
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

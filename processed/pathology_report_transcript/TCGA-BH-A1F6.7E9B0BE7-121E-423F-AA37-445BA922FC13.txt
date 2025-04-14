@@ -1,0 +1,165 @@
+ICD-0-3
+Collection Date:
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site Breast, Nos
+050.9
+PATIENT HISTORY:
+The patient is a
+1/20/11/20
+Criteria
+"Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+UAIRIED
+Dual,Synchronous Primary Nuted
+Case is (circle
+):
+Reviewer Initials
+Yes
+DISQUALIFIED
+Date Reviewed:
+Reviews
+tw
+-year-old female. Date of last menstrual period: Not given.
+PRE OP DIAGNOSIS: Left breast cancer.
+POST OP DIAGNOSIS: Same.
+PROCEDURE: Left modified radical mastectomy.
+No
+☑
+UUID:7E9B0BE7-121E-423F-AA37-445BA922FC13
+TCGA-BH-A1F6-01A-PR
+Redacted
+FINAL DIAGNOSIS:
+PART 1: LEFT BREAST, MODIFIED RADICAL MASTECTOMY –
+A. INFILTRATING DUCTAL CARCINOMA OF BREAST, NOTTINGHAM SCORE 8/9 (TUBULES 3, NUCLEI 3, MITOSES 2).
+B. NEOPLASM MEASURES 5.5 CM IN MAXIMUM DIMENSION
+.
+C. NEOPLASM EXTENDS INTO DERMIS.
+D. MARGINS OF RESECTION FREE OF NEOPLASM.
+E. EXTENSIVE DERMAL LYMPHOVASCULAR EXTENSION IDENTIFIED (T4d).
+F.
+NO PAGET'S DISEASE OF NIPPLE IDENTIFIED.
+G. METASTATIC CARCINOMA IN INTRAMAMMARY LYMPH NODE, 1 OF 1, 0.7 CM IN DIAMETER WITH
+EXTRACAPSULAR EXTENSION.
+PART 2: LEFT AXILLARY CONTENTS, AXILLARY DISSECTION.
+METASTATIC CARCINOMA IN LYMPH NODES, 3 OF 3.
+PART 3: LEFT AXILLARY CONTENTS, AXILLARY DISSECTION.
+METASTATIC CARCINOMA IN LYMPH NODES, 2 OF 2.
+COMMENT:
+Estrogen Progesterone and Her-2/Neu analyses were performed on the two previous specimens (outside block from:
+and d
+and interpreted on both specimens as ER negative, PR negative and Her-
+2/Neu negative. If repeat analyses are desired on current specimen, please contact the laboratory.¨¯
+!
+11
+A. Laterality: 2
+1. Right
+B. Procedure: 3
+1. Segmentectomy
+2. Simple mastectomy
+C. Location: 6
+1. Central subareolar
+2. UOQ
+2. Left
+SYNOPTIC PRIMARY INVASIVE CARCINOMA OF BREAST
+3. Modified radical mastectomy
+4. Re-excision
+4. LOQ
+5. LIQ
+3. UIQ
+6. Not specified
+D. Size of tumor (maximum dimension invasive component by grass or microscopic exam): 5.5 x 3.5 x 2.5 cm
+E. Type (invasive component): 1
+1. Ductal, NOS
+2. Tubular
+3. Mucinous
+4. Medullary
+F. If lobular carcinoma, specify type: N/A
+1. Classical
+5. Cribriform
+6. Papillary
+7. Lobular
+9. Metaplastic
+10. Other
+8. Carcinoid like
+7. Pleomorphic
+4. Signet ring
+5. Trabecular
+6. Tubulobular
+2. Solid
+3. Alveolar
+G. Nottingham Score:
+G1. Nuclear grade:
+G2. Tubule formation: 3
+G3. Mitotic activity score: 2
+G4. Total Nottingham score: 8
+G5. Nottingham grade (1, 2, 3): #
+H. Angiolymphatic invasion: 2
+1. No
+1. Dermal lymphatic invasion: 1
+1. Yes
+J. Calcification: 1
+1. No
+2. Yes
+2. No
+3. Not applicable
+2. Yes - benign zones
+3. Yes - malignant zones
+4. Micropapillary
+7. Lobular
+5. Apocrine
+6. Comedo
+K. Type of in situ component: N/A
+1. Cribriform
+2. Solid
+3. Papillary
+L. Percentage of tumor occupied by in situ component: N/A
+M. 
+Surgical margins involved by invasive component: 1
+1. 
+No
+2. Yes - focal
+3. Yes-diffuse
+3. Yes diffuse
+N. Surgical margins involved by in situ component: N/A
+1. 
+No
+2. Yes - focal
+O. Paget's disease of nipple: 2
+1. Yes
+2. No
+P. Number of positive lymph nodes: §
+Q. Total number of lymph nodes examined: 6
+R. Sentinel node metastasis: N/A
+2. No
+S. Only micrometastases to lymph nodes (none larger than 0.2 cm): 2
+1. Yes
+1. Yes
+1. Yes
+1. Yes
+T. Metastasis/es to a lymph node 2 cm. or more in greatest dimension: 2
+U. Lymph node metastasis/es with extracapsular extension: 1
+2. No
+2. No
+2. No
+2. No
+2. No
+V. Metastases to ipsilateral internal mammary lymph node (if applicable): N/A
+W. Skin involved (ulceration): 2
+1. Yes
+1. Yes
+1. ADH
+2. ALH
+X. Non-neoplastic breast tissue: 6
+3. Radical scar
+Y. Multicentricity/multifocality of invasive foci: 2
+1. Yes
+2. No
+7. TNM stage: T 4d pN 2a MX
+4. Fibroadenoma
+7. LCIS
+5. Papilloma
+8. Other
+6. FCD
+.11

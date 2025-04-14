@@ -1,0 +1,51 @@
+UUID:72186F5B-9F97-428C-8E06-9240E17E88DD
+TCGA-E9-A5FL-01A-PR
+Redacted
+Gross Description: There is a breast with cystic tumor up to 5.5x4 cm in size. In the fatty tissue there are
+dense hyperemic lymph nodes with lipomatosis.
+Microscopic Description: Metaplastic squamous cell carcinoma of the breast. Ten examined lymph
+nodes demonstrated sinus histiocytosis.
+IHC-stainings: ER/PR/ Her-2/neu - negative reactions. Ki-67 - 30%.
+Diagnosis Details: Tumor Features: Indeterminate, Tumor Extent: T3 tumor size more than 5 cm, Venous
+Invasion: Absent, Margins: Absent, Treatment Effect:
+Comments:
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 4 x 0 x 5.5 cm
+Grossly evident lesion: Yes
+Histologic type: Metaplastic carcinoma
+Histologic grade: Not specified
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+ICD-0-3
+Carcinoma, metaplastic NOS
+857513
+Site. ® Breast, NOS C50.9
+01/10/13
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: IHC-stainings: ER/PR/ Her-2/neu - negative reactions. Ki-67 - 30%.
+Comments: Right
+Criteria
+/ 12/18/12
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dasynchronous Primary Noted
+Case is (circl
+Reviewer Insals
+QUALIFIED
+Tinte Reviewed:
+DISQUAL

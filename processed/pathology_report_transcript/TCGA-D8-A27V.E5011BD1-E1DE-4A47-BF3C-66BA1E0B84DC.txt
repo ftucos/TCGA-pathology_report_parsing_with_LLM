@@ -1,0 +1,58 @@
+UUID:E5011BD1-E1DE-4A47-BF3C-66BA1E0B84DC
+TCGA-D8-A27V-01A-PR
+Redacted
+נו
+ICD-0-3
+carcinoma, infiltrating lobular, Nos.
+sites breast, Nos C50.9.
+852013
+for 5/19/11
+page 1 / 1
+original
+Examination: Histopathological examination
+Internal invoice No.
+Value of diagnostic procedure
+Patient: XXX
+PESEL: XXX
+Material: Total organ resection - right breast #
+Unit in charge:
+Physician in charge:
+Material collected on:
+Age:
+Gender: F
+Examination No.: (
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case 
+is circle):
+Yes
+No
+QUALIFIED
+DISQUALIFIED
+Rev
+wernis
+Date Reviewed:
+Material received on:
+lus 5/19/11 9/4/41
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+Examination performed or
+Macroscopic description:
+Right breast sized 1.,2 x 11.2 x 3.6 cm removed without axillary tissues and with a skin flap of 13.2 x 16.3 cm. Weight
+200 g.
+Tumour sized 3.2 x 1.8 x 2.8 cm on the boundary of outer quadrants, located 1.8 cm from the outer boundary, 0.3 cm
+from the base and 0 cm from the skin.
+Microscopic description:
+Carcinoma lobulare invasivum (classical type) - NHG2 (3+2+1: 0 mitoses/10 HPF - visual area: 0.55mm).
+Infiltratio carcinomatosa cutis mammae.
+Mamilla sine laesionibus.
+Glandular tissue showing adenosis sclerosans et calcifications
+Histopathological diagnosis:
+(including Examination
+Carcinoma lobulare invasivum mammae dextrae. Invasive lobular carcinoma of the right breasts
+(NHG2, pT2, pN0/sn/).
+Compliance validated by:

@@ -1,0 +1,57 @@
+UUID:A8F63D86-37DF-472E-AF29-FB734EAB7E5C
+TCGA-D8-A3Z6-01A-PR
+Redacted
+Patient: XXX
+Department of Cancer Pathology
+: XXX
+Unit in charge:
+Physician in charge:
+Examination result
+Clinical diagnosis (suspicion): Cancer of the left breast
+Date of admission:
+(urgency: Standard)
+Age:
+Gender
+Material:
+1) Material: left breast and axillary tissue. Method of collection: Total organ resection
+Histopathological diagnosis:
+Invasive, multifocal labular carcinoma of the left breast.
+Cancer metastases to axillary lymph nodes (19/22) (NHG2, pT3, pN3a)
+Macroscopic description:
+Examination performed on:
+Left breast, sized 27.4 x 15.4 x 6.8 cm, removed without axillary tissues sized 10x11x5 cm and with a skin flap of
+20.2 x 8.2 cm.
+Tumour sized 6.2 x 3.6 x 4.8 cm found in the central part, placed 1.4 cm from the upper boundary, 0.8 cm from the
+base and 0.6 cm from the skin.
+State after removal of a tumour fragment. Lymph nodes of 3.3 cm in length.
+Microscopic description:
+Invasive multifocal lobular carcinoma (histocytoid type) - NHG2 (3 + 3 + 1/5 mitoses/ 10 HPF - vision area 0,55
+mm).
+Ductal carcinoma in situ (solid type, with high nuclear atypia and comedo necrosis, 10% of the tumour). The nipple
+without pathological lesions.
+Glandular tissue showing fibrocytoid lesions adenosis. Axillary lymph nodes: Cancer metastases to axillary lymph nodes
+(19/22). Signs of perilymphatic invasion.
+Assistant:
+Pathologist
+Edited b
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+ICD-0-3
+carcinoma, infiltrating, lobular, NOS
+Site: breast, NOS
+C50,9
+852013
+61/12 RD
+Criteria
+Yes
+No
+Jiagnosis Discrepancy
+'rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Tual/Synchronous Primar, Noted
+Case is (Circle):
+QUALIFIED
+Reviewer tia
+Date Reviewed:
+DISQUALIFIED
+6/5/12

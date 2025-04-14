@@ -1,0 +1,113 @@
+Criteria
+lu 5/23/11
+Diagnosis Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALIHED
+Yes
+No
+Reviewer Initials
+DIAGNOSIS
+Date Reviewed:
+DISQUALIFIED
+$5/19/11
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS
+050.9 lu 5/23/11
+سد
+(A) SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+One lymph node, no tumor present (0/1).
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(B) SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+One lymph node, no tumor present (0/1).
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(C) LEFT BREAST, SEGMENTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA OF BREAST, MODIFIED BLACK'S NUCLEAR GRADE 1 (WELL
+DIFFERENTIATED). (SEE COMMENT)
+INVASIVE CARCINOMA MEASURES 1.6 X 1.6 X 1.2 CM GROSSLY.
+No lymphatic/vascular invasion identified.
+FOCAL INTRADUCTAL CARCINOMA (DCIS), MODIFIED BLACK'S NUCLEAR GRADE 2 (INTERMEDIATE GRADE),
+MICROPAPILLARY AND CRIBRIFORM TYPES WITH NECROSIS
+, COMPRISING LESS THAN 5% OF THE
+TUMOR.
+INVASIVE CARCINOMA ABUTS BUT NOT INVADES INTO THE POSTIERIOR SKELETAL MUSCLE.
+Surgical margins are free of tumor.
+INVASIVE CARCINOMA IS 1.5 MM TO THE CLOSEST POSTERIOR MARGIN, AND 5.0 MM TO THE
+INFERIOR MARGIN.
+Focal atypical ductal hyperplasia.
+Biopsy site changes.
+Proliferative fibrocystic change.
+(D) NEW DEEP MARGIN, LEFT BREAST, EXCISION:
+Benign skeletal muscle, no tumor present.
+Entire report and diagnosis completed by
+COMMENT
+Tumor markers have been performed on prior core biopsy (
+ordered. Results will be issued in an addendum.
+UUID:C690925E-38A2-48BC-8E2B-4EA383E27FE2
+TCGA-GM-A2D9-01A-PR
+Redacted
+). FISH study for HER2/neu gene amplification will be
+The periphery of the invasive carcinoma shows neuroendocrine features. Although the tumor is negative for the neuroendocrine
+markers (chromogranin and synaptophysin) on the core biopsy material, these markers 
+will be repeated and report in an
+addendum.
+✓ HOSS DESCRIPTION
+(A) SLN #1, LEFT AXILLA, BLUE NO, IN VIVO 147, EX VIVO 200 - One lymph node is identified (2.2 x 2.0 x 1.0 cm). Seţially
+sectioned. Totally submitted in A1-A3. .
+}
+(B) SLN #2, LEFT AXILLA, BLUE NO, IN VIVO 19, EX VIVO 20 - One lymph node is identified (0.8 x 0.4 x 0.3 cm). Totally
+submitted in B.
+(C) LEFT BREAST SEGMENTAL MASTECTOMY - A specimen of segmental mastectomy (6.0 x 4.5 x 3.0 cm). The specimen is
+oriented with short stitch at superior aspect and with long stitch at lateral aspect. The specimen is serially sliced from medial to
+lateral aspect (seven slices). A tumor measuring 1.6 x 1.6 x 1.2 cm is identified, which is 0.2 cm to the closest posterior margin.
+The tumor appears to be ill-defined, tan-pink-yellow and firm.
+INK CODE: Anterior - yellow; posterior - black; superior - blue; inferior - green; medial - orange; lateral - red.
+SECTION CODE: C1, C2, medial perpendicular margin; C3, C4, sections from slice 2 (C3, tumor and posterior and
+inferior margin; C4, posterior and superior margin); C5-C7, sections from slices #3 (C5, tumor and posterior and inferior margin;
+C6. posterior and superior margin; C7, anterior margin); C8, tissue adjacent to tumor from slice 4; C9, lateral perpendicular margin.
+(D) NEW DEEP MARGIN, LEFT BREAST - Received is muscle tissue (4.0 x 2.5 x 0.6 cm) with clips marked as true margin. The
+true margin is inked black. The specimen is serially sectioned and totally submitted in D1-D5.
+CLINICAL HISTORY
+Left breast cancer
+SNOMED CODES
+T-04050, M-85003, M-85002, T-C4714, M-00110
+"Some tests reported here may have been developed and performance characteristics determined by
+Released by:
+These tests have not been specifically cleared or approved by the U.S. Food and Drug Administration."
+ADDENDUM
+Addendum completed by \
+Start of ADDENDUM
+COMMENT
+This addendum is issued to give immunohistochemical results.
+Invasive carcinoma is negative for neuroendocrine markers, synaptophysin, chromogranin and CD56. The Ki-67 proliferation
+index is low (10%).
+Meleased by:
+Addendum # 2
+SPECIMEN SOURCE
+Left breast
+SUMMARY
+Start of ADDENDUM #2
+Tissue section of the invasive carcinoma
+C5 was evaluated for HER-2/neu gene amplification by interphase
+fluorescence in situ hybridization technique using the PathVysion HER-2/neu DNA Probe Kit (LSI HER-2/neu
+Spectrum Orange/CEP17 SpectrumGreen).
+Slide adequacy is satisfactory. Sixty tumor nuclei were counted and showed an average of 2.23 copies of LSI HER-2/neu gene
+per 
+nucleus and an average of 1.93 copies of CEP17 per nucleus.
+Negative and positive controls (established by ..
+Two representative images have been archived.
+with this batch are appropriate.
+INTERPRETATION
+The tumor cells demonstrated no amplification of the HER-2/neu gene copy levels (HER-2/neu: CEP17 signal ratio: 1.16)
+Normal levels (HER-2/neu: CEP17 signal ratio) <2.0
+NOTES
+The LSI HER-2/neu probe is specific for the HER-2/neu gene Locus (17q 11.2-q12) and the CEP 17 DNA probe is specific for the
+alpha satellite DNA sequence at the centromeric region of Chromosome 17 (17 p11.1 -q11.2).
+This test has been cleared and approved for specific uses by the U.S. Food and Drug Administration. Its system is operating
+within the performance specifications stated in the product insert.
+Released by:
+-END OF REPORT-

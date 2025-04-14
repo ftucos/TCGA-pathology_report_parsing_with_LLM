@@ -1,0 +1,44 @@
+Procurement Date
+Laterality:Left
+Path Report: BREAST TISSUE CHECKLIST
+Specimen type: Mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2 x 2.5 x 2 cm
+Grossly evident lesion: Yes
+Histologic type: Medullary carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: Not specified
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+UUID:1F02AA5F-67B1-4BAF-A3A9-CA20BCD7FBAF
+TCGA-E9-A3QA-01A-PR
+Redacted
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+10D-0-3
+carcinoma, medullary, NOS
+851013
+Site: Breast, Nos
+050.9
+2-28.12 RD
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer lit
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED

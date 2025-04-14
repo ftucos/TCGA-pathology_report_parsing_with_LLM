@@ -1,0 +1,32 @@
+Final Diagnosis
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted_
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 41911
+how 4/25/11
+UUID:AAF32BB7-716A-4C0E-AE7E-04F6A5BF5628
+TCGA-AR-A24N-01A-PR
+Redacted
+reast, left, simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade II (of III), forming a 1.9 x 1.2 x 1.0 cm mass in
+he superior breast (AJCC pT1c). A minor component of ductal carcinoma in situ, intermediate nuclear grade, is also present.
+Surgical resection margins are negative for tumor. The nearest (deep) margin is free by 0.2 cm.
+Lymph nodes, left axillary sentinel, excision: Multiple (3) left axillary sentinel lymph nodes are negative for tumor. Lymph
+nodes No.1, and No.2A contain no blue dye, lymph node No.2B contains blue dye. Immunohistochemical cytokeratin stain was
+performed on the paraffin embedded sentinel lymph node tissue and confirms the H&E impression.
+Lymph node, left axillary, excision: A single left axillary lymph node is negative for tumor (AJCC pN0).
+Her-2/NEU analysis has been ordered on paraffin embedded tissue.
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site. breast, NoS
+050.9
+lu
+4/25/11

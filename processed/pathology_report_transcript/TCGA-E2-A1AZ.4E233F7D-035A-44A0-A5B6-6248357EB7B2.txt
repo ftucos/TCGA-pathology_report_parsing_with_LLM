@@ -1,0 +1,142 @@
+TSS:
+-3
+Carcinoma, Infiltrating duct, Nos
+Site Code: breast,
+Nos
+8500/3
+050.9
+12/29/10
+TSS:
+SPECIMENS:
+A. SENTINEL LMYPH NODE LEFT AXILLA #1
+B. SLNODE LEFT AXILLA 2
+C. SLNODE 3
+D. WIDE EXCISION LEFT BREAST
+E. ADDITIONAL DEEP MARGIN
+F. ADDITIONAL MEDIAL MARGIN
+DIAGNOSIS:
+UUID:4E233F7D-035A-44A8-A5B6-6248357EB7B2
+TCGA-E2-A1AZ-01A-PR
+A. LYMPH NODE, SENTINEL #1, LEFT AXILLARY, RESECTION:
+B.
+-MICROMETASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1).
+LYMPH NODE, SENTINEL #2, LEFT AXILLARY, RESECTION:
+-ONE LYMPH NODE, NEGATIVE FOR METASTASIS (0/1).
+C. LYMPH NODE, SENTINEL #3, LEFT AXILLARY, RESECTION:
+-ONE LYMPH NODE, NEGATIVE FOR METASTASIS (0/1).
+D. BREAST, LEFT, RESECTION:
+INVASIVE DUCTAL CARCINOMA, SBR GRADE III/III.
+-TUMOR SIZE: 3.3x2.6x2.5 CM.
+-MARGINS FREE OF TUMOR.
+-SEE TEMPLATE.
+Redacted
+FIBROCYSTIC CHANGES WITH APOCRINE METAPLASIA, SCLEROSING AND BLUNT DUCT
+ADENOSIS
+E. BREAST, ADDITIONAL DEEP MARGIN, RESECTION:
+-BREAST TISSUE, NEGATIVE FOR TUMOR.
+F. BREAST, ADDITIONAL MEDIAL MARGINS, RESECTION:
+-BENIGN BREAST TISSUE WITH SCLEROSING ADENOSIS AND FOCAL ATYPICAL DUCTAL
+HYPERPLASIA.
+Invasive Breast Cancer Template
+INVASIVE TUMOR:
+Histologic type:
+Ductal
+Tumor Size: 3.3x2.6x2.5 cm
+Size of Invasive Focus: 3.3x2.6x2.5 cm
+Grade, Histologic: 3
+Grade, Nuclear:
+Mitoses :
+3
+3
+Scarff Bloom Richardson grade: III
+Necrosis: present
+Invasion Vasc/Lymphatic:
+DCIS component
+DCIS Quantity:
+DCIS Type: solid
+present
+<25%
+DCIS Location: Inside main mass
+Nuclear grade: high
+Necrosis: absent
+Margins: Negative
+Lymph nodes:
+Positive (1/3)
+Micrometastases: Yes
+Extranodal extension: no
+Stage, Pathology: pT2N1a (see below)
+Non-neoplastic areas: Fibrocystic changes with sclerosing and blunt duct adenosis.
+ساز
+TSS:
+Hormone receptor status & HERCEPTEST: Previously done,
+SPECIMEN(S):
+A. SENTINEL LMYPH NODE LEFT AXILLA #1 B. SLNODE LEFT AXILLA 2 C. SLNODE 3 D. WIDE
+EXCISION LEFT BREAST E. ADDITIONAL DEEP MARGIN F. 
+ADDITIONAL MEDIAL MARGIN
+CLINICAL HISTORY:
+year old with left breast ca.
+FROZEN SECTION DIAGNOSIS:
+A. SENTINEL LYMPH NODE LEFT AXILLA #1
+Touch Prep: Negative by Dr., called to Dr at
+B. SENTINEL LYMPH NODE LEFT AXILLA #2
+Touch Prep: Negative by Dr., called to Dr al
+C. SENTINEL LYMPH NODE #3
+Touch Prep: Negative by Dr., called to Dr. a
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE LEFT AXILLA #1
+Received fresh is a 1.8x0.9x0.8cm. lymph node. The lymph node is bisected to reveal tan pink
+homogenous cut surface. Touch preparation is made. The specimen 
+is submitted in toto in one
+cassette.
+B. SENTINEL LYMPH NODE LEFT AXILLA #2
+Received fresh are two pieces of tan pink soft tissue measuring 0.4x0.4x0.3cm. each. One of them is
+recognized as lymph node which is bisected. Touch preparations 
+are made. The specimen is submitted
+in toto in one cassette.
+C. SENTINEL LYMPH NODE #3
+Received fresh is one lymph node measuring 1.3x0.8x0.3cm. It is bisected. Touch preparations are
+made. The specimen is submitted in toto in one cassette.
+D. WIDE EXCISION LEFT BREAST
+Received fresh is an oriented portion of firm breast tissue measuring 7.5x7x4.5cm. The specimen is
+inked and sectioned to reveal a 3.3x2.6x2.5cm. white firm tumor 
+mass, located 0.5cm. from the
+posterior margin, 1.5cm. from superior margin, 0.4cm. from the medial margin
+, 0.7cm. from the 
+inferior
+margin. One section from the tumor is submitted for tissue 
+procurement. A separate white nodule
+measuring 0.3cm. in diameter is located 1.2cm. from the main 
+tumor mass. This nodule is 1.1cm. 
+from
+the medial margin. Representative sections are submitted as 
+follows:
+D1-D4: tumor mass with adjacent margin, representative
+D5: separate nodule in toto
+D6-D9: representative sections from normal looking breast tissue
+E. ADDITIONAL DEEP MARGIN
+Received in formalin is an unoriented portion of breast tissue measuring 2.2x2.5x1.5cm. The specimen
+is inked and serially sectioned to reveal tan yellow lobulated cut surface. 
+No gross lesion is identified.
+Representatives are submitted in two cassettes.
+F. ADDITIONAL MEDIAL MARGIN
+Received in formalin is one fragment of tan yellow to pink soft to firm tissue measuring 2.7x2x1.5cm.
+The specimen is inked and serially sectioned to reveal tan fibrotic cut 
+surface. No gross lesion is
+identified. The specimen is submitted in toto in two cassettes.
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Criteria
+Liagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle)
+Reviewer Initial 44.
+QUALIFIED DISQUALIFIED
+Cate Reviewed

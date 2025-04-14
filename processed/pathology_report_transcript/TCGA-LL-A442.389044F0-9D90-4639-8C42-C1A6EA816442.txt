@@ -1,0 +1,216 @@
+RUN DATE: "
+RUN TIME:
+RUN USER: 1
+PATIENT:
+REG DR:
+SPEC #:
+RECD:
+COLL:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks: Tag ==
+Specimen (s):
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+LOC:
+ROOM:
+BED:
+TLOC:
+σ #:
+REG:
+DIS:
+STATUS:
+PERFORMED AT
+TIME IN FORMALIN:
+axillary tail specimen #3
+A. Sentinel node #1 left breast
+B. Sentinel node #2
+C. Left simple mastectomy
+PAGE 1
+UUID:389044F0-9D90-4639-8C42-C1A6EA816442
+TCGA-LL
+-A442-01A-PR
+Redacted
+A.
+B.
+C.
+MICROSCOPIC DIAGNOSIS
+ONE LYMPH NODE, SENTINEL NODE #1 LEFT BREAST, LYMPHADENECTOMY:
+NO TUMOR SEEN IN MULTIPLE STEP SECTIONS STAINED WITH ROUTINE AND PAN KERATIN
+IMMUNOCHEMICAL STAINS
+THREE LYMPH NODES, SENTINEL NODE #2,
+LYMPHADENECTOMY:
+NO TUMOR SEEN IN MULTIPLE STEP SECTIONS STAINED WITH ROUTINE AND PAN KERATIN
+IMMUNOCHEMICAL STAINS
+LEFT BREAST, TOTAL MASTECTOMY:
+COMMENT(S)
+TWO AREAS OF INFILTRATING DUCTAL CARCINOMA (IDENTICAL MORPHOLOGY)
+MODIFIED NOTTINGHAM HISTOLOGIC GRADE 2 OF 3: NUCLEAR SCORE 2 OF 3, TUBULAR
+FORMATION SCORE 3 OF 3, MITOTIC SCORE 1 OF 3 (TWO MITOTIC FIGURES PER SQUARE
+MILLIMETER)
+LARGER TUMOR MEASURES 2.7 CM (pT2)
+EXTENSIVE DUCTAL CARCINOMA IN SITU, LOW GRADE WITH SOLID PATTERN
+SURGICAL MARGINS FREE OF TUMOR WITH NEAREST MARGIN TO INVASIVE TUMOR 0.5 CM, THE
+DEEP MARGIN (RO)
+SEE COMMENT FOR SYNOPTIC REPORT
+ICD-0-3
+carcinoma, infiltrating ductal, Nos
+Site: breast, NOS C50.9
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+TUMOR SIZE:
+HISTOLOGIC GRADE:
+-
+850013
+8/23/12RD
+APPROVED BY COLLEGE OF AMERICAN PATHOLOGISTS
+Total mastectomy
+Left
+Sentinel lymph nodes
+Invasive ductal carcinoma
+Greatest dimension: 27 mm
+Glandular/tubular differentiation:
+Nuclear pleomorphism: score 2
+Mitotic rate: score 1
+** CONTINUED ON NEXT PAGE **
+score 3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (incl
+Reviewe init
+QUALIFIED
+Det Reviewed:
+Ye:
+No
+DISQUALISED
+..........
+8/19/18
+RUN DATE:
+RUN TIME:
+RUN USER:
+H
+SPEC #:
+PATIENT:
+PAGE 2
+(Continued)
+COMMENT(S)
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+(Continued)
+Overall grade:
+grade 2
+Multiple foci of invasive carcinoma
+DCIS is present, positive for EIC
+Invasive carcinoma:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 5 mm
+DCIS:
+Margins uninvolved by DCIS
+Number of sentinel lymph nodes examined: 4
+Total number of lymph nodes examined: 4
+Number of lymph nodes with macrometastases: 0
+Number of lymph nodes with micrometastases: 0
+Number of lymph nodes with isolated tumor cells: 0
+Primary tumor: pT2
+Regional lymph nodes:
+Modifier: (sn)
+Category: PNO (i-)
+Distant metastasis:
+Estrogen receptor:
+not applicable
+Results: positive (100% of tumor cells with
+nuclear positivity)
+Progesterone receptor:
+Results:
+positive (100% of tumor cells with
+nuclear positivity)
+Immunoperoxidase studies:
+Results: equivocal (score 2+)
+In situ hybridization (FISH):
+Results: not amplified
+GROSS DESCRIPTION:
+A. Received in formalin labeled with the patient's name and "sentinel node #1, left
+breast" is a 2.0 x 1.3 x 0.9 cm nodular fatty tissue biopsy. The fat is trimmed, and there
+is a previously bisected, disrupted 1.5 × 0.8 x 0.6 cm lymph node present. The node is
+sectioned perpendicular to the long axis to be entirely submitted for sentinel lymph node
+protocol in cassette Al.
+B. Received in formalin labeled with the patient's name and "sentinel node #2, left
+breast" is a 2.3 x 1.5 x 1.2 cm nodular fatty lymph node. The fat is trimmed, and there
+are three small lymph nodes present which range up to 0.8 cm. The nodes are sectioned to
+be entirely submitted per sentinel lymph node protocol as labeled:
+B1
+B2
+two lymph nodes with one lymph node bisected
+largest lymph node serially sectioned perpendicular to the long axis
+C. Received fresh for tissue banking labeled with the patient's name and "left simple
+mastectomy" is a 481 gram, 17.0 x 16.0 x 4.5 cm fibrofatty breast. The breast is received
+with an overlying 9.5 x 3.0 cm black-brown skin ellipse. The ellipse has a central,
+circular 3.0 cm areola which extends to the skin margin and a 1.0 cm central nipple. The
+** CONTINUED ON NEXT PAGE **
+RUN DATE :
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 3
+(Continued)
+GROSS DESCRIPTION: (Continued)
+The
+breast is absent of an axillary tail and consistent with a simple mastectomy specimen.
+deep fascial margin is smooth and will be inked blue. The breast is serially sectioned
+from medial to lateral to have an inferior, 2.7 x 2.5 x 2.0 cm circumscribed red-brown
+mass. The mass is more closely associated with the lower outer quadrant. This larger mass
+comes to within 0.5 cm of the nearest inked deep margin. This mass is inferior and comes
+to within 5.0 cm of the inferior margin, is 13 cm from the superior aspect, is at least 6.5
+cm from lateral and 7.5 cm from medial. There is a clip identified and a separate tumor
+site which is centrally located between the upper and lower inner quadrant. This smaller
+tumor is 2.3 cm from the nearest deep margin and is 1.3 × 0.8 x 0.8 cm. The smaller tumor
+has a localization clip and is 11.0 cm from superior, is 6.5 cm from inferior, is
+approximately 4 cm from medial and at least 10 cm from lateral. The breast has diffuse
+dense white fibrous tissue with fibrocystic changes. The white fibrous tissue makes up
+between 60-75% of the parenchyma. Sections of tumor are sampled for tissue banking. The
+specimen is sampled as labeled:
+C1
+C2
+C3-C5
+C6
+C7, C8
+C9
+C10
+C11
+C12
+sections of nipple
+areola at base of nipple
+sections of large described brown septated mass sampled for tissue
+banking in lower outer quadrant with cassette C3 being section of mass
+nearest deep margin
+deep margin overlying smaller mass with localization clip
+smaller tumor entirely submitted
+upper outer quadrant
+lower outer quadrant (quadrant closest to large tumor mass)
+upper inner quadrant (quadrant associated with smaller tumor with
+localization clip)
+lower inner quadrant sampled
+INTRAOPERATIVE CONSULTATION:
+IMMEDIATE GROSS EVALUATION C, LEFT BREAST:
+TUMOR PROCESSED FOR TUMOR BANKING
+PHOTO DOCUMENTATION
+Image
+Image
+Image
+Signed
+(signature on file)
+** END OF REPORT **

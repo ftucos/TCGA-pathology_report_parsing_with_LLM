@@ -1,0 +1,148 @@
+ICD-0-3
+Carcinona, infiltrating duct, Nos 8500/3
+Site: breast, NOS C50.9
+fu 5/23/11
+Criteria
+w 5/23/11
+Diagnosis Discrepancy
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+MG
+QUALIFIED
+Yes
+No
+3
+DISQUALIFIED
+Date Reviewed: 511444
+(A) SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+One lymph node, no tumor present (0/1).
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(B) SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+One lymph node, no tumor present (0/1).
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(C) SENTINEL LYMPH NODE #3, LEFT AXILLA, BIOPSY:
+One lymph node, no tumor present (0/1).
+Cytokeratin stain shows no evidence of metastatic carcinoma.
+(D) LEFT BREAST, SEGMENTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA OF BREAST, MODIFIED BLACK'S NUCLEAR
+GRADE 3 (POORLY
+DIFFERENTIATED) (SEE COMMENT).
+INVASIVE CARCINOMA MEASURES 3.0 CM IN GREATEST DIMENSION GROSSLY.
+No definitive lymphatic/vascular invasion identified.
+FOCAL INTRADUCTAL CARCINOMA (DCIS), MODIFIED BLACK'S NUCLEAR GRADE
+3 (HIGH GRADE),
+SOLID AND CRIBRIFORM TYPES WITH NECROSIS, COMPRISING
+APPROXIMATELY 10% OF TUMOR.
+INVASIVE AND IN SITU CARCINOMA ARE 0.5 CM TO THE CLOSEST ANTERIOR
+MARGIN.
+Remaining surgical margins are widely free of tumor.
+(E) SENTINEL LYMPH NODE #4, LEFT AXILLA, BIOPSY:
+Benign fibroadipose tissue, no lymph node or tumor present.
+Entire report and diagnosis completed by
+COMMENT
+Immunohistochemical staining is performed on a representative formalin-fixed, paraffin-
+embedded section of INVASIVE CARCINOMA, left breast, block D6.
+MARKER
+RESULTS
+% POSITIVE
+SCORE
+Estrogen Receptor
+Negative
+0%
+N/A
+Progesterone Receptor
+Negative
+0%
+N/A
+HER-2/neu
+overexpression
+Negative
+1+
+UUID:5A315635-886B-459E-AF5D-879F66E859F0
+TCGA-GM-A2DB-01A-PR
+Redacted
+Due to the above HER-2/neu immunohistochemical staining result, gene copy level (HER-2/neu:
+CEP17 signal ratio) will be evaluated by FISH and a separate report will be issued.
+FOOTNOTE
+Estrogen receptor was assessed by immunohistochemistry using antibody 6F11 (“
+Progesterone receptor was assessed by immunohistochemistry using antibody PgR1294(
+HER-2/neu was assessed by immunohistochemistry using antibody AB8 (
+GROSS DESCRIPTION
+(A) SENTINEL LYMPH NODE #1, LEFT AXILLA, IN VIVO 69, EX VIVO 55, BLUE - Two
+fragments of tissue including one lymph node measures 2.0 x 1.5 x 0.8 cm. Serially sectioned.
+Touch preparation performed.
+SECTION CODE: A1, A2, one lymph node; A3, A4, second fragment of tissue.
+*TP/DX: NO TUMOR PRESENT.
+(B) SENTINEL LYMPH NODE #2, LEFT AXILLA, BLUE, IN VIVO 21, EX VIVO 39 - A single
+lymph node (2.5 x 1.8 x 1.0 cm).
+Serially sectioned. Touch preparation performed. Entirely submitted.
+SECTION CODE: B1-B3, one lymph node serially sectioned.
+*TP/DX: NO TUMOR PRESENT.
+(C) SENTINEL LYMPH NODE #3, LEFT AXILLA, BLUE, IN VIVO 15, EX VIVO 5 - A single
+lymph node (1.0 x 0.8 x 0.5 cm). Serially sectioned. Touch preparation performed.
+SECTION CODE: C, one lymph node serially sectioned.
+*TP/DX: NO TUMOR PRESENT.
+(D) LEFT BREAST, SEGMENTAL MASTECTOMY, SHORT STITCH SUPERIOR, LONG
+STITCH LATERAL - The specimen consists of an oriented segmental mastectomy measuring
+9.0 x 6.0 x 3.5 cm. Serially sectioned to reveal a 3.0 cm mass, which is 0.5 cm to the closest
+anterior margin. Remaining surgical margins are widely free of tumor. The specimen is x-rayed,
+and a surgical clip is identified within the tumor (slice #4). Suspicious areas are circled by the
+radiologist for sampling.
+INK CODE: Superior - blue, anterior - yellow, inferior - green, medial and lateral - red,
+deep - black.
+SECTION CODE: D1, perpendicular sections of medial margin; D2-D5, circled by
+radiologist in slice #3 with anterior margin; D6, D7, tumor/clipped area in slice #4 (mirror images);
+D8, anterior margin, slice #4; D9, inferior margin, slice #4; D10, deep margin, slice #4; D11,
+superior margin, slice #4; D12, D13, remaining tumor area in slice #4; D14-D16, circled by the
+radiologist in slice #5; D17, inferior and deep margin, slice #5; D18, remaining tumor area in slice
+#5; D19, D20, circled by radiologist in slice #6; D21, D22, circled by radiologist in slice #7; D23,
+perpendicular sections of lateral margin.
+(E) SENTINEL LYMPH NODE #4, BLUE, LEFT AXILLA IN VIVO 20, EX VIVO 20 - An irregular
+fragment of fibroadipose tissue (3.0 x 2.0 x 0.6 cm). Serially sectioned and no lymph nodes
+grossly identified. The specimen is entirely submitted in E1-E3.
+CLINICAL HISTORY
+Newly diagnosed left breast cancer.
+SNOMED CODES
+T-04050, M-85003, M-85002, T-C4714, M-00110
+"Some tests reported here may have been developed and performance characteristics
+determined by
+These tests have not been
+specifically cleared or approved by the U.S. Food and Drug Administration."
+Released by:
+Start of ADDENDUM
+ADDENDUM
+Addendum completed by I
+SPECIMEN SOURCE
+Left breast
+SUMMARY
+1D6 was evaluated for HER-2/neu gene
+Tissue section of the invasive carcinoma
+amplification by interphase fluorescence in situ hybridization technique using the PathVysion
+HER-2/neu DNA Probe Kit (LSI HER-2/neu
+>/CEP17
+Slide adequacy is satisfactory. Sixty tumor nuclei were counted and showed an average of 1.67
+copies of LSI HER-2/neu gene per nucleus and an average of 1.50 copies of CEP17 per nucleus.
+) with this batch are
+Negative and positive controls (established by
+appropriate.
+Two representative images have been archived.
+INTERPRETATION
+The tumor cells demonstrated no amplification of the HER-2/neu gene copy levels (HER-2/neu:
+CEP17 signal ratio: 1.11)
+The following guideline has been established for HER-2/neu testing:
+Normal HER-2/neu levels: <1.80; Equivocal HER-2/neu levels: 1.80 - 2.20; Amplified HER-2/neu
+levels: >2.20
+(Ref: Arch Pathol Lab Med. 2007; 131:18-43)
+NOTES
+The LSI HER-2/neu probe is specific for the HER-2/neu gene Locus (17q 11.2-q12) and the CEP
+17 DNA probe is specific for the alpha satellite DNA sequence at the centromeric region of
+Chromosome 17 (17 p11.1 -q11.2).
+This test has been cleared and approved for specific uses by the U.S. Food and Drug
+Administration. Its system is operating within the performance specifications stated in the product
+insert.
+Released by:
+-END OF REPORT---

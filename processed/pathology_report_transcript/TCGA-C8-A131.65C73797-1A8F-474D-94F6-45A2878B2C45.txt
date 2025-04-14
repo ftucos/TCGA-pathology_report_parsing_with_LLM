@@ -1,0 +1,177 @@
+ICD-0-3
+Carcinoma infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+050.9
+Collected by:
+Preserved by:
+-
+1/28/11
+سلام
+Pathology Form
+Specimen Information
+:
+Date:
+_Time:_
+Date
+ne:
+SPECIMEN TYPE (# of samples provided)
+;
+Diseased
+4
+Frozen
+Normal
+Paraffin Block
+Blood/Serum/Plasma
+Slide
+Diseased
+2
+4
+Normal
+2
+Diseased
+Normal
+Diseased
+Normal
+2
+Time to LN2
+Time to Formalin
+Time to LN2
+12
+min
+3
+min
+min
+Notes:
+PATHOLOGICAL DESCRIPTION AER
+Primary Tumor
+Size
+Organ
+Extension of Tumor
+Distance to NAT
+Breast tremor
+4 x 3 x 3 cm
+Lymph Nodes
+ст
+Location
+# Examined
+# Metastasized
+Distant Metastasis
+Organ
+Detailed Location
+Size
+Pathological Staging
+PT 2 N2 Mo
+Stage: T
+Breast nodes 8 ( positive 4. Negative 4)
+Redacted
+UUID:65C73797-1A8F-474D-94F6-45A2878B2C45
+TCGA-C8-A131-01A-PR
+Criteria
+Diagnosis Discrepancy
+Yes
+4
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primaryoted
+Cafe is circle
+Peel Thi Tis
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+No
+}
+9/30/10
+"
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+Diffuse
+Mosaic
+Necrosis
+1. Histological pattern:
+CELL DISTRIBUTION
++
+☑
+☑
+☑
+☑ Streaming
+Storiform
+Fibrosis
+Palisading
+STRUCTURAL PATTERN
++
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+2. Cellular features:
++
+☑
+☑ Cystic Degeneration
+Bleeding
+☑ Myxoid Change
+✓ Psammoma/Calcification
+Sarcomatous
+Round Cell
+Adenomatous
++
+-
+Glandular cell
+Y
+Cell Stratification
+Secretion
+[
+Fibroblast
+☑
+Osteoblast
+Intracyt. Vacuole
+Gland formation
+Lipoblast
+☑Myoblast
+D, 707, D2 70% D3 70%
+Squamous
+Squamoid Cell
+Spindle Cell
+Keratin
+Desmosome
+Pearl
+Otherwise Specified:
+2. Cellular Differentiation:
+Well
+Moderately
++
+-
+Lymphomatous
++
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+D4 25%
+Poor
+Necross
+ja
+3. Nuclear Atypia:
+Nuclear Appearance
+Aniso Nucleosis
+Nucleolar Prominent
+Hyperchromatism
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade
+0
+II
+F
+III
+✓
+Histological Diagnosis: Tafiltrating Ductal Carcinome, vos, 6-3
+Comments.
+Mr. Casemome Metastasized to LN.
+Mr: is 
+not a Limpado: 
+Rejected
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

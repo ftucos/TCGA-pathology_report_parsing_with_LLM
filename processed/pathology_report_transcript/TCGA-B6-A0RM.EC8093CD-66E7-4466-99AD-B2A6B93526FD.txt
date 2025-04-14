@@ -1,0 +1,42 @@
+Patient
+Carcinoma, infiltrating ductal Nos 8500/3
+Site Code: breast, NUS C50.9
+1/17/11
+Surg Path
+CLINICAL HISTORY:
+Locally advanced left breast cancer.
+GROSS EXAMINATION:
+A. "Left breast biopsy", in formalin. Three irregular fragments of yellow-tan
+fibroadipose tissue measuring 3.5 x 2 x 0.9 cm in aggregate dimension.
+Sectioning reveals that each tissue fragment is composed of fibroadipose
+tissue with focal areas of firm, pink-tan poorly circumscribed tissue embedded
+in the adipose tissue. A portion of the specimen has been previously removed
+by Dr.
+ind submitted for ER/PR evaluation. Tissue is sectioned and
+submitted in toto in Blocks A1 and A2.
+B. "Left axillary lymph nodes", in formalin. An irregular fragment of
+red-orange fibroadipose tissue measuring 2 x 1.2 x 0.9 cm within which is
+embedded a lymph node candidate measuring 1.1 × 0.5 x 0.5 cm in greatest
+dimension. The specimen is bisected and submitted in toto in Block Bl.
+DIAGNOSIS:
+A. "LEFT BREAST BIOPSY":
+BREAST WITH INFILTRATING DUCTAL CARCINOMA, HISTOLOGIC GRADE 2, NUCLEAR
+GRADE 2. SKELETAL MUSCLE INVASION IS PRESENT.
+B. "LEFT AXILLARY LYMPH NODES":
+NODULES OF CARCINOMA ARE PRESENT BUT LYMPH NODES ARE NOT IDENTIFIED.
+Redacted
+UUID:EC8093CD-66E7-4466-99AD-B2A6893526FD
+TCGA-B6-AØRM-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/ynchronous Primary Noted
+Case is (circ!):
+Reviewer itals
+Yes
+QUALIFIED
+DISQUALIFIED
+eived:
+1 of 1

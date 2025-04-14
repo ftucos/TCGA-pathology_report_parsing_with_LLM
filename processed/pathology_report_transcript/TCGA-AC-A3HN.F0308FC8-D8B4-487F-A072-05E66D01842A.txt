@@ -1,0 +1,224 @@
+UUID:F0308FC8-D8B4-487F-A072-05E66D01842A
+TCGA-AC-A3HN-01A-PR
+Patient Name:
+Med. Rec. #:
+DOB/Gender:
+Location:
+Soc. Sec. #:
+Physician(s):
+SURGICAL PATHOLOGY REPORT
+(Age: ) F
+Path No.:
+Client:
+Collected:
+Received:
+Reported:
+Hosp #:
+Redacted
+Pre-Operative/Clinical History
+Left breast cancer
+Specimen(s) Received
+A: LEFT AXILLA SENTINEL LYMPH NODE #1
+B: LEFT AXILLA SENTINEL LYMPH NODE #2
+C: LEFT AXILLA, ADDITIONAL AXILLARY TISSUE
+D: BREAST, MASTECTOMY
+Gross Description
+ICD-0-3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Juai/Synchronous Primary Note
+Case is (circle):
+Reviewer a
+Carcinoma infiltrating lobular, NOS 8520/3
+Site: breast, NoS
+C50.9
+fw 12/2/11
+Yes
+No
+QUALIFIED
+DITE Reviewed:
+DISQUALIFIED
+Specimen A, received in formalin labeled left axilla sentinel node #1, consists of adipose tissue, 3.5 x 1.5 x 1.3 cm.
+Sections show a lymph node measuring 2.0 cm in greatest dimension, partially replaced by adipose tissue. The node is
+sectioned and entirely submitted labeled (A1, A2).
+Specimen B, received in formalin labeled left axilla sentinel node #2, consists of adipose tissue, 2.0 x 1.5 x 0.8 cm.
+Sections show a single lymph node candidate measuring 1.0 cm in greatest dimension. The node is sectioned and
+entirely submitted. (B1).
+Specimen C, received in formalin labeled left axilla additional axillary tissue, consists of adipose tissue, 4.0 x 2.5 x 2.0 cm
+In aggregate. Sections show a single lymph node candidate, 0.3 cm in greatest dimension. (C1).
+Microscopic Description
+The microscopic findings are reflected in the diagnosis rendered.
+Diagnosis
+A)
+LYMPH NODE, LEFT AXILLARY SENTINEL #1, EXCISION:
+B)
+C)
+ONE LYMPH NODE INVOLVED BY METASTATIC MAMMARY CARCINOMA (9 MM, NEGATIVE FOR
+EXTRACAPSULAR EXTENSION).
+LYMPH NODE, LEFT AXILLARY SENTINEL #2, EXCISION:
+ONE LYMPH NODE INVOLVED BY MICROMETASTATIC MAMMARY CARCINOMA (1 MM, NEGATIVE
+FOR EXTRACAPSULAR EXTENSION)..
+LYMPH NODE, LEFT AXILLARY NONSENTINEL, EXCISION:
+ONE LYMPH NODE NEGATIVE FOR TUMOR.
+Pane 1 of R
+PHD HISTOLOGY REPORT
+Electronically Reviewed and Signed Out By
+Comment
+All sentinel node blocks were examined with three 80 um interval H&E stained contion and two 80 um interval cytokeratin
+AE1/AE3 immunostains.
+Positive and negative controls react satisfactorily.
+FDA required disclaimer: These tests were developed and their performance characteristics determined by
+They have not been cleared
+or approved by the U.S. Food and Drug Administration. The FDA has determined that such clearance or approval is not necessary. These tests are used
+for clinical purposes and should not be regarded as investigational or for research. This laboratory is certified under the Clinical Improvement
+Amendments of 1988 (CLIA) as qualified to perform high complexity clinical laboratory testing.
+equired information for predictive/prognostic markers: 1. Type of specimen fixation and detection system:
+Tissue is fixed in 10% formalin. Indirect biotin-free detection kit is used. 2. Clones used: ER (clone 6F11) Novocastra; PR (clone PGR 636)
+DakoCytomation; CD117 (polyclonal, DakoCytomation); HER2 (clone 485, Ventana, FDA approved); KL-67 (clone K3, Cell Marque) p53 (cione DO7,
+Novocastra), MSH6 (clone BC-44, Biocare), MSH2 (CellMarque clone G219-1129), MLH1 (Cell Marque clone G168-728), PMS2 (clone MRQ-28, Cell
+Marque). 3. Criteria for positive results: ER and PR: 21% of tumor cells with nuclear staining; HER2: >30% of cells show complete membrane staining;
+p53: 210% of tumor cells with nuclear staining; MMR Proteins: complete absence of tumor nuclear staining.
+CPT Code(s)
+A: 88307, 88342,
+B: 88307, 88342,
+C: 88305
+D: 88307, 3260F
+Procedures/Addenda
+ADDENDUM
+Addendum Comment
+Gross Description
+Specimen D is received in formalin labeled left breast, suture = axillary tail.
+Specimen type:
+Specimen size/description:
+Laterality:
+Tumor size:
+Tumor site:
+Tumor description:
+Deep margin:
+Nipple/areolar complex::
+Mastectomy without axillary tail and without pectoralis muscle. The specimen is oriented.
+by the surgeon as follows: suture = axillary tail.
+. 755 gm. SI 17.5 cm, ML 16.5 cm, AP 6.0 cm.
+Left.
+3.0 x 2.5 x 2.0 cm.
+Upper inner quadrant, 10-11 o'clock.
+Stellate, gritty, tan-white with a central 1.0 x 1.0 x 0.7 cm hemorrhagic ill-defined biopsy
+site.
+1.5 cm.
+The areola measures 3.5 cm with a centrally retracted 0.6 x 0.6 cm nipple. There is a 5.5
+× 4.0 cm area of blue dye superior the nipple/areolar area.
+Page 2 of 5
+Skin:
+PHD HISTOLOGY REPORT
+The ellipse measures 22.0 x 10.5 cm.
+Lymph node sampling:
+Not applicable.
+Other:
+Sectioning of the surrounding breast tissue shows predominantly yellow lobular adipose
+tissue admixed with dense, granular cystic breast tissue.
+Sections are submitted as follows:
+(D1, 2) Nipple
+(D3-7) Mass
+(D8, 9) Upper inner quadrant
+(D10, 11)
+Lower inner quadrant
+(D12, 13)
+Lower outer quadrant
+(D14, 15)
+Upper outer quadrant
+(D16, 17)
+Deep margin.
+EO:vyb
+***Electronically Reviewed and Signed Out By
+ADDENDUM
+Addendum Diagnosis
+D) BREAST, LEFT, TOTAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA, 3.0 CM, LOW COMBINED HISTOLOGIC GRADE WITH LOW
+PROLIFERATIVE RATE.
+SURGICAL MARGINS NEGATIVE FOR TUMOR (SEE COMMENT).
+Addendum Comment
+Summary of Pathologic Findings
+Breast Carcinoma
+Microscopic Examination
+Specimen:
+Procedure:
+Lymph node sampling:
+Specimen integrity:
+Specimen size:
+Laterality:
+Tumor site:
+Total breast.
+Total mastectomy.
+Sentinel node biopsies.
+Single intact specimen.
+17.5 cm greatest dimension.
+Left.
+Upper inner quadrant, 9-10 o'clock position per previous diagnostic core biopsy.
+Size of Invasive component: 3.0 cm greatest dimension.
+Tumor focality:
+Single focus.
+Page 3 of 5
+PHD HISTOLOGY REPORT
+Macroscopic and microscopic extent of tumor:
+Skin:
+Uninvolved.
+Nipple:
+Paget disease absent.
+Skeletal muscle:
+Not present.
+Histologic type:
+Invasive lobular carcinoma.
+Combined histologic grade: Low combined histologic grade with low proliferative rate.
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic count:
+Total Nottingham score:
+Lymph-vascular invasion:
+3.
+1.
+1 (field area 0.23 mm²).
+5.
+Absent.
+Ductal carcinoma in situ:
+Absent.
+Extensive intraductal component (EIC):
+Extent:
+Not applicable.
+Not applicable..
+Lobular carcinoma in situ:
+Absent. There are focal areas of atypical lobular hyperplasia.
+Deep margin: Not involved.
+Lymph nodes:
+Number of sentinel nodes examined:
+Total number of nodes examined:
+Number of nodes with macrometastasis:
+3.
+Number of nodes with micrometastasis:
+Number of nodes with isolated tumor cells: 0.
+2377
+1.
+2.
+Size of largest metastatic deposit:
+Extracapsular extension:
+9 mm.
+Negative:
+Method of evaluation of sentinel lymph nodes:
+Three 80 um interval H&E stained sections and two 80 um interval cytokeratin AE1/AE3 immunohistochemical
+stains on all sentinel lymph node blocks.
+TNM stage:
+pT2 N1a.
+Ancillary studies (estrogen receptor, progesterone receptor, HER2/neu and Ki-67):
+Performed on previous specimen,
+see report for results.
+ADDENDUM
+***Electronically Reviewed and Signed Out By
+Page 4 of 5
+PHD HISTOLOGY REPORT
+Addendum Comment
+Total fixation time in formalin: 31.0 hours.
+***Electronically Reviewed and Signed Out By
+END OF REPORT
+Page 5 of 5

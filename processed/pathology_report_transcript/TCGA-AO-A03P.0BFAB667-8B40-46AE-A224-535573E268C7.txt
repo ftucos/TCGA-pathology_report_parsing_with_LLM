@@ -1,0 +1,296 @@
+Clinical Diagnosis & History:
+y/o female with two foci of carcinoma right breast 10:00/subareolar (FNA
+malignant) and 11:00/UOQ (core biopsy 
+invasive ductal carcinoma).
+wide excision, SLNB, possible 
+ALND.
+Specimens Submitted:
+1: SP: Sentinel node #231 level one right axilla (fs) (.
+2: SP: Sentinel node #232, level one right axilla (fs)
+3: SP: Wide excision of tumor right breast 10:00 (
+For right
+UUID:0BFAB667-8840-46AE-A224-535573E268C7
+TCGA-A0-A03P-01A-PR
+DIAGNOSIS:
+1)
+SENTINEL LYMPH NODE #1, LEVEL I, RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH 
+NODE.
+DEEPER LEVEL RECUTS AND SPECIAL STAINS HAVE BEEN ORDERED.
+RESULTS 
+WILL BE REPORTED IN 
+AN ADDENDUM.
+THE
+2)
+SENTINEL LYMPH NODE #232, LEVEL I, RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH 
+NODE.
+- DEEPER LEVEL RECUTS AND SPECIAL STAINS HAVE BEEN ORDERED.
+RESULTS 
+WILL BE REPORTED IN 
+AN ADDENDUM.
+3)
+BREAST, RIGHT, 10:00; WIDE EXCISION:
+THE
+- INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC GRADE III/III (SLIGHT
+OR NO 
+TUBULE FORMATION), NUCLEAR GRADE 
+III/III (MARKED VARIATION IN SIZE AND
+SHAPE), PRESENT AS THREE SEPARATE 
+NODULES, RANGING IN SIZE FROM 1.0 CM UP TO
+3.7 CM.
+-
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE WITH HIGH
+NUCLEAR GRADE AND MINIMAL NECROSIS.
+-
+THE DCIS CONSTITUTES <= 25% OF THE TOTAL TUMOR MASS, AND IS PRESENT
+ADMIXED WITH AND AWAY FROM THE 
+INVASIVE COMPONENT.
+- NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+CARCINOMA.
+- NO VASCULAR INVASION IS NOTED.
+-
+INVASIVE CARCINOMA IS 0.15 CM FROM THE NEAREST (SUPERIOR) MARGIN AND 0.4
+CM 
+FROM THE POSTERIOR MARGIN.
+-
+-
+THE NON-NEOPLASTIC BREAST TISSUE IS UNREMARKABLE.
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+** Continued on next page **
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.7
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIBED
+Yes
+No
+DISQUALIFIED..
+Date Reviewed:
+W 10/21/11
+سال
+10/21/11
+☐
+Page 2 of 5
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), 
+AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+POSITIVE
+Gration:
+Special Stain
+AB1: AB3
+NEG CONT
+IMM RECUT
+AE1:AE3
+AE1:AE3
+NEG CONT
+IMM RECUT
+ER-C
+PR-C
+HER2-C
+NEG CONT
+NEG-HER2
+IMM RECUT
+Comment
+1)
+The specimen is received fresh for frozen section diagnosis, labeled,
+"Sentinel 
+node #1, level one, right axilla
+".
+node, measuring 0.8 x 0.7 x 0.5 cm.
+It consists of a single lymph
+The lymph node is bisected and entirely
+frozen.
+Summary of Sections:
+FSC frozen section control
+2)
+The specimen is received fresh for frozen section diagnosis, labeled,
+"Sentinel 
+node #2, level one, 
+right axilla".
+node, measuring 0.5 x 0.5 x 0.5 cm.
+It consists of a single lymph
+Bisected and entirely submitted.
+Summary of Sections:
+FSC
+frozen section control
+3)
+It
+The specimen is received fresh, labeled, "Wide excision of tumor
+right 
+breast 10:00 (short 
+stitch superior, long stitch lateral)".
+consists of an ovoid to 
+irregular piece of yellow lobulated adipose tissue,
+measuring about 9.5 x 7.5 x 4.0 
+cm in greatest dimension.
+oriented 
+with a short stitch at the superior aspect and a long stitch at the
+The specimen is
+lateral margin. The specimen is inked 
+as follows: superior-blue,
+** Continued on next page **
+inferior-red, posterior-black, anterior-yellow.
+Cut
+About 1.0
+Page 3 of 5
+breast reveal large centrally located 3.7 x 2.5 x 2.0 cm fairly
+Serial sections 
+of the
+well-circumscribed, tan 
+lesion, located about 1.0 cm from the superior,
+inferior, and medial margins. The 
+tumor is closest to the anterior and
+posterior margin and is at a 
+distance of 0.5 cm from either of them.
+surface of the tumor 
+reveals a tan, slightly granular appearance.
+cm superior and lateral to the 
+main mass are two smaller well-circumscribed
+nodules, the larger of which measures 
+2.2 x 1.3 x 1.0 cm.
+well-
+circumscribed nodule is < 0.2 cm from the superior margin and is
+This fairly
+located about 1.0 cm from the 
+lateral and 0.5 cm from the posterior margin.
+About 0.5 cm lateral to this nodule is 
+the smallest nodule measuring about
+1.0 cm in diameter. The smallest 
+nodule is located 0.2 cm from the superior
+and 0.5 cm from the lateral margin. 
+The remaining portion of the breast
+parenchyma is composed of yellow 
+lobulated adipose tissue.
+sections of the 
+specimen are submitted as follows.
+Representative
+Summary of Sections:
+MM
+LM
+T1
+T2
+T3
+R
+medial margin
+lateral margin
+largest centrally located nodule
+larger of the smaller nodules located lateral to the main mass
+the smallest nodule
+representative sections of the remaining breast tissue
+Summary of Sections:
+Part 1:
+SP: Sentinel node #1 level one right axilla (fs) (
+Block
+1
+0
+Part 2:
+Block
+1
+Part 3:
+Block
+3
+2
+2
+5
+2
+3
+Sect. Site
+FSC
+PCs
+1
+SP: Sentinel node #2, level one right axilla (fs)
+Sect. Site
+PSC
+PCS
+1
+SP: Wide excision of tumor right breast 10:00
+Sect. Site
+LM
+MM
+R
+T1
+T2
+T3
+Procedures/Addenda:
+Addendum
+PCs
+9
+6
+3
+523
+** Continued on next page
+**
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Page 1 or
+Status:
+By:
+Signed Out
+SITE: SENTINEL LYMPH NODE, RIGHT AXILLA
+PART #1, AND 2.
+PART #1.
+METASTATIC CARCINOMA IN THE FORM OF MICROSCOPIC CLUSTERS AND SINGLE CELLS
+MEASURING LESS THAN 2MM (
+MICROMETASTASIS), IS IDENTIFIED ON CYTOKERATIN
+IMMUNOHISTOCHEMICAL STAINS 
+ONLY.
+PART #2.
+ONE ISOLATED CYTOKERATIN-POSITIVE CELL IS PRESENT.
+IDENTIFIED 
+ON THE H&R STAINED SECTIONS.
+THESE CELLS ARE NOT
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Status: Signed Out
+By:
+SITE: RIGHT BREAST
+ER: >95% OF NUCLEAR STAINING WITH STRONG INTENSITY.
+PR: 40% OF 
+NUCLEAR STAINING WITH MODERATE INTENSITY.
+HER2/NEU 
+(HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 0).
+CONTROLS ARE SATISFACTORY
+.
+M.D.
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+tissue sample examined 
+at the time of the intraoperative
+** Continued on next page **
+1)
+2) '
+consultation.
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+NO TUMOR IDENTIFIED.
+SAME.
+NO TUMOR IDENTIFIED.
+SAME.
+⭑⭑
+End of Report **
+"Page 5 of

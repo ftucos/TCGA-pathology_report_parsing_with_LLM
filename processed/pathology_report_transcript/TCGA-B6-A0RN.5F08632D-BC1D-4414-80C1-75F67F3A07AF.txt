@@ -1,0 +1,69 @@
+Patient
+Surgical
+Surg Path
+ILD-U-2
+Carcinoma, duct, Nos 8500/3
+breast, Nos
+Site Code
+050.9
+11/21/1
+fu
+CLINICAL HISTORY:
+Breast cancer.
+GROSS EXAMINATION:
+A. "Breast tissue long stitch lateral, short stitch superior", in formalin.
+Tissue has been sent for ER/PR studies. A 5 x 8.5 x 5 cm fragment of breast
+tissue and ellipse of skin measuring 5 x 1 cm. The specimen is oriented such
+that a long surgical suture is present at the lateral side of breast tissue
+and a short surgical suture demarcates the superior portion of the specimen.
+The external surface of the specimen is inked in blue. The specimen has been
+previously sectioned revealing a densely fibrotic area of tissue with a
+central reddish-brown nodule measuring 1.5 x 0.8 x 0.6 cm. Th reddish nodule
+is 0.1 cm from the closest surgical margin.
+Block Summary:
+Al- representative sections of skin.
+A2-A15- sections of biopsy cavity and nodule.
+A16-A20- representative sections of remaining breast tissue.
+B. "Apex axillary nodes", fresh. A 0.3 × 0.2 x 0.2 cm fragment of reddish-tan
+tissue submitted in toto in Block B1.
+C. "Axillary dissection", fresh. A 6 × 6 × 2 cm aggregate of fibroadipose
+tissue. The specimen is oriented.
+Block Summary:
+C1-C5- lymph node candidates.
+C6-C10- remaining fibroadipose tissue.
+UUID:5F08632D-BC1D-4414-80C1-75F67F3A07AF
+TCGA-B6-AØRN-01A-PR
+Redacted
+MICROSCOPIC EXAMINATION:
+The tumor resemble that seen in the previous needle biopsies
+Most of the tumor consists of nests and cords of relatively large atypical
+cells with round to oval vesicular nuclei and inconspicuous nucleoli and
+vaculoated cytoplasm. Although most of the tumor consists of solid nests and
+strands, a few tubules are seen. There is a cribriform intraductal component.
+Unequivocal vascular invasion is not identified. There is virtually no
+inflammatory response. Microcalcifications are seen within benign lobules.
+DIAGNOSIS:
+A. "BREAST TISSUE, LONG STITCH LATERAL, SHORT STITCH SUPERIOR":
+BREAST WITH INFILTRATING DUCTAL CARCINOMA, 1.5 CM IN MAXIMUM DIMENTSION,
+NSABP HISTOLOGIC GRADE 2, NUCLEAR GRADE MODERATELY DIFFERENTIATED.
+INVASIVE CARCINOMA IS PRESENT IN THE INKED SURGICAL MARGIN IN BLOCKS A5
+AND All.
+NO VASCULAR INVASION IS IDENTIFIED.
+B. "APEX AXILLARY NODES":
+ONE LYMPH NODE, NO TUMOR SEEN.
+C. "AXILLARY DISSECTION":
+EIGHTEEN LYMPH NODES, NO TUMOR SEEN.
+Criteria
+YLj
+New
+Diagnosis Discrepancy
+Primary Tumer Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy History
+Dual/Synchronou: Primary Noted
+Case is (circle):
+Reviewer Inti
+NIFIED
+DISQUALIFIED
+awed:
+1 of 2

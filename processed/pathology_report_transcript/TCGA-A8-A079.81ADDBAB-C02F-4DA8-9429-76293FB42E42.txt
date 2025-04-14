@@ -1,0 +1,32 @@
+Path
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Site: breast, 40Q, C50.4
+CQCF Site: breast, Nos C50.9
+1/25/11
+سلام
+Diagnosis:
+Ablated breast sample with a multifocal poorly differentiated invasive ductal
+carcinoma (tumor diameter: 7 cm, 2.2 cm and 1.7 cm), the largest tumor focus with
+focal ulceration of the skin and circumscribed intraductal spread. Focal
+angioinvasion. Tumor-free dorsal resection margin.
+Together with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G III, pT4b(mult)N3aL1VORO.
+UUID:81ADDBAB-C02F-4DA8-9429-76293FB42E42
+TCGA-A8-
+A079-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case (circle):
+Reviewer is
+QUALIFIED
+Date Reviewed:
+Yes
+NO
+DISQUALIFIED
+5/371

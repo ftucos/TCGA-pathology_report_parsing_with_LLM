@@ -1,0 +1,237 @@
+UUID:2BE28F5D-2DBB-476F-9AFF-6B2103ECFOCE
+TCGA-A7-A0CG-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, infiltrating duct and lobular 8522/3
+Site: breast, Nos C50.9
+w 9/3/11
+SPECIMEN
+A. Right axillary sentinel lymph node
+B.
+Left axillary sentinel lymph node
+C. Right breast biopsy stitch is long anterior, short superior
+D. Left breast biopsy
+superior
+E.
+Superior margin
+CLINICAL NOTES
+CLINICAL HISTORY:
+-
+long stitch anterior, short stitch
+long stich anterior, short stitch superior
+-year-old white female with lobular carcinoma.
+PRE-OP DIAGNOSIS: Left breast cancer. POST-OP DIAGNOSIS: Left
+breast cancer.
+FROZEN SECTION DIAGNOSIS
+AFS1-AFS3:
+Right axillary sentinel node.
+-No metastasis identified in 4 nodes. ( 0/4)
+BFS1, BFS2: Left axillary sentinel lymph node, excision.
+-No metastasis identified in 1 node. (0/1)
+GROSS DESCRIPTION
+medical
+A. Container A is labeled with the patient's name,
+record number and "right axillary sentinel lymph node".
+The specimen container holds a single piece of fibrofatty tissue.
+When dissected, there are four separate lymph nodes. The largest
+measures 1.8 × 1.5 x 1 cm. The remainder three smaller lymph nodes
+average 0.3 cm. AS-AFS1, AFS2 One lymph node bisected; AFS3
+three remaining nodes.
+-
+-
+B. Container B is labeled "left axillary sentinel lymph
+node". The specimen container holds a single rubbery tan
+lymph node, measuring 1.5 x 1 x 1 cm. AS-Block BFS-1, BFS-2
+Bisected.
+C. Container C is labeled with the patient's name,
+medical
+GROSS DESCRIPTION
+-
+record number and "right breast". The specimen container
+holds a single piece of fatty tissue, oriented by two sutures and
+measuring 5 cm. from medial to lateral, 3.1 cm. from anterior to
+posterior and 3 cm. from superior to inferior. The specimen
+margins
+are inked as follows:
+superior,
+Blue-anterior, black-posterior, red-
+green-inferior, yellow-medial, orange-lateral. The specimen is
+serially sectioned. On cut section, there is a firm tan mass,
+measuring 2.1 x 1.8 x 1.5 cm., located approximately 3 mm. from the
+inferior margin of resection.
+cm
+the
+ASC1-C15.
+D. Received fresh labeled "left breast biopsy" is a 4.5
+(anterior to posterior) x 4.3 cm (medial to lateral) x 2.1
+cm (superior to inferior) diffusely cauterized soft, lobulated,
+tan-gold-white portion of fibroadipose tissue with two sutures, as
+stated previously. The superior surface appears in keeping with
+-
+-
+lining of a prior breast biopsy. The margins are inked as follows:
+Superior blue, inferior black, medial
+green, and lateral
+orange. The specimen is sectioned from anterior to posterior.
+surfaces throughout the specimen consist predominantly of
+glistening
+Cut
+lobulated golden yellow adipose tissue with a moderate amount of
+interspersed dense, focally nodular, tan-white fibrous tissue. No
+definitive mass lesion is noted. The specimen is entirely
+submitted
+in a sequential manner from anterior to posterior in 9 blocks, as
+labeled. AS-9.
+E. Received fresh labeled "superior margin" is a 2.5 cm
+(anterior to posterior) x 1.8 cm (medial to lateral) x 1.7
+cm (superior to inferior) soft, lobulated tan-gold-white portion of
+fibroadipose tissue with two sutures, as stated previously. The
+margins are inked as follows: Superior - blue, inferior black,
+medial
+green, and lateral orange. The specimen is sectioned
+from anterior to posterior. The cut surfaces consist predominantly
+of glistening lobulated golden yellow adipose tissue with a
+moderate
+-
+amount of interspersed tan-white fibrous tissue. No discrete mass
+lesion or abnormality is identified. The specimen is entirely
+GROSS DESCRIPTION
+submitted in a sequential manner from anterior to posterior in five
+blocks, as labeled.
+BLOCK SUMMARY: 1
+-
+حيت
+AS-5.
+Perpendicular sections entire anterior margin
+cap, 2-4
+sequential sections, 5
+posterior margin cap.
+-
+perpendicular sections entire
+MICROSCOPIC DESCRIPTION
+A. Sections of the right axillary sentinel lymph node
+demonstrate no evidence of metastasis in four lymph nodes.
+The lymph nodes in sections ASF1 through ASF3 were examined by
+multi-level sectioning with H&E stain, as well as the
+immunohistochemistry for pankeratin.
+Sections
+B.
+The left axillary sentinel lymph node demonstrates no
+evidence of metastatic disease in one lymph node.
+BFS1 and BFS2 are examined by multi-level sectioning with H&E
+staining as well as the immunohistochemistry for pankeratin.
+C. The following template applies to the right breast
+biopsy:
+Invasive Carcinoma: Present
+Histologic type: Mixed infiltrating lobular and grade I ductal
+carcinoma
+Histologic grade:
+Overall grade: 1
+Architectural score: 3
+Nuclear score: 1
+Mitotic score: 1
+Greatest dimension (PT): 2.3 cm (pT2)
+Specimen margins: Extremely close. invasive carcinoma is 0.9 mm
+from the lateral margin (orange ink block C12).
+MICROSCOPIC DESCRIPTION
+Vessel invasion: Not identified.
+Calcification: Present.
+Ductal carcinoma in situ:
+Present.
+Histologic pattern: Solid.
+Nuclear grade: 2.
+Central necrosis: Not identified.
+% DCIS of total tumor (if mixed): Less than 5%.
+Extensive intraductal component (present/absent):
+Specimen margins: Negative.
+Calcification: Present.
+Absent.
+Description of non-tumorous breast: Extensive proliferative
+changes.
+Comments: None.
+Prognostic markers:
+Previously reported.
+D. The following template applies to the left breast
+biopsy.
+Invasive Carcinoma:
+Not identified.
+Ductal carcinoma in situ: Present.
+Histologic pattern: Cribriform.
+Nuclear grade: 2.
+Central necrosis: Not identified.
+Tumor size (if pure in situ): Less than 2 mm.
+Specimen margins: Negative, nearest greater than 2 mm.
+Calcification: Not identified.
+Description of non-tumorous breast: Extensive proliferative
+fibrocystic changes and extensive lobular carcinoma in situ.
+Comments: E-cadherin stain was performed and demonstrates lack of
+MICROSCOPIC DESCRIPTION
+membranous staining within foci of lobular carcinoma in situ in
+blocks D5 and D7.
+E. The following template applies to the superior margin
+of the left breast.
+Invasive Carcinoma: Present.
+Histologic type: Mixed grade 1 ductal and invasive lobular
+carcinoma.
+Histologic grade:
+Overall grade:
+1.
+Architectural score: 3.
+Nuclear score: 1.
+Mitotic score: 1.
+Greatest dimension (PT):
+1.2 cm (pT1).
+Specimen margins: Positive, invasive carcinoma extends to the
+green and black ink representing medial and inferior margins.
+Vessel invasion: Not identified.
+Calcification: Present.
+Ductal carcinoma in situ: Not identified.
+Comments: Immunohistochemical stain for pankeratin was utilized on
+two blocks to highlight the extent of tumor and the relationship to
+the margins.
+Prognostic markers:
+14x2, 15x3, 4×5, 20X9
+DIAGNOSIS
+Previously performed.
+A. Right axillary sentinel lymph nodes, resection:
+No evidence of metastasis to four lymph nodes (0/4).
+B. Left axillary sentinel lymph node, resection:
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+C.
+D.
+E.
+No evidence of metastasis to one lymph node (0/1).
+Right breast, excisional biopsy:
+Infiltrating ductal carcinoma, mixed grade 1 ductal and
+lobular carcinoma, 2.3 cm in greatest dimensions.
+Invasive carcinoma 0.9 mm from the lateral margin.
+Ductal carcinoma in situ, solid and cribriform in subtype,
+nuclear grade 2, surgical margins negative.
+Left breast, excisional biopsy:
+Ductal carcinoma in situ, nuclear grade 2, cribriform and in
+solid subtype, less than 2 mm.
+In situ carcinoma 2 mm from the surgical margin.
+Proliferative fibrocystic changes and extensive lobular
+carcinoma in situ.
+Left breast, superior margin, excisional biopsy:
+Infiltrating carcinoma, mixed grade 1 ductal and invasive
+lobular carcinoma, 1.2 cm.
+Invasive carcinoma extends to the medial and inferior margins
+of resection.
+M.D, (Electronic Signature)
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tu.nor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+/ DISQUALIFIED
+Date Reviewed:
+19/3/11
+15

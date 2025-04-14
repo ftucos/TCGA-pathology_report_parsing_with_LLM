@@ -1,0 +1,171 @@
+UUID:C8C49D41-AA66-435B-9312-FAD8E2DC3305
+TCGA-A7-A4SE-01A-PR
+Redacted
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Breast, left, segmental mastectomy: Invasive ductal carcinoma,
+grade 3, size 2.8 cm in greatest dimension; negative margins of
+excision.
+B. Sentinel lymph node #1, biopsy: Two negative lymph nodes (0/2).
+C. Sentinel lymph node #2, biopsy: One negative lymph node (0/1).
+D. Breast, medial to left segmental mastectomy, biopsy: Negative for
+malignancy or atypia.
+E. Breast, inferior to left segmental mastectomy, biopsy: Negative
+for malignancy or atypia.
+F. Breast, posterior to left segmental mastectomy, biopsy:
+muscle; negative for malignancy or atypia.
+Skeletal
+G. Breast, lateral to left segmental mastectomy, biopsy: Negative
+for malignancy or atypia.
+H. Breast, superior to left segmental mastectomy, biopsy: Negative
+for malignancy or atypia.
+Microscopic Description:
+Invasive Carcinoma:
+Histologic type:
+Ductal
+Histologic grade: 3
+ICD-0-3
+Overall grade: 9/9
+Architectural score: 3
+carcinoma, infiltrating duct, Nos.
+Site: breast, NoS 050.9
+850013
+Nuclear score: 3
+3
+Mitotic score:
+Greatest dimension (PT): 2.8 cm
+Specimen margins: Negative
+Vessel invasion: Not identified
+Calcification: Present
+Ductal carcinoma in situ:
+Histologic pattern:
+Nuclear grade: 3
+Solid
+Central Necrosis: Present
+% DCIS of total tumor (if mixed): 18
+Extensive intraductal component (present/absent):
+Specimen margins: Negative
+Calcification:
+Negative
+Description of non-tumorous breast:
+Absent
+Fibrocystic changes, with ductal
+hyperplasia of usual type, a minute fibroadenoma, and apocrine
+metaplasia, with calcification.
+Comments: Sentinel lymph nodes negative, confirmed by negative
+cytokeratin immunostaining of blocks BFS1 and CFS2. Cytokeratin
+staining was also performed on one block from part E, to exclude
+involvement by carcinoma. Prior biopsy site identified. Extensive
+central tumor necrosis is present.
+Prognostic markers: See core biopsy report,
+4x8, 14x2, 15x2, 20x3
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature. They have not
+been cleared or approved by the FDA.]
+سلام
+10/27/12
+Specimen
+A. Left Breast
+B. Left axillary sentinel lymph node #1, hot, blue,
+C. Left axillary sentinel lymph node #2, not hot, not blue, but
+palpable
+D. Medial to segmental mastectomy left breast
+E. Inferior to segmental mastectomy left breast
+F. Posterior to segmental mastectomy left breast
+G. Lateral to segmental mastectomy left breast
+H. Superior to segmental mastectomy left breast
+Clinical Information
+Left breast cancer
+Intraoperative Consultation
+B) Left axillary sentinel node #1: Two negative lymph nodes (0/2).
+C) Left axillary sentinel node #2, biopsy: One negative lymph node
+(0/1).
+Gross Description
+A. Received unfixed for tissue procurement, labeled left breast
+segmental mastectomy single long lateral, double long anterior, is
+a 100 gram breast segmental excision that is 9 cm from anterior to
+posterior, 7.5 cm medial to lateral, and 3 cm from superior to
+inferior. The superior surface is inked black, and a section is
+submitted for tissue procurement as requested. An additional
+section of uninvolved fatty tissue is submitted from the posterior
+The
+aspect, for procurement. Additional sections after fixation.
+superior surface is inked black, medial green, lateral yellow,
+inferior blue. There is a tan, firm, lobulated mass lesion in the
+mid-portion of the specimen, 3.0 x 2.0 x 1.7 cm. This is 3 mm from
+the green-inked medial margin (closest margin). All other margins
+are grossly greater than 1 cm from the mass. Representative
+sections: 1 Anterior margin, 2 adjacent section with margin, 3/4/5
+contiguous tumor, possible biopsy cavity in 5, 6/7/8 contiguous,
+9-10 random medial and lateral, possible close margin, 11-14
+additional posterior sections, with last section = posterior
+margin.
+B. Received unfixed for frozen section, labeled left axillary
+sentinel node #231, are 2 adjacent and attached lymph nodes, 0.9 cm
+in greatest dimension each, bisected and entirely submitted in
+blocks B1 and B2.
+C. Received unfixed for frozen section, labeled left axillary
+sentinel node #2, is a single lymph node, 1.4 x 1.3 x 1.0 cm,
+bisected and entirely submitted in 2 blocks.
+D. Received fresh and subsequently fixed in formalin labeled "medial
+to segmental mastectomy left breast "is a 5.2 x 3.5 x 1.5 cm yellow
+lobular fatty tissue fragment which has a suture designating the
+new medial border. The surface is inked and the specimen is
+sectioned to show yellow lobular fatty cut surface with minimal
+fibrous tissue present. No discrete residual tumor is grossly
+identified. The specimen is entirely submitted labeled 1 through
+10.
+E. Received fresh and subsequently fixed in formalin labeled
+"inferior to segmental mastectomy left breast "is a 4.3 x 2.7 x 2.2
+cm yellow lobular fatty tissue fragment which has a suture
+designating new inferior border. The surface is inked and the
+specimen is sectioned to show yellow lobular fatty cut surface with
+minimal fibrous tissue present. No residual tumor is grossly
+identified. The specimen is entirely submitted labeled 1 through 9.
+F. Received fresh and subsequently fixed in formalin labeled
+"posterior to segmental mastectomy left breast "is a 3.2 x 2.5 x
+1.0 cm yellow lobular fatty tissue fragment which is partially
+covered with 
+skeletal muscle. There is a suture designating the new
+posterior margin. 
+The surface is inked and the specimen is
+sectioned to show a yellow lobular fatty cut surface with scanty
+fibrous tissue 
+present. The specimen is entirely submitted in 5
+cassettes.
+G. Received fresh and subsequently fixed in formalin labeled "lateral
+to 
+segmental mastectomy left breast "is a 4.3 x 3.5 x 1.5 cm yellow
+lobular 
+fatty tissue fragment. There is a suture designating the
+new lateral 
+border. The surface is inked and the specimen is
+sectioned to show yellow lobular fatty cut surface with minimal
+fibrous 
+tissue present. No residual tumor is grossly identified.
+The specimen 
+is entirely submitted in 9 cassettes.
+H. Received fresh and subsequently fixed in formalin labeled
+"
+superior segmental mastectomy left breast "is a 4.3 x 2.2 x 1.0 cm
+yellow lobular fatty tissue fragment which has a suture designating
+the new superior 
+border. This is inked and the specimen is
+sectioned to show yellow lobular fatty cut surface with scanty
+fibrous tissue 
+present. The specimen is entirely submitted in 4
+cassettes.
+Criteria
+Diagnosis Discrepancy
+Primary an.or site Dircrepancy
+Hiscrepancy
+ancy history
+Yes
+No')
+Rated
+DISQUALIFIED
+Date Reviewed:
+10/2017/12

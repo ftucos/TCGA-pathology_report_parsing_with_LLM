@@ -1,0 +1,425 @@
+**ADDENDUM**
+Clinical Diagnosis and History:
+Patient with left breast mass. Core biopsy IFDC for TM/SLN
+biopsy right 
+mastectomy to be performed prophylactically
+secondary to RT 
+exposure in past.
+Specimens Submitted:
+1: SP: Sentinel node #231, level 1, 1t. axilla (fs)
+2: SP: Sentinel node #232,
+3: SP: Sentinel node #3.
+4: SP: Lt. breast
+5: SP: Right breast
+level 1, 1t. axilla (fs)
+level 2, 1t. axilla (fs)
+6: SP: Non-sentinel node reft axilla
+7: SP: Sentinel node #1, rt. axilla
+DIAGNOSIS:
+1)
+UUID:A8AF94A0-F3C2-4ABO-ABOC-22BDAS1AF546
+TCGA-A0-A03U-01A-PR
+Redacted
+2)
+3)
+4)
+-
+LYMPH NODE, SENTINEL #1, LEVEL I, LEFT AXILLA; BIOPSY:
+ONE 
+BENIGN LYMPH NODE (0/1). DEEPER LEVEL RECUTS AND
+SPECIAL STAINS HAVE BEEN ORDERED. THE RESULTS WILL BE
+REPORTED IN AN ADDENDUM.
+LYMPH NODES, SENTINEL #232, LEVEL I, LEFT AXILLA; BIOPSY:
+FOUR 
+BENIGN LYMPH NODES (0/4). DEEPER LEVEL RECUTS AND
+SPECIAL 
+STAINS 
+HAVE BEEN ORDERED. THE RESULTS WILL BE
+REPORTED 
+IN AN ADDENDUM.
+LYMPH NODE, SENTINEL #23, LEVEL II, LEFT AXILLA; BIOPSY:
+- ONE 
+BENIGN LYMPH NODE (0/1). DEEPER LEVEL RECUTS AND
+SPECIAL STAINS HAVE BEEN ORDERED. THE RESULTS WILL BE
+REPORTED IN AN ADDENDUM.
+BREAST, LEFT; MASTECTOMY:
+-
+INVASIVE DUCTAL CARCINOMA, SECRETORY TYPE, MEASURING 1.8
+CM 
+IN LARGEST 
+DIMENSION MICROSCOPICALLY.
+-
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, ALSO
+SECRETORY 
+TYPE
+. THE DCIS CONSTITUTES >= 25% OF THE TOTAL
+TUMOR 
+MASS, AND IS PRESENT ADMIXED WITH AND AWAY FROM THE
+INVASIVE COMPONENT.
+-
+THE INVASIVE CARCINOMA IS LOCATED IN THE CENTRAL AREA.
+THE DCIS IS LOCATED IN THE LOWER OUTER QUADRANT, LOWER INNER
+QUADRANT AND 
+CENTRAL AREA.
+- NO INVOLVEMENT OF THE NIPPLE BY BITHER IN SITU OR INVASIVE
+CARCINOMA IS 
+IDENTIFIED.
+NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR
+PATH
+** Continued on next page **
+REPORT
+11
+ICD-0-3
+carcinoma infiltrating suretory type 8502/3
+Site: breast, NUS
+050.9
+سر
+10/21/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous 
+Fruary Notes
+Case is (circle):
+Reviewer 
+Initials,
+QUALIFIED
+Yes
+No
+Date Reviewed: 2
+DISQUALIFIED
+w 10/20/11
+5)
+6)
+7)
+IN SITU CARCINOMA.
+- NO VASCULAR INVASION IS NOTED.
+Page 2 of 6
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE
+OR IN SITU CARCINOMA IS IDENTIFIED.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+- THE NON-NEOPLASTIC BREAST TISSUE SHOWS FIBROADENOMATOID
+CHANGES.
+-
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE
+REPORTED AS AN ADDENDUM.
+BREAST, RIGHT; MASTECTOMY:
+BENIGN BREAST TISSUE WITH ADENOSIS AND FOCAL DUCTAL
+HYPERPLASIA WITHOUT ATYPIA.
+LYMPH NODES, NON-SENTINEL, LEFT AXILLA; BIOPSY:
+- TWO BENIGN LYMPH NODES (0/2).
+LYMPH NODE, SENTINEL #1, RIGHT AXILLA; BIOPSY:
+-
+ONE BENIGN LYMPH NODE (0/1). DEEPER LEVEL RECUTS AND
+SPECIAL STAINS HAVE BEEN ORDERED. THE RESULTS WILL BE
+REPORTED IN AN ADDENDUM.
+** Report Electronically Signed Out
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION
+OF THE SLIDES (AND/OR OTHER
+MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT.
+Special Studies:
+Stain/Procedure Name
+Result
+Comment
+KERATIN (CAM5.2)
+AE1: AB3
+NEGATIVE
+NEGATIVE
+NEGATIVE CONTROL
+IMMUNO RECUT
+KERATIN (CAM5.2)
+NEGATIVE
+AE1:AE3
+NEGATIVE
+NEGATIVE CONTROL
+IMMUNO RECUT
+KERATIN (CAM5.2)
+NEGATIVE
+AE1:AE3
+NEGATIVE
+NEGATIVE CONTROL
+IMMUNO RECUT
+KERATIN (CAM5.2)
+AE1: AE3
+NEGATIVE
+NEGATIVE
+NEGATIVE CONTROL
+IMMUNO RECUT
+RECUT ADDITIONAL HE
+ESTROGEN RECEPTOR
+PROGESTERONE RECEPTOR
+NEGATIVE
+NEGATIVE
+PATH
+REPORT
+** Continued on next page **
+11
+HER2-C
+NEGATIVE CONTROL FOR HER2
+NEGATIVE CONTROL
+IMMUNO RECUT
+RECUT ADDITIONAL HE
+Page 3 of
+NEGATIVE
+RECUT ADDITIONAL HE
+RECUT ADDITIONAL HE
+KERATIN (CAM5.2)
+AE1: AE3
+NEGATIVE
+NEGATIVE
+NEGATIVE CONTROL
+IMMUNO RECUT
+Gross Description.
+1) The specimen is received fresh for frozen section, labeled
+"Sentinel 
+Node #1 Level 1 Left Axilla". It consists of a lymph
+node 
+measuring 1 x 0.8 x 0.5 cm. The node is bisected and
+submitted entirely in one cassette.
+Summary of Sections:
+FSC - frozen section control
+2)
+The specimen is received fresh for frozen section, labeled
+"Sentinel Node #232 Level 1 Left Axilla". It consists of a single
+piece of adipose tissue measuring 4 x 4 x 2 cm. Serial
+sectioning of the specimen reveals multiple lymph nodes ranging
+from 0.3 
+up to 0.5 cm in greatest dimension. The lymph nodes
+are 
+submitted in two cassettes.
+Summary of Sections:
+FSCA-B- frozen section controls A and B
+3)
+The specimen is received fresh for frozen section, labeled
+"Sentinel 
+Node 
+#233 Level 2 Left Axilla". It consists of a lymph
+node and 
+adipose tissue. The lymph node measures 2.2 x 1 x 0.6
+cm. 
+The 
+node is submitted in one cassette.
+Summary of Sections:
+FSC frozen section control
+4) The specimen is received fresh, labeled "Left Breast,
+Suture 
+Marks Axillary Tail". It consists of a simple mastectomy
+specimen measuring 
+22 x 22 x 5.2 cm. It has an attached ellipse
+of 
+skin 
+measuring 19.5 x 9.7 cm with a central nipple measuring
+** Continued on next page **
+PATH
+REPORT
+11
+Page 4 of 6
+1.0 cm in diameter and 0.4 cm in height. The skin, nipple and
+areola are grossly unremarkable. The specimen is serially
+sectioned to reveal in the central area, a 1.8 x 1.7 x 1.5 cm
+ill-defined, firm, white nodule. The nodule is located within
+2.0 cm from the closest deep margin and was seen 1.0 cm from the
+nipple. The remaining breast tissue shows few areas of fibrosis.
+Representative sections are submitted.
+Summary of Sections:
+T
+-
+tumor
+DM - deep margin, close to tumor
+UO - upper outer quadrant
+LO
+LI
+UI
+-
+lower outer quadrant
+lower inner quadrant
+upper inner quadrant
+N - nipple
+NB
+nipple base
+S - skin
+5) The specimen is received fresh, labeled "Right breast (suture
+marks axillary tail)". It consists of a total mastectomy
+specimen, 21 x 20.5 x 4.5 cm. A skin is attached inferiorly, 19
+x 8 cm. A nipple is present in the center of the skin, 1.3 cm in
+diameter. A black suture labeled the axillary tail is present.
+The anterior aspect is inked in yellow and the posterior aspect
+is inked in black. Serially sectioned identifies the fibrotic
+area underneath the areola, 3.5 x 3.5 x 3 cm and another fibrotic
+area with blue dye, 4.5 x 3.5 x 3 cm. No, otherwise, apparent
+tumor nodule is identified. Representative sections are
+submitted in 20 cassettes.
+Summary of Sections:
+N
+S
+DM
+F
+-
+D
+ML
+-
+MU
+-
+LL
+-
+LU
+nipple
+- skin
+-
+deep margin
+fibrotic area
+blue dyed area
+medial lower quadrant
+medial upper quadrant
+lateral lower quadrant
+lateral upper quadrant
+6)
+The specimen is received in formalin, labeled "Non-sentinel
+Node Left Axilla". It consists of a single piece of adipose
+tissue measuring 2.5 x 2 x 1 cm. Serial sectioning of the
+specimen reveals two rubbery lymph nodes measuring from 0.5 up to
+1 cm in greatest dimension. The lymph nodes are submitted in one
+cassette.
+Summary of Sections:
+** Continued on next page **
+PATH
+REPORT
+11
+LN- lymph nodes
+Page 5 of 6
+7) The specimen is received in formalin, labeled "Sentinel Node
+#31 Right Axilla". It consists of a single piece of adipose
+tissue measuring 3 × 2 × 1 cm. Serial sectioning of the specimen
+reveals 
+a rubbery lymph node measuring 1.5 x 1 x 0.6 cm. The
+node is bisected. The cut surface of the node is pink to light
+brown. 
+It is submitted in one cassette.
+Summary of Sections:
+LN - lymph nodes
+Summary of Sections:
+Part Sect. Site
+Blocks
+Pieces All
+1
+FSC
+1
+2
+Y
+2
+FSA
+1
+2
+N
+FSB
+1
+2
+3
+FSC
+1
+1
+4
+DM
+1
+1
+Z Z
+N
+N
+LI
+2
+M
+LO
+2
+M
+N
+1
+M
+NB
+1
+1
+S
+T
+UI
+UO
+5
+d
+dm
+f
+11
+lu
+ml
+mu
+14225232222
+1
+M
+M
+M
+M
+2
+3
+2
+6
+7
+..33
+1
+1
+1
+1
+1
+2
+N
+1
+2
+N
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+tissue sample examined at the time of the
+intraoperative consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SAME.
+2)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SAME.
+3)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SAME.
+** Continued on next page **
+PATH
+REPORT
+11
+P95
+ADDENDUM:
+**
+SIGNED OUT
+ADDENDUM REPORT
+SITE:
+SENTINEL LYMPH NODES, RIGHT AND LEFT AXILLA
+PARTS #1,2,3,7.
+ADDITIONAL HE STAINED SECTIONS AND IMMUNOHISTOCHEMICAL
+STAINS FOR CYTOKERATINS (AE1: AB3 AND CAM 5.2) SHOW NO
+EVIDENCE OF METASTATIC TUMOR.
+ADDENDUM REPORT
+Page 6 of 6
+SITE: 4) LEFT BREAST
+ER-ICA:
+NEGATIVE
+PR-ICA: NEGATIVE
+HER2/NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 0).
+CONTROLS ARE SATISFACTORY.
+**
+Report Electronically Signed Out **
+PATH
+REPORT
+** End of Report **
+11
+pg6

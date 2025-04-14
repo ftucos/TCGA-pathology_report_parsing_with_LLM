@@ -1,0 +1,51 @@
+Redacted
+UUID:D77DF136-6F63-4887-8187-6F8F98CC1F44
+TCGA-D8-A4Z1-01A-PR
+Department of Cancer Pathology
+Examination result
+Clinical diagnosis (suspicion): ca mammae dex
+Gender: F
+ICD-0-3
+carcinoma, infiltrating lobular, Nes 8520/3
+Site: breast, NOS
+050.9
+1 1014/12
+Material:
+1) Material: right breast with tumour (+possibly with AXILLARY LYMPH NODES DEPENDING ON THE EXAM. RESULT).
+Method of collection: Breast with no lymph nodes (mastectomia simplex)
+Histopathological Diagnosis:
+Including test No.
+Invasive lobular carcinoma and lobular carcinoma in situ of the right breast. (NHG2, pTlc,
+pN 0 (sn)). (8520/3
+Macroscopic description:
+Right breast, sized 20.4 x 13.8 x 4.6 cm, removed without armpit tissues and with a skin flap of 19.4 x 8.6 cm. Weight
+540 g.
+Tumour sized 1.6 x 1.4 x 1.6 cm in the inner lower quadrant, placed 2.1 cm from the lower edge, 1.6 cm from the base
+and 0.9 cm from the skin.
+Microscopic description:
+Invasive lobular carcinoma - NHG2 (3+2+1/0 mitoses/10 HPF - visual area 0.55 mm) and lobular carcinoma in situ
+with nuclear atypia <10% of the tumour).
+Glandular tissue showing fibrocytoid lesions adenosis, usual ductal hyperplasia, fibroadenoma.
+Invasive lesions removed 1.6 cm from the base.
+Assistant:
+Result of immunohistochemical examination
+Estrogen receptors found in 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained with Ventana's Pathway HER-2/neu (4B5) Rabbit Monoclonal Antibody.
+Negative reaction in invasive cancerous cells (Score: 1+). The expression of proliferating cell nuclear
+antigen Ki 67 in 10% cellular nuclei.
+Assistant:
+CONTACT YOUR DOCTOR WITH THIS Eriteria
+Diagnosis Discrepancy
+Yets
+No
+Primary Tumor Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy History
+Dual/Synchrorous Prim icted
+Case is (circle):
+Reviewerlytials
+QUALIFIED / DISQUALIFIED
+Date viewed:
+10/31/12
+11/4/11/

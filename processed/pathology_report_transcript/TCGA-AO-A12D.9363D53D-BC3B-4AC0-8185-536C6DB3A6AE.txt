@@ -1,0 +1,346 @@
+1
+Clinical Diagnosis & History:
+Core biopsy of left breast shows infiltrating carcinoma with FNA of node
+positive for carcinoma. Right 
+mastectomy is prophylactic.
+Specimens Submitted:
+1: SP: Right breast
+2: SP: Left breast and axillary contents levels 1 and 2
+3: SP: Sentinel node #231 level 1 right axilla
+4: SP: Additional left breast upper flap tissue
+DIAGNOSIS:
+1)
+BREAST, RIGHT; PROPHYLACTIC MASTECTOMY:
+BENIGN BREAST TISSUE WITH FLORID SCLEROSING ADENOSIS, FOCAL DUCTAL
+HYPERPLASIA 
+WITHOUT ATYPIA, SECRETORY 
+CHANGES, CYSTS, FIBROADENOMATOID
+CHANGES AND A FEW MICROCALCIFICATIONS.
+- UNREMARKABLE NIPPLE.
+2)
+BREAST AND AXILLARY CONTENTS LEVELS 1 AND 2, LEFT: MODIFIED
+RADICAL MASTECTOMY 
+AND AXILLARY LYMPH 
+NODE DISSECTION:
+-
+INVASIVE DUCTAL CARCINOMA, HISTOLOGIC GRADE II-III/III, NUCLEAR GRADE
+III/III
+, ASSOCIATED WITH LYMPHOCYTIC 
+INFILTRATE AND MEASURING 1.9 CM IN
+LARGEST DIMENSION MICROSCOPICALLY.
+- A MINOR COMPONENT OF DUCTAL CARCINOMA IN SITU (DCIS), SOLID AND
+MICROPAPILLARY TYPES WITH HIGH 
+NUCLEAR GRADE AND NECROSIS, IS PRESENT
+ADMIXED WITH AND AWAY FROM THE 
+INVASIVE CARCINOMA.
+- NO INVOLVEMENT OF THE NIPPLE, SKIN OR THE SURGICAL MARGINS BY
+CARCINOMA IS IDENTIFIED.
+LYMPHOVASCULAR INVASION IS PRESENT.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS PREVIOUS BIOPSY SITE CHANGES,
+FLORID 
+SCLEROSING ADENOSIS, DUCTAL 
+HYPERPLASIA WITHOUT ATYPIA AND A BENIGN
+INTRADUCTAL PAPILLOMA.
+-
+THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH 
+NODES IN RELATION TO THE TOTAL 
+NUMBER OF LYMPH NODES EXAMINED):
+LEVEL I: 0/8
+LEVEL II:
+1/7
+THERE IS FOCAL EXTRANODAL EXTENSION OF CARCINOMA (>2 MM) AND PERINODAL
+VASCULAR 
+INVASION.
+RESULTS OF SPECIAL STAINS (ER, PR, HER-2/NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+** Continued on next page **
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+10/22/11
+Criteria
+sis
+is Discrepancy
+ום הבכורAbue f
+nary Tuinor Site Discr
+IFAA 
+Jisce
+Dial/Synch
+pancy
+onous Primary
+(circle)ary
+newer Initials
+Yes
+UUID:9363D53D-BC3B-4AC0-8185-536C6DB3A6AE
+TCGA-A0-A12D-01A-PR
+Redacted
+Page 2 of
+3)
+LYMPH NODE, SENTINEL #1 LEVEL 1 RIGHT AXILLA; BIOPSY:
+ONE BENIGN 
+LYMPH NODE (0/1).
+ADDITIONAL H/E LEVELS AND CYTOKERATIN (AEl:AE3) IMMUNOSTAINS ARE ALSO
+NEGATIVE 
+FOR METASTATIC TUMOR.
+4)
+SOFT TISSUE, ADDITIONAL LEFT BREAST UPPER FLAP; EXCISION:
+- ADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), 
+AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out
+Special Studies:
+Result
+Gross Description:
+Special Stain
+Comment
+ER-C
+PR-C
+HERZ-C
+NEG-HER2
+NEG CONT
+IMM RECUT
+ER-C
+PR-C
+ER-C
+PR-C
+HER2-C
+NEG-HER2
+NEG CONT
+IMM RECUT
+AE1:AE3
+NEG CONT
+IMM RECUT
+1)
+The specimen is received fresh, labeled "Right breast. Stitch marks
+axillary 
+tail". It consists of a 
+breast measuring 18 x 17 x 5 cm overlaid
+by white tan skin, measuring 10 x 4.5 
+cm.
+slightly inverted nipple, measuring 1.2 cm in diameter, surrounded by an
+There is a centrally placed,
+unremarkable arcola, measuring 4 cm in 
+diameter.
+specimen 
+reveals dense fibroid tissue in the central portion of the
+Cross-sectioning 
+of the
+specimen, but no discrete mass is 
+identified.
+taken.
+Summary of Sections:
+N - Nipple
+NB
+Nipple base
+DM Deep margin
+Representative sections are
+** Continued on next page
+**
+2
+FT
+LIQ
+-
+-
+Fibroadipose tissue
+Lower inner quadrant
+LOQ - Lower outer quadrant
+UIQ - Upper inner quadrant
+σOQ - Upper outer quadrant
+raya
+3
+2)
+cm.
+The specimen is received fresh, labeled "Left breast and axillary
+contents, levels 1 and 2 (2 specimen tags attached) ".
+breast measuring 16 x 16 x 5.5
+It consists of a
+1.6 cm. The axillary tail has 2 tags designating levels 1 and 2.
+cm, with an axillary tail measuring 10 x 7 x
+specimen is overlaid by white-tan, unremarkable skin, measuring 10.5 x 1.3
+The
+The is a centrally placed, everted nipple, measuring 1.0 cm in
+diameter, surrounded by unremarkable areola, measuring 4 cm in diameter.
+Cross-sectioning of the specimen reveals a firm to hard, fairly
+circumscribed, centrally placed mass, measuring 1.7 x 1.5 x 1.5 cm,
+approximately 1.0 cm from the deep margin.
+T1 is surrounded by dense fibrous tissue.
+The mass, arbitrarily designated
+cm anterior to T1 is a mass measuring 1.0 cm in diameter and approximately 4
+Approximately 5 cm lateral and 3
+cm from the deep margin. The second mass, which is arbitrarily designated
+T2, has a central cavity filled with necrotic material grossly.
+remainder of the breast tissue consists of unremarkable fibroadipose tissue.
+Examination of the axillary tail show several lymph nodes at level 1,
+The
+ranging from 0.5 cm to 2.0 cm and at level 2 ranging from 0.5 cm to 2.5 cm.
+The smaller lymph nodes are submitted in toto.
+bisected, alternatively inked and submitted entirely.
+The largest lymph nodes are
+Summary of Sections:
+N- Nipple
+Nipple base
+- Fibrous tissue
+NB
+FT
+DM
+-
+Deep margin
+T1 - Centrally-placed mass,
+T2 -
+Laterally-placed mass
+LIQ Lower inner quadrant
+LOQ - Lower outer quadrant
+UIQ Upper inner quadrant
+00Q Upper outer quadrant
+LN1 - Level 1 lymph node
+1 cm to the deep margin
+BLN1 - Bisected level 1 lymph node
+BLLN1 - Bisected largest level 1 lymph node
+LN2 -
+Level 2 lymph node
+BLN2
+BLLN2
+"
+-
+Bisected level 2 lymph node
+Bisected largest level 2 lymph node
+3)
+The specimen is received in formalin, labeled "Sentinel node #1,
+level 1, right axilla".
+1.2 x 1.0 x 0.5 cm,
+It consists of an apparent lymph node, measuring
+surrounded by pink-tan, unremarkable adipose tissue,
+measuring 1.0 x 1.0 x 0.2 cm.
+toto, in addition to the surrounding fibroadipose tissue.
+The lymph node is bisected and submitted in
+Summary of Sections:
+** Continued on next page
+**
+SLN
+Sentinel lymph node
+Page 4 of 5
+4
+4)
+The specimen is received in formalin, labeled "Additional left breast
+upper flap tissue". It consists of yellow-tan fibroadipose tissue,
+measuring 4 x 3 x 0.5 cm.
+unremarkable adipose tissue.
+Summary of Sections:
+FA - Fibroadipose tissue
+Cross-sectioning of the specimen reveals grossly
+The specimen is entirely submitted.
+Summary of Sections:
+Part 1: SP: Right breast
+Block
+1
+8
+1
+1
+1
+1
+1
+1
+Sect. Site
+PCs
+cm.
+2
+fa
+8
+lig
+1
+log
+1
+R
+1
+nb
+1
+uig
+Log
+1
+1
+Part 2:
+Block
+1
+2
+1
+2
+SP: Left breast and axillary contents levels 1 and 2
+Sect. Site
+PCs
+blinl
+1
+blln2
+2
+blnl
+1
+bln2
+2
+dm
+1
+2
+fa
+2
+liq
+1
+1n1
+2
+1n2
+1
+1
+log
+1
+1
+n
+1
+1
+ab
+1
+3
+tl
+3
+t2
+2
+uiq
+1
+uoq
+1
+Part 3: SP: Sentinel node #1 level 1 right axilla
+1
+Block
+1
+Sect. Site
+sln
+PCs
+1
+** Continued on next page
+Part 4: SP: Additional left breast upper flap tissue
+Block
+5
+Sect. Site
+fa
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+PCS
+5
+Status:
+By:
+Signed Out
+ADDENDUM REPORT
+SITE: LEFT BREAST (PART #2)
+ER: 0% NUCLEAR STAINING
+PR:
+04 NUCLEAR STAINING
+HER-2/NEU (HERCEPTEST): POSITIVE (STAINING INTENSITY OF 3+)
+CONTROLS ARE SATISFACTORY
+**
+End of Report **
+Page 5 of 5
+5/

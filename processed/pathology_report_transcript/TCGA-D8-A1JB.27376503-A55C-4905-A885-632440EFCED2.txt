@@ -1,0 +1,85 @@
+3
+Department of Cancer Pathology
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+050.9
+3/11/11
+l
+page 1 / 2
+copy No.
+Date:
+Examination: Histopathological examination
+Internal invoice No.
+Cost of diagnostic procedure
+Patient: XXX
+PESEL: XXX
+Age. Gender: F
+Material: 1. Multiple organ resection - right breast and axillary tissue
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Score = 2+, FISH verification recommended.
+Compliance validated by:
+Examination No.:
+Examination performed or
+Macroscopic description:
+Left breast sized 19,5 x 12 x 4 cm removed along with axillary tissues sized 6 x 5 x 3 cm and a 15.5 x 4 cm skin flap. Tumour
+sized 3.0 x 2.1 x 1.3 cm on the boundary of outer quadrants, 5.0 cm from the lower boundary, 0.1 cm from the base and 0.5
+cm from the skin.
+UUID:27376503-A55C-4905-A885-632440EFCED2
+TCGA-D8-A1JB-01A-PR
+Redacted
+Yes
+Na
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+RViewer Vitis
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+fco 3/11/14
+Microscopic description:
+Carcinoma invasivum - NHG2 (3 + 2 + 1/0 mitoses/10 HPF, visual area diameter 0.55 mm).
+Foci of carcinoma ductale in situ DCIS found within and outside the tumour (solid and cribrate type with medium nuclear
+atypia, comedo necrosis and calcifications, 10% of the tumour).
+Additionally, lesions of the type carcinoma lobulare in situ (LCIS).
+Mamilla sine laesionibus.
+Glandular tissue showing lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis simplex (UDH), adenosis
+sclerosans, calcifications, columnar cell changes CCC).
+AXILLARY LYMPH NODES
+Metastases carcinomatosae in lymphonodis No I/VIII.
+Infiltratio capsulae lymphonodi et telae perinodalis.
+Preliminary result:
+Carcinoma ductale invasivum et ductale in situ lobulare in situ (LCIS).
+Metastases carcinomatosae in lymphonodo axillae (NHG2, pT2, pN1a).
+Patient: XXX
+PESEL: XXX
+Gender: F
+Compliance validated by:
+page 2 / 2
+Examination performed on:
+Results of immunohistochemical examination:
+RESULT OF HER2/neu GENE AMPLIFICATION with the FISH method by Path Vysion HER2 DNA Probe Kit
+FINAL RESULT:
+HER-2 GENE AMPLIFICATION NOT FOUND
+Compliance validated by:
+Examination performed on:
+Histopathological diagnosis:
+Carcinoma ductale invasivum et ductale in situ. Invasive ductal carcinoma and ductal carcinoma in situ.
+Metastases carcinomatosae in lymphono axillae (No I/VIII). Cancer metastases in axillary lymph nodes (No I/VIII)
+(NHG2, pT2, pN1a)
+Immunophenotype: E-cadherin+, CK7-
+Compliance validated by:

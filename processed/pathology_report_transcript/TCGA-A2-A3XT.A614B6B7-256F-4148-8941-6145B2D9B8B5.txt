@@ -1,0 +1,143 @@
+Patient:
+UUID:A6148687-256F-4148-8941-614582D9B8B5
+TCGA-A2-A3XT-01A-PR
+Redacted 1974
+R
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+(Age:
+Race:
+Physician(s):
+SPECIMEN: LEFT BREAST TISSUE
+====
+FINAL DIAGNOSIS:
+BREAST, LEFT, LUMPECTOMY:
+-
+-
+-
+Taken:
+Received:
+Reported:
+ICD-0-3
+**AMENDED** carcinoma, infiltrating ductal, NOS
+Site: breast, Nos
+0509
+850013
+5-23-12 20
+=========
+POORLY DIFFERENTIATED ADENOCARCINOMA, CONSISTENT WITH INFILTRATING
+DUCTAL CARCINOMA. SEE COMMENT.
+NOTTINGHAM GRADE: POORLY DIFFERENTIATED, 9/9 (TUBULES=3, MITOSES=3,
+NUCLEI=3).
+TUMOR SIZE 4 CM (GROSS).
+TUMOR NECROSIS: EXTENSIVE, ALL INFILTRATING COMPONENT.
+LYMPHOVASCULAR INVASION PRESENT (EXTENSIVE).
+MARGINS: POSITIVE (INFERIOR AND ANTERIOR, A10,A6).
+-
+NO INTRADUCTAL COMPONENT IDENTIFIED.
+ESTROGEN RECEPTOR: NEGATIVE (NO NUCLEAR STAINING,
+PROGESTERONE RECEPTOR: NEGATIVE (NO NUCLEAR STAINING, 0%).
+HER2 BY IMMUNOHISTOCHEMISTRY: NEGATIVE (SCORE 0).
+08).
+SEE COMMENT.
+COMMENT:
+There is extensive lymphovascular invasion as well as foci of high grade
+tumor cells in grossly normal tissue sections away from the tumor. This
+report will be amended pending stains to confirm a breast primary origin.
+was notified of these results at
+clinical history was incorrect, and has been changed all
+discussion with Dr.
+Dr.
+The
+AMENDED COMMENTS:
+; on
+The tumor is CK7+, CK20-, and GCPFD-. The pattern is consistent with a
+Page 1
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF
+Continued on Next Page
+FOR OFFICIAL USE ONLY -
+PERSONAL DATA - PRIVACY ACT OF
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+FINAL DIAGNOSIS (continued) :
+poorly differentiated infiltrating duct carcinoma, however, a metastatic
+process cannot be entirely excluded.
+**
+Report Electronically signed Out
+**
+CLINICAL DIAGNOSIS AND HISTORY:
+year old
+with enlarging complex cystic lesion in the left breast.
+PRE-OPERATIVE DIAGNOSIS:
+left breast palpable lesion
+GROSS DESCRIPTION:
+A. Received in formalin labeled with patient's name
+designated "LEFT BREAST TISSUE SINGLE SHORT BLACK SUPERIOR, SINGLE LONG
+BLACK LATERAL, SINGLE BLUE MEDIAL, DOUBLE BLUE DEEP 
+ON PECTORAL FASCIA,
+SINGLE GREEN INFERIOR STITCH". Specimen consists of an ovoid 
+portion of
+fibrofatty tissue oriented as designated on label
+. Specimen measures 8 
+cm
+superior to inferior, 7 cm medial to lateral, 3.5 
+cm anterior to
+posterior. Specimen is inked as follows: superior blue, 
+inferior 
+green,
+medial red, lateral yellow, anterior orange
+, posterior black. Serial
+sections reveal centrally located 4 x 3.2 x 3.2 cm fleshy 
+pink tan 
+well
+circumscribed mass with scattered foci of hemorrhage 
+and necrosis. Mass
+abuts anterior margin and located 0.2 cm from posterior 
+margin and 1.5 
+cm
+from superior inferior margin. Surrounding tissue is 
+densely fibrous with
+multiple cysts. Cassette summary:
+A1-A2: mass
+A3: adjacent normal
+A4: lateral section adjacent to mass
+A5: lateral portion of mass near orange margin
+A6-A7: contiguous sections adjacent to A2 near orange and black margin
+A8-A9: contiguos sections medial to A6-A7
+A10: medial sections to A8-A9 nearing green margin
+All: most medial glandular section of specimen
+Page 2
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT O
+SURGICAL PATHOLOGY REPORT
+Patient:
+GROSS DESCRIPTION (continued):
+Specimen #:
+A12: inferior glandular appearing portion in same section as A8-A9.
+Matched sections of Al-A3 are submitted in
+for
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Noted
+ase is (circle):
+Reviewer Initials
+QUALIFIED
+Ute Reviewed:
+Page 3
+FOR OFFICIAL USE ONLY
+PERSONAL DATA - PRIVACY ACT OF
+DEQUANTU
+Yes
+No
+5/17/12
+End of Report

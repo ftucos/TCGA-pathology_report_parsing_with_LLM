@@ -1,0 +1,236 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+*
+Revised *
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+AMENDMENT TO PATHOLOGIC INTERPRETATION (SPECIMEN “E”)
+A.
+B.
+C.
+Left breast sentinel node #1, FS:
+One lymph node, no tumor seen (0/1).
+Sentinel node #2, FS:
+-
+· One lymph node, no tumor seen (0/1).
+Left sentinell node #3, FS:
+ICD-0-3
+carcinoma, infiltrating lobular, Nos
+852013
+Site: breast, Nos
+C50.9 3/12/11 hur
+-
+One lymph node, no tumor seen (0/1).
+D.
+free.
+* Left breast with one stitch superior and two lateral:
+"
+Multifocal infiltrating lobular carcinoma, (two largest nodules are 2.5 cm and 2 cm in greatest dimension), margins
+Extensive lobular carcinoma in situ, margins free. See comment.
+Fibrocystic changes.
+E.
+Sentinel node #4, FS:
+Metastatic carcinoma to one out of two lymph nodes (1/2). See Comment.
+Comment
+The keratin stain on the lymph node shows metastatic carcinoma.
+The keratin stains on the remaining sentinel lymph nodes (A,B,C, F, G, and I) are negative.
+Keratin stains were also performed on all of the axillary content lymph nodes and they are negative.
+Previously reported as:
+E.
+Sentinel node #4, FS:
+- Two lymph nodes, no tumor seen (0/2).
+UUID:6197798C-6F04-470E-BA91-922548E2DFAF
+TCGA-EW-A1PG-01A-PR
+Redacted
+F.
+Sentinel node #5, FS:
+· One lymph node, no tumor seen (0/1).
+G.
+Sentinel node #6, FS:
+One lymph node, no tumor seen (0/1).
+H.
+J.
+AL
+Left sentinal node #7, FS:
+-
+Metastatic carcinoma to one out of one lymph node (1/1).
+Non sentinel node:
+- Three lymph nodes, no tumor seen (0/3).
+Left axillary content:
+- Sixteen lymph nodes, no tumor seen (0/16).
+Comment (D):
+). The tumor cells on that specimen were
+are positive for estrogen and progesterone receptors, but were negative for Her2 FISH. Two nodules of infiltrating
+carcinoma are present. In addition, there are multiple focal microscopic 
+nodules of infiltrating carcinoma. Keratin 
+stains
+are pending on the negative sentinel lymph nodes. In specimen H, the 
+metastasis to the lymph node is 0.4 cm in
+greatest dimension.
+The patient has a previous history of infiltrating lobular carcinoma (
+SURGICAL PATHOL Report
+Tumor Summary:
+Specimen Type: Mastectomy
+Lymph Node Sampling: Sentinel lymph node with axillary dissection
+Laterality: Left
+Tumor Site: Lower outer quadrant
+Size of Invasive Component:
+Greatest dimension: 2.5 cm (largest nodule)
+Additional dimensions: 1.5 x 1.5 cm
+Histologic Type:
+Invasive lobular
+Lobular carcinoma in situ
+Histologic Grade:
+Tubule Formation: Minimal less than 10% (score = 3)
+Nuclear Pleomorphism: Small regular nuclei (score = 1)
+Mitotic Count: Less than 10 mitoses per 10 HPF (score = 1)
+Total Nottingham Score: Grade 1: 3-5 points
+Regional Lymph Nodes:
+Number examined: 25
+Number involved: 1 (malignant focus is 0.4 cm in greatest dimension)
+Margins: Margins uninvolved by invasive carcinoma
+Distance from closet margin: 1.5 cm.
+Specify which margin: Deep
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L): Absent
+Pathologic Staging: pT2 (see below), pN1a, pMX
+The stage is based on adding the size of the two largest nodules which are 2.5 and 2 cm in greatest dimension.
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS=ER, PgR 636¬PR, A 425=H4%
+Timmunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or nego:
+Amendments
+Amended:
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (II) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Reason: Review of case with diagnosis change
+Previous Signout Date:
+Intraoperative Consultation
+A. Left breast sentinal node #1: No tumor seen.
+B. Sentinal node #2: No tumor seen.
+C. Left sentinal node #3: No tumor seen.
+D. Left breast with one stitch superior and two lateral:
+E. Sentinal node #4: No tumor seen.
+F. Sentinal node #5: No tumor seen.
+MD
+Page 2 of 4
+SURGICAL PATHOL Report
+G. Sentinal node #6: No tumor seen on touch prep.
+H. Left sentinal node #7: Cellular evidence of metastatic carcinoma on touch prep.
+Clinical History:
+None Provided
+Operation Performed
+Left breast lymph node dissection/mastectomy
+Pre Operative Diagnosis:
+Left breast mass
+Specimen(s) Received:
+A: Left breast sentinel node #1, FS
+B: Sentinel node #2, FS
+C: Left sentinell node #3, FS
+D: Left breast with one stitch superior and two lateral
+E: Sentinel node #4, FS
+F: Sentinel node #5, FS
+G: Sentinel node #6, FS
+H: Left sentinal node #7, FS
+I: Non sentinel node
+J: Left axillary content
+Gross Description:
+A.
+B.
+C.
+D.
+Received fresh is a tan soft lymph node, measuring 1.2 x 1.0 x 0.5 cm. Bisected and submitted in toto in one cassette for
+frozen section.
+Received fresh is sentinel lymph node is a tan soft lymph node, measuring 1.0 x 1.0 x 0.5 cm. Bisected and submitted in
+toto in one block for frozen section.
+Received fresh is a tan soft lymph node, measuring 0.8 x 0.6 x 0.6 cm. Submitted in toto in one block for frozen section.
+Received in formalin is a mastectomy specimen, weighing 382 grams, measuring 15.0 x 13.0 x 4.0 cm. The specimen is
+oriented with one stitch superior, two stitches lateral. At the anterior aspect of the specimen, there is one tan ellipse of
+skin, measuring 4.0 x 3.0 cm. Centrally located is a pink, unremarkable areola with unremarkable nipple, 1.0 cm in
+diameter. The areola measures 2.5 x 2.0 cm. The resection margin is inked black. Cut section shows one ill-defined
+tan, firm lesion located at 4 to 5 o'clock, measuring 2.5 x 1.5 x 1.5 cm. The lesion is located at the lower outer quadrant,
+1.5 cm away from the deep margin, 9.0 cm away from the superior margin, 2.0 cm away from the inferior margin, 2.5 cm
+away from the lateral margin, 10.0 cm away from the medial margin. Also present is ill-defined fibrotic lesion, measuring
+2.0 x 1.5 x 1.5 cm located at 7 to 8 o'clock. The lower inner quadrant, the second lesion is 2.0 cm away from the deep
+margin, 9.0 cm away from the superior margin, 1.5 cm away from the inferior margin, 7.0 cm away from the lateral margin,
+3.0 cm away from the medial margin. The remaining parenchyma is yellow, lobulated, adipose tissue, mixed with tan, firm,
+fibrotic tissue. The ratio is approximately 80-20%. Sections submitted as follows:
+Section from the nipple
+1
+2
+Superior margin
+3
+Inferior margin
+4
+Lateral margin
+5
+Medial margin
+6
+Deep margin
+7-12
+Lesion at 5 and 6 o'clock, submitted in toto
+13-18
+Lesion from 7 and 8 o'clock, submitted in toto
+2222
+19
+20
+Representative section from 3 o'clock fibrotic area
+Section from the outer lower quadrant
+21
+Section from the inner upper quadrant
+Section from the inner lower quadrant
+Page 3 of 4
+E.
+F.
+G.
+H.
+-
+1.
+-
+SURGICAL PATHOL Report
+Received fresh is a yellow, lobulated adipose tissue, measuring 3.0 x 2.0 x 2.0 cm. Four possible lymph nodes identified,
+measuring from 0.4 up to 1.5 cm in the greatest dimension. Sections submitted as follows:
+1&2 One lymph node per each cassette
+3
+Two lymph nodes, one is inked, also for frozen section
+Received fresh is yellow, lobulated adipose tissue, measuring 2.0 x 2.0 x 0.5 cm. One tan soft lymph node is identified,
+measuring 0.4 x 0.4 x 0.4 cm. Submitted in toto in one cassette for frozen section.
+Received fresh is a tan soft lymph node, measuring 0.7 x 0.6 x 0.6 cm. Bisected and submitted in toto in one cassette.
+Received fresh is a tan soft lymph node, measuring 0.5 x 0.4 x 0.4 cm. Bisected and submitted in toto in one cassette.
+Received in molecular fixative is yellow, lobulated adipose tissue, measuring 2.0 x 2.0 x 1.5 cm. Three possible lymph
+nodes identified, measuring from 0.2 up to 0.4 cm in the greatest dimension. Sections submitted as follows:
+1
+2
+Two lymph nodes
+One lymph node
+Received in molecular fixative is yellow, lobulated adipose tissue, measuring 14.0 x 6.0 x 2.5 cm. Twenty-one lymph
+nodes are identified, measuring from 0.4 up to 3.0 cm in greatest dimension. Sections submitted as follows:
+Largest lymph node, submitted in toto
+1-4
+5-15
+One lymph node per each cassette
+16&17 Five lymph nodes per each cassette
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+f 3/12/14
+Page 4 of 4

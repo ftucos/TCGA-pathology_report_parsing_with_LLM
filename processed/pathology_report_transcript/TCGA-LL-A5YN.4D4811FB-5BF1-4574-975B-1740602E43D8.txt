@@ -1,0 +1,226 @@
+Redacted
+i
+Inquiry
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+UUID:4D4811FB-5BF1-4574-975B-1740602E43D8
+TCGA-LL-ASYN-01A-PR
+REG DR:
+SPEC #:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks:
+A.
+COLL:
+ACCT #:1
+AGE/SX
+DOB:
+STATUS:
+LOC:
+ROOM:
+U #
+REG:
+BED:
+TLOC:
+DIS:
+TIME IN FORMALIN: 4:43
+hrs.
+PAGE 1
+Specimen(s):
+A.
+B.
+Right breast lumpectomy
+Sentinel lymph node #1
+C.
+MICROSCOPIC DIAGNOSIS
+RIGHT BREAST LUMPECTOMY:
+INVASIVE DUCTAL CARCINOMA
+SEE COMMENT FOR DETAILS
+Sentinel lymph node #2
+D. Sentinel lymph node #3
+ICD-0-3
+850013
+Carcinoma, ductal infiltrating NCS
+Site ® Breast NOS £50.9
+4/2/13
+B.
+SENTINEL LYMPH NODE #1:
+ONE BENIGN LYMPH NODE
+C.
+SENTINEL LYMPH NODE #2:
+ONE BENIGN LYMPH NODE
+D.
+SENTINEL LYMPH NODE #3:
+THREE BENIGN LYMPH NODES
+COMMENT(S)
+PROTOCOL FOR EXAMINATION OF SPECIMENS WITH INVASIVE CARCINOMA OF THE BREAST
+BASED ON AJCC/UICC TNM. 7TH EDITION
+The following classification should be adjusted based on additional clinical information.
+SPECIMEN:
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN INTEGRITY:
+SPECIMEN SIZE:
+SPECIMEN LATERALITY:
+TUMOR SIZE:
+TUMOR FOCALITY:
+EXTENT OF TUMOR:
+DUCTAL CARCINOMA IN SITU:
+Partial breast
+Excision without wire-guided localization
+Sentinel lymph nodes
+Single intact specimen
+Greatest dimensions: 10.5 x 9.5 x 4.5 cm
+Right
+Greatest dimension: 2.4 cm
+Single focus of invasive carcinoma
+Skin: invasive carcinoma does not invade into dermis or
+epidermis
+Muscle: no skeletal muscle present
+DCIS is present
+* *
+CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER
+SPEC #:
+PATIENT:
+Specimen Inquiry
+'
+COMMENT(S)
+LOBULAR CARCINOMA IN SITU:
+HISTOLOGIC TYPE:
+HISTOLOGIC GRADE:
+(Continued)
+Extensive intraductal component negative
+Present
+Invasive ductal carcinoma
+Tubular differentiation score:
+3
+3
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+Nuclear pleomorphism score:
+Mitotic count score: 2
+3
+PAGE 2
+(Continued)
+Overall grade:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1.3 cm, superior
+Margins uninvolved by ductal carcinoma
+Distance from closest margin: 1.3 cm, superior
+Number of sentinel lymph nodes examined:
+5
+Total number of lymph nodes examined: 5
+Number of lymph nodes with macrometastases:
+0
+0
+Number of lymph nodes with micrometastases:
+Number of lymph nodes with isolated tumor cells: 0
+Primary tumor: PT2
+Regional lymph nodes: pNO (i-)
+Distant metastasis: not applicable
+GROSS DESCRIPTION:
+A. Received fresh for tissue banking and gross evaluation labeled with the patient's name
+and designated "right breast lumpectomy" is a 162 gram. 10.5 x 9.5 x 4.5 cm fibrofatty
+breast tissue biopsy. The biopsy has an overlying 8.5 x 2.0 cm black-brown skin ellipse.
+The ellipse is oriented as anterior. There is a short suture superior and a long suture
+lateral. The margins will be inked per orientation as labeled: blue superior. black
+inferior, yellow lateral, red medial and green deep or posterior. The biopsy is serially
+sectioned from lateral to medial to have a 2.4 x 1.8 x 1.5 cm tumor mass. The mass is
+centrally located within the specimen and is 1.3 cm from the nearest superior margin. is
+1.5 cm from inferior. is at least 2.5 cm from deep as well as superficial and is more than
+3 cm from medial or lateral. The tumor has adjacent minor hemorrhage and fat necrosis
+consistent with a previous biopsy. A section of tumor is sampled for tissue banking.
+There is diffuse dense white fibrous tissue surrounding the tumor mass. The white fibrous
+tissue has focal fibrocystic changes, and the white fibrous tissue makes up approximately
+50% of the biopsy parenchyma. Representative sections are sampled from across the specimen
+to include tumor to the nearest margins as labeled:
+Al
+A2-A3
+nearest perpendicular sections of lateral margin sampled
+sections showing lateral dense white fibrous tissue with fibrocystic
+change
+section of tumor with adjacent petechial hemorrhage
+nearest deep margin
+nearest superficial skin margin
+tumor to nearest inferior margin
+A4
+A5
+A6
+A7
+A8-A9
+tumor to nearest superior margin
+A10
+All
+A12
+tumor with adjacent fat necrosis and petechial biopsy hemorrhage
+near full cross section of tumor sampled
+perpendicular sections of medial margin sampled
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER
+SPEC #:
+GROSS DESCRIPTION:
+PATIENT:
+(Continued)
+PAGE 3
+Specimen Inquiry
+(Continued)
+B. Labeled "sentinel lymph node #1" is a nodular, fatty 2.4 x 2.0 x 1.8 cm lymph node.
+There is scant yellow 
+adipose on the surface of the node. The node is serially sectioned
+perpendicular to 
+the long axis to be entirely submitted per sentinel lymph node protocol in
+cassettes B1-B4.
+C.
+Labeled "sentinel lymph node #2" is a nodular, fatty 2.0 x 1.7 x 1.4 cm lymph node.
+The 
+fat is trimmed from the 
+node, and the node is 1.2 x 0.7 x 0.6 cm. The node is
+sectioned perpendicular to the long axis to be entirely submitted per sentinel lymph node
+protocol in 
+cassettes C1-C2.
+D. Labeled "sentinel lymph node #3" is a 3.5 x 3.0 x 1.5 cm aggregate of yellow adipose.
+The adipose is 
+sectioned to have three nodular lymph nodes. The nodes are 0.3 cm, 0.7 ×
+0.5 x 0.2 cm and 0.8 x 0.7 x 0.4 cm. 
+The larger nodes are sectioned perpendicular to the
+long axis, and the 
+nodes are entirely submitted for sentinel lymph node protocol separately
+from smallest to largest in cassettes 
+D1-D3.
+INTRAOPERATIVE CONSULTATION:
+A.
+INTRAOPERATIVE CONSULTATION. RIGHT BREAST LUMPECTOMY:
+GROSS TUMOR PRESENT. ADEQUATE FOR TISSUE BANKING WITH NEOPLASTIC TISSUE PROVIDED
+TO TISSUE BANK 
+COORDINATOR
+SURGICAL MARGINS NEGATIVE WITH CLOSEST MARGIN SUPERIOR MEASURING 1.5 CM
+RESULTS GIVEN TO DR.
+PHOTO DOCUMENTATION
+Image
+Signed
+(signature on file).
+END OF REPORT
+**
+Criteria
+LW 3/15/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+"temt
+Date Reviewed:
+3/16/13

@@ -1,0 +1,27 @@
+''
+ICD-0-3
+Carcinoma, infiltrating ductal and Paget disease, breast 8541/3 |
+Site: Breast, Nos C50.9
+سلام
+1/19/11 k
+Diagnosis:
+1. Ablated (right) breast sample with moderately differentiated invasive ductal
+carcinoma with discrete intraductal components, angioinvasion and focal ulceration of
+the skin. Tumor size at least 7 cm. Paget's disease of the nipple. Dorsal resection
+margin tumor-free.
+Tumor classification: NOS, G II, pT4bN1aL1V0R0.
+UUID:C1D59BA7-FC3E-46EA-B095-386DF42892B0
+TCGA-A8-A08]-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pemary Noted
+Case is (circle):
+Reviewer th
+Yes
+QUALIFIED
+DISQUALIFIED
+Reviewed:
+Redacted

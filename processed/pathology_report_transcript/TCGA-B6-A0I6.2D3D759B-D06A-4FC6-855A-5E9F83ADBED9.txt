@@ -1,0 +1,116 @@
+Material
+SURGICAL PATHOLOGY REPORT
+Submitted: left breast with axillary contents
+☐inical
+History:
+Clinical
+Diagnosis:
+Operating
+Surgeon:
+Dr.
+Gross Examination:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos.
+850013
+Sitz: breast, Nos C50.9
+1/25/11 /
+Pathology Number
+The specimen is received in a single container, labeled with the patient's name, history
+number
+, date and "left breast and axillary 
+contents". Received is a breast measuring
+approximately 23.0 x 16.0 x 8.5 cm. 
+Also received is axillary contents measuring 8.0 cm. x
+9.0 cm.x 3.0 cm. There is no 
+previous scars or other lesions on the surface of the breast.
+Noted grossly was a 5.0 x 5.0x 
+4.0 cm. mass submitted for receptors. The specimen has
+been inked in blue and 
+sectioned extensively before accessioning. Examination of the
+specimen reveals a firm white 
+nodule measuring approximately 3.5 x 3.0 cm. in two
+dimensions. Gross inspection 
+of the tumor at the deep margin does not show extension
+through the deep margin grossly. 
+Representative sections are submitted as follows:
+π-TV
+in
+Block I: representative section of tumor to show deep margin.
+Block II: representative section of tumor to show deep margin.
+Blocks III and IV: representative sections of the tumor.
+Palpation of the remainder of the breast does not reveal any separate nodules from the
+main 
+tumor region. From the 
+main mass, a couple of satellite nodules are noted that appear
+to be contiguous with the main mass. A 
+section of this area is submitted in Block V.
+Block VI: representative section of nipple.
+Block VII: representative section of skin over tumor.
+Block VIII: random sample of upper inner quadrant.
+Block IX: random sample of lower inner quadrant.
+Block X: random sample of upper outer quadrant.
+Block XI: random sample of lower outer quadrant.
+The axillary contents are separate from the remainder of the specimen and palpated for
+lymph 
+nodes. Lymph node candidates 
+are submitted from the inferior to the superior
+direction. They are submitted as follows:
+И
+Block XII: two lymph node candidates.
+Block XIII: three lymph node candidates.
+Block XIV: three lymph node candidates.
+Block XV: five lymph node candidates.
+Block XVI: three lymph node candidates.
+Block XVII: three lymph node candidates.
+Block XVIII: five lymph node candidates.
+UUID:2D3D759B-D06A-4FC6-855A-5E9F83ADBED9
+TCGA-B6-A016-01A-PR
+Redacted
+(Continued on
+Criteria
+Diagnosis Discrepancy
+Primary Temur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/s/nch. onous P.imary sed
+Case is (circle).
+Reviewer Initials
+Yes
+No
+QUALIFIED
+Datę Keviewed:
+DISQUALIFIED
+Dr.
+(Continuation from page 1)
+Block XIX: five lymph node candidates.
+Block XX: three lymph node candidates.
+Block XXI: five lymph node candidates.
+Block XXII: five lymph node candidates.
+Block XXIII: three lymph node candidates.
+Block XXIV: three lymph node candidates.
+Page 2
+Dr.
+MICROSCOPIC: The apparent satellite nodules seen grossly (Block 5) consist of sclerosis and
+hemangioma 
+(so-called "peritubular hemangioma").
+carcinoma have intermediate grade nuclei, but areas have a high grade nuclear pattern.
+Portions 
+of the
+DIAGNOSIS:
+#1 "LEFT" BREAST, MASTECTOMY:
+binig
+A. LARGE (5.0 × 5.0 × 4.0 CM.) INFILTRATING DUCTAL
+CARCINOMA, N.S.A.B.P. NUCLEAR GRADE POORLY-
+DIFFERENTIATED, HISTOLOGIC GRADE 3 OF 3.
+13. FOCAL INTRATUMORAL INTRADUCTAL CARCINOMA.
+C. PROMINENT VASCULAR INVASION BY CARCINOMA.
+D. NO CARCINOMA IDENTIFIED IN SURGICAL MARGINS.
+E. HEMANGIOMA.
+F. FIBROCYSTIC CHANGES:
+1. MARKED DUCTAL EPITHELIAL HYPERPLASIA.
+2. PAPILLARY APOCRINE METAPLASIA.
+3. DUCT ECTASIA.
+4. SCLEROSIS.
+#2 "LEFT" AXILLARY DISSECTION:
+A. METASTATIC CARCINOMA IN 6 OF 32 LYMPH NODES.
+B. FOCAL CARCINOMA IN PERINODAL BLOOD VESSELS.

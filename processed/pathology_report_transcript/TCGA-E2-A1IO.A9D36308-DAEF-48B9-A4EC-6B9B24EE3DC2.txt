@@ -1,0 +1,247 @@
+TSS ID
+SPECIMENS:
+A. SLN #1 RIGHT AXILLA
+B. RIGHT BREAST
+C. ADDITIONAL ANTERIOR MARGIN
+SPECIMEN(S):
+A. SLN #1 RIGHT AXILLA
+B. RIGHT BREAST
+C. ADDITIONAL ANTERIOR MARGIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICD.0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, NoS
+050.9
+2/8/11
+UUID:A9D36388-DAEF-4889-A4EC-689B24EE3DC2
+TCGA-E2-A1I0-01A-PR
+Redacted
+TPA, Lymph node, sentinel, right axilla, biopsy: Negative for carcinoma
+Part B, Right breast, Gross examination: Tumor is present at the anterior margin, and at least 0.2-cm
+from 
+posterior margin
+Diagnoses called at
+GROSS DESCRIPTION:
+A. SLN #1 RIGHT AXILLA
+(A) and
+(B) by Dr.
+Received fresh labeled with the patient's patient and designated "sentinel lymph node number one right
+axilla" is a 
+fragment of lymphoid tissue measuring 1.9 x 1.2 x 0.8 cm. Touch preparation is performed.
+Entirely submitted, A1.
+B. RIGHT BREAST
+Received fresh labeled with the patient's identification and designated "right breast" is a previously
+inked, oriented
+, 13-g, 4 x 2.5 x 1.5 cm lumpectomy specimen. The short suture designates superior,
+long-lateral
+. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-
+orange
+. The specimen is serially sectioned from medial to lateral into 6 slices revealing a firm tan
+mass, 1.2 x 0.9 x 0.7 cm, located 0.1-cm from the nearest anterior margin. A portion of the specimen is
+submitted 
+for tissue procurement. The remainder of the specimen is entirely submitted:
+B1-B2: Perpendicular sections medial margin
+B3-B4: Slice 2, B4 demonstrates mass
+B5-B6: Slice 3, B6 demonstrates mass
+B7-B8: Slice 4, B8 demonstrates mass
+B9-B10: Slice 5, B10 demonstrating remainder of mass
+B11-B12: Perpendicular sections lateral margin
+C. ADDITIONAL ANTERIOR MARGIN
+Received fresh labeled with the patient's identification and designated "additional anterior margin" are
+two previously 
+inked (black at final margin) fragments of adipose tissue together weighing 1 g and
+measuring 
+2 x 1 x 0.3 cm in aggregate. The entire specimen is submitted, C1.
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+B. BREAST, RIGHT, WIDE LOCAL EXCISION:
+-
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3 WITH FOCAL NECROSIS, MEASURING 1.2-CM
+HIGH 
+NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH
+CENTRAL NECROSIS, MICROCALCIFICATIONS, AND LOBULAR EXTENSION
+-
+INVASIVE TUMOR INVOLVES ANTERIOR SURGICAL RESECTION MARGIN (SEE PART C)
+- BIOPSY SITE CHANGES WITH FIBROSIS
+- SEE SYNOPTIC REPORT.
+C. BREAST, ADDITIONAL ANTERIOR MARGIN, EXCISION:
+- FATTY BREAST TISSUE, NO TUMOR SEEN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization: No
+Invasive Tumor:
+Laterality: Right
+Present
+Multifocality: No
+WHO CLASSIFICATION
+TSS ID
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.2cm
+Margins: Negative
+Distance from closest margin: 0.3cm
+inferior
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+2
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+3
+None
+Lymph nodes:
+Sentinel lymph node only
+Lymph node status:
+Negative 0/1
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:
+Estimate 10%
+DCIS Type: Solid
+Cribriform
+DCIS Location:
+Associated with invasive tumor
+Nuclear grade:
+High
+Necrosis: Present
+Location of CA++:
+DCIS
+Benign epithelium
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Pending
+Performed on Case:
+Pathological staging (pTN):
+pT 1c NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+None given
+ADDENDUM:
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+EQUIVOCAL
+Intensity:
+2+
+% Tumor Staining:
+30%
+Fish Ordered:
+Yes
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her? analysis was performed using the FDA approved Dako HercepTest (TM) test kit
+'
+5) using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. 
+Adequate, well
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation 
+of the 
+HER2
+immunohistochemical stain is guided by published results in the medical literature
+, information provided
+by the reagent manufacturer and by internal review of staining performance.
+TSS ID
+This assay has been validated according to the 2007 joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. Pathology
+Department takes full responsibility for this test's performance.
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results:
+Clinical Interpretation of results
+HER-2 NOT AMPLIFIED
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HFR-2 probe that spans the entire HER-2 gene in the F
+1. A majority of tumors cells displayed moderate polysomy 17
+with 2 to 4 chromosome 17 signals and 2 to 4 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0,
+consistent 
+with no amplification of the HER2/neu gene.
+by Dr
+Block used
+Tissue fixation
+Tissue source
+HER2/CEP17 ratio:
+Source of case:
+formalin-fixed tissue
+Outside Case No: NA
+breast
+Results interpreted:
+yes
+1.1
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 
+signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method 
+of ratio 
+enumeration: manual count
+No
+Limitations
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall 
+survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF 
+treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status.
+treatment decision for stage
+2/neu
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+node-positive breast cancer patients should be based on HER-
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+patients for whom HerceptinⓇ therapy is being considered. These tests were performed
+of 
+Dr.. The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score: 18
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+had an average rate of Distant Recurrence at 10 years of 11%
+ER Score: 10.2
+Positive
+PR Score: 9.2 Positive
+Her2 Score: 9.9 Negative
+Interpretation:
+18 in the clinical validation study
+ER Negative < 6.5
+PR
+Negative < 5.5
+Her2 Negative <10.7
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal = 10.7 - 11.4
+Gross Dictation:,
+Microscopic/Diagnostic Dictation:,
+Final Review: M.D., Pathologist
+Final: M.D., Pathologist,
+Addendum: M.D., Pathologist,
+Addendum Final: M.D., Pathologist, (
+Addendum:, M.D., Pathologist,
+Addendum Final, M.D., Patholuyısı,
+Addendum, M.D., Pathologist
+Addendum Final:, M.D., Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED / DISQUADHED
+fe Reviewed:

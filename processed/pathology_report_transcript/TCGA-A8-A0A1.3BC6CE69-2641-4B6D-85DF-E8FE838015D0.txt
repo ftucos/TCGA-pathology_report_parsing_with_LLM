@@ -1,0 +1,31 @@
+:
+1CD-0-3
+Carcinoma, infiltrating lobular, Nos
+Site: Breast, Nos C50.9
+852013
+1/19/11 lu
+سلام
+Diagnosis:
+Invasive lobular breast carcinoma (maximum diameter 2.5 cm, malignancy grade II), with
+excision extending into 
+the healthy tissue.
+Tumor classification (also taking into account xxxxxxxx): pT2 (maximum diameter 2.5 cm),
+pN0 sn (0/1), MX, 
+R0, G2 (L0, V0).
+UUID:3BC6CE69-2641-4B6D-85DF-E8FE838015D0
+TCGA-A8-A0A1-01A-PR
+Redacted
+;
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy History
+Duni/Synchronous Primary Noted
+Case (circle):
+Review Ins
+QUALIFIED
+Date Reviewed:
+Yes
+(ISQUALIFIED
+5/31/11

@@ -1,0 +1,296 @@
+NAME:
+MR#:
+BILLING #:
+LOCATION:
+AGE:
+DOB:
+PHYSICIAN:
+COPY TO:
+UUID: FDB00212-9782-4ACE-AD59-019384297A2F
+TCGA-WT-AB41-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+SEX: F
+SURG PATH #:
+SPECIMEN CLASS:
+ALT ID #:
+DATE OF PROCEDURE:
+DATE RECEIVED:
+TIME RECEIVED:
+DATE OF REPORT:
+DATE OF PRINTING:
+Material Received:
+A: left axillary sentinel lymph node #1 blue
+B: left axillary sentinel lymph node #2 blue
+C: left breast total mastectomy
+ICD-0.3
+No:
+Carcinoma, wiltrating duct 
+NOS 
+8500/3
+Site Brastos @50.9
+D: 8 o'clock additional medial short superior, long anterior, clip true margin
+E: 8 o'clock additional inferior short anterior, long lateral clip true margin
+F: 8 o'clock additional anterior short superior, long lateral, clip true margin
+G: 8 o'clock additional posterior short superior, long lateral, clip true margin
+H: additional skin left breast blue at 3:00
+History:
+year old female with a clinical history of breast cancer.
+Final Diagnosis:
+A. Lymph node, "left axillary sentinel lymph node #1 blue", biopsy:
+800/30/14
+Micrometastatic mammary carcinoma (0.23 mm) identified on permanent and pancytokeratin immunostained sections
+only. See comment.
+B. Lymph node, "left axillary sentinel lymph node #2 blue", biopsy:
+There is no evidence of malignancy (0/1).
+Deeper sections and a pancytokeratin immunostain are negative in support of the above diagnosis.
+C. Breast, "left breast total mastectomy", mastectomy:
+Invasive ductal carcinoma, moderately differentiated, nuclear grade 2, two foci (measuring 1.2 cm and 1.8 cm in greatest
+dimension respectively). See comment.
+D. Fibroadipose tissue, "8 o'clock additional medial short superior, long anterior, clip true margin", reresection:
+No diagnostic abnormalities.
+There is no evidence of malignancy.
+E. Fibroadipose tissue, "8 o'clock additional inferior short anterior, long lateral clip true margin", reresection:
+No diagnostic abnormalities.
+There is no evidence of malignancy.
+F. Fibroadipose tissue, "8 o'clock additional anterior short superior, long lateral, clip true margin", reresection:
+No diagnostic abnormalities.
+There is no evidence of malignancy.
+G. Skeletal muscle and adipose tissue, "8 o'clock additional posterior short superior, long lateral, clip true margin", reresection:
+Date of Printing:
+Order Number
+MR #:
+SURGICAL PATHOLOGY REPORT
+Page 1 of 5
+NAME:
+MR #:
+No diagnostic abnormalities.
+There is no evidence of malignancy.
+SURGICAL PATHOLOGY REPORT
+SURG PATH #:
+ALT ID #:
+H. Skin, "additional skin left breast blue at 3:00", reresection:
+No diagnostic abnormalities.
+There is no evidence of malignancy.
+Comment:
+INVASIVE CARCINOMA OF THE BREAST
+Specimen Type: mastectomy
+Laterality: left
+Tumor Site: lower inner quadrant at 8:00 and mid outer quadrant at 3:00
+Histologic Type: Invasive ductal carcinoma
+Size of Invasive Component: 1.2 cm in greatest dimension (8:00) and 1.8 cm in greatest dimension (3:00)
+Tumor Multicentricity: Present (2 foci as noted above)
+Surgical Margins: Final margins are negative for carcinoma. In the mastectomy, the 8:00 focus is within 0.1 cm of the inferior,
+medial and anterior margins and within 0.2 cm of the deep margin; however the separately submitted additional medial, inferior,
+anterior and posterior margins (specimens D through G) are negative for carcinoma.
+Histologic Grade (Nottingham Histologic Score): II/III
+Tubule Formation: 3
+Nuclear Grade: 2
+Mitotic Count (40x objective): 1
+Total Nottingham Score: 6/9
+Ductal Carcinoma In-situ (DCIS): Present, focal, intermediate nuclear grade, without necrosis
+Lobular Carcinoma In-situ (LCIS): Absent
+Lymph-Vascular Invasion: Present, focal
+Perineural Invasion: not identified
+Tumor Necrosis: not identified
+Nipple Involvement: not identified
+Skin Involvement: not identified
+Lymph Node Sampling:
+Sentinel lymph node(s) only
+Total number of involved nodes/total nodes found: 1 micrometastasis out of 2 nodes.
+Size of largest metastasis: 0.23 mm
+Extranodal extension: not identified
+Fixation to one another:
+Non-neoplastic Breast Tissue: not identified
+Treatment Effect (Response to Presurgical Neoadjuvant Therapy):
+In the Breast:
+In the Lymph Nodes:
+Prognostic markers: See
+for addendum
+Fixation Time between 6-48 hours: Yes
+Pathologic Staging:
+pT2N(sn) 1miM(not applicable)
+Primary Tumor (Invasive Carcinoma) (pT)
+pT1: Tumor ≤20 mm in greatest dimension
+pT1c:
+Tumor >10 mm but ≤20 mm in greatest dimension
+Regional Lymph Nodes (pN)
+on prior biopsy
+Only sentinel node(s) evaluated. If 6 or more sentinel nodes and/or nonsentinel nodes are removed, this modifier
+should not be used.
+(sn):
+pN1mi:
+Micrometastases (greater than 0.2 mm and/or more than 200 cells, but none greater than 2.0 mm).
+Distant Metastasis (M)
+Not applicable
+Date of Printing:
+MR
+Page 2 of 5
+SURGICAL PATHOLOGY REPORT
+SURGICAL PATHOLOGY REPORT
+NAME:
+MR #:
+SURG PATH #:
+ALT ID #:
+The pathologic stage assigned here should be regarded as provisional, as it reflects only current pathologic data and does not
+incorporate full knowledge of the patient's clinical status and/or prior pathology.
+The final diagnosis has been communicated via electronic mail to
+by
+Attestation:
+By this signature, I attest that I have personally formulated the final interpretation expressed in this report and that the above diagnosis is based
+upon my examination of the slides and/or other material indicated in this report.
+***Electronically Signed Out By***
+Interpreted by:
+Gross Description:
+A. Received fresh labeled with the patient's name and "left axillary sentinel lymph node #1 blue" is an irregular portion of red-tan
+fibroadipose tissue. The tissue is palpated to reveal one possible lymph node measuring 2.8 x 2.5 x 1.3 cm. The specimen is
+serially sectioned and submitted entirely in cassettes A1FS and A2FS for frozen and permanent diagnosis.
+B. Received fresh labeled with the patient's name and "left axillary sentinel lymph node #2 blue" is an irregular portion of red-tan
+fibroadipose tissue. The tissue is palpated to reveal one possible lymph node measuring 2.5 x 1.8 x 1.0 cm. The possible lymph
+node is serially sectioned and submitted entirely in cassette B1FS for frozen and permanent diagnosis.
+C. Received fresh labeled with the patient's name and "left breast total mastectomy short superior/long lateral" is a 650 gram
+simple mastectomy specimen measuring 20.5 x 18 x 3.5 cm. There is a short stitch marking superior and a long stitch marking
+lateral. The breast is serially sectioned to reveal a 1.2 x 1.2 x 0.8 cm tan-pink stellate mass that is 22.5 cm from the lateral margin,
+abutting the medial margin, 8.4 cm from the superior margin, abutting the inferior margin, 0.2 cm from the superficial margin, and
+0.2 cm from the deep margin. The mass is located in the lower inner quadrant at approximately 8:00. The deep resection margin
+is inked black and the superficial resection margin is inked blue. The medial margin of the mass is inked orange and the inferior
+margin of the mass is inked green. A second tan-white stellate mass measuring 1.8 x 1.5 x 1.4 cm is located 6.5 cm from the
+lateral margin, 13.6 cm from the medial margin, 13.6 cm from the superficial margin, 8.3 cm from the inferior margin,
+2.4 cm from the superficial margin/skin and 3.7 cm from the deep margin. The mass is located in the mid outer portion of the
+specimen at approximately 3:00. The remainder of the breast parenchyma is yellow-white and unremarkable. The specimen
+contains a tan-brown skin ellipse measuring 7.2 x 4.5 cm. The nipple measures 1.4 x 1.3 x 0.6 cm. There is no dimpling or skin
+retraction identified. The breast is placed in formalin at
+The specimen is submitted as follows:
+C1
+C2-C4
+C5-C6
+Lower inner quadrant mass to medial margin.
+Remainder of lower inner quadrant mass (to superficial, deep and inferior margin).
+Second mass to deep margin (bisected).
+C7-C8 Second mass to superficial margin/skin (bisected).
+C9-C14 Remainder of second mass.
+C15
+C16
+Representative section from upper inner quadrant.
+Representative section from lower inner quadrant.
+C17
+C18
+C19
+C20
+Representative section from lower outer quadrant.
+Representative section from upper outer quadrant.
+Nipple (serially sectioned).
+Skin.
+D. Received in formalin labeled with the patient's name and "8:00 additional medial, short superior, long lateral, clip true" is a 2.6
+× 1.9 x 1.0 cm lumpectomy specimen, with a short suture designating superior, a long stitch designating anterior, and clips
+designating the true (medial) margin. The specimen is received as follows:
+Anterior orange
+Posterior - black
+True (medial) green
+Lateral - blue
+The specimen is serially sectioned from superior to inferior to reveal a tan-yellow, glistening cut surface. No discrete lesions are
+identified. The specimen is submitted entirely from superior to inferior in cassettes D1 through D4. The breast was placed in
+formalin at
+Date of Printing:
+MR
+SURGICAL PATHOLOGY REPORT
+Page 3 of 5
+NAME:
+MR #:
+SURGICAL PATHOLOGY REPORT
+SURG PATH #:
+ALT ID #:
+E. Received in formalin labeled with the patient's name and "8:00 additional inferior short anterior, long lateral, clip true margin" is
+a 3.0 x 2.3 x 1.1 cm lumpectomy specimen, with short suture designating anterior, long suture designating lateral, and clips marking
+the true margin. The specimen is inked as follows:
+Anterior - orange
+Posterior black
+Superior - blue
+True (inferior) - green
+The specimen is serially sectioned from medial to lateral to reveal a yellow-gold, glistening cut surface. No discrete lesions are
+identified. The specimen is submitted entirely from medial to lateral in cassette E1 through E4. The breast is placed in formalin
+at
+F. Received in formalin labeled with the patient's name and "8:00 additional anterior short superior, long lateral, clip true margin"
+is a 3.2 x 1.7 x 0.3 cm lumpectomy specimen, with short sutures designating superior, a long stitch designating lateral, and clips
+designating the true (inferior) margin. The specimen is inked as follows:
+True (anterior) - orange
+Posterior - black
+Medial-green
+Lateral - blue
+The specimen is serially sectioned from superior to inferior to reveal a yellow, glistening cut surface. No discrete lesions are
+identified. The specimen is submitted entirely from superior to inferior in cassettes F1 through F3. The breast is placed in
+formalin at
+G. Received in formalin labeled with the patient's name and "8:00 additional posterior short superior, long lateral, clip at true
+margin" is a 2.1 x 1.9 x 0.6 cm lumpectomy specimen with short sutures designating superior, a long set of sutures designating
+lateral, and clips designating the true margin. The specimen is inked as follows:
+Anterior orange
+True (posterior) - black
+Medial - green
+Lateral blue
+The specimen is serially sectioned from superior to inferior to reveal a tan-pink to tan-brown cut surface. No discrete lesions are
+grossly identified. The specimen is submitted entirely from superior to inferior in cassettes G1 through G3. The specimen is
+placed in formalin at
+H. Received in formalin labeled with the patient's name and "additional skin left breast blue at 3:00" is a 5.0 x 5.0 cm C-shaped
+portion of tan-brown skin and subcutaneous tissue with an attached strip of brown skin measuring 13.9 x 0.3 x 0.5 cm. The skin
+on the specimen was inked blue in the OR and designates 3:00. The remainder of the specimen is inked as follows:
+12 to 3:00 orange
+3 to 6:00 purple
+-
+6 to 9:00 - blue
+9 to 12:00-green
+Deep-black
+The specimen is serially sectioned from 12 to 6:00, and no discrete lesions are identified. Also received within the container are
+two irregular portions of tan-brown skin and subcutaneous tissue measuring 1.4 x 0.6 x 0.6 cm and 8.6 x 0.3 × 0.5 cm. This tissue
+is serially sectioned and no discrete lesions are identified. The specimen is submitted as follows:
+H1-
+H2-H4 -
+Representative sections from the 12 to 3:00 margin
+Representative sections from the 3 to 6:00 margin
+Representative sections from the 6 to 9:00 margin
+H5-
+H6-
+Representative sections from the 9 to 12:00 margin
+H7-H8-
+Representative sections from the additional skin and underlying soft tissue
+Intraoperative Consultation:
+A1FS, A2FS, lymph node, "left axillary sentinel lymph node #1 blue":
+Negative for carcinoma.
+Date of Printing:
+MR
+Page 4 of 5
+SURGICAL PATHOLOGY REPORT
+NAME:
+MR #:
+SURGICAL PATHOLOGY REPORT
+SURG PATH #:
+ALT ID #:
+B1FS, lymph node, "left axillary sentinel lymph node #2 blue":
+Negative for carcinoma.
+If immunohistochemical stains and/or in situ hybridization are cited in this report, the performance characteristics were determined by the
+in compliance with CLIA'88
+regulations. Some of these tests rely on the use of "analyte specific reagents" and are subject to specific labeling requirements by the FDA. Known
+positive and negative control tissues demonstrate appropriate staining. This testing was developed by the
+It has not been cleared or approved by the FDA. The FDA has determined that such clearance or approval
+is not necessary.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+w 1/24/14
+Yes
+No
+3
+Dual/Synchronous Primary Note
+Case is (circle):
+QUALIFIED
+Reviewer Initials
+Date Reviewed:
+DISQUALIFIED
+12344
+2
+2
+Page 5 of 5
+Date of Printing:
+MR
+SURGICAL PATHOLOGY REPORT

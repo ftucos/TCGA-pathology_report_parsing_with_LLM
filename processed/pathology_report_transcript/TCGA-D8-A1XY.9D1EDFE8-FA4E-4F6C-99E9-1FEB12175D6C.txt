@@ -1,0 +1,62 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+page 1 / 1
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+ICD-0-3
+Material: Multiple organ resection -left breast
+Unit in charge
+Physician in charge:
+Material collected on:
+carcinoma, infiltrating duct, was 8500/3
+Site: breast,
+NOS
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+050.9
+W
+4/13/11
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell
+nuclei. HER2 protein stained with HercepTest™ by DAKO. Positive reaction in invasive cancerous cells (Score = 3+ ).
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Left breast sized 30.4 x 22.2 x 8.2 cm removed without axillary tissues and with a skin flap of 32.1 x 12.8 cm. Weight 1760 g.
+Tumour sized 2.1 x 1.8 x 1.7 cm found in the upper outer quadrant, 5.9 cm from the upper boundary, 2.6 cm from the base and
+2.1 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (2+3+1/0 mitoses/10 HPF - visual area: 0.55mm).
+Mamilla sine laesionibus. Glandular tissue showing parenchymal atrophy.
+AXILLARY LYMPH NODES:
+Lymphonodulitis chronica (NO III).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae (NHG2, pT2, pNO). Invasive ductal carcinoma of the left breast.
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+UUID:9D1EDFE8-FA4E-4F6C-99E9-1FEB12175D6C
+TCGA-D8-A1XY-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+iPAA Discrepancy
+Prior Malignancy 11.story
+Dual/Synchronous Primary Note 1
+Lase (circle):
+Revier In
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+to 4/12/11

@@ -1,0 +1,32 @@
+Final Diagnosis
+Criteria
+Diagnosis Discrepancy
+Primary tumor Site Discrepancy
+IIIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer Initials
+Yes
+CQUALIFIED
+Date Reviewed:
+DISQUALIFIED
+No
+☑
+UUID:B481795F-C52C-4FCE-827A-07991C7A7C2E
+TCGA-AR-A24U-01A-PR
+Redacted
+east, left, simple mastectomy: Infiltrating ductal carcinoma, with micropapillary differentiation, Nottingham grade III (of III)
+[tubules 3/3, nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming multiple (2) masses located in the lower outer quadrant
+adjacent to prior core biopsy site (3 o' clock--1.1 x 1.0 x 1.0 cm; 4 o' clock--1.6 x 1.5 x 1.5 cm) [AJCC pT1c]. Angiolymphatic
+invasion is present. The non-neoplastic breast parenchyma shows nonproliferative fibrocystic changes. Biopsy site changes in the
+upper outer quadrant (status post lumpectomy), negative for residual tumor. Nipple and skin without diagnostic abnormality.
+Skeletal muscle is present and not involved by tumor. All surgical resection margins, including the deep margin, are negative for
+tumor (minimum tumor free margin, 0.6 cm, superior anterior margin).
+Lymph nodes, left axillary, excision: A single (of 5) left axillary lymph node is positive for metastatic carcinoma. Extranodal
+extension is present.
+1CD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS C50.9
+سار
+4/25/11

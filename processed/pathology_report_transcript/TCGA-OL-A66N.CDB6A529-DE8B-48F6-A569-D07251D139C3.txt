@@ -1,0 +1,114 @@
+Sample #
+UUID:CDB6A529-DE8B-48F6-A569-D07251D139C3
+TCGA-OL-A66N-01A-PR
+Redacted
+FINAL PATHOLOGIC DIAGNOSIS
+A. Left breast, modified radical mastectomy:
+- Invasive lobular carcinoma, SBR grade II, see pathologic parameters and
+comment.
+- Lobular carcinoma in situ, classic type.
+- Metastatic carcinoma in thirteen of fifteen lymph nodes (13/15); biopsy
+site present in one node.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Microscopic measurement: 6.6cm (slices 5-11); 20% cellularity. See
+comment.
+B. Composite histologic (modified SBR) grade: II
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic rate: 1
+C. Associated lobular carcinoma in situ (LCIS):
+- Within main mass and extending away
+2. Excisional biopsy margins: Widely (>1cm) free of tumor
+3. Blood vessel and lymphatic invasion: Absent
+4. Nipple and skin: unremarkable
+5. Axillary lymph nodes: Positive (13/15)
+Size of largest metastatic deposit: 1cm
+ICD-03
+NOS
+Carcinona, lotular exfiltrating
+- Extranodal extension: present, largest focus 2mm (multifocal)
+6. Special studies (see
+852013
+Sute & Breast NOS C50.9
+15/16/13
+- ER: Moderate to strong expression in 80% of invasive tumor nuclei
+- PR: No expression of invasive tumor nuclei
+- HER2 antigen (FISH): Non-amplified (ratio: 1.10)
+7. pTNM (AJCC, 7th edition, 2010): pT3, N3, MX.
+Clinical History:
+The patient is a year-old female with breast cancer undergoing left breast
+modified radical mastectomy.
+Comment
+The tumor exhibits 20% cellularity. Although extensive hyalinization is present
+in the tumor bed, this feature was also seen on the pre-treatment biopsy. Hence,
+response to chemotherapy is difficult to assess. Of note, no significant
+treatment response is seen in the lymph nodes.
+Specimens Received:
+A: Left breast modified radical mastectomy
+Gross Description:
+A. The specimen is received in a single container labeled with the patient's
+name, medical record number, and additionally identified as, 'left breast
+modified radical mastectomy'. Received fresh and placed in formalin is a 1,276.6
+gm modified radical mastectomy specimen. The specimen is received oriented with
+a suture designating left axillary tail. The specimen measures 26.5 cm from
+superior to inferior, 27.5 cm from medial to lateral, and 5 cm from anterior to
+posterior. There is an attached 9.5 x 9 x 2.5 cm axillary tail. On the
+anterior surface is a 23.5 x 13 cm tan-white ellipse of skin with a 6 x 5 cm
+areola and a 1.1 x 1 cm flattened nipple. The nipple-areolar complex reveals no
+evidence of ulceration or retraction.
+The specimen is inked as follows:
+superior edge - blue;
+inferior edge - green;
+posterior - black.
+The specimen is serially sectioned from medial to lateral into 21 slices to
+reveal a firm, bulging, scallop tan-white to pink 8.5 x 6.5 x 4.2 cm mass in
+slices 5-13. The mass is 0.7 cm from posterior margin (black) and 0.5 cm from
+anterior skin. A biopsy tract filled with gel is present in places 6-7, with
+clip present in slice 7. The remainder of the specimen consists of
+approximately 5% dense gray-white fibrous breast parenchyma and 95% lobulated
+yellow adipose tissue. No additional masses or nodules are grossly identified.
+Sectioning through the axillary tail reveals multiple tan-brown, rubbery lymph
+nodes ranging from 0.6 x 0.4 x 0.4- 2 x 0.9 x 0.5 cm in greatest dimension.
+Breast specimens are fixed for at least 6 hours in 10% NBF and no more than 72
+hours.
+Block summary:
+Al: mass closest approach to posterior margin (black), slice 13
+A2: mass, slice 12
+A3: mass, slice 11
+A4: mass, slice 10
+A5: mass, slice 9
+A6: mass closest approach to skin, slice 8
+A7: mass biopsy tract, slice 7
+A8: mass biopsy tract, slice 6
+A9: mass, slice 5
+A10: medial to lesion, slice 4
+A11: medial to lesion, slice 14
+A12: medial to lesion, slice 15
+A13: upper-inner quadrant, slice 5
+A14: upper-outer quadrant slice 12
+A15: lower-outer quadrant slice 9
+A16: lower-inner quadrant slice 4
+A17: nipple
+A18: skin subjacent to nipple
+A19-A23: one lymph node candidate bisected in each cassette
+A24: three lymph node candidates
+A25: one lymph node candidate
+A26: three lymph node candidates
+A27-A29: one lymph node candidate bisected in each cassette
+MD. PhD
+Criteria
+Diagnosis Discrepancy
+w 4/12/13
+Primary Tumor Site Discrepancy
+Hi! AA Discrepancy
+Pric. Malignancy History
+Dual/Synchronous Primary Notes
+Case is (cil):
+Reviewer Inis
+Yes
+No
+QUALIFIED/ DISQUALIFIED
+Dave Reviewed:
+✓
+4/11/13

@@ -1,0 +1,84 @@
+Internal invoice No.
+Patient: XXX
+ICD-0-3
+Carcinoma, invasive papillary, intraductal Nos
+" (invasive) 8503/3
+Site breast, Nos
+050.9
+3/11/11
+عسل
+Department of Cancer Pathology
+page 1 / 2
+copy No. 2
+Date:
+Examination: Intraoperative examination
+Cost of diagnostic procedure
+Examination No.:
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection – right breast.
+-
+Unit in charge:
+Physician in charge:
+Material collected on
+Material received on:
+Expected time of examination: 20 minutes (from receipt of the material)
+Clinical diagnosis: Suspected cancer of the right breast. Lesion on the boundary of the upper quadrants.
+Examination performed or
+Result of intraoperative examination:
+Carcinoma probabiliter invasivum.
+Final diagnosis after paraffin specimens are analysed.
+Compliance validated by: (
+Examination performed on:
+Macroscopic description:
+UUID:8EA57ABF-E3DA-4862-BAB8-A6E36408AC42
+TCGA-D8-A1JS-01A-PR
+Redacted
+Surgical specimen sized 5 x 4 x 2 cm with a skin flap of 4 x 0.5 cm.
+Criteria
+Yes
+Minimum side margin 0.2 cm.
+Result of intraoperative examination:
+Carcinoma papillare probabiliter invasivum.
+Foci DCIS typus cribrosus cum atypia gradus levioris ad mediocrum sine necrosis.
+Final diagnosis after immunohistochemical tests.
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Devis
+verinisial
+QUALIFIED
+/ DISQUALIFIED
+Date Reviewed:
+A 3/11/11
+Compliance validated by:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 0)
+Examination performed on:
+Compliance validated by:
+Patient: XXX
+Examination: Intraoperative examination
+page 2 / 2
+Examination No.
+PESEL: XXX
+Gender: F
+Examination performed on:
+Histopathological diagnosis:
+Carcinoma papillare probabiliter invasivum NHG1 (2 +2 +1/0 mitoses/ 10 HPF, visual area diameter: 0.55 m).
+Corresponds to invasive papillary carcinoma of the right breast.
+Solitary foci of DCIS (cribrate type with medium nuclear atypia, without necrosis).
+The immunohistochemical test showed the absence of a myoepithelial cell stratum around the foci of the
+invasive lesion (p63-, SMA'). The cells show negative reaction withCK5/6. Cytokeratin 7 present in part of the
+cells.
+Compliance validated by:
+Examination performed on:
+Suplementary test
+Expression of the Ki67 proliferation antigen showed in 5% of cellular nuclei (20% in hot spots)
+Compliance validated by

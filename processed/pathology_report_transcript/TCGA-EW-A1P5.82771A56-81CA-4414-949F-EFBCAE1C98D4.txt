@@ -1,0 +1,295 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A.
+Sentinel node # 1 count
+- Metastatic carcinoma to one lymph node, (0/1).
+-
+Metastatic deposit: 0.6 cm.
+NOTE: Metastatic deposit is only present on permanent slides.
+B.
+Sentinel node # 2 count
+:
+- No carcinoma seen in one lymph node (0/1)
+- Immunohistochemistry for keratin to follow.
+Right breast 1 short superior, 1 long lateral:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+Site: breast, Nos
+850013
+C50.9 3/12/11
+- Invasive and in situ moderately differentiated ductal carcinoma, Nottingham grade 2 (3+2+1), 2.5 cm in greatest
+dimension.
+- Resection margins are free of tumor (closest margin at 1.0 cm: inferior).
+- Lymphovascular invasion is not present.
+- DCIS, intermediate nuclear grade without necrosis, cribriform type, present in 2 of 15 slides examined.
+- See Tumor Summary.
+Tumor Summary:
+Specimen:
+Total breast
+Procedure:
+-
+Total mastectomy
+Lymph Node Sampling:
+-
+· Sentinel lymph node
+Specimen Integrity:
+- Single intact specimen
+Specimen Laterality:
+- Right)
+Tumor Size:
+-
+UUID:82771A56-81CA-4414-949F-EFBCAE1C98D4
+TCGA-EW-A1P5-01A-PR
+Redacted
+Greatest dimension of largest focus of invasion: 2.5 cm.
+Tumor Focality:
+- Single focus of invasive carcinoma.
+Macroscopic and Microscopic Extent of Tumor:
+- Skin: Invasive carcinoma does not invade into the dermis or epidermis
+- Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ (DCIS):
+-
+DCIS is present:
+-
+-
+Extensive intraductal component (EIC) negative.
+· Size (Extent) of DCIS:
+- Number of blocks with DCIS: 2
+- Number of blocks examined: 15
+Architectural Pattern:
+-
+Cribriform
+Nuclear Grade:
+-
+· Grade II (Intermediate).
+Necrosis:
+.
+Not identified.
+Lobular Carcinoma in Situ:
+-
+Not identified.
+Histologic Type of invasive Carcinoma:
+-
+Invasive ductal carcinoma
+Histologic Grade:
+SURGICAL PATHOL Report
+- Glandular (Acinar)/Tubular Differentiation: - Score 3: <10 of tumor area forming glandular/tubular structures
+- Nuclear Pleomorphism: - Score 2: Cells larger than no9rmal with open vesicular nuclel, visible nucleoli, and moderate variability
+in both size and shape.
+- Mitotic Count: - Score 1
+Overall Grade: - Grade 2
+Margins:
+Margins uninvolved by invasive carcinoma: Distance from closest margin: 10 mm (Inferior).
+Lymph-Vascular Invasion:
+- Not identified
+-
+Dermal Lymph-Vascular Invasion:
+Not identified.
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 2
+Total number of lymph nodes examined (sentinel and nonsentinel): 2
+Number of lymph nodes with macrometastases (>0.2 cm): 1
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and /or > 200 cells): 0
+Number of lymph nodes with isolated tumor cells (S.2 mm and ≤200 cells): 0
+Size of largest Metastatic deposit: 0.6 cm
+Extranodal Extension:
+-
+Not identified.
+Method of Evaluation of Sentinel Lymph Nodes:
+Hematoxylin and eosin (H&E), one level
+- Immunohistochemistry.
+Ancillary Studies:
+"
+-
+Estrogen Receptor: Pending
+Progesterone Receptor: Pending
+Her2/neu FISH:
+-
+Performed on another specimer
+Results: Not amplified (HER2 gene copy <4.0 or ratio < 1.8)
+Pathologic Staging:
+Primary Tumor (Invasive Carcinoma) (pT): PT2
+Regional Lymph Nodes (pN) Modifier: (sn) pN1a
+Distant Metastasis (M): Not applicable
+Pathologic Staging: pT2, pN1a, MX
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5=ER, PgR 636-PR, A485-HER2, H-11-
+EGFR, CCH2/DDG9=CMV, F39.4.1=AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results 
+are read by a pathologist as positive or negative.
+)
+Procedures/Addenda
+Addendum
+Addendum Diagnosis
+Date Ordered:
+Date Complete:
+Date Reported:
+"B" Immunohistochemistry for keratin is negative for carcinoma.
+As the attending pathologist, I attest that I: (1) Examined the relevent
+preparation(s) for the specimen(s); and (I) Rendered the diagnosis(es).
+Status: Signed Out
+Page 2 of 4
+SURGICAL PATHOL Report
+"C" The tumor cells are positive for ER and PR and negative for HER-2 by Immunohistochemistry
+MD
+Intraoperative Consultation
+AFS.
+Sentinel node # 1 count
+fs: Negative for carcinoma
+BFS.
+Sentinel node # 2 count:
+fs: Lymph node; negative for tumor.
+CFS.
+Right breast 1 short superior, 1 long lateral fs
+Inferior margin; negative for tumor (grossly and microscopically 1.0 cm from margin).
+Superficial margin-negative for tumor (gross and microscopic microscopically 3 cm from tumor).
+Clinical History:
+Patient is a
+I female with right breast cancer.
+Pre Operative Diagnosis:
+Right breast cancer, tissue study patient
+Specimen(s) Received:
+A: Sentinel node # 1 count
+B: Sentinel node # 2 count:
+fs
+fs
+., MD
+C: Right breast 1 short superior, 1 long lateral fs
+Gross Description:
+A.
+Received in formalin and labeled "sentinel node # 1 count > fs" consists of irregular shaped, adipose tissue fragment,
+1.5 x 1.1 x 0.6 cm. Specimen submitted as follows
+1
+2&4
+B.
+Section for frozen
+The reminders of the specimen in toto
+Received in formalin and labeled "sentinel node # 2 count
+2.6 x 1.8 x 0.5 cm. Specimen submitted as follows
+fs" consists of irregular shaped, adipose tissue fragment,
+1
+Sections for frozen
+2&3
+Reminders of specimen in toto
+C.
+Received in formalin and labeled "right breast 1 short superior, 1 long lateral fs" consists of a mastectomy specimen
+weighing 6.63 grams and measures 20.0 x 16.0 x 4.0 cm. Specimen is oriented with a short stitch superior and a long
+stitch lateral. There is an ellipse of skin present, 10.0 x 5.5 cm the nipple and areola are present. The areola complex
+measure 5.0 cm in greatest dimension. The nipple is inverted, distracted and measures 0.7 cm in greatest dimension. For
+gross purpose the specimen is inked as follow: Superior resection margin inked blue, inferior resection margin inked
+green, medial resection margin inked red, lateral resection margin inked orange, anterior margin inked yellow and
+posterior surgical resection margin inked black. Sectioning of the specimen reveals an ill-defined, pale-tan, firm mass, 2.5
+x 1.5 x 1.5 cm. This mass is grossly located 1.0 cm from inferior resection margin and 3.0 cm from lateral resection
+margin. It is located 2.0 cm from the anterior resection margin and 1.0 cm from the deep resection margin. Upon
+sectioning the stroma is composed of yellow, lobulated adipose tissue. The firm, white area is closely associated with the
+skin. No other lesions are identified. Specimen submitted as follows.
+Inferior margin for frozen sections
+Page 3 of 4
+SURGICAL PATHOL Report
+2
+23.
+4-6
+7
+88
+9
+11
+012375
+Lateral margin for frozen sections
+Nipple
+Sections of mass
+Prior biopsy site with clip
+Closest deep margin
+Mass with skin
+Medial margin
+Superior margin
+lower inner quadrant
+Upper inner quadrant
+14
+Upper outer quadrant
+Lower outer quadrant
+ICD-9(s):
+196.3 174.8
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+//DISQUALIFIED
+_Date Reviewed:
+the 3/1/2/111
+Page 4 of 4
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Interpretation:
+Anatomic Pathology Consult Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Client:
+RIGHT BREAST:
+INFILTRATING DUCTAL CARCINOMA, INTERMEDIATE NUCLEAR GRADE
+IMMUNOHISTOCHEMISTRY IS REPORTED TO BE POSITIVE FOR ESTROGEN RECEPTOR AND
+PROGESTERONE RECEPTOR (IN THE ORIGINAL LABORATORY).
+HER2-FISH IS REPORTED TO BE NEGATIVE (IN THE ORIGINAL LABORATORY).
+NOTE: Some Imunohistochemical antibodies are analyte specific reagents (ASR) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore) The ASRs are clinically indicators that the not require FDA approval. The clones are und IDS-ER,
+PyR 636-
+PR.1485-HER2. H-11-EGFR, CCH2DDG9-CMV, F39.4.1-AR and HPV by ISH All ummunohistochemical stains are used with formalin er molecular fixed, paroffin embedded time. Delection is by Envision Method. The results are read by a
+pathologist or positive or negative.
+ICD-0-3
+Site: breast, Nos
+050.9
+Carcinoma, infiltrating duct, nos 8500/3
+3/12/11
+***Electronically Signed Out By***
+MD
+As the attending pathologist, I attest that 1: (1) Examined the relevant
+preparation(s) for the specimen(s); and (ii) Rendered the Magnosis(es).
+Clinical History:
+Right breast core biopsy from a
+Specimen(s) Received:
+SP consult, slides only
+Slide(s)/Block(s) Received;
+RECEIVED 1 SLIDE LABELED
+୮
+1
+female
+Collection Date:
+Criteria
+Xagnosis Disc epancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Roted
+Case is (circle):
+3.Viewer Initials
+QUALIFIED
+Date Reviewed:
+Page 1 of 1
+Yes
+No
+QSQUALIFIED

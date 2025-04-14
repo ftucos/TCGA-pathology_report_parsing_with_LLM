@@ -1,0 +1,278 @@
+UUID:1E706FF8-F42C-4FC6-8976-BEB4213BD730
+TCGA-AC-A80R-01A-PR
+Redacted
+Referring Physician:
+DOB:
+Ref#:
+Age:
+Hosp#:
+Gender:F
+Provider Group :
+Date of Service: Date Received:
+Case #:
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. -F. LEFT BREAST, LEFT AXILLARY TISSUE, PALPABLE NODE, LEFT
+SENTINEL NODE (
+), AND SUPERIOR AND INFERIOR SKIN
+EDGES, SIMPLE MASTECTOMY, EXCISION OF AXILLARY TISSUE,
+BIOPSY OF PALPABLE NODE, EXCISION OF SUPERIOR AND INFERIOR
+SKIN EDGES, AND SENTINEL NODE BIOPSY:
+- Invasive mucinous carcinoma, Nottingham grade 1.
+- Tumor size: 1.7 cm in greatest dimension.
+- Tumor location: Subareolar.
+- No in situ component identified.
+- Margins of resection are negative:
+ICD-0-3
+Carcinoma infiltrating
+- Invasive carcinoma is at least 3.5 cm from all margins.
+- No lymphovascular invasion identified.
+mucinous 8480/3
+Site Breast NOS C50.9
+J4/2/14
+- One sentinel and one non-sentinel lymph node, negative for tumor (0/2).
+- Focal atypical ductal hyperplasia identified.
+- Uninvolved breast parenchyma with fibrocystic changes.
+- Benign skin and nipple.
+- Palpable node biopsy consists of only adipose tissue.
+- Separate left axillary tissue consists of benign fibroadipose tissue.
+- Additional superior and inferior skin edges consists of benign skin and
+subcutaneous tissue.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive mucinous carcinoma, Nottingham grade 1.
+Primary tumor: pT1c.
+Regional lymph nodes: pN0(i-)(sn).
+Distant metastasis: N/A.
+Stage: IA.
+Lymphovascular invasion: Not identified.
+Margin status: R0, negative.
+Case #:
+Printed:
+MR No.
+Acct No. -
+Patient Name -
+Pathology - Page 1/6
+Page 1
+This report continues. (FINAL)
+Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimen
+Case #
+Printed:
+Pathology -
+MR No.
+Page 2/6
+Acct No. -
+tient Name -
+Page 2
+This report continues.. (FINAL)
+Page 2 Doc# 1
+Patient:
+Case #:
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Tumor site:
+Tumor size:
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+Simple mastectomy.
+Left breast.
+Sentinel node biopsy.
+Invasive mucinous carcinoma.
+Subareolar.
+1.7 cm.
+Unifocal.
+1 of 3 (Nottingham score 5 of 9).
+2 of 3.
+2 of 3.
+1 of 3.
+Not identified.
+Benign skin and nipple.
+Not identified.
+At least 3.5 cm away from all margins.
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit:
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+AJCC Stage:
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+Ki-67:
+2 (one sentinel and one non-sentinel).
+0.
+N/A.
+N/A,
+pT1c.
+pN0(i-)(sn),
+N/A.
+IA.
+Positive (100%, strong intensity).
+Positive (99%, strong intensity)
+Negative (score 1+),
+7% positive cells.
+Case #
+Printed;
+MR No.-
+Pathology
+Page 3/6
+Page 3
+This report continues. (FINAL)
+Page 3 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Signed by:
+Source of Specimen:
+A. Sentinel lymph node; Left sentinel node #7
+B. Breast surgical Left axillary tissue
+C. Breast total mastectomy; Left
+D. Lymph node;Palpable node
+E. Skin;Superior skin edge
+F. Skin Inferior skin edge
+Clinical History/Operative Dx:
+Breast cancer.
+Intraoperative Diagnosis:
+A. Left sentinel node
+Negative for metastasis
+The intraoperative interpretation(s) was/were performed and rendered at
+Gross Description:
+A. Part A designated left sentinel node (FS). Initially received in a fresh state for frozen section/touch
+prep evaluation, is a 3.0 x 2.5 x 1.5 cm portion of yellow-tan fat. Examination reveals a single soft to
+rubbery pink and tan lymph node measuring 2.5 cm in greatest dimension. A single touch imprint slide is
+forwarded for microscopic evaluation. The lymph node is entirely submitted for routine histology with a
+sentinel node protocol performed, on A1 and A2
+B. Part B designated left axillary fissue. Received in formalin is a 4 gram portion of yellow-tan fibrofatty
+soft tissue measuring 3.8 x 2.2 x 1.5 cm. Examination reveals softened yellow-tan fat, without prominent.
+lymph node content. The fatty tissue is entirely submitted for microscopic evaluation for possible minute
+lymph node content, in B1-B3.
+C. Received in the fresh state for tumor harvest for
+Case #:
+Printed:
+tumor bank. The specimen is
+Page 4
+This report continues (FINAL)
+MR No. -
+cct No.
+Pathology - Page 4/6
+Job
+ayo T
+C# 1
+Patient:
+Case #
+FINAL SURGICAL PATHOLOGY REPORT
+labeled "left breast mastectomy.* Sutures present for orientation purposes: Suture - medial.
+Laterality: Left.
+Specimen: Simple mastectomy.
+Size of mastectomy: (M-L x S-1 x A-P): 21.4 x 12.4 x 5.5 cm (including lateral extension of fat).
+Axillary tail: 8.0 x 6.8 x 1.8 cm extension of lateral fat:
+Skin: 17.7 x 6.4 cm. Nipple/areola: Present.
+Specimen weight: 489 grams.
+Ink code: Blue-superior-anterior, orange - inferior-anterior, black - deep
+Slabs: Total #12, M=1, L=12. Nipple in slabs #6-7.
+Time of resection: Not documented.
+Time placed into formalin:
+Time out of formalin:
+Lesion 1: Biopsy site: Spring and hook-shaped radiologic marker appreciated along anterior-lateral
+periphery of lesion (slab 7).
+Size: 1.7 x 1.5 x 1.5 cm, well-circumscribed, pink-tan, gelatinous appearing, mucinous tumor mass.
+Location: Subareolar. Involves slabs #6-7.
+Distance to nearest margin(s): 3.5 cm from superior superficial and inferior superficial, 1.0 cm from skin,
+greater than 4.5 cm from most medial and lateral edges of breast.
+Non-lesional breast: Serial sections of the breast demonstrate predominantly fatty, glistening, lobular
+adipose tissue without additional discrete nodularity/lesion. Examination of the most lateral extension of
+breast reveals a single lymph node, measuring 0.8 x 0.7 x 0.4 cm. Several embedded staples are present.
+Cassette summary:
+C1) nipple,
+C2) medial and lateral extension of skin.
+C3) slab 5, medially adjacent to lesion,
+C4) slab 6, tumor,
+C5) slab 6, lesion and skin relationship.
+C6) slab 7, lesion,
+C7) slab 7, tumor, site marked by radiologic marker,
+C8) slab 7, tissue medially inferior to lesion (dense changes),
+C9) slabs 6-7, deep margin.
+C10) slab 7, superior superficial surgical margin adjacent to lesion,
+C11) slab 7, inferior superficial surgical margin adjacent to lesion,
+C12) slab 8, adjacent to lesion,
+C13) slab 10, upper outer quadrant,
+C14) slab 10, lower outer quadrant,
+C15) slab 3, lower inner quadrant.
+C16) slab 3, upper inner quadrant,
+C17) single lymph node.
+D. Part D designated palpable node. Received in formalin is a fatty tissue fragment measuring 1.0 x 0.8 x
+Case #
+Printed:
+Page 5
+This report continues. (FINAL)
+Pathology
+MR No.
+w
+Page 5/6
+5 Doc# 1
+Patient:
+Case
+FINAL SURGICAL PATHOLOGY REPORT
+0.3 cm. The tissue is serially sectioned and entirely submitted for microscopic evaluation in D1.
+E. Part E is superior skin edge, clip medial. Received in formalin is an elliptical strip of erythematous, pink
+and tan skin with subcutaneous fat measuring 12,0 x 0.8 cm with a 1.0 cm deep surgical margin. A clip is
+near one apex designating medial. The superior edge of the skin and surgical margin is now marked blue.
+Sectioning reveals glistening, yellow-tan subcutaneous fat without grossly unusual areas of change
+suggestive of neoplasia. Representative sections are submitted for microscopic evaluation in E1.
+F. Part F is inferior skin edge, clip medial. Received in formalin is an elliptical strip of erythematous, pink
+and tan skin with subcutaneous fat measuring 12 5 x 1.0 cm with a 1.8 cm deep surgical margin. A clip is
+near one apex designating medial. The inferior edge of the skin including superficial surgical margin are
+now marked green. The specimen is serially sectioned demonstrating glistening, yellow-tan, lobular
+subcutaneous fat without discrete nodularity or grossly unusual areas of change suggestive of neoplasia.
+Representative sections are submitted for microscopic evaluation in F1 (two pieces).
+Microscopic Description:
+A. F. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis:
+rendered. The sentinel node (part A) was evaluated by H&E levels and OSCAR-cytokeratin immunostains.
+Controls are appropriate.
+Case
+Printed:
+Pathology
+MR No..
+Page 6/6
+Page 6
+END OF REPORT (FINAL)
+cay & Doc# 1
+11/25/13 Yes
+No
+Criteria
+Diagnosis Discrepancy
+hw
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cice):
+Reviewer ti
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
++
+11125713

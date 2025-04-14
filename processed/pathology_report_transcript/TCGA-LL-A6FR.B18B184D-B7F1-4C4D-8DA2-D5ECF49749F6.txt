@@ -1,0 +1,236 @@
+RUN DATE
+RUN TIME
+RUN USER
+PATIENT
+REG DR
+SPEC #
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks:
+RECD:
+COLL:
+Right breast mass
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+STATUS:
+ROOM:
+BED:
+TIME IN FORMALIN: 6:29
+COLD ISCHEMA TIME: 0:00
+nrs.
+mins.
+PAGE 1
+A.
+B.
+C.
+Specimen(s): A. Right breast mass
+B.
+C.
+D.
+Right breast sentinel node
+Posterior medial margin
+Medial margin
+MICROSCOPIC DIAGNOSIS
+ICD-O-3
+850013
+Carcinoma, infiltrating duct was
+Site Beast NOS (50.9
+BREAST, RIGHT (REGION NOT OTHERWISE STATED). LUMPECTOMY:
+80 6/10/13
+INVASIVE GRADE 3 DUCTAL CARCINOMA MEASURING 3.5 CM IN GREATEST DIMENSION
+ASSOCIATED HIGH-GRADE DUCTAL CARCINOMA IN SITU (DCIS) WITH CANCERIZATION OF THE
+LOBULES AND COMEDO NECROSIS; NOT EXTENSIVE
+NO ANGIOLYMPHATIC INVASION IDENTIFIED
+TUMOR FOCALLY INVOLVES INKED DEEP MARGIN ADJACENT TO SKELETAL MUSCLE TISSUE (NOT
+IN SKELETAL MUSCLE)
+HEALING WOUND REACTION CONSISTENT WITH PREVIOUS CORE NEEDLE BIOPSY
+SENTINEL LYMPH NODE, RIGHT AXILLA, EXCISION:
+ONE (1) LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA BY ROUTINE LIGHT MICROSCOPY
+AND CYTOKERATIN (PANK+) IMMUNOSTAIN
+ADDITIONAL RIGHT BREAST LUMPECTOMY POSTERIOR MEDIAL MARGIN:
+ADIPOSE AND SKELETAL MUSCLE TISSUE, NEGATIVE FOR CARCINOMA
+D. RIGHT BREAST LUMPECTOMY MEDIAL MARGIN:
+FIBROADIPOSE BREAST TISSUE AND SKELETAL MUSCLE TISSUE. NEGATIVE FOR CARCINOMA
+COMMENT(S)
+The large mass is a poorly differentiated ductal carcinoma. Microscopically, the tumor
+does focally extend to the inked deep margin which is adjacent to the skeletal muscle
+tissue on the medial half. The additional margin tissue submitted for evaluation is
+negative for carcinoma and, assuming that this tissue was obtained from the region
+of the positive margin on the original specimen, would provide an additional 0.8 cm to 1 cm
+margin.
+Protocol for the Examination of Specimens From Patients With Invasive Carcinoma of the
+CONTINUED ON NEXT PAGE **
+UUID:B18B184D-B7F1-4C4D-8DA2-D5ECF49749F6
+TCGA-LL-A6FR-01A-PR
+Redacted
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 2
+(Continued)
+COMMENT(S)
+Breast
+Based on AJCC/UICC TNM. 7th edition
+Procedure:
+Lymph Node Sampling:
+Specimen Laterality:
+Histologic Type:
+Tumor Size:
+Histologic Grade (Nottingham):
+Tumor Focality:
+Ductal Carcinoma In Situ:
+Margins:
+Lymph Nodes:
+Pathologic Staging:
+Ancillary Studies:
+(Continued)
+Excision without wire-guided localization
+Sentinel lymph node
+Right
+Invasive ductal carcinoma (NOS)
+Greatest dimension: 3.5 cm
+Glandular Differentiation: Score 2
+Nuclear Pleomorphism: Score 3
+Mitotic Rate: Score 3
+Overall Grade: Grade 3
+Single focus of invasive carcinoma
+DCIS is present
+Margins uninvolved by invasive carcinoma (see
+comment above)
+DCIS: Margins uninvolved by DCIS
+Number of sentinel lymph nodes examined: 1
+Total number of lymph nodes examined (sentinel and
+nonsentinel):
+1
+Number of lymph nodes without tumor cells
+identified: 1
+Primary Tumor: pT2
+Regional Lymph Nodes:
+Modifier: sn
+Category: pN0 (i-)
+Distant Metastasis: Not applicable
+ER: Negative
+PR: Positive (3% tumor cells with weak staining
+intensity)
+HER2 Immunoperoxidase Studies: Equivocal (Score 2+)
+In Situ Hybridization: Amplified
+Average Number HER2 Gene Copies Per Cell: 5.4
+Average Number of Chromosome 17 Per Cell: 2.0
+GROSS DESCRIPTION:
+Dr.
+There is a
+A. Received fresh for gross evaluation of margins and selection of tissue for tissue bank
+is a lumpectomy specimen which weighs 51 grams and measures 6.5 x 6.5 x 3 cm.
+3.5 x 1 cm ellipse of dark brown skin. There is a 2.5 x 2.5 cm portion of skeletal muscle
+on the undersurface. On palpation, a mass is appreciated. Two sutures orient the specimen
+as follows: lateral long stitch and superior short stitch.
+also placed a smaller
+stitch which represents closure of a flap of tissue representing additional tissue at
+the superior aspect. The specimen is inked as follows: superio-anterior blue, inferio-
+anterior black, lateral yellow, medial red. and deep green. The specimen is placed into
+Bouin's solution. The specimen is serially sectioned revealing a retracted yellowish white
+tumor which measures 3.5 x 2.2 x 1.7 cm. Core needle biopsy tracts are within the mid
+portion of the tumor. The closest margin is the inked deep margin where the tumor abuts
+**
+CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 3
+(Continued)
+GROSS DESCRIPTION:
+(Continued)
+this margin in the medial half. A portion of the tumor is provided to the tissue banking
+coordinator. The results of the margin status were given to Dr.
+room at
+Cassette Summary:
+1
+2
+3,4
+5.6
+7.8
+9
+10
+perpendicular sections of medial margin
+perpendicular sections of lateral margin
+closest deep margin
+a full cross-section of tumor, superficial and deep
+full cross-section of tumor
+section of tumor in vicinity of muscle
+additional section
+in the operating
+The
+Sectioning
+B. Received fresh for gross intraoperative evaluation labeled with the patient's name and
+"right breast sentinel node" is a 4 x 2 x 1 cm ovoid portion of fatty tissue.
+reveals a single 3 x 1.5 x 1 cm partially blue dye-stained tan lymph node.
+lymph node is serially sectioned perpendicular to the long axis. No gross obvious
+The results are relayed to Dr.
+in the operating room. The specimen is
+sentinel lymph node protocol.
+carcinoma.
+totally submitted in blocks B1 through B4 for
+C. Received fresh labeled with the patient's name and "right breast lumpectomy posterior
+medial margin" is an additional <2 gram portion of fibroadipose tissue measuring 3 x 1.5 x
+0.8 cm. Muscle is present on one end. A long stitch marks the medial side away from the
+tumor. Short stitch is superior. Blue ink is applied to the new posterior deep margin.
+The specimen is serially sectioned with the superior half submitted in block C1 and the
+inferior half in block C2.
+D. Received fresh labeled with the patient's name and "right breast lumpectomy medial
+A long
+margin" is an additional <2 gram. 3 x 1.5 x 1 cm portion of fibroadipose tissue.
+stitch marks the medial side away from the tumor and the short stitch marks superior.
+Black ink is applied to the new medial margin. The specimen is serially sectioned and
+submitted in blocks D1 and D2 with the superior half in block D1 and the inferior half in
+block D2.
+INTRAOPERATIVE CONSULTATION:
+À.
+RIGHT BREAST:
+CLOSEST MARGIN DEEP, MEDIAL ASPECT. WITH TISSUE PROVIDED TO TISSUE BANK
+COORDINATOR
+RESULTS DISCUSSED WITH DR.
+B.
+SENTINEL LYMPH NODE:
+IN THE OPERATING ROOM
+ONE LYMPH NODE WITH NO GROSS TUMOR IDENTIFIED
+RESULTS DISCUSSED WITH DR.
+IN THE OPERATING ROOM
+**
+CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PHOTO DOCUMENTATION
+PATIENT
+Image
+Signed
+(signature on file)_
+** END OF REPORT
+**
+PAGE 4
+(Continued)
+Crite. La
+Diagneris Discrepanc
+1 5/30/13
+Primary Tomar Site D.
+Discrepancy
+HIPAA Discrepancy
+Pror Malignancy story
+al/Syntiverous Primary Noted
+Cei (circle
+Reviewer Initia
+-breast
+Yes
+No
+KALIFIED DISQUALIFIED
+-inte Reviewed:
+5/23/13

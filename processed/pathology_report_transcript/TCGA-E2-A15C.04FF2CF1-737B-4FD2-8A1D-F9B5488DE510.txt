@@ -1,0 +1,229 @@
+TSS
+ICD-0-3
+Carcinoma, infiltrating duct, NUS
+850013
+12/8/10
+کسو
+Site Code: breast, Nos
+C50.9
+SPECIMENS:
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL L.N. #1 RIGHT AXILLA
+C. SENTINEL L.N. #2
+D. SENTINEL L.N. #3
+E. SENTINEL L.N. #4
+SPECIMEN(S):
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL L.N. #1 RIGHT AXILLA
+C. SENTINEL L.N. #2
+D. SENTINEL L.N. #3
+E. SENTINEL L.N. #4
+GROSS DESCRIPTION:
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+UUID:04FF2CF1-737B-4FD2-8A1D-F9B5488DE510
+TCGA-E2-A15C-01A-PR
+Redacted
+Received fresh labeled with the patient's identification and "WLE right breast needle localization" is a previously
+inked 70g, 8 x 5 x 4cm needle localized lumpectomy with radiograph. Ink code: anterior-yellow, posterior-black,
+superior-blue, inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from lateral to medial into 9
+slices revealing a tan white firm stellate 1.9 x 1.6 x 1.5cm mass, 0.7cm from the closest posterior margin in slices 3-
+6. Representatively submitted:
+A1-A2: lateral margin slice 1
+A3: next to mass slice 2
+A4-A8: slice 3 with mass - deep margin A4
+A9: mass with deep margin slice 4
+A10: inferior margin slice 4
+A11-A12: slice 5
+A13: mass with deep margin slice 6
+A14: slice 7
+A15: slice 8
+A16: medial margin slice 9
+B. SLN #1 RIGHT AXILLA
+Received fresh is a tan pink lymph node 0.5 x 0.5 x 0.5cm. The specimen is sectioned and a touch prep is taken.
+Toto B1.
+C. SLN #2 RIGHT AXILLA
+Received fresh is a tan pink lymph node 0.8 x 0.6 x 0.6cm. The specimen is sectioned and a touch prep is taken.
+Toto C1.
+D. SLN #3 RIGHT AXILLA
+Received fresh is a tan pink lymph node 0.9 x 0.5 x 0.5cm. The specimen is sectioned and a touch prep is taken.
+Toto D1.
+E. SLN #4 RIGHT AXILLA
+Received fresh is a tan pink lymph node 0.6 x 0.6 x 0.5cm. The specimen is sectioned and a touch prep is taken.
+Toto E1.
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.7-CM, INVOLVING SKELETAL MUSCLE
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, CRIBRIFORM TYPE
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- BIOPSY SITE CHANGES WITH FIBROSIS AND GRANULATION TISSUE
+- SEE SYNOPTIC REPORT.
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODE, SENTINEL #3, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+E. LYMPH NODE, SENTINEL #4, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+SYNOPTIC REPORT - BREAST
+Needle Localization:_
+Specimen Type:
+Excision
+Yes For mass
+Laterality: Right
+Present
+Invasive Tumor:
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+1.7cm
+Tumor Site: Not specified
+Margins:
+Negative
+Distance from closest margin:
+0.3cm
+inferior
+Tubular Score: 2
+Nuclear Grade:
+2
+Mitotic Score: 2
+Modified Scarff Bloom Richardson Grade: 2
+Necrosis:
+Vascular/Lymphatic Invasion:
+Absent
+Lobular neoplasia:
+Lymph node status:
+None
+None identified
+Lymph nodes: Sentinel lymph node only
+Negative 0/4
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 1%
+DCIS Type: Cribriform
+DCIS Location:Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Absent
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Pending
+Performed on Case:
+Pathological staging (pTN):
+PT 1c NO
+CLINICAL HISTORY:
+None provided.
+PRE-OPERATIVE DIAGNOSIS:
+None provided.
+INTRAOPERATIVE CONSULTATION:
+A. GROSS EXAMINATION: WLE right breast-1.9cm mass 0.7cm from closest deep margin. Diagnosis called to Dr.
+by Dr.
+at
+TPB-TPC-TPD-TPE: Negative for carcinoma. Diagnosis called to Dr. at:
+ADDENDUM:
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number: A9
+Interpretation: EQUIVOCAL
+Intensity:
+2+
+% Tumor Staining:
+20%
+Fish Ordered: Yes, on Date
+METHODOLOGY:
+by Dr.
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours. Her2 analysis
+was performed using the FDA approved Dako HercepTest (TM) test kit
+) using rabbit anti-
+human HER2. This assay was not modified. External kit-slides provided by the manufacturer (cell lines with high,
+low and negative HER2 protein expression) and in-house known HER2 amplified control tissue were evaluated along
+with the test tissue. Adequate, well preserved, clear-cut invasive carcinoma was identified for HER2 evaluation.
+Interpretation of the HER2 immunohistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from ASCO and CAP
+and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology Department takes full responsibility
+for this test's performance.
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results: HER-2 NOT AMPLIFIED
+Clinical Interpretation of results
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HER-2 probe that spans the entire HER-2 gene in the Pathology
+Core Facility by Dr. A majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no
+amplification of the HER2/neu gene.
+Block used A9
+Tissue fixation formalin-fixed tissue Outside Case No: NA
+Tissue source breast
+HER2/CEP17 ratio:
+Source of case:
+Results interpreted: yes
+1.02
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method of ratio enumeration:
+1
+Limitations
+manual count
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status. No
+treatment decision for stage II, node-positive breast cancer patients should be based on HER-2/neu
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+patients for whom HerceptinⓇ therapy is being considered. These tests were performed in the
+under the direction
+of Dr. The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+19
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+rate of Distant Recurrence at 10 years of 12%
+ER Score: 10.2 Positive
+PR Score:
+8.8 Positive
+Her2 Score: 8.9 Negative
+Interpretation:
+19 in the clinical validation study had an average
+ER Negative < 6.5
+PR Negative <5.5
+Her2 Negative <10.7
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal = 10.7-11.4
+See separate
+report for further information.
+Test performed at:
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Addendum: Pathologist, 1
+Addendum Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Moted
+Case is (circle): ^
+Reviewer Initials
+QUALIFIED
+/
+Date Reviewed:
+Yes
+No

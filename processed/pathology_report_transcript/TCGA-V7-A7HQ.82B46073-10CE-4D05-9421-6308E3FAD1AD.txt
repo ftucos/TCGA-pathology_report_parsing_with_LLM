@@ -1,0 +1,281 @@
+(
+(
+Page 1 of 4
+Surgical Final Report
+Temporary Copy
+Case!
+Collected
+Ordered by:
+Final Pathologic Diagnosis
+-
+UUID:82B46073-10CE-4D05-9421-6308E3FAD1AD
+TCGA-V7-A7HQ-01A-PR
+CORRECTED REPORT:
+A) SENTINEL NODE #1 (EXCISION):
+One lymph node involved by metastatic carcinoma (1/1).
+B) SENTINEL NODE #2 (EXCISION):
+Redacted
+One out of two lymph nodes, involved by metastatic carcinoma
+(micrometastases) (1/2).
+C) SENTINEL LYMPH NODE #3 (EXCISION):
+One out of two lymph nodes, involved by metastatic carcinoma
+(micrometastases) (1/2).
+D) RIGHT BREAST (MASTECTOMY):
+Invasive ductal carcinoma, Nottingham grade 2.
+See synoptic report.
+E) NEW INFERIOR MARGIN (EXCISION):
+Breast tissue with benign fibrocystic changes, including ductal
+hyperplasia and apocrine metaplasia.
+Negative for malignancy.
+NOTE: This corrected report is being issued due to a typographical error in the original report.
+The initial diagnosis 
+rendered by
+remains unchanged.
+I attest I have personally reviewed the specimen/slides and agree with the above findings.
+Synoptic Report
+D: BREAST, MASTECTOMY -
+SPECIMEN TYPE:
+Mastectomy
+LYMPH NODE SAMPLING:
+Sentinel lymph node with axillary dissection
+SPECIMEN SIZE:
+ICD-O-3
+Carcinoma, infillating duct NDS
+SCE
+Site Breast NOS
+®
+path
+C509
+® Breast, lower outer quadrant
+JAJ 9/25/13
+)
+Surgical Final Report
+Temporary Copy
+Caser
+Collectedry
+Ordered by
+Greatest dimension: 30 cm
+*Additional dimensions: 7.0 x 2.5
+LATERALITY:
+Right
+TUMOR SITE:
+Patient
+ID!
+Location
+Page 2 of 4
+Lower outer quadrant
+SIZE OF INVASIVE COMPONENT:
+Greatest dimension: 2.0 cm
+*Additional dimensions: 1.5 x 1.0 cm
+Two separate lesions were present, each one measuring 2.0 x 1.5 x 1.0 cm.
+HISTOLOGIC TYPE:
+Ductal carcinoma in situ
+Invasive ductal carcinoma
+HISTOLOGIC GRADE:
+Tubule formation: Moderate 10% to 75% (score = 2)
+Nuclear pleomorphism: Marked variation in size, nucleoli, chromatin clumping, etc. (score =
+3)
+0 to 5 mitoses per 10 HPF (score = 1)
+Nottingham Grade II: 6-7 points
+PRIMARY TUMOR (pT):
+pT1c: Tumor more than 1.0 cm but not more than 2.0 cm in greatest dimension
+REGIONAL 
+LYMPH 
+NODES (PN):
+pN2a: Metastasis in 4 to 9 axillary lymph nodes (at least 1 tumor deposit greater than 2.0
+mm)
+Number examined: 18
+Number involved: 5
+DISTANT METASTASIS (M):
+pMX: Cannot be assessed
+MARGINS:
+Margin(s) involved by invasive carcinoma
+Specify which margin(s): Inferior margin at mastectomy (specimen D). See comment.
+*EXTENT 
+OF MARGIN INVOLVEMENT 
+FOR INVASIVE CARCINOMA
+*VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L):
+*Present
+*MICROCALCIFICATIONS:
+*Present in DCIS
+*ADDITIONAL PATHOLOGIC FINDINGS:
+Fibrocystic changes, biopsy site related changes, and columnar cell hyperplasia.
+*COMMENT
+(S):
+The inferior margin is invovled by carcinoma in the mastectomy specimen (specimen D),
+however, additionally 
+submitted inferior resection margin is not involved (specimen E). Clinical
+correlation is necessary for 
+interpretation of these findings.
+Diagnostic Comment
+According to previous biopsy, 65% of tumor cells show moderate to strong nuclear staining
+for estrogen receptors
+, 80% of tumor cells show nuclear staining show strong nuclear staining
+for progesterone receptors, and 
+Her2-neu gene is not amplified by FISH (please see report
+C
+Surgical Final Report
+Temporary Copy
+Case
+Collected
+Ordered by
+Intraonerative Diagnosis
+Patient
+ID
+Location:
+Page 3 of 4
+TP A1: Touch prep positive for carcinoma. No frozen done.
+TP B1: No touch preps done because first sentinel lymph node is positive.
+TP 
+C1
+: 
+No touch preps done because first sentinel lymph node is positive.
+Clinical History
+year old female with breast cancer.
+Pre/Post-operative Diagnosis
+Breast cancer.
+Gross Anatomic Description
+(SPECIMEN D: Dictated by
+(SPECIMENS A-C and E: Dictated by
+Specimens received in five containers.
+Specimen A: Designated "sentinel node #1" is received fresh for intraoperative consultation on
+labeled with 
+the patient's name and "sentinel node #1". Specimen consists one piece of
+yellow tissue 
+measuring 
+1.2 x 1.0 x 0.6 cm. The lymph node is bisected. Touch prep is done. No
+frozen section is 
+performed.
+Section code: A1 - two pieces, one lymph node, entire specimen.
+Specimen B; Designated "sentinel node #2" is received fresh for intraoperative consultation on
+fabeled with the patient's name and "sentinel node #2". Specimen consists of one yellow/tan
+irregular 
+fragment of tissue measuring 
+0.8 x 0.6 x 0.3 cm. No intraoperative procedure performed.
+Entirely submitted for 
+permanent sections.
+Section code: B1 - entire specimen.
+Specimen C: Designated "sentinel node #3" is received fresh for intraoperative consultation on
+labeled with the patient's name and "sentinel node #3". Specimen consists of one yellow/tan
+fatty fragment 
+of tissue measuring 
+0.8 x 0.4 × 0.4 cm. The specimen is bisected revealing one lymph
+node. No intraoperative procedure 
+performed. Entirely submitted for permanent sections.
+Section code: C1 - 
+two pieces, one lymph node, entire specimen.
+Specimen D: Designated "right mastectomy (stitch on lateral margin, clip on apex of dissection)" is
+received fresh for Tumor Bank on
+labeled with the patient's name, MRN and "right
+mastectomy (stitch on lateral margin, clip on apex of dissection)". Specimen consists of one right
+radical mastectomy with attached 
+axillary tail weighing 220.8 g. The specimen measures 30.0 x 7.0 ×
+2.5 cm. The axillary tail measures 13.0 
+x 3.5 x 2.0 cm. The breast measures 17.0 x 6.0 x 2.5 cm.
+There is an overlying 
+ellipse of tan wrinkled skin measuring 15.0 x 6.0 cm. There is an unremarkable
+nipple measuring 1.5 cm in 
+diameter and 0.5 cm in thickness. The areola measures 4.0 x 3.5 cm and
+is unremarkable. The external 
+palpation of skin reveals two firm masses which are inferior lateral to
+the nipple, at the outer 
+lower quadrant. One is at 3.5 cm from the nipple and the other is at 2.0 cm
+from the nipple. The suture is 
+identified which denotes the lateral margin. Cut surface reveals two
+white/tan spiculated tumors. The 
+medial tumor measures 2.0 x 1.5 x 1.0 cm with what appears to be a
+previous biopsy site. The more lateral 
+tumor mass measures 2.0 x 1.5 x 1.0 cm and also appears to
+have a previous biopsy site. The tumor 
+masses appear to be connected by a white/tan tract of tumor
+>
+Surgical Final Report
+Temporary Copy
+Patient
+Page 4 of 4
+measuring 0.5 x 0.2 x 0.2 cm. The lateral tumor comes within <0.1 cm of the inferior margin and 0.2
+cm of the deep margin. The 
+medial tumor comes within 0.1 cm of the inferior margin and appears to
+abut the deep margin. Both tumors 
+are >3.0 cm from the superior and medial margins. The
+remainder of the cut 
+sections are grossly unremarkable as yellow/tan fatty fibrous tissue. There is a
+free floating fragment of breast tissue 
+measuring 8.5 x 1.5 x 0.5 cm with a staple denoting the medial
+position. The fragment weighs 
+3.9 g. This fragment is oriented with the assistance of
+according to 
+him, it represents the deep margin. The fragment is oriented regarding lateral and medial
+and
+aspects. The axillary tail is dissected and 
+eleven lymph nodes are identified. The lateral tumor comes
+within -0.2 cm of skin and the medial 
+tumor comes within 1.0 cm of skin.
+Inking code - breast: Green - superior portion of breast; Blue - inferior portion of breast; Black – deep
+portion of breast; Orange - area 
+of further resection, inferiorly, adjacent to additional inferior margin
+(specimen E).
+Inking code-additional fragment of tissue (deep margin): Black - entire external surface of free deep
+fragment; Green - medial tip of free 
+deep fragment.
+-
+Section code: D1- representative section of tumor closest to nipple; D2 - representative section of
+tumor farthest from nipple; D3 – tip of 
+nipple, serially sectioned; D4 - remainder of nipple, en face; D5
+- section of medial tumor with skin and 
+orange margin; D6 - representative section of medial tumor
+with skin and orange margin; D7 - 
+representative portion of tissue between described tumors to
+contain described tumor tract
+; D8 - representative section of lateral tumor with skin; D9-D10 –
+representative sections of lateral 
+tumor with skin (sections through tumor were made from medial to
+lateral); D11-D12 - two representative 
+sections of unremarkable breast tissue from medial inferior
+quadrant; D13-D14 - 
+representative sections of unremarkable breast tissue from superior medial
+quadrant; D15-D16 - representative 
+portions of unremarkable breast tissue from superior lateral
+quadrant; D17-D18 - representative 
+sections of unremarkable breast tissue and lateral inferior
+quadrant; D19- one 
+lymph node, bisected; D20 - one lymph node, bisected; D21 – two lymph nodes
+submitted wholly with the more proximal 
+node inked in black; D22 – two lymph nodes submitted wholly
+with the more proximal lymph node inked in black
+; D23 - one lymph node, bisected; D24 - two lymph
+nodes submitted wholly with the more 
+proximal lymph node inked in black; D25 - two lymph nodes
+with the more proximal node inked in 
+black (the lymph nodes were submitted from proximal to distal);
+D26 - inferior margin; D27 – lateral margin
+; D28 - medial margin; D29 - superior margin; D30 - deep
+posterior margin; D31-D36 - deep free fragments of 
+breast tissue serially sectioned from medial to
+lateral.
+-
+-
+Specimen E: Designated "new inferior margin" is received in formalin labeled with the patient's name
+and "new inferior margin". Specimen 
+consists of one yellow/tan fatty fragment of tissue weighing 10.6
+g and measuring 5.5 x 2.5 x 1.0 cm. The new 
+inferior margin is inked in blue and the specimen is
+serially sectioned. Cut sections reveal 
+a yellow/tan fatty interior that is grossly unremarkable.
+Section code: E1-E6- entire specimen.
+>
+Criteria
+w 5/31/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchonous Primary Noted
+Case is (circ
+Reviewer Ini
+QUALIFIED
+Date Reviewed:
+DISQUALIFY
+8/30/13

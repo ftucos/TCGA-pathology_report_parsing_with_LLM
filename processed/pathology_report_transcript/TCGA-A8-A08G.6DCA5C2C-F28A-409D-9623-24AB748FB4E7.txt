@@ -1,0 +1,28 @@
+9
+UUID:6DCA5C2C-F28A-409D-9623-24AB748FB4E7
+TCGA-A8-A08G-01A-PR
+Diagnosis:
+Redacted
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site. breast, Nus
+050-9
+be
+1 Ablated breast sample with three foci of carcinoma:
+first tumor: poorly differentiated invasive ductal carcinoma (tumor diameter: 2.8 cm)
+with focal intraductal components. Tumor-free dorsal resection margin.
+Tumor classification: NOS and mucinous carcinoma, G III, pT2(mult)NOLOVORX
+;
+Criteria
+Diagnosis Discrepancy
+Pri.nary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+No
+Yes
+DISQUALIFIED

@@ -1,0 +1,38 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, was
+8500/3
+1/21/11 fur
+Pith
+Site: Breast, UOQ
+C50.4
+CQCF
+Site: Breast, Nos
+050.9
+On the basis of these findings, the following overall diagnosis is established:
+Left breast segment at 2 o'clock with a 3.5 cm invasive ductal breast carcinoma grade 3
+(
+3/3/2) 
+with minimum distance of 1 mm from dorsal resection margin and cranial resection
+margin of 3 mm with 
+very small components of ductal carcinoma in situ grade 3 with comedo
+necrosis, as well 
+as a lymph node with a tumor (1/11).
+Tumor classification: pT2 (3.5 cm), pN1 (1/11), MX grade 3 (L0/V0), R0 (dorsal 1 mm,
+cranial 3 mm).
+UUID:6C7D956E-1247-4663-9ED5-D406AE6E2959
+TCGA-A8-A07P-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case(circle);
+Reviewer nitils
+QUALIFIED
+Date Reviewed:
+Pate
+DISQUALIFIED

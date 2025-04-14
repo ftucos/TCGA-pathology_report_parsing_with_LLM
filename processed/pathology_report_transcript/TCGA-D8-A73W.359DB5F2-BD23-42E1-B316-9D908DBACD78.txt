@@ -1,0 +1,56 @@
+Patient: XXX
+UUID:359DB5F2-BD23-42E1-B316-9D908DBACD78
+TCGA-D8-A73W-01A-PR
+Redacted
+Age:
+Gender: F
+Unit in charge:
+Physician in charge:
+Clinical diagnosis (suspicion) Cancer of the right breast
+Date of admission:
+Material:
+ICD-0-3
+Carcinoma, mucinous Nos 8480/3
+Site Breast NOS C50.9
+W 10/15/13
+1) Material: right breast and axillary tissue. Method of collection: Mastectomy and axillary lymph nodes
+Histopathological diagnosis:
+Invasive mucinous carcinoma of the right breast.
+Cancer metastases to the lymph node (1/13).
+Examination performed on:
+(NHG2, pT3, pN1a). (8480/3 T-04915)*
+* codes according to ICD-O-3 or SNOMED
+Macroscopic description:
+Right breast, sized 21 x 16 x 6 cm, removed along with armpit tissues sized 10 x 9 x 3 cm and a skin flap of 21 x 12 cm.
+Weight 1092 g.
+Tumour sized 5.5 x 4 x 4 cm found on the boundary of upper quadrants, placed 1 cm from the upper edge, 0.1 cm from
+the base and 1 cm from the skin.
+Status after core needle biopsy (test No.
+Microscopic description:
+. Lymph nodes of 5.2 cm, fatty
+Invasive mucinous carcinoma - NHG2 (2 + 2 + 3/20 mitoses/10 HPF - visual area 0.55 mm).
+The nipple without pathological lesions.
+Glandular tissue showing parenchyma atrophy.
+Invasive lesions removed 0.1 cm from the base.
+Axillary lymph nodes:
+Cancer metastases to the lymph node (1/13).
+(metastasis of 0.5 transgressing the nodular capsule).
+Assistant:
+Pathologist:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+Criteria
+Edited by
+lw 8/1/13
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pimary Noted
+Casera
+Revie
+QUALIFIED
+Date Reviewed:
+811113
++3
+Nr

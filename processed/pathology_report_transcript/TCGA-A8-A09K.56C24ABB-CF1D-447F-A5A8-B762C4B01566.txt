@@ -1,0 +1,35 @@
+:
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+Site: breast, LOQ C50.5
+CQCF
+Site: breast, Nos 050.9
+1/25/11
+4. Resected material from left breast segment with a 1.4 cm poorly differentiated (G3)
+invasive ductal breast 
+carcinoma. Carcinoma-free resection margins, carcinoma-free skin.
+Fibrous mastopathy of 
+surrounding tissue.
+Tumor stage: pTlc pNlmi (intranodal micrometastasis), MX, R0; G3 (L0, V0).
+Redacted
+UUID:56C24ABB-CF1D-447F-A5A8-8762C4B01566
+TCGA-A8-A09K
+-01A-PR
+;
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case (circle): 1
+Revi
+QUALIFIED
+Date viewed:
+Yes
+No
+DISQUALIFIED
+5/3/4/11
+سلام

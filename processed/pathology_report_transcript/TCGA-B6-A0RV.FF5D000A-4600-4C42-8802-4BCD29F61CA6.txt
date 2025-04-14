@@ -1,0 +1,91 @@
+Patient:
+✓urgical Pathology
+Surg Path
+Carcinoma infiltrating ductal
+and labular
+Site Code?
+8522/3
+breast, Nos
+C50:
+1/17/18
+CLINICAL HISTORY:
+year old woman with a large right breast cancer.
+GROSS EXAMINATION:
+A. "Large right breast cancer". Received fresh is right modified radical
+mastectomy, 630 grams, and 25 x 16.5 x 3.6 cm. The overlying skin ellipse
+measures 15.3 x 10.6 cm. The areolar is 6.8 cm in diameter, and the nipple,
+1.5 cm. Serial sectioning reveals extensive involvement of the breast tissue
+by a large, white/light yellow tumor 12 x 9.5 x 4 cm, which grows in an
+infiltrative fashion and demonstrates focal calcification. It is located
+approximately 0.5 cm from the closest superior margin, 1.5 cm from the
+inferior margin, 0.1 cm from the deepest margin, 1.5 cm from the medial
+margin, and 3 cm from the axillary appendage. Focal hemorrhage is present in
+the subcutaneous portion of the breast. Dissection through the axillary
+appendage demonstrates multiple enlarged lymph nodes up to 2.4 cm in size. A
+portion of the fresh tumor tissue is submitted for ER/PR studies and for
+tissue bank. The representative sections of the specimen are submitted.
+BLOCK SUMMARY:
+A1-A2- tumor and the closest deep margin.
+A3- upper inner quadrant.
+A4- upper outer quadrant.
+A5- lower inner quadrant.
+A6- lower outer quadrant.
+A7- skin and underlying hemorrhage.
+A8- nipple.
+A9-A10- level 1 lymph node candidates.
+All- A12-. level 2 lymph node candidates.
+A13-A14 level 3 lymph node candidates.
+DIAGNOSIS:
+A. "RIGHT BREAST (MODIFIED RADICAL MASTECTOMY)":
+INFILTRATING CARCINOMA PRESENT.
+HISTOLOGIC TYPE DUCTAL WITH PROMINENT LOBULAR COMPONENT.
+N.S.A.B.P. HISTOLOGIC GRADE, 3 OF 3.
+N.S.A.B. P. NUCLEAR GRADE, 2 OF 3.
+GROSS TUMOR SIZE, 12 × 9.5 X 4 CM.
+SIZE OF INVASIVE COMPONENT, 12 X 9.5 X 4 CM.
+THE TUMOR IS PRESENT IN ALL QUADRANTS OF THE BREAST.
+IN-SITU CARCINOMA, PRESENT. OCCUPYING 5% OF THE TUMOR.
+TYPE OF IN-SITU CARCINOMA, LOBULAR.
+EXTENSIVE INTRADUCTAL COMPONENT, ABSENT.
+MULTIFOCAL TUMOR IS PRESENT.
+UUID:FF5D000A-4600-4C42-8802-4BCD29F61CA6
+TCGA-B6-AØRV-01A-PR
+Redacted
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: FIBROCYSTIC CHANGE INCLUDING
+INTRADUCTAL HYPERPLASIA, DUCTAL ECTASIA, AND APOCRINE METAPLASIA.
+LYMPHATIC/VASCULAR INVASION IS PRESENT (BLOCK A5).
+SURGICAL MARGIN IS NEGATIVE FOR CARCINOMA.
+NIPPLE STATUS: PAGET'S DISEASE ABSENT.
+SKIN STATUS: UNINVOLVED BY CARCINOMA.
+MUSCLE STAUS; UNINVOLVED BY CARCINOMA.
+METASTATIC CARCINOMA PRESENT IN FIVE OF TEN LYMPH NODES.
+THE LARGEST INVOLVED LYMPH NODE IS 2.4 CM.
+EXTRACAPSULAR EXTENSION IS PRESENT.
+MICROCALCIFICATIONS ARE PRESENT, IN ASSOCIATION WITH CARCINOMA.
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS PENDING.
+METHODOLOGY, FRESH TISSUE.
+Criteria
+Yc>
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initians
+QUALIFIED
+Day Reviewed:
+DISQUALIFIED
+1 of 2
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+Verified by:
+ADDENDUM 1:
+Tissue was sent to
+for assay of the Estrogen
+and Progesterone receptors. The Estrogen receptor was judged as positive with
+an estimated fmol valve of 95. The Progesterone receptor activity was judged
+as positive with an estimated fmol valve of 90. Please refer to report
+For complete details.
+Verified by:
+2 of 2

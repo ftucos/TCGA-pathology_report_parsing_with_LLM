@@ -1,0 +1,151 @@
+CLINICAL HISTORY
+ORIGINAL TEXT:
+Cancer left breast
+ORIGINAL VER ID
+GROSS EXAMINATION
+Path:
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site Code: breast, upper
+outer quadrant (50.4
+CQCF. breast, Nis 150.9
+Collection Date
+Date of Birth:
+Order Doctor:
+Not for patient's chart
+ORIGINAL TEXT:
+A. "Left breast", received fresh and placed in formalin. A 600 gram, 30.3 x
+9.9 x 5 cm specimen consisting of a 16.5 x 9.9 × 5 cm breast with a 11 x 7 x
+2.4 cm axilla, two at 24 x 8 cm ellipse of skin and 1.2 cm nipple with 4 cm
+areola is received. The specimen is marked with blue ink and sectioned to
+exhibit a 2.8 x 2.5 x 1.6 cm firm white mass towards the axilla. The tumor
+comes to within 1.8 cm of the superior margin, 1.6 cm of the inferior margin,
+2 cm of the posterior margin and 3 cm from the skin. Areas of hemorrhage are
+present around the site of the mass, consistent with the previous biopsy.
+Al- tumor closest to superior border
+A2- tumor closest to inferior border
+A3 tumor closest to posterior border
+A4 tumor closest to anterior skin border
+A5-6
+upper outer quadrant
+A7-8 lower outer quadrant
+A9-10- upper inner quadrant
+A11-12 lower inner quadrant
+A13- nipple
+A14 nine proximal lymph node candidates
+A15-16 nine mid lymph node candidates
+A17- four distal lymph node candidates
+A18- one distal lymph node candidate, bisected
+ORIGINAL VER D
+DIAGNOSTIC CPT CODES
+ORIGINAL TEXT:
+Container A:
+ORIGINAL VER ID
+DIAGNOSIS
+1/17/11
+lu
+UUID:983F0B22-8442-4720-A21B-7EF12CBCD2CE
+TCGA
+-B6-A0I0-01A-PR
+ORIGINAL TEXT:
+A. "LEFT BREAST" (EXCISIONAL BIOPSY):
+INVASIVE CARCINOMA OF THE BREAST.
+-
+-
+MULTIFOCAL INVASIVE CARCINOMA:
+PRESENT.
+SIZE (UPPER-OUTER QUADRANT): 2.8 x 2.5 x 1.6 CM.
+SIZE (LOWER-INNER QUADRANT): 1 CM.
+- N.S.A.B.P. HISTOLOGIC GRADE: 3 OF 3
+- N.S.A.B.P. NUCLEAR GRADE: 3 OF 3.
+LYMPHATIC/VASCULAR INVASION: NOT IDENTIFIED.
+IN-SITU CARCINOMA: PRESENT.
+TYPE OF IN-SITU CARCINOMA: DUCTAL, SOLID (MINIMAL CRIBRIFORM).
+- N.S.A.B.P. NUCLEAR GRADE: 2 OF 3.
+- NECROSIS: PRESENT.
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Review Initials
+Kint
+Yes
+No
+QUALIFIED / BISQUALIFIED
+Reviewed:
++371
+-
+-
+LOCATION: IDENTIFIED IN RANDOM SECTIONS OF THE UPPER-OUTER
+QUADRANT, UPPER-INNER QUADRANT, AND LOWER-INNER QUADRANT.
+SIZE: UNABLE TO DETERMINE.
+SURGICAL MARGIN STATUS: FREE OF TUMOR.
+NIPPLE: FREE OF TUMOR.
+SKIN: FREE OF TUMOR.
+MUSCLE: NOT IDENTIFIED.
+LYMPH NODE STATUS:
+- NO EVIDENCE OF MALIGNANCY IS IDENTIFIED IN SEVENTEEN LYMPH NODES
+(0/17).
+ESTROGEN/PROGESTERONE RECEPTOR, CELL CYCLE, AND HER2/NEU ANALYSIS:
+PENDING, THE RESULTS OF WHICH WILL BE REPORTED IN AN ADDENDUM.
+METHODOLOGY: IMMUNOHISTOCHEMISTRY, PARAFFIN BLOCK NUMBER A3.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+ORIGINAL VER ID
+CI ADDENDUM 1
+ORIGINAL TEXT:
+NUCLEAR ESTROGEN AND PROGESTERONE RECEPTOR ANALYSIS
+for assay of
+A tissue block was sent to the
+nuclear estrogen and progesterone receptors (block A3). The ESTROGEN RECEPTOR
+activity is judged to be POSITIVE with an estimated fmol/mg cytosolic protein
+value of 275. Approximately 95% of the infiltrating carcinoma cells exhibit
+nuclear estrogen receptor expression. Benign ductal epithelium stains
+positively and serves as the internal control. Results were obtained using a
+manual method with Signet antibodies and a
+detection kit.
+The PROGESTERONE RECEPTOR activity is judged to be BORDERLINE with an
+estimated fmol/mg cytosolic protein value of 6. Approximately 1% of the tumor
+cells exhibit nuclear progesterone receptor expression. Benign ductal
+epithelium stains positively and serves as the internal control. Results were
+obtained using a manual method with Signet antibodies and a
+detection
+kit. Please refer to
+for a complete report.
+HER2/neu IMMUNOHISTOCHEMICAL ANALYSIS
+Immunostaining for HER2/neu (c-erbB-2) oncoprotein is performed on recut
+sections of block A3. The tumor cells exhibit no staining of their cell
+membrane (score = 0), indicating that they do not overexpress HER2/neu
+oncoprotein.
+METHOD: The immunostaining is done using DAKO rabbit anti-human c-erbB-2
+oncoprotein which is an affinity-isolated antibody (
+•
+The immunostaining is performed after antigen retrieval by heating the
+unstained sections at 95 degrees centigrade for 20 minutes in 10 mM citrate
+buffer, pH 6.0. The primary antibody is used at a dilution of 1:3000 (manual
+staining), with an incubation for one hour at 37 degrees centigrade. The
+Histostain Plus kit
+is used as the detection system.
+This
+This test was developed and its performance characteristics determined by the
+Immunopathology Laboratory. It has not been cleared or approved by the FDA.
+The FDA has determined that such clearance or approval is not necessary.
+test is used for clinical purposes. It should not be regarded as
+investigational or for research only. This laboratory is certified under the
+Clinical Laboratory Improvement Amendments of 1988 (CLIA) as qualified to
+perform high complexity clinical testing.
+PROLIFERATION INDEX IMAGE ANALYSIS
+A tissue block was sent to the
+for assay of
+proliferation index (block A3). The PROLIFERATION INDEX is judged to be HIGH
+with an estimated positive nuclear area percentage of 29%.
+Please refer to
+for a complete report.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+ORIGINAL VER ID
+*** End of Report ***

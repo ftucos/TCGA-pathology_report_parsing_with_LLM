@@ -1,0 +1,36 @@
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+Site Code: breast, Nos
+850013
+050.9
+12/21/10 lu
+Final Diagnosis
+Breast, left, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III)
+[tubules 2/3, nuclei 2/3, mitoses 3/3; Nottingham score 7/9], forming multiple (2) masses (0.7 x
+0.3 x 0.3 cm and 4.3 x 3.4 x 3.2 cm [AJCC pT2]. Angiolymphatic invasion is present. The non-
+neoplastic breast parenchyma shows nonproliferative fibrocystic changes. All surgical resection
+margins, after separately submitted re-excisions of new deep/inferior, new anterior/inferior
+medial aspect, new medial/anterior, new medial/deep, new lateral, and new posterior/medial
+margins, are negative for tumor (minimum tumor free margin, 1.0 cm, new medial/anterior and
+new medial/deep margins).
+Lymph nodes, left high axillary, dissection: Multiple (5) left high axillary lymph nodes are
+negative for tumor.
+Lymph nodes, left mid/low axillary, dissection: A single (of 12) left mid/low axillary lymph
+node is positive for metastatic adenocarcinoma. The positive lymph node measures 1.0 x 0.9 x
+0.7 cm.
+Faxitron done.
+UUID:180AA688-0863-4DD9-BA29-708E80FBC4C9
+TCGA-AR-A1AS-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Pumary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Juai/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIES / DISQUALIFIED
+De Reviewed:

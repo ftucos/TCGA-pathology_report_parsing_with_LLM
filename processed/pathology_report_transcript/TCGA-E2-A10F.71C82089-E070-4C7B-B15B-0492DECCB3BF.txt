@@ -1,0 +1,212 @@
+ICD-0-3
+Carcinoma infiltrating lobular
+Саманта,
+852013
+Path Site Code: breast, ippor outer quadrant C50.4
+CQCF Site: breast, NAS 050.9
+12/19/10
+TSS Pt ID:
+SPECIMENS:
+A. SLN #1
+B. SLN #2
+C. LEFT BREAST WLE
+D. ADDITIONAL LATERAL MARGIN
+E. MEDIAL LEFT BREAST TISSUE
+F. LATERAL LEFT BREAST TISSUE
+G. RIGHT BREAST TISSUE
+SPECIMEN(S):
+A. SLN #1
+B. SLN #2
+C. LEFT BREAST WLE
+D. ADDITIONAL LATERAL MARGIN
+E. MEDIAL LEFT BREAST TISSUE
+F. LATERAL LEFT BREAST TISSUE
+G. RIGHT BREAST TISSUE
+GROSS DESCRIPTION:
+A. SLN #1
+UUID:71C82089-E070-4C7B-B15B-0492DECCB3BF
+TCGA-E2-A10F-01A-PR
+Redacted
+Received fresh is a tan pink lymph node 2.0 x 0.8 x 0.7cm. The specimen is sectioned and a touch prep
+is taken. Toto A1.
+B. SLN #2
+Received fresh is a tan pink lymph node 0.5 x 0.5 x 0.5cm. The specimen is sectioned and a touch prep
+is taken. Toto B1.
+C. LEFT BREAST WLE
+Received fresh is an oriented (short-superior, long-lateral, looped-anterior) 266g, 7.0cm anterior to
+posterior, 10.5cm superior to inferior and 12.0cm medial to lateral, lumpectomy with needle localization
+wire. The specimen is inked as follows: Anterior-Blue, Posterior-Black, Superior-Red, Inferior-Orange,
+Medial-Green, Lateral-Yellow. The specimen is serially sectioned from medial to lateral into 7 slices,
+slice 1 being most medial, slice 7 being most lateral to reveal a gray white stellate firm mass 2.6 x 1.8 ×
+1.4cm, 1 cm from the closest deep margin in slices 5 and 6. A 0.5 cm nodule is identified, 0.4cm from
+the deep margin and 1.5cm from the mass in slice 6. A 0.6 cm nodule is also identified, 0.5cm from the
+deep/lateral margin in slice 7. A surgical clip is identified in slice 6. A portion of the specimen is
+submmitted for tissue procurement. Representative sections are submitted as follows:
+C1-C3: medial margin perpendicular from superior to inferior slice 1
+C4: superior/deep margin slice 2
+C5: slice 2
+C6: deep margin slice 2
+C7: slice 2
+C8: inferior margin slice 2
+C9-C10: deep margin slice 3
+C11-C13: slice 3 from superior to inferior with C13 inferior margin
+C14: deep/inferior margin slice 3
+C15-C16: deep margin slice 4
+C17-C18: next to mass slice 4
+C19-C20: deep margin slice 4
+C21: inferior margin slice 4
+C22: superior margin slice 5
+C23: deep margin slice 5
+C24-C26: mass slice 5
+C27: anterior margin slice 5
+C28: inferior margin slice 5
+C29: superior margin slice 6
+C30-C31: deep margin slice 6
+C32: above mass slice 6
+C33: mass slice 6- clip
+C34: satellite nodule slice 6
+C35: area in between mass and nodule slice 6
+C36: inferior margin slice 6
+سلام
+C37: perpendicular sections next to mass, slice 7
+C38-C39: nodularity slice 7
+As per attached diagram
+D. ADDTIONAL LATERAL MARGIN-Stitch at final margin
+Received fresh is an oriented 53g fragment of fibrofatty tissue 10.0 x 6.0 x 3.0cm. The new true margin
+is inked Blue and the specimen is serially sectioned to reveal grossly unremarkable breast parenchyma.
+Renresentative sections are submitted in D1-D10.
+E. MEDIAL LEFT BREAST TISSUE
+Received in formalin is a 321 g, 25 x 9 x 4 cm yellow-tan fibrofatty breast tissue with 17 x 5 cm skin.
+The breast parenchyma consists primarily of fatty breast tissue with few fibrous areas identified. No
+masses or lesions are seen. Representatively submitted in cassettes E1-E5.
+F. LATERAL LEFT BREAST TISSUE
+Received in formalin is a 238 g, 12 x 10 x 2.5 cm yellow-tan fibrofatty breast tissue with 12 x 8 cm skin.
+On sectioning no masses or lesions are observed. Representative sections are submitted in cassettes
+F1-F3.
+G. RIGHT BREAST TISSUE
+Received in formalin and are multiple pieces of yellow-tan fibrofatty breast tissue with the largest portion
+having attached tan skin. The specimen weighs 961 g; the intact tissue measures 40 x 11 x 4.5 cm. On
+the surface are two irregularly shaped pieces of tan skin measuring 16 cm in length and 6.5 cm in width
+and 12 cm in length by 4 cm in width. The skin surface is unremarkable. The detached fibroadipose
+tissue in aggregate measures 12.5 x 8.5 x 3.5 cm. On sectioning the specimen is comprised primarily
+of adipose tissue. No masses or lesions are observed. Representative sections are submitted in
+cassettes G1-G10.
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).
+C. BREAST, LEFT, NEEDLE LOCALIZATION WIDE LOCAL EXCISION:
+- INVASIVE LOBULAR CARCINOMA, MODERATELY DIFFERENTIATED
+(SBR GRADE 2).
+-
+-
+TUMOR MEASURES 2.6 CM IN GREATEST DIMENSION.
+MARGINS, NEGATIVE FOR CARCINOMA.
+- LOBULAR CARCINOMA IN SITU.
+- FOCAL ATYPICAL DUCTAL HYPERPLASIA.
+- COLUMNAR CELL CHANGE WITH CYTOLOGIC ATYPIA
+(FLAT EPITHELIAL ATYPIA).
+D. BREAST, LEFT, ADDITIONAL LATERAL MARGIN, EXCISION:
+BREAST TISSUE, NEGATIVE FOR CARCINOMA.
+E. BREAST, LEFT, MEDIAL TISSUE, EXCISION:
+- COLUMNAR CELL CHANGE WITH FOCAL CYTOLOGIC ATYPIA (FLAT
+EPITHELIAL ATYPIA), USUAL DUCTAL HYPERPLASIA, AND
+FIBROADENOMATOID CHANGE, NEGATIVE FOR CARCINOMA.
+- SKIN, NEGATIVE FOR CARCINOMA.
+F. BREAST, LEFT, LATERAL TISSUE, EXCISION:
+BREAST TISSUE, NEGATIVE FOR CARCINOMA.
+G. BREAST, RIGHT, EXCISION:
+COLUMNAR CELL CHANGE WITH FOCAL ARCHITECTURAL AND
+CYTOLOGIC ATYPIA (FLAT EPITHELIAL ATYPIA) (SEE NOTE).
+- BENIGN SKIN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Invasive Tumor:
+Multifocality: No
+Excision
+Yes - For mass
+Present
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 2.6cm
+Tumor Site: 3:00
+Margins:
+Negative
+Distance from closest margin: 1cm
+deep
+Tubular Score:
+3
+Nuclear Grade:
+2
+Mitotic Score:
+2
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+Lymph nodes:
+LCIS
+Sentinel lymph node only
+Lymph node status: Negative 0/2
+2
+Non-neoplastic areas: columnar cell change, usual ductal hyperplasia, fibroadenomatoid change
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Pathological staging (pTN):
+CLINICAL HISTORY:
+PT 2 N 0
+yr old lady underwent screening mammo Left breast density. 3 o'clock position 2.6 x 2.7cm. Core bx
+showed invasive ductal carcinoma. ER/PR +, Her2 Negative. Now for WLE needle loc lumpectomy,
+SLNB.
+PRE-OPERATIVE DIAGNOSIS:
+Left Breast IDC
+INTRAOPERATIVE CONSULTATION:
+TPA/TPB: Negative for tumor cells. Diagnosis called to Dr. at
+by Dr.
+C. Left breast - mass > 1 cm from all margins, nodularity present with minute nodule 0.5cm from
+posterior/lateral marain. Per Dr., no gross exam needed on additional lateral margin (Part D). Diagnosis
+called to Dr. at
+by Dr..
+ADDENDUM:
+NOTE: This addendum is issued to give the results of IHC as well as to correct an error in the diagnosis
+for part G. In part G, it says "(SEE NOTE)"; however, there is no note and therefore, the "(SEE NOTE)"
+is an error. The diagnosis remains unchanged.
+SUMMARY OF IMMUNOHISTOCHEMISTRY/SPECIAL STAINS
+Material: Block C25
+Population: Tumor Cells
+Stain/Marker: Result: Comment:
+ECADHERIN Negative Supports lobular differentiation
+The interpretation of the above immunohistochemistry stain or stains is guided by published results in
+the medical literature, provided package information from the manufacturer and by internal review of
+staining performance and assay validation within the Immunohistochemistry Laboratory of the The use
+of one or more reagents in the above tests is regulated as an analyte specific reagent (ASR). These
+tests were developed and their performance characteristic determined by the Department of Pathology
+Laboratory at. They have not been cleared or approved by the U.S. Food and Drug Administration.
+The FDA has determined that such clearance or approval is not necessary.
+Special stains and/or immunohistochemical stains were performed with appropriately stained positive
+and negative controls.
+Gross Dictation:., Pathologist
+Microscopic/Diagnostic Dictation:., Pathologist,
+Final Review:., Pathologist,
+Final Review: Pathologist.
+Final:., Pathologist, C
+Addendum: Pathologist,
+Addendum Final:., Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Priur Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):\\\\\
+Reviewer Initials VAN
+Yes
+No
+QUALIFIED DISQUALIFIED
+Date Reviewed:

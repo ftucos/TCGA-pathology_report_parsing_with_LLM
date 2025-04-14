@@ -1,0 +1,27 @@
+:
+ICA-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+1/19/11 lu
+Site: Breast, Nus
+050.9
+Diagnosis:
+1. Ablated breast sample with a moderately differentiated invasive lobular
+carcinoma (tumor diameter: 8 cm). Tumor-free dorsal resection margin.
+This results in the following tumor classification for the right breast: lobular carcinoma, G II,
+PT3N0L0V0R1.
+UUID:DF898966-D14E-4EDF-B6E3-E10E40BA5BSD
+TCGA-A8-A09Z-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primar toted
+Casefis (circle):
+Reviewer it
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+ACRED
+Redacted

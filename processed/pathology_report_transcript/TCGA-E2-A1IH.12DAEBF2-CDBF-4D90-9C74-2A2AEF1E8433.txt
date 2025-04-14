@@ -1,0 +1,280 @@
+TSS IC
+SPECIMENS:
+A. SENTINEL NODE #1 LEFT AXILLA
+B. SENTINEL NODE #2 LEFT AXILLA
+ICD-0-3
+Carcinoma infiltrating lobular, Nos 8520/3
+Path Site: breast, upprimer quadrant C50.2
+C. LEFT BREAST MASS WITH NEEDLE LOCALIZATION CQCF: Sitz breast, Nos c50.9
+D. ADDITIONAL MARGIN LEFT BREAST
+SPECIMEN(S):
+A. SENTINEL NODE #1 LEFT AXILLA
+B. SENTINEL NODE #2 LEFT AXILLA
+C. LEFT BREAST MASS WITH NEEDLE LOCALIZATION
+D. ADDITIONAL MARGIN LEFT BREAST
+GROSS DESCRIPTION:
+A. SENTINEL NODE #1 LEFT AXILLA
+2/8111
+UUID:12DAEBF2-CDBF-4D90-9C74-2A2AEF1E8433
+TCGA-E2-A1IH-01A-PR
+Redacted
+Received fresh is a tan pink lymph node 1.5 x 1.0 x 0.7cm. The specimen is serially sectioned and one
+touch prep is taken. Toto A1
+B. SLN #2 LEFT AXILLA
+Received fresh is a tan pink lymph node 1.0 x 0.7 x 0.5cm. The specimen is serially sectioned and one
+touch prep is taken. Toto B1
+C. LEFT BREAST NEEDLE LOCALIZATION
+Single stitch: Anterior
+Double stitch: Lateral
+Triple stitch: Superior
+Received fresh is a 79g oriented WLE breast specimen 2.5cm from anterior to posterior, 7.5cm from
+superior to inferior and 8.5cm from medial 
+to lateral, with needle localization wire and attached
+radiograph. The specimen 
+is inked as follows: Anterior-Blue, Posterior-Black, Superior-Red, Inferior-
+Orange, Medial-Green, Lateral-Yellow
+. The specimen is serially sectioned from lateral to medial in to 8
+slices: slice 1 being most medial, slice 
+8 being most lateral. The cut surfaces reveal a gray white firm
+well circumscribed mass 1.5 x 1.0 x 0.8cm
+, 0.6cm from the closest deep margin, 0.7cm from the
+anterior margin and 0.8cm 
+from the medial margin. The mass is located in slice 2 and 3. The remaining
+cut surfaces reveal yellow lobulated adipose 
+tissue interdispersed with gray white fibrous tissue. A
+portion of the specimen is 
+submitted for tissue procurement. Representative sections are submitted as
+follows:
+C1-C5: medial margin perpendicular sections from superior to inferior slice 1
+C6: superior margin slice 2
+C7: mass with anterior and deep margin slice 2
+C8: inferior margin slice 2
+C9: superior margin slice 3
+C10: mass with anterior margin slice 3
+C11: mass with deep margin slice 3
+C12: inferior margin slice 3
+C13: next to mass with anterior margin slice 4
+C14: next to mass with deep margin slice 4
+C15: slice 5
+C16: lateral margin perpendicular sections slice 8
+As per attached diagram.
+D. ADDITIONAL MEDIAL MARGIN LEFT BREAST: Stitch at new margin
+Received fresh is a 4g oriented tan pink fragment of fibrofatty tissue 5.0 x 2.0 x 1.0cm. The new true
+margin is inked Black and the specimen 
+is serially sectioned to reveal grossly unremarkable breast
+parenchyma. Toto D1-D4.
+DIAGNOSIS:
+A. LYMPH NODE, SENTINE# 1, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+B. LYMPH NODE, SENTINE# 2, LEFT AXILLA, BIOPSY:
+· ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. BREAST, LEFT, WIDE LOCAL EXCISION:
+-
+INVASIVE, LOBULAR CARCINOMA, SBR GRADE 2, MEASURING 1.5 CM
+SURGICAL 
+MARGINS ARE NEGATIVE FOR TUMOR
+-
+SEE SYNOPTIC REPORT AND SEE NOTE.
+TSS ID!
+D. BREAST, LEFT, ADDITIONAL MEDIAL MARGIN, EXCISION:
+BREAST TISSUE, NO TUMOR SEEN.
+NOTE: The tumor is negative for E-cadherin, compatible with lobular phenotype.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization: Yes - For mass
+Laterality: Left
+Invasive Tumor:
+Multifocality: No
+Present
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 1.5cm
+Tumor Site: Upper inner quadrant
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+3
+2
+1
+Mitotic Score:
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+Sentinel lymph node only
+Negative 0/2
+2
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Pending by FISH
+Pathological staging (pTN): pT 1c NO
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+ER: Positive Allred Score:
+PR: Positive Allred Score:
+COMMENT:
+8 = Proportion Score 5 + Intensity Score 3
+8 = Proportion Score 5 + Intensity Score 3
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 
+10% of cells staining, 3 = 11-30
+% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of 
+cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = 
+strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human 
+ER (ER 1D5, 1:100) and PR (
+PGR
+following the manufacturers instructions. This
+136, 1:100) provided by
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent 
+manufacturer and by internal
+review of staining performance.
+TSS ID
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+EQUIVOCAL
+Intensity:
+2+
+% Tumor Staining:
+Fish Ordered:
+METHODOLOGY:
+20%
+Yes,
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 
+analysis was performed using 
+the FDA approved Dako HercepTest (TM) test kit
+using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the 
+manufacturer (cell 
+lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control 
+tissue were evaluated along with the test tissue. Adequate, well
+preserved, clear-cut invasive carcinoma 
+was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is 
+guided by published results in the medical literature, information provided
+by the reagent manufacturer and 
+by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from
+ASCO and CAP and from the NCCN 
+HER2 testing in Breast Cancer Task Force.
+• takes full responsibility for this test's performance.
+CLINICAL HISTORY:
+woman with Left Breast Ca: Invasive Ductal 11 o'clock. 1.7cm on mammogram.
+PRE-OPERATIVE DIAGNOSIS:
+Left Breast Ca
+INTRAOPERATIVE CONSULTATION:
+TPA/TPB: Negative for tumor. Diagnosis called to Dr at
+by Dr.
+C. GROSS INSPECTION: 1.5cm mass. 0.6cm from the closest deep margin, 0.7cm from anterior
+margin. Diagnosis called to Dr. at
+by Dr.
+D. GROSS INSPECTION: New medial margin. Negative for tumor. Diagnosis called to Dr. at
+Dr.
+ADDENDUM:
+1 by
+FISH for HER-2 amplification for this case was attempted multiple times using multiple blocks from this
+case. In each instance the tissue would not 
+remain on the slide for analysis. As a result of this one block
+will be sent to another laboratory for further 
+testing.
+This case was sent to the for second opinion for HER-2 FISH. The results reported below are the
+verbatim results of this referral.
+HER2 Amp. Breast Cancer. FISH
+Specimen
+Specimen ID
+Source
+Left breast
+Order Date
+Reason For Referral
+Tissue-Paraffin
+r/o HER2 gene amplification
+Fixative
+Method:
+Formalin
+FISH using probes for HER2 (17q12) and a chromosome 17 centromere (D17Z1) control probe
+(PathVysion,
+Two technologists score signals in 60 total nuclei from invasive or
+metastatic tumor and concurrent controls.
+Results:
+nuc ish (D17Z1x2, Her2x3-5)
+The HER2 to D17Z1 ratio is 2.28
+Interpretation:
+The invasive tumor nuclei have an amplified HER2D17Z1 ratio (per ASCO/CAP
+TSS ID
+guidelines). The HER2D17Z1 ratio is 2.28. In our opinion, this result may not
+reflect true HER2 amplification. Most nuclei have 2 copies 
+of the chromosome
+17 centromere and 3-5 copies of the HER2 gene. This result indicates 
+the 
+tumor has
+additional copies of the HER2 gene (i.e., duplication), but 
+does not have sufficient
+copies to suggest high level HER2 amplification. It is not 
+known if HER2
+duplication is associated with HER2 over-expression in 
+breast 
+adenocarcinoma.
+ASCO/CAP reporting guidelines (Wolff et al, Arch Path 
+Lab Med 131:18-43, 
+2007).
+A HER2D17Z1 ratio less than 1.8 indicates absence of HER2 
+gene amplification.
+A HER2D17Z1 ratio from 1.8-2.2 is equivocal for HER2 gene amplification
+.
+A HER2D17Z1 ratio greater than 2.2 indicates HER2 gene amplification.
+DISCLAIMER: This test was developed and its performance characteristics determined
+by Laboratory Medicine and Pathology, It is intended as
+an adjunct to existing prognostic clinical and pathologic information for breast cancer
+patients. This test is not intended to diagnose or screen 
+for breast cancer. Per ASCO
+/
+CAP guidelines, HER2FISH test results are valid for non-
+decalcified paraffin embedded
+specimens fixed in 10% neutral buffered formalin between 
+6 and 48 hours. Results from
+specimens fixed outside these parameters should be interpreted accordingly
+.
+Consultant
+Report Data
+Gross Dictation: M.D., Pathologist,
+Microscopic/Diagnostic Dictation: M.D., Pathologist,
+Microscopic/Diagnostic Dictation: M.D., Pathologist
+Final Review: M.D., Pathologist,
+Final:, M.D., Pathologist,
+Addendum: M.D., Pathologist,
+Addendum Final: M.D., Pathologist,
+Addendum: M.D., Pathologist.
+Addendum Review: M.D., Patnologia
+Addendum Final: M.D., Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+W

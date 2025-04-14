@@ -1,0 +1,176 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A.
+B.
+LEFT BREAST LUMP MASS (1 STTICH SUPERIOR, 2 STITCHES LATERAL, 3 STITCHES DEEP):
+- INVASIVE DUCTAL CARCINOMA, MICROPAPILLARY TYPE, MODERATELY DIFFERENTIATED, Nottingham grade 2
+(3+2+1=6), 1.9 cm in greatest microscopic dimension.
+- Lymphovascular invasion is seen.
+- Resection margins are free of invasive carcinoma, closest margin is the anterior (4 mm).
+- IN SITU DUCTAL CARCINOMA, INTERMEDIATE NUCLEAR GRADE (DIN 2) WITH EXTENSIVE NECROSIS,
+cribriform type, representing 10% of tissue sampled.
+-
+Resection margins are free of DCIS, closest margin is the anterior (10 cm)
+- Previous biopsy site
+->
+See tumor summary.
+- AJCC: pT1c, pN1a, pMn/a
+LEFT AXILLARY CONTENTS:
+- Metastatic carcinoma in one out of twenty-three lymph nodes (1/23).
+- Largest metastatic deposit is 2.5 mm.
+Tumor Summary
+Specimen:
+- Partial breast
+Procedure:
+· Excision without wire-guided localization
+Lymph Node Sampling:
+- Axillary dissection (partial or complete dissection)
+Specimen Integrity:
+- Single intact specimen (margins can be evaluated)
+Specimen Size:
+- Greatest dimension: 11.5 cm
+* Additional dimension: 7.5 x 3.5 cm.
+Laterality:
+- Left
+Tumor Size: Size of Largest Invasive Carcinoma
+- Greatest dimension of largest focus of invasion over 0.1 cm: 2 cm
+Turnor Focality:
+- Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of tumor:
+- Skin: Skin is not present
+- Skeletal muscle: No skeletal muscle present
+Ductal Carcinoma In Situ (DCIS):
+-
+· DCIS is present
+*Size (Extent) of DCIS: Representing 10% of tumoral surface
+Architectural Patterns: Cribriform
+Nuclear Grade: Grade II (intermediate)
+Necrosis: Present, central (expansive "comedo" necrosis)
+Lobular Carcinoma IN Situ (LCIS):
+- Not identified.
+Histologic Type of Invasive Carcinoma:
+- Invasive micropapillary carcinoma
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 2
+ICD-0-3
+Carcinoma, invasive micropapillary 8507/3
+Site: breast, NOS C50.9 3/12/n
+سلام
+UUID:F59538A5-7378-4E77-9899-9F38825A38EB
+TCGA-EW-
+A1PE-01A-PR
+Redacted
+SURGICAL PATHOL Report
+Mitotic Count: Score 1
+Overall Grade: Grade 2: score of 6
+Margins:
+- Margins uninvolved by invasive carcinoma
+-
+Distance from closest margin: 4 mm (anterior)
+- Margins uninvolved by DCIS:
+- Distance from closest margin: 10 mm (anterior)
+Treatment Effect: Response to Presurgical (Neoadjuvant) therapy:
+In the Breast: No known presurgical therapy
+-
+In the Lymph Nodes: No known presurgical therapy
+Lymph-Vascular Invasion: PRESENT
+*Dermal Lymph-Vascular Invasion: No skin present
+Lymph Nodes:
+- Number of sentinel lymph nodes examined: 0
+- Total number of lymph nodes examined (sentinel and Nonsentinel): 23
+-
+-
+· Number of lymph nodes with macrometastases (>0.2 cm): 1
+· Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and /or >200 cells): 0
+- Number of lymph nodes with isolated tumor cells (≤0.2 mm and ≤200 cells): 0
+- Size of largest metastatic deposit (if present): 2.5 mm
+*Extranodal Extension: Not identified
+Pathologic Staging (pTNM)
+- Primary Tumor: pT1c
+Regional Lymph Nodes: pN1a
+- Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor:
+Performed on another specimen:
+Progesterone Receptor:
+- Performed on another specimen
+Her2:
+- Performed on another specimen:
+Results: Immunoreactive tumor cells present (≥1%).
+; Results: Immunoreactive tumor cells present (≥1%).
+; Results: Negative
+AJCC classification (7th ed) pT1c, pN1a, pMn/a
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PER 636-PR. A48S=HER2, H-11-EGFR, All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+As the attending pathologist, I attest that I: (1) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Clinical History:
+None Provided
+Operation Performed
+Left breast lumpectomy with axillary node dissection
+Pre Operative Diagnosis:
+Breast cancer, female
+Specimen(s) Received:
+A: Left breast lump mass (1 sttich superior, 2 stitches lateral, 3 stitches deep)
+B: Left axillary contents
+Page 2 of 3
+SURGICAL PATHOL Report
+Gross Description:
+A.
+Received in formalin is a 180 gram 11.5 x 7.5 x 3.5 cm left lumpectomy specimen without wire guide. The specimen is
+oriented with one stitch superior, two stitches lateral and three stitches deep. Resection margins are inked as follows:
+Superior blue, inferior green, medial red, lateral orange, deep black, anterior yellow. On serial section through the
+specimen, there is a tan-white ill-defined indurated mass with infiltrating borders that measures 2.0 x 2.0 x 15 cm. This
+mass is present at 0.6 cm from the anterior margin, 2.0 cm from the superior margin, 2.2 cm from the inferior margin, 2.4
+cm from the deep margin, 3.8 cm from the lateral margin and 2.7 cm from the medial margin. An area of tan-white
+fibrosis is present adjacent to the mass. This area measures 2.8 x 2.0 x 2.0 cm. No other lesions are identified. The breast
+parenchyma has a fat to stroma ratio of 80-20. Sections submitted as follows:
+B.
+1
+2
+Anterior margin (closest)
+Inferior margin
+Superior and deep margin
+Lateral and deep margins
+3
+4
+5-8
+9
+Lesions submitted in toto
+Representative section of fibrotic area adjacent to lesion
+Received in formalin is a segment of tan-yellow fibroadipose tissue, measuring 13.0 × 11.0 x 4.0 cm. Examination of the
+specimen reveals multiple possible lymph nodes, measuring up to 2.4 cm. Sections submitted as follows:
+1-7
+8
+9-12
+One lymph node bisected per cassette
+Four lymph nodes per cassette
+Three lymph nodes per cassette
+MD
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepa.icy
+HIPAA Discrepancy
+'rior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+teviewer Initials
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+Page 3 of 3

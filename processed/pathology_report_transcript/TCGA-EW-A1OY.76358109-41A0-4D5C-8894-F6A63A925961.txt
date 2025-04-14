@@ -1,0 +1,188 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+Lymph node, sentinel lymph node:
+A.
+- No malignancy seen in one lymph node (0/1).
+- Keratin immunostain pending.
+Skin left breast:
+B.
+- Skin, no pathologic change.
+C.
+ICD-0-3
+Carcinoma infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+3/12/11
+050.9
+D.
+E.
+Left breast lumpectomy:
+- Infiltrating poorly differentiated ductal carcinoma, high nuclear grade, 2.4 cm in greatest dimension.
+- Margins of 
+resection are free of tumor.
+- Lymphovascular space invasion is present.
+- Previous biopsy site identified.
+-
+- The tumor cells are positive for ER and PR, and negative for Her2
+· See tumor summary.
+Inferior margin, true blue margin:
+- No malignancy seen.
+Right breast tissue:
+- Fibrocystic changes with stromal fibrosis, adenosis, and microcalcifications.
+- Previous biopsy site identified.
+Tumor Summary:
+Specimen Type: Excision
+Lymph Node Sampling: Sentinel lymph node(s) only
+Specimen Size: Greatest dimension: 7.5 cm
+Additional dimensions: 5.5 x 4.0 cm
+Laterality: Left
+Tumor Site: Not specified
+Size of Invasive Component: Greatest dimension: 2.4 cm
+Additional dimensions: 1.5 x 1.0 cm
+Histologic Type: Invasive ductal carcinoma
+Histologic Grade:
+Tubule Formation: Minimal less than 10% (score =3)
+UUID:76358109-41A0-4D5C-8894-F6A63A925961
+TCGA-EW-A10Y-01A-PR
+Nuclear Pleomorphism: Marked variation in size, nucleoli, chromatin clumping, etc (score =3)
+Mitotic Count: Greater 
+than 20 mitoses per 10 HPF (score =3)
+Total Nottingham Score: Grade III: 8-9 points
+Pathologic Staging (pTNM)
+Primary Tumor: pT2
+Regional Lymph Nodes: pNO
+Number examined: 1
+Number involved: 0
+Distant Metastasis: pMX
+Margins: Uninvolved by invasive carcinoma
+Venous/Lymphatic Invasion: Present
+Microcalcifications: Present in both tumor and non-neoplastic tissue
+Comments:
+ER: Positive
+PR: Positive (
+Her2: Negative (*
+Redacted
+SURGICAL PATHOL Report
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRS) validated by our laboratory (Her 2, Parvo, H pylon, HBcore). These ASRs are clinicalty useful indicators that do
+not require FDA approval. These clones are used: ID5-ER
+, 
+PgR 
+636-PR, A485-HER2, H-11=EGFR, CCH2/DDG9-CMV, F39.4.1-AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paramin embedded tissue. Detection 
+is by LSAB. The results are read by a pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+MD
+As the attending pathologist, I attest that I: (i) Examined the relevant
+preparation(s) for the specimen(s); and (ii) Rendered the diagnosis(es).
+Date Ordered:
+Date Complete:
+Date Reported:
+1
+Addendum Diagnosis
+Keratin immunostain is negative for carcinoma.
+MD
+'
+Intraoperative Consultation
+AFS.
+CFS.
+Sentinel lymph node #1:
+Touch prep only: Lymphoid cells.
+No malignant cell seen.
+Left breast lumpectomy:
+Portion from mass (1 x 0.5 x 0.3cm) taken for tissue bank.
+Clinical History:
+Patient is a
+female with history of breast cancer.
+Status: Signed Out
+Pre Operative Diagnosis:
+Left breast cancer
+Specimen(s) Received:
+A: Lymph node, sentinel lymph node
+B: Skin left breast
+C: Left breast lumpectomy
+D: Inferior margin, true blue margin
+E: Right breast tissue (fresh)
+Gross Description:
+A.
+Received fresh and labeled "lymph node, sentinel lymph node" consists of a lymph node, 1.0 x 0.8 x 0.7 cm. Specimen is
+multisected and submitted in toto in one cassette for touch prep.
+Page 2 of 3
+B.
+C.
+D.
+E.
+Received in formalin and labeled "skin left breast" consists of a ellipse of skin, 5.0 cm in length by 1.7 x 0.4 cm.
+Representative section 
+submitted in one cassette.
+Received fresh and labeled “left breast lumpectomy 1 short superior 1 long lateral" consists of a lumpectomy which weighs
+90.0 grams after formalin 
+fixation and measure 7.5 cm from medial to lateral, 5.5 cm from anterior to posterior and 4.0 cm
+from superior to inferior. 
+Specimen inked as follows. Superior and inferior margin inked black, medial and lateral margins
+inked orange, posterior 
+margin inked red and anterior margin inked green. A piece of tumor was taken tumor bank, 1.0 x
+1.0 cm. Cut 
+sections of the specimen reveal a stony hard tumor which measure approximately 2.4 x 1.5 x 1.0 cm. The
+tumor is surrounded by fibrous 
+tissue and has an ill-defined border of fibrosis. The areas of ill-defined, fibrosis measure
+5.0 x 3.0 x 3.0 cm in greatest 
+dimension. The small area of hemorrhagic which measure 0.8 x 0.4 x 0.3 cm is located 0.8
+cm away from the deep 
+posterior margin and the margin submitted as follows.
+12345
+6 & 7
+8&9
+10-12
+13
+Lateral margin
+Posterior and inferior margin
+Superior and anterior margin
+Additional sections of the anterior margin
+Sections of the medial margin grossly suspecious area of tumor involvement is located 0.8 cm away from
+the closest 
+margin which is posterior and inferior
+Additonal sections of the tumor in relation to the psoterior and inferior margin
+Additonal sections of the fibrotic area at the inferior and posterior margin
+Additonal sections of the biopsy cavity in relation to the inferior and posterior margin
+Sections 
+of the tumor in relation to the superior and anterior margin
+Received in formalin and labeled "inferior margin, true blue margin" consists of a present of breast tissue, 7.0 cm in length
+by 4.0 x 1.2 cm in greatest thickness. One 
+size of the specimen inked in methylene blue and re-inked in black.
+Received fresh and labeled "right breast tissue (fresh)" consists of a fragment of fibro-adipose tissue, 7.0 cm in depth by
+5.0 x 3.0 cm. An overlying ellipse of 
+skin measuring 3.0 x 1.0 cm in greatest dimension. The specimen weighs
+approximately 55.0 grams. 
+Specimen is unoriented. Specimen inked black. Cut sections reveal that the specimen consists
+of 60.0 % cyst fibro-stroma and 40.0 % 
+adipose tissue. The tumor or suspicious areas are grossly identifiable. Sections of
+the stroma and skin are submitted in three cassettes.
+ICD-9(8):
+174.8 610.1 793.81
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+DISQUALIFIED
+Bute Reviewed: JUNI
+W 3/15/4
+Page 3 of 3

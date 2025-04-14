@@ -1,0 +1,64 @@
+8
+ICD-0-3
+Carcinoma, infiltrating, ductal, Nos 850003
+Site breast, Nos €50.9
+3/10/0
+lu
+Department of Cancer Pathology
+page 1 / 1
+copy No.
+Date:
+Examination: Histopathological examination (cito)
+Examination No.:
+Patient:
+PESET
+Age
+Gender: F
+Material: Multiple organ resection - right breast
+1
+Unit in charge
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: 5 working days
+Clinical diagnosis:
+Examination performed on
+Macroscopic description:
+Right breast, sized 21.3 x 18.6 x 4.8 cm, removed along with axillary tissues sized 10 x 7 x 3.5 cm and a skin
+flap of 19.2 x 7.1 cm. Weight 923 g.
+Tumour sized 3.3 x 1.8 x 3.2 cm on the border of outer quadrants, placed 2.2 cm from the lower edge, 0.3 cm
+from the base and 2.8 cm from the skin. Lymph nodes of 0.4 cm in length, fat.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (3+3 +2:14 mitoses/10 HPF, visual area diameter 0.55 mm). Mamilla
+sine laesionibus.
+Glandular tissue showing mastopathia fibrosa et cystica. (fibrocystic changes)
+AXILLARY LYMPH NODES
+Metastases carcinomatosae in lymphonodis (No III/XVI).
+Examination result:/Histopathology diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast
+Metastases carcinomatosae in lymphonodis axillae (NO III/XVI). Cancer metastases in axillary lymph nodes (No III/XVI)
+(NHG2, pT2, pNla).
+Compliance validated by: [
+Examination performed on
+Results of immunohistochemical examination:
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 10-75%
+of neoplastic cell nuclei. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in
+invasive cancerous cells (Score = 0)
+Compliance validated by:
+Redacted
+UUID:E8E799F8-158D-4AEC-8F86-D40F132C071C
+TCGA-D8-A138-01A-PR
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/S, chronous Primary Noted
+Casey ci
+QUALIFIED
+Date Reviewed:
+Reywer mits
+DISQUALIFIED
+3/11/11

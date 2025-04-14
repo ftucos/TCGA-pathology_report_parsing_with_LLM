@@ -1,0 +1,59 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No..
+PESEL: XXX
+Age:
+Gender: F
+Material: Partial organ resection - right breast inner upper quad.
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on
+Expected time of examination: 5 working days
+Clinical diagnosis: Inner upper quadrant of the right breast.
+Examination performed on:
+ICD-0-3
+Carcanons, infiltrating ductal, Nos
+Site. breast, Nos
+050.9
+Macroscopic description:
+Fragment of the right breast sized 6.5 x 5 x 5.2 cm with a 3.5 x 1 cm skin flap, marked typically, no RTG.
+Tumour sized 2.1 x 1.5 x 2 cm in the cross section.
+Margins: 0.7 cm to the base; 2 cm to the skin surface; 0.2 cm to the sternum; 1.8 cm to the axilla; 2.7 cm to the shoulder; 1 cm
+to the quadrant boundary.
+Postoperative result:
+Carcinoma ductale invasivum NHG3 (3 + 3 + 3/35 mitoses/10 HPF - visual area 0.55 mm), pT2.
+DCIS foci visible at the tumour edges (solid type with high nuclear atopia, comedo necrosis, 5% of tumour). (DCIS =
+comedo type necrosis)
+Histopathological diagnosis:
+Carcinoma ductale invasivum (NHG3, pT2, pNO, SN). Invasive ductal carcinoma of the right breast.
+Examination performed on.
+Compliance validated by:
+Yes
+Na
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+ ).
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+QUALIFIED
+Date Reviewed:
+Cate
+ReviewerItis
+DISQUALIFIED
+for 3/11/11
+UUID:3F1DA529-4967-462D-8966-E634D66EB3E1
+TCGA-D8-A1]]-01A-PR
+Redacted
+Compliance validated by:

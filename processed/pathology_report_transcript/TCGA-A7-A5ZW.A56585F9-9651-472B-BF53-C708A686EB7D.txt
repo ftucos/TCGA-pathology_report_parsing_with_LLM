@@ -1,0 +1,109 @@
+Final Surgical Pathology Report
+ICD-0-3
+Carcinoma, duct infittatu
+$500/3
+Site: ® Breant NOS
+050.9
+JW 4/12/13
+UUID:A56585F9-9651-472B-BF53-C708A686EB7D
+TCGA-A7-ASZW-01A-PR
+Procedure:
+Diagnosis
+A. Breast, right, lumpectomy:
+Invasive ductal carcinoma, grade 2; 1.7 cm (pT1c)
+Ductal carcinoma in situ, cribriform type, nuclear grade 2
+Resection margins negative for invasive and in situ carcinoma
+Unremarkable skin
+B. Right axillary sentinel lymph node, excisional biopsy:
+Metastatic ductal carcinoma, 7 mm size with extranodal extension
+(snpNla)
+Microscopic Description:
+Microscopic examination performed.
+A. Microscopic examination of the right breast lumpectomy specimen is
+summarized in the template below:
+Invasive Carcinoma:
+Histologic type: Invasive ductal carcinoma
+Histologic grade: 2
+Overall grade:
+Architectural score: 2
+Nuclear score: 2
+Mitotic score: 2
+Greatest dimension (PT): 1.7 CM (pTlc)
+Specimen margins: Negative for carcinoma. Closest margin is
+superior where tumor is 5 mm from the margin.
+Vessel invasion: Not identified
+Calcification: Present
+Ductal carcinoma in situ:
+Histologic pattern:
+Nuclear grade: 2
+-Cribriform
+Central Necrosis: Absent
+% DCIS of total tumor (if mixed): Approximately 10%
+Extensive intraductal component (present/absent): Absent
+Specimen margins: Negative for DCIS
+Calcification: Focally present
+Description of non-tumorous breast: Fibrosis, apocrine metaplasia,
+microcysts and ordinary ductal hyperplasia and adenosis.
+Comments: Core biopsy site changes are present. The tumor areas of
+slightly higher grade than the original core biopsy interpretation due
+to more mitotic activity. The skin is histologically unremarkable with
+no extension of tumor into the skin ellipse.
+Prognostic markers: Performed on the prior core biopsy
+B.
+Microscopic examination of the sentinel node involve the evaluation
+of 3 H&E stained sections of each of the 3 tissue blocks. Metastatic
+ductal carcinoma is identified in blocks 1 and 2 and extranodal tumor
+is identified in block 1. The size of the tumor is 7 mm (
+)
+Redacted
+Specimen
+A. Right breast segments
+B. Right sentinel lymph node axilla (hot/blue 812)
+Clinical Information
+Breast cancer
+Gross Description
+A. Received fresh and subsequently fixed in formalin labeled "right
+breast segment" is a 9.3 x 8.7 x 4.3 cm yellow lobular fatty tissue
+fragment showing gross evidence of blue ink staining. The specimen is
+received in a transpect container and is partially covered with a 5.7 x
+1.3 cm brown-tan wrinkled skin ellipse. The specimen has a double
+suture designating anterior and a single suture designating lateral.
+The specimen is inked as follows: The margins are inked as follows
+based upon the orienting sutures: superior - orange; anterior - blue;
+posterior - black; inferior - green. The specimen is serially
+sectioned from medial to lateral. The specimen shows a yellow white,
+fibrofatty cut surface with a 1.7 x 1.5 x 1.5 cm ill circumscribed
+white tan firm lesion which comes within 0.5 cm of the superior margin,
+1.5 cm of the inferior margin, within 2 cm of the skin, greater than 5
+cm of the posterior margin and greater than 2.5 cm of the medial and
+lateral margins. The lesion is stellate and shows white rice-like
+pellets, grossly consistent with previous biopsy site. No additional
+gross lesions are identified. The specimen is received in pathology at
+and fixed in formalin at
+Representative sections 
+of
+-
+the specimen are submitted as follows: 1 - representative medial
+margin, 2 representative lateral margin, 3 - representative section
+of the deep/ posterior margin, 4 - 10 - representative 
+sections of
+tumor to closest margin and skin. RS 10.
+B. Received fresh and subsequently fixed in formalin labeled "right
+sentinel node" is a 2.4 x 1.5 x 1.0 cm blue stained pink yellow
+irregular rubbery tissue fragment. The specimen is trisected to show an
+irregular white firm central focus measuring 0.7 cm in greatest
+dimension. AS- 3.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Príor Malignancy History
+3/15/13
+Dual/Synchronous Pinary Noted
+C-se is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed;
+Yes
+No
+QUALIFIED

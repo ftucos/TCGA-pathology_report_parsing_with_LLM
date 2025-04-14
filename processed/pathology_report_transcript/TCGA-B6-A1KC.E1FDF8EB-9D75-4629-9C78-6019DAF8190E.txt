@@ -1,0 +1,135 @@
+Patient:
+• Surgical Pathology: Additional Info
+Surg Path
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NoS
+C50.9
+Page 1 of 2
+2/10/11
+h
+CLINICAL HISTORY:
+Per Browser: Right breast mass at 9:00 position, invasive ductal carcinoma.
+GROSS EXAMINATION:
+A. "Sentinel node #1, hot and blue".
+Received fresh and placed in formalin is
+a 2 x 1 x 1 cm brown-yellow fragment of fibroadipose tissue. The specimen is
+sectioned and submitted entirely in block Al.
+B. "Sentinel node #2, hot not blue". Received fresh and placed in formalin is
+a 3.5 x 1.5 x 1.2 cm fragment of brown-yellow fibroadipose tissue.
+specimen is sectioned and submitted entirely in blocks B1 and B2.
+The
+C. "Right breast mass". Received fresh and placed in formalin is a 10.5 (M-L)
+by 7.7 (A-P) by 4.0 (S-I) cm excisional breast biopsy. The anterior is inked
+blue, the posterior is inked black, the superior is inked red, and the
+inferior is inked yellow. There is a 4.6 x 1.5 cm ellipse of skin. There is
+a 2.0 x 1.8 x 1.0 cm well circumscribed firm white nodule in the anterior
+middle portion of the biopsy. The mass approaches within 2.0 mm of the
+anterior margin and within 0.5 cm of the ellipse of skin. Representative
+sections are taken medially to laterally from blocks C1-C25.
+BLOCK SUMMARY:
+C1-
+C2-
+most medial section
+C3-10-
+second most medial section
+representative sections moving laterally towards mass
+C11-21- representative sections with mass
+C22-25- representative section moving laterally
+D. "Final anterior, inferior margin". Received fresh and placed in formalin
+is a 3 x 2 x 1 cm fragment of brown-yellow fibroadipose tissue. A stitch is
+placed on the margin by the surgeon. Blue ink is placed next to the suture,
+the suture is removed, and the specimen is bisected. The inked blue side is
+placed in blocks D1 and D2. The rest of the specimen is placed in block D3.
+Dr.
+Dr.
+slides to Dr.
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+DIAGNOSIS:
+A. "SENTINEL NODE #1, HOT AND BLUE",
+METASTATIC CARCINOMA IN ONE LYMPH NODE (1/1).
+SIZE OF METASTASIS: 0.8 CM
+NEGATIVE FOR EXTRACAPSULAR EXTENSION.
+(EXCISIONAL BIOPSY) :
+UUID:E1FDF8EB-9D75-4629-9C78-6019DAF8190E
+TCGA-B6-A1KC-01A-PR
+Redacted
+B. "SENTINEL NODE #2, HOT NOT BLUE"
+Criteria
+(EXCISIONAL BIOPSY):
+Diagnosis Discrepancy
+ONE LYMPH NODE (0/1), NEGATIVE FOR MALIGNANCY.
+IMMUNOHISTOCHEMICAL STAINS FOR CYTOKERATIN ARE NEGATIVE.
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer hitiala
+C. "RIGHT BREAST MASS", (EXCISIONAL BIOPSY) :
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL.
+https://
+Yes
+No
+QUALIFIFD
+Date Reviewed
+DISQUALIFIED
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 3 OF 3.
+TUBULE FORMATION SCORE: 3
+NUCLEAR PLEOMORPHISM SCORE: 3
+MITOTIC RATE SCORE: 2
+GROSS TUMOR SIZE: 2.0 X 1.8 X 1.0 CM.
+SIZE OF INVASIVE COMPONENT: 2.0 X 1.8 X 1.0 CM.
+LYMPHATIC/VASCULAR INVASION: PRESENT.
+MULTIFOCAL TUMOR: ABSENT.
+IN-SITU CARCINOMA: PRESENT.
+TYPE OF IN-SITU CARCINOMA: CRIBRIFORM AND COMEDO.
+NUCLEAR GRADE OF IN-SITU CARCINOMA: 3 OF 3.
+NECROSIS: PRESENT.
+DCIS EXTENDING OUTSIDE INVASIVE TUMOR MASS: ABSENT.
+SIZE OF IN-SITU CARCINOMA: SOLITARY MICROSCOPIC FOCUS (<0.2 CM).
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: MINUTE FIBROADENOMA, APOCRINE
+METAPLASIA.
+SKIN FREE OF TUMOR.
+SIZE OF BIOPSY: 10.5 X 7.7 X 4.0 CM.
+MICROCALCIFICATIONS: PRESENT IN ASSOCIATION WITH IN-SITU CARCINOMA.
+SURGICAL MARGIN STATUS: ANTERIOR MARGIN CLOSE (TUMOR GROSSLY APPROACHES TO
+WITHIN 0.2 CM OF THE MARGIN). SEE FINAL ANTERIOR
+MARGIN, SPECIMEN "D" BELOW.
+ESTROGEN/PROGESTERONE RECEPTOR, CELL CYCLE, AND HER2/NEU ANALYSIS:
+PERFORMED PREVIOUSLY, SEE
+D. "FINAL ANTERIOR, INFERIOR MARGIN",
+(EXCISION):
+ADIPOSE AND BREAST PARENCHYMA, NEGATIVE FOR MALIGNANCY.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+CI ADDENDUM 1:
+Please see
+tests.
+.
+M.D.
+Page #
+Electronically signed:
+for results of supplementary
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+https://
+M.D., Ph.D.
+Pager
+Electronically signed:
+Page 2 of 2
+Yes
+No
+riteria
+Jiagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+ase is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

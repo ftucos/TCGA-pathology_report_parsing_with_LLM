@@ -1,0 +1,59 @@
+TSS ID
+TSS ID:
+OC ID:
+Date of Procurement:
+Gross Description:
+Lump with the tumour of 1.4 x 1.2 cm in size; fatty tissue lymph nodes demonstrate lipomatosis.
+Microscopic Description:
+Infiltrating duct carcinoma; G2.
+Ten dissected lymph nodes demonstrate hyalinosis, sinus histeocytosis, lipomatosis.
+Diagnosis Details:
+Tumor Features: Unknown, Tumor Extent: T1 tumor size 2 cm or less, Venous Invasion: Absent, Margins: Absent, Treatment
+Effect:
+Comments:
+Formatted Path Report:
+BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Upper outer quadrant
+Tumor size: 1.2 x 0 x 1.4 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+4/8/11
+UUID:141B770B-22DD-4C87-AFF7-04D85FC9C74A
+TCGA-E9-A1R5-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Yes
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALIFIED
+DIS:QUALIFIED
+Revieweginitials
+Date Reviewed: /
+4/8/41
+TSS ID
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Laterality:
+Right, upper outer quadrant

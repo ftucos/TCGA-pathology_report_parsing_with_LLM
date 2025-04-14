@@ -1,0 +1,41 @@
+ICD-0-3
+Carcinonia, lobular, infiltrating 8520/3
+Site Code: breast, Nos
+C50.9
+12/21/10
+Final diagnosis
+Breast, left wide local excision: Infiltrating mammary carcinoma with predominantly lobular
+features, solid variant, Nottingham grade III (of III) [tubules 3/3, nuclei 3/3, mitoses 2/3;
+Nottingham score 8/9], forming a 2.5 x 2.1 x 1.9 cm mass [AJCC pT2]. Focal lobular carcinoma
+in situ is also present. Angiolymphatic invasion is absent. The non-neoplastic breast parenchyma
+shows proliferative fibrocystic changes. Biopsy site changes are present. All surgical resection
+margins are negative for tumor (minimum tumor free margin, 0.4 cm, anterior margin). (See
+comment.)
+Lymph nodes, left axillary sentinel, excision: A single (of 3) left axillary sentinel lymph node is
+positive for isolated tumor cells [AJCC pN0(i+)(sn)], with multiple (5) isolated tumor
+cells/clusters, the largest measuring 0.05 mm. These isolated tumor cells/clusters are seen on
+sentinel lymph node #2 and by cytokeratin only staining. Blue dye is identified in left axillary
+sentinel lymph node No. 1. Blue dye is not identified in left axillary sentinel lymph nodes No. 2
+or No. 3.
+Comment: Immunohistochemical stain (e-cadherin) was performed on the paraffin embedded
+breast tissue and shows lack of cytoplasmic membrane staining supporting a lobular
+immunophenotype.
+Faxitron done.
+UUID:D52A6E4B-C88A-4947-96FE-3295E418EC67
+TCGA-AR-A1AT-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+JALIFIED
+DISQUALIFIED
+gate Reviewed: 22
+tw
+سل

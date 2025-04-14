@@ -1,0 +1,215 @@
+TSS
+SPECIMENS:
+A. WLE RIGHT BREAST
+B. RIGHT AXILLARY CONTENTS
+SPECIMEN(S):
+A. WLE RIGHT BREAST
+B. RIGHT AXILLARY CONTENTS
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICD-0-3
+Carcinoma, infiltrating ductal, was 8500/3
+важ
+Path 
+Site: breast, upon onter quadrant c50.4
+CQCF Site: breast, Nos C50.9
+Part A, WLE Right breast, gross examination: Tumor 0.2-cm from posterior margin.
+Called to Dr. at
+GROSS DESCRIPTION:
+A. WLE RIGHT BREAST
+by Dr..
+Received fresh labeled with matching patient identifiers is an oriented (short-superior, long-lateral) 124
+g, 9.7 (medial 
+to lateral) x 9 x 3 cm lumpectomy with a slender fragment of tan skin 2.8 x 0.3 cm. The
+specimen 
+is inked as follows: anterior - blue, posterior - black, superior – red, inferior - orange, medial
+- 
+green, 
+lateral - yellow. The specimen is serially sectioned from medial to lateral into 7 slices revealing
+a 
+2.8 x 2.5 x 1.4 cm ill defined firm tan mass approaching the closest posterior margin at 0.2 cm, and
+superior 
+margin at 0.5 cm. A portion of the specimen is submitted for tissue procurement.
+Representative sections are submitted as follows:
+A1-A2: Perpendicular sections medial margin
+A3-A4: Section 2 anterior
+A5: Section 2 posterior
+A6: Section 3 inferior
+A7: Section 3 anterior/superior
+A8-A9: Section 3 superior
+A10-A11: Section 4 lesion and posterior
+A12: Section 4 anterior/inferior
+A13-A16: Section 5, lesion and nearest posterior
+A17-A18: Section 6, lesion and posterior/anterior
+A19-A20: Section 6, lesion and superior
+A21-A22: Perpendicular sections lateral margin
+A23-A26: Medial margin
+A27: Section 6, inferior aspect
+A28: Lateral margin
+A29: Lateral margin
+A30: Section 5, superior margin
+A31: Section 2, superior aspect
+A32: Section 2, inferior aspect
+A33: Section 5, inferior margin
+A34: Section 2, superior aspect
+B. RIGHT AXILLARY CONTENTS
+2/15/11
+UUID:A868EC86-9CB6-445E-8961-5D4C57263548
+TCGA-E2-A1LB-01A-PR
+Redacted
+Received in formalin in a container labeled with matching patient identifiers is a portion of red yellow
+fibroadipose tissue 
+measuring 10.7 x 5.9 x 2.5 cm. Multiple possible lymph nodes are identified ranging
+in size from 0.3 x 0.3 x 
+0.3 up to 4 x 3.5 x 2 cm. Cassette summary:
+B1-B3: Representative sections, largest lymph node
+B4: Two possible lymph nodes
+B5: Two possible lymph nodes
+B6: Four possible lymph nodes
+B7: Four possible lymph nodes
+B8: Two possible lymph nodes
+B9: Two possible lymph nodes
+B10: Three possible lymph nodes
+B11-B15: Additional possible lymph nodes
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+-
+- INVASIVE DUCTAL CARCINOMA, POORLY DIFFERENTIATED
+(SBR GRADE 3), WITH APOCRINE FEATURES, AND SEVERAL FOCI OF
+MICROINVASION ASSOCIATED WITH DCIS.
+TSS:
+-
+TUMOR MEASURES AT LEAST 3 CM IN GREATEST DIMENSION.
+· INVASIVE CARCINOMA IS 2 MM FROM THE DEEP MARGIN.
+- EXTENSIVE LYMPHVASCULAR INVASION IS PRESENT.
+- DUCTAL CARCINOMA IN SITU (DCIS), SOLID TYPE, NUCLEAR GRADE 3,
+WITH NECROSIS AND ASSOCIATED LYMPHOID INFILTRATE, INVOLVING
+LOBULES.
+- DCIS IS PRESENT AT THE LATERAL MARGIN, IS WITHIN 1 MM OF THE
+ANTERIOR/MEDIAL AND ANTERIOR MARGIN, AND IS WITHIN 2 MM
+OF THE DEEP MARGIN.
+B. AXILLARY CONTENTS, RIGHT, DISSECTION:
+-
+-
+METASTATIC CARCINOMA TO 2 OF 25 LYMPH NODES WITH LARGEST
+METASTASIS MEASURING 4 CM (2/25).
+· NO EXTRACAPSULAR EXTENSION IS SEEN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization: No
+Laterality: Right
+Invasive Tumor.
+Multifocality: Yes
+Present
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 3cm
+Tumor Site: Upper outer quadrant
+Margins: Negative
+Distance from closest margin: deep
+Tubular Score:
+3
+Nuclear Grade:
+3
+Mitotic Score:
+2
+Modified Scarff Bloom Richardson Grade:
+3
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Present
+Lobular neoplasia:
+None
+Lymph nodes:
+Axillary dissection
+Lymph node status:
+Positive 2/25
+DCIS present
+Margins involved by DCIS: lateral margin
+DCIS Quantity:
+DCIS Type: Solid
+DCIS Location:
+Nuclear grade:
+Necrosis: Present
+ER/PR/HER2 Results
+Estimate 25%
+Both associated and separate from invasive tumor mass
+High
+ER: Negative
+PR: Negative
+HER2: Positive by IHC
+Performed on Case: This case - the largest lymph node with metastasis
+Pathological staging (pTN): PT 2 N 1
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+B2 (Lymph node with metastasis)
+ER: Negative Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+0 = Proportion Score 0 + Intensity Score 0
+0 = Proportion Score 0 + Intensity Score 0
+TSS
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by
+following the manufacturers instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+B2 (Lymph node with metastasis)
+Intensity:
+3+
+% Tumor Staining:
+Fish Ordered:
+POSITIVE
+100%
+No
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved HercepTest (TM) test kit
+i,
+using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is guided by published results in the medical literature, information provided
+by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. Pathology
+Department takes full responsibility for this test's performance.
+CLINICAL HISTORY:
+year-old woman, right breast, upper outer 4 cm mass, IDC, ER/PR negative; HER-2/neu positive,
+with palpable adenopathy, here for lumpectomy and axillary lymph node dissection.
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+Gross Dictation:., Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist, '
+Final Review: Pathologist,
+Final: Pathologist
+Criteria
+Diagnosis Discrepancy
+Primary Tumorite Discrepancy
+HIP.VA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+کیا
+Yes
+No
+DSQUARED

@@ -1,0 +1,275 @@
+Patient:
+DOB:
+Ref#:
+Referring Physician:
+Age:
+Gender:F
+Hosp#:
+Provider Group :
+Date of Service:
+Date Received:
+Case
+Date Reported:
+A copy of this ranart will be faxed to:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+Carcinoma, infiltrating
+duet Nos
+8500×3
+Site ①Yoast NOS
+path
+②Besact,
+A. - C.) LEFT BREAST, ADDITIONAL ANTERIOR MARGIN, AND LEFT AXILLARY SENTINEL
+LYMPH NODE
+SIMPLE MASTECTOMY (INCLUDING RE-EXCISION OF
+ANTERIOR MARGIN) AND SENTINEL NODE BIOPSY:
+- Invasive ductal carcinoma, Nottingham grade 3.
+- Size: 2.6 cm in greatest dimension.
+- Location: 11:00.
+- No in situ component identified.
+- Margins:
+0509
+gyen inner
+C50.2
+UUID:302E69E0-39F0-4CDB-97F9-A6CDDB3D7233
+TCGA-AC-A6IW-01A-PR
+Redacted
+- Invasive carcinoma is widely free of all margins (at least 1 cm away).
+- Additional anterior margin consists of benign skin and subcutaneous tissue.
+- No lymphovascular invasion identified.
+- Two sentinel lymph nodes, negative for carcinoma (0/2).
+- Uninvolved breast parenchyma with focal fibroadenomatoid changes.
+- Benign skin and nipple with small intraductal papilloma.
+COMMENT: Breast carcinoma biomarker studies will be repeated on a representative
+section of tumor (block A7) due to the focal weak to strong reactivity for ER and PR in
+<1% tumor cells seen previously on core biopsy. The results will follow in an
+addendum.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 3.
+Type and grade (in situ): N/A.
+Primary tumor: pT2.
+Regional lymph nodes: pN0(i-)(sn).
+Distant metastasis: N/A.
+Stage: IIA.
+Lymphovascular invasion: Not identified.
+Margin status: RO, negative.
+Case #
+Printed:
+Page 1/6
+Page 1
+This report continues... (FINAL)
+Page 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimens
+Case #
+Printed:
+Page 2/6
+Page 2
+This report continues... (FINAL)
+Page 2
+Patient:
+Case #:
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Simple mastectomy with re-excision of anterior
+margin.
+Left breast.
+Sentinel lymph node biopsy.
+Tumor site:
+Tumor size:
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+Invasive ductal carcinoma.
+11:00.
+2.6 cm in greatest dimension.
+Unifocal.
+3 of 3 (Nottingham score 9 of 9).
+3 of 3.
+3 of 3.
+3 of 3.
+Not identified.
+Benign skin and nipple.
+Not identified.
+Widely free of all margins (at least 1 cm away).
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit:
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (PT):
+2 (sentinel nodes).
+0.
+N/A.
+N/A.
+pT2.
+Regional lymph nodes (pN):
+PNO(i-)(sn).
+Distant metastasis (PM):
+N/A.
+IIA.
+AJCC Stage:
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+Ki-67:
+Negative (less than 1% positive cells, weak
+intensity).
+Negative (less than 1% positive cells, strong
+intensity).
+Negative (score 0).
+High (70% positive cells).
+Case #:
+Printed:
+Page 3/6
+Page 3
+This report continues... (FINAL)
+Page 3
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Signed by
+Source of Specimen:
+A. Breast;left
+B. Sentinel lymph node;left axillary
+C. Breast;left additional anterior margin
+Clinical History/Operative Dx:
+Malignant neoplasm of breast (female, left).
+Intraoperative Diagnosis:
+B. Left axillary sentinel lymph node
+Gross Description:
+: No tumor cells identifies
+A. Part A is designated as left breast - stitch = lateral. Initially received in the fresh state for possible
+Is an 862 gram left simple mastectomy, 26.8 cm medial-lateral, 20.8 cm
+inferior-superior, and 4.0 cm posterior-anterior. The overlying ellipse of wrinkled, tan-brown skin is 26.3 x
+13.0 
+cm with a medial-inferior orientated, darkened brown, wrinkled areola, 4.8 cm in diameter with a
+prominent 1.3 cm nipple. A double suture marks the lateral apex of the skin. A palpable mass is
+appreciated in the upper inner quadrant (approximating 11:00). The surgical margins are now
+differentially inked as follows:
+Superior superficial: Blue,
+Inferior superficial: Orange,
+Posterior: Black.
+Included within the container are two unoriented strips of wrinkled, tan-brown skin measuring 11.7 x 2.7 x
+0.7 cm and 10.3 x 2.4 x 1.3 cm each.
+Case #:
+Printed:
+Page 4
+This report continues... (FINAL)
+Page 4/6
+Page 4
+Patient:
+Case
+FINAL SURGICAL PATHOLOGY REPORT
+The breast is serially sectioned perpendicularly through the medial-lateral long axis to reveal a
+well-demarcated, soft to rubbery, light gray, lobulated tumor mass measuring 
+upwards of 2.6 x 
+2.5 x 2.3
+cm (slabs 6-7, from medial). This tumor is placed grossly 1.0 cm from the 
+superior superficial, 2.4 cm 
+from
+the deep and greater than 5.0 cm from the inferior superficial, most medial and 
+most lateral surgical
+margins. Along the medial periphery of the lesion is an embedded twisted 
+radiologic marker.
+The remaining cut sections of the breast demonstrates admixed yellow-tan fibrofatty tissue without
+additional discrete nodularity. No lymph node tissue is appreciated along 
+the lateral periphery. 
+Sectioning
+through the remaining two strips of skin demonstrate unremarkable fibrofatty 
+cut surfaces. Representative
+sections are submitted.
+Cassette summary:
+A1) nipple,
+A2) medial and lateral extension of skin,
+A3) upper inner quadrant, slab 3,
+A4) upper inner quadrant, slab 5, adjacent to tumor,
+A5) upper inner quadrant, tumor and superior superficial surgical margin, slab 6,
+A6-A7) upper inner quadrant, tumor and superior superficial surgical margin, contiguous sections, slab 6,
+A8) upper inner quadrant, deep margin adjacent to tumor, slabs 6-7,
+A9) upper inner quadrant-central superior, adjacent to tumor, slab 8,
+A10-A11) lower inner quadrant, slabs 4 and 6, respectively,
+A12-A13) lower outer quadrant, slabs 9 and 11, respectively,
+A14-A15) upper outer quadrant, slabs 9 and 11, respectively,
+A16-A17) representation of separate strips of skin and subcutaneous fat, two pieces each.
+B. Part B is left axillary sentinel lymph node
+(frozen section). Initially received in the fresh state for
+frozen section/touch prep analysis is a 6.0 x 3.0 x 1.0 cm pad of yellow-tan fatty soft tissue. Initial
+sectioning reveals a single fatty pink and tan lymph node candidate, 2.0 
+cm in greatest dimension
+. Two
+touch preparation slides are forwarded for microscopic evaluation. Further 
+examination of the fat reveals
+possible additional lymph node tissue up to 1.0 cm in greatest dimension
+. The largest lymph node is
+entirely submitted for routine histology with a sentinel node protocol 
+performed in B1 and B2, and 
+the
+additional/residual lymph node tissue candidacy is submitted in B3 and B4 for 
+routine histology.
+C. Part C is additional anterior margin - left. Initially received in the fresh state is a 15 gram elliptical
+excision of wrinkled, tan-brown skin and subcutaneous fat, 11.1 x 2.6 x 1.5 
+cm. The margins are 
+submitted
+unoriented; the possible outer margin is now marked blue and the remaining 
+surgical margins are marked
+black. Sectioning demonstrates glistening, admixed yellow-tan fibrofatty 
+tissue without discrete nodularity
+or grossly unusual areas of change suggestive of residual or invasive tumor 
+component. Representative
+section are submitted for microscopic evaluation in C1-C5 (six pieces
+Microscopic Description:
+A. - C.) Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+cytokeratin immunostain
+.
+rendered. The sentinel nodes (part B) were evaluated by H&E levels and
+Controls are appropriate.
+Case #
+Printed:
+Page 5/6
+Page 5
+This report continues... (FINAL)
+Page 5
+Patient:
+Case #:
+Case #:
+Printed:
+Page 6/6
+FINAL SURGICAL PATHOLOGY REPORT
+Criteria
+Diagnosis Discrepancy
+6/13/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Noted-
+Case is (circle);
+Reviewer Ins
+QUALIFIEN
+Yes
+No
+✓
+✓
+Date Revieved:
+DISQUALIFIED
+4/13/13
+Page 6
+END OF REPORT (FINAL)
+Page 6

@@ -1,0 +1,52 @@
+UUID:3EFA8B1E-0FDB-49A4-95FC-4C9C9815B61A
+TCGA-E9-A3HO-01A-PR
+Procurement Date:
+Redacted
+Laterality:Left breast
+Path Report:BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Upper outer quadrant
+Tumor size: 2.5 x 0 x 3.2 cm
+Grossly evident lesion: Yes
+Histologic type: Lobular carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+ICA-0-3
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, NOS
+050.9
+سال
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Gross Description:Mammary gland with the tumour of 3.2 x 2.5 cm in size;
+12/1/11
+Criteria
+Diagnosis Discrepancy
+Framor Site Discrepancy
+HPA is pacy
+Por Malinancy History
+La/nchronous Primary Noted
+Cast is 'circle):
+Reviewers
+QUALILU
+Case Review:
+Km 12/1/14
+Yes
+DISQUALIFID
+12||11
+fatty tissue lymph nodes are free of metastases.
+Microscopic Description:Infiltrating lobular carcinoma, G2.
+Ten dissected lymph nodes demonstrate reactive changes.
+Diagnosis Details:Tumor Features: Unknown, Tumor Extent: T2 tumor size more than 2cm not more than
+5 cm, Venous Invasion: Absent, Margins: Absent, Treatment Effect:

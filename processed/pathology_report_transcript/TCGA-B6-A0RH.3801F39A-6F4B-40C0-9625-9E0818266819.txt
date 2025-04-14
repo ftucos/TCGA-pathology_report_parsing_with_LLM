@@ -1,0 +1,182 @@
+Pa
+fica
+Surg Path
+UUID:3801F39A-6F4B-40C0-9625-9E0818266819
+TCGA-B6-ADRH-01A-PR
+Redacted
+CLINICAL HISTORY:
+Left breast ca.
+GROSS EXAMINATION:
+A. "Left breast". Container additionally labeled with patient's name, history
+number and date. Fresh. A specimen from a 
+left modified radical mastectomy.
+There is an ellipse of brown skin 
+measuring 18.8 x 8.4 cm. Located somewhat
+medially and inferiorly on the 
+ellipse is an unremarkable areola and nipple.
+No skin lesions or scars are noted. 
+No nipple retraction or peau d'orange
+changes are noted. Underlying the 
+ellipse of skin is breast tissue with
+overall measurements 
+of 16.3 x 15.2 x 3.3 cm., and an attached axillary tail
+measuring 12.0 x 8.5 x 1.7 cm. 
+The deep surgical margin is inked in blue, and
+the specimen is step sectioned. A 
+2.5 x 2.5 x 2.0 cm. firm white mass is seen
+underlying the skin ellipse at 
+the medial edge of the areola at approximately
+the 9:00 position. This mass is 
+relatively well-defined, but does appear to
+diffusely infiltrate into surrounding 
+fat for a short distance along its outer
+edges. The cut surface is white, 
+firm, and homogeneous; no necrosis is grossly
+identified. Tumor grossly extends 
+to within 1.2 cm. of the deep surgical
+margin. Portions of the tumor 
+are submitted for estrogen and progesterone
+receptor analysis, and additional 
+portions are submitted to the tissue bank.
+The remainder of the breast 
+parenchyma is largely fatty, with interspersed,
+unremarkable appearing fibrous white 
+parenchyma. No additional lesions are
+identified. Sections of the breast 
+are submitted as follows:
+Block Al
+Block A2
+Block A3
+-
+-
+-
+nipple and areola.
+skin overlying tumor, medial aspect of skin ellipse.
+tumor.
+A4
+-
+Blocks A5 and A6
+Block A7, A21,A22
+-
+-
+tumor and adjacent breast tissue.
+deep margin.
+Block A8 left upper inner quadrant.
+-
+Block A9
+Block A10
+Block All
+Block A12
+left lower inner quadrant.
+-
+sections from 9:00 (medial) breast,
+adjacent to tumor.
+left upper outer quadrant.
+-
+left lower outer quadrant.
+The axillary tail is arbitrarily divided into three levels, with level 1 being
+that closest to the breast. The 
+axillary tail is examined for lymph nodes.
+Several large but grossly benign 
+nodes are identified, and numerous smaller
+nodes are present. Lymph node 
+candidates are submitted as follows:
+-
+Block A13 lymph node candidates from Level 1, with single large node inked
+and bisected.
+-
+Block A14 single large lymph node from Level 1.
+Block A15
+Block A16 · lymph node candidates from Level 1.
+Block A17
+lymph node candidates from Level 1.
+lymph node candidates from Level 2, a single large node inked
+and bisected.
+Block A18
+Criteria
+lymph node candidates from Level 2.
+Block A19
+lymph node candidates from Level 3.
+Block A20
+-
+lymph node candidates from Level 3.
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+QUALIFIED
+Dual/synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Date viewed:
+MICROSCOPIC EXAMINATION:
+The predominant part of the tumor has a cribriform pattern, and that includes
+the infiltrating part of the 
+carcinoma. The tumor cells are characterized by
+moderately pleomorphic nuclei with 
+prominent nucleoli. The mitotic rate varies
+from area to area, but 2-3 mitosis 
+are observed in some high power fields. The
+Yes
+No
+DISQUALIFIED
+1 of 2
+Carcinoma, infiltration ductal, Nos
+Site Code: breast, Nos C50.9
+8500/3
+1/17/11
+lumina created by the carcinoma often contains small numbers of hecrotic tumor
+cells, but a classic comedo carcinoma is not 
+identified. In some areas, a
+minor component of infiltrating tubular 
+carcinoma is identified. Abundant
+desmoplastic stromal response 
+accompanies the infiltrating neoplasm. In areas,
+lymphatic vessels within the breast parenchyma 
+adjacent to the tumor, contain
+malignant cells. Adjacent to the tumor, 
+intraductal carcinoma (cribriform
+papillary types), is seen in focal areas.
+In a random section from the upper-outer quadrant (Block All), there is a
+focus of atypical ductal hyperplasia. No 
+frank ductal, intraductal or
+infiltrating carcinoma is observed at 
+this site.
+DIAGNOSIS:
+"LEFT, BREAST":
+LEFT MODIFIED RADICAL MASTECTOMY SPECIMEN WITH:
+1. INFILTRATING DUCTAL CARCINOMA AT THE JUNCTION OF INNER-UPPER AND INNER-
+LOWER QUADRANT.
+THE CANCER HAS A PREDOMINANTLY CRIBRIFORM PATTERN WITH AREAS OF COMEDO
+NECROSIS; SEE COMMENT.
+THE TUMOR MEASURES 2.5 CM IN GREATEST DIMENSION.
+NSABP NUCLEAR GRADE MODERATELY DIFFERENTIATED, HISTOLOGIC GRADE 2 OF 3.
+LOCAL TUMOR INVASION OF MAMMARY LYMPHATICS ADJACENT TO THE TUMOR IS
+IDENTIFIED.
+DEEP SURGICAL MARGINS FREE OF TUMOR.
+2. INTRADUCTAL CARCINOMA, CRIBRIFORM TYPE, ADJACENT
+CARCINOMA.
+TO INFILTRATING
+3. FOCAL ATYPICAL EPITHELIAL HYPERPLASIA IN THE UPPER-OUTER QUADRANT
+(BLOCK All).
+4. FLORID DUCTAL EPITHELIAL HYPERPLASIA OF THE USUAL TYPE, MILD TO
+FOCALLY FLORID.
+5. REST OF BREAST WITH SCLEROSING ADENOSIS, MICROCALCIFICATIONS, BLUNT
+DUCT ADENOSIS, PAPILLARY APOCRINE 
+METAPLASIA AND DUCT ECTASIA.
+6. NO TUMOR IDENTIFIED IN 23 AXILLARY LYMPH NODES.
+OM : NH
+Verified by
+)
+COMMENT:
+The histologic pattern of this carcinoma, is similar to the so-called
+cribriform ductal carcinoma. The nuclei of 
+the cancer cells, however, are
+very pleomorphic and many mitoses are 
+observed, and thus this carcinoma does
+not fit in the category of cribriform carcinoma 
+as defined by Page et al. The
+lesion may be better regarded as infiltrating 
+breast carcinoma of no special
+type because of the degree of atypia present.
+2 of 2

@@ -1,0 +1,116 @@
+Final Surgical Pathology Report
+ICD-0-3
+Carcinoma, NOS 8010/3
+Carcinoma, infiltrating 8010/E
+Site ①Breast NOS C50.9
+JW 4/12/13
+لله
+Procedure:
+Diagnosis
+A, B. Lymph nodes, left axillary sentinel %231 & #2, excisions
+Negative for malignancy.
+C.
+Breast, left, segmental mastectomy -
+Invasive mammary carcinoma, no special type, high combined histologic
+grade, high proliferative rate.
+D.
+Breast, left, posterior to segmental mastectomy, excision -
+Negative for malignancy.
+Note: The above diagnoses are rendered per expert consultation from
+of
+Please see the
+In a comment,
+consultation report from Dr.
+states: "This invasive carcinoma is circumscribed and has an expansile
+rather then infiltrative growth pattern, which may explain the lack of
+nodal involvement. The margins are adequate.
+" In an addendum comment,
+cates: "The closest margin from the left segmental
+mastectomy (specimen C) is posterior (1.5 mm), however the separately
+submitted new posterior margin (specimen D) is negative. The other
+margins are negative by least 4 mm.
+Microscopic Description:
+A, B, D.
+C.
+Microscopic examination performed.
+The following template summarizes the findings in part C:
+Invasive Carcinoma: Present
+Histologic type: Invasive mammary carcinoma, no special type
+Histologic grade: High combined histologic grade, high
+proliferative rate
+diagnosis)
+Greatest dimension (PT): 4.2 cm (pT2)
+Specimen margins: The margins are adequate (see comment in
+Vessel invasion: Not identified
+Calcification: Not identified
+Ductal carcinoma in situ: Not identified
+Comment: Please note that in addition to examining H&E stained
+sections, representative blocks in part C were immunostained with
+antibodies to p63 to aid in assessment.
+Prognostic markers: Previously performed (see
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature. They have not
+been cleared or approved by the FDA.]
+UUID:FA5CF5A2-F44A-4303-9200-32250FAEF374
+TCGA-A7-A5ZV-01A-PR
+Redacted
+Specimen
+A. Left axillary sentinel node %231, hot, not blue, 1018
+B. Left axillary sentinel node %232, hot, blue, 237
+C. Left breast segmental mastectomy
+D. Tissue posterior to segmental mastectomy
+Clinical Information
+PRE-OP DIAGNOSIS: Left breast CA
+Gross Description
+A. Received fresh in a container labeled "left axillary sentinel node
+%231, hot, not blue, 1018" is a 2.2 x 1.7 x 1 cm soft tan-pink lymph node
+AS-4, following 
+fixation.
+with some surrounding yellow adipose tissue.
+B. Received fresh in a container labeled "left axillary sentinel node
+%232, hot, blue, 237" is a 2.5 x 2.2 x 1.2 cm portion of tissue
+containing two soft tan-pink lymph nodes with surrounding yellow
+adipose tissue, with the lymph nodes 1 and 1.5 cm in greatest
+dimension. RS-4, following fixation, with the lymph nodes entirely
+submitted, with the larger lymph node in blocks B2-B4.
+C. Received fresh in a
+-
+The margins
+container labeled "left breast
+segmental mastectomy" is a 7.3 x 5.7 x 4.3 cm portion of soft
+tan-yellow breast tissue, with orienting sutures present.
+are inked as follows based upon the sutures: anterior - green;
+red; inferior - blue;
+posterior - black; lateral - orange; medial
+superior - violet. The specimen is serially sectioned revealing a 4.2 x
+4.2 x 3.5 cm red-brown to white-tan nodular mass, which grossly comes
+RS-10, following
+near to the medial, posterior, and anterior margins.
+fixation, with tumor to closest medial margin in block C1, tumor to
+closest lateral margin in block C2, tumor to closest anterior margin in
+block C3, tumor to closest posterior margin in block C4, tumor to
+closest superior margin in block C5, tumor to closest inferior margin
+in block C6, and with additional sections of tumor in blocks C7
+-C10.
+D. Received fresh in a container labeled "tissue posterior to segmental
+mastectomy" is a 1.7 x 1.2 x 1.2 cm portion of soft red-brown skeletal
+The new
+muscle, with a suture indicating the new posterior border.
+margin is inked. The specimen is sectioned and is without focal
+lesion. AS-3, following fixation.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pary Noted
+Case is (circle):
+Reviewer Initials
+W 3/15/13
+✓ QUALIFIED
+Yes
+✓ DISQUALIFIED 3
+Date Reviewed:
+No

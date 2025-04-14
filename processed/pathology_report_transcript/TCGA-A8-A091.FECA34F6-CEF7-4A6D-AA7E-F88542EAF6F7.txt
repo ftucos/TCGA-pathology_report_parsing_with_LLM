@@ -1,0 +1,28 @@
+1CD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+1/21/11 for
+Site: Breast, Nos C50.9
+Diagnosis:
+1. Poorly differentiated invasive breast carcinoma with focal in situ spread
+(tumor diameter: 2.2 cm).
+In conclusion, this is a poorly differentiated invasive ductal carcinoma with focal
+neuroendocrine characteristics.
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G III, pT2N0(sn)LOVORO.
+UUID:FECA34F6-CEF7-4A6D-AA7E-F88542EAF6F7
+TCGA-A8-A091-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cirkle):
+Reviewe 'L
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+6/37/11

@@ -1,0 +1,257 @@
+Referring Physician.
+UUID:D61D4CCC-2AB5-4268-AEB7-C8928E0AF964
+TCGA-AC-A5XU-01A-PR
+Redacted
+DOB.
+Age:
+Gender: F
+Ref#:
+Hosp#:
+Provider Group :
+Date of Service:
+Date Received:
+Outpatient
+Case #
+Date Reported:
+1
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. - B.) LEFT BREAST AND AXILLARY LYMPH NODE, LUMPECTOMY AND SENTINEL
+LYMPH NODE BIOPSY:
+- Invasive ductal carcinoma, Nottingham grade 3.
+"
+Tumor size: 6.8 cm in diameter.
+• Ductal carcinoma in situ (DCIS), high nuclear grade, with comedo necrosis.
+- DCIS is extensive, involving an area larger than the area involved by
+invasive carcinoma.
+- The inferior lumpectomy margin is involved by DCIS (see comment for
+additional information concerning margins).
+- Two lymph nodes, no tumor present (0/2).
+PATHOLOGY TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 3.
+Type and grade (in situ): DCIS, high nuclear grade.
+Primary tumor: pT3.
+Regional lymph nodes: pN0(i-)(sn).
+Distant metastasis: Not applicable.
+Stage: IIB.
+Lymphovascular invasion: Not identified.
+Margin status: Margin involved by carcinoma. See comment.
+ICD-0-3
+J 0/10/13
+Breast, NOS C50.9
+Carcinonia, ductal infiltrating NOS 8500/3
+Site
+COMMENT: The invasive carcinoma has an irregular, elongated multilobulated
+configuration, with possible small satellite tumor nodules at the periphery of the
+tumor. In some areas, the gross appearance of the tumor was subtle, and in other
+areas where invasive carcinoma was present, no grossly demonstrable tumor could
+be seen. The tumor size of 6.8 cm in diameter is based on the distribution of invasive
+tumor in the specimen. DCIS is extensively present in association with invasive
+carcinoma.
+The inferior margin is involved by DCIS, in both the medial and lateral aspects of the
+specimen. In addition, DCIS is identified 0.1 cm from the anterior and superior
+Case #
+Printed:
+Page 1
+This report continues .. (FINAL)
+MR No.
+Acct No.
+Patient Name
+Pathology - Page 1/5
+Jo
+age 1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+margins. Carcinoma is identified 0.5 cm from the lateral and medial margins. Invasive
+carcinoma is not identified at any margin, but is identified 0.2 cm from the anterior
+and superior margins.
+In some areas, the invasive carcinoma has features suggestive of neuroendocrine
+differentiation (nuclear molding, relatively scant cytoplasm, inconspicuous nucleoli),
+and this impression is supported by positive staining for synaptophysin in tumor
+cells.
+Intradepartmental consultation
+and concurs with the above diagnosis.
+Invasive Breast Cancer Tumor Staging Information
+per TSS, 0% neuroendocrine carcino
+Theumas is 100% ductal.
+has reviewed representative slides,
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimens:
+все
+Case #.
+Printed:
+Page 2
+This report continues... (FINAL)
+MR No. -
+Acct No..
+Patient Name -
+Pathology - Page 2/5
+Job
+Page 2 Doc# 1
+Patient:
+Case #
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Tumor site:
+Tumor size:
+Lumpectomy.
+Left.
+Sentinel lymph node biopsy.
+Invasive ductal carcinoma (with neuroendocrine
+differentiation).
+1:00 aspect.
+6.8 cm in diameter.
+Single tumor focus (multilobulated) irregularly
+shaped tumor with possible satellite nodules at
+The periphery of the tumor).
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+3 of 3.
+3 of 3.
+3 of 3.
+3 of 3.
+Not identified.
+Skin and chest wall invasion cannot be
+assessed.
+Present, extensive, nuclear grade 3.
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+Ductal carcinoma in situ:
+Invasive carcinoma is 0.2 cm from anterior and
+superior margins, 0.5 cm from medial margin,
+and is at least 0.5 cm from all other margins.
+Present at inferior margin, 0.1 cm from anterior
+and superior margins, 0.5 cm from lateral
+margin, at least 0.5 cm from medial margin.
+LYMPH NODES
+Total lymph nodes examined
+Two.
+Number of lymph nodes involved
+Zero.
+PATHOLOGIC STAGING.
+Primary Tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (pM):
+AJCC Stage:
+ANCILLARY STUDIES.
+Estrogen receptor:
+Case #
+Printed:
+MR N
+Pathology - Page 3/5
+pT3.
+pN0(i-)(sn).
+Not applicable.
+IIB.
+95% positive cells.
+Patient Name
+JOD
+Page 3
+This report continues... (FINAL)
+rage 3 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+60% positive cells.
+IHC 0.
+25% positive cells.
+Progesterone receptor:
+HER2:
+Ki-67:
+Signed by
+Source of Specimen:
+A. Sentinel lymph node; Left axillary (
+B. Breast lumpectomy;Left
+Clinical History/Operative Dx:
+Malignant neoplasm of breast (female) unspecified site.
+Gross Description:
+A. Part A is
+sentinel node #1, left axillary. Received in formalin is a 2.4 x 1.8 x 1.8 cm portion of
+fatty soft tissue. Examination reveals a lymph node, 1.6 x 1.0 x 0.7 cm. The lymph node is serially
+sectioned and entirely submitted for microscopic evaluation in A1 with a sentinel node protocol
+performed. A second lymph node is 0.4 x 0.3 x 0.2 cm. This lymph node is bisected and submitted in A2.
+Routine histology and sentinel node protocol is performed on blocks A1 and A2.
+B. Part B is left breast mass. Initially received in the fresh state for possible Oncogenotyping studies is a
+178 gram yellow-tan portion of fibrofatty soft tissue, 9.3 cm superior-inferior, 9.3 cm medial-lateral, and
+48 cm posterior-anterior. An overlying ellipse of wrinkled, tan skin is 7.5 x 1.1 cm. Two sets of sutures are
+present: a double long suture marks lateral and a double short suture marks superior. The surgical margins
+are now differentially inked as follows:
+SUPERIOR: BLUE
+MEDIAL: RED
+ANTERIOR: YELLOW
+Case #
+Printed:
+Page 4
+This report continues... (FINAL)
+MR No
+Acct No. -
+Patient Name .
+Pathology - Page 4/5
+Jop
+Page 4 Doc# 1
+Patient:
+Case #:
+INFERIOR: GREEN
+LATERAL: ORANGE
+POSTERIOR: BLACK
+FINAL SURGICAL PATHOLOGY REPORT
+The specimen is sliced from medial to lateral in seven slices, with slice #1 most medial, slice #7 most
+lateral. There is an irregularly shaped elongated mass measuring 6.8 x 3.5 x 2.4 cm (present in slices
+#1-6). The tumor is 0.7 cm from the medial, 1.8 from the lateral, 0.6 cm from the anterior, 1.9 cm from the
+posterior, 0.4 cm from the superior (slab 3) and 1.8 cm from the inferior surgical margins. Representative
+tissue submitted for Oncogenotyping studies.
+A second partially calcified, light gray fibrous nodule is 1.1 x 0.7 x 0.6 cm, located along the inferior
+aspect in slice #2.
+Cassette summary:
+B1-B3) slab 1, medial including tumor relationship,
+B4-B7) slab 2, including superior, inferior, medial-posterior, anterior and tumor relationship,
+B8) fibrous-calcified nodule, along inferior margin, slab 2, over-night decal performed,
+B9-B14) slab 3, inferior, superior, anterior, posterior surgical margins including tumor relationship.
+B15-B20) slab 4, anterior, superior, inferior, posterior surgical margins and tumor relationship,
+821-825) slab 5, inferior, posterior, anterior, superior surgical margins and tumor relationship, and
+representation of bulk of tumor,
+B26-B30) slab 6, inferior, anterior, posterior, and superior surgical margins, area suspicious for tumor,
+B31-B35) slab 7, lateral, edge of inferior margin represented.
+Microscopic Description:
+A. Immunohistochemical stain: CK-OSCAR, showing no evidence of metastatic carcinoma. Appropriate
+positive and negative controls reviewed.
+B. Immunohistochemical stain: synaptophysin, showing positive staining in tumor cells, Appropriate
+positive and negative controls reviewed.
+Case #
+Printed:
+MR No.
+"
+Acct No
+tient Name -
+Pathology - Page 5/5
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Por Malignancy History
+Dual/Synchronous Prin ary Noted
+Lase is (c
+Reviewer ti
+QUALIFIED
+Date Reviewed.
+4/24/13
+Yes
+No
+✓
+✓
+DISQUALIFIED
+3/1/13
+Page 5
+END OF REPORT (FINAL)
+Page 5 Doc# 1

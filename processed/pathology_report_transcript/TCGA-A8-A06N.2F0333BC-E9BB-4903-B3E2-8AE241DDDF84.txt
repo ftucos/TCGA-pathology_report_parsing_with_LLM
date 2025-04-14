@@ -1,0 +1,27 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+1/19/11 for
+Site: Breast, Nos C50.9
+850013
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma (tumor diameter: 17 cm; minimum
+distance from preparation margins less than 0.1 cm) with multiple ulcerations of the
+skin.
+Together with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G III, pT4bpNOLOVORO.
+UUID:2F0333BC-E9BB-4903-B3E2-8AE241DDDF84
+TCGA-AB-A06N-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Review ni
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+A
+Redacted

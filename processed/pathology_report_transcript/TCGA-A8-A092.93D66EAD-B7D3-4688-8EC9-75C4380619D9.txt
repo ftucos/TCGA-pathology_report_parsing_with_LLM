@@ -1,0 +1,28 @@
+06
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+Site: Breast, NOS
+C50.9
+Diagnosis:
+5. Moderately differentiated invasive ductal carcinoma (tumor diameter: 3.8 cm) with
+focal intraductal 
+components and focal angioinvasion.
+UUID:93D66EAD-B7D3-4688-8EC9-75C4380619D9
+TCGA-A8-A092-01A-PR
+;
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pemary Noted
+Case is circle);
+Reviewin
+QUALIFIED
+Date Reviewed:
+Redacted
+Yes
+NO
+DISQUALIFED
+850013
+1/21/11 W

@@ -1,0 +1,196 @@
+TSS ID
+SPECIMENS:
+A. WLE LEFT BREAST NEEDLE LOCALIZATION
+B. SENTINEL LYMPH NODE #1 LEFT AXILLA
+C. SENTINEL LYMPH NODE #2 LEFT AXILLA
+D. SENTINEL LYMPH NODE #3 LEFT AXILLA
+E. SENTINEL LYMPH NODE #4 LEFT AXILLA
+F. SENTINEL LYMPH NODE #5 LEFT AXILLA
+SPECIMEN(S):
+A. WLE LEFT BREAST NEEDLE LOCALIZATION
+B. SENTINEL LYMPH NODE #1 LEFT AXILLA
+C. SENTINEL LYMPH NODE #2 LEFT AXILLA
+D. SENTINEL LYMPH NODE #3 LEFT AXILLA
+E. SENTINEL LYMPH NODE #4 LEFT AXILLA
+F. SENTINEL LYMPH NODE #5 LEFT AXILLA
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Path Site: breast, upper outer quadrant C50.4
+CQCF site: breast, Nos C50.9
+UUID:E0CCE6AD-38A6-446C-ACF7-358C1DFC59F8
+TCGA-E2-A1IL-01A-PR
+Redacted
+Part A, WLE Left breast, needle localization, gross examination: Tumor is 1 cm from posterior/inferior
+margin
+TPB, Sentinel node #1, biopsy: No tumor seen
+TPC, Sentinel node #2, biopsy: No lymphoid tissue grossly identified, no lymphocytes or tumor seen
+TPD, Sentinel node #3
+, biopsy: No tumor seen
+TPE, Sentinel node #4, biopsy: No tumor seen
+TPF, Sentinel node #5, biopsy: No tumor seen
+Diagnoses called at
+GROSS DESCRIPTION:
+(Part A) and
+.(Parts B-F) by Dr.
+A. WLE LEFT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with the patient's identification and designated "wide local excision left breast
+needle 
+localization" is an oriented, previously inked, 39-g, 25 x 5.2 x 2.7 cm needle localized
+lumpectomy specimen accompanied by two radiographs. The single suture designates anterior,
+double-lateral. 
+Ink code: Anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue,
+inferior-orange
+. The specimen is serially sectioned from medial to lateral into 6 slices revealing a firm
+tan mass with 
+surgical clip (slice 3), 1.5 x 1 x 0.9 cm, located 1 cm from the nearest posterior/inferior
+margin. A portion of 
+the specimen is submitted for tissue procurement. The specimen is
+representatively submitted:
+A1-A5: Medial margin, perpendicular sections, entirely submitted
+A6: Mass, slice 2 with posterior and anterior margins
+A7-A11: Slice 3 entirely submitted, A7-A8 demonstrating tumor (clip) and nearest posterior/inferior
+margins
+A12-A15: Slice 4 entirely submitted, A12 demonstrating mass
+A16-A17: Slice 5, posterior/inferior, inferior/anterior, respectively
+A18: Representative sections lateral margin
+B. SENTINEL LYMPH NODE #1 LEFT AXILLA
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node number
+one left axilla" is a beige 
+tan lymph node measuring 2 x 1.5 x 1 cm. Touch preparation is performed.
+Entirely submitted, B1.
+C. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node number
+two left axilla" is a fragment 
+of fibroadipose tissue measuring 2 x 2 x 0.8 cm. Touch preparation is
+performed. Entirely 
+submitted, C1.
+D. SENTINEL LYMPH NODE #3 LEFT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number 3
+left axilla" is a portion of adipose 
+tissue measuring 4 x 3 x 1 cm, demonstrating one lymph node
+measuring 0.7-cm in greatest 
+dimension. Touch preparation is performed. The entire lymph node is
+submitted, D1.
+E. SENTINEL LYMPH NODE #4 LEFT AXILLA
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node number 4
+left axilla" is a fragment 
+of lymphoid tissue measuring 2 x 1 x 1 cm. Touch preparation is performed.
+Entirely submitted, E1.
+F. SENTINEL LYMPH NODE #5 LEFT AXILLA
+2/8/11
+h
+TSS ID
+Received fresh labeled with the patient's identification and designated "Sentinel lymph node number 5
+left axilla" is a tan lymph node measuring 1.2 x 1 x 0.6 cm. Touch 
+preparation is performed. Entirely
+submitted, F1.
+DIAGNOSIS:
+A. BREAST, LEFT, EXCISION:
+INVASIVE LOBULAR CARCINOMA, MEASURING 1.5-CM, SBR GRADE II,
+-
+·DUCTAL CARCINOMA- IN-SITU, NUCLEAR GRADE 1-2/3.
+-
+· RADIAL SCAR
+- PREVIOUS BIOPSY SITE CHANGES.
+-
+SURGICAL RESECTION MARGINS ARE NEGATIVE FOR TUMOR.
+SEE SYNOPTIC REPORT.
+B. SENTINEL LYMPH NODE #1, LEFT AXILLA, EXCISION:
+-
+-
+ONE REACTIVE LYMPH NODE.
+NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+C. SENTINEL LYMPH NODE #2, LEFT AXILLA, EXCISION:
+-
+· BREAST TISSUE WITH STROMAL FIBROSIS.
+- NO MALIGNANCY IS SEEN.
+D. SENTINEL LYMPH NODE #3, LEFT AXILLA, EXCISION:
+NUCLEAR GRADE 2.
+- ONE LYMPH NODE, POSITIVE FOR METASTATIC LOBULAR CARCINOMA (1/1).
+E. SENTINEL LYMPH NODE #4, LEFT AXILLA, EXCISION:
+-
+ONE REACTIVE LYMPH NODE.
+- NO METASTATIC CARCINOMA IS SEEN (0/1).
+F. SENTINEL LYMPH NODE #5, LEFT AXILLA, EXCISION:
+-
+ONE REACTIVE LYMPH NODE.
+- NO METASTATIC CARCINOMA IS SEEN (0/1).
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: WLE LEFT BREAST NEEDLE LOCALIZATION
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Excision
+Yes - For mass
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 1.5cm
+Additional dimensions:
+1cm x 0.9cm
+Tumor Site: Upper outer quadrant
+Margins: Negative
+Distance from closest margin: Greater than 1cm
+inferior
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+2
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Indeterminate
+Lymph nodes:
+Sentinel lymph node only
+Lymph node status:
+Positive 1/4
+Micrometastases:
+No
+DCIS present
+DCIS Quantity:
+Estimate 5%
+2
+TSS ID
+DCIS Type: Solid
+DCIS Location:
+Nuclear grade:
+Necrosis: Absent
+Location of CA++:
+ER/PR/HER2 Results
+ER: Positive
+Associated with invasive tumor
+Low
+Benign epithelium
+PR: Positive
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+pT 1c N 1a
+Comment(s): Few microcalcifications are seen in the invasive tumor
+CLINICAL HISTORY:
+Core biopsy proven cancer upper outer quadrant left breast
+PRE-OPERATIVE DIAGNOSIS:
+Left breast carcinoma
+Gross Dictation:.,,
+Microscopic/Diagnostic Dictation:, M.D.. Pathologist,
+Final Review:, M.D., Pathologist,
+Final:, M.D., Pathologist, 1
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HPA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED,
+tw

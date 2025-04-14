@@ -1,0 +1,219 @@
+i
+Name:
+DOB:
+XXXX
+Gender:
+F
+MRN:
+X
+UUID:6EEF1F11-603E-4196-91AB-724BBEE20CE7
+TCGA-EW-A6SB-01A-PR
+Redacted
+Surgical Pathology Report
+Location: X
+Physician: X
+Pathologic Interpretation:
+A. LEFT AXILLARY # 1
+Case #:
+X
+Collected:
+Received: X
+Reported:
+X
+Negative for carcinoma, four lymph nodes examined (0/4).
+Keratin immunostain is pending.
+B. LEFT AXILLARY,
+,
+PALPABLE:
+ICDO-3
+LNOS
+850013
+Corenoma, igiltrating duches
+Site ©Breast NOS (50.9
+8107/29/13
+Negative for carcinoma, four lymph nodes examined (0/4).
+Keratin immunostain is pending.
+C. LEFT SEGMENTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, poorly differentiated, Nottingham grade 3 (3+3+3=9), 3.1 cm in greatest
+dimension.
+Immunohistochemical studies performed on previous biopsy showed the following results:
+Estrogen Receptor:
+NEGATIVE (<1%)
+Progesterone Receptor:
+NEGATIVE (<1%)
+Her2/neu
+NEGATIVE (0)
+Androgen Receptor:
+NEGATIVE
+EGFR:
+POSITIVE
+GCDFP:
+NEGATIVE
+HLA-DR:
+Immunohistochemistry is pending
+Skin is uninvolved by tumor.
+Resection margins are uninvolved by invasive carcinoma; the tumor is at less than 1 mm from the deep
+resection margin.
+Negative for lymphatic space invasion.
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+Procedure
+Excision without wire-guided localization
+Lymph Node
+Sentinel lymph node(s)
+Specimen Laterality
+Left
+Histologic Type of Invasive Carcinoma
+Invasive ductal carcinoma (no special type or not otherwise specified)
+Tumor Size: Size of Largest Invasive Carcinoma
+Greatest dimension of largest focus of invasion >1 mm: 31 mm
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation
+Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and
+shape, occasionally with very large and bizarre forms
+Mitotic Rate
+Score 3 (28 mitoses per mm²) (see Table 1)
+Overall Grade
+Tumor Focality
+Grade 3: scores of 8 or 9
+Single focus of invasive carcinoma.
+Ductal Carcinoma In Situ (DCIS)
+No DCIS is present
+Lobular Carcinoma In Situ (LCIS)
+Margins
+Not identified
+Invasive Carcinoma
+Lymph Nodes
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1 mm
+Specify margin: Deep
+Number of sentinel lymph nodes examined: 8
+Total number of lymph nodes examined (sentinel and nonsentinel): 0
+Number of lymph nodes without tumor cells identified: 8
+Method of Evaluation of Sentinel Lymph Nodes
+Hematoxylin and eosin (H&E), 1 level
+Immunohistochemistry
+Treatment Effect: Response to Presurgical (Neoadjuvant) Therapy
+In the Breast
+No known presurgical therapy
+In the Lymph Nodes
+No known presurgical therapy
+Lymph-Vascular Invasion
+Not identified
+Dermal Lymph-Vascular Invasion
+Not identified
+Pathologic Staging (based on information available to the pathologist) (pTNM)
+Primary Tumor (Invasive Carcinoma) (PT)
+PT2:
+Tumor >20 mm but ≤50 mm in greatest dimension
+Regional Lymph Nodes (pN)
+PNO: No regional lymph node metastasis identified histologically
+Distant Metastasis (PM)
+Not applicable
+Ancillary Studies
+Performed on another specimen
+Specify specimen (accession number): XXX
+Estrogen Receptor (ER)
+Results and interpretation:
+Negative (<1% of tumor cells with nuclear positivity)
+Progesterone Receptor (PgR)
+Results and interpretation:
+Negative (<1% of tumor cells with nuclear positivity)
+HER2 Immunoperoxidase Studies
+Results:
+Negative (Score 0)
+AJCC Classification (7th edition): pT2, pNO, pMn/a
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+A. LEFT AXILLARY #1
+Keratin immunohistochemistry is negative.
+B. LEFT AXILLARY,
+PALPABLE:
+Keratin immunohistochemistry is negative.
+Final AJCC Classification (7th edition): pT2 (sn)NO(i -) Mn/a
+Addendum Diagnosis
+ADDENDUM C:
+Immunohistochemistry for HLA-DR is positive in tumoral cells.
+This neoplasm is consistent with an invasive ductal carcinoma, medullary type.
+Intraoperative Consultation:
+A. Left axillary #1,
+FS: No malignancy seen
+B. Left axillary
+, palpable, FS1-3: No malignancy seen.
+Clinical History:
+Patient with palpable breast cancer, please evaluate margins and lymph nodes.
+Status:
+X.
+Operation Performed:
+Left segmental mastectomy with sentinel lymph node biopsy, possible axillary node dissection
+Pre Operative Diagnosis:
+Carcinoma left breast
+Specimen(s) Received/Processing Information:
+Fee Codes:
+A: LEFT AXILLARY # 1
+FS Frozen section x 1, FS Perm x 1, Touch Prep
+Histology x 1, FSDeep 1 x 1, Cytokeratin Cocktail (KER) x 1, H&E, Initial x 1
+B: LEFT AXILLARY,
+PALPABLE FS Frozen section x 1, FS Perm x 1, Touch
+Prep Histology x 1, Cytokeratin Cocktail (KER) x 1, Frozen section x 1, FS Perm x 1,
+Cytokeratin Cocktail (KER) x 1, Frozen section x 1, FS Perm x 1, Cytokeratin Cocktail (KER) x
+1, H&E, Initial x 1, Cytokeratin Cock
+C: LEFT SEGMENTAL MASTECTOMY (1 SUTURE -SUPEIOR, 2 SUTURES - MEDIAL)
+H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x
+1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, HLA-DR (IP) x 1, H&E, Initial x 1, H&E,
+Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E,
+A:
+B:
+C:
+Gross Description:
+A. Received fresh labeled "Left axillary #1,
+FS" is a fragment of adipose tissue that measures 5 x 4 x 2 cm.
+There are four palpable lymph nodes present. The lymph nodes are bisected and submitted for frozen section
+(cassette #1FS). Representative sections of the remaining adipose tissue are submitted in cassette #2.
+B.Received fresh labeled "Left axillary,
+palpable, FS" is a fragment of adipose tissue that measures 4 x 4 x
+2 cm. There are four palpable lymph nodes present. The lymph nodes are bisected and submitted for frozen section
+in cassettes #1-3FS. The rest of the specimen is submitted in cassettes #4-8.
+C.Received in formalin labeled “Left segmental mastectomy (1 suture -superior; 2 sutures -medial)" is a lumpectomy
+specimen weighing 120 grams and measuring 9 x8 x 3.5 cm, with an unremarkable dark skin ellipse measuring
+3.3 x 1.3 cm. The specimen is inked as follows: superior-blue, inferior-green, anterior-yellow, deep-black, medial-
+red, lateral-orange. Upon sectioning, there is a 3.1 x 3.0 x 3.0 cm well circumscribed, nodular tumor, white-tan, with
+an elastic consistency and central cavity. A metallic clip is identified in the central of the tumor. The tumor is grossly
+at less than 0.1 cm from the deep margin, 0.4 cm from the superior margin, 1.0 cm from the lateral margin, 2.0 cm
+from the medial margin, 2.5 cm from the anterior and skin margin, 4.0 cm from the inferior margin. The rest of the
+specimen has a cut surface, yellow-tan and homogeneous. Cassettes are submitted as follows:
+Cassette #1
+Tumor in relation with deep and superior margins
+Cassette #2
+Cassette #3
+Medial margin
+Lateral margin
+Cassette #4
+Anterior margin (and skin)
+Cassette #5
+Inferior margin
+Cassette #6
+Area of tumor with clip
+Cassettes #7&8
+Composite section of the tumor
+Cassettes #9-12 Additional sections of the tumor
+Cassettes #13-15 Representative sections of the rest of specimen
+Criteria
+www 7/9/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchrones Pinary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+Nɔ
+✓ DISQUAREIFPA
+QUALIFIED
+Late Reviewed:

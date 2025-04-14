@@ -1,0 +1,186 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+SPEC #:
+RECD:
+COLL:
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+ROOM:
+BED:
+STATUS:
+TIME IN FORMAL IN: 6:29
+hrs.
+PAGE 1
+Addendum # 1
+A typographical error is present on the initial synoptic report in the comment field on the
+original report. The histologic 
+type of the invasive carcinoma should be stated as invasive
+lobular carcinoma (pleomorphic 
+type).
+Addendum Signed
+(signature on file).
+UUID:D318A0F0-3882-4DFA-8326-E362603AAC5E
+TCGA-LL-A6FP-01A-PR
+Redacted
+ICD-03
+Carcinonia, infiltrating (5243
+bolendar
+852013
+NOS
+**
+Site Breast NOS (50.9
+CONTINUED ON NEXT PAGE **
+4706/10/13
+RUN DATE
+RUN TIME
+RUN USER
+SPEC #:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Right breast cancer
+Remarks:
+Specimen(s):
+Right breast, stitch on axillary tail
+MICROSCOPIC DIAGNOSIS
+RIGHT BREAST, MASTECTOMY:
+COMMENT(S)
+PAGE 2
+(Continued)
+INVASIVE LOBULAR CARCINOMA. PLEOMORPHIC TYPE
+MODIFIED NOTTINGHAM HISTOLOGIC GRADE 2 OF 3, NUCLEAR SCORE 2 OF 3, TUBULAR
+FORMATION SCORE 3 OF 3. MITOTIC SCORE 1 OF 3 (3 MITOTIC FIGURES PER
+TUMOR MEASURES 3.5 CM
+SURGICAL MARGINS FREE OF TUMOR WITH NEAREST MARGIN THE DEEP MARGIN AT 1 MM FROM
+TUMOR
+SEE COMMENT FOR SYNOPTIC REPORT
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+-
+APPROVED BY COLLEGE OF AMERICAN PATHOLOGISTS
+PROCEDURE:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+TUMOR SIZE:
+HISTOLOGIC GRADE:
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+Total mastectomy
+Right
+Invasive ductal carcinoma
+Greatest dimension of largest focus of invasion:
+39 mm
+Glandular/tubular differentiation:
+score 3
+score 2
+score 1
+Nuclear pleomorphism:
+Mitotic rate:
+Overall grade: grade 2
+Single focus of invasive carcinoma
+No DCIS is present
+Invasive carcinoma:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1 mm. deep
+Total number of lymph nodes examined: 0
+Primary tumor: pT2
+Regional lymph nodes: pNX
+Distant metastasis:
+Estrogen receptor:
+not applicable
+Results: positive (100% of tumor cells with
+nuclear positivity)
+Progesterone receptor:
+Results:
+HER-2:
+positive (21% of tumor cells with
+nuclear positivity)
+Immunoperoxidase studies
+Results: equivocal (score 2+)
+** CONTINUED ON NEXT PAGE **
+RUN DATE
+RUN TIME
+RUN USER
+SPEC #:
+COMMENT(S)
+(Continued)
+PAGE 3
+(Continued)
+In situ hybridization (FISH): not amplified
+GROSS DESCRIPTION:
+No
+Received fresh for tissue banking labeled with the patient's name and "right breast" is a
+257 gram. 
+18.0 x 16.0 x 3.0 cm fibrofatty breast. The breast has an overlying 16.0 x 12.0
+cm tan-white skin ellipse 
+with an eccentric 3.0 cm areolar and flattened 1.0 cm nipple.
+scars are identified on 
+the skin surface. The specimen is oriented with a suture at the
+axillary tail. 
+The deep margin has a smooth fascial plane with no significant strands of
+fibroskeletal muscle. 
+The breast is consistent with a simple mastectomy specimen.
+deep margin is inked 
+blue, and the breast is serially sectioned from lateral to medial to
+The
+have a central, 
+lobulated. dense indurated tumor mass with fibrous septae. The mass
+focally ranges up 
+to 3.9 cm and is 3.9 x 3.6 x 2.6 cm. The tumor is 0.2 cm from the deep
+margin, and 
+the deep margin appears to slide freely over the tumor mass. The mass is 2.3
+cm from the superior 
+margin, is 5.8 cm from inferior. is 5.6 cm from lateral and 7.4 cm
+from medial. 
+There is diffuse surrounding dense white fibrous tissue. The tumor is most
+closely associated 
+with the upper outer quadrant. The dense white fibrous tissue makes up
+approximately 60% of the parenchyma
+. A section of the tumor is sampled for tissue banking,
+No additional lesions are identified. 
+Representative sections are sampled as labeled:
+perpendicular section of nipple
+1
+tumor to nearest deep margin
+additional section of tumor
+upper outer quadrant sampled (quadrant nearest tumor)
+lower outer quadrant sampled
+2-3
+4
+5
+6
+7
+upper inner quadrant sampled
+8
+lower inner quadrant sampled
+INTRAOPERATIVE CONSULTATION:
+IMMEDIATE GROSS EVALUATION (RIGHT BREAST):
+INVASIVE CARCINOMA, PROCESSED FOR TUMOR BANKING
+SURGICAL MARGINS FREE OF TUMOR
+PHOTO DOCUMENTATION
+Image
+Signed
+(signature on file)_
+* *
+END OF REPORT **
+Criteria
+5/23/13 سال
+Diagnosis Discrepancy
+Fimary Tumor Site iscrepancy
+H:PAA Discrepancy
+Prior Malignancy History
+Teal/Syr chronous Prianary Noted
+Case is (circle):
+evilwernials
+Temt
+QUALIFIED
+Yes
+ate Reviewed.
+DISQUALIFIED
+5/23/13

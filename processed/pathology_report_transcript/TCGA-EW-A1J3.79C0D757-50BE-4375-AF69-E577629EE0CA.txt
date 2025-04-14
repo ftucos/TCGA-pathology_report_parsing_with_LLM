@@ -1,0 +1,202 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+Left axillary lymph node biopsy
+-
+-
+-
+One lymph node (1) negative for carcinoma.
+Immunohistochemistry for keratin is negative.
+Left axillary lymph node biopsy (
+-
+-
+-
+:
+One lymph node (1) negative for carcinoma.
+Immunohistochemistry for keratin is negative.
+Left axillary lymph node biopsy (
+One lymph node (1) negative for carcinoma.
+Immunohistochemistry for keratin is negative.
+Left breast mastectomy:
+-
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 85/20/3
+Path Site: breast, lower outer quadrant
+CQCF Site: breast, Nos
+050.9
+050.5
+2/9/4
+Mr
+INVASIVE CARCINOMA, with lobular features, moderately differentiated Nottingham grade 2 (3 + 3 + 1= 7),
+largest extent of tumor grossly measuring 2.0 cm (see note).
+IN SITU CARCINOMA, with lobular features, high nuclear grade, central comedo necrosis and calcifications is
+present in 4 out of 12 slides (see note).
+-
+Biopsy site is present.
+-
+-
+Margins negative for in situ and invasive carcinoma.
+No lymphovascular invasion is present.
+Immunohistochemical results:
+UUID:79C8D757-50BE-4375-AF69-E577629EEOCA
+TCGA-EW-A133-01A-PR
+Redacted
+Estrogen receptor:
+Positive
+Progesterone receptor:
+Positive
+HER-2:
+E-Cadherin:
+Positive (3+)
+Negative
+Note: This is an unusual neoplasm with morphologic features of a lobular in situ and invasive carcinoma that is E-
+cadherin negative, with high nuclear grade and necrosis, and positive HER-2. The biological behavior and clinical course
+of such neoplasms, which are sometimes referred to as Pleomorphic Lobular Carcinoma, may be similar to ductal
+carcinomas.
+Surgical Pathology Tumor Summary
+Specimen: Total breast
+Procedure: Total mastectomy
+Lymph node sampling: Sentinel lymph node
+Specimen Integrity: Single intact specimen
+Specimen Laterality: Left
+Tumor Site: Lower outer quadrant
+Tumor Size: Greatest dimension of largest focus of invasion over 0.1 cm: 2.0 cm
+Tumor Focality: Single focus of invasive carcinoma
+Skin: Invasive carcinoma does not invade into the dermis or epidermis without skin
+Skeletal muscle: No skeletal muscle present
+Lobular carcinoma in situ: Present
+Histologic Type of Invasive Carcinoma: Invasive carcinoma with lobular features
+Glandular (Acinar) Tubular Differentiation: Score 3<10% of the tumor are forming glandular/tubular structures
+Nuclear Pleomorphism: Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in
+In size and shape, occasionally with very large and bizarre forms
+Mitotic count: Score 1
+Overall grade: Grade 2: scores of 6 or 7
+Margins: Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1.2 cm from deep margin
+Lymph-vascular Invasion: Not identified
+Lymph nodes: Number of sentinel lymph nodes examined: 3
+SURGICAL PATHOL Report
+Total number of lymph nodes examined (sentinel and nonsentinel): 3
+Number of lymph nodes with isolated tumor cells (<0.2 mm and <200 cells): 0
+Size of largest metastatic deposit (if present): 0
+Extranodal extension: Not identified
+Method of evaluation of sentinel lymph nodes: Immunohistochemistry (pending)
+Pathologic staging: pT1c: Tumor >10 mm but <20 mm in greatest dimension
+pNO: (i+): Malignant cells in regional lymph nodes no greater than 0.2 cm and no more than 200 cells (detected by H & E or IHC
+including ITC).
+Distant Metastasis: Not applicable
+Estrogen Receptor: Performed on this specimen
+Results: Immunoreactive tumor cells present (>1%)
+Progesterone Receptor: Performed on this specimen
+Results: Immunoreactive tumor cells present (>1%)
+HER2/neu: Performed on this specimen
+Results: Positive (Score 3+)
+Microcalcifications: Present in situ carcinoma
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636-PR, A485--HER2, H-11-EGFR. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+As the attending pathologist. I attest that 1: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+Procedures/Addenda
+Addendum
+***Electronically Signed Out By***
+Date Ordered:
+Date Complete:
+Date Reported:
+Status: Signed Out
+Addendum Diagnosis
+D.
+LEFT BREAST MASTECTOMY:
+The tumor cells are positive for HER2 gene amplification by CISH (performed at
+Intraoperative Consultation
+A.
+Left axilla 1
+B.
+Left axilla 1
+C.
+Left axilla 1
+FS: No obvious malignancy; however, immunostains are pending.
+- FS: No obvious malignancy; however, immunostains are pending.
+FS: No obvious malignancy; however, immunostains are pending.
+Clinical History:
+Page 2 of
+SURGICAL PATHOL Report
+Patient with biopsy-proven infiltrating lobular carcinoma. Please evaluate margins and if sentinel nodes are H&E negative, do
+immunohistochemistry.
+Operation Performed
+Left total mastectomy with sentinel lymph node biopsy, possible axillary node dissection
+Pre Operative Diagnosis;
+Infiltrating lobular carcinoma of left breast
+Specimen(s) Received:
+A: Left axilla 1
+- FS
+B: Left axilla 1
+- FS
+C: Left axilla 1
+- FS
+D: Left breast
+Gross Description:
+A.
+B.
+C.
+D.
+Received fresh is a 1 x 1 x 0.2 cm adipose tissue fragment. The specimen is submitted in toto in one block for frozen
+section.
+Received fresh is a 2 x 1 x 0.6 cm adipose tissue fragment. The specimen is submitted in toto in one block for frozen
+section.
+Received fresh is a 0.5 x 0.4 x 0.1 cm adipose tissue fragment. The specimen is submitted in toto in one block for frozen
+section.
+Received in formalin is an 871-gram, 20 x 16 x 6 cm mastectomy specimen. An ellipse of skin is identified it measures
+16 x 9 x 0.2 cm. The nipple and areola measure 1.8 cm and 4.5 cm, respectively. The specimen is oriented with one
+stitch superior and two stitches medial. The specimen is inked and cross sectioned in the frozen room. A2 x 1.5 x 1.2
+cm, ill-defined lesion was identified in the left lower outer quadrant. This lesion is located 1.2 cm from the deep resection
+margin (closest). A 0.2 x 0.1 cm tissue sample was taken by Dr. A 0.3 x 0.3 cm tissue sample was taken for tissue
+bank. A 0.5 x 0.4 x 0.1 cm tissue sample was taken by Dr.
+for research. An additional piece of adipose
+tissue and skin accompanies the specimen; it measures 7.5 x 4 x 2.5 cm. The skin measures 7 x 2.5 x 0.1 cm. Cross
+sections throughout the specimen show a multilobulated adipose tissue. No lesions are identified. The fat to stroma ratio
+is 40:60. The specimen is submitted as follows:
+Section of nipple and areola
+Lesion in relation to the deep margin (closest)
+1
+2
+3-5
+Remainder of lesion in toto
+B
+Section of left upper inner quadrant
+7
+Section of left lower inner quadrant
+8
+Section of central compartment
+9
+Section of left upper outer quadrant
+10
+Section of left lower outer quadrant
+11&12 Sections of additional breast tissue segment
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Day Reviewed: A
+Page 3 of:

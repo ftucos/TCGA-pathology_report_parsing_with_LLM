@@ -1,0 +1,190 @@
+Carcinoma, Infiltrating duct, Nos
+Site Code breast, Nos
+850013
+12/15/10
+سلام
+050.9
+PATIENT HISTORY:
+The patient is a
+-year-old female with no clinical history or LMP given.
+PRE-OP DIAGNOSIS:
+POST-OP DIAGNOSIS:
+PROCEDURE:
+Right breast CA.
+Same.
+Right segmental mastectomy, sentinel node.
+ADDENDA:
+UUID:B8FF655E-47AB-4880-8119-1402A335126A
+TCGA-BH-A18T-01A-PR
+Redacted
+Addendum
+ESTROGEN/PROGESTERONE AND HER-2/NEU REPORT
+Using appropriate positive and negative controls, the test for the presence of these hormone receptor proteins is
+performed by the immunoperoxidase method, and reported according to the consensus statement on adjuvant
+therapy for breast cancer, of
+A positive ER or PR tumor shows any nuclear immunostaining, and is
+semiquantitated as indicated below.
+Result
+ER negative
+PR negative
+Semiquantitative Statement
+Percent cells staining as: (0 100%).
+Percent cells staining as: (0 100%).
+HER-2/NEU DAKO HERCEPTEST: A WEAK TO MODERATE COMPLETE MEMBRANE STAINING IS OBSERVED IN MORE
+THAN 10% OF THE TUMOR CELLS. HER-2/NEU IS INTERPRETED AS WEAKLY POSITIVE (SCORE 2+).
+NOTE: Her-2/Neu FISH was ordered and will be subsequently reported.
+The Her-2/neu and estrogen/progesterone receptor assays were performed with FDA approved
+FINAL DIAGNOSIS:
+methods.
+PART 1: BREAST, RIGHT, SEGMENTAL MASTECTOMY -
+A. INFILTRATING DUCTAL CARCINOMA, 3.1 CM, POORLY DIFFERENTIATED, NOTTINGHAM SCORE = 9/9
+(TUBULES = 3, NUCLEAR GRADE = 3, MITOSES = 3).
+B. LYMPHOVASCULAR INVASION IS IDENTIFIED.
+C.
+SEPARATE FOCI OF DUCTAL CARCINOMA IN SITU, SOLID TYPE, HIGH NUCLEAR GRADE.
+D. THE DUCTAL CARCINOMA IN SITU EXTENDS CLOSE ( < 0.1 CM) TO THE POSTERIOR SURGICAL MARGIN
+OF RECECTION.
+E. ALL SURGICAL MARGINS OF RESECTION ARE FREE OF TUMOR.
+F.
+NON-NEOPLASTIC BREAST WITH FIBROCYTIC CHANGES.
+PART 2: SENTINEL LYMPH NODE #1, RIGHT AXILLA, BIOPSY -
+ONE (1) LYMPH NODE, NEGATIVE FOR TUMOR (0/1), (see comment).
+PART 3: SENTINEL LYMPH NODE #2, RIGHT AXILLA, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR TUMOR, (0/1), (see comment).
+PART 4: NON-SENTINEL LYMPH NODE, RIGHT AXILLA, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR TUMOR, (0/1).
+COMMENT:
+Cytokeratin (AE1/3) stains have been performed and confirm the negative status of the sentinal lymph nodes.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+C:s is (circle).
+Reviewer Initials
+CALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+17241
+MICROSCOPIC:
+A. Laterality: 1
+1. Right
+B. Procedure: 1
+1. Segmentectomy
+2. Simple mastectomy
+C. Location: 6
+1. Central subareolar
+2. UOQ
+2. Left
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+3. Modified radical mastectomy
+4. Re-excision
+4. LOQ
+5. LIQ
+3. UIQ
+6. Not specified
+D. Size of tumor (maximum dimension invasive component by gross or microscopic exam): 3.1 cm
+E. Type (invasive component): 1
+1. Ductal, NOS
+2. Tubular
+3. Mucinous
+4. Medullary
+F. If lobular carcinoma, specify type: N/A
+1. Classical
+2. Solid
+3. Alveolar
+G. Nottingham Score:
+G1. Nuclear grade:
+G2. Tubule formation: 3
+G3. Mitotic activity score: 3
+G4. Total Nottingham score: 2
+G5. Nottingham grade (1, 2, 3): 3
+H. Angiolymphatic invasion: 2
+1. No
+1. Dermal lymphatic invasion: 2
+1. Yes
+J. Calcification: 1
+1. No
+5. Cribriform
+6. Papillary
+9. Metaplastic
+10. Other
+7. Lobular
+8. Carcinoid like
+4. Signet ring
+7. Pleomorphic
+5. Trabecular
+6. Tubulobular
+2. Yes
+2. No
+3. Not applicable
+2. Yes - benign zones
+3. Yes-malignant zones
+4. Micropapillary
+7. Lobular
+5. Apocrine
+K. Type of in situ component: 2
+1. Cribriform
+2. Solid
+3. Papillary
+6. Comedo
+L. Percentage of tumor occupied by in situ component: n/a
+M. Surgical margins involved by invasive component: 1
+1. No
+2. Yes-focal
+N. Surgical margins involved by in situ component: 1
+1. No
+2. Yes - focal
+O. Paget's disease of nipple: 2
+1. Yes
+2. No
+P. Number of positive lymph nodes: 0
+Q. Total number of lymph nodes examined: 3
+R. Sentinel node metastasis: 2
+2. No
+3. Yes-diffuse
+3. Yes diffuse
+S. Only micrometastases to lymph nodes (none larger than 0.2 cm): n/a
+1. Yes
+1. Yes
+1. Yes
+1. Yes
+T. Metastasis/es to a lymph node 2 cm. or more in greatest dimension: n/a
+U. Lymph node metastasis/es with extracapsular extension: n/a
+2. No
+2. No
+2. No
+2. No
+2. No
+V. Metastases to ipsilateral internal mammary lymph node (if applicable): n/a
+W. Skin involved (ulceration): 2
+1. Yes
+1. Yes
+1. ADH
+2. ALH
+✗. Non-neoplastic breast tissue: 6
+4. Fibroadenoma
+5. Papilloma
+7. LCIS
+8. Other
+6. FCD
+3. Radical scar
+Y. Multicentricity/multifocality of invasive foci: 2
+1. Yes
+2. No
+Z. TNM stage: T2NOMX
+Yes
+No
+Criteria
+Diagnosis D.screpancy
+Primary Tumor Site Discrepancy
+HIPA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Date Reviewed:

@@ -1,0 +1,33 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+Site: Breast, central C50.1
+portion
+CQCF
+Site Breast, Nos 0.50.9
+1/21/11
+p
+Diagnosis:
+1. Ablated breast sample with a highly differentiated invasive carcinoma
+(tumor diameter
+: 9 
+cm) with circumscribed intraductal components. Tumor-free dorsal
+resection margin.
+In conclusion, this is a highly differentiated invasive ductal carcinoma.
+Tumor classification: NOS, GI, pT3NOLOVORO
+UUID:AF0A2220-DEEC-44C8-B15C-B6442D587517
+TCGA-A8-
+A083-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewed Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+Redacted

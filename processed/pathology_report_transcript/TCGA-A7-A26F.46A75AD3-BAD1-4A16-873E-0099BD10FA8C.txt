@@ -1,0 +1,116 @@
+UUID:46A75AD3-BAD1-4A16-873E-0099BD10FA8C
+TCGA-A7-A26F-01A-PR
+Redacted
+1C0-0-3
+Carcinoma, metaplastic, Nos 8575/3
+Site: breast, NoS
+C50.9 lu
+4/27/11
+DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE
+Date Coll
+SPECIMEN
+A. Left axillary sentinel lymph node
+B. Left breast
+CLINICAL NOTES
+CLINICAL HISTORY: A -year-old with left breast metaplastic
+cancer.
+FROZEN SECTION DIAGNOSIS
+AFS Left axillary sentinel node, excision:
+No evidence of metastasis in 1 node (0/1)
+GROSS DESCRIPTION
+A. Received in a container labeled with the patient's name,
+medical 
+record number and "left axillary sentinel lymph
+The specimen container holds a single soft tan lymph node
+measuring 
+1.5 
+x 1 x 0.5 cm. AS block ASF, bisected.
+node".
+B. Container B is labeled with the patient's name, medical
+record number and "left breast". The specimen consists of
+an excisional biopsy oriented by two sutures and measuring 3.5 cm.
+from 
+anterior to posterior, 3.8 cm. from superior to inferior and
+2.5 cm
+. 
+from 
+medial to lateral. The specimen margins are inked as
+follows: blue-
+interior, black-posterior, red-superior,
+green-inferior, yellow-medial, orange-lateral. The specimen is
+serially 
+sectioned and there is a firm, tan stellate lesion
+measuring 1.8 x 1.5 x 1.5 cm., located extending in the direction of
+the 
+inferior margin of resection and appearing to involve the
+inferior 
+margin. ASB1-B20.
+MICROSCOPIC DESCRIPTION
+A. There is no evidence of metastasis in one left axillary
+sentinel lymph node. The node is examined by multilevel
+sectioning with H&E staining, as well as for immunohistochemistry
+for 
+pankeratin.
+B. Invasive Carcinoma: Present.
+Histologic type:
+Adenocarcinoma with squamous differentiation,
+metaplastic.
+Histologic grade:
+Overall grade:
+3
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (PT):
+1.8 cm (pT1)
+Specimen margins: Positive.
+Vessel invasion: Invasive carcinoma involves inferior margin over
+a distance of greater than 1 cm.
+Vessel invasion: foci suspicious.
+Calcification: Present.
+Ductal carcinoma in situ:
+Present.
+Histologic pattern: Solid.
+Nuclear grade: 3
+Central necrosis: Present.
+% DCIS subtotal tumor: Less than 10%.
+Extensive intraductal component:
+Specimen margins: Negative.
+Calcification: Present.
+Description of non-tumorous breast:
+Comments: None.
+Absent.
+Unremarkable.
+Prognostic markers: Previously FISH for HER-2 was reported as
+equivocal and a block is sent at the request of
+repeat HER-2 by FISH.
+DIAGNOSIS
+A. Left axillary sentinel lymph node, resection:
+B.
+No evidence of metastasis in one lymph node (0/1).
+Left breast, excisional biopsy:
+-
+Poorly differentiated carcinoma with metaplastic features,
+grade 3,
+-
+1.8 cm.
+Invasive carcinoma extends to involve the inferior margin
+of resection.
+-
+Ductal carcinoma in situ, solid and comedo subtypes,
+nuclear grade 3 with necrosis, margins negative.
+ectronic Signature)
+End Of Report
+Criteria
+Diagnoris Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Primary Nuted
+Case is (circle):
+Reviewer Initials
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+4/27/11

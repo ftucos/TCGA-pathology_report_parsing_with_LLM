@@ -1,0 +1,76 @@
+Patient:
+ICD-0-3
+Carcinoma infiltrating lobular, Nos 8520/7
+Siti: breast, Nos
+C50.9
+3/11/11
+سلر
+Department of Cancer Pathology
+page 1 / 2
+copy No.
+Date:
+Examination: Histopathological examination
+PESEL:
+Material: Multiple organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+Examination No.:
+Age:
+Gender: F
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 10% of neoplastic
+cell nuclei. HER2 protein stained with HercepTest™ by DAKO.
+Score = 2+, verification by the FISH method recommended.
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Left breast sized 17.8 x 11.3 x 4.8 cm removed with axillary tissues sized 9 x 5 x 3 cm. Weight 400 g. Skin flap
+21.7 x 9.2 cm in size. Tumour sized 3.9 x 6.6 x 2.8 cm found in the central part, placed 1.4 cm from the upper
+edge, 0.9 cm from the base and 0.0 cm from the skin.
+Status after biopsy (test No.
+Microscopic description:
+Carcinoma lobulare invasivum (G2 acc. to Elston: 3+2+1; 0 mitoses /10 HPF diam. 0.55 mm) Infiltratio
+carcinomatosa cutis et mammillae. Glandular tissue showing parenchyma atrophy.
+Invasive lesions are placed 0.1 cm from the base of the surgical specimen. Axillary lymph nodes: Metastases
+carcinomatosae in lymphonodo (No XI / XIII).
+Histopathological diagnosis:
+(including test No.
+Ca rei nom alobulare invasivum mammae sinistrae. Invasive lobular carcinoma of the left breast
+Metastases carcinomatosae in lymphonodis axillae (XI/XIII) Cancer metastases in axillary lymph nodes (XI/XIII)
+(NHG2, pT3, pN3a).
+Compliance validated by:
+Redacted
+UUID:021DF8B3-A535-4AD4-9545-189A7BC3E1E6
+TCGA-D8
+-A1JN-01A-PR
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synch ogou Primary Need
+Case circ
+Reviewer V
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+fort 3/11/91
+Examination performed on:
+Examination: Histopathological examination page 2 / 2
+Patient:
+PESEL:
+Examination performed on:
+Gender: F
+Examination No.:
+Results of immunohistochemical examination:
+RESULT OF HER2/neu GENE AMPLIFICATION with the FISH method by Path Vysion HER2 DNA Probe Kit
+FINAL RESULT:
+HER-2 GENE AMPLIFICATION NOT FOUND
+Compliance validated by

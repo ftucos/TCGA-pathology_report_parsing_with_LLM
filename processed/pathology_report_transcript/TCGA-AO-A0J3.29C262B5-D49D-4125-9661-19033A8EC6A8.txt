@@ -1,0 +1,260 @@
+clinical Diagnosis & History:
+Right breast cancer with axillary positive FNA.
+Specimens Submitted:
+1: SP: Right breast and axillary contents level 1 and 2
+2: SP: Additional level one lymph node, right axilla
+Redacted
+DIAGNOSIS:
+1.
+BREAST, RIGHT; MODIFIED RADICAL MASTECTOMY:
+Verified by StaiNE
+MULTIPLE FOCI INVASIVE DUCTAL CARCINOMA WITH NEUROENDOCRINE
+DIFFERENTIATION, HISTOLOGIC GRADE III/III (SLIGHT OR NO TUBULE FORMATION),
+NUCLEAR GRADE III/III (MARKED VARIATION IN SIZE AND SHAPE) RANGING IN SIZE
+FROM 0.1 CM TO 4.2 CM.
+per Tes.
+- THERE IS A DOMINANT TUMOR MASS WHICH MEASURES 4.2 CM IN GREATEST DIMENSION
+WITH MULTIPLE SATELLITE NODULES SPANNING AN AREA OF 9.0 CM.
+- DUCTAL CARCINOMA IN-SITU (DCIS) IS ALSO IDENTIFIED, SOLID, FLAT/CLINGING,
+MICROPAPILLARY, AND CRIBRIFORM TYPES WITH INTERMEDIATE TO HIGH NUCLEAR GRADE
+AND MILD NECROSIS.
+THE DCIS CONSTITUTES LESS THAN OR EQUAL TO 25% OF THE TOTAL TUMOR MASS,
+AND IS PRESENT ADMIXED WITH THE INVASIVE COMPONENT.
+THE INVASIVE CARCINOIMA IS LOCATED IN ALL FOUR QUADRANTS AND THE
+CENTRAL AREA.
+-
+THE DCIS IS LOCATED IN ALL FOUR QUADRANTS AND THE CENTRAL AREA.
+- SMALL FOCUS OF LOBULAR CARCINOMA IN SITU (LCIS) IS IDENTIFIED
+NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA
+IS IDENTIFIED.
+-
+CALCIFICATIONS ARE PRESENT IN THE INVASIVE AND IN SITU CARCINOMA.
+- NO VASCULAR INVASION IS NOTED.
+-
+NO INVOLVEMENT OF THE SURGICAL MARGINS BY BITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+- BIOPSY SITE, FIBROCYSTIC, AND COLUMNAR CHANGES AND MICROSCOPIC
+INTRADUCTAL PAPILLOMAS ARE
+-
+ALSO IDENTIFIED
+THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES
+LEVEL I: 0/23; LEVEL II:
+EXAMINED) :
+THE METASTATIC FOCUS MEASURES 1.9 CM.
+0/11; INTRAMAMMARY (ELEVEN O' CLOCK):
+-
+THERE IS NO EXTRANODAL EXTENSION OF CARCINOMA.
+1/1.
+UUID:29C26285-D49D-4125-9661-19833A8EC6A8
+TCGA-AO-A033-01A-PR
+** Continued on next page **
+1C0-0-3
+Carcinoma, infiltrating duct mixed w/ other types (neuroendocrine)
+852313
+Site breast, Nos
+050.9
+سر
+10/27/11
+Criteria
+Yes
+No
+P
+Diagnosis Discrepancy ductal c
+Primary Tumor Site Discrepancy
+HIFAA Discrepancy
+Priur Malignancy History
+Dual/Synchronous Prime/Noted
+Case is (circle):
+Reviewer initials
+ALIFIED
+DISQUALIFIED
+Date Revieved
+/03 10/27/11
+LYMPH NODE, LEVEL ONE, RIGHT AXILLA, ADDITIONAL; EXCISION:
+ONE BENIGN LYMPH NODE (0/1).
+Page 2 of 4
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I 
+HAVE REVIEWED AND APPROVED
+THIS 
+REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+M.D.
+1) The specimen is received fresh and labeled, "right breast and axillary
+contents levels 1 and 2" and consists of a 
+breast measuring 33.0 x 27.5 x
+6.0 cm with overlying skin ellipse measuring 
+33.0 x 17.0 cm.
+centrally on the skin surface is 
+a flattened nipple measuring 0.9 x 0.9 cm
+Situated
+and areola measuring 4.2 cm.
+positions
+. No definitive scars are appreciated. A suture demarcates the
+The skin shows 
+bruising at the 8 o'clock
+axillary contents which measures 11.0 x 6.5 
+cm. Two tags are present,
+designating levels 1 and 2.
+black 
+and the anterior/superior red and interior/inferior green. The
+The posterior 
+surface of the breast is 
+inked
+specimen is serially sectioned to reveal 
+a firm tumor nodule measuring 4.2
+x 3.5 x 3.2 cm located centrally at the subareolar 
+aspect,
+from the 
+deep margin with 
+surrounding firm satellite extension involving a
+located 1.0 cm
+9.0 x 5.5 x 5.0 cm area involving all four 
+quadrants. A full face section of
+the largest tumor nodule is taken, sectioned and 
+submitted accordingly.
+Additional 
+representative sections showing the 
+satellite nodules are
+submitted. The remaining breast tissue 
+shows, lobular adipose tissue with
+scant white fibrous breast tissue. The axillary 
+tissue is dissected to
+reveal 
+an enlarged tan lymph node located 
+in the upper outer quadrant at 11
+o'clock position, measuring 2.5 cm in greatest 
+dimension with a grossly
+positive 
+cut surface.
+submitted. All identified lymph nodes are submitted. Representative sections
+A representative 
+section of the lymph node is
+are submitted. All dissected lymph nodes are entirely 
+submitted.
+Summary of sections:
+N-
+NB
+nipple
+nipple base
+S - representative skin
+D - tumor to deep margin
+TSS tumor (full face, trisected)
+TN largest tumor nodule to surrounding papillary nodules
+PN-- surrounding papillary tumor nodules
+UIQ
+-
+upper inner quadrant
+LIQ - lower inner quadrant
+upper outer quadrant
+UOQ
+LOQ
+LN11-
+lower outer quadrant
+grossly positive 11 o'clock lymph node
+LN1-- lymph nodes (level 1)
+BLN1
+bisected lymph nodes (level 1)
+** Continued on next page **
+N
+TLN1-- trisected lymph nodes (level 1)
+SLNlserially sectioned single lymph node (level 1)
+LN2
+-
+lymph nodes (level 2)
+BLN2 bisected lymph node (level 2)
+Page 3 of 4
+2) The specimen is received in formalin, labeled "Additional level 1 lymph
+node, right axilla" and consists of a 
+single pink tan fatty lymph node
+measuring 1.2 x 1 x 0.3 cm. The lymph 
+node is entirely submitted.
+Summary of sections:
+LN- lymph node
+Summary of Sections:
+Part 1: SP: Right breast and axillary contents level 1 and 2
+Block
+Sect. Site
+PCs
+4
+BLN1
+4
+1
+BLN2
+1
+1
+D
+1
+2
+LIQ
+2
+3
+LN1
+3
+1
+LN11
+1
+2
+LN2
+2
+2
+LOQ
+2
+3
+N
+3
+1
+NB
+1
+1
+S
+1
+3
+4
+SLN1
+4
+3
+TLN1
+3
+2
+TN
+2
+3
+TSS
+3
+2
+UIQ
+2
+2
+UOQ
+2
+Part 2: SP: Additional level one lymph node
+Block
+1
+Sect. Site
+LN
+PCs
+1
+right axilla
+Status:
+By:
+Signed Out
+D.
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported: -
+Addendum Diagnosis
+** Continued on next page
+RIGHT BREAST AND AXILLARY CONTENTS, LEVEL 1 AND 2:
+Page 4 of 4
+- IMMUNOHISTOCHEMICAL STAINS SHOW THE TUMOR CELLS TO BE NEGATIVE FOR
+HER2 (
+C/1+).
+M.D.
+End of Report **
+4

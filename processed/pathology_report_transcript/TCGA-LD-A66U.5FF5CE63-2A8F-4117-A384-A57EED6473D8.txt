@@ -1,0 +1,210 @@
+DATE OBTAINED:
+DATE RECEIVED:
+DATE REPORTED:
+UUID:5FF5CE63-2A8F-4117-A384-A57EED6473D8
+TCGA-LD-A66U-01A-PR
+Redacted
+Surgical Pathology Report
+* Amended *
+ICD-O-3
+Carcinona, Club NOS
+852013
+Site Buast NOS
+650.9
+№ 5/10/13
+LOCATION:
+SUBMITTING MD:
+MD
+CC:
+DIAGNOSIS
+1. SUPERFICIAL RIGHT AXILLARY BREAST TISSUE, EXCISION: SMALL FOCUS OF INVASIVE LOBULAR
+CARCINOMA (0.6MM) PRESENT AT THE EDGE OF ONE FRAGMENT, WITH SURROUNDING ADIPOSE
+TISSUE; RARE BENIGN BREAST ACINI; SEE COMMENT
+2. RIGHT AXILLARY SENTINEL LYMPH NODE #1: ONE LYMPH NODE POSITIVE FOR MICROMETASTASIS
+(0.6 MM); SEE COMMENT.
+3. RIGHT AXILLARY SENTINEL LYMPH NODE #2: ONE LYMPH NODE POSITIVE FOR MULTIPLE FOCI OF
+MICROMETASTASIS (LARGEST 1.5MM), CONFIRMED BY CYTOKERATIN STAIN; NO EXTRANODAL
+EXTENSION.
+4. RIGHT BREAST, MASTECTOMY: INVASIVE LOBULAR CARCINOMA
+SIZE (INVASIVE):
+LATERALITY:
+TUMOR FOCALITY:
+LESIONAL SITE:
+HISTOLOGIC TYPE:
+NUCLEAR GRADE:
+HISTOLOGIC GRADE:
+IN-SITU COMPONENT:
+AJCC CATEGORIES:
+PTNM:
+LYMPH NODE SAMPLING:
+CTNM:
+INTEGRITY/ORIENTATION:
+MARGINS (invasive lobular):
+LYMPHOVASCULAR INVASION:
+MICROCALCIFICATIONS:
+NIPPLE/SKIN:
+SKELETAL MUSCLE:
+OTHER:
+3.5 cm
+Right
+Unifocal
+10:00
+Invasive lobular carcinoma, classical and pleomorphic types
+II and III of III
+N/A
+LCIS
+(invasive lobular carcinoma)
+(Classical and focal pleomorphic types; NG II, focal III)
+Positive (2/15), largest 3mm; no extranodal involvement; see specimens #2, #3 & #6
+Stage IIB
+pT2
+CT2
+pN1mi
+CN1
+смо
+Intact specimen with designated margins
+Focal positive superior/anterior margin (see final margin in #1);
+Other margins negative (>3mm)
+Present
+Not identified
+Negative skin and nipple
+Present, focal, negative for tumor
+Focal sclerosing adenosis, columnar cell changes and usual mild hyperplasia
+5. LEFT BREAST, PROPHYLACTIC MASTECTOMY: BENIGN BREAST WITH SMALL PAPILLOMATOSIS,
+SCLEROSING ADENOSIS AND MILD USUAL DUCTAL HYPERPLASIA; NO ATYPIA; NEGATIVE SKIN AND
+NIPPLE.
+6. RIGHT AXILLARY CONTENTS, DISSECTION: THIRTEEN NEGATIVE LYMPH NODES (0/13).
+Criteria
+W 4/9/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumar Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer initials
+GUALIFIED
+4
+Page 1 of 3
+DISQUALIFIED
+Dace Reviewed: 18/13-
+Surgical Pathology Report
+***Electronically Signed Out***
+COMMENT
+#1: There is one small focus of invasive carcinoma at the edge of a fragment (0.6mm, confirmed by negative calponin and p63
+immunostain), with severe cautery artefact, which was not seen on frozen section. The tumor is surrounded by fatty tissue, and
+thus would be regarded as negative final margin for specimen #4.
+#2: There is single focus of micrometastasis in the SLN #1. This focus is only present in slide 2B CTD2, and not on other levels,
+frozen smears and cytokeratin immunostained slides.
+88307x5, 88305, 88331, 88332, 88333x2, 88342x3
+Clinical Diagnosis and History:
+Right breast cancer 10 o'clock
+CT2,CNI,cMo, clinical stage 2B
+Tissue(s) Submitted:
+1: SUPERFICIAL RIGHT AXILLARY BREAST TISSUE
+2: RIGHT AXILLARY SENTINEL LYMPH NODE #1
+3: RIGHT AXILLARY SENTINEL LYMPH NODE #2
+4: RIGHT BREAST LONG STITCH LATERAL SHORT STITCH SUPERIOR
+5: LEFT BREAST LONG STITCH LATERAL SHORT STITCH SUPERIOR
+6: RIGHT AXILLARY CONTENTS
+Gross Description:
+Specimen #1 is received fresh for intraoperative consultation, labeled with the patient's name and superficial right axillary breast
+tissue, and consists of a 2.7 × 1.7 x 0.6 cm tan-yellow lobulated adipose tissue which is entirely submitted for frozen section
+analysis labeled 1AFS-1BFS.
+Specimen #2 is received fresh for intraoperative consultation, labeled with the patient's name and right axillary sentinal lymph node
+#1, and consists of a single tan-pink, nodular tissue consistent with lymph node measuring 1.3 x 0.7 x 0.5 cm. The specimen is
+serially sectioned and two intraoperative smears are performed. The specimen is entirely submitted labeled 2A-2B.
+Specimen #3 is received fresh on a blue surgical towel for intraoperative consultation, labeled with the patient's name and right
+axillary sentinal lymph node #2, and consists of a single tan-pink, nodular tissue consistent with lymph node measuring 1.0 x 0.5 x
+0.5 cm. The specimen is serially sectioned and an intraoperative smear is prepared. The specimen is entirely submitted labeled
+3A-3B.
+Specimen #4 is received fresh for formalin, labeled with the patient's name and right breast, long stitch lateral, short stitch superior,
+and consists of a 520 gram, 18 (superior to inferior) by 17 (medial to lateral) by 4 (anterior to posterior) cm right mastectomy
+specimen. A short suture designating superior, and a long suture designating lateral are present. A 14 x 4.5 x 0.3 cm white-tan,
+unremarkable ellipse of skin is identified containing a 1.3 x 1.1 x 0.3 cm unremarkable, everted nipple. The areola measures 3.5 x
+2.5 cm. The specimen is differentially inked as follows: superior/anterior - blue, inferior/anterior - green, posterior/deep - black
+and serially sectioned from lateral to medial to reveal a 3.5 x 2.5 x 1.1 cm firm, tan-pink, irregular mass at the 10 o'clock position.
+This mass is focally 0.2 cm from the posterior, 0.2 cm from the superior/anterior, and greater than 4 cm from the inferior margins.
+The mass is present in multiple sections and is seen to extend more centrally. No other lesions are grossly identified. The
+surrounding breast parenchyma consists of white, fibrous tissue (60%) and tan lobular adipose tissue (40%). Time in formalin:
+14:20. Representative sections are submitted as follows:
+4A-4B: Mass closest to superior/anterior and deep margins, contiguous section
+4C:
+Mass to deep margin
+4D:
+Mass to superior/anterior margin
+4E:
+Mass to deep margin
+4F-4G: Tumor without margin
+4H:
+41:
+4J:
+Mass to deep
+Tumor without margin
+Inferior margin closest to tumor
+4K-4L: Fibrous tissue immediately medial to mass
+4M:
+Fibrous tissue in central breast
+4N:
+Fibrous tissue in medial most breast
+Page 2 of 3
+Surgical Pathology Report
+40:
+Nipple and skin section closest to mass
+4P:
+Outer upper quadrant
+4Q:
+Outer lower quadrant
+4R:
+Inner upper quadrant
+4S:
+Inner lower quadrant
+Specimen #5 is received fresh for formalin, labeled with the patient's name and left breast, long stitch lateral, short stitch superior,
+and consists of a 550-gram, 20 (superior to inferior) by 15.9 (medial to lateral) by 5.4 (anterior to posterior) product of left
+mastectomy. An unremarkable, tan ellipse of skin is identified measuring 13.3 x 4.2 x 0.2 cm. The everted nipple measures 1 x
+0.9 cm and resides within a 4 x 2.9 cm areola. The specimen is differentially inked as follows: superior/anterior - |
+- 
+blue,
+inferior/anterior - green, posterior/deep - black and serially sectioned from medial to lateral to reveal no distinct mass but areas
+consistent with fibrocystic changes containing blue domed cysts averaging 0.3 cm in greatest dimension. The surrounding breast
+parenchyma consists of tan-yellow lobulated adipose tissue (60%) and white, fibrous areas (40%). No other lesions are grossly
+identified. Time in formalin:
+Representative sections are submitted as follows:
+5A:
+Nipple
+5B:
+Outer upper quadrant
+5C:
+Inner upper quadrant
+5D:
+Inner lower quadrant
+5E:
+Outer lower quadrant
+5F-5L:
+5M:
+Fibrous areas
+Superior margin to fibrous area
+5N:
+Deep margin to fibrous area
+50:
+Inferior margin to fibrous area
+Specimen #6 is received fresh on a blue surgical towel, labeled with the patient's name and right axillary contents, and consists of
+multiple tan-pink, nodular tissues consistent with lymph nodes ranging from 0.5 to 2 cm in greatest dimension. All grossly
+identifiable lymph nodes are submitted as follows:
+6A-B: One lymph node, bisected, each cassette
+6C-6D: One lymph node, bisected
+6E-F: One lymph node, bisected, each cassette
+6G-H: Intact lymph nodes
+Intraoperative Consult Diagnosis
+1A-1B/FSDX: BENIGN BREAST TISSUE AND FAT; NO MALIGNANCY..
+2A/GDX/SMDX: NEGATIVE LYMPH NODE (0/1)
+3A/GDX/SMDX: POSITIVE LYMPH NODE (1/1).
+Amendments
+Amended:
+Reason: Further review of case
+SLN #2 should be counted as multiple micromet
+Previous Signout Date:
+Page 3 of 3
+END OF REPORT

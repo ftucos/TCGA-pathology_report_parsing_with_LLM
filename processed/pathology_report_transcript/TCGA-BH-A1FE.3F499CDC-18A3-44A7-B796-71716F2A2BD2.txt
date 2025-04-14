@@ -1,0 +1,35 @@
+Collection Date:
+FINAL DIAGNOSIS:
+SUPRACERVICAL UTERUS WITH BILATERAL ADNEXA, LAPAROSCOPIC RESECTION
+A. CARCINOMA INVOLVING THE CORTEX OF THE LEFT OVARY (see comment).
+ENDOMETRIOSIS OF SEROSAL SURFACE OF UTERUS AND LEFT ADNEXA.
+B.
+C.
+UTERUS WITH SECRETORY ENDOMETRIUM, ENDOCERVICAL CANAL AND LOWER UTERINE SEGMENT WITH NO
+ABNORMALITIES.
+D. UNREMARKABLE RIGHT ADNEXA
+S
+COMMENT:
+The carcinoma involving the surface of the left ovary has the appearance of the patient's prior ductal carcinoma of the
+breast
+UUID:3F499CDC-18A3-44A7-8796-71716F2A2BD2
+TCGA-BH-A1FE-06A-PR
+Redacted
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted.
+Case is (circle):
+Reviewer Initials
+Metsite crecy &
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+11/41
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: overy (56.9
+tw 11/4/11

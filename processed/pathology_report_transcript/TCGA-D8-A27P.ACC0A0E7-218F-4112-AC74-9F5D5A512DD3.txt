@@ -1,0 +1,66 @@
+101-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+Site: breast, NoS
+Redacted
+050.9
+پیدا
+UUID:ACC0A0E7-218F-4112-AC74-9F5D5A512DD3
+TCGA-D8-A27P-01A-PR
+Internal invoice No.
+Patient: XXX
+5/19/11
+page 1 / 1
+copy No.
+5
+Date:
+Examination: Histopathological examination
+Value of diagnostic procedure
+PESEL: XXX
+Age
+Gender: F
+Material: Multiple organ resection right breast
+Unit in charge:
+Physician in charge:
+Material collected on
+Material received on:
+Expected time of examination: up to 8 working days
+Criteria
+Examination No.:
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Moted
+Cave is (circle):
+Reviewer tia
+wit
+QUALIFIED
+DISQUALIFIED
+The 5/19/2 5/9/11
+Clinical diagnosis: Cancer of the right breast
+Examination performed on:
+Macroscopic description:
+Right breast sized 17.2 x 13.2 x 4.4 cm removed without axillary tissues and with a skin flap of 14.4 x 7.2 cm. Weight
+345 g.
+Tumour sized 1.2 x 1.4 x 0.9 cm found on the boundary of upper quadrants, located 4.3 cm from the upper
+boundary, 0.8 cm from the base and 1.6 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG1 (1 + 2 + 1:0 mitoses/10 HPF - visual area: 0.55mm).
+Numerous foci of carcinoma ductale in situ DCIS found within the tumour (micropapillary type with medium nuclear
+atypia and comedo necrosis, 70% of the tumour volume).
+Mamilla sine laesionibus.
+Glandular tissue showing parenchymal atrophy.
+Examination result;
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast
+(NHG1, pTic, pNO (SN)).
+Compliance validated by:
+Examination performed c
+Results of immunohistochemical examination:
+Estrogen receptors found in 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10% of neoplastic cell nuclei.
+HER2 protein stained with Ventana's Pathway HER-2/neu (4B5) Rabbit Monoclonal Antibody.
+Negative reaction in invasive cancerous cells (Score=1+).
+Compliance validated by:

@@ -1,0 +1,101 @@
+Sample #
+UUID:A8980EE8-52DE-4DAS-84DD-F8E86EBF6A9B
+TCGA OL-A5D7-01A-PR
+Redacted
+Surgical Pathology Report
+* Amended *
+FINAL PATHOLOGIC DIAGNOSIS
+ICD-0-3
+Carcinoma, Infiltrating Duct No.
+850013
+Site: Breast, NOS C50.9
+Lumpectomy and sentinel lymph node biopsy, left breast and axilla:
+A. Sentinel lymph node #1, left axilla:
+- Single lymph node, no tumor (0/1).
+B. Left breast lumpectomy:
+JW12/24/12
+- Invasive ductal carcinoma, SBR grade III, with focal necrosis and associated
+lymphocytic infiltrate. See parameters below.
+- Ductal carcinoma in situ, solid type, high nuclear grade, associated with
+invasive carcinoma.
+- Unremarkable uninvolved breast parenchyma.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 2.8cm
+B. Composite histologic (modified SBR) grade III
+- Architecture: 3
+- Nuclear grade: 3
+Mitotic count: 3
+C. Associated ductal carcinoma in situ (DCIS): high nuclear grade, <5% of
+tumor volume,
+associated with invasive carcinoma.
+2. Excisional biopsy margins: Free of tumor
+- DCIS >1 cm from nearest margin.
+- Invasive carcinoma 7mm from posterior (closest) margin
+3. Blood vessel and lymphatic invasion: Absent
+4. Axillary lymph nodes: Negative for tumor
+-
+5. Special studies (performed on current material):
+· No reactivity for ER (no staining).
+No reactivity for PR (no staining).
+- Her2/neu (FISH) is pending.
+6. pTNM: pT2, N0(sn), MX.
+Clinical History:
+year-old female with a left breast cancer undergoing left breast sentinel
+lymph node biopsy and partial mastectomy.
+Specimens Received:
+A: Left axillary sentinel lymph node #1
+B: Left breast partial mastectomy
+Gross Description:
+Specimens received in two containers each labeled with the patient's name and
+medical record number.
+A. Part A is additionally designated 'left axillary sentinel lymph node #1.'
+Received fresh for frozen diagnosis is a 2.4 x 1.3 x 0.9 cm lymph node which is
+bisected. Half of the lymph node is frozen and read as no carcinoma per Dr.
+Chang. The remnant of frozen tissue is entirely submitted in cassettes AlFS.
+The remnant of non-frozen tissue is submitted in cassette A2.
+Part B additionally designated '2 left breast partial mastectomy double short
+stitch superior, double long lateral'. Received fresh and placed in formalin is
+a 114 gm partial mastectomy specimen. The measurements are as follows: Superior
+to inferior 7.0 cm, medial to lateral 9.8 cm, and anterior to posterior 4 cm.
+There is skeletal muscle on the posterior aspect of the lumpectomy specimen
+measuring 3.8 x 1.5 cm. The specimen is inked as follows: Superior blue,
+inferior green, posterior red, anterior black, lateral purple and medial yellow.
+The specimen is serially sectioned from medial to lateral and to 11 slices.
+There is a 2.8 x 2.5 x 2.4 cm well-circumscribed firm tan-pink mass which
+demonstrates focal hemorrhage. This mass is 1.1 cm from the inferior margin,
+0.7 cm from the posterior margin, 3.5 cm from the superior margin, 1.1 cm from
+the anterior margin, 2.2 cm from the lateral margin and greater than 5 cm from
+the medial margin.
+B1-B2: medial margin.
+B3-B7 lateral margin. Clearly sectioned and entirely submitted.
+B8-B10: representative sections of mass from slice 7 demonstrating
+relationship to red ink margin (posterior)
+B11: representative site of section of mass in slice 8 showing
+relationship to green margin.
+B12: representative section of slice 8 showing skeletal muscle on
+posterior aspect
+B13-B15: representative sections of mass in slice 9 showing relationship to red,
+green, and black inked margins.
+B16: representative section of slice 9 demonstratingskeletal muscle at
+closest approximation to mass.
+B17: representative section of normal breast parenchyma, site
+unspecified
+B18: normal breast parenchyma slice 3.
+B19: normal breast parenchyma slice 7.
+Intraoperative Consult Diagnosis:
+A1FS. Left axillary sentinel lymph node #1: 'No carcinoma'
+Criteria
+Diagnosis Discrepancy
+in 12/20/12 Yes
+Pimary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Frimary Noted
+Case is !circle:
+Reviewer IrialAVAI
+QUALIFIED
+DISQUALIFIED
+No
+Date Reviewed:
+12/20/12

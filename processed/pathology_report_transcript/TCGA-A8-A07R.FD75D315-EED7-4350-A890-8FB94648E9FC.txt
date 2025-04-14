@@ -1,0 +1,31 @@
+P
+Diagnosis:
+Peth
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: Breast, 40Q C50.4
+CQCF Site: Breast, Nos 050.9
+1/21/11
+1. Left breast segment at 2 o'clock with a poorly differentiated invasive ductal carcinoma,
+max. 4.6 cm in size, with concomitant high-
+grade DCIS III with comedo necroses.
+سطر
+Tumor classification based on the preliminary findings: pT2 (4.6 cm), pN3a (15/22), MX, R1
+(peripheral invasive carcinoma), G3, (L1, V1).
+UUID:FD75D315-EED7-4350-A890-8FB94648E9FC
+TCGA-A8-A07R-01A-PR
+Redacted
+Yes
+N_
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is circle):
+Revver initials
+QUALIFIED
+Date Reviewed:
+DISRO FILD
+کس

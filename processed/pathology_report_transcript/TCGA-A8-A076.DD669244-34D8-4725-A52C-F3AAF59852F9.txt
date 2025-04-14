@@ -1,0 +1,31 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+Site: breast, MOQ 050.4
+CQCF Site: breast, Nos C50.9
+1/25/11
+کسا
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma (tumor diameter. 2.5 cm) with discrete
+intraductal components. No skin 
+infiltration.
+Considering the tumor-free medial follow-up resection material (sample 3), the
+carcinoma was certainly excised 
+in toto.
+Concluding tumor classification: NOS, G III, pT2NOLOVORO (6th edition, 2003).
+UUID:DD669244-34D8-4725-A52C-F3AAF59852F9
+TCGA-A8-A076-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Jual/Synchronous Prima Noted
+Case is (circle):
+Reviewer nitials
+QUALIFIED
+Date Reviewed:
+tu
+Yes
+No
+DISQUALIFIED

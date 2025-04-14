@@ -1,0 +1,86 @@
+Department of Cancer Pathology
+ICD-03
+lifeltrating Duct Cacomina ive's
+350013
+Site: breast, NoS C509
+Iw
+11/22/10
+page 1 / 2
+Examination: Histopathological examination
+copy No.
+Examination No.:
+Patient
+PESEL:
+Age.
+Gender: F
+Material: Multiple organ resection - right breast
+Unit in charge:
+Physician in charge:
+Material collected on
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Bifocal cancer of the right breast.
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors in neoplastic cell nuclei not found. Progesterone receptors in neoplastic cell nuclei not
+found. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells (
+Score = 1+)
+Compliance validated by:
+Examination performed on
+Results of immunohistochemical examination:
+Assessment of the receptor status for the other tumour (prep. IH) Estrogen receptors found in 10-75% of
+neoplastic cell nuclei. Progesterone receptors found in 10-75% of neoplastic cell nuclei. HER2 protein stained
+with HercepTest" by DAKO. Negative reaction in invasive cancerous cells (Score = 1+)
+TM
+Compliance validated by.
+Examination performed on:
+Macroscopic description:
+✓ Right breast, sized 22.5 x 17 x 4 cm, removed along with axillary tissues sized 9 x 6 x 7 cm and a skin flap of
+20 x 9 cm. Weight 600 g.
+Tumour sized 4.5 x 2.5 x 2.3 cm on the border of the lower quadrants, placed 6.7 cm from the lower edge,
+1.1 cm from the base and 1.6 cm from the skin.
+The other tumour, sized 1.3 x 1.2 x 1.2, found 3 cm from the first one (margins: lower area 1.7 cm, base 1.4
+cm, skin 0.9 cm).
+Lymph nodes of 0.4 cm in length, metastatic.
+Microscopic description:
+Tumour 1 - Carcinoma ductale invasivum cum necrosi NHG3 (3 + 3 + 3/21 mitoses/10 HPF - visual area 0.55
+mm). Focuses 
+of carcinoma ductale in situ DCIS found within and outside the tumour (solid and flat type,
+with high nuclear atypia and comedo necrosis <10% of the tumour). Cancerisatio lobulorum.
+Tumour 2 - Carcinoma invasivum mixtum partim ductale, partim papilläre, partim cribrosum
+UUID:8EFA6C19-2FA1-4F23-AF7B-15681E8E930A
+TCGA-D8-A13Z-01A-PR
+Redacted
+riteria
+agnosis Discrepancy
+Timary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Noted
+QUALIFIED
+Cas
+lev we nit
+Yes
+DISQUALIFIED
+olenewed:
+IN
+Patient:
+Examination: Histopathological examination page 2 / 2
+PESEL
+Gender: F
+Examination performed on:
+NGH2 (2+2 + 2/9 mitoses/ 10 HPF/ visual area diameter 0.55 mm).
+Carcinoma intraductale ductuum mamillae.
+Glandular tissue showing mastopathia fibrosa et cystica.
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodis (No IX/XI).
+Infiltratio capsulae lymphonodorum.
+Emboliae carcinomatosae vasorum.
+Examination result:
+Carcinoma invasivum bifocale.
+Tumour 1 - Carcinoma ductale inyasiyum NHG3, pT2.
+Tumour 2 - Carcinoma invasivum mixtum NHG2, pTlc. (NHG3, pT2, pN2a).
+DUCTAL
+INVASIVE CARCINOM,
+Examination No.:
+Ice validated by:

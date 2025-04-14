@@ -1,0 +1,58 @@
+Patier
+ICD (3
+infiltrating duct Carcinoma, Nes
+850013
+Lui
+Sire: breast, Nos
+050.9
+Department of Cancer Pathology
+11/22/10
+page 1 / 1
+copy No.
+Date:
+Examination: Histopathological examination
+PESEL:
+Age:
+Examination No.:
+Gender: F
+Material: Partial organ resection - lesion from the left breast - lower outer quadrant
+Unit in charge
+Physician in charge:
+Material collected on:
+Expected time of examination:
+Material received on:
+Clinical diagnosis: Cancer of the right breast, typical quadrant marking
+Examination performed on:
+Macroscopic description:
+Part of the breast sized 8.8 x 8.3 x 2.4 cm with a skin flap of 5.8 x 2.3 cm, marked typically, with an X-ray
+image. Tumour cross section sized 1.7 x 1.5 x 2.3 cm. Margins: to the base 0.1 cm; do the skin surface 0.6 cm;
+to the sternum 2.2 cm, to the axilla 3.6 cm, to the shoulder 2.3 cm, lower 4.3 cm.
+Microscopic description:
+Carcinoma ductale invasivum: NHG3 (3+3+3: 18 mitoses /10 HPF - diam. 0.55mm), pT2. Solitary DCIS focuses
+found beneath the tumour (solid type with medium atypia, no necrosis) placed 0.5 cm from the incision line.
+Histopathological diagnosis:
+Resectio partalis mammae dextrae:
+Carcinoma ductale invasivum et ductale in situ (NHG3, pT2).
+INVASIVE DUCTAL CARCINOMA AND IN SITU DUCTAL CARCINOMA OF THE RIGHT BREART
+Compliance validated by:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors in neoplastic cell nuclei not found.
+Progesterone receptors in neoplastic cell nuclei not found.
+HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 0)
+Compliance validated by:
+UUID:380639A2-E89C-4495-8168-82120617129F
+TCGA-D8-A147-01A-PR
+Redacted
+riteria
+Yes
+NO
+iagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Pama Noted
+eviver
+QUALIFIED }/ DISQUALIFIED
+Data Reviewed: 1

@@ -1,0 +1,249 @@
+TSS:
+TSS:
+Carcinoma, infiltrating lobular 8520/3
+Site Code:
+breast,
+NO>
+050.9
+UUID:EDD254CA-0EC6-42F8-B213-C2D386AB11F4
+TCGA-E2-A1B5-01A-PR
+12/29/10
+вы
+Redacted
+SPECIMENS:
+A. LEFT AXILLARY SENTINEL LYMPH NODE #1
+B. LEFT AXILLARY SENTINEL LYMPH NODE #2
+C. LEFT AXILLARY SENTINEL LYMPH NODE 3#
+D. WLE LEFT BREAST NEEDLE LOCALIZATION
+E. ADDITIONAL RETROAREOLAR TISSUE LEFT BREAST
+F. LEFT AXILLARY LYMPH NODES
+SPECIMEN(S):
+A. LEFT AXILLARY SENTINEL LYMPH NODE #1
+B. LEFT AXILLARY SENTINEL LYMPH NODE #2
+C. LEFT AXILLARY SENTINEL LYMPH NODE 3#
+D. WLE LEFT BREAST NEEDLE LOCALIZATION
+E. ADDITIONAL RETROAREOLAR TISSUE LEFT BREAST
+F. LEFT AXILLARY LYMPH NODES
+GROSS DESCRIPTION:
+A. LEFT AXILLARY SENTINEL LYMPH NODE #1
+Received fresh is a tan pink lymph node 1.5 x 0.8 x 0.5cm. The specimen is serially sectioned and a
+touch prep is taken. Toto A1
+B. LEFT AXILLARY SENTINEL LYMPH NODE #2
+Received fresh is a tan pink lymph node 1.0 x 0.8 x 0.6cm. The specimen is serially sectioned and a
+touch prep is taken. Toto B1
+C. LEFT AXILLARY SENTINEL LYMPH NODE #3
+Received fresh are 2 tan pink lymph nodes 1.2 x 0.8 x 0.8cm and 1.9 x 1.5 x 0.8cm. The specimens are
+serially sectioned and 2 touch preps are taken.
+C1: 1 lymph node
+C2: 1 lymph node
+D. LEFT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with matching patient identifiers and designated "wide local excision left breast"
+is a portion of resected breast tissue weighing 290 g and measuring 11 x 9 x 6 cm. The specimen is
+accompanied by a mammogram and needle localization wire. The specimen is received with
+orientation, the single short suture designates superior, long suture designates the lateral. The
+specimen is inked as follows: Anterior-blue, posterior-black, superior-red inforange, medial-green,
+lateral-yellow. The specimen is serially sectioned from lateral to medial into 10 sections. Cut section
+shows a firm beige ill-defined mass located 0.4-cm from the anterior/inferior margin. The mass
+measures 1.7 x 1.1 x 1 cm. the remainder of the specimen shows areas of white fibrous streaking
+septae adjacent to the lesion (medial aspect). The specimen was taken to mammography, sections
+were x-rayed. Representative sections are submitted as follows:
+D1: Perpendicular sections lateral margin (section 1)
+D2: Anterior, demonstrates metallic clip (section 4)
+D3-D4: Anterior, dense tissue (section 4)
+D5: Inferior, dense tissue (section 4)
+D6-D9: Mass, anterior/inferior margin (section 5)
+D10-D12: Anterior/inferior (section 6)
+D13-D15: Anterior/superior (section 7)
+D16-D17: Anterior/posterior (section 8)
+D18-D19: Anterior/inferior (section 9)
+D20-D21: Perpendicular sections medial margin (section 10)
+E. ADDITIONAL RETROAREOLAR TISSUE LEFT BREAST
+Blue-Anterior portion
+Received in formalin is an oriented tan pink fragment of fibrofatty tissue 1.0 x 0.8 x 0.5cm. The anterior
+portion is inked Blue and the specimen is trisected. Toto E1.
+F. LEFT AXILLARY NON SENTINEL LYMPH NODES
+Received in formalin are multiple tan pink soft tissue fragments aggregating to 5.0 x 3.0 x 2.0cm.
+Dissection reveals 1 fatty lymph node 2.2 x 2.0 x 1.4cm.
+F1-F2: 1 lymph node
+F3: remainder of specimen
+TSS:
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, LEFT AXILLARY, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1)
+-
+AE 1/3 NEGATIVE.
+B. LYMPH NODE, SENTINEL #2, LEFT AXILLARY, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1)
+- AE 1/3 NEGATIVE.
+C. LYMPH NODE, SENTINEL #3 AND #4, LEFT AXILLARY, BIOPSY:
+- TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2)
+- AE 1/3 NEGATIVE
+S100 MARKS CAPSULAR NEVUS.
+D. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE, LOBULAR CARCINOMA, SBR GRADE 2, MEASURING 2.1-CM
+INVASIVE TUMOR PRESENT AT THE ANTERIOR SURGICAL RESECTION
+MARGIN
+-
+- PLEOMORPHIC LOBULAR CARCINOMA IN SITU
+-
+SEE SYNOPTIC REPORT AND SEE NOTE.
+E. BREAST, ADDITIONAL RETROAREOLAR TISSUE, BIOPSY:
+- INVASIVE LOBULAR CARCINOMA PRESENT AT INKED SURGICAL
+RESECTION MARGIN, SEE NOTE.
+F. LYMPH NODE, LEFT AXILLARY, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+NOTE: The specimen was serially sectioned and x-rayed. The main mass was identified in slice #5. In
+slices #6 and 7, suspicious density is identified. This corresponds to the extending density seen on the
+mammogram. The main mass and the extending density microscopically are invasive lobular
+carcinoma. Also identified is metallic clip (area submitted in #D2). This are shows focus of LCIS. The
+largest invasive tumor measured on the slide (2.1-cm).
+The tumor is present at the anterior surgical resection margin (slide #D7) at a distance of 7-mm. The
+additional retroareolar tissue (part E.) also shows invasive tumor, presents at the anterior marked
+margin at a distance of 2-mm.
+Breast biomarkers pending and addendum report to follow.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization: Yes - For mass
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 2.1cm
+Tumor Site: Not specified
+Margins:
+Involved at
+anterior
+Extent::
+see note
+Tubular Score:
+3
+Nuclear Grade:
+2
+Mitotic Score:
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+2
+TSS:
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+LCIS
+Lymph nodes:
+Lymph node status:
+Sentinel lymph node only
+Negative 0/5
+DCIS not present
+ER/PR/HER2 Results
+ER: Pending
+PR: Pending
+HER2: Pending
+Pathological staging (pTN):
+PT 2 NO
+CLINICAL HISTORY:
+46 year old with Left Breast Cancer
+PRE-OPERATIVE DIAGNOSIS:
+Left Breast Cancer
+INTRAOPERATIVE CONSULTATION:
+TPA-TPB: Negative for tumor. Diagnosis called to Dr at
+TPC1-TPC2: Atypical (both lymph nodes). Diagnosis called to Dr. at
+ADDENDUM:
+E-cadherin is negative compatible with lobular carcinoma phenotype.
+(A) and
+(B) by Dr.
+by Dr.
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+D7
+ER: Positive Allred Score:
+PR: Positive Allred Score:
+COMMENT:
+8 = Proportion Score 5 + Intensity Score 3
+5 = Proportion Score 2 + Intensity Score 3
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by Dako (Dako, Carpenteria, CA) following the manufacturers instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+Intensity:
+D7
+NEGATIVE
+0
+0%
+% Tumor Staining:
+TSS.
+Fish Ordered:
+No
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved Dako HercepTest (TM) test kit (
+1
+sing rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is guided by published results in the medical literature, information provided
+by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the
+' joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology
+Department takes full responsibility for this test's performance.
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score: 29
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+had an average rate of Distant Recurrence at 10 years of 19%
+ER Score: 7.2 Positive
+PR Score: 5.8 Positive
+Her2 Score: 7.6 Negative
+Interpretation:
+ER
+Negative < 6.5
+PR Negative < 5.5
+Her2 Negative <10.7
+See separate
+Test performed at:
+Gross Dictation: Pathologist,
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+29 in the clinical validation study
+Equivocal
+= 10.7-11.4
+report for further information.
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist
+Addendum: Pathologist,
+Addendum Final: Pathologis:
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepanc
+Prior Malignancy History
+Dual/Synchronoimary Noted
+Case is (circle): 19
+Reviewer initialsIKU
+QUALIFIED
+Ute Reviewed:
+DIST QUAURED

@@ -1,0 +1,153 @@
+Sample #
+UUID:8A19AA55-981F-4325-8730-068F928F1C13
+TCGA-OL-A66K-01A-PR
+Redacted
+ICD-0-3
+ли
+Carcinomos, lobular infiltrating
+8852013
+Site ® Breast Nos (50.9
+5/16/1390
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right axillary sentinel node #1:
+One lymph node, negative for metastatic carcinoma (0/1)(HE and CKAE1/AE3).
+B. Right axillary sentinel node #2:
+-
+One lymph node, negative for metastatic carcinoma (0/1)(HE and CKAE1/AE3).
+C. Right breast, simple mastectomy:
+- Invasive lobular carcinoma, SBR grade II, multicentric, see breast pathologic
+parameters.
+- Lobular carcinoma in situ and atypical lobular hyperplasia.
+- Margins of resection are negative, distance to the closest margin
+(anterior-inferior) is > 1.5 mm for invasive carcinoma, see comment.
+- Previous biopsy sites identified.
+· Intraductal hyperplasia, usual type.
+-
+Ectatic ducts.
+- Apocrine metaplasia.
+- Nipple focally involved by LCIS.
+- Skin with scar, negative for malignancy, see comment.
+D. Skin; lateral corner, excision:
+- Skin and subcutaneous tissue, no evidence of malignancy.
+Breast Pathologic Parameters
+1. Invasive carcinoma: Three mass lesions:
+A. Gross measurement:
+a) 9:30 to 10:30 position: 4.4 cm
+b) 8:30 position: 2 cm
+C) 4:00 position: 1 cm
+B. Composite histologic (modified SBR) grade: Il
+- Architecture: 3
+-
+Nuclear grade: 2
+Mitotic count: 1
+C. Associated intraductal carcinoma in situ (LCIS):
+- Within main masses (forming 10% of tumor volume)
+- Extending away from main masses
+2. Excisional biopsy margins: Free of tumor
+- Invasive carcinoma > 1.5 mm from anterior-inferior (closest) margin
+(lesion C)
+- Additional margins from lesions A and B are > 2 mm away.
+3. Blood vessel and lymphatic invasion: Highly suspicious in breast parenchyma
+4. Nipple: focally involved by LCIS
+5. Skin: uninvolved
+6. Skeletal muscle: absent
+7. Axillary lymph nodes: Negative (0/2)
+9. Special studies (see outside case
+biopsy of upper outer and lower
+inner quadrant):
+ER: Moderate in > 75% of invasive tumor nuclei
+- PR: Strong expression in > 90 % of invasive tumor nuclei
+- Her2/neu antigen (IHC): 2+, equivocal
+- Her2/neu antigen (FISH): pending on block C7 (9:30 to 10:30 position)
+10. pTNM (AJCC, 7th edition, 2010): pT2(m), No(sn), MX
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Clinical History:
+The patient is a
+year old female with a history of invasive lobular carcinoma
+grade 2 of 3 and lobular carcinoma in-situ of the right breast. She undergoes
+right simple mastectomy and sentinel lymph node biopsy.
+Comment
+C. CKAE1/AE3 is negative in the skin section with scar. Myosin heavy chain
+performed on C12 reveals absence of a myoepithelial cell layer supporting
+invasive carcinoma.
+Specimens Received:
+A: Right axillary sentinel node #1
+B: Right axillary sentinel node
+C: Right breast
+D: Skin; biopsy
+Gross Description:
+Received are four containers, each labeled with the patient's name and medical
+record number.
+A. Container A is further designated '1. Right axillary sentinel node #1.'
+Received fresh for frozen section diagnosis is a 3 x 1.5 x 1 cm lymph node which
+is bisected and entirely frozen. Frozen section diagnosis is 'one lymph node
+negative for tumor' by Dr.
+The frozen section remnant submitted
+entirely in cassettes A1-A2FS.
+B. Container B is further designated '2. Right axillary sentinel node #2.'
+Received fresh and placed in formalin is a 0.9 x 0.8 x 0.4 cm blue lymph node
+which is submitted entirely incassette B1.
+C. Container C is further designated '3. Right breast, double short stitch
+superior, double long stitch lateral.' Received fresh is a 1,259 gm mastectomy
+specimen measuring 30 cm from medial to lateral, 21 cm from superior to
+inferior, and 8 cm from anterior to posterior. There is a short stitch marking
+the superior edge and a long stitch marking the lateral edge. There is a 25.5 x
+14.5 cm ellipse of pink-tan skin with a 4.1 cm areola and a 1.1 cm nipple. The
+anterior-superior margin is inked in blue, the anterior-inferior margin is inked
+in green, and the posterior/deep margin is inked in black. The specimen is then
+sliced into 16 slices with slice #1 being the most lateral slice. In slices
+9-10 at the 9:30 to 10:30 position is a main mass measuring 4.4 x 4 x 2.6 cm.
+The mass extends to 2 cm from the inked, black margin. In addition at the 8:30
+position in slices 7-8 there is a 2 x 1.5 x 1 cm mass which is 6 cm from the
+inked, black margin and 0.4 from the inked green margin. In slice 15 at the 4
+o'clock position there is a 1 x 1 x 0.5 cm firm, white nodule which is 0.5 cm
+from the inked, green margin and 3 cm from the inked, black margin. The nipple
+is amputated, bisected and submitted entirely in cassette C1. the skin
+surrounding the tissue just deep to the nipple are submitted in cassette C2. At
+6 cm lateral to the nipple is a 0.5 x 0.3 cm slightly raised area of skin which
+is the same, pink-tan color as the surrounding skin. This is submitted in
+cassette C3. Representative sections are submitted as follows:
+C4: lesion from slice 7
+C5: lesion from slice 8
+C6-C7: mass from slice 9 with the black ink in C6
+C8: additional representative section of mass from slice 9
+C9-10: mass from slice 10 with the inked blue margin in C9 (grossly tumor is
+only in C10)
+C11: scar like area from slice 15
+C12: scar like area from slice 15
+In the superior area of slices 13-14 is a 3 x 2 x 2 cm vaguely nodular area
+dense, white-tan parenchyma. This area is 1.5 cm from the inked, blue margin
+and 3 cm from the black margin.
+C13: vaguely nodular area from slice 13
+C14: vaguely nodular area from slice 14
+C15: representative section from the upper-outer quadrant from slice 3
+C16: representative section from the lower-outer quadrant from slice 5
+C17: representative slice from the upper-inner quadrant from slice 16
+C18: representative section from lower-inner quadrant from slice 14
+D. Container D is further designated '4. Skin; biopsy.' Received fresh and
+placed in formalin is a 14 gram, 4 x 2.5 cm ellipse of pink-tan skin with a
+central 1.9 x 0.9 cm defect. It is excised to a depth of 1 cm. The deep margin
+is inked black. The circumferential margin is inked blue. The specimen is
+serially sectioned to reveal yellow, lobular unremarkable subcutaneous adipose
+tissue. Representative sections are submitted in cassettes D1-D2.
+M.D.
+Pathologist Sign Out:
+4/12/13
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prinary Noted
+Case is (circle)
+Reviewer Inials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+7
+4/11/13

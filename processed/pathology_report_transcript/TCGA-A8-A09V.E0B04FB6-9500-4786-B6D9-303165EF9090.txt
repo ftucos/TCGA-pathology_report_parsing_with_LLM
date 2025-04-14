@@ -1,0 +1,28 @@
+04
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Path Site: Breast, UIQ C50.2
+CQCF Site: Breast, was 050.9
+1/19/11 hu
+Diagnosis:
+Moderately differentiated invasive lobular carcinoma (tumor diameter 2.2 cm) with
+several further satellite foci measuring up to 0.1 cm and also focal in situ spread.
+In conjunction with the preliminary finding, this gives rise to the following concluding
+tumor classification: lobular carcinoma, G II, pT2N0(0/3;sn)LOVORO.
+Redacted
+UUID:E0B04FB6-9500-4786-86D9-303165EF9090
+TCGA-AB-A09V-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle)
+Reviverra
+QUALIFIED
+Date Reviewed:
+to
+DISQUALIFIED
+Yes
+No

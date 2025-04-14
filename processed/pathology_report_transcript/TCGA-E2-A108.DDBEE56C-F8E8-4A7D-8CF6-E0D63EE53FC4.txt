@@ -1,0 +1,201 @@
+ICD-0-3
+Carcinoma, Infiltrating duct, Nos
+8500/3
+12/19/10/
+Site Code breast, NOS C50.9
+TSS Pt ID:
+SPECIMENS:
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+B. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+C. RIGHT BREAST LUMPECTOMY
+D. RIGHT AXILLARY CONTENTS LEVELS 1 AND 2
+E. SUPERIOR MARGIN
+F. MEDIAL MARGIN
+G. INFERIOR MARGIN
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+B. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+C. RIGHT BREAST LUMPECTOMY
+D. RIGHT AXILLARY CONTENTS LEVELS 1 AND 2
+E. SUPERIOR MARGIN
+F. MEDIAL MARGIN
+G. INFERIOR MARGIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA1: LN positive for carcinoma (SLN #1)
+TPB1 and TPB2: LY negative for carcinoma (SLN #2)
+A
+UUID:DDBEE56C-F8E8-4A7D-8CF6-E0D63EE53FC4
+TCGA-E2-A108-01A-PR
+Redacted
+C: Gross: Right breast, 1st lesion 2.2 cm, at distance from all margins (1.5 from closest superior margin)
+2nd lesion 3.0 cm from the 1st lesion, size 0.8 cm, 0.4 cm from the closest inferior margin.
+By Dr. called to Dr. at
+GROSS DESCRIPTION:
+. (A, B) ana
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C)
+Received fresh labeled with the patient identification and "sentinel lymph node #1", is a 2.0 x 1.0 x 0.8-
+cm fatty lymph node displaying a 0.5 x 0.4 x 0.4-cm firm white tumor nodule. Touch preparations are
+performed. The lymph node is representatively submitted in cassette A1.
+B. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+Received fresh labeled with the patient identification and "sentinel lymph node #2, right axilla", are 2
+tan-pink to fatty lymph nodes, 0.5 cm (B1) and 1.2 x 0.6 x 0.5 cm (B2). A touch preparation on each
+lymph node is performed and the lymph nodes are entirely submitted as follows:
+B1: Smaller lymph node
+B2: Largest lymph node
+C. RIGHT BREAST LUMPECTOMY
+Received fresh labeled with the patient identification and "right breast lumpectomy", is an oriented
+(single anterior, double - lateral, triple - superior), 153.0-gram, 11.5 x 8.5 x 3.0-cm needle localized
+lumpectomy with radiograph. Ink code: Anterior - yellow, posterior - black, medial - green, lateral - red,
+superior - blue, inferior - orange. The specimen is serially sectioned into 9 slices revealing a 2.2 x 1.8 x
+1.8-cm infiltrative firm gritty white tumor (mass #1 - 12 o'clock). Mass #1 is closest to the anterior and
+superior margins at 1.5 cm each. Tissue is procured. There is a second mass/biopsy site, 0.8 cm
+which is closest to the inferior margin at 0.4 cm and 3.0 cm from the first mass. The remaining fibrous
+tissue is finely lobulated with interspersed clear fluid-filled 0.2-cm cysts. No additional nodules are
+identified. A gross evaluation is performed. Representatively submitted:
+C1: Slice 1, medial margin, perpendicular
+C2-C3: Slice 4, tumor to closest anterior superior margins
+C4-C6: Slice 6, tumor to superior posterior margins
+C7: Slice 6, anterior margin
+C8: Slice 6
+C9: Slice 6, posterior margin
+C10: Slice 6, anterior margin
+C11: Slice 6
+C12: Slice 6, posterior margin
+C13: Slice 7, superior margin
+C14: Slice 7, anterior margin
+C15: Slice 7, posterior margin
+C16: Slice 7, anterior margin
+C17: Slice 7
+C18: Slice 7, posterior margin
+C19: Slice 7, anterior margin
+C20: Slice 7, mass #2/biopsy cavity
+C21: Slice 7, posterior margin
+C22: Slice 9, lateral margin, perpendicular
+D. RIGHT AXILLARY CONTENTS LEVELS 1 AND 2
+Received in formalin labeled with the patient identification and "right axillary contents levels 1 and 2", is
+a 9.0 x 5.0 x 1.8-cm portion of adipose tissue, within which 20 possible lymph nodes are identified
+ranging from 0.2 to 3.5 cm. There are 2 tan-pink to fatty lymph nodes exhibiting infiltrative tumor, 0.4
+and 0.5 cm. Also identified are 3 matted lymph nodes with an overall dimension of 2.2 cm. The
+specimen is representatively submitted as follows:
+D1: Four whole lymph nodes
+D2: Four whole lymph nodes
+D3: Three whole lymph nodes
+D4: One lymph node bisected
+D5: One lymph node bisected
+D6: Two whole lymph nodes
+D7: Two positive lymph nodes
+D8: Three possible matted lymph nodes
+D9-D20: Remaining soft tissue
+E. SUPERIOR MARGIN
+Received in formalin labeled with the patient identification and "new superior margin", is a 5.0-gram, 6.0
+x 2.0 x 0.8-cm oriented portion of breast (suture at final margin). The final margin is inked black and on
+serial sectioning, no discrete lesions are identified. Entirely submitted in cassettes E1-E4.
+F. MEDIAL MARGIN
+Received in formalin labeled with the patient identification and "medial margin", is an oriented (suture at
+final margin) 5.0-gram, 4.5 x 2.8 x 1.7-cm fibrofatty tissue. The final margin is inked black and on
+serially sectioning, no discrete lesions are identified. Entirely submitted in cassettes F1-F4.
+G. INFERIOR MARGIN
+Received in formalin labeled with the patient identification and "inferior margin", is an oriented (suture at
+final margin) 4.0-gram, 4.0 x 1.5 x 1.3-cm fibrofatty tissue. The final margin is inked black and on
+serially sectioning, no discrete lesions are identified. Entirely submitted in cassettes G1-G3.
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 0.4-CM WITH NO
+EXTRANODAL EXTENSION.
+B. LYMPH NODES, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2).
+C. BREAST RIGHT, WIDE LOCAL EXCISION:
+INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 2.2-CM
+- HIGH NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID TYPE WITH CENTRAL
+NECROSIS AND LOBULAR EXTENSION
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- BIOPSY SITE CHANGES WITH FIBROSIS AND GRANULATION TISSUE
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+D. LYMPH NODES, RIGHT AXILLARY CONTENTS, LEVELS 1 AND 2, DISSECTION:
+- METASTATIC CARCINOMA TO FOUR OF TWENTY FOUR LYMPH NODES (4/24), LARGEST
+MEASURING 1.0-CM WITH FOCAL EXTRANODAL EXTENSION.
+E. BREAST, SUPERIOR MARGIN, EXCISION:
+- BREAST TISSUE, NO TUMOR SEEN.
+F. BREAST, MEDIAL MARGIN, EXCISION:
+- BREAST TISSUE, NO TUMOR SEEN.
+G. BREAST, INFERIOR MARGIN, EXCISION:
+- BREAST TISSUE, NO TUMOR SEEN.
+NOTE: Grossly, two tumor masses are identified, one larger located in the superior anterior and one
+smaller located in the inferior lateral aspect of the specimen. The larger mass is composed of invasive
+ductal carcinoma measuring 2.2-cm. The smaller tumor is composed of biopsy site changes with
+granulation tissue intermixed with clusters of neoplastic ducts located only in the lymphatic channels
+(CD31 and D2-40 mark involved spaces). Located in the same level (slice #7) more towards the center
+of the specimen is a microscopic focus of DCIS.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 2.2cm
+Tumor Site: Not specified
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+3
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Present
+Extent:
+at 9:00 position
+Lobular neoplasia:
+None
+Lymph nodes:
+3
+Sentinel lymph node and axillary dissection
+Positive 5/27 Extranodal extension
+Lymph node status:
+Micrometastases:
+DCIS present
+No
+Margins uninvolved by DCIS
+DCIS Quantity:
+Estimate 2%
+DCIS Type: Solid
+DCIS Location:
+Separate from invasive tumor mass
+Nuclear grade:
+High
+Necrosis: Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative
+Performed on Case:
+Pathological staging (pTN):
+PT 2 N 2a
+CLINICAL HISTORY:
+-year-old female multifocal IDC right breast, 2 areas at 12 and 9 o'clock. Now for lumpectomy/SNB.
+PRE-OPERATIVE DIAGNOSIS:
+None given
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review:., Pathologist,
+Final: Pathologist,
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pry Noted
+Case is (circle):
+Reviewer Initials
+QUALIFICO
+Date Reviewed:
+DISQUALIFIED

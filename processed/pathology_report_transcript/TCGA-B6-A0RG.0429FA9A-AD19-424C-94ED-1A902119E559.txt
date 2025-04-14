@@ -1,0 +1,105 @@
+Patient
+Surg Path
+ICD-0-3
+Carcinoma, infiltrating duct 8500/3
+Site Code: breast, upper inner quadrant C:
+Park
+1/17/11
+T.QCF breast, NOS C50.9
+w
+CLINICAL HISTORY:
+Breast mass.
+Infiltrating ductal carcinoma.
+GROSS EXAMINATION:
+A. "Left breast and axillary contents".
+fresh.
+Breast in formalin, axillary tail
+Received is a single breast that weighs 610 grams and measures 21.5 x
+14.5 x 4 
+cm. The specimen consists of an 
+ellipse of skin measuring 18 × 8
+cm. The nipple is present. In the upper inner 
+quadrant, there is a hard mass
+measuring approximately 6 1/2 x 7 x 2.5 cm. 
+An area of firmness measuring
+Upon
+approximately 2 x 3 x 2 cm. is present in the lower outer quadrant.
+cross sectioning, the larger mass 
+is firm, tan-white with multiple areas of
+hemorrhage. The specimen is not gritty
+. Both the upper outer and lower outer
+quadrants contain apparent abundant 
+breast parenchyma. This tissue, although
+firm, is not rock hard as the above described 
+mass. Received fresh is an
+axillary tail weighing 79 grams 
+and measuring 14 x 5 1/2 x 0.8 cm. Five
+mobile, hard nodules are palpated 
+within the specimen.
+Block Summary:
+Block Al
+margin.
+Block A4
+-
+A3 - larger mass (upper inner quadrant) at point closest to deep
+upper outer quadrant, random section
+Block A5
+Block A6
+Block A7
+margin.
+Block A10
+-
+-
+Block All
+-
+Block A12
+Block A13
+Block A14
+Block A15
+Block A16
+Block A17
+Block A18
+-
+lower outer quadrant, random section.
+lower inner quadrant, random section
+A9 smaller mass (lower outer quadrant) at point closest to deep
+nipple
+random section of skin.
+five level III lymph nodes.
+four level III lymph nodes.
+four level II lymph nodes
+three level II lymph nodes.
+one level II lymph node, bisected.
+two level I lymph nodes.
+-
+one level I lymph node, bisected.
+UUID:8429FA9A-AD19-424C-94ED-1A902119E559
+TCGA-B6-AØRG-01A
+-PR
+Redacted
+DIAGNOSIS:
+"LEFT BREAST AND AXILLARY CONTENTS":
+BREAST AND ATTACHED AXILLARY TAG WITH INVASIVE CARCINOMA, PROBABLY DUCTAL
+TYPE. (7.0 CM IN GREATEST DIMENSION)
+.
+HISTOLOGIC GRADE 2, NUCLEAR GRADE 3.
+REGIONAL LYMPH NODES NEGATIVE PER CANCER, 19 EXAMINED.
+MARGINS NEGATIVE 
+FOR CANCER.
+ALL FINAL SURGICAL
+Verified by
+Electronic
+Criteria
+Diagnosis Discrepancy
+Frimary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initial
+QUALIFIED
+Ente Reviewed:
+Yes
+DISQUALIFIED
+$11211
+1 of 1

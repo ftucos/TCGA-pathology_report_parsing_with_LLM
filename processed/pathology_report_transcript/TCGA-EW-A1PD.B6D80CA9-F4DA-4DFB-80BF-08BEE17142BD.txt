@@ -1,0 +1,189 @@
+SOLIVE
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+=
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A.
+SENTINEL NODE #1 COUNT
+- METASTATIC CARCINOMA TO ONE LYMPH NODE (1/1).
+B.
+C.
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+C50.9 3/12/11 for
+Site: breast, Nos
+SENTINEL NODE #2 COUNT
+- METASTATIC CARCINOMA TO ONE LYMPH NODE (1/1).
+RIGHT TOTAL MASTECTOMY:
+-
+-
+INFILTRATING DUCTAL CARCINOMA, NOTTINGHAM GRADE 2 (3+2+2=7), 1.6 CM IN GREATEST
+DIMENSION.
+RESECTION MARGINS ARE FREE OF TUMOR, CLOSEST MARGIN AT 2.0 CM (DEEP)
+- PREDICTIVE MARKERS PERFORMED ON PREVIOUS BIOPSY: ER AND PR POSITIVE BY
+IMMUNOHISTOCHEMISTRY AND HER2 AMPLIFIED BY FISH.
+- NO MALIGNANCY SEEN IN FIVE LYMPH NODES (0/5).
+- PLEASE SEE TUMOR SUMMARY.
+AJCC: pT1c, pN1a, pMn/a
+Tumor Summary:
+Specimen:
+Total breast (including nipple and skin)
+Procedure:
+- Total mastectomy (including nipple and skin)
+Lymph Node Sampling:
+- Sentinel lymph node(s)
+- Axillary dissection (partial or complete dissection)
+Specimen Integrity:
+- Single intact specimen (margins can be evaluated)
+Specimen Laterality:
+- Right
+Tumor Site: Invasive Carcinoma
+-
+Central
+Tumor Size: Size of Largest Invasive Carcinoma
+UUID:B6D80CA9-F4DA-4DFB-80BF-08BEE17142BD
+TCGA-EW-A1PD-01A-PR
+Redacted
+- Greatest dimension of largest focus of invasion over 0.1 cm: 1.6 cm
+Tumor Focality:
+- Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of tumor:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+- Nipple: DCIS does not involve the nipple epidermis
+Skeletal muscle: No skeletal muscle present
+Ductal Carcinoma In (DCIS):
+"
+• DCIS is present
+Size (Extent) of DCIS:
+*Estimated size (extent) of DCIS (greatest dimension using gross and microscopic evaluation) is at least: 0.5 cm
+Number of 
+blocks with DCIS: 5
+Number of blocks examined: 10
+- Architectural Patterns: Cribriform, Solid
+- Nuclear Grade: Grade III (high)
+- Necrosis: Present, focal (small foci or single cell necrosis)
+Lobular Carcinoma In Situ: Not identified
+Histologic Type:
+- Invasive ductal carcinoma (no special type or not otherwise specified)
+SURGICAL PATHOL Report
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 2:
+Mitotic Count: Score 2
+Overall Grade: Grade 2: scores of 6 or 7
+Margins:
+- Margins uninvolved by invasive carcinoma
+-Distance from closest margin: 20 mm (deep)
+Lymph-Vascular Invasion: Not identified.
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 2
+Total number of lymph nodes examined (sentinel and nonsentinel): 7
+Number of lymph nodes with macrometastases (>0.2 cm): 2
+Number of lymph nodes with macrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+*Size of largest metastatic deposit (if present): 1.5 cm
+Extranodal Extension: Indeterminate
+*Method of Evaluation of Sentinel Lymph Nodes:
+- H&E, multiple levels
+Pathologic Staging:
+Primary Tumor: pT1c: Tumor >10 mm but ≤20 mm in greatest dimension
+Regional Lymph Nodes: pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+Distant Metastasis: Not applicable
+Microcalcifications: PRESENT in DCIS
+Ancillary Studies:
+Estrogen Receptor:
+- Performed on another specimen
+Progesterone Receptor:
+- Performed on another specimen (
+Her2:
+- Performed on another specimen
+HER2 by FISH:
+); Results: Immunoreactive tumor cells present (21 %)
+; Results: Immunoreactive tumor cells present (21 %)
+;;
+Results: Equivocal (Score 2+)
+- Performed on another specimen
+); Results: AMPLIFIED (HER2 gene copy >6.0 or ratio >2.2)
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636-PR, A483=HER2, H-11~EGFR. All immunohistochemical stains are used 
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+Intraoperative Consultation
+As the attending pathologist, I attest that 1: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+• MD
+A.
+B.
+Sentinel node #1 count
+Sentinel node #2 count
+FS: Metastatic carcinoma seen on touch prep
+FS: Metastatic carcinoma seen on touch prep
+iMD
+MD
+Clinical History:
+None provided
+Operation Performed
+Page 2 of 3
+SURGICAL PATHOL Report
+Right total mastectomy with axillary node dissection and sentinel node biopsy
+Pre Operative Diagnosis:
+Breast ductal carcinoma
+Specimen(s) Received:
+A: Sentinel node #1 count
+B: Sentinel node #2 count
+C: Right total mastectomy
+Gross Description:
+A.
+B.
+C.
+deep
+FS
+I, FS
+Received fresh is a segment of tan-brown fibroadipose tissue, 1.8 x 1.5 x 0.7 cm. The specimen is bisected and
+submitted in toto in two blocks.
+Received in formalin is a segment of tan-gray soft tissue, 1 x 0.9 x 0.6 cm. The specimen is bisected and submitted in
+toto in one block.
+Received in formalin is a 447-gram, 18 x 17.5 x 2 cm right mastectomy specimen. There is an ellipse of pale skin, 14.2 x
+6.1 cm. The nipple/areola complex measures 2.5 x 2 cm. The nipple is retracted. The attached axillary tail measures
+11.5 x 6.5 cm. The specimen is oriented with short stitch superior, two long stitches lateral. The resection margins are
+inked black. On serial sectioning, there is a tan-white, indurated, ill-defined lesion with infiltrating borders in the
+retroareolar space. It occupies the central compartment and measures 3 x 1.5 x 1.5 cm. It is located 2 cm from the
+margin, 7.5 cm from the inferior margin, 5 cm from the superior margin, 7 cm from the medial margin, and 9 cm from the
+lateral margin. No additional lesions are identified. Examination of the axillary tail reveals
+lymph nodes.
+multiple possible
+Sections are submitted as follows:
+1
+Nipple
+2
+3-9
+10-12
+Deep margin (closest)
+Lesion submitted in toto
+One lymph node per block
+13&14 Three lymph nodes per block
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepan y
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+Case is circle):
+Reviewer Initial
+QUALIFIED
+DISQUALIFIED
+✓ Date Reviewed: 51
+w 3/12/17
+Page 3 of 3

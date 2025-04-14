@@ -1,0 +1,30 @@
+UUID:4FC34715-9084-4F53-B914-F0004AEA88C8
+TCGA-AR-A0TX-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nus
+C50.9
+Breast, left, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III), forming a
+multilobulated mass (1.5 x 1.2 x 1.0 cm) adjacent to the prior core biopsy site (AJCC pT1c). Ductal
+carcinoma in-situ, solid type, high nuclear grade, is present outside the main tumor mass. No
+angiolymphatic invasion is identified. The skin is without diagnostic abnormality. All surgical resection
+margins, after re-excision of the deep margin (skeletal muscle), are negative for tumor (minimum tumor
+free margin, 0.4 cm, superior margin).
+Lymph nodes, left axillary, dissection: Multiple (3 of 25) left axillary lymph nodes are positive for
+metastatic carcinoma with extranodal extension (AJCC pN1). Two positive lymph nodes are matted
+together.
+Her-2/NEU has been ordered on paraffin embedded tissue.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials
+UALIFIED
+Date Reviewed:
+Yes
+Na
+DISQUALIFIED

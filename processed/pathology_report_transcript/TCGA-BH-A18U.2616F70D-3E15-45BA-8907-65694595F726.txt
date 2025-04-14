@@ -1,0 +1,201 @@
+12/15/16
+PATIENT HISTORY:
+The patient is a
+ICD-0-3
+Carcinoma infiltrating duct, NOS 8500/3
+Site Code: Breast, lipper, onter quadrant C50.4
+CQCF: breast, NOS 050.9
+year-old female. Date of last menstrual period: Not given.
+PRE OP DIAGNOSIS: Ca left breast.
+POST OP DIAGNOSIS: Same.
+UUID: 2616F70D-3E15-45BA-8907-65694595F726
+TCGA-BH-A18U-01A-PR
+Redacted
+PROCEDURE: Sentinel node biopsy, total mastectomy.
+ADDENDA:
+Addendum
+ESTROGEN/PROGESTERONE AND HER-2/NEU REPORT
+Using appropriate positive and negative controls, the test for the presence of these hormone receptor proteins is
+performed by the 
+immunoperoxidase method, and reported according to the NIH consensus statement on adjuvant
+therapy for breast 
+cancer, of
+A positive ER or PR tumor shows any nuclear immunostaining, and is
+semiquantitated as indicated below.
+سل
+Result
+ER positive
+PR positive
+Semiquantitative Statement
+Percent cells staining as: (0 20%; 1+ 30%, 2+ 30%, 3+ 20%)
+Percent cells staining as: (0 70%, 1+ 10%, 2+ 10%, 3+ 10%)
+HER-2/NEU DAKO HERCEPTEST: A STRONG COMPLETE MEMBRANE STAINING IS OBSERVED IN MORE THAN 10% OF
+THE TUMOR CELLS. HER-2/NEU IS INTERPRETED AS STRONGLY POSITIVE (SCORE 3+).
+FINAL DIAGNOSIS:
+PART 1: LEFT BREAST, TOTAL MASTECTOMY -
+A. INFILTRATING DUCT CARCINOMA, TWO LESIONS, 2.6 X 1.7 X 1.5 CM IN THE LOWER OUTER QUADRANT >
+AND 3.0 X 2.8 X 2.5 CM IN THE UPPER 
+OUTER QUADRANT NOTTINGHAM SCORE 9 OUT OF 9 (TUBULES 3,
+NUCLEI 3, MITOSIS 3).
+B. LYMPHOVASCULAR INVASION IDENTIFIED.
+C. DUCTAL CARCINOMA IN-SITU, SOLID TYPE, NUCLEAR GRADE 3 WITH COMEDO-TYPE NECROSIS,
+COMPRISING LESS THAN 5% 
+OF TUMOR.
+D.
+SURGICAL MARGINS NEGATIVE FOR INFILTRATING DUCT CARCINOMA AND DUCTAL CARCINOMA IN-
+SITU.
+E. INFILTRATING DUCT CARCINOMA FOCALLY APPROACHES VERY CLOSELY MARGIN OF EXCISION IN
+THE LOWER OUTER 
+QUADRANT (WITHIN 0.2 CM). -
+F.
+NIPPLE NEGATIVE FOR TUMOR.
+G. CHANGES CONSISTENT WITH PREVIOUS CORE BIOPSY SITE.
+H. TWO LYMPH NODES, POSITIVE FOR METASTATIC CARCINOMA (2 OUT OF 2).
+PART 2: LEFT BREAST, NEW ANTERIOR-INFERIOR MARGIN, EXCISION -
+SKIN AND SUBCUTANEOUS TISSUE, NEGATIVE FOR TUMOR.
+PART 3: LEFT SENTINEL LYMPH NODE #1, BIOPSY -
+ONE LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA (1 OUT OF 1).
+PART 4: LEFT SENTINEL LYMPH NODE #2, BIOPSY -
+ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0 OUT OF 1).
+PART 5: LEFT SENTINEL LYMPH NODE #3, BIOPSY -
+ONE LYMPH NODE POSITIVE FOR METASTATIC CARCINOMA (1 OUT OF 1).
+PART 6: LEFT AXILLARY CONTENTS, EXCISION -
+-
+FIVE OF ELEVEN LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA, THREE WITH EXTRACAPSULAR
+EXTENSION.
+PART 7: RIGHT BREAST TISSUE, EXCISION (396 GRAMS) –
+-
+A. FOCAL ATYPICAL DUCTAL HYPERPLASIA ASSOCIATED WITH MICROCALCIFICATIONS.
+B. CALCIFIED 
+FIBROADENOMA.
+C. FIBROCYSTIC CHANGES WITH MICROCALCIFICATIONS.
+D. SCLEROSING ADENOSIS.
+E. SCLEROSING INTRADUCTAL PAPILLOMA.
+F.
+UNREMARKABLE SKIN.
+COMMENT:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Whe
+Yes
+No
+QUALIFIED
+/ DISQUALIFIED
+Date Reviewed
+W
+Estrogen receptor, progesterone receptor and HER-2/neu immunostains will be ordered and subsequently reported in an
+addendum. Immunostaining for e-
+cadherin and myosin heavy chain confirm the interpretation of changes in the right
+breast tissue.
+A. Laterality: 2
+1. Right
+B. Procedure: 2
+1. Segmentectomy
+2. Simple mastectomy
+C. Location: 42
+1. Central subareolar
+2. UOQ
+2. Left
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+3. Modified radical mastectomy
+4. Re-excision
+4. LOQ
+5. LIQ
+3. UIQ
+6. Not specified
+D. Size of tumor (maximum dimension invasive component by gross or microscopic exam): 2.6 and 3.0 cm
+E. Type (invasive component): 1
+1. Ductal, NOS
+2. Tubular
+3. Mucinous
+4. Medullary
+F. If lobular carcinoma, specify type: N/A
+1: Classical
+2. Solid
+3. Alveolar
+G. Nottingham Score:
+G1. Nuclear grade:
+G2. Tubule formation: 3
+G3. Mitotic activity score: 3
+G4. Total Nottingham score: 9
+G5. Nottingham grade (1, 2, 3): #
+H. Angiolymphatic invasion: 2
+1. No
+I. Dermal lymphatic invasion: 2
+1. Yes
+J. Calcification: 1
+1. No
+5. Cribriform
+6. Papillary
+7. Lobular
+9. Metaplastic
+10. Other
+8. Carcinoid like
+4. Signet ring
+7. Pleomorphic
+5. Trabecular
+6. Tubulobular
+2. Yes
+2. No
+3. Not applicable
+2. Yes - benign zones
+3. Yes-malignant zones
+4. Micropapillary
+7. Lobular
+5. Apocrine
+K. Type of in situ component: 2
+1. Cribriform
+2. Solid
+3. Papillary
+6. Comedo
+L. Percentage of tumor occupied by in situ component: ≤5%
+M. Surgical margins involved by invasive component: 1
+1. No
+2. Yes - focal
+N. Surgical margins involved by in situ component: 1
+1. No
+2. Yes - focal
+O. Paget's disease of nipple: 2
+1. Yes
+2. No
+P. Number of positive lymph nodes: 9
+Q. Total number of lymph nodes examined: 16
+R. Sentinel node metastasis: 1
+2. No
+3. Yes-diffuse
+3. Yes-diffuse
+S. Only micrometastases to lymph nodes (none larger than 0.2 cm): 2
+1. Yes
+1. Yes
+1. Yes
+1. Yes
+T. Metastasis/es to a lymph node 2 cm. or more in greatest dimension: 1
+U. Lymph node metastasis/es with extracapsular extension: 1
+2. No
+2. No
+2. No
+2. No
+2. No
+V. Metastases to ipsilateral internal mammary lymph node (if applicable): N/A
+W. Skin involved (ulceration): 2
+1. Yes
+1. Yes
+1. ADH
+2. ALH
+✗. Non-neoplastic breast tissue: 6/#/#/#23
+3. Radical scar
+Y. Multicentricity/multifocality of invasive foci: 1
+1. Yes
+2. No
+Z. TNM stage: T3 #N2a#MX#
+4. Fibroadenoma
+7. LCIS
+5. Papilloma
+8. Other
+6. FCD

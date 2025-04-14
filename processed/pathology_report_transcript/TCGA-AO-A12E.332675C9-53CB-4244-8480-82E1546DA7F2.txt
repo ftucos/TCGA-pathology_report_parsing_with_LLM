@@ -1,0 +1,153 @@
+DIAGNOSIS:
+Clinical Diagnosis & History:
+7/o female with 5.5 cm right breast cancer.
+Specimens Submitted:
+1: SP: Right breast and axillary contents levels 1 and 2 (sr)
+1.
+BREAST, RIGHT; MODIFIED RADICAL MASTECTOMY:
+MULTICENTRIC INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, WITH a
+SOLID PATTERN, MEASURING
+5.5 CM IN LARGEST DIMENSION GROSSLY.
+-
+LOBULAR CARCINOMA IN SITU (LCIS) IS ALSO IDENTIFIED,
+THE INVASIVE CARCINOMA IS LOCATED IN THE LOWER OUTER QUADRANT, LEFT
+INNER QUADRANT, CENTRAL AREA.
+THE NIPPLE IS INVOLVED BY INVASIVE CARCINOMA.
+- NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+COMPONENT.
+-
+-
+NO VASCULAR INVASION IS NOTED.
+PERINEURAL INVASION IS PRESENT.
+INVASIVE CARCINOMA EXTENDS TO THE CAUTERIZED ANTERIOR FLAP MARGIN.
+THE SKIN IS INVOLVED BY INVASIVE CARCINOMA BY DIRECT EXTENSION.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS USUAL DUCTAL HYPERPLASIA AND
+MICROCALCIPICATIONS ASSOCIATED WITH BENIGN DUCTS.
+- THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES EXAMINED): LEVEL
+I: 0/7; LEVEL II: 0/6. IMMUNOSHISTOCHEMICAL STAIN DEMONSTRATE SINGLE
+ISOLATED TUMOR CELLS WITHIN THE NODAL PARENCHYMA SEEN ONLY ON
+IMMUNOHISTOCHEMICAL STAINED SLIDES (AE1/AE3) AND MEASURING LESS THAN 0.2 MM.
+-
+ER: 85% NUCLEAR STAINING WITH MODERATE INTENSITY
+PR: 40% NUCLEAR STAINING WITH MODERATE INTENSITY
+- HER2/NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 0)
+TUMOR STAGE: T3, PNO (I+), MX
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+** Continued on next page **
+ICD-0-3
+carcinoma infiltrating lobular, Nos 852013
+Site: breast, Nos
+C50.9
+Aw 10/22/11
+Criteria
+osis Discrepancy
+Primary Tumor Site
+"PAR!
+A Discrepand
+Malignanc
+Disc
+Discrepanc
+Cual/cancy History
+Prior 
+Mal
+Jal/Synchron
+viewer initials
+viewed 9/12/15
+10/22/11
+UUID:332675C9-53CB-4244-8488-82E1546DA7F2
+TCGA-A0-A12E-01A-PR
+Redacted
+THIS REPORT.
+--- Report Electronically Signed Out ***
+Special Studies:
+Result
+Special Stain
+ER-C
+PR-C
+HER2-C
+IMM RECUT
+NEG CONT
+NEG-HER2
+AEL:AE3
+AEL:AE3
+IMM RECUT
+NEG CONT
+IMM RECUT
+NEG CONT
+Gross Description:
+Page 2 of 3
+Comment
+1).
+The specimen is received fresh labeled,
+mastectomy with levels one axillary contents with level one and two", and
+" Right modified radical
+consists of a breast measuring a 33.2 x 20.3 x 4.5 cm, with overlying skin
+ellipse measuring 11.2 x 2.6 cm, and without scar. The nipple measures 1.6
+cm in diameter. The posterior surface of the breast is inked black and
+anterior inked yellow.
+ill-defined mass above the nipple area (12:00), measuring 2.3 x 1.5 x 1.3
+The specimen is serially sectioned to reveal an
+cm. The mass is closed to the skin and 2 cm away from deep margin. There is
+fibrous tissue adjacent to
+lower inner quadrant. Multiple lymph nodes are noted in the axillary area,
+the mass occupying the lower outer quadrant and
+the largest one measures 1.2 cm in dimension. Representative sections are
+submitted.
+Summary of sections:
+NIP - nipple
+BASE nipple base
+D -
+deep margin
+T-mass
+F- Fibrous tissue adjacent to the tumor
+UIQ - upper inner quadrant
+LIQ lower inner quadrant
+σOQ- upper outer quadrant
+LOQ - lower outer quadrant
+L1 lymph nodes (level 1)
+L2 lymph nodes (level 2)
+** Continued on next page **
+г
+Page 3 of 3
+Summary of Sections:
+Part 1: SP: Right breast and axillary contents levels 1 and 2
+Block
+1
+1
+9
+3
+2
+2
+1
+12-32N
+Sect. Site
+base
+d
+£
+L1
+PCs
+1
+1
+9
+4
+L2
+lig
+In
+log
+nip
+2
+1
+2
+1
+t
+3
+uig
+2
+uoq
+°
+** End of Report
+**
+M
+31

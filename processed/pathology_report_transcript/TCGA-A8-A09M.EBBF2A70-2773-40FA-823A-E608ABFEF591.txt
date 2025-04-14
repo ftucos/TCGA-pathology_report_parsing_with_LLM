@@ -1,0 +1,30 @@
+Diagnosis:
+1CD-0-3
+Carcinoma, infiltrationg ductal, Nos 8500/3
+Pisth
+Site: Breast, LOQ C50.5
+CQCF
+Site: Breast, Nos
+050.9
+1/21/11
+Right-sided breast excision material with a poorly differentiated invasive ductal breast
+carcinoma measuring about 4.3 cm with invasion of the lymph vessels and a minimum margin
+of 3 mm at 6 o'clock and 10 mm at 12 o'clock and 1.5 cm or more at 3 and 9 o'clock. No
+intraductal tumor component.
+Tumor classification:
+M-8500/3, G 3, pT 2, pN 3a (14/28), pMx, stage III c. R 0.
+UUID:EBBF2A70-2773-40FA-823A-E608ABFEF591
+TCGA-A8-A09M-01A-PR
+Redacted
+Yes
+Na
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Priniary Nuted
+Case is iircle):
+Reviewertia
+QUALIFIED V DISQUALIFIER
+Date Reviewed:

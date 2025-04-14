@@ -1,0 +1,87 @@
+DIAGNOSIS:
+Sex: Female
+D.O.B.:
+MRN #:
+Ref Physicia
+Collected:
+Received:
+Reported:
+UUID:87DB9AD3-7640-4A78-B401-D5562D03BA76
+TCGA-AC-A3TM-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+JOSIS
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initi
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+1/23/20/122/30/12
+A. Right axillary sentinel lymph node #1:
+Metastatic lobular carcinoma involving subcapsular sinuses (detected by pancytokeratin IHC stains only; greater than 200 individual cells
+identified 1/1).
+B. Right axillary sentinel lymph node #2, excision:
+Metastatic lobular carcinoma involving subcapsular sinuses (detectable by pancytokeratin IHC only; fewer than 200 cells identified - 1/1).
+C. Right axillary sentinel lymph node #3, excision:
+Single lymph node negative for metastatic tumor by routine sections and pancytokeratin immunohistochemistry (0/1).
+D. Right axillary sentinel lymph node #4, excision:
+Single lymph node negative for metastatic tumor by routine sections and pancytokeratin immunohistochemistry (0/1).
+E. Right breast, simple mastectomy:
+In situ and invasive lobular carcinoma, with invasive tumor measuring up to 7 cm in maximal dimension grossly.
+Invasive lobular carcinoma is Bloom-Richardson grade II (architectural score - 3; nuclear grade - 2; mitotic rate - 1).
+No evidence of angiolymphatic invasion.
+Random sections through the quadrants show an isolated microscopic foci of invasive lobular carcinoma well away from the main tumor mass.
+Negative deep inked surgical margin of resection.
+Nipple with extensive LCIS colonizing lactiferous ducts.
+Prognostic markers have been previously reported, but because of duration from diagnosis will be repeated on block E7. Addendum report to
+follow.
+pTNM Stage: T3N1(mi)
+Electronic Signature:
+CLINICAL INFORMATION
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right modified radical mastectomy with sentinel node mapping with frozen section. Invasive lobular carcinoma and lobular
+carcinoma in situ. ER positive. PR positive.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Right axillary sentinel node
+with frozen section
+B. Right axilla sentinel node
+C. Right axilla sentinel node
+D. Right axilla sentinel node.
+E. Right breast
+1CD-03
+carcinoma, lobular, infiltrating
+852013
+Site: breast, Nos
+050.9
+4-3-12 20
+GROSS DESCRIPTION:
+The specimen is received in five containers labeled with the patient's name
+A. Container A is additionally labeled 'right axilla sentinel node #1' and contains a 1.5 cm yellow-tan firm fatty nodule consistent with lymph node. The
+specimen is entirely submitted for frozen section with the residual entirely resubmitted for permanent section in cassette a labeled.
+B. Container B is additionally labeled 'right axillary sentinel node #2' and contains a 0.7 cm yellow-tan firm fatty nodule consistent with possible lymph
+node. The nodule is bisected and entirely submitted in cassette B labeled
+C. Container C is additionally labeled 'right axillary sentinel node #3' and contains a 3.8 x 2.0 x 0.5 cm yellow-tan fibrofatty soft tissue. Un paipation, a
+1.2 cm yellow-tan firm fatty nodule is identified consistent with possible lymph node. This nodule is bisected and entirely submitted in cassette C labeled
+D. Container D is additionally labeled 'right axillary sentinel node #4' and contains a 0.9 cm yellow-tan firm fatty nodule consistent with lymph node. The
+specimen is bisected and entirely submitted in cassette D labeled
+E. Container E is additionally labeled 'right breast' and contains a 625 gram, 22.0 x 14.5 x 4.0 cm simple mastectomy specimen partially surfaced by
+22.0 x 9.5 cm ellipse of pink-tan wrinkled skin bearing a central 1.5 x 1.5 x 1.5 cm everted nipple. Orientation is not offered or possible. Located 3.8 cm
+from the nipple is a 2.0 cm in length well delineated, partly healed scar. The deep margin is inked and the specimen is serially sectioned to reveal a 7.0 x
+3.4 x 3.0 cm ill-defined gray-white mass that resides 2.5 cm below the skin and approaches to within 1.8 cm of the inked deep margin. The remainder of
+the cut surface is comprised of yellow-tan fibroadipose tissue with no additional lesions identified. Representative sections are submitted in cassettes E1
+through 11 labeled
+designated as follows: 1, nipple; 2. skin scar; 3, mass to inked deep margin, perpendicular, 4 through 8, additional mass;
+9 through 11, representavections from three uninvolved quadrants. Additionally, a yellow, green and blue cassette are submitted for
+research each labeled
+INTRA-OPERATIVE CONSULTATION:
+FROZEN SECTION DIAGNOSIS: Part A - FSDX: No neoplasm identified (0/1) per Dr.

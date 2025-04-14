@@ -1,0 +1,65 @@
+PATIENT HISTORY:
+* DATE of LMP: *
+DATE OF LAST DELIVERY:
++
+PRE-OP DIAGNOSIS: CAL BREAST
+POST-OP DIAGNOSIS: SAME
+ICD-0-3
+Carcinoma, infiltrating duct, NOS 8500/3
+Site Code: breast, NOS C50.9
+OPERATIVE PROCEDURE: LEFT MODIFIED RADICAL MASTECTOMY
+CLINICAL HISTORY:
+MATERIAL SUBMITTED: LEFT (MOD) RADICAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+Lt breast & axillary content
+FINAL DIAGNOSIS:
+FINAL DIAGNOSIS:
+BREAST AND AXILLA, LEFT, MODIFIED RADICAL MASTECTOMY:
+- INFILTRATING DUCTAL CARCINOMA ("A2-A7"), 4.5 BY 4.5 BY 3.5 CM, NOTTINGHAM 6/9 (TUBULES 3, NUCLEI 2,
+MITOSIS 1), WITH LYMPHOVASCULAR 
+PERMEATION, INVOLVING THE DEEP DERMIS
+DUCTAL CARCINOMA IN-SITU, SOLID TYPE, NUCLEAR GRADE 2, LESS THAN 18
+MARGINS OF RESECTION ARE FREE OF TUMOR
+- NIPPLE FREE OF TUMOR
+TWO OF TWENTY-SIX (2/26) LEFT AXILLARY LYMPH NODES INVOLVED WITH TUMOR, LARGEST LYMPH NODE 2.3 CM IS
+REPLACED BY TUMOR
+NOTE: ER/PR immunoperoxidase assay and Her-2/NEU testing was performed on block "A6". Cross refer
+ESTROGEN/PROGESTERONE AND HER-2/NEU REPORT
+consensus statement
+Using appropriate positive and negative controls, the test for the presence of these hormone receptor
+proteins 
+is performed by the immunoperoxidase method, and reported according to the
+on adjuvant 
+therapy for breast cancer, of
+A positive ER or PR tumo_ shows any nuclear
+immunostaining, and is semiquantitated as indicated below.
+Result Semiquantitative Statement
+ER positive Percent cells staining as: (0- 0% 1+ 10%; 2+ 10%; 3+ 80%)
+PR positive Percent cells staining as: (0- 0%; 1+ 0%; 2+ 10%; 3+ 90%)
+HER-2/NEU - DAKO HERCEPTEST: A FAINT/BARELY PERCEPTIBLE MEMBRANE STAINING IS DETECTED IN MORE THAN 10% OF
+THE TUMOR CELLS. THE CELLS 
+ARE ONLY STAINED IN PART OF THEIR MEMBRANE.
+(SCORE 1+) .
+HER-2/NEU IS INTERPRETED AS NEGATIVE
+methods. The progesterone
+NOTE: The Her-2/NEU and estrogen assays were performed with FDA approved
+receptor immunoperoxidase test used in this case has been developed and the performance characteristics
+determined by the 
+Department of Pathology at
+They have not been
+cleared or approved by the U.S. Food and Drug Administration.
+UUID:60E8A9CF-3E2D-4E36-947D-448BA27C6561
+TCGA-BH-A18N-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosts Discrepancy
+Primary Turnur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary No
+Case is (circle):
+Reviewer Initials
+UALIFIE
+DISQUALIFIED
+Date Reviewed:

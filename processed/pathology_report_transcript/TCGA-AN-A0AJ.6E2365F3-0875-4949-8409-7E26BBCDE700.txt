@@ -1,0 +1,39 @@
+TSS Patient ID:
+Case #:
+UUID:6E2365F3-0875-4949-8409-7E26BBCDE700
+TCGA-AN-ABA3-01A-PR
+Redacted
+DOB:
+Sex: Female Ethnicity (Race):
+Cancer Sample
+Diagnosis: Breast Cancer Histological description: Infiltrative ductal-lobular carcinoma
+Date of Procurement:
+Anatomic Site: Left Breast Tumor location: Primary
+Tissue Specification: Tumor Specimen Matrix: Tissue Specimen Format: OCT
+Container: block Type of Procurement: surgery Grade: 2
+T Stage: 3 N Stage: 0 M Stage: 0 Treatment: none
+Treatment Details: n/a
+Normal Sample
+Anatomic Site: Blood Sample Type: Normal Type of Procurement: blood draw
+Matrix: Blood Specimen Format: frozen Container: tube
+Date of Procurement:
+ICD-0-3
+carcinoma, infiltrating ductal and lobular 8522/3
+Site: breast, Nos
+050.9
+سار
+10/21/4
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Case is (circle):
+Dual/Synchronous Prima:, Noted
+QUALIH
+Date Reviewed:
+Reviewer Initials
+Yes
+No
+DISQUALIFI
+tw Totest th

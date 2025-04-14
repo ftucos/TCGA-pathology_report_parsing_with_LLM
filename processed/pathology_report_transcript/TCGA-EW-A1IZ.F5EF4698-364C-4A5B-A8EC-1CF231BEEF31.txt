@@ -1,0 +1,182 @@
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+Right breast short stich superior long lateral right single mastectomy:
+- Benign mammary parenchyma, no malignancy seen.
+Left breast and level I and II of axilla to tumor short superior, left lateral:
+- Invasive ductal carcinoma, Nottingham grade 3 (3+3+2), 2.8 cm in greatest linear dimension, focally present at the
+anterior specimen margin.
+· Ductal carcinoma in situ, high grade (DIN 3) solid type.
+- Organizing previous biopsy cavity.
+- Lymphovascular space invasion is present.
+Metastatic carcinoma in four out of nine lymph nodes (4/9).
+- Receptors to follow.
+Additional fat above left breast tumor:
+- No malignancy seen in adipose tissue.
+Left level III axilla:
+- No malignancy seen in four lymph nodes (0/4).
+Tumor Summary (Invasive Carcinoma of the Breast);
+Specimen Type: Total breast (including nipple and skin)
+Procedure: Total mastectomy (including nipple and skin)
+Lymph Node Sampling: Axillary dissection (partial or complete dissection)
+Specimen integrity: Single intact specimen (margins can be evaluated)
+Specimen Laterality: Left
+Tumor Site: Lower outer quadrant; Lower inner quadrant
+ICD-0-3
+Carcinoma, infiltrating ductal Nos 8500/3
+Site, breast, Nos C50.9
+2/8/11
+ww
+UUID:F5EF4698-364C-4A5B-A8EC-1CF231BEEF31
+TCGA-EW-A1IZ-01A-PR
+Redacted
+Tumor Size: Size of Largest Invasive Carcinoma: Greatest dimension of largest focus of invasion: 2.8 cm
+Tumor Focality: Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Nipple: DCIS does not involve the nipple epidermis
+Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ: DCIS is present
+Architectural Patterns: Solid
+Nuclear Grade: Grade ill (high)
+Lobular Carcinoma in Situ: Not identified
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma (no special type or not otherwise specified)
+Histologic Grade:
+Margins:
+Glandular (Acinar)/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 3
+Mitotic Count: Score 2
+Overall Grade: Grade 3
+Uninvolved by invasive carcinoma
+Distance from posterior margin: 2 cm
+Uninvolved by DCIS (if present)
+Lymph-Vascular Invasion: Present
+Dermal Lymph-Vascular invasion: Not identified
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 13
+Number of lymph nodes with macrometastases: 4
+Size of largest metastatic deposit: 2.0 cm
+Extranodal Extension: Not identified
+SURGICAL PATHOL Report
+Method of Evaluation of Sentinel Lymph Nodes: Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM)
+TNM Descriptors: m (multiple foci of invasive carcinoma)
+Primary Tumor pT2
+Regional Lymph Nodes: pN2
+Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor: Pending
+Progesterone Receptor: Pending
+Her2: Pending
+***Electronically Signed Out By*** |
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically usatul indicators that do
+not require FDA approval. These clones are used: ID5=ER, PgR 636-PR, A485×HER2, H-11=EGFR, CCH2/DDG9=CMV, F39.4.1=AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+As the attending pathologist, I attest that I: (1) Examined the relevant
+preparation(s) for the specimen(s); and (ii) Rendered the diagnosis(es).
+Status: Signed Out
+Addendum Diagnosis
+The tumor cells are positive for ER and PR and negative for HER2 by immunohistochemistry. Immunohistochemistry for p63 was
+used in the evaluation of the specimen.
+Clinical History:
+female with left breast cancer
+Pre Operative Diagnosis:
+Left breast cancer
+Specimen(s) Received:
+A: Right breast short stich superior long lateral right single mastectomy (fresh)
+B: Left breast and level I and II of axilla to tumor short superior, left lateral (fresh)
+C: Additional fat above left breast tumor (perm)
+D: Left level III axilla (perm)
+Gross Description:
+A.
+Received fresh and labeled “right breast short stich superior long lateral right single mastectomy (fresh)" is a breast
+specimen measuring 18.0 x 15.0 x 5.0 cm. It has a white-tan ellipse of skin measuring 4.0 x 1.0 cm. The nipple measures
+1.0 x 1.0 cm. The skin is unremarkable and nipple is unremarkable. Deep margin is smooth, facial plane without any
+Page 2 of 3
+SURGICAL PATHOL Report
+skeletal muscle. Deep margin is inked in black. Serial sectioning of the mastectomy specimen does not reveal any gross
+lesion. Specimen submitted as follows:
+B.
+1&2
+Sections from upper outer quadrant
+3&4
+Representative section from lower outer quadrant
+5&6
+Representative section from upper inner quadrant
+7&8
+9&10
+11
+Representative section from lower inner quadrant
+Representative section from central quadrant
+Representative section from nipple
+Received fresh and labeled "left breast and level I and II of axilla to tumor short superior, left lateral (fresh)" is a
+mastectomy specimen measuring 19.0 x 17.0 x 3.0 cm. It has a white-tan ellipse of skin measuring 2.5 x 2.0 cm. The
+axillary tail measures 13.0 x 9.0 cm. The skin and nipple are unremarkable. Deep margin is smooth, facial plane without
+any skeletal muscle. Deep margin is inked black, superior margin is inked blue, medial margin is inked red and inferior
+margin is inked green. Serial sectioning of the mastectomy specimen reveals a 2.8 x 2.0 x 1.5 cm firm gray mass located
+in the lower outer quadrant, less than 0.1 cm from the inked anterior specimen margin. There is also a 1x 1x1 cm mass
+in the lower inner quadrant. The mass is well defined. It has a clip in it. In the upper inner quadrant, there is an area of
+necrosis measuring 2.0 x 2.0 x 1.0 cm. It is brown in color and soft in consistency. Remainder of the breast parenchyma is
+predominantly white and firm with small cyst measuring up to 0.3 cm in greatest dimension. The axillary tail is yellow and
+soft. There are 13 possible lymph nodes. The largest measures 3.0 cm in greatest dimension. Sections submitted as
+follows:
+1-8
+Mass in the lower inner quadrant
+9&10 Area of necrosis
+11&12 Representative section from upper outer quadrant
+13&14 Representative section from lower outer quadrant
+15&16 Representative section from upper inner quadrant
+17&18 Representative section from lower inner quadrant
+19&20 Representative section from the central quadrant
+21
+22-24
+25-37
+38-41
+C.
+Representative section from the nipple
+Contains representative section from the largest lymph node
+One lymph node per cassette
+Additional section of mass in lower outer quadrant
+D.
+Received in formalin and labeled "additional fat above left breast tumor" is a soft fragment measuring 2.5 x 1.0 x 1.0 cm.
+Submitted in toto in three cassettes.
+Received in formalin and labeled "left level III axilla" is a pale yellow, soft tissue fragment measuring 4.0 x 3.0 x 2.0 cm.
+Four possible lymph nodes are bisected and submitted in toto in four cassettes.
+ICD-9(8):
+174.5 174.3 196.3
+Criteria
+Diagnosis Discrepancy
+Frinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Por Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIEPT
+Date Reviewed:
+M
+Yes
+No
+DISQUALIFIED
+Page 3 of 3

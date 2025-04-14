@@ -1,0 +1,126 @@
+TSS:
+SPECIMENS:
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+12/8/10
+سد
+Site Code breast, hoppe outer quadrant C50.4
+Path
+CQCF
+Site: breast, Nos
+0509
+UUID:750D4149-BD70-4D7C-8915-9694BD1EC760
+TCGA-E2-A14Z-01A-PR
+Redacted
+A. SLN #1
+B. LEFT BREAST EXCISION
+C. ADDITIONAL MARGIN MEDIAL, ANTERIOR, POSTERIOR
+SPECIMEN(S):
+A. SLN #1
+B. LEFT BREAST EXCISION
+C. ADDITIONAL MARGIN MEDIAL, ANTERIOR, POSTERIOR
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA-SLN #1: Negative for tumor called by Dr to Dr at.
+B: Gross only, tumor 0.1 cm from medial margin called by Dr. to Dr. at
+GROSS DESCRIPTION:
+A. SLN #1
+Received fresh is a 3.5 x 1.1 x 0.4 cm piece of soft tissue containing a lymph node. A touch prep is performed;
+lymph node is 
+submitted in cassette A1.
+B. LEFT BREAST
+Received fresh labeled with the patient's identification and "left breast" is an oriented (single-anterior, double-lateral)
+43 
+g, 
+4.1 x 3.2 x 3 cm lumpectomy without radiograph. The specimen has been inked in OR per protocol: Anterior-
+yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. Specimen is serially sectioned from
+lateral to medial into 6 slices revealing a 1.9 x 1.4 x 1.3 cm firm tan circumscribed mass that is closest to the medial
+margin at less than 0.2 cm. Tissue is procured. Representatively submitted.
+B1: lateral margin, perpendicular sections
+B2: slice 3, mid posterior, mass
+B3: slice 3, posterior inferior, mass
+B4: slice 4, lower anterior, mass
+B5: slice 5, superior anterior
+B6: slice 5, superior posterior
+B7: slice 5, mid anterior
+B8: slice 5, mid posterior, mass
+B9: slice 5, inferior anterior
+B10: slice 5, inferior posterior
+B11-B12: medial margin, perpendicular sections
+C. ADDITIONAL MEDIAL, ANTERIOR-POSTERIOR MARGIN
+Received fresh labeled with the patient's identification and "additional medial, anterior-posterior margin" is an
+oriented (suture at final margin) 7 g, 0.7 x 3.2 x 0.9 cm fibrofatty tissue. Final margin is inked black. Serial
+sectioning reveals no discrete lesions. Entirely submitted in cassettes C1-C5.
+DIAGNOSIS:
+A. LYMPH NODES, SENTINEL #1 left axilla, excision:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+B. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE ductal CARCINOMA, SBR GRADE 3, MEASURING 1.6-CM
+- Tumor present 2-mm from inferior surgical margin (closest margin)
+-biopsy site changes with fibrosis
+- SEE SYNOPTIC REPORT.
+C. BREAST, ADDITIONAL MEDIAL ANTERIOR POSTERIOR MARGIN, EXCISION:
+- BREAST TISSUE, NO TUMOR SEEN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Laterality: Left
+Needle Localization:
+Invasive Tumor:
+No
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Tumor Site:
+Margins:
+1.6cm
+Upper outer quadrant
+Negative
+Distance from closest margin:
+0.2cm
+inferior
+Tubular Score: 3
+Nuclear Grade:
+2
+Mitotic Score: 3
+Modified Scarff Bloom Richardson Grade:
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+3
+None identified
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Negative 0/1
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+pT 1c NO
+CLINICAL HISTORY:
+Left breast infiltrating cancer upper outer quadrant
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation:
+Final Review: Pathologist,
+Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepar.ry
+IIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Dar Reviewed:
+Yes
+No
+DSQUALED 10

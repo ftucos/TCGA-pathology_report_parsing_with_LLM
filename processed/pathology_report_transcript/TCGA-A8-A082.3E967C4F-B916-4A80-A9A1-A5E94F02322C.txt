@@ -1,0 +1,38 @@
+3
+3
+1CD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Puth
+Site: Breast, central C50.1
+portion
+CQCF
+Site: Breast, Nos C50.9
+1/21/11
+سر
+Diagnosis:
+1. Ablated breast sample with a bifocal poorly differentiated invasive ductal
+carcinoma (first tumor is poorly differentiated with a tumor diameter of 2.3 cm and a
+distance from the resection margins of 2.2 cm cranially, 2.5 cm dorsally, 3 cm
+laterally and caudally, and 5 cm medially; the second tumor is moderately
+differentiated, measuring 2 cm, with a distance from the resection margins of less
+than 0.1 cm dorsally, 0.2 cm caudally, 1.5 cm laterally, 3.5 cm cranially, and 7 cm
+medially) with focal intraductal components.
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G II, pT2N2aL1V0R0.
+Redacted
+UUID:3E967C4F-B916-4A80-A9A1-A5E94F02322C
+TCGA-A8
+-A082-01A-PR
+Yes
+N
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Cual/Synchronous Primary Noted
+Case is (circle):
+Reviewer nita
+DISQUALII IFD
+QUALIFIGO
+Date Reviewed: _

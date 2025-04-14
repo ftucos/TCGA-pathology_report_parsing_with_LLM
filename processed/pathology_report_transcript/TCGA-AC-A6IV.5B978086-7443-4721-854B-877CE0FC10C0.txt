@@ -1,0 +1,169 @@
+BREAST PROGNOSTIC PANEL: Block(A4)
+TEST
+Estrogen Receptor:
+Progesterone Receptor:
+Ki-67 (MIB1) Proliferation Marker.
+Sex: Female
+D.O.B.:
+Ref Physician
+Collected:
+Received:
+Reported:
+SPECIMEN INEC
+SURGICAL PATHOLOGY REPORT
+*** ADDENDUM REPORT ***
+RESULT
+POSITIVE (93%)
+Staining Intensity: Strong
+POSITIVE (60%)
+Staining Intensity: Strong
+HIGH (32%)
+REFERENCE RANGES
+≥ 1% is Positive
+< 1% is Negative
+≥ 1% is Positive
+<1% is Negative
+> 20% is High
+10-20% is Borderline
+<10% is Low
+0-1+ Negative
+Her2 by IHC:
+EQUIVOCAL (2+ staining)
+Weak, circumferential membrane staining in > 10% of cancer cells or <30% with strong complete membrane staining
+2+ Equivocal
+3+ Positive
+A reflex to HER-2/neu by FISH (fluorescent in situ hybridization) will be performed and an additional report will follow.
+These results were interpreted at.
+were evaluated and deemed adequate for ER/PR/Ki-67/.
+parameters. All controls show appropriate reactivity.
+Slides from this sample
+nalysis. Statua assay conditions were met, including cold ischemia time and fixation
+UUID:58978086-7443-4721-854B-877CE@FC10C0
+TCGA-AC-A6IV-01A-PR
+Redacted
+[Specific testing information and references have been added to the microscopic description]
+The original diagnosis remains unchanged.
+Addendum Report Issued by:
+DIAGNOSIS
+DIAGNOSIS:
+A. Right breast mastectomy:
+Invasive mammary carcinoma.
+Favor pleomorphic lobular carcinoma.
+Size: 2.2 cm.
+Architectural score: 3 of 3.
+Nuclear score: 2 of 3.
+Mitotic score: 2 of 3.
+Total score: 7 of 9.
+Grade 2.
+Prognostic panel will follow as an addendum.
+No evidence of in situ carcinoma.
+No evidence of angiolymphatic invasion.
+All surgical margins of excision are free of carcinoma.
+Closest margin is deep and is 1.5 cm.
+B. Right axillary sentinel lymph node: One lymph node, Metastatic carcinoma.
+Size of involvement within the node: 0.3 cm.
+CECF
+ICD0-3
+Carcinoma, Schular infiltrating
+Самакота,
+path
+NOS
+Carcinoma, bular infiltrating mixed
+w/other types (pleomorphic
+) 8524/3
+Site & Breast 
+NOS C50.9
+26/17/13
+No evidence of extracapsular extension.
+Confirmed by staining for pancytokeratin.
+TMN: T2pN1
+DIAGNOSIS
+Electronic Signature:
+CLINICAL HISTORY:
+NICAL INFORMATION
+Preoperative Diagnosis: Right modified radical mastectomy with sentinel node mapping with frozen section. Invasive mammary carcinoma. ER positive.
+PR positive. Her-2 negative.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Right breast
+B. Right axilla sentinel node
+GROSS DESCRIPTION:
+MEN DA
+A. The first container A is received labeled with the patient's name
+ight breast." The specimen consists of portion of fibroadipose breast
+tissue and overlying skin measuring 20.0 x 16.5 x 6.0 cm and weighs 643 grams. The skin surface measures 20.0 x 9.2 cm, is light tan, wrinkled. There
+are no lesions seen grossly. The nipple is eccentrically placed and appears grossly unremarkable. There is no orientation given to the specimen. The
+margins have been inked yellow with the exception of the deep margin, which has been inked black. Sectioning reveals a firm gray-tan ill-defined mass
+that measures 2.2 x 2.0 x 1.8 cm that is 1.5 cm from the deep margin and is 2.7 from the closest lateral margin. The surrounding breast tissue reveals
+yellow-tan fatty fibroadipose tissue. There are no other lesions identified. At the periphery of the breast, there are no lymph nodes identified. Received
+with the specimen are three cassettes, one yellow, one green and one blue labeled
+Representative sections are submitted in cassettes
+labeled
+follows: nipple block 1; deep margin overlying the mass in block 2; sections from the mass in blocks 3 through 7; random
+sections taken from all four quadrants in blocks 8 through 11.
+B. The second container B is received in formalin labeled
+tissue that measures 3.5 x 2.0 x 1.5 cm. Sectioning reveals a single lymph node that measures 1.8 x 0.7 x 0.9 cm. The lymph node is sectioned and is
+entirely submitted in two cassettes labeled
+right axilla sentinel node.' The specimen consists of a portion of fibroadipose
+MICROSCOPIC EXAMINATION:
+ER/PgR.
+HER2/neu Scoring
+system
+Cold Ischemic
+Time, Fixative,
+Processing
+THERAPEUTIC MARKER ASSAY CONDITIONS
+Breast Cancer Analysis using Immuno-histochemistry,
+review.
+and Pathologist
+is an automated digital slide creation, management, viewing
+and computer-assisted analysis system which aids the pathologist in the detection, classification,
+and counting of cells of interest thereby standardizing slide scoring through quantitative
+assessment of marker intensity, size and shape. This laboratory uses a modified version of a FDA
+approved test. An antibody other than the FDA approved antibody for the
+algorithm is used.
+The performance characteristics of these assays have been determined by
+test.
+Performance characteristics refer to the analytical performance of the
+Specimen should be placed in neutral buffered formalin within 1 hour of removal from the patient
+and fixed for a minimum of 6 but not in excess of 48 hours. Specimen are processed by routine
+tissue processing methods.
+Staining Method Used
+Staining platform, antibodies and associated reagent below are all manufactured by
+are FDA approved.
+Primary
+Antibodies
+Controls
+Antigen
+Retrieval Type
+Detection
+System Type
+and
+ER - Anti-Estrogen receptor (clone SP1) primary antibody is a rabbit monoclonal antibody (IgG) that
+is used for the qualitative detection of estrogen receptor antigens.
+PgR - Anti-Progesterone Receptor (clone 1E2) primary antibody is a rabbit monoclonal antibody
+(IgG) that is used for the quantitative detection of the A, B and C isoforms of human progesterone
+receptor antigens.
+Ki-67 - Anti-Ki-67 primary antibody is directed against the C-terminal portion of the Ki-67 antigen,
+which is expressed in the nuclei of proliferating cells (normal and neoplastic). The antibody identifies
+proliferating activity in sections of formalin-fixed, paraffin-embedded tissue on an automated slide
+stainer platform.
+HER-2/neu - PATHWAY Anti-HER-2/neu (485) primary antibody is a rabbit monoclonal antibody
+(IgG
+) that is used for semi-quantitative detection of HER2 antigens.
+ER, PR, HER-2/neu are prepared from sections of formalin-fixed, paraffin-embedded tissue on an
+automated slide stainer platform.
+All Controls show appropriate reactivity (high protein expression, low protein expression, negative
+protein expression, internal elements from normal breast tissue included 
+with sample.
+A tris based buffer with a slightly basic pH, which, at elevated temperatures is capable of hydrolyzing
+the covalent bonds formed by formalin in tissue.
+Indirect biotin streptavidin detection system
+Criteria
+crepancy
+4/13/13
+newer Initials
+11/84/7
+✓ DISQUALIFILD
+༧་་་འི་

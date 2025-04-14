@@ -1,0 +1,158 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+Sentinel node #1
+-
+-
+)- FS:
+- One lymph node, no malignancy seen.
+Keratin stain ordered.
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+C50.9
+3/12/11
+8.
+C.
+Sentinel node #2 {
++ FS:
+- One lymph node, no malignancy seen.
+- Keratin stain ordered.
+Right breast mass oriental with 1 short stitch superior, 1 long stitch lateral:
+- Infiltrating moderately differentiated ductal adenocarcinoma, high nuclear grade (2.4 x 2.3 x 1.9 cm) with extensive prior
+therapy changes.
+- focal ductal carcinoma in situ, high nuclear grade, comedo and cribriform types associated to main tumor in 4 of 10
+slides.
+-
+Intratumoral damages of previous biopsy site (fibrosis and hemorrhage).
+- Margins free of tumor.
+Tumor Summary:
+Specimen Type: Excision
+Lymph Node Sampling: Sentinel lymph nodes only
+Specimen Size (for excisions less than total mastectomy): 9 x 6.5 x 4 cm
+Laterality: Right
+Tumor Site: Not specified
+Size of Invasive Component: 2.4 x 2.3 x 1.9 cm
+Histologic Type: Ductal carcinoma in situ
+Invasive ductal carcinoma
+UUID:8F35E936-E4DD-4E35-BD9B-6CB7974E2765
+TCGA-EW-A1P7-01A-PR
+Redacted
+Histologic Grade (any grading system may be used; mitotic count is also required Independent of the grading
+system):
+-Tubule Formation: Minimal less than 10% (score =3)
+-Nuclear Pleomorphism: Marked variation in size, nucleoli, chromatin clumping, etc (score =3)
+-For a 40x objective with a field area of 0.152 mm²: Greater than 10 mitoses per 10 HPF (score =3)
+Total Nottingham Score: Grade III:8-9 points
+Pathologic Staging:
+-Primary Tumor: pT2c
+-Regional Lymph Nodes: pNO
+-Distant Metastasis: pMX
+Margins: Uninvolved by Invasive carcinoma
+Uninvolved by DCIS
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L): Absent
+Microcalcifications: Not identified
+Commment: On the prior blopsy
+Immunohistochemistry. FISH for Her 2-neu was not amplified
+tumor was negative for ER and PR and equivocal for Her 2-neu by
+SURGICAL PATHOL Report
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS=ER, PgR 636-PR, A485-HER2, H-11=EGFR. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The 
+results are read by a
+pathologist as positive or negative,
+1
+As the attending pathologist, I attest that 1: (i) Examined the relevant preparation(s)
+for the specimen(s); and (li) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Procedures/Addenda
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnos
+Addend
+- No tu
+sing keratin by immunohistochemistry.
+گاه ول
+Intraoper
+A.
+Sentin noue #
+S: No tumor seen.
+B.
+Sentinel node #2 (5
+* tumor seen.
+Clinical History:
+None provided
+Operation Performed
+Right breast lumpectomy with sentinel node biopsy
+Pre Operative Diagnosis:
+Breast cancer
+Specimen(s) Received:
+a, MD
+Status: Signed Out
+MD
+A: Sentinel node #1 (
+-
+FS
++ FS
+B: Sentinel node #2
+C: Right breast mass oriental with 1 short stitch superior, 1 long stitch lateral
+Gross Description:
+A.
+B.
+C.
+Received fresh is a pale tan to light brown lymph node, 1 x 0.8 cm. The specimen is submitted in toto in two cassettes
+for frozen section.
+Received fresh is a pale tan lymph node, 1.2 x 1 cm. The specimen is submitted in toto in one block for frozen section.
+Received in formalin is a yellow-tan fibroadipose tissue fragment, 110 grams, 9 x 6.5 x 4 cm. The specimen is oriented
+with a short stitch superior and a long stitch lateral margin. The specimen is inked as follows: superior margin - black,
+Page 2 of 3
+SURGICAL PATHOL Report
+-
+inferior margin - yellow, posterior margin - green, anterior margin - blue, lateral margin – orange, and medial margin -
+red. Cross sections through the specimen show a yellow-tan cut surface. Located 4 mm from the anterior and superior
+margin is an ill-defined, markedly firm, slightly hemorrhagic mass, 2.4 x 2.3 x 1.9 cm. No other firm masses are grossly
+identified. The large ill-defined mass does not appear to grossly involve any surgical margin. Sections are submitted as
+follows:
+1
+Anterosuperior margin
+2
+Inferior margin
+3
+Deep margin
+4
+Anterior margin
+5
+Lateral margin
+6
+Medial margin
+7&8
+9&10
+Composite section of the largest axis of the mass
+Additional sections from the mass in relation to the anterior margin
+Criteria
+Diagnosis Discrepancy
+Primary Tumur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): 1
+Reviewer Initials
+QUALIHED
+Yes
+No
+/ DISQUALIFIE】|
+Date Reviewed
+T 3/12/H
+Page 3 of 3

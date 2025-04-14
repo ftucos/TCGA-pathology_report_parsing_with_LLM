@@ -1,0 +1,32 @@
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+Site Code: breast, Nos.
+050.9
+850013
+Final Diagnosis
+Breast, left, modified radical mastectomy: Infiltrating ductal carcinoma, Nottingham grade II (of
+III) [tubūles 3/3, nuclei 2/3, mitoses 2/3; Nottingham score 7/9], forming a mass (2.8 x 2.3 x 2.1
+cm) located in the retroareolar region of the breast. Ductal carcinoma in situ is absent.
+Angiolymphatic invasion is absent. Calcifications are not seen. The tumor involves the
+overlying skin [AJCC pT4]. All surgical resection margins, including the skin and deep margins,
+are negative for tumor (minimum tumor free margin, 1.1 cm, anterior superior margin). A single
+(of 23) left axillary mid/low lymph node is positive for metastatic carcinoma. The positive lymph
+node (1.7 cm in greatest dimension) shows extranodal extension.
+Lymph nodes, left high axillary, excision: Multiple (2) left high axillary lymph nodes are
+negative for tumor.
+UUID:5AD5B38F-5CC1-4A2F-96E6-F344D8FE0149
+TCGA-AR-A1AV-01A-PR
+12/21/10 fr
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Late Reviewed:/12

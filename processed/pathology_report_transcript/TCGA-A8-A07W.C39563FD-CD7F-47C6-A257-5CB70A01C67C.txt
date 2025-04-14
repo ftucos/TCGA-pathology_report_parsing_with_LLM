@@ -1,0 +1,33 @@
+:
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path Site: Breast, 40Q
+CQef Site: Breast, Nos
+C50.4
+050.9
+1/21/11
+کسرا
+1. Left breast excision material with a 3 cm moderately differentiated invasive ductal breast
+carcinoma without any visible invasion of the lymph or blood vessels, excised on all sides
+well into 
+the healthy tissue, with the inclusion of a multifocal intraductal non-high-grade
+carcinoma, max. 5 mm in size, with comedo necrosis, not extending beyond the invasive
+tumor component.
+Tumor classification:
+M-8500/3, G 2, pT 2, pL 0, pV 0 (0/1), pNX, pMX. R0.
+UUID:C39563FD-CD7F-47C6-A257-5C870A01C67C
+TCGA-A8-A07W-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Syrchronous Priniary Noted
+Cases (circle):
+Reviewer a
+QUALIFIED 11 D:SQUALED
+Date Reviewed:

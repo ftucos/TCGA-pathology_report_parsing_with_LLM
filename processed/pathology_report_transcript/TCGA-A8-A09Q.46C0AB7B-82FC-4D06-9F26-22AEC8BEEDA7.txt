@@ -1,0 +1,42 @@
+:
+;
+Diagnosis:
+ICD-0-3
+Carcinoma, ductal, Nos 8500/3
+Path
+Site: Breast, LIQ C50.3
+CQCF Site: breast, Nos c50.9
+1/19/11 w
+1. Poorly differentiated ductal breast carcinoma (maximum diameter 4.5 cm,
+grade III) with widespread tumor 
+infiltration of the skin also with ulceration of the skin, along
+malignancy
+with invasion of the lymph vessels and infiltration of 
+the neural sheaths. Remainder of
+glandular body fibrolipomatous and in advanced 
+involution, also with cystic duct ectasia. No
+calcification. No evidence of DCIS.
+At the site of the nodular formation already macroscopically documented in the region of the
+cranial resection line (skin) cutaneous/subcutaneous 
+tumor infiltrates, also with invasion of
+the lymph vessels here. Other safety margins 
+free of atypia.
+Tumor classification: pT4b pN2 (at least, see conglomerate tumors), MX, R1 (see cranial
+resection line, axillary soft tissue!), G3 (L1, V0).
+UUID:46C8A878-82FC-4D86-9F26-22AEC8BEEDA7
+TCGA-
+A8-A090-01A-PR
+Redacted
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Dual/Synchronous Priorary floted
+Case (circle);
+Reviewer in
+QUALIFIED
+DISQUALIFIED

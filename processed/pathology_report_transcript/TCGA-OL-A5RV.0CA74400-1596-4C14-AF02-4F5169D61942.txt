@@ -1,0 +1,128 @@
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right breast; modified radical mastectomy:
+ICD-0-3
+Carcinoma, Infiltrating
+ductal Nos 8500/3
+Site Breast NOS
+- Invasive ductal (tubulo-lobular) carcinoma, SBR grade II, focally associated
+with microcalcification, see parameters.
+- Ductal carcinoma in situ, low and intermediate nuclear grade, cribriform,
+micropapillary and solid type, associated with necrosis and microcalcifications.
+650.9
+J 2/18/13
+- Ductal carcinoma in situ is < 2 mm from posterior margin.
+- Biopsy site changes.
+- Columnar cell changes.
+- Two small fibroadenomas.
+UUID:0CA74400-1596-4C14-AF02-4F5169D61942
+TCGA OL-A5RV-01A-PR
+Redacted
+- Twenty of twenty-nine lymph nodes, positive for metastatic carcinoma (20/29).
+- Extranodal extension present.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 4.5 cm (main lesion) and 1 cm (satellite in upper
+outer quadrant)
+B. Composite histologic (modified SBR) grade: II
+- Architecture: 2
+- Nuclear grade: 2
+- Mitotic count: 2
+C. Associated intraductal carcinoma in situ (DCIS):
+- Within main mass (forming 40% of tumor volume)
+2. Intraductal carcinoma:
+A. Gross measurement: 4.5 cm, admixed with invasive carcinoma
+B. Type: Cribriform / Solid / Micropapillary
+C. Nuclear grade: Low / Intermediate
+D. Associated features: Necrosis / Microcalcifications / Cancerization of
+lobules
+3. Excisional biopsy margins:
+- DCIS < 2 mm from posterior (closest) margin
+- Invasive carcinoma > 4 mm from posterior (closest) margin
+4. Blood vessel and lymphatic invasion: Present
+- Present in breast parenchyma
+- Present in axillary tissue
+5. Nipple: DCIS extending into lactiferous duct
+6. Skin: uninvolved
+7. Skeletal muscle: absent
+8. Axillary lymph nodes: Positive (20/29)
+-Size of largest metastatic deposit: 12 mm
+- Extranodal extension: present (7 mm; largest focus)
+- Tumor deposits in axillary tissue (up to 5 mm)
+9. Special studies (see
+- ER: Strong expression in >90% of invasive tumor nuclei
+- PR: Strong expression in >90% of invasive tumor nuclei
+- Her2/neu antigen (FISH): Non-amplified (ratio:1.00)
+10. pTNM (AJCC, 7th edition, 2010): pT2(m), N3, MX
+Clinical History:
+The patient is a year old female, with a right breast mass (MRI: 1.3 x 0.9 x
+0.8 cm) and biopsy diagnosis of invasive ductal carcinoma undergoing right
+modified radical mastectomy.
+Specimens Received:
+A: Right breast; mastectomy
+Gross Description:
+A. The specimen is received in a single container labeled with the patient's
+name, medical record number, and additionally identified as, 'right breast'.
+Received fresh and placed in formalin is a 653 gm modified radical mastectomy
+specimen. The specimen is oriented with a short suture designating the superior
+margin and a long suture designating lateral margin. The specimen measures 18.5
+cm from superior to inferior, 22.5 cm from medial to lateral, and 3.9 cm from
+anterior to posterior. There is an attached 9.6 x 7.9 x 1.5 cm axillary tail.
+On the anterior surface is a 18.0 x 8.0 cm tannish brown ellipse of skin with a
+4.0 x 4.5 cm areola and a 1.5 x 1.4 x 0.5 cm raised nipple. The nipple-areolar
+complex reveals no evidence of ulceration or retraction.
+The specimen is inked as follows:
+superior edge - blue;
+inferior edge - green;
+posterior - black.
+The specimen is serially sectioned from medial to lateral into 11 slices to
+reveal a rubbery, irregularly shaped, white-tan, 4.5 x 3.5 x 2.5 cm mass with a
+granular cut surface in slices 3 through 5. A clip is identified in slice 3. The
+mass is 0.5 cm from the posterior margin and widely free (>2 cm) from the
+anterior superior and anterior inferiormargins. The remainder of the specimen
+consists of approximately 30% dense gray-white fibrous breast parenchyma and 70%
+lobulated yellow adipose tissue. No additional masses or nodules are grossly
+identified. Sectioning through the axillary tail reveals multiple tan-brown,
+rubbery lymph nodes ranging from 0.3-2.5 cm in greatest dimension.
+Block summary:
+A1: mass surrounding clip and closest approach to posterior margin and
+surrounding clip, slice 3
+A2: mass, slice 4
+A3: mass, slice 4
+A4: mass, slice 5
+A5: mass and biopsy site, slice 5
+A6: upper outer quadrant, slice 7
+A7: lower outer quadrant, slice 6
+A8: upper inter quadrant, slice 2
+A9: lower-inner quadrant, slice 5
+A10: skin adjacent to mass
+A11: nipple
+A12: tissue directly beneath nipple
+A13: one lymph node, sectioned
+A14: one lymph node, bisected
+A15: one lymph node, sectioned
+A16: one lymph node, bisected
+A17: one lymph node, bisected
+A18: one lymph node, bisected
+A19: two lymph nodes
+A20: two lymph nodes
+A21: three lymph nodes
+A22: three lymph nodes
+A23: one lymph node, sectioned
+A24: three lymph nodes
+A25: four lymph nodes
+A26: three lymph nodes
+Criteria
+Diagnosis Discrepancy
+f 7/10/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer tia
+CUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+2/9/1
+No

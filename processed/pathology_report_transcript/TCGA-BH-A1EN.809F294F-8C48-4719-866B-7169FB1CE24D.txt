@@ -1,0 +1,67 @@
+Procedure Date:
+Procedure Physician:
+Attending Physician/Copies To:
+ICD-0-3
+CQCF: Carcinona, ductal, was 8500/3
+Path: Carcinoma, signet ring all 8490/3
+"Site: Breast, NUS
+050.9
+1/21/11
+سر
+PATIENT HISTORY:
+* DATE OF LMP: *
+DATE OF LAST DELIVERY: *
+PRE-OP DIAGNOSIS: RT BR CA
+POST-OP DIAGNOSIS: SAME
+OPERATIVE PROCEDURE: RT SEG MAST
+CLINICAL HISTORY: *
+UUID:809F294F-8C48-4719-8668-7169FB1CE24D
+TCGA-BH-A1EN-01A-PR
+MATERIAL SUBMITTED: RIGHT SEGMENTAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+INTRAOPERATIVE 
+CONSULTATION:
+Redacted
+FROZEN SECTION: Right breast mass; portion of breast, 7.0 by 4.0 by 3.5 cm with ellipse of skin, 7.0 by 1.0
+cm. Lobulated mass, 4.0 by 2.0 by 
+2.0 cm. Margins grossly free.
+Frozen Section and Touch Prep Diagnosis: Infiltrating carcinoma with signet ring features.
+PTWAY
+DIAGNOSIS:
+RIGHT BREAST, SEGMENTAL MASTECTOMY:
+- INFILTRATING DUCT CARCINOMA, SIGNET RING TYPE, POOR NUCLEAR GRADE, 4.0 CM
+-
+CLOSEST SURGICAL MARGINS ARE SUPERIOR AND DEEP (LESS THAN 1 MM)
+- SURGICAL MARGINS ARE FREE OF TUMOR IN PLANES OF SECTION
+NOTE: ER/PR immunoperoxidase assay and Her-2/NEU will be performed on block Al.
+SUPPLEMENTALREPORT
+ER/PR
+My signature below is attestation that I have reviewed all slides and agree with the findings as noted
+below.
+IMMUNOPEROXIDASE IDENTIFICATION OF ESTROGEN AND PROGESTERONE RECEPTORS IS CARRIED OUT ON SLIDE A1. NO
+DISTINCT INTRANUCLEAR STAINING IS 
+IDENTIFIED FOR EITHER RECEPTOR. THEREFORE, BOTH ARE INTERPRETED AS
+NEGATIVE.
+SUPPLEMENTALREPORT
+HER-2/NEU
+My signature below is attestation that I have reviewed all slides and agree with the findings as noted
+below.
+c-erbB2 (HER-2/NEU) IMMUNOSTAINING IS CARRIED OUT ON BLOCK A1 (BREAST CANCER) USING A 1:300 DILUTION OF
+DAKO'S POLYCLONAL ANTIBODY A485 (
+DIRECTED AGAINST THE INTRACELLULAR DOMAIN OF c-erbB2) WITHOUT ANTIGEN
+RETRIEVAL. DISTINCT COMPLETE MEMBRANE 
+STAINING IS IDENTIFIED IN 60% OF TUMOR CELLS. THEREFORE, c-erbB2 (HER-
+2/NEU) IS INTERPRETED AS POSITIVE (SCORE 3+).
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Dat Reviewed:
+Yes
+No
+DISQUALIFIED
+☑

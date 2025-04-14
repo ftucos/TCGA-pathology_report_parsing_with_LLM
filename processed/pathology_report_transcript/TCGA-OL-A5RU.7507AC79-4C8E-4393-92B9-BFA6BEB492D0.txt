@@ -1,0 +1,203 @@
+FINAL PATHOLOGIC DIAGNOSIS
+A. Breast, left; modified radical mastectomy:
+- Invasive ductal carcinoma, SBR grade 2, see parameters
+ICD 0-3
+Carcinoma, Infiltrating
+Ductal NOS
+Site:
+- Ductal carcinoma in situ, intermediate grade, solid and cribriform types
+with associated necrosis
+-Surgical margins free of tumor
+- Biopsy site changes
+- Fourteen nodes, negative for carcinoma (0/14)
+- Nipple, areola, and skin without diagnostic abnormality
+850013
+Breast NOS
+C50.9
+JW 2/18/13
+UUID:7587AC79-4C8E-4393-92B9-BFA6BEB492D8
+TCGA-OL-ASRU-01A-PR
+Redacted
+B. Breast, right; simple mastectomy:
+- Invasive ductal carcinoma, SBR grade 2, inferior-anterior of hematoma
+cavity, see parameters
+- Extensive ductal carcinoma in situ, intermediate grade, solid type, with
+associated central necrosis
+- Anterior-inferior margin positive for invasive carcinoma.
+- Attached skeletal muscle focally infiltrated by invasive carcinoma
+(anterior-inferior)
+- Columnar cell change and adenosis
+- Intraductal papilloma
+- Nipple, areola, and skin without diagnostic abnormality
+Breast Pathologic Parameters (Part A Left Breast)
+1. Invasive carcinoma:
+A. Gross measurement: 1.9 x 1.5 x 1.5 cm
+B. Composite histologic (modified SBR) grade: II
+- Architecture: 2
+- Nuclear grade: 3
+Mitotic count: 1
+C. Associated intraductal carcinoma in situ (DCIS):
+- Within main mass (forming 10% of tumor volume)
+- Extending away from main lesion
+2. Intraductal carcinoma:
+A. Gross or microscopic (specify) measurement: (5.2 cm, spanning 4 slices)
+B. Type: Cribriform and Solid
+C. Nuclear grade: Intermediate
+D. Associated features: Necrosis
+3. Excisional biopsy margins: Free of tumor
+- DCIS 4 mm from posterior margin
+- Invasive carcinoma 5 mm from posterior (closest) margin
+4. Blood vessel and lymphatic invasion: Not identified
+5. Nipple: unremarkable
+6. Skin: uninvolved
+7. Skeletal muscle: Focally present, negative for tumor
+8. Axillary lymph nodes: In combination with previous sentinel lymph node biopsy
+(see
+One of fifteen nodes positive for carcinoma (1/15)
+-Size of largest metastatic deposit: 18 mm
+Extranodal extension: present (2 mm; largest focus)
+9. Special studies (see
+ER: Positive expression in >95% of invasive tumor nuclei
+- PR: Positive expression in 80% of invasive tumor nuclei
+- Her2/neu antigen (FISH): Non-amplified (1.02)
+10. pTNM (AJCC, 7th edition, 2010): pT1cN1MX
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Breast Pathologic Parameters (Part B Right Breast)
+1. Invasive carcinoma:
+A. Microscopic measurement: 1.5 cm
+B. Composite histologic (modified SBR) grade: Il
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic count: 1
+C. Associated intraductal carcinoma in situ (DCIS):
+Within main mass (forming 50 % of tumor volume)
+- Extending away from main mass
+2. Intraductal carcinoma:
+A. Microscopic measurement: 6.1 cm, spanning over 5 slices, involving lower
+inner and upper inner quadrants and extending anteriorly towards nipple
+B. Type: Solid
+C. Nuclear grade: Intermediate
+D. Associated features: Necrosis and cancerization of lobules
+3. Excisional biopsy margins: Positive
+- DCIS >3 mm from posterior and inferior (closest) margins
+- Invasive carcinoma at inferior-anterior margin with infiltration of
+attached skeletal muscle.
+4. Blood vessel and lymphatic invasion: Suspicious
+5. Nipple: unremarkable; DCIS noted 5 mm from areolar complex
+6. Skin: uninvolved
+7. Skeletal muscle: Focus attached inferior-anterior infiltrated by carcinoma.
+8. Axillary lymph nodes: Negative (Two sentinel nodes, negative for carcinoma
+(0/2), see
+9. Special studies (see
+-
+ER: Strong expression in >90% of invasive tumor nuclei
+- PR: Strong expression in >90% of invasive tumor nuclei
+- Her2/neu antigen (FISH): Non-amplified (1.04)
+10. pTNM (AJCC, 7th edition, 2010): pT1cNO(sn)MX (pending review of imaging)
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Clinical History:
+The patient is a
+undergoing left modified radical mastectomy and right simple mastectomy.
+year old female with malignant neoplasm of the breast
+bilateral
+ductal carcinoma
+Comment
+B. Stains for CKAE1/AE3 and myosin-heavy chain support extension of invasive
+carcinoma into skeletal muscle at the inferior-anterior aspect of the breast.
+Findings were discussed with
+Specimens Received:
+A: Left modified radicalmastectomy; mastectomy
+B: Right simple mastectomy; partial mastectomy
+Gross Description:
+Received are two containers, each labeled with the patient's name and medical
+record number.
+A. Container A is further designated '1. Left modified radicalmastectomy;
+mastectomy.' The radiographic findings for this breast include an irreglarly
+shaped mass measuring 1.4 x 1.2 x 1.9 cm and areas of heterogenous kinetics with
+washout. The total extent of the abnormal enhancing is 2.8 x 2.3 x 1.9 cm.
+Received fresh and placed in formalin is a 468 gram mastectomy specimen
+measuring 14.5 cm from medial to lateral, 17.5 cm from superior to inferior and
+3.7 cm from anterior to posterior. It has an axillary tail measuring 11 x 6.5 x
+1.5 cm. The skin measures 13.2 x 5 cm and an nipple areola complex measuring 3 x
+2.7 cm and a nipple measuring 1 x 1 cm. The specimen is inked as follows:
+posterior black, anterior-superior yellow, anterior-inferior green. It is
+sliced into 11 slices to reveal a lesion that is present from slices 6 to 8 and
+the lesion measures 1.9 x 1.5 cm and has a medial to lateral dimension of 1.5
+cm. It focally abuts the deep margin and is 3 cm from the inferior margin and 9
+cm from the superior margin. No other lesions or masses are identified. A
+number of lymph node candidates are identified in the axillary tail, the largest
+of which measures 2.5 x 2 x 1.8 cm. This large lymph node is sectioned to
+reveal a central area of necrosis.
+Block Summary:
+A1-A3: lesion from slice 6
+A2: superior to lesion
+A3: inferior to lesion
+A4: lesion in slice 7
+A5: lesion in slice 8
+A6: slice 5 next to lesion
+A7: slice 9 next to lesion
+A8: skin and nipple
+A9: areola
+A10: upper-inner quadrant from slice 2
+A11: lower-inner quadrant from slice 4
+A12: upper-outer quadrant from slice 7
+A13: lower-outer quadrant from slice 7
+A14: three lymph node candidates
+A15: three lymph node candidates
+A16: three lymph node candidates
+A17: three lymph node candidates
+A18: one lymph node candidate
+A19: one lymph node candidate
+A20-A21: largest lymph node candidate bisected
+A22-A25: additional representative sections of axillary fat
+B. Container B is further designated '2. Right simple mastectomy;
+partial mastectomy.' Received fresh and placed in formalin is a 350 gram
+mastectomy specimen measuring 17 cm from medial to lateral, 13.5 from superior
+to inferior, and 2.5 cm from anterior to posterior. There is a skin ellipse
+measuring3 x 3.5 cm and an areola measuring 2.5 x 2.7 cm and a nipple measuring
+1 x 1 cm. It is sliced into 14 slices in which there is a hematoma cavity
+measuring 1.5 x 1.5 x 3.1 cm found in slices 3, 4, 5 and 6. The cavity has a rim
+of white-tan, firm tissue around it and the cavity is 1.1 cm from the deep
+margin and 0.6 cm from the inferior margin. Also note that the deep margin is
+inked red, the anterior-superior margin is inked blue and the anterior-inferior
+margin is inked green. No other lesions or masses are identified.
+Block Summary:
+B1: lesion in slice 3
+B2: superior to B1
+B3: lesion in slice 4
+B4: superior to B3
+B5: lesion in slice 5
+B6: superior to B5
+B7: lesion in slice 6
+B8: superior to B7
+B9: slice 7 adjacent to lesion
+B10: slice 2 adjacent to lesion
+B11: upper-outer quadrant in slice 12
+B12: lower-outer quadrant in slice 11
+B13: upper-inner quadrant in slice 5
+B14: lower-inner quadrant in slice 6
+B15: skin and nipple
+B16: areola
+The specimen is inked as follows: posterior red, anterior-superior blue,
+anterior inferior green.
+The tissue is fixed for at least six hours in NBF and no more than 72 hours.
+hir 2/10/13
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted 2+ breast
+Case is (circ
+Reviewer initia
+Yes
+No
+QUALIFIED
+DISQUALIFIED
+_Date Reviewed:

@@ -1,0 +1,381 @@
+Clinical Diagnosis & History:
+y/o female with biopsy proven left ILC at
+mastectomy and SLN/possible ALND.
+Specimens Submitted:
+1: SP: Sentinel node #231,
+2: SP: Sentinel node #232,
+3: SP: Sentinel node #233,
+4: SP: Sentinel node #234,
+5: SP: Left breast (sr)
+level 1, left axilla (fs)
+level 2, left axilla (fs)
+level 2, left axilla (fs)
+level 1, left axilla (fs)
+6: SP: Non-sentinel node level 1, left axilla
+7: SP: Left axillary contents level 1
+8: SP: Left axillary contents level 2 and tag
+Scheduled for left total
+UUID:EB9B6625-6674-4665-9BEE-D4DFD9366A02
+TCGA-A0-A0]]-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+2)
+3)
+4)
+5)
+-
+LYMPH NODE, SENTINEL #1 LEVEL I LEFT AXILLA; BIOPSY:
+METASTATIC MAMMARY CARCINOMA INVOLVING ONE OF ONE LYMPH NODE (1/1).
+- NO EXTRANODAL TUMOR EXTENSION IS PRESENT.
+-
+-
+LYMPH NODE, SENTINEL #2 LEVEL II LEFT AXILLA; BIOPSY:
+ONE BENIGN 
+LYMPH NODE (0/1).
+LYMPH NODE, SENTINEL #23 LEVEL II LEFT AXILLA; BIOPSY:
+ONE BENIGN 
+LYMPH NODE (0/1).
+LYMPH NODE, SENTINEL #4 LEVEL I LEFT AXILLA; BIOPSY:
+ONE 
+BENIGN LYMPH NODE (0/1).
+BREAST, LEFT; MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, DIFFUSELY INVOLVING THE
+SUBMITTED 
+TISSUE SECTIONS. THE 
+LARGEST DIMENSION OF THE INVASIVE CARCINOMA
+CANNOT BE ACCURATELY DETERMINED 
+BECAUSE OF ITS DIFFUSE NATURE, BUT BASED ON
+GROSS EXAMINATION IT IS ESTIMATED 
+THAT THE INVASIVE CARCINOMA SPANS AN AREA
+OF ABOUT 4.5 CM.
+-
+THE BASE OF THE NIPPLE IS ALSO INVOLVED BY INVASIVE LOBULAR CARCINOMA.
+- LOBULAR CARCINOMA IN SITU (LCIS).
+-
+-
+MICROCALCIFICATIONS ARE PRESENT IN BENIGN (ENTRAPPED) BREAST PARENCHYMA.
+LYMPHOVASCULAR INVASION IS 
+PRESENT.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY CARCINOMA IS IDENTIFIED.
+** Continued on next page **
+ICB-0-3
+carcinoma, infiltrating lobular, Nos
+Site: breast, Nos C50.9 hw
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Disc:epancy
+Prior Malignancy History
+Jual/Synchi onous Primary Noted
+Case is (circle):
+UALIFIED
+Reviewer Initials
+Yes
+852013
+10/24/11
+1 DISQUALIFIED
+Date Reviewed: t
+16/24/4
+- SKIN WITH SCAR.
+Page 2 of 6
+- THE REMAINING NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES AND
+POCAL DUCTAL HYPERPLASIA 
+WITH FOCAL ATYPIA.
+ONE AXILLARY LYMPH NODE IS POSITIVE FOR METASTATIC MAMMARY CARCINOMA
+(1/1
+). - NO EXTRANODAL 
+TUMOR EXTENSION IS PRESENT.
+RESULTS OF IMMUNOHISTOCHEMICAL STAINS ARE AS FOLLOWS:
+ER: 95% NUCLEAR STAINING WITH STRONG INTENSITY
+PR: 70% NUCLEAR STAINING WITH MODERATE TO STRONG INTENSITY
+HER-2/
+NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 0)
+6)
+7)
+8)
+-
+-
+-
+LYMPH NODE, NON-SENTINEL LEVEL I LEFT AXILLA; BIOPSY:
+ONE 
+BENIGN LYMPH NODE (0/1).
+LYMPH NODES, LEFT AXILLARY CONTENTS LEVEL I; DISSECTION:
+TWENTY
+-TWO BENIGN LYMPH NODES (0/22).
+LYMPH NODES, LEFT AXILLARY CONTENTS LEVEL II; DISSECTION:
+SIXTEEN 
+BENIGN LYMPH NODES (0/16).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER 
+MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Gross Description:
+Special Stain
+RECUT
+ER-C
+PR-C
+HER2-C
+NEG CONT
+IMM RECUT
+NEG-HER2
+RECUT
+Comment
+1)
+The specimen is received fresh and is labeled "Sentinel node #31 level
+1 axilla" and consists of one lymph node measuring 1.5 x 0.8 × 0.4 cm.
+Bisected and entirely 
+submitted for frozen section.
+Summary of sections:
+FSC
+-
+frozen section control
+2)
+The specimen is received fresh, labeled "Sentinel node #32 level 2
+left axilla
+" and consists 
+of one lymph node measuring 0.8 x 0.5 x 0.3 cm.
+** Continued on next page **
+Entirely submitted for frozen section.
+Summary of sections:
+FSC - frozen section control
+Page 3 of 6
+3)
+' M.D.
+The specimen is received fresh, labeled "Sentinel node #3 level 2
+left axilla
+" 
+and consists of one lymph node measuring 1.0 x 0.5 x 0.3 cm.
+Entirely submitted for frozen 
+section.
+Summary of sections:
+FSC
+"
+frozen section control
+'
+M.D.
+4)
+The specimen is received fresh and is labeled "Sentinel node #4 level
+1 left axilla" and consists of a lymph node measuring 1.5 × 0.5 x 0.4 cm.
+Entirely submitted for 
+frozen section.
+Summary of sections:
+FSC - frozen section control
+M.D.
+5)
+The
+The
+The specimen is received fresh labeled, "Left breast, stitch marked
+axillary 
+tail" and consists 
+of a breast with attached axillary tail.
+breast measures 
+35.5 x 24.0 x 3.8 cm with overlying skin ellipse measuring
+13.5 x 7.5 cm. Situated 
+centrally on the skin surface is an unremarkable
+nipple measuring 1.2 x 
+1.2 x 0.8 cm and areola measuring 3.9 x 3.9 cm.
+skin shows a linear 
+scar measuring 8.0 cm, situated vertically near the
+nipple. A suture demarcates 
+the axillary tail which measures 4.5 x 3.5 x
+3.5 cm. Sectioning the 
+breast reveals a biopsy cavity, measuring 4.2 x 3.5
+x 4.0 cm with a fibrotic area superior 
+to the cavity. One ill-defined tan
+mass is present, 
+measuring 4.5 x 4.5 x 2.7 cm, located lateral to the nipple
+in UOQ and 3.5 cm from the 
+deep surgical margin.
+tissue shows unremarkable intermingling of fatty and fibrotic areas.
+The 
+remaining 
+breast
+axillary 
+tissue is dissected to reveal one lymph node, measuring 1.1 x 0.5 x
+0.5 cm. Representative sections 
+are submitted.
+submitted to
+A portion of tumor is
+Summary of sections:
+N - nipple
+NB nipple base
+The
+S
+-
+skin scar
+D
+deep margin
+T
+tumor
+UIQ - upper inner quadrant
+LIQ lower inner quadrant
+UOQ - upper outer quadrant
+LOQ
+lower outer quadrant
+LNS lymph node
+**Continued on next page **
+Page 4 of 6
+6)
+M.D.
+The specimen is received in formalin is labeled "Non-sentinel node
+level 1 
+left 
+axilla" and consists of a tan soft lymph node measuring 1.0 x
+1.0 × 0.7 cm. 
+Entirely submitted.
+Summary of sections:
+LN- lymph node (bisected)
+'
+M.D.
+7)
+The specimen is received in formalin and is labeled "Left axillary
+contents 
+level 1" 
+and consists of multiple lymph nodes and fat measuring 8.0
+× 7.0 x 1.1 cm 
+in aggregate. The lymph nodes measure from 0.2 cm to 3.0 cm
+in greatest dimension. 
+The lymph nodes are entirely submitted.
+Summary of sections:
+BLN1
+BLN2
+LN-
+bisected lymph node
+bisected lymph node
+lymph nodes
+.
+M.D.
+8)
+The specimen is received in formalin labeled "Left axillary contents
+level 2 
+and tag
+" and consists of multiple lymph nodes and attached fat
+measuring 5.0 x 
+4.0 x 0.6 cm. The lymph nodes measure from 0.3 cm to 0.5 cm
+in greatest dimension. 
+The lymph nodes are entirely submitted.
+Summary of sections:
+LN - lymph nodes
+Summary of Sections:
+Part 1:
+SP: Sentinel node #1, level 1, left axilla (fs)
+Block
+1
+Sect. Site
+Esc
+PCs
+1
+Part 2: SP: Sentinel node #232, level 2, left axilla (fs)
+Block
+1
+Part 3:
+Block
+1
+Part 4:
+Sect. Site
+Esc
+РСв
+1
+SP: Sentinel node #33, level 2, left axilla (fs)
+Sect. Site
+fsc
+PCs
+1
+SP: Sentinel node #4, level 1, left axilla (fs)
+** Continued on next page **
+Block
+1
+Sect. Site
+fsc
+PCS
+1
+Part 5: SP: Left breast
+Block
+1225
+5
+2
+2
+Part 6:
+Block
+1
+Part 7:
+Block
+2
+2
+6
+Part 8:
+Block
+3
+Sect. Site
+dm
+PCs
+1
+liq
+2
+Ins
+1
+log
+2
+n
+1
+nb
+sk
+t
+uig
+uoq
+1
+1
+5
+2
+2
+SP: Non-sentinel node level 1, left axilla
+Sect. Site
+in
+PCs
+1
+SP: Left axillary contents level 1
+Sect. Site
+blnl
+bln2
+In
+PCs
+2
+2
+6
+SP: Left axillary contents level 2 and tag
+Sect. Site
+In
+PCa
+3
+Page 5 of 6
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+1)
+FROZEN SECTION DIAGNOSIS
+PERMANENT DIAGNOSIS:
+METASTATIC CARCINOMA.
+SAME
+2)
+FROZEN SECTION DIAGNOSIS
+NO CARCINOMA IDENTIFIED.
+PERMANENT DIAGNOSIS:
+SAME
+3)
+FROZEN SECTION DIAGNOSIS
+NO CARCINOMA IDENTIFIED.
+PERMANENT DIAGNOSIS:
+SAME
+4)
+FROZEN SECTION DIAGNOSIS
+PERMANENT DIAGNOSIS:
+NO CARCINOMA IDENTIFIED.
+SAME
+** Continued on next page **
+End of Report
+**
+Page 6 of 6

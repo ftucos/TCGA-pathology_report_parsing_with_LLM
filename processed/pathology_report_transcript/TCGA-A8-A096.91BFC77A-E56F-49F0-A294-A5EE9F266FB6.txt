@@ -1,0 +1,25 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos C50.9
+1/25/11
+?
+Diagnosis:
+1. Moderately differentiated invasive ductal carcinoma (tumor diameter 4.0 cm).
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G II, pT2N0i+(sn)LOVORO.
+UUID:91BFC77A-E56F-49F0-A294-A5EE9F266FB6
+TCGA-A8-A096-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Roted
+Case Is (rcle):
+Reviewer ni
+QUALIFIED
+Date Reviewed:
+Redacted
+Yes
+NO
+DISQUALIFIED

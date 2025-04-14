@@ -1,0 +1,158 @@
+MRN:
+Age:
+DOB:
+Sex:
+UUID:F6CFE506-16BA-475A-A81F-1AC4B2EFE24A
+TCGA-AC-A2FB-01A-PR
+Redacted
+Histopathological Examination
+Path#:
+Collected:
+Pre-Op Diagnosis :
+Order Physician
+Specimens
+:
+Frozen Diagnosis :
+Report
+carcinoma, infiltrating
+/CD-0-3
+Site: breast NOS
+lobular, Nos 8520/3
+050.9
+سر
+16/10/11
+Surgical Pathology
+Received:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary NoteƠ
+Case is (circle);
+Reviewer leitials
+1 Complete:
+QUALIFIED
+Date Reviewed:
+6/10/11
+Yes
+DISQUALIFIED
+10/3/11
+Absence of Breast, Personal History Of Breast Cancer
+MD
+-
+Pr
+: Breast, left simple mastectomy for expo study. Suture 7×7
+marking margins: long-lateral, short-superior
+Lymph Node, Sentinel left axillary
+: GROSS EXAMINATION:
+A. The specimen is received in a container labeled with the
+name of the patient and identified as breast, left simple
+mastectomy. The specimen consists of a mastectomy measuring
+en bloc 11.5 x 9.5 x 4 cm and weighing 158 grams. There is
+an anterior ellipse of skin measuring 6 x 3 cm with a
+central 3 cm areolar complex with retracted nipple. Sections
+of nipple/areola are sampled in block 1. The skin is
+sampled in block 2. The superficial superior margin is
+inked orange and the superficial inferior margin is inked
+blue. The deep margin is inked green and the specimen
+sectioned, showing an oval grey-tan firm mass measuring 2.8
+cm in the upper inner quadrant of the breast. Grossly, this
+mass is 0.4 cm from the inked deep margin of resection,
+which is submitted in block 3. Sections of the mass are
+submitted in blocks 4-7. The remaining breast is composed
+of yellow lobulated adipose tissue admixed with islands of
+gray-white rubbery tissue. The breast is divided into four
+quadrants, upper inner, lower inner, upper outer and lower
+outer and sampled in blocks 8-11 respectively. Minimal
+axillary tissue is present and no lymph nodes are
+identified.
+Formalin fixation time is 11 hours.
+B. The specimen is received in a container labeled with the
+name of the patient and identified as lymph axillary
+sentinel node.
+Specimen Size: 1.8 x 1.5 x 1 cm
+No. of Nodes: 1
+Size of Nodes: 1.8 cm
+The specimen is sectioned and entirely submitted.
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE LAW. UNAUTHORIZED DISCLOSURE, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #: 1
+Visit #:
+Page 1
+of 3
+1
+DIAGNOSIS BASED ON GROSS AND MICROSCOPIC EXAMINATION:
+left,
+mastectomy:
+Breast loomartinmay pleomorphic variant,
+Nottingham grade 2, 2.8 cm (see cancer case summary
+checklist below).
+B. Lymph node, left axillary sentinel, excision:
+-
+One lymph node, no tumor present (0/1).
+MACROSCOPIC
+SPECIMEN TYPE: Mastectomy.
+LYMPH NODE SAMPLING: Sentinel lymph node only.
+LATERALITY: Left.
+TUMOR SITE: Upper inner quadrant.
+MICROSCOPIC
+SIZE OF INVASIVE COMPONENT:
+Greatest dimension: 2.8 cm (based on gross tumor size).
+HISTOLOGIC TYPE: Invasive lobular adenocarcinoma
+pleomorphic variant.
+HISTOLOGIC GRADE:
+NOTTINGHAM HISTOLOGIC SCORE
+Tubule formation: Minimal less than 10% (score=3)
+Nuclear pleomorphism: Moderate increase in size, ect.
+(score=2)
+Mitotic count for a 40 x objective with a field area of
+0.152 mm: 0-5 mitoses per 10 HPF (score=1)
+Total Nottingham Score: Grade 2 (6-7 points)
+EXTENT OF INVASION
+PRIMARY TUMOR (PT): pT2: Tumor more than 2.0 but not more
+than 5.0 cm in greatest dimension.
+REGIONAL LYMPH NODES (PN): PNO: No regional lymph node
+metastasis histologically (i.e. none greater than 0.2 mm),
+no additional examination for isolated tumor cells.
+Number examined: 1
+Number involved 0
+DISTANT METASTASIS (PM): PMX: Cannot be assessed.
+MARGINS: Uninvolved by invasive carcinoma.
+Distance of carcinoma from closest margin: 4 mm (deep
+margin).
+VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L): Absent.
+MICROCALCIFICATIONS: Present in non-neoplastic tissue.
+ADDITIONAL PATHOLOGIC FINDINGS:
+Proliferative fibrocystic changes with ductal hyperplasia,
+columnar cell change, sclerosing adenosis (confirmed by
+presence of p63 positive myoepithelial cells surrounding
+epithelial structures, with appropriate controls), apocrine
+metaplasia, and associated microcalcifications.
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE LAW. UNAUTHORIZED DISCLOSURE, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #:
+Visit #:
+Page 2
+of 3
+I
+Prior opsy site.
+COMMENT:
+Estrogen and progesterone receptors and Her2neu studies were
+performed on the prior biopsy 1
+with results of
+estrogen receptor 2+, progesterone receptor 3+, and HER2/neu
+3+. E cadherin, also performed on the prior biopsy, was
+negative, confirming a lobular phenotype.
+Intradepartmental consultation obtained.
+Results communicated to
+Pathologist
+Electronically Signed by:
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE LAW. UNAUTHORIZED DISCLOSURE, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #:
+Visit #:
+Page 3 of 3

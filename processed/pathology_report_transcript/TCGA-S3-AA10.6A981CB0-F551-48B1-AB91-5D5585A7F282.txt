@@ -1,0 +1,214 @@
+UUID:6A981CB0-F551-48B1-AB91-5D5585A7F282
+TCGA-S3-AA10-01A-PR
+Redacted
+Page 1 of 4
+Surgical Pathology Final Report
+Temporary Copy
+Case:
+Collected:
+Ordered by:
+Diagnosis
+A. RIGHT BREAST, MASTECTOMY:
+-
+Patient
+ID
+Location:
+HIGH-GRADE INVASIVE DUCTAL CARCINOMA; SEE SYNOPTIC REPORT
+- NEGATIVE MARGINS
+- SKIN AND NIPPLE WITHOUT SIGNIFICANT PATHOLOGIC ABNORMALITY
+- FOUR LYMPH NODES, NEGATIVE FOR TUMOR (0/4); SEE SPECIAL STAINS
+(Electronic signature)
+Verified:
+Synoptic Report
+Carcinoma
+ICD-0.3
+Nos
+ma infillating duct 18.
+Site Breast NOS (50.9
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA:
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.5 cm
+Additional dimensions: 2.5 x 1.5 cm
+TUMOR FOCALITY:
+Single focus of invasive carcinoma
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Nipple: DCIS does not involve the nipple epidermis
+Skeletal Muscle: Skeletal muscle is present and is free of carcinoma
+DUCTAL CARCINOMA IN SITU (DCIS):
+No DCIS is present
+LOBULAR CARCINOMA IN SITU (LCIS):
+Not identified
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive ductal carcinoma (no special type or not otherwise specified)
+GLANDULAR (ACINAR)/TUBULAR DIFFERENTIATION:
+Score 3: <10% of tumor area forming glandular/tubular structures
+NUCLEAR PLEOMORPHISM:
+Rath
+® Pract
+ype-outer
+quadrant Co0.4
+JJ 2/24/14
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape,
+occasionally with very large and bizarre forms
+MITOTIC COUNT:
+Score 3
+Number of mitoses per 10 high-power fields: 88
+Diameter of microscope field: 0.55 mm
+OVERALL GRADE:
+Grade 3: scores of 8 or 9
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Distance from anterior margin: 4.0 mm
+Distance from posterior margin: 2.0 mm
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE BREAST:
+No known presurgical therapy
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE LYMPH NODES:
+No known presurgical therapy
+LYMPH-VASCULAR INVASION:
+Not identified.
+Surgical Pathology Final Report
+Temporary Copy
+Case:
+Collected:
+Patient
+ID
+Location:
+Page 2 of 4
+Ordered by:
+Not identified
+DERMAL LYMPH-VASCULAR INVASION:
+LYMPH NODES:
+Total number of lymph nodes examined (sentinel and nonsentinel): 4
+Number of lymph nodes with macrometastases (>0.2 cm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+METHOD OF EVALUATION OF SENTINAL LYMPH NODES:
+Hematoxylin and eosin (H&E), one level
+Immunohistochemistry
+PRIMARY TUMOR (INVASIVE CARCINOMA (pT):
+pT2: Tumor >20 mm but less than or equal to 50 mm in greatest dimension
+REGIONAL LYMPH NODES (pN):
+pN0: No regional lymph node metastasis identified histologically
+DISTANT METASTASIS (M):
+Not applicable
+ADDITIONAL PATHOLOGIC FINDINGS:
+Benign breast with calcifications
+ESTROGEN RECEPTOR:
+Performed on this specimen
+No immunoreactive tumor cells present
+PROGESTERONE RECEPTOR:
+Performed on this specimen
+No immunoreactive tumor cells present
+HER2/NEU IMMUNOPEROXIDASE STUDIES:
+Performed on this specimen
+Negative (Score 0)
+MICROCALCIFICATIONS:
+Present in non-neoplastic tissue
+Specimen Source
+A RT Breast and Axillary Contents
+Clinical Information
+None
+PRE-OP DIAGNOSIS: Right breast CA
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Right modified mastectomy
+Gross Description
+The specimen is labeled "RIGHT BREAST AND AXILLARY CONTENTS" and is received unfixed (the
+specimen is in formalin for more than 6 hours and less than 48 hours). It consists of a 420 g right mastectomy
+with axillary contents weighing 420 g measuring 18 x 10 x 3.0 cm. The axillary content measures 6.0 x 5.5 x 3.0
+cm. The nipple is unremarkable measures 1.3 x 1.3 cm in maximum dimensions. Solar is unremarkable. The left
+fascia is smooth and glistening. The anterior margin is inked red and the deep posterior margin is inked black.
+On sectioning, there is a well-circumscribed lobulated focally hemorrhagic pink-tan mass measuring 2.5 x 2.5 x
+1.5 cm. The mass is close to the deep posterior margin in the outer quadrant close to the axillary contents. The
+mass is 0.7 cm from the anterior margin and approximately 12 cm from the nipple. On further sectioning the
+breast parenchyma is nodular, there are no other lesions grossly identified. There are four fatty lymph nodes
+Surgical Pathology Final Report
+Temporary Copy
+Case
+Collected:
+Ordered by:
+Patient
+ID
+Location:
+ranging from 0.5-2.0 cm in maximum dimensions. Representative sections are submitted.
+Section Key:
+A1 A2 tumor markers with deep margin
+A3 - tumor
+A4 nipple and skin
+-
+A5 anterior margin close to mass
+-
+A6 - upper inner quadrant
+A7 - lower inner quadrant
+A8 - random sections from central breast
+A9 - upper outer quadrant
+A10 lower outer quadrant
+All one lymph node bisected
+A12-one lymph node bisected
+A13-two lymph nodes
+Time specimen was removed from the patient (procedure time):
+Time specimen was placed in formalin:
+Ischemic time: 1 hour 20 minutes
+Page 3 of 4
+Dictated by:
+Special Stains / Slides
+IMMUNOHISTOCHEMICAL EVALUATION OF ESTROGEN RECEPTORS, PROGESTERONE
+RECEPTORS, AND HER-2NEU IN INVASIVE MAMMARY CARCINOMA.
+ESTROGEN RECEPTORS: 0 %, NEGATIVE.
+PROGESTERONE RECEPTORS: 0 %, NEGATIVE.
+STAINING INTENSITY:
+HER-2NEU: SCORE 0, NEGATIVE.
+Immunohistochemical studies were performed on formalin fixed paraffin embedded tissue (Block A2) using the
+following monoclonal antibodies: Estrogen receptor (Clone SP1), Progesterone receptor (Clone 1E2) and
+Her-2neu (
+Clone 4B5); control sections for HER-2Neu are provided within a kit (score 0 MCF-7, score
+1+ T-47D, score 2+ MDA-MB-453, score 3+ BT-474). Detection system used: polymer. Primary antibodies,
+reagents and control sections for HER-2neu are all provided by
+All controls show appropriate reactivity.
+Reactivity of Estrogen and Progesterone receptors is determined based on the percentage of positively
+stained nuclei of tumor cells. Reference values (CAP accreditation program checklist 2010 and guidelines on
+webpage):
+Positive: nuclear staining in 1% or greater than 1% of invasive carcinoma cells
+Negative nuclear staining in less than 1% of invasive carcinoma cells
+Staining intensity: is reported as weak, moderate or strong.
+Surgical Pathology Final Report
+Temporary Copy
+Case:
+Collected:
+Ordered by:
+Patient
+ID:
+Location:
+Page 4 of 4
+HER-2neu reactivity is reported applying the CAP scoring guidelines (CAP accreditation program checklist
+2010 and guidelines on webpage):
+Score 0
+Negative: No immunoreactivity, or faint weak immunoreactivity in <10% of tumor cells but only a
+portion of the membrane is positive..
+13
+Score 1 = Negative: Faint weak immunoreactivity in 10% or 10% of tumor cells but only a portion of the
+membrane is positive.
+Score 2+= Equivocal: Weak to moderate complete membrane immunoreactivity in >10% of tumor cells or
+circumferential intense membrane staining in <30% of cells.
+Score 3+= Positive: More than 30% of the tumor cells must show circumferential intense and uniform
+membrane staining. A homogeneous (chicken wire) pattern should be present.
+Equivocal results for HER-2neu (Score 2+) will be subsequently followed by a reflex dual-color ISH testing.
+Additional immunohistochemical studies fpr AE1/AE3 were performed on formalin fixed, paraffin-embedded
+tissue (Blocks A11-13) with adequate positive and negative control sections. All stains were negative.
+The performance characteristics of these antibodies were determined by the
+They have not been cleared or approved by the U.S. Food
+and Drug Administration. The FDA has determined that such clearance or approval is not necessary. These tests are used for clinical
+purposes. They should not be regarded as investigational or for research. This laboratory is certified under the Clinical Laboratory
+Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+Tissue Code
+Criteri
+/w 12/16/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary M
+Case is (circle):
+QUALIFIED
+DISQUALIFIED
+Reviewer Initials TH Date Reviewed: 12/11/2013

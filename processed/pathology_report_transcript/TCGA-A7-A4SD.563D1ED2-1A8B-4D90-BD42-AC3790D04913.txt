@@ -1,0 +1,105 @@
+UUID:563D1ED2-1A8B-4090-BD42-AC3790004913
+TCGA-A7-A4SD-01A-PR
+Redacted
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Sentinel lymph node #1, excision:
+No evidence of metastasis in 3 lymph nodes (0/3).
+Sentinel lymph node #2, excision:
+B.
+C.
+No evidence of metastasis in 3 lymph nodes (0/3).
+Right breast, mastectomy:
+Infiltrating ductal carcinoma, grade 3, 4.3 cm greatest dimension,
+surgical margins negative but close (0.4 cm, deep).
+Microscopic Description:
+Microscopic examination performed.
+A. B. sections of sentinel lymph nodes 1 and 2 demonstrate no
+evidence in 3 lymph nodes in each specimen. The lymph nodes were
+examined by multilevel sectioning with H&E staining as well as by
+histochemistry for pankeratin.
+C.
+Invasive Carcinoma: present
+Histologic type: infiltrating ductal cancer
+Histologic grade:
+Overall grade: 3
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (PT): 4.3 cm, pT2
+Specimen margins: negative, 0.4 cm to deep margin
+Vessel invasion: not identified
+Calcification: not identified
+Ductal carcinoma in situ: not identified
+Specimen
+A.
+Sentinel node #1
+B.
+Sentinel node #232
+C. Right mastectomy, arrow points up
+Clinical Information
+Right breast cancer
+Intraoperative Consultation
+ICD-003
+Carcinoma, infiltrating duct, NUS
+850013
+Site: breast, Nos C50.9
+lu
+10/27/12
+AFS1-AFS3: Sentinel lymph node #1, excision - No metastasis identified
+in 3 nodes.
+BFS1-BFS3: Sentinel lymph node #2, excision - No metastasis identified
+in 3 nodes.
+Gross Description
+A. Container a is labeled with the patient's name, medical record
+number and "sentinel node". The specimen container holds 3 lymph nodes
+ranging in size from 1.5 x 1 x 1.5 cm to 0.6 x 0.5 x 0.4 cm. AFS 1,
+AFS 2 one lymph node bisected AFS 332 lymph nodes
+B. Container B. is labeled with the patient's name, medical record
+Per Dr.
+this should be
+number and "palpable nodule right axilla".
+regarded as such libido for to. The specimen container holds 3
+separate lymph nodes. Each lymph node is bisected and submitted in one
+block,
+The
+The
+C. Received fresh and subsequently placed in formalin at
+labeled "right mastectomy" is a 27.0 cm (superior to inferior) by 26.0
+cm (medial to lateral) by 6.5 cm (anterior to posterior) diffusely
+cauterized soft, lobulated tan-white-gold portion of fibroadipose
+tissue in keeping with breast. A 23.5 x 10.0 cm wrinkled brown skin
+ellipse with a central, 1.1 x 1.1 x 0.7 cm nipple is present along the
+anterior aspect. A palpable nodular mass corresponds to the lower
+inner quadrant and the anteroinferior surface is inked orange.
+intact deep margin is inked blue and the specimen is sectioned.
+after mentioned palpable mass is well-circumscribed glistening
+tan-white and rubbery, measuring 4.3 cm (medial to lateral) by 3.8 cm
+The tumor
+(anterior to posterior) by 3.1 cm (superior to inferior).
+extends to within 0.4 cm of the inked deep margin and 1 cm of the
+anteroinferior inked surface. Several cylindrical firm tan-white
+structures are associated with the lesion. A portion of the lesion and
+a portion of normal parenchyma are submitted for tissue procurement as
+requested. The remaining soft, lobulated tan gold adipose tissue with
+No
+a scant amount of interspersed delicate tan-white fibrous tissue.
+RS 12
+additional mass lesion or abnormality is identified grossly.
+Summary: 1 through 3 - tumor to inked deep margin, 4 and 5 - tumor to
+inked anteroinferior margin, 6 - tumor to normal parenchyma, 7 - random
+lower inner
+upper outer quadrant, 8 - upper inner quadrant, 9
+quadrant, 10 - lower outer quadrant, 11 - junction of the 4 quadrants,
+12 - nipple
+-
+let'
+Discrepancy
+ory Noted
+QUALIFIED
+De Reviewed:
+DE QUAL FIEL
+-Yes
+No
+10177/12

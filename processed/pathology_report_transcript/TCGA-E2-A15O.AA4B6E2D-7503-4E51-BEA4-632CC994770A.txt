@@ -1,0 +1,213 @@
+TSS
+ICD-0-3
+Carcinoma, infiltrating duct, NOS
+850013
+12/8/10
+سل
+Site Code breast, Nos c 50.9
+SPECIMENS:
+A. WLE RIGHT BREAST NEEDLE LOC.
+B. ADDITIONAL MARGIN RIGHT BREAST
+C. WLE LEFT BREAST NEEDLE LOCALIZATION
+SPECIMEN(S):
+A. WLE RIGHT BREAST NEEDLE LOC.
+B. ADDITIONAL MARGIN RIGHT BREAST
+C. WLE LEFT BREAST NEEDLE LOCALIZATION
+GROSS DESCRIPTION:
+A. WLE RIGHT BREAST NEEDLE LOC.
+UUID:AA4B6E2D-7503-4E51-BEA4-632CC994770A
+TCGA-E2-A150-01A-PR
+Redacted
+Received fresh labeled with the patient's identification and "WLE right breast needle loc" is an oriented (short/1 clip-
+superior, long/2 clips-lateral, air knot-anterior) needle localized lumpectomy with radiograph. Ink code: Anterior-
+yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. The specimen is serially sectioned
+from lateral to medial into 8 slices revealing a 2.4 x 1.9 x 1.6 cm firm tan stellate mass that is closest to the superior
+margin at 0.2 cm. Tissue is procured. Representatively submitted:
+A1-A2: lateral margin, perpendicular resection
+A3: slice 2, anterior/superior
+A4: slice 2, posterior superior (mass)
+A5: slice 3, anterior/superior (mass)
+A6: slice 3, posterior superior (mass)
+A7: slice 3, anterior/inferior (mass)
+A8: slice 3, posterior inferior (mass)
+A9: slice 4, anterior/superior (mass)
+A10: slice 4, mid superior (mass)
+A11: slice 4, posterior superior (mass)
+A12: slice 4, anterior inferior (mass)
+A13: slice 4, posterior inferior (mass)
+A14: slice 5, anterior superior (mass)
+A15: slice 5, mid superior (mass)
+A16: slice 5, anterior inferior (mass)
+A17: slice 5, mid inferior (mass)
+A18: slice 6, anterior superior
+A19: slice 6, mid superior (mass)
+A20: slice 6, posterior superior
+A21: slice 6, mid inferior
+A22: medial margin, perpendicular sections
+B. ADDITIONAL MARGIN RIGHT BREAST
+Received fresh labeled with the patient's identification and "additional margin right breast" is in a oriented (short-
+superior, long-lateral) 11 g, 0.2 x 3.4 x 1.1 cm fibrofatty tissue. Margins are inked black. Serial sectioning reveals no
+discrete lesions. Inked margin submitted entirely in cassettes B1-B7.
+NOTE: specimen was received with only 1 suture
+C. WLE LEFT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with patient's identification and "WLE left breast needle localization" is an oriented (short/1
+clip-superior, long/2 clips-lateral, loop-anterior) 42 g, 4 x 4 x 3.5 cm needle localized lumpectomy with radiograph.
+Ink code: Anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. Specimen is
+serially sectioned from lateral to medial into 6 slices revealing a 2.4 x 1.9 x 1.8 cm firm tan stellate mass that is
+closest to the superior margin at 0.1 cm. Tissue is procured. Representatively submitted:
+C1-C2: lateral margin, perpendicular sections
+C3: slice 2, anterior superior (mass)
+C4: slice 2, posterior superior (mass)
+C5: slice 2, anterior inferior (mass)
+C6: slice 2, posterior inferior (mass)
+C7: slice 3, mid superior (mass)
+C8: slice 3, posterior superior (mass)
+C9: slice 3, mid inferior (mass)
+C10: slice 3, posterior inferior (mass)
+C11: slice 4, anterior superior
+C12: slice 4, mid superior (mass)
+C13: slice 4, posterior superior
+C14: slice 5, anterior inferior
+C15: slice 5, mid anterior
+C16: slice 5, anterior superior
+C17-C18: medial margin, perpendicular sections
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 2.4-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPES WITH
+CENTRAL NECROSIS AND MICROCALCIFICATIONS
+- INVASIVE TUMOR PRESENT WITHIN 1-MM FROM SUPERIOR/MEDIAL SURGICAL RESECTION MARGIN
+- LOBULAR CARCINOMA IN SITU
+- BIOPSY SITE CHANGES WITH FIBROSIS
+· SEE SYNOPTIC REPORT AND SEE NOTE.
+B. BREAST, RIGHT, ADDITIONAL SUPERIOR MARGIN, EXCISION:
+· INVASIVE DUCTAL CARCINOMA INVOLVES NEW INKED SURGICAL RESECTION MARGIN, SEE NOTE.
+C. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.8-CM
+- SURGICAL RESECTION MARGIN NEGATIVE FOR TUMOR
+- LOBULAR CARCINOMA IN SITU
+- BIOPSY SITE CHANGES WITH FIBROSIS
+- SEE SYNOPTIC REPORT.
+NOTE: Part B. was designated as superior by Dr. Therefore, invasive tumor is present at superior (part B) and within
+1-mm from medial (part A) surgical resection margin.
+E-cadherin is negative in LCIS component.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+2.4cm
+Margins:
+superior
+Involved at
+and within 1-mm from medial
+Extent::
+focal
+Tubular Score: 2
+2
+Nuclear Grade:
+Mitotic Score: 3
+Modified Scarff Bloom Richardson Grade: 2
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+LCIS
+None identified
+Lymph nodes: Non-sentinel lymph node
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 10%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location: Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+pT 2 N x
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Excision
+Yes
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Margins:
+1.8cm
+Negative
+Distance from closest margin: 0.3cm
+superior
+Tubular Score: 2
+Nuclear Grade:
+Mitotic Score: 2
+2
+Modified Scarff Bloom Richardson Grade:
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+LCIS
+2
+None identified
+Lymph nodes: No lymph node sampling
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 1c Nx
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+female found with left breast lump. She had bilateral mammogram done showing bilateral breast
+masses. Bilateral core needle biopsies done on
+showed bilateral invasive ductal carcinoma. Bilateral
+needle localization scheduled and no sentinel lymph nodes will be taken as her axilla are clinically negative and it
+would not change post op management she will likely received radiation and endocrine therapy.
+PRE-OPERATIVE DIAGNOSIS:
+Bilateral invasive ductal carcinoma
+Right-ER/PR+, Her2/neu -, SBR grade 2
+Left-ER/PR+, SBR grade 1
+ADDENDUM:
+The right breast excision (Part A) measures 5x5x4.5-cm and weighs 63 gms.
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist.
+Criteria
+1
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
++PAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous frimary Noted
+Case is (circle):
+Reviewer Initial
+QUALIFIED
+te Reviewed:
+DISQUALIFIED
+2010

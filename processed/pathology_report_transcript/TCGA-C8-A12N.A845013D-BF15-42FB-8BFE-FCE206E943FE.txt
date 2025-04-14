@@ -1,0 +1,476 @@
+UUID:A845013D-BF15-42FB-8BFE-FCE206E943FE
+TCGA-C8-A12N-01A-PR
+Redacted
+IRB APPROVED
+Form
+ICD-0-3
+Clinical Case Report
+(For Collection of Cancerous Tissue)„teria
+Carcinone, infiltrating duct, Nos
+850013
+Site: breast, NOS
+050.9
+fu 5/31/11
+Informed Consent
+Diagnosis Discrepancy
+rimary Turnor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary NetEd
+QUALIFIED
+ase is Lircle):
+eer
+米肌
+Prewed:
+Yes
+Na
+GISQUALIFIED
+I personally informed this patient that a specimen(s) would be collected to be used for research
+RESEARCH SUBJECT 
+INFORMATION AND CONSENT
+purposes. I reviewed the
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed 
+consent document will be retained at
+our institution.
+5/31/11
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+GENERAL INFORMATION
+Date of Birth (mm/dd/yyyy)
+Height
+Maritus
+Gender
+Weight
+Date
+Race
+Temperature
+Blood Pressure
+Heart Rate
+Chief Complaints:
+HISTORY OF PRESENT ILLNESS
+Tamron is the right breast
+Symptoms: pabent found a tree in the right breast for me year. No other spimption.
+Clinical Findings: In the upper-inner geadranty
+-inner quadrant of 
+the right breast has 3×5>
+tuer. No skes insinud nipple 
+reaction
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory
+□ 40-50 Symptomatic, in bed more 
+than 50% of day, but 
+not bed ridden
+□ 60-70 Symptomatic, in bed less than 50% of day
+□ 20-30 Bed Ridden
+CURRENT MEDICATIONS.
+Drug
+NO
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+Το
+To
+Το
+To
+Το
+Diagnosis Date
+Treatment
+Status
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Healthy
+Menopausal Status
+□ Pre-menopausal
+Peri-Menopausal
+✓ Post-menopausal
+Birth Control:
+OB/GYN HISTORY
+Date of First Menses
+# of Pregnancies
+Date of Last Menses
+# of Live Births
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Current Status
+TYPE
+Environmental Hazards:
+Smoking History
+Packs/day
+Duration
+When Quit
+□ YES
+✓ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+Duration
+When Quit
+□ YES
+✓ NO
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES ✓ NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+Tobody
+thas
+Career
+LAB DATA
+Test
+HIV
+Hep B
+Result
+Date
+✓ Negative ☐ Positive:
+✓ Negative ☐ Positive:
+Test
+CEA
+Hep C
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+AFP
+Other:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+Result
+CA 15-3
+CA 19-9
+PSA
+Other:
+☐ Negative
+☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy
+DIAGNOSTIC STUDIES*.
+Results
+Date
++Homent
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+Right breast cancer
+Location of Suspected Involved Lymph Nodes
+Location of Suspected Distant Metastasis
+Axilla
+Clinical Staging
+T2 N1 Mo
+Stage: IB
+Organ
+Breast
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Surgery
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+No
+'Primary Tumor
+مانان
+Date of Diagnosis
+Date of Procedure
+Detailed Location
+lepper-inner quadrant 2 x
+Size
+X
+ст
+Extension of Tumor
+NO
+Lymph Nodes
+Location of Lymph Nodes
+Axilla
+# of Lymph Nodes
+Distant Metastasis
+Detailed Location
+Size
+Surgical Staging
+T2
+No
+Mo
+Stage: 1
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno; Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+JVU
+3
+Date (mm/dd/yyyy)
+To
+To
+Το
+To
+To
+Collected by:
+Preserved by:
+Diseased
+Frozen
+Pathology Form
+Specimen Information
+Date.
+Time:
+Date:
+ime:_
+Paraffin Block
+SPECIMEN TYPE (# of samples provided)
+Blood/Serum/Plasma
+Slide
+Normal
+Diseased
+プ
+Normal
+x
+Diseased
+Normal
+Diseased
+Normal
+x
+Time to Formalin
+Time to LN2
+min
+W
+min
+min
+Time to LN2
+Notes:
+40
+Organ
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Breast
+2
+x
+✗
+cm
+Extension of Tumor
+No
+Distance to NAT
+2
+cm
+Location
+Avilla
+Lymph Nodes
+# Examined
+# Metastasized
+Detailed Location
+Size
+Organ
+NU
+Distant Metastasis
+Pathological Staging
+PT 2
+No
+Мо
+Stage: A.
+Microscopic Description
+Histological Pattern-
+Cell Distribution
++
+-
+Diffuse
++
+Mosaic
+Necrosis
+Streaming
+Storiform
+Fibrosis
+Structural Pattern
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+Squamous
++
+Squamoid Cell
+Spindle Cell
+Cell Stratification
+Palisading
+Cystic Degeneration
+f
+Bleeding
+Myxoid Change
+Psammoma/Calcification
+Cellular Differentiation
+Adenomatous
++
+Glandular cell 17
+Sarcomatous
+Round Cell
++
+-
+Fibroblast
+Lymphomatous
++
+Large Cell
+Small Cell
+Keratin
+Secretion
+Desmosome
+Intracyt. Vacuole
+Osteoblast
+Lipoblast
+RS Cell/RS Like
+Inflam. Cell
+Pearl
+Gland formation
+Myoblast
+Plasma Cell
+Cellular Differentiation:
+Well
+✗Moderate
+Poor
+Nuclear Appearance
+Nuclear Atypia:
+0
+II
+III
+Aniso Nucleosis
+土
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+土
++
++
+Nuclear Grade:
+IHC Data
+Value
+Marker
+ER
+PR
+Her-2/neu
+B-Cell Marker
+T-Cell Marker
+Other:
+Other:
+Result
+☐ Negative ☐ Positive
+□ Positive
+□ Negative
+□ Negative □ Positive
+□ Negative □ Positive
+☐ Negative □ Positive
+□ Negative □ Positive
+□ Positive
+□ Negative
+Final Pathology Report
+Histological Diagnosis: Imasive Ductal Carciuma
+Comments:
+Principal Investigator
+Α
+Date
+Grade: I
+Pathologist
+Date
+☐ V
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance.
+1. Histological pattern:
+Diffuse
+Mosaic
+Necrosis
+CELL DISTRIBUTION
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
++
+xx
+Streaming
+Storiform
+STRUCTURAL PATTERN
+Fibrosis
+Palisading
+Cystic Degeneration
+Bleeding
+☑ Myxoid Change
+Psammoma/Calcification
+Indian File
+2. Cellular features
+Squamous
++
+Adenomatous
++
+Sarcomatous
++
+"
+Squamoid Cell
+Glandular cell
+Round Cell
+Spindle Cell
+Cell Stratification
+0
+Fibroblast
+Keratin
+Secretion
+M
+Osteoblast
+Desmosome
+Intracyt. Vacuole
+d
+Lipoblast
+Pearl
+Gland formation
+Myoblast
+Otherwise Specified: D, 50%, D2 780
+2. Cellular Differentiation:
+Well
+Moderately
+Poor
+3. Nuclear Atypia:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Appearance
+Nuclear Grade
+Lymphomatous
++
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+0
+II
+III
+Histological Diagnosis: Infiltrating Ductal Carcinong NOS
+Comments: A
+61
+Director, Research Pathology
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

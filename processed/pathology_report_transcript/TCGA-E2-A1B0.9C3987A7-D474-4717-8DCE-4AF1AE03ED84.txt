@@ -1,0 +1,256 @@
+TSS:
+Carcinoma, infiltrating duct, Nos 8500/3
+Path Site Code: breast, lower onter
+"CQCF 
+site: breast, Nos C50.9
+quadrant C50.5
+12/29/10
+TSS:
+SPECIMENS:
+A. SENTINEL NODE #1 LEFT AXILLA
+B. SENTINEL NODE #2 & #3 LEFT AXILLA
+C. SENTINEL NODES #4 & #5
+D. SENTINEL NODE #6 LEFT AXILLA
+E. SENTINEL NODE #7 & #8 LEFT AXILLA
+F. SENTINEL NODE #9 LEFT AXILLA
+G. LEFT BREAST
+H. LEFT AXILLARY CONTENTS
+DIAGNOSIS:
+A. SENTINEL NODE #1 LEFT AXILLA:
+UUID:9C3987A7-D474-4717-8DCE-4AF1AE03ED84
+TCGA-E2-A1B0-01A-PR
+Redacted
+-METASTATIC CARCINOMA TO ONE OUT OF ONE LYMPH NODE, CONSISTENT WITH
+METASTASIS FROM PRIMARY BREAST CARCINOMA (1/1).
+B. SENTINEL NODE #2 AND #3 LEFT AXILLA:
+-
+· TWO LYMPH NODES – NEGATIVE FOR TUMOR (0/2).
+C. SENTINEL NODE #4 AND #5:
+-
+TWO LYMPH NODES – POSITIVE FOR METASTATIC CARCINOMA (2/2).
+-
+D. SENTINE NODE #6 LEFT AXILLA:
+- METASTATIC CARCINOMA TO TWO OUT OF THREE LYMPH NODES
+WITH LYMPHOVASCULAR INVASION (2/3).
+E. SENTINEL NODE #7 AND #8 LEFT AXILLA:
+- METASTATIC CARCINOMA TO ONE OUT OF ONE LYMPH NODE
+WITH PERINODAL FAT EXTENSION CONSISTENT WITH METASTASIS
+FROM PRIMARY BREAST CARCINOMA.
+F. SENTINEL NODE #9 LEFT AXILLA:
+-
+ONE LYMPH NODE - NEGATIVE FOR TUMOR (0/1).
+G. LEFT BREAST, MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, SBR GRADE III WITH ASSOCIATED
+FOCI OF DUCTAL CARCINOMA IN SITU, SOLID, COMEDO PATTERN,
+HIGH 
+NUCLEAR GRADE.
+- SIZE OF TUMOR- 3.2 X 2.2 X 2.0 CM.
+-
+DEEP MARGINS OF RESECTION - NEGATIVE FOR TUMOR.
+SKIN AND NIPPLE – NEGATIVE FOR TUMOR.
+-
+- FOCAL COLUMNAR CELL CHANGE WITH FOCAL
+MICROCALCIFICATIONS.
+- FOCAL RESORBING FAT NECROSIS AND HEMORRHAGE, CONSISTENT WITH POST
+BIOPSY 
+SITE CHANGES
+.
+H. LEFT AXILLARY CONTENTS:
+- EIGHTEEN LYMPH NODES - NEGATIVE FOR TUMOR (0/18).
+BREAST CANCER TEMPLATE
+Specimen type:
+Needle localization:
+Laterality:
+INVASIVE TUMOR:
+Multifocal:
+Histologic type:
+Tumor Size (cm):
+Size of Invasive Focus:
+Mastectomy
+No
+Left
+Present
+No
+Ductal
+3.2 x 2.2 x 2.0 cm
+3.2 x 2.2 x 2.0 cm
+سا
+TSS:
+Tumor site:
+Grade, Histologic:
+Grade, Nuclear:
+Grade, Mitotic:
+Modified Scarff Bloom Richardson grade:
+Necrosis:
+Invasion Vasc/Lymphatic:
+DCIS COMPONENT:
+Lower outer quadrant
+3
+3
+III
+Present
+Present
+DCIS Quantity:
+DCIS Type:
+DCIS Location:
+DCIS Size:
+Nuclear grade:
+Necrosis:
+Location of Ca++:
+DCIS correlates with Ca++ in sections:
+Margins:
+Lobular Neoplasia:
+Estimate 20%
+Comedo; Solid
+Associated with invasive tumor
+High
+Present
+DCIS; Benign Epithelium
+Negative
+None
+Positive (6/28); Sentinel lymph node
+Lymph nodes:
+Isolated tumor cell clusters:
+No
+Micrometastases:
+Extranodal extension:
+No
+Yes
+Non-neoplastic areas:
+Hormone receptor status (by IHC):
+HERCEPTEST (by IHC):
+Pathologic Stage:
+and axillary dissection
+columnar cell change
+Biomarker report (from previous bx -,
+– ER, negative; PR, negative.
+Her2/neu-positive 3+ (100%)
+PT2 N2
+SPECIMEN(S):
+A. SENTINEL NODE #1 LEFT AXILLA
+B. SENTINEL NODE #2 & #3 LEFT AXILLA
+C. SENTINEL NODES #4 & #5
+D. SENTINEL NODE #6 LEFT AXILLA
+E. SENTINEL NODE #7 & #8 LEFT AXILLA
+F. SENTINEL NODE #9 LEFT AXILLA
+G. LEFT BREAST
+H. LEFT AXILLARY CONTENTS
+CLINICAL HISTORY:
+None given
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA: Lymph node, sentinel #1, excision: Positive for carcinoma. (Microscopic)
+By Dr called in at
+C. Breast, left, mastectomy: Margins are grossly negative for tumor.
+By Dr called in at
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA
+Received fresh for touch prep evaluation labeled with the patient name designated A. sentinel lymph
+node #1 left axilla is a beige-tan lymph node measuring 0.8x0.5x0.4cm
+. The specimen is bisected,
+touch preps are performed. The entire specimen is submitted 
+in a cassette labeled A1.
+B. SENTINEL LYMPH NODES #2 & #3, LEFT AXILLA
+Received fresh for touch prep evaluation labeled with the patient name designated B. sentinel lymph
+nodes #2 & #3 is a portion of firm red-tan fibroadipose tissue 
+measuring 5.5x2.0x1.0cm. Two beige-
+tan
+lymph nodes are identified. The specimen is serially sectioned
+, touch preps are performed. The
+specimen is submitted in toto in blocks B1-B3.
+TSS:
+C. SENTINAL LYMPH NODES #4 & #5, LEFT AXILLA
+Received fresh for touch prep evaluation labeled with the patient name designated C. sentinel nodes #4
+& #5 are two beige
+-tan firm lymph nodes. The larger measuring 1.5x1.0x0.9cm. The smaller
+measuring 
+0.4x0.3x0.3cm. The entire specimen is submitted for microscopic evaluation. Cassettes are
+submitted as follows:
+C1: the smaller lymph node
+C2: the larger lymph node serially sectioned
+D. SENTINEL LYMPH NODE #6, LEFT AXILLA
+Received in formalin in a container labeled with the patient name designated D. sentinel node #6 is a
+firm beige-
+tan lymph node measuring 1.0x0.9x0.7cm. specimen is bisected and submitted entirely in
+cassette D1.
+E. SENTINEL LYMPH NODE #7 & #8, LEFT AXILLA
+Received in formalin in a container labeled with the patient name designated E. sentinel node is a group
+of beige-tan, firm, 
+matted lymph nodes, measuring in aggregate 2.2x1.9x0.7cm. The specimen is
+bisected and 
+submitted entirely in cassette E1-E2.
+F. SENTINEL LYMPH NODE #9, LEFT AXILLA
+Received in formalin in a container labeled with the patient name designated F. sentinel node #9 left
+axilla is a firm beige-
+tan lymph node with attached adipose tissue. The lymph node measures
+0.4x0.4x0.3cm
+. The entire specimen is submitted in cassette F1.
+G. LEFT BREAST
+Received in fresh state with patient's name and identification number and labeled "left breast". The
+specimen 
+consists of a left mastectomy specimen weighing 797 grams and with total dimensions of
+26.0 x 19.0 x 5.5 
+cm
+. 
+There is an attached stitch indicating the left axillary tail area of the breast.
+Overlying skin 
+measures 18.0 x 12.0 cm. The nipple is erect and grossly not remarkable, and shows no
+areas of ulceration
+. There is a firm palpable mass noted along the supero-central aspect of the
+specimen, which on serial 
+cut section shows an ill-defined, firm, nodular mass with ill-defined borders
+measuring 3.2 x 2.2 and 2.0 cm with focal areas of hemorrhage. The remainder of the specimen
+consists mostly of fatty 
+breast tissue parenchyma with alternating strands of fibrous stroma. The deep
+margin is inked 
+black..Grossly, the tumor is is seen 0.9 cm from the nearest superior margin. There is
+no other identifiable 
+tumor focus and scant axillary fat shows predominantly adipose tissue with possible
+tiny 0.1 cm lymph node. 
+Multiple sections are submitted and labeled as follows:
+G1-G2: bisected anterior margin adjacent to mass
+G3: skin and mass
+G4-G5: tissue inferior to mass, bisected
+G6: deep margin
+G7-G12: sections of mass
+G13-G14: fibrous tissue from superior inner quadrant
+G15-G18: fibrous and firm tissue from superior outer quadrant
+G19-G20: fibrous tissue from inferior outer quadrant
+G21-G22: fibrous tissue from lower inner quadrant
+G23-G24: nipple and subjacent tissue perpendicularly sectioned
+G25: 1 possible axillary lymph node
+H. LEFT AXILLARY CONTENTS
+Received in formalin and labeled "left axillary contents" is an aggregate of pink-yellow soft tissue
+measuring 9.0x5.5x1.8cm
+. 16 possible lymph nodes are found, ranging in size from 0.1 to 1.7cm.
+Nodes are submitted in toto 
+as follows:
+H1: 6 possible lymph nodes
+H2-H6: 2 bisected lymph nodes each
+ADDENDUM:
+Correction of typographical error on template regarding tumor site. Should read as follows:
+Tumor site-upper outer quadrant.
+Gross Dictation:
+Microscopic/Diagnostic Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist.
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist
+Final Review: Pathologist,
+Yes
+Nu
+Criteria
+Diagnosis uiscrepancy
+Primary Tumor Ste Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dua/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+De Reviewed
+DISQUALIFIED
+Z
+TSS:
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Review: Pathologist,
+Addendum Final: Pathologist,

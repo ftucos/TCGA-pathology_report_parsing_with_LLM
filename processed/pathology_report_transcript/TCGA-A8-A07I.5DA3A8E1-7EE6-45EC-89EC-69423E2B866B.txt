@@ -1,0 +1,32 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+850013
+Path
+Site: Breast, 404 C50.4
+1/19/11
+CQCF
+Site: Breast, Nos C50.9
+Mu
+Diagnosis:
+1. Multifocal poorly differentiated invasive ductal breast carcinoma, G III, with small
+intraductal components. Largest tumor focus 2.6 cm. A second of a total of three
+additional tumor foci, in some cases only microscopically visible, located in the
+vicinity of the skeletal muscle that was also resected.
+Summary tumor classification: multifocal invasive ductal breast carcinoma with a
+small intraductal component, NOS, G III, pT2(m)pN2a(5/15)LOVORO.
+UUID:5DA3A8E1-7EE6-45EC-89EC-69423E2B866B
+TCGA-A8-A071-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignanc, History
+Dual/Synchronous Primary Noted
+Case is (circle):
+ReviewerIn
+QUALIFIED
+Date Reviewed:
+Redacted
+Yes
+No
+DISQUALIFIED

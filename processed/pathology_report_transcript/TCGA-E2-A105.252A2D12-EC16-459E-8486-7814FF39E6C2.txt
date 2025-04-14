@@ -1,0 +1,253 @@
+TSS Pt ID:
+SPECIMENS:
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+850013
+12/19/10/
+Site Code breast, Nos
+€50.9
+A. RIGHT BREAST NEEDLE LOCALIZATION LUMPECTOMY
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. LEFT BREAST LUMPECTOMY NEEDLE LOCALIZATION
+D. SENTINEL LYMPH NODE #1 LEFT AXILLA
+SPECIMEN(S):
+A. RIGHT BREAST NEEDLE LOCALIZATION LUMPECTOMY
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. LEFT BREAST LUMPECTOMY NEEDLE LOCALIZATION
+D. SENTINEL LYMPH NODE #1 LEFT AXILLA
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+UUID: 252A2D12-EC16-459E-8486-7814FF39E6C2
+TCGA-E2-A105-01A-PR
+A. Right breast, needle localization (Gross Examination only): Tumor 0.8cm from nearest anterior
+margin.
+By Dr., called to Dr. at
+C: Left breast, needle localization (Gross Examination only): Tumor 1.0cm from nearest anterior
+margin.
+By Dr., called to at
+TPD: Sentinel lymph node #1, left breast (Smears only): Lymph node, negative for tumor.
+By Dr., called to Dr. at
+GROSS DESCRIPTION:
+A. RIGHT BREAST NEEDLE LOCALIZATION LUMPECTOMY
+The specimen, received fresh in a container labeled with patient name and designated as "right breast
+needle localization right breast lumpectomy" is a segment of breast tissue weighing 72gm and
+measuring 9.0x8.0x3.5cm. The specimen is oriented per Dr. as follows: single stitch-anterior, long
+double stitch-lateral, short double stitch-superior. A metallic wire penetrates through the breast tissue
+from medial to lateral direction. On serial section, a 1.1x1.1x1.0cm firm, stellate mass is identified. This
+mass is 0.8cm from the anterior margin, 1.5cm from lateral margin, 2.0cm from the posterior margin.
+The exterior surface of the specimen is inked as follows: anterior-blue, inferior-orange, superior-red,
+lateral-yellow, medial-green, posterior-black. Representative sections of the specimen are submitted
+from cassette A1 to cassette A26.
+Block summary:
+A1-A7: the mass and the anterior margin
+A8-A11: mass and the posterior border (A8 and A9 are 2 consecutive sections connected by the red
+dot)
+A12-A17: mass and the lateral margin
+A18-A17: representative section from the superior border
+A20-A21: representative section from the inferior border
+A22-A23: representative section from the medial border
+A24: representative section from the firm area adjacent to the lateral border
+A25: representative section from the firm area adjacent to the posterior border
+A26: representative section at the area adjacent to the inferior margin
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+The specimen, received fresh in a container labeled with patient name and designated as "sentinel
+lymph node #1 right axilla" consists of 2 firm lymph node measuring 1.0x0.5x0.3cm and 2.0x1.0x0.5cm.
+The lymph node is submitted in toto in cassette B1 and B2.
+C. LEFT BREAST LUMPECTOMY NEEDLE LOCALIZATION
+The specimen, received fresh in a container labeled with patient name and designated as "left needle
+localization lumpectomy" is a segment of breast tissue weighing 75 grams and measuring 8.5 x 5.5 x
+3.4 cm. The specimen is oriented as follows: single stitch, anterior; double stitch, lateral; triple stitch,
+superior. The specimen is inked as follows: superior, red; inferior, orange; medial, green; lateral,
+yellow; anterior, blue; posterior, black. The specimen is serially sectioned and it reveals a firm, white..
+stellate mass measuring 3 x 2.5 x 2 cm. Grossly, the tumor is 1 cm from the anterior margin, 1.6 cm
+from the posterior margin, 2.3 cm from the inferior margin, 2.6 cm from the superior margin, 1.3 cm from
+the medial margin and 1 cm from the lateral margin. The rest of the section of the specimen are
+submitted in cassettes C1 – C27.
+Block summary:
+Redacted
+1
+C1-C3: tumor and the anterior margin
+C4-C8: tumor and the lateral margin
+C9-C12: tumor and the medial margin
+C13-C20: posterior margin adjacent to the tumor
+C21-C23: representative section from the inferior margin
+C24-C27: representative section from the posterior lateral area of the breast
+D. SENTINEL LYMPH NODE #1 LEFT AXILLA
+The specimen, received fresh in a container labeled with patient name and designated as "sentinel
+lymph node #1 left axilla" consists of a fibroadipose fragment of tissue measuring 6.0x3.0x1.0cm.
+Within the tissue, 1 lymph node is identified measuring 1.3x1.2x1.0cm. Touch prep is prepared. The
+specimen is submitted in toto in cassette D1-D3.
+DIAGNOSIS:
+A. RIGHT BREAST, NEEDLE LOCALIZED EXCISIONAL BIOPSY:
+-
+· INVASIVE MAMMARY CARCINOMA, TUBULOLOBULAR TYPE, MODIFIED
+SBR GRADE I
+-
+TUMOR IS 1.8 CM IN MAXIMUM DIMENSION MEASURED
+MICROSCOPICALLY
+-
+-
+FINAL SURGICAL MARGINS ARE FREE OF TUMOR
+- SEE SYNOPTIC TEMPLATE AND COMMENT
+- DUCTAL CARCINOMA IN SITU, LOW NUCLEAR GRADE, SOLID TYPE
+- FINAL SURGICAL MARGINS ARE FREE OF DCIS
+·DUCTAL HYPERPLASIA (USUAL TYPE), AND COLUMNAR CELL CHANGE
+WITH COLUMNAR CELL HYPERPLASIA.
+- FIBROSIS, FAT NECROSIS AND HEMOSIDERIN CONSISTENT WITH PRIOR
+BIOPSY SITE CHANGE.
+B. SENTINEL LYMPH NODE, #1 RIGHT AXILLA, BIOPSY:
+ONE LYMPH NODE NEGATIVE FOR CARCINOMA (0/1)
+C. LEFT BREAST, NEEDLE LOCALIZED EXCISIONAL BIOPSY:
+-INVASIVE DUCTAL CARCINOMA, MODIFIED SBR GRADE II
+TUMOR IS 3.0 CM IN MAXIMUM DIMENSION
+- FINAL SURGICAL MARGINS ARE FREE OF TUMOR
+- SEE SYNOPTIC TEMPLATE
+- DUCTAL CARCINOMA IN SITU, INTERMEDIATE NUCLEAR GRADE,
+SOLID TYPE
+- SURGICAL MARGINS ARE FREE OF DCIS
+- FIBROCYSTIC CHANGES WITH DUCTAL HYPERPLASIA (USUAL TYPE)
+- COLUMNAR CELL CHANGE AND COLUMNAR CELL HYPERPLASIA
+- BENIGN INTRADUCTAL PAPILLOMA
+- FIBROSIS SUGGESTIVE OF PRIOR BIOPSY SITE CHANGE
+D. SENTINEL LYMPH NODE, #1 LEFT AXILLA, BIOPSY:
+-
+ONE LYMPH NODE NEGATIVE FOR CARCINOMA (0/1)
+bilateral breast lot.
+(+) invece duct it carceremon
+COMMENT: The invasive tumor present in the right breast (specimen) shows a morphology that is
+predominantly that of lobular carcinoma. In many areas, however, and particularly on slide A5 the
+tumor shows small tubular structures with angulated contours and apocrine snouting. This combined
+morphology is that of tubulolobular carcinoma. This tumor was e-cadherin positive on the original
+biopsy, a finding that normally favors ductal carcinoma. Tubulolobular carcinoma, however, has been
+reported to be e-cadherin positive also. Since the WHO currently includes tubulolobular carcinoma as
+a variant of lobular carcinoma, that is how it is listed on the synoptic template since there is no option for
+tubulolobular carcinoma in that template.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: A: RIGHT BREAST NEEDLE LOCALIZATION LUMPECTOMY
+Specimen Type:
+Excision
+Needle Localization: Yes
+Laterality: Right
+Invasive tumor:
+Multifocality: No
+Present
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Specimen size:
+Additional dimensions:
+Size of Invasive focus 1.8cm
+1.1cm x 1cm
+Tumor Site: Not specified
+Margins: Negative
+Distance from closest margin: 0.3cm
+Margin:
+anterior
+Tubular score:
+3 (<10% tubule)
+Nuclear grade:
+1
+Mitotic score (Olympus 40x): 1 (0-6/10
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+)
+I (3-5 points)
+Vascular/Lymphatic Invasion: None identified
+Sentinel lymph node only
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+Negative 0/1
+Non-neoplastic areas: Ductal hyperplasia.
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:
+DCIS type: Solid
+DCIS location:
+Nuclear grade:
+Estimate % 5
+Associated with invasive tumor
+Low
+Necrosis: Absent
+Location of CA++: Benign epithelium
+Pathological staging (pTN): pT 1c NO
+Comment(s):
+Tubulolobular type carcinoma is not listed as a separate entity in this template. It is considered a
+variant of lobular carcinoma in the WHO classification system, despite frequently being e-cadherin
+positive.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: C: LEFT BREAST LUMPECTOMY NEEDLE LOCALIZATION
+Specimen Type:
+Excision
+Needle Localization: Yes
+Laterality: Left
+Invasive tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Specimen size:
+Size of Invasive focus 3cm
+Additional dimensions:
+2.5cm x 2cm
+Tumor Site: Not specified
+Margins: Negative
+Distance from closest margin: 0.4cm
+Lateral, medial and anterior.
+Margin:
+Tubular score:
+Nuclear grade:
+3 (<10% tubule)
+2
+Mitotic score (Olympus 40x): 2 (7-13/10
+Modified Scarff Bloom Richardson Grade:
+Vascular/Lymphatic Invasion: None identified
+Necrosis: Absent
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+Sentinel lymph node only
+Negative 0/1
+)
+Il (6-7 points)
+Non-neoplastic areas: Papilloma, fibrocystic changes with ductal hyperplasia.
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:
+DCIS type: Solid
+Estimate % 10
+DCIS location:
+Associated with invasive tumor
+Nuclear grade:
+Intermediate
+Necrosis:
+Present
+Location of CA++:
+Benign epithelium
+PT 2 NO
+Pathological staging (pTN):
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Bilateral breast ca
+Gross Dictation:,
+Microscopic/Diagnostic Dictation:., Pathologist,
+Microscopic/Diagnostic Dictation:., Pathologist,
+Final Review:., Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED 1
+Date Reviewed:
+QUALIFIED

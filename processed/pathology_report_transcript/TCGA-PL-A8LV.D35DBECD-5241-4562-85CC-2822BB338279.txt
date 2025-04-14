@@ -1,0 +1,45 @@
+Age:
+Sex: Female
+Tissue Source Site (TSS):
+Date of Tumour Procurement:
+UUID:D35DBECD-5241-4562-85CC-2822BB338279
+TCGA-PL-A8LV-01A-PR
+Redacted
+ICD.0.3
+8510/3
+Carcinoma, midullary 851ds
+Site ® Breast NOS
+(509
+J 5/19/14
+1. GROSS ASSESSMENT: Cut section showed a variegated tumour. 5x3x2cm,
+No lymph nodes.
+2. MICROSCOPIC ASSESSMENT
+Microscopic description: Section shows a necrotic and invasive tumour growing in
+trabecular, cords, syncytium, solid nests and trabecular patterns. It is composed of large
+cells having pleomorphic hyperchromatic nuclei and amphophilic cytoplasm. The stroma
+is desmoplastic containing similar tumour cells and aggregates of lymphocytes
+3. Tumour Type: Malignant
+4. Tumour Site: Right Breast
+5. Distance of invasive carcinoma to closest margin: 3mm
+Which margin? Deep resection
+TSS Unique patient ID:
+6. HISTOLOGICAL DIAGNOSIS: Medullary Adenocarcinoma
+7. COMMENTS: Nuclear score:3, Pathological TNM stage: pT2
+Dr
+Reporting Pathologist Name
+Signature
+Date
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HCAA Discrepancy
+Prior Malignancy History
+Dual/synchronous Primary oc
+Case is (circle):
+Reviewer Initials
+11/14/13.
+Date Reviewed.
+DISQUAD
+☐

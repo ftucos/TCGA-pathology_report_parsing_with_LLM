@@ -1,0 +1,149 @@
+Sample #
+FINAL PATHOLOGIC DIAGNOSIS
+A. Sentinel lymph node, right axillary #1; excisional biopsy:
+- Five reactive lymph nodes, no evidence of tumor (0/5) (HE and CKAE1/AE3)
+- Lymphovascular invasion is seen in a lymph node vessel of the lymph node
+sinus (0.12 mm tumor cell cluster), see comment.
+B. Sentinel lymph node, right axillary #2; excisional biopsy:
+- One reactive lymph node, no evidence of tumor (0/1) (HE and CKAE1/AE3)
+C. Sentinel lymph node, right axillary #3; excisional biopsy:
+- One reactive lymph node, no evidence of tumor (0/1) (HE and CKAE1/AE3)
+D. Breast, right, additional anterior margin; excision:
+- Columnar cell changes.
+- Blunt duct adenosis.
+- Apocrine metaplasia.
+E. Breast, right; wire-guided lumpectomy:
+ICDO.3
+Cancinomas, infiltrating
+duct MOS 8500/3
+Site
+Breast NOS
+0509
+960 8/2/13
+UUID:961547D2-F235-47E9-9A6D-D286758E332E
+Redacted
+TCGA-OL-A6V0-01A-PR
+- Invasive ductal carcinoma, SBR grade III, with necrosis, see parameters
+below.
+- Ductal carcinoma in situ, high nuclear grade, solid type.
+- Biopsy site changes.
+- Margins of resection are negative.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 1.9 x 1.7 x 1.5 cm
+B. Composite histologic (modified SBR) grade: III
+- Architecture: 3
+- Nuclear grade: 3
+- Mitotic count: 3
+C. Associated intraductal carcinoma in situ (DCIS):
+- Adjacent to invasive carcinoma (forming < 5% of tumor volume)
+2. Intraductal carcinoma:
+A. Microscopic measurement: Adjacent to invasive carcinoma
+B. Type: Solid
+C. Nuclear grade: High
+D. Associated features: Necrosis / Cancerization of lobules
+3. Excisional biopsy margins: Free of tumor
+- Invasive carcinoma 3.0 mm from posterior (closest) margin
+- Ductal carcinoma in situ distant to all margins.
+- Additional margin (anterior) negative.
+4. Blood vessel and lymphatic invasion: Present
+- Present in axillary lymph node.
+5. Nipple: N/A
+6. Skin: N/A
+7. Skeletal muscle: N/A
+8. Axillary lymph nodes: Seven sentinel lymph nodes, no evidence of tumor (0/7)
+9. Special studies
+-
+ER: Negative
+- PR: Negative
+- Her2/neu antigen (FISH): Non-amplified (1.23)
+10. pTNM (AJCC, 7th edition, 2010): pT1cNO(sn)MX
+Clinical History:
+The patient is a
+-year-old female with breast cancer undergoing wire guided
+lumpectomy and sentinel node biopsy.
+Comment
+A. Present on HE slide A2 Lev 3 and CK stain. Reviewed intradepartmentally
+Specimens Received:
+A: Right sentinel node #1
+B: Right sentinel node #2
+C: Right sentinel node #3
+D: Rt breast additional anterior margin
+E: Right breast wire guided; lumpectomy
+Gross Description:
+The specimens are received in five containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'right breast sentinel
+node #1'. Received fresh and placed in formalin are 2 fragments of ovoid yellow
+to brown rubbery tissue. The first measures 4.0 x 2.0 x 1.3 cm and the second is
+4.5 x 1.5 x 1.2 cm. A number of lymph node candidates are identified the largest
+of which measures 4.0 x 1.5 x 1.0 cm. The specimen is submitted as follows:
+A1: 3 lymph node candidates
+A2: One lymph node candidate
+A3-A4: One lymph node candidate bisected
+B. The second container is additionally identified as, 'right breast sentinel
+node #2'. Received fresh and placed in formalin is an ovoid fragment of
+yellow-tan fibroadipose tissue measuring 1.8 x 1.6 x 0.5 cm. A brown-tan lymph
+node is identified that measures 1.1 x 0.5 x 0.3 cm. It is bisected and entirely
+submitted in cassette B1 along with the surrounding fat.
+C. The third container is additionally identified as, 'right breast sentinel
+node #3'. Received fresh and placed in formalin is a fragment of rubbery
+yellow-tanto brown tissue measuring 1.3 x 0.5 x 0.3 cm. It is entirely
+submitted in cassette C1.
+D. The fourth container is additionally identified as, 'additional anterior
+margin'. Received fresh and placed in formalin is a rectangular fragment of soft
+to rubbery yellow-tan tissue measuring 2.3 x 1.7 x 0.6 cm. A double suture marks
+the final anterior margin. This margin is inked blue and the remainder of the
+specimen is inked black. The specimen is then serially sectioned and entirely
+submitted in cassettes D1-D2.
+E. The fifth container is additionally identified as, 'right breast wire guided
+lumpectomy'. Received fresh on a radiographic grid is a 45.4 gm lumpectomy
+specimen measuring 7 cm from medial to lateral, 5.8 cm from superior to inferior
+and 2.7 cm from anterior to posterior. The specimen is oriented with a short
+suture designating the superior pole and a long suture designating the lateral
+pole. Accompanying the specimen is an x-ray demonstrating a metallic clip
+located in grid coordinate D3. There is a circled mass in grid positions C4, C3,
+and D3, and D4, centered on the clip. The wire enters the specimen in grid
+coordinates C3 and terminates in D4.
+The margins are inked as follows:
+anterior - black;
+posterior - red;
+superior - blue;
+inferior - green;
+medial - yellow;
+lateral violet.
+-
+The specimen is serially sectioned from medial to lateral into 8 slices. The
+metallic clip is identified in slice 4. The wire enters the specimen in slice 3
+and terminates in slice for. There is a firm, tan, irregular, 1.9 x 1.7 x 1.5 cm
+lesion located in slices 3 through 4. The lesion is located 1.5 cm from the
+anterior (black) margin, 0.3 cm from the posterior (red) margin, 1.3 cm from the
+superior (blue) margin, 1.2 cm from the inferior (green) margin, 1.7 cm from the
+medial margin, and 4 cm from the lateral margin. The remainder of the breast
+parenchyma is white-yellow and lobulated with no additional masses or lesions.
+Block summary:
+E1: medial margin, slice 1
+E2: lateral margin, slice 8
+E3: mass, slice 3 with red margin
+E4: Surrounding margins from slice 3
+E5-E6: mass, slice 4 with red margin, surrounding clip
+E7: Surrounding margins from slice 4
+E8: Slice 2 next to mass
+E9: Slice 5 next to mass
+E10: Section from grossly unremarkable breast parenchyma, slice 6
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dial/Synchronous Primary Noted
+Case is (circa)
+Reviewer itial
+QUALIFIED
+7/16/13xcs
+Bet viewed:
+DISQUALIFIED
+No
+7/11/13
+✓
+✓

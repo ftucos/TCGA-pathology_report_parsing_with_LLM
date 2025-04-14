@@ -1,0 +1,347 @@
+Clinical Diagnosis & History:
+Left breast palpable mass biopsy showed inf. ductal carcinoma.
+Specimens Submitted:
+1: SP: Sentinel node left axilla (fs).
+2: SP: Left breast lumpectomy
+3: SP: Superior margin, left breast
+4: SP: Medial margin, left breast
+5: SP: Inferior margin, left breast
+6: SP: Lateral margin, left breast
+7: SP: Posterior pectoral fascia margin, left breast
+Redacted
+DIAGNOSIS:
+1)
+-
+LYMPH NODE, SENTINEL NODE, LEFT AXILLA; RESECTION:
+FOUR BENIGN LYMPH 
+NODES (0/4).
+ADDITIONAL DEEPER LEVELS AND IMMUNOSTAINS FOR CYTOKERATINS (AE1: AE3)
+ARE PENDING 
+AND THE RESULTS WILL BE REPORTED 
+IN AN ADDENDUM.
+2)
+BREAST, LEFT; EXCISION:
+- INVASIVE DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC GRADE III/III (SLIGHT
+OR NO 
+TUBULE FORMATION), NUCLEAR GRADE III/
+III (MARKED VARIATION IN SIZE AND
+SHAPE), MEASURING 1.7 CM IN LARGEST DIMENSION 
+MICROSCOPICALLY (GROSSLY THE
+TUMOR IS MEASURED AT 1.9CM).
+-
+SCANT HIGH GRADE DUCTAL CARCINOMA IN SITU (DCIS) IS ADMIXED WITH INVASIVE
+CARCINOMA.
+- NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+COMPONENT.
+- NO VASCULAR INVASION IS NOTED.
+-
+FOR SURGICAL MARGIN STATUS PLEASE SEE PARTS 3-7.
+THE NON-
+NEOPLASTIC 
+BREAST TISSUE SHOWS BIOPSY SITE CHANGES.
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) WILL BE REPORTED IN AN
+ADDENDUM.
+3)
+4)
+-
+BREAST, LEFT SUPERIOR MARGIN; EXCISION:
+BENIGN 
+BREAST PARENCHYMA.
+BREAST, LEFT MEDIAL MARGIN; EXCISION:
+BENIGN BREAST WITH FIBROADENOMATOUS CHANGES.
+UUID:846851BE-3D24-46F0-A6BE-CEB22C7D8F62
+TCGA-A0-A0J4-01A-PR
+1
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast,
+Nos
+C50.9
+hi 10/22/11
+** Continued on next page
+**
+Criteria
+Diagnosis Discrepancy
+Primary Turnur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+RUFIED DISQUALIFIED
+Date Reviewed:
+9414
+bw 10/22/11
+Page 2 of 6
+5)
+BREAST, LEFT INFERIOR MARGIN; EXCISION:
+BENIGN BREAST PARENCHYMA.
+6)
+BREAST, LEFT LATERAL MARGIN; EXCISION:
+BENIGN BREAST PARENCHYMA.
+7)
+BREAST, LEFT POSTERIOR PECTORAL FASCIA MARGIN; EXCISION:
+BENIGN BREAST PARENCHYMA.
+SKELETAL MUSCLE TISSUE.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description.
+M.D.
+1.D.
+1) The specimen is received fresh for frozen section labeled, "Sentinel node
+left axilla", 
+and consists of four lymph nodes measuring 1.2 to 1.8
+cm in
+greatest dimension. All lymph nodes are bisected and entirely submitted.
+Summary of sections:
+FsCA, fscB, fscC, fscD -- lymph node frozen section control
+2.) The specimen is received fresh, labeled "Left breast lumpectomy" and
+consists of 
+an unoriented, previous incised, 3.7 x 2.2 x 1.9 cm, piece of
+fibrofatty breast 
+tissue. The specimen is entirely inked black. Serial
+sectioning reveals a previously biopsied, 1.9 x 1.8 x 1.5 cm, firm, smooth
+nodular 
+bordered, pink-white mass, located 0.2 cm with inked resection
+margin. The mass is partially surrounded by a 2.5 x 1.8 x 1.2 cm area of
+mildly 
+dense, focally nodular, pink-white fibrous tissue. The remaining
+breast 
+parenchyma consists of lobules of yellow adipose. A portion of tumor
+has previously 
+been submitted to TPS. The remaining specimen is
+representatively submitted.
+Summary of sections:
+MT - tumor and closest tissue edge
+FFT -- full face of tumor
+T -
+RS
+tumor
+present in sections of remaining fibrous tissue
+.A.
+3). The specimen is received fresh, labeled "superior margin left breast"
+and consists of a 
+piece of fibrofatty breast tissue measuring 2.6 x 2.6 cm,
+and 0.6 cm thick. 
+A stitch marks the new margin of excision, which is inked
+black. 
+The tissue is serially sectioned and entirely submitted.
+** Continued on next page **
+N
+Summary of sections:
+SS sequential sections
+Page 3 of 6
+4). The specimen is received fresh, labeled "medial margin left breast" and
+consists of a piece 
+of fibrofatty breast tissue measuring 3 x 1.8 cm, and
+0.9 cm thick. A 
+stitch marks the new margin of excision, which is inked
+black. The tissue 
+is serially sectioned and entirely submitted.
+Summary of sections:
+SS - sequential sections
+5). The specimen is received fresh, labeled "inferior margin left breast"
+and consists of a 
+piece of fibrofatty breast tissue measuring 2.5 x 2.2 cm,
+and 0.8 cm thick. 
+A stitch marks the new margin of excision, which is inked
+black. The 
+tissue is serially sectioned and entirely submitted.
+Summary of sections:
+SS
+-
+sequential sections
+and
+6). The specimen is received fresh, labeled "lateral margin left breast" and
+consists of a piece 
+of fibrofatty breast tissue measuring 3.5 x 3.2 cm,
+1 cm thick. A 
+stitch marks the new margin of excision, which is inked
+black
+. The tissue is serially sectioned and entirely submitted.
+Summary of sections:
+SS -
+sequential sections
+7). The specimen is received fresh, labeled "posterior pectoral fascia
+margin left 
+breast fresh" and consists of a piece of fibrofatty breast
+tissue measuring 
+2.6 x 1.6 cm, and 0.7 cm thick. A stitch marks the new
+margin of excision
+, which is inked black. The tissue is serially sectioned
+and 
+entirely submitted.
+Summary of sections:
+SS sequential sections
+Summary of Sections:
+Part 1: SP: Sentinel node left axilla (fs)
+Block
+1
+Sect. Site
+fscλ
+PCs
+2
+** Continued on next page **
+3
+1
+1
+1.
+Part 2:
+Block
+1
+1
+2
+3
+Part 3:
+Block
+4
+Part 4:
+Block
+4
+Part 5:
+Block
+5
+Part 6:
+Block
+6
+Part 7:
+Block
+3
+fscB
+EscC
+fscD
+SP: Left breast lumpectomy
+Sect. Site
+FFT
+MT
+RS
+T
+PCs
+1
+1
+4
+5
+SP: Superior margin, left breast
+Sect. Site
+SS
+PCs
+7
+SP: Medial margin, left breast
+Sect. Site
+SS
+PCs
+8
+SP: Inferior margin, left breast
+Sect. Site
+SS
+PCs
+7
+SP: Lateral margin, left breast
+Sect. Site
+SS
+PCs
+8
+Page 4 of 6
+2
+2
+2
+SP: Posterior pectoral fascia margin, left breast
+Sect. Site
+SS
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+PCs
+7
+Status:
+By:
+Signed Out
+M.D.
+Addendum Diagnosis
+PART #2
+LEFT BREAST:
+Immunohistochemical stains were performed on formalin-fixed tissue with the
+following results for invasive carcinoma (
+block 2):
+ESTROGEN RECEPTOR
+0% nuclear staining
+PROGESTERONE RECEPTOR
+0% nuclear staining
+HER2 (
+** Continued on next page **
+4
+Page 5 of 6
+Negative (0)
+(0% of invasive tumor cells exhibit complete membranous staining;
+Uniformity of 
+staining: absent;
+Homogeneous, dark circumferential pattern: absent)
+Comment: Controls are satisfactory.
+PATHWAY anti-HER-2/neu is an
+FDA-approved rabbit monoclonal primary antibody (clone 4B5) directed against
+the internal domain of the c-
+erbB-2 oncoprotein (HER2) for
+immunohistochemical detection of HER2 protein overexpression in breast
+cancer tissue routinely 
+processed for histologic evaluation. The HER2 test
+results are reported in 
+accordance with the ASCO/CAP guideline
+recommendations for 
+HER2 testing in breast cancer (J Clin Oncol 2007;
+25 (1):118-145).
+approved.
+The ER and PR rabbit monoclonal antibodies are also FDA
+1. SENTINEL LYMPH NODE(S), LEFT AXILLA (PART 1)
+Additional H/E stained sections and immunohistochemical stains for
+cytokeratins (AE1
+:AE3) show no evidence of metastatic tumor.
+Some of the immunohistochemistry and ISH tests are developed and
+performance 
+characteristics were determined by
+thain
+They have not been cleared or approved by the US Food and Drug
+Administration. The 
+FDA has determined that such clearance or approval is
+not necessary. These tests 
+are used for clinical purposes. They should not
+be regarded as investigational 
+or for research. This laboratory is certified
+under the Clinical Laboratory 
+Improvement Amendments of 1988 (CLIA 88) as
+qualified to perform high 
+complexity clinical laboratory testing.
+M.D.
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the 
+intraoperative consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+SP: SENTINEL NODE LEFT AXILLA (FS):
+BENIGN LYMPH NODES
+PERMANENT DIAGNOSIS:
+SAME.
+D
+Note:
+The diagnoses given in this section pertain only to the tissue sample
+examined 
+at the time of the 
+intraoperative consultation.
+**Continued on next page **
+S
+1)
+FROZEN SECTION DIAGNOSIS:
+BENIGN LYMPH NODES
+>
+PERMANENT DIAGNOSIS:
+SAME.
+** End of Report **
+Page 6 of 6
+SP: SENTINEL NODE LEFT AXILLA (FS):
+19.6

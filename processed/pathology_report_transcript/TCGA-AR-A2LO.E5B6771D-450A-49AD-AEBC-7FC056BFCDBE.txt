@@ -1,0 +1,35 @@
+ICD-0-3
+carcinoma, infiltrating lobule, Nos 8520/3
+Site: breast, NUS C50.9
+کھیل
+8/18/11
+Final Diagnosis
+A. Breast, left, simple mastectomy: Infiltrating lobular carcinoma, Nottingham grade I (of III)
+[tubules 3/3, nuclei 1/3, mitoses 1/3; Nottingham score 5/9] is identified forming a mass (4.8 x
+2.7 x 1.9 cm) located in the lower outer quadrant of the breast. Biopsy site changes are present.
+The tumor does not involve the nipple, overlying skin, or underlying chest wall. Lobular
+carcinoma in situ is also present. All surgical resection margins, including the deep margin, are
+negative for tumor (minimum tumor free margin, 0.3 cm, deep margin and 0.5 cm, superficial
+margin). With available surgical material, the AJCC staging is pT2NXMX (see comment).
+B. Breast, right, simple mastectomy: Benign nonproliferative breast parenchyma.
+C. Lymph nodes, left axillary, lymphadenectomy: Multiple (14) lymph nodes are negative for
+tumor.
+D. Lymph nodes, left lowest axillary, lymphadenectomy: Fibroadipose tissue, negative for
+tumor. No lymphoid tissue identified.
+UUID:E5B6771D-450A-49AD-AEBC-7FC056BFCDBE
+TCGA-AR-A2L0-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+DISQUAUFIED
+Date Reviewed: /b/11
+w 8/18/11
+7

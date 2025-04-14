@@ -1,0 +1,51 @@
+UUID:F9B6971F-23C0-465F-BFEC-778BF228A1AE
+TCGA-5L-AATO-01A-PR
+Redacted
+Date:
+Gender: Female
+Color: White
+Origin:
+Nature of material: Breast
+Biopsy number:
+PATHOLOGY REPORT:
+Gross description:
+Received one piece of fibrofatty tissue measuring 2.2 x1.2 x 0.4 cm marked with shorts suture.
+On slicing in the central part is a white and firm area measuring 0.4 cm in the largest
+diameter.
+Microscopy
+Dispensable description.
+Conclusions:
+Right breast wide excision:
+100-0.3
+Carcenon, lobular infiltrating NOS
+Sate & Breast HOS
+852013
+-
+Invasive lobular carcinoma, grade 1;
+Immunohistochemistry:
+e-cadherin: negative;
+ER: positive in 70%;
+-
+PgR positive in 20%;
+HER2: negative (score 1+)
+PARTICIPANTS OF APPRAISAL REPORT
+Issuer
+- Reviewer
+Reviewer
+C50.9
+05/21/14
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+2/1/14
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+1721/14
+4

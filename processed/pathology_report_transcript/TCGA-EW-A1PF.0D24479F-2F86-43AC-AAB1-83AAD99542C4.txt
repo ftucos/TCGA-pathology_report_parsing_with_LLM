@@ -1,0 +1,275 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+J.
+SENTINEL NODE #1:
+-
+- No carcinoma seen in one lymph node (0/1).
+- Immunohistochemistry for keratin is pending.
+SENTINEL NODE #2:
+· No carcinoma seen in one lymph node (0/1).
+|- Immunohistochemistry for keratin is pending.
+SENTINEL NODE #3:
+-
+- No carcinoma seen in two lymph nodes (0/2).
+|- Immunohistochemistry for keratin is pending.
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+3/12/11
+050.9
+UUID:0D24479F-2F86-43AC-AAB1-83AAD99542C4
+TCGA-EW-A1PF-01A-PR
+Redacted
+RIGHT BREAST, ONE STITCH SUPERIOR, TWO STITCHES LATERAL:
+- INFILTRATING DUCTAL CARCINOMA, moderately differentiated, Nottingham grade 2 (2+3+2=7), 2.0 cm in greatest
+dimension.
+- Margins are free of invasive carcinoma
+- Lymphovascular invasion is not identified.
+Prior biopsy site
+See tumor summary.
+DUCTAL CARCINOMA IN SITU, high nuclear grade (DIN 3) with expansive comedo necrosis, solid type, present in 2/10
+slides and representing less than 5% of submitted tissue.
+- Margins free of DCIS.
+NON-SENTINEL LYMPH NODE:
+|- No carcinoma seen in two lymph nodes (0/2).
+-
+SENTINEL NODE #4:
+· No carcinoma seen in one lymph node (0/1).
+- Immunohistochemistry for keratin is pending.
+SENTINEL NODE #5:
+No carcinoma seen in one lymph node (0/1).
+Immunohistochemistry for keratin is pending.
+SENTINEL NODE #6:
+|- No carcinoma seen in one lymph node (0/1).
+|- Immunohistochemistry for keratin is pending.
+SENTINEL NODE #7:
+No carcinoma seen in one lymph node (0/1).
+Immunohistochemistry for keratin is pending.
+SENTINEL NODE #8:
+-
+· No carcinoma seen in one lymph node (0/1).
+Immunohistochemistry for keratin is pending.
+TUMOR SUMMARY
+Specimen:
+- Total breast (including nipple and skin)
+Procedure:
+Total mastectomy (including nipple and skin)
+Lymph Node Sampling:
+- Sentinel lymph node(s)
+SURGICAL PATHOL Report
+- Axillary dissection (partial or complete dissection)
+Specimen Integrity:
+- Single intact specimen (margins can be evaluated)
+Specimen Laterality:
+-
+- Right
+Tumor Site: Invasive Carcinoma
+-
+- Upper outer quadrant
+Central
+Tumor Size: Size of Largest Invasive Carcinoma
+-
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.0 cm
+- Additional dimensions: 2.0 x1.0 cm
+Tumor Focality:
+· Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of tumor:
+- Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Skeletal muscle: Skeletal muscle is present and is free of carcinoma
+Ductal Carcinoma In Situ (DCIS):
+DCIS IS PRESENT
+Extensive intraductal component (EIC) negative
+Size (Extent) of DCIS:
+-Estimated size (extent) of DCIS (greatest dimension using gross and microscopic evaluation) is at
+least: 5 cm
+*Number of blocks with DCIS: 2
+*Number of blocks examined: 10
+· Architectural Patterns: Solid
+- Nuclear Grade: Grade III (high)
+-
+Necrosis: Present, central (expansive "comedo" necrosis)
+Lobular Carcinoma in Situ (LCIS)
+Not identified
+Histologic Type of Invasive Carcinoma:
+- Invasive ductal carcinoma (no special type or not otherwise specified)
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation: Score 2
+Nuclear Pleomorphism: Score 3
+Mitotic Count: Score 2
+Overall Grade: Grade 2: score 7
+Margins:
+|- Margins uninvolved by invasive carcinoma
+Distance from closest margin: 6 mm (deep)
+· Margins uninvolved by DCIS
+Distance from closest margin: 14 mm (deep)
+Treatment Effect: Response to Presurgical (Neoadjuvant) therapy:
+- In the Breast: No known presurgical therapy
+In the Lymph Nodes: No known presurgical therapy
+Lymph-Vascular Invasion: Not identified.
+"Dermal Lymph-Vascular Invasion: Not identified
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 9
+Total number of lymph nodes examined (sentinel and nonsentinel): 11
+[Number of lymph nodes with macrometastases (>0.2 cm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+[Number of lymph nodes with isolated tumor cells (≤0.2 mm and $200 cells): 0
+*Method of Evaluation of Sentinel Lymph Nodes: Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM): pT1c NO Mx
+Primary Tumor: pT1c
+Regional Lymph Nodes: pNO
+Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor:
+Performed on another specimen i
+Progesterone Receptor:
+Performed on another specimen.
+Immunohistochemistry pending
+; Results: Immunoreactive tumor cells present (≥1%)
+); Results: Immunoreactive tumor cells present (≥1%)
+Page 2 of 5
+Her2:
+- Performed on another specimen
+SURGICAL PATHOL Report
+AJCC classification (7th ed) (pTNM): pT1c N0 Mx
+); Results: Negative
+NOTE. Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636-PR, A485-HER2, H-11-EGFR. All immunohistochemical stains are used with formalin 
+or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist a positive or negative.
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+Procedures/Addenda
+Addendum
+***Electronically Signed Out By***
+Addendum Diagnosis
+A: Immunohistochemistry for keratin is negative.
+B: Immunohistochemistry for keratin is negative.
+C: Immunohistochemistry for keratin is negative.
+F: Pending Immunohistochemistry (keratin).
+G: Immunohistochemistry for keratin is negative.
+H: Immunohistochemistry for keratin is negative.
+1: Immunohistochemistry for keratin is negative.
+J: Immunohistochemistry for keratin is negative.
+Intraoperative Consultation
+A. Sentinel node #1, FS: No carcinoma seen
+B. Sentinel node #2, FS: No carcinoma seen
+C. Sentinel node #3, FS: No carcinoma seen
+F. Sentinel node #4, FS: No carcinoma seen
+G. Sentinel node #5, FS: No carcinoma seen
+H. Sentinel node #6, FS: No carcinoma seen
+1. Sentinel node #7, FS: No carcinoma seen
+J. Sentinel node #8, FS: No carcinoma seen
+Date Ordered:
+Date Complete:
+Date Reported:
+Status: Signed Out
+MD
+'. IVTI
+Page 3 of 5
+SURGICAL PATHOL Report
+Clinical History:
+None provided
+Operation Performed
+Right total mastectomy with sentinel node and possible axillary dissection
+Pre Operative Diagnosis:
+Right breast carcinoma
+Specimen(s) Received:
+A: Sentinel node #1, FS
+B: Sentinel node #2, FS
+C: Sentinel node #3, FS
+D: Right breast, one stitch superior, two stitches lateral
+E: Non sentinel lymph node
+F: Sentinel node # 4, FS
+G: Sentinel node # 5, FS
+H: Sentinel node #6, FS
+1: Sentinel node #7, FS
+J: Sentinel node #8, FS
+Gross Description:
+A.
+B.
+C.
+д
+Received fresh is a yellow-tan tissue, measuring 1.6 x 1.1 x 0.2 cm. Bisected and submitted in toto in one cassette for
+frozen section.
+Received fresh is a tan-yellow tissue, 1.9 x 0.9 x 0.3 cm. Bisected and submitted in toto in one cassette for frozen
+section.
+Received fresh are fragments of tan tissue, 3.1 x 2.1 x 0.3 cm. Sections are submitted as follows:
+Possible lymph node, bisected, for frozen section
+Remaining tissue in toto
+1
+Received in formalin is a total mastectomy weighing 450 grams, measuring 20.0 x 16.0 x 2.6 cm with a portion of skin
+16.5 x 7.0 cm. The areola is 2.0 cm. In the upper outer portion of the breast 0.6 cm 
+from the deep margin and 1.6 cm
+posterior to the skin at approximately 11 o'clock is an ill-defined fibrotic area 2.0 x 
+2.0 x 1.0 cm in dimension. No other
+lesions are grossly identified. Resection margins inked in black. 
+Stroma to fat ratio is 5 to 95%. Sections submitted 
+as
+follows:
+Nipple (base of nipple) and tip in perpendicular sections
+Composite section of the ill-defined mass in relation to the deep margin and to the anterior skin (Cassette 2
+contains skin, cassette 3 contains deep margin)
+Additional sections of lesion in relation to deep margin
+Additional sections of lesion in relation to surrounding breast tissue
+1
+2&3
+4&5
+6&7
+18
+19
+Section from upper inner quadrant
+10
+Lower inner quadrant
+E.
+Section from lower outer quadrant
+F.
+G.
+H.
+1.
+Received in formalin are multiple fragments of adipose tissue, 1.6 x 1.3 x 0.4 cm. The specimen is submitted in toto in
+one cassette.
+Received fresh is a tan-red tissue fragment, 0.9 x 0.6 x 0.2 cm. The specimen is bisected and submitted in toto in one
+cassette for frozen section.
+Received fresh is a tan tissue fragment, 1.1 x 0.6 x 0.4 cm. The specimen is bisected and submitted in toto in one
+cassette for frozen section.
+Received fresh is tan tissue fragment, 1.1 x 0.6 x 0.3 cm. The specimen is bisected and submitted in toto in one cassette
+for frozen section.
+Received fresh is a tan tissue fragment, 0.6 x 0.5 x 0.3 cm. The specimen is bisected and submitted in toto in one
+cassette for frozen section.
+Page 4 of 5
+SURGICAL PATHOL Report
+Received fresh is a tan tissue fragment, 0.7 x 0.4 x 0.3 cm. The specimen is submitted in toto in one cassette for frozen
+section.
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+THE QUALIFIED
+DISQUALIFIED
+Date Reviewed:
+Page 5 of 5

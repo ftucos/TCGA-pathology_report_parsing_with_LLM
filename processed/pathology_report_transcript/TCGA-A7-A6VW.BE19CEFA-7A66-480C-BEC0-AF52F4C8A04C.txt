@@ -1,0 +1,74 @@
+UUID:BE19CEFA-7A66-480C-BECO-AF52F4C8A04C
+TCGA-A7-A6VW-01A-PR
+Redacted
+Final Surgical Pathology Report
+ICD-0-3
+Carcinoma, infiltrating duct
+NOS
+850013
+Site Breast Nos
+C50.9
+Procedure:
+Diagnosis
+A. Sentinel lymph node, left axilla, biopsy: Two negative lymph
+nodes (0/2).
+B. Breast, left, excisional biopsy:
+Invasive ductal carcinoma, grade
+3, size 3.0 cm in greatest dimension, close to the medial and
+inferior margins.
+Microscopic Description:
+Invasive carcinoma:
+Histologic type:
+Ductal
+Histologic grade: 3
+Overall grade: 9/9
+Architectural score: 3
+Nuclear score:
+3
+Mitotic score: 3
+Greatest dimension (pT2): Size 3.0 cm in greatest dimension
+Specimen margins: Carcinoma is well-demarcated, and forms a
+discrete mass lesion that is less than 1 mm from the medial
+margin and 0.5 mm from the inferior margin.
+Vessel invasion: Not identified
+Ductal carcinoma in situ: Not identified.
+Comment: Prior biopsy site identified.
+Distant metastasis (PM): Unknown
+Lymph nodes: Two negative sentinel lymph nodes, 0/2.
+Prognostic markers: See previous core biopsy
+Specimen
+A. Left axillary sentinel node
+B. Left breast biopsy
+Clinical Information
+Left breast cancer,
+yo BF with grade 3 IDC
+Gross Description
+A. Received unfixed, labeled left axillary sentinel node, are two
+lymph nodes, the larger of which is 1.4 x 1.2 x 1.0 cm, bisected
+and submitted in blocks 1-2, and an additional node, 1.0 x 0.5 x
+0.5 cm, bisected and submitted in block 3.
+B. Received unfixed in a
+container, labeled left breast, is
+a portion of fibrofatty tissue that is oriented and 6.0 cm anterior
+to posterior, 4.5 cm medial to lateral, and 2.3 cm superior to
+inferior. Margins are inked: inferior blue, superior black,
+medial yellow, lateral green. The specimen is serially sectioned
+from anterior to posterior. There is a 3.0 x 2.0 x 1.9 cm tumor
+present, adjacent to the medial and inferior margins.
+Representative sections, including the anterior and posterior shave
+margins, sequentially submitted in 8 blocks.
+27/25/13
+riteria
+Nw 7/13/13 Yas
+iagnosis Discrepancy
+سل
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+cal/Synchronous Primary Noted
+Case is (circle):
+eviewer initials:
+QUALIFIED
+DISQUALIFIED
+Dle Reviewed: 11113
+No

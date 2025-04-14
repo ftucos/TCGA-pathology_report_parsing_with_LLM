@@ -1,0 +1,369 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Pathologic Interpretation:
+Surgical Pathology Report
+* Revised *
+AMENDMENT,
+A.
+SUPERIOR MEDIAL MARGIN, RULE OUT TUMOR:
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+し
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, NoS C50.9 3/12/11 for
+B.
+C.
+D.
+No malignancy seen.
+SENTINEL NODE #1:
+Microscopic foci of carcinoma are highlighted by Keratin (1/1).
+SENTINEL NODE #2:
+- No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin is negative for carcinoma.
+SENTINEL NODE #3:
+E.
+F.
+G.
+-
+Metastatic carcinoma to one lymph node (1/1) with extracapsular extension.
+RIGHT BREAST MASS:
+- Invasive ductal carcinoma Nottingham grade 2 (3+2+1); 4.2 cm in greatest dimension.
+- Specimen margins are negative for tumor closest margins are anterior and superior, 0.2 cm (See Tumor Summary).
+- Lymphovascular 
+invasion 
+is 
+identified.
+ADDITIONAL AXILLARY FAT:
+- No malignancy seen in one lymph node (0/1).
+ADDITIONAL SUPERIOR MARGIN:
+- Microscopic focus of invasive ductal carcinoma, 0.1 cm, adjacent to inked resection margin.
+- The focus of invasive carcinoma is present at the inked margin adjacent to previous resection.
+-
+The “new” inked margin is free of tumor.
+Redacted
+H.
+1.
+-
+- Lymphatic tumor emboli are identified.
+RIGHT AXILLARY CONTENTS:
+No malignancy seen in nineteen lymph nodes (0/19).
+ADDITIONAL AXILLARY CONTENTS LEVEL 2-3 LYMPH NODES:
+-
+No malignancy seen in two lymph nodes (0/2).
+Tumor Summary:
+Specimen:
+-
+Partial breast
+Procedure:
+Excision without wire-guided localization.
+Lymph Node Sampling:
+- Sentinel lymph nodes
+- Axillary dissection
+Specimen integrity:
+- Multiple designated specimens
+Specimen Size:
+UUID:6FEAD496-58BA-42DC-A3F2-2F380EEB1588
+TCGA-EW-A1P6-01A-PR
+-
+Greatest dimension: 8.5 cm
+* Additional dimension: 6 x 5 cm.
+Laterality:
+Right
+Tumor Size:
+-
+SURGICAL PATHOL Report
+• Greatest dimension of largest focus of invasion over 0.1 cm: 4.2 cm.
+- Additional dimensions: 3.8 x 2.8 cm.
+Tumor Focality:
+- Single focus of invasive carcinoma.
+Macroscopic and Microscopic Extent of tumor:
+Skin: Skin is not present.
+Skeletal muscle: No skeletal muscle present
+Lobular Carcinoma IN Situ (LCIS):
+- Not identified
+Histologic Type of Invasive Carcinoma:
+- Invasive ductal carcinoma
+Histologic Grade:
+-
+Glandular (Acinar)/Tubular Differentiation:
+- Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism:
+-
+Score 2: Cells larger than normal with open vesicular nuclei, visible nucleoli, and moderate variability in both size and
+Shape
+- Mitotic Count:
+-
+-
+Score 1
+Overall Grade:
+Margins:
+-
+· Grade 2: scores of 6 or 7
+- Margins negative for invasive carcinoma.
+Lymph-Vascular Invasion:
+Present
+Lymph Nodes:
+- Number of sentinel lymph nodes examined: 3
+- Total number of lymph nodes examined (sentinel and Nonsentinel): 25
+-
+Number of lymph nodes with macrometastases (>0.2 cm): 2
+Extranodal Extension:
+-
+Present
+Method of Evaluation of Sentinel Lymph Nodes:
+- Hematoxylin and eosin (H&E), one level
+- Immunohistochemistry
+Pathologic Staging:
+- Primary Tumor: pT2: Tumor >20 mm but ≤50 mm in greatest dimension
+- Regional Lymph Nodes: pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+- Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor:
+•
+• Performed on another specimen:
+Progesterone Receptor.
+-
+HER2/neu
+.
+• Performed on another specimen:
+Performed on another specimen:
+Clinical History:
+- Palpable mass
+Pathologic Staging (pTNM): pT2, N1a, M-not applicable
+Results: Immunoreactive tumor cells present (≥1%)
+Results: Immunoreactive tumor cells present (≥1%)
+Results: Negative (Score 0)
+PREVIOUSLY ISSUED DIAGNOSIS:
+A.
+B.
+C.
+SUPERIOR MEDIAL MARGIN, RULE OUT TUMOR:
+-
+No malignancy seen.
+SENTINEL NODE #1:
+- No malignancy seen in one lymph node (0/1).
+Immunohistochemistry for keratin to follow.
+SENTINEL NODE #2:
+Page 2 of 6
+SURGICAL PATHOL Report
+D.
+E.
+F.
+G.
+H.
+1.
+- No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin to follow.
+SENTINEL NODE #3:
+- Metastatic carcinoma to one lymph node (1/1) with extracapsular extension.
+RIGHT BREAST MASS:
+- Invasive ductal carcinoma Nottingham grade 2 (3+2+1); 4.2 cm in greatest dimension.
+- Specimen margins are negative for tumor closest margins are anterior and superior, 0.2 cm (See Tumor Summary).
+- Lymphovascular invasion is identified.
+ADDITIONAL AXILLARY FAT:
+- No malignancy seen in one lymph node (0/1).
+ADDITIONAL SUPERIOR MARGIN:
+- Microscopic focus of invasive ductal carcinoma, 0.1 cm, adjacent to inked resection margin.
+- Lymphatic tumor emboli are identified.
+RIGHT AXILLARY CONTENTS:
+-
+· No malignancy seen in nineteen lymph nodes (0/19).
+ADDITIONAL AXILLARY CONTENTS LEVEL 2-3 LYMPH NODES:
+- No malignancy seen in two lymph nodes (0/2).
+Tumor Summary:
+Specimen:
+-
+Partial breast
+Procedure:
+- Excision without wire-guided localization.
+Lymph Node Sampling:
+- Sentinel lymph nodes
+- Axillary dissection
+Specimen Integrity:
+· Multiple designated specimens
+Specimen Size:
+-
+Greatest dimension: 8.5 cm
+* Additional dimension: 6 x 5 cm.
+Laterality:
+Right
+Tumor Size:
+- Greatest dimension of largest focus of invasion over 0.1 cm: 4.2 cm.
+- Additional dimensions: 3.8 x 2.8 cm.
+Tumor Focality:
+- Single focus of invasive carcinoma.
+Macroscopic and Microscopic Extent of tumor:
+-
+-
+Skin: Skin is not present.
+Skeletal muscle: No skeletal muscle present
+Lobular Carcinoma IN Situ (LCIS):
+- Not identified
+Histologic Type of Invasive Carcinoma:
+-
+Invasive ductal carcinoma
+Histologic Grade:
+- Glandular (Acinar)/Tubular Differentiation:
+-
+Score 3: <10% of tumor area forming glandular/tubular structures
+- Nuclear Pleomorphism:
+-
+Score 2: Cells larger than normal with open vesicular nuclei, visible nucleoli, and moderate variability in both size and
+Shape
+- Mitotic Count:
+- Overall Grade:
+-
+Score 1
+-
+Grade 2: scores of 6 or 7
+Margins:
+Page
+3 of 6
+- Margins positive for invasive carcinoma.
+SURGICAL PATHOL Report
+· Specify margin and Extent of involvement: Superior margin, focal
+Lymph-Vascular Invasion:
+- Present
+Lymph Nodes:
+-
+• Number of sentinel lymph nodes examined: 3
+• Total number of lymph nodes examined (sentinel and Nonsentinel): 25
+-
+- Number of lymph nodes with macrometastases (>0.2 cm): 1
+Extranodal Extension:
+-
+- Present
+Method of Evaluation of Sentinel Lymph Nodes:
+- Hematoxylin and eosin (H&E), one level
+- Immunohistochemistry
+Pathologic Staging:
+- Primary Tumor: pT2: Tumor >20 mm but ≤50 mm in greatest dimension
+- Regional Lymph Nodes: pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+- Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor:
+-
+Performent on another specimen
+Progesterone
+HER
+Clinical History:
+- Palpable mass
+tor:
+ed on another specimen:
+med on another specimen:
+Pathologic Staging (pTNM): pT2, N1a, M-not applicable
+Results: Immunoreactive tumor cells present (≥1%)
+Results: Immunoreactive tumor cells present (≥1%)
+Results: Negative (Score 0)
+NOTE: Some immunohistochem
+IDS-FR. PgR 636-PR, A485-H
+pathologist as positive or negative.
+we analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+*All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+As the attending pathologist, I attest that 1: (1) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Amendments
+Amended
+by
+Reason: Diagnosis editing/clarification
+New information provided to Dr.
+: by physician.
+Previous Signout Date:
+Intraoperative Consultation
+A. Superior medial margin, rule out tumor, FS: No tumor seen.
+B. Sentinel node #1, FS: Negative for carcinoma (touch prep and frozen)
+C. Sentinel node #2, FS: Negative for carcinoma (touch prep and frozen)
+D. Sentinel node #3, FS: Atypical cells on touch prep-carcinoma cannot be excluded.
+FS: Metastatic carcinoma in lymph node.
+MD
+* MD
+Page 4 of 6
+SURGICAL PATHOL Report
+MD
+Clinical History:
+female with right breast mass. Biopsy shows invasive ductal carcinoma
+Operation Performed
+Lumpectomy right breast with sentinel node
+Pre Operative Diagnosis;
+Breast cancer
+Specimen(s) Received:
+A: Superior medial margin, rule out tumor, FS
+B: Sentinel node #1, FS
+C: Sentinel node #2, FS
+D: Sentinel node #3, FS
+E: Right breast mass
+F: Additional axillary fat
+G: Additional superior margin
+H: Right axillary contents
+1: Additional axillary contents level 2-3 lymph nodes
+Gross Description:
+A.
+B.
+Received fresh are two yellow-tan tissue fragments, measuring up to 1.0 cm in length. In toto in one cassette for frozen.
+Received fresh is a light brown lymph node 1.5 x 1.0 cm. In toto in one cassette for frozen.
+C.
+Received fresh is a lymph node, measuring 2.0 x 1.5 cm. In toto in one cassette for frozen.
+D.
+Received fresh is a lymph node, measuring 1.2 x 1.0 cm. In toto in one cassette for frozen.
+E.
+F.
+G.
+H.
+Received in formalin is a yellow-tan fibroadipose tissue fragment, weighing 89 grams, measuring 8.5 x 6.0 x 5.0 cm. The
+specimen is oriented with a short superior, long lateral and double stitch deep margin. Inked as follows: Superior in blue,
+inferior in green, deep black, anterior yellow, lateral orange and medial red. Cross section through the specimen shows
+yellow-tan cut surface. There is an ovoid, markedly firm, tumoral mass, measuring 4.2 x 3.8 x 2.8 cm. The mass is
+within 2 mm from superior and anterior inferior margin. No other firm masses were grossly identified. Sections submitted
+as follows:
+1&2
+3-5
+6&7
+8
+9
+Composite resection of the largest axis of the mass from antero-inferior to superior margin
+Additional section of the mass in relation with the antero-inferior margin
+Section of the mass in relation with the deep resection margin
+Medial margin
+Lateral margin
+Received in formalin are multiple yellow-tan adipose tissue fragments, measuring 6.0 x 4.0 x 1.0 cm in aggregate. No
+lymph nodes were grossly identified. Sections from the fat tissue in three cassettes.
+Received in formalin is a yellow-tan adipose tissue fragment (additional superior margin), measuring 6.0 x 3.0 x 1.0 cm.
+Multiple sutures orient the specimen as a true margin. The true margin in green. The opposite margin in black. Cross
+section through the specimen shows a yellow-tan cut surface. No masses were grossly present. Submitted in toto in
+eight cassettes.
+Received in formalin are multiple yellow-tan fibroadipose tissue fragments, measuring 10.0 x 7.0 x 3.0 cm in aggregates.
+Twenty lymph nodes are present, measuring up to 0.8 x 0.7 cm in greatest dimension. Sections as follows:
+1
+2-8
+Two lymph nodes in toto
+Three lymph nodes in toto per cassette
+Received are multiple yellow-tan fibroadipose tissue fragments, measuring 5.0 x 3.0 x 1.0 cm. Four lymph nodes are
+identified, measuring up to 0.6 x 0.4 cm. Sections as follows:
+1&2
+Two lymph nodes in toto per cassette
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+ase is (circle):
+teviewer Initials
+☑QUALIFIED
+DISQUALIFIED
+Date Reviewed: 5712
+fw 3/12/17
+Page 5 of 6
+SURGICAL PATHOL Report
+Page 6 of 6

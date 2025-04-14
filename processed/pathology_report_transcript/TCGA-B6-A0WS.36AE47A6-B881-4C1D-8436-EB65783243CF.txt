@@ -1,0 +1,77 @@
+Surgical De
+Surg Path
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, NOS
+050.9
+1/25/11
+CLINICAL HISTORY:
+Left breast mass. FNA positive for CA.
+GROSS EXAMINATION:
+A. "Left breast biopsy, short superior, long lateral", gross consult, received
+fresh. Received is 83 grams of fatty tissue (7.5 x 7 x 3 cm) which contains a
+1.5 x 1.5 x 1.3 cm firm white stellate mass. A short suture designates the
+superior and a long suture the lateral margin. The deep margin is inked blue,
+superior black, and inferior red. The firm mass is 0.8 cm from its closest
+margin (the superior-inferior border on the anterior surface) and 1 cm its
+next nearest margin, the deep margin. Lateral to the mass and distinct from
+it is a region of extensive rubbery, white fibrous tissue. A portion of the
+mass is submitted for ER/PR. The entire tumor and its surrounding tissue, and
+representative sections of the fibrous region are submitted sequentially from
+medial to lateral in Blocks Al-A14. with the tumor in Blocks A2-A8.
+Dr.
+with Dr.
+INTRA OPERATIVE CONSULTATION:
+A. "Left breast biopsy", (gross consult): 0.8 cm from closest resection
+margin, at the superior-inferior border on the anterior surface. 1 cm from
+deep margin.
+DIAGNOSIS:
+A. "LEFT BREAST BIOPSY" (EXCISIONAL BIOPSY) :
+INFILTRATING DUCTAL CARCINOMA.
+N.S.A.B.P. HISTOLOGIC GRADE: 2 OF 3.
+N.S.A.B.P. NUCLEAR GRADE: 2 OF 3.
+GROSS TUMOR SIZE: 1.6 CM.
+IN-SITU CARCINOMA, PRESENT: OCCUPYING LESS THAN 10% OF TUMOR VOLUME.
+TYPE OF IN SITU CARCINOMA: SOLID AND CRIBRIFORM.
+LYMPHATIC/VASCULAR INVASION: NOT UNEQUIVOCALLY PRESENT.
+SURGICAL MARGIN STATUS: NEGATIVE.
+STATUS OF UNINVOLVED BREAST TISSUE: MILD FIBROCYSTIC CHANGE.
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS PENDING: YES.
+METHODOLOGY: FRESH TISSUE.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+:
+ADDENDUM 1:
+Verified by:
+'
+M.D. Pager.
+Date Signed:
+Tissue was sent to the
+for assay of the estrogen
+and progesterone receptors. The estrogen receptor activity was judged as
+positive with an estimated FMOL value of 39. The progesterone receptor
+activity was judged as negative with an estimated FMOL value of 0.
+refer to
+for a complete report.
+Please
+:
+1
+Verified by:
+Date Signed:
+UUID:36AE47A6-B881-4C1D-8436-EB65783243CF
+TCGA-B6-AOWS-01A-PR
+M.D. Pager#
+criteria
+Redacted
+Diagnosis Discrepancy
+Frimary Turnor Site Discrepancy
+HIPAA Discrepancy
+Por Malignancy History
+Ju/Synchronous Primary Note
+Case is (circle):
+He viewer initials
+WALIFIED
+Date Reviewed:
+My
+tw
+Yes
+No
+DISQUALIFIED

@@ -1,0 +1,124 @@
+FINAL PATHOLOGIC DIAGNOSIS
+A. Left axillary sentinel lymph node #1; biopsy:
+- Two lymph nodes, no tumor (0/2)
+ICD-0-3
+Carcinoma, Infiltrating
+ductal Nos 8500/3
+Site ①Breast NOS
+0509
+1 2/18/13
+B. Left axillary sentinel lymph node #2; biopsy:
+- One lymph node, no tumor (0/1)
+UUID:927COD4A-327A-4168-80C7-151A4B865CC9
+TCGA-OL-ASRZ-01A-PR
+Redacted
+C. Left breast; simple mastectomy:
+- Invasive ductal carcinoma, SBR grade III arising in a background of
+ductal carcinoma in situ, high nuclear grade, solid type, with central necrosis.
+See parameters.
+- Uninvolved breast parenchyma with rare microcalcifications associated
+with benign acini and focal apocrine metaplasia
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Microscopic measurement: 7mm
+B. Composite histologic (modified SBR) grade: III
+- Architecture: 3
+Nuclear grade: 3
+- Mitotic count: 2
+C. Associated intraductal carcinoma in situ (DCIS): present
+- Intermediate and high nuclear grades, solid type with central necrosis
+- Extent of DCIS microscopically is consistent with the 10.2 x 5.4 x 3.5 cm
+of non-mass like enhancement seen radiographically.
+2. Excisional biopsy margins: Free of tumor
+- Invasive carcinoma >1cm from closest margin
+- DCIS 8mm from anterior margin, superior aspect
+3. Blood vessel and lymphatic invasion: Absent
+4. Nipple and skin: Unremarkable
+5. Skeletal muscle: Absent
+6. Axillary lymph nodes: Negative (0/3)
+7 Special studies (invasive component, current specimen)
+-
+ER: weak expression in 30% of cells
+- PR: no expression
+- Ki-67: 10-20%
+- HER2 (FISH): pending
+8. pTNM (AJCC, 7th edition, 2010): pT1b, NO(sn), MX
+Clinical History:
+The patient is a
+-year-old female who presented with an abnormal screening
+mammogram on
+that revealed a large area of pleomorphic calcifications
+biopsied as ductal carcinoma in situ, high grade, solid type with central
+necrosis. Left breast MRI on
+evealed segmental clumped non-mass
+enhancement with mixed kinetics measuring 10.2 x 5.4 x 2.5 cm associated with a
+lateral biopsy clip. A 0.7 x 1.0 x 1.0 cm mass with washout kinetics, suspicious
+for invasive component was seen just posterior to the biopsy clip. The patient
+undergoes simple mastectomy, sentinel lymph node biopsy and breast
+reconstruction.
+Specimens Received:
+A: Left sentinel lymph node #1
+B: Sentinel node #2 left axilla
+C: Left breast
+Gross Description:
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'left sentinel node #1'.
+Received fresh for intraoperative diagnosis is a 4.0 x 2.0 x 1.0 cm segment of
+tan-pink fibrofatty tissue that is dissected for lymph node candidates. Frozen
+section diagnosis is 'lymph node, no tumor' per
+. The frozen section
+remnants are entirely submitted in cassettes A1 FS and A2 FS. The remaining
+tissue is entirely submitted in cassettes A3 and A4.
+B. The second container is additionally identified as, 'sentinel node #2, left
+axilla'. Received fresh for intraoperative diagnosis is a 3 x 2.0 x 2.0 cm
+segment of tan-brown rubbery tissue grossly consistent with a lymph node. The
+cut section reveals an unremarkable surface. The entire lymph node is frozen.
+Post section diagnosis is 'lymph node, no tumor' for
+section remnant is entirely submitted in cassette B1FS.
+⚫. The frozen
+C. The third container is additionally identified as, 'left breast'. Received
+fresh and placed in formalin is a 2640 gm mastectomy specimen measuring 32.5 cm
+from medial to lateral, 32.5 cm from superior to inferior and 5.3 cm from
+anterior to posterior. There is 80 cm long by 0.7-6.5 cm wide tan-brown,
+wrinkled skin ellipse on the anterior surface, with ashort suture designating
+the superior pole and a long suture designating the lateral pole. The areola
+measures 5.5 x 3.5 cm areola and the nipple 1.5 cm in diameter. The nipple
+areolar complex displays no evidence of ulceration or retraction. No axillary
+tail is present with the specimen. The deep surface is inked black, the
+anterior-superior surface blue and the anterior-inferior surface green and the
+breast is serially sectioned from medial to lateral into 11 slices. There is a
+1.1 x 0.9 x 0.8 cm, gray-tan mass in slices 7 and 8, 5.5 cm from black ink and
+2.0 cm from blue ink. A metallic clip is identified in slice 7. A 1.5 cm
+(greatest dimension) biopsy site is identified, adjacent to the lesion, with a
+probable metallic clip (vs. staple) within the node. Additional masses or
+nodules are not noted. Representative sections are submitted as follows:
+C1-8: Representative sections of lesion, slice 7 and 8 (clip in C1, C3
+closest approach to blue ink)
+C9: Intramammary lymph node, adjacent to mass, bisected
+C10: Representative slice 6, medial to mass
+C11: Representative slice 9, lateral to mass
+C12: UOQ, slice # 10
+C13: UIQ, slice # 3
+C14: LOQ, slice # 9
+C15: LIQ, slice # 2
+C16: Representative skin
+C17-18: Nipple
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours.
+Criteria:
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+2/10/13
+Dual/Sychronous Primary Noted
+Case is (irdle):
+Reviewer ti
+QUALIFIED
+Date Reviewed:
+Yes
+No
+ކ
+DISQUALIFIED
+✓
+2/4/13

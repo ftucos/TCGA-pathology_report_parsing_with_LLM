@@ -1,0 +1,35 @@
+Criteria
+Diagnosis Discrepancy
+Primary Tum.or Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+_ Reviewer Initials KB
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: VIL
+The 4/24/4
+Final Diagnosis
+Breast, right, excision:
+Invasive lobular carcinoma, Nottingham II (of
+III), forming a 2.8 x 2.6 x 2 cm mass (AJCCpt2). No lymphovascular
+involvement or carcinoma in situ component is identified. The surgical
+resection margins, after one re-excision are negative for tumor.
+uninvolved breast tissue shows duct ectasia and stromal fibrosis.
+The
+Lymph node, right axilla, sentinel, excision: A single right sentinel
+lymph node is negative for tumor.
+Lymph nodes, right axilla, excision: Multiple (3) right axillary lymph
+nodes are negative for tumor.
+Staining for estrogen and progesterone receptors is positive.
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Site. breast, NoS
+050.9
+few 4/24/1
+UUID:C373F2EE-C601-4E17-8E2D-D9BC6AC0301A
+TCGA-AR-A24H-01A-PR
+Redacted

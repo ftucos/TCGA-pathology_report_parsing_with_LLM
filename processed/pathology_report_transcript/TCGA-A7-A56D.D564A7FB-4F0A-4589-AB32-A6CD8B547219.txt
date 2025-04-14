@@ -1,0 +1,123 @@
+UUID:D564A7FB-4F0A-4589-AB32-A6CD8B547219
+TCGA-A7-A56D-01A-PR
+Redacted
+Final Surgical Pathology Report
+ICDO.3
+Caranoma, Infiltrating Duct, NOS
+850013
+Site: ②Breast, LIG 0503
+PATH
+CGCF
+© Breast, MDS,
+³C50.9
+بله
+11/29/12
+Procedure:
+Diagnosis
+A.
+Left axillary sentinel lymph node, resection:
+No evidence of metastasis in one lymph node (0/1).
+B.
+Left breast, simple mastectomy:
+Infiltrating ductal carcinoma, grade 3, 3.2 cm in greatest dimension.
+Surgical margins negative but close, less than 2 mm.
+C.
+Left axillary contents, resection:
+No evidence of metastasis in 7 lymph nodes (0/7)
+Microscopic Description:
+Microscopic examination performed.
+A. Sections of the sentinel lymph node demonstrate no evidence of
+metastatic disease. The node is examined by multiple sectioning with
+hematoxylin and eosin and by immunohistochemistry for pankeratin.
+B.
+Invasive Carcinoma: present
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade:
+Overall grade:
+3
+Architectural score: 2
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (PT): 3.2 cm,
+PT2
+Specimen margins: Negative but close, less than 2 mm over a
+distance of 5 mm
+Vessel invasion: Not identified
+Calcification: Not identified
+Ductal carcinoma in situ: Not identified
+Description of non-tumorous breast: Proliferative fibrocystic
+changes with intraductal papillomatosis
+Comments: None
+Prognostic markers: Previously performed
+C Sections of the left axillary contents demonstrate no evidence of
+metastasis in 7 lymph nodes.
+Left sentinel node-axillary
+Specimen
+A.
+B.
+Left breast-tumor at 7 o'clock
+C.
+Axillary contents.
+Clinical Information
+Carcinoma left breast, core biopsy positive here
+Intraoperative Consultation
+AFS left axillary sentinel lymph node, excision:
+No evidence of metastasis in one lymph node
+Gross Description
+A. Container a is labeled with the patient's name, medical record
+number and "sentinel lymph node". The specimen consists of a single
+piece of fatty tissue which when bisected holds a single lymph node
+Bisected and submitted in block AFS.
+measuring 1.0 x 0.0 0.5 cm.
+B. Received fresh labeled "left breast" is a 25.5 cm (medial to
+(anterior to
+lateral) by 17.0 cm (superior to inferior) by 4.5 cm
+posterior) soft, lobulated tan-white-gold portion of fibroadipose
+tissue oriented per placement of designated tumor as stated previously.
+A 19.3 x 8.5 cm wrinkled tan skin ellipse with an eccentric, 1.0 x 1.0
+A palpable mass
+× 0.5 cm nipple is present along the anterior aspect.
+is evident at 7 o'clock, corresponding to the lower inner quadrant.
+The antero-inferior surface of the specimen in the vicinity of the mass
+is inked blue. The intact deep margin is inked black and the specimen
+is sectioned. There is a well-circumscribed, 3.2 cm (medial to
+lateral) by 2.4 cm (anterior to posterior) by 2.0 cm (superior to
+inferior) rubbery tan-white tumor mass within the lower outer quadrant.
+On sectioning the tumor appears to extend to within 0.2 cm of the
+inked anteroinferior surface and 1.5 cm of the inked deep margin.
+portion of tumor and a portion of normal parenchyma are submitted for
+tissue procurement as requested. The cut surfaces throughout the
+remainder of the specimen consist predominantly of soft, lobulated tan
+gold adipose tissue with a minimal amount of interspersed dense
+tan-white fibrous tissue. No additional mass lesion or abnormality is
+identified.
+-
+-
+A
+tumor to inked
+Summary: 1 - tumor to inked deep margin, 2 through 4
+anteroinferior margin, 5 and 6 - tumor to adjacent parenchyma, 7 -
+random upper outer quadrant, 8 upper inner quadrant, 9 - lower inner
+quadrant, 10 - lower outer quadrant, 11 - junction of the 4 quadrants,
+12 - nipple
+C. Received fresh labeled "Axillary contents" is a 9.3 x 7.8 x 1.7 cm
+A few slightly
+portion of soft, lobulated tan gold adipose tissue.
+rubbery pale tan to tan pink tissues in keeping with lymph nodes
+The
+measuring up to 3.4 cm in greatest dimension are recovered.
+lymphoid tissues are entirely submitted.
+RS 4
+Summary: 1 - 2 lymph nodes, 2 - 1 bisected lymph node, 3 and 4-
+bisected largest lymph node
+Criteria
+Diagnosis Discrepar.cy
+Prima Terat Site Discrepancy
+HIP Discrepancy
+Pagnand. History
+Clinchronous Poted
+ase is (cc):
+Pliewer Inials
+Date Paviewer
+Yes
+11/27/17

@@ -1,0 +1,47 @@
+Procurement Date
+aterality:Left, upper outer quadrant
+Path Report:BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2.4 x 0 x 2.8 cm
+Grossly evident lesion: Yes
+Histologic type: Lobular carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 1/10 positive for metastasis (Axillary 1/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+ICD-0-3
+carcinoma, infiltrating lobular, Nos 8520/3
+Site breast, Nos
+0509
+سلام
+7/27/11
+UUID:1DFFCBD1-962D-4E9B-BEE1-726CABE3AA95
+TCGA-E9-A2]S-01A-PR
+Criteria
+Redacted
+Yes
+M'a
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary ted
+Casa is (circh):
+Reviewer Initials į
+QUALIFIED
+fate Rewed:
+DISQUALIFIED
+I t 1/27/11
+7/22/11

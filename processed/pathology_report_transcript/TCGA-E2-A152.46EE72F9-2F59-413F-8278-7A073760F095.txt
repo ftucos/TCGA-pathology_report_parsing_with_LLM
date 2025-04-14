@@ -1,0 +1,145 @@
+ICD-0-3
+Carcinoma, infiltrating duct. Nos
+850013
+12/8/10
+Site Code: breast, NUS
+سا
+050.9
+TSS:
+SPECIMENS:
+A. WLE RIGHT BREAST
+B. SLN 1 RIGHT AXILLA
+C. SLN 2 RIGHT AXILLA
+D. SLN 3 RIGHT AXILLA
+SPECIMEN(S):
+A. WLE RIGHT BREAST
+B. SLN 1 RIGHT AXILLA
+C. SLN 2 RIGHT AXILLA
+D. SLN 3 RIGHT AXILLA
+GROSS DESCRIPTION:
+A. WLE RIGHT BREAST
+UUID:46EE72F9-2F59-413F-8278-7A073760F095
+TCGA-E2-A152-01A-PR
+Redacted
+Received fresh labeled with the patient's identification and "right breast needle localization" is a previously inked 99g,
+9 x 8.5 x 3.4cm needle localized lumpectomy with 2 radiographs. Ink code: anterior-yellow, posterior-black, superior-
+blue, inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from lateral to medial into 10 slices
+revealing a 1.7 x 1.6 x 1.5cm tan pink well circumscribed mass at the posterior margin in slices 4-7. A second 0.5 x
+0.5 x 0.5cm tan pink firm ill defined mass is identified, 0.3cm from the anterior-medial margin in slice 8, 1.9cm from
+the main mass. A portion of the specimen is submitted for tissue procurement. Representatively submitted:
+A1-A2: lateral margin slice 1
+A3: deep margin slice 2
+A4-A5: next to mass with deep margin slice 3
+A6-A8: deep margin with mass 1 in A6 slice 4
+A9-A12: slice 5 with mass in A9
+A13-A16: slice 6 with mass in A14-A15
+A17: mass with deep margin slice 7
+A18: anterior margin slice 7
+A19-A21: slice 8 with mass 2 in A21
+A22: next to mass 2 slice 9
+A23: medial margin slice 10
+B. SLN 1 RIGHT AXILLA
+Received fresh is a tan pink lymph node 1.3 x 1.2 x 1cm. The specimen is serially sectioned and a touch prep is
+taken. Toto B1.
+C. SLN 2 RIGHT AXILLA
+Received fresh is a tan pink lymph node 1.8 x 1.5 x 1.3cm. The specimen is serially sectioned and a touch prep is
+taken. Toto C1.
+D. SLN 3 RIGHT AXILLA
+Received fresh is a tan pink lymph node 0.6 x 0.5 x 0.5cm. The specimen is serially sectioned and a touch prep is
+taken. Toto D1.
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 1.8-CM
+- HIGH NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID
+CENTRAL NECROSIS AND MICROCALCIFICATIONS
+AND CRIBRIFORM TYPES WITH
+- INVASIVE TUMOR PRESENT 0.15-CM FROM POSTERIOR SURGICAL RESECTION MARGIN
+- BIOPSY SITE CHANGES WITH FIBROSIS
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODE, SENTINEL #3, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+NOTE: Two nodules are grossly identified, larger located superior posterior and smaller located inferior anterior and
+more medial. Both tumors have the same histomorphology. The larger nodule extends from slice #4 to slice #7.
+The smaller nodule is located in slice #8. The tissue in between these two nodules shows DCIS. Therefore, given
+the presence of DCIS between these two tumors and having the same histomorphology, these tumors are
+considered connected. The largest confluent tumor size is 1.8-cm.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+Yes For mass
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.8cm
+Tumor Site:
+Not specified
+Margins:
+Negative
+Distance from closest margin:
+deep
+Tubular Score: 3
+Nuclear Grade:
+3
+Mitotic Score: 2
+0.15cm
+Modified Scarff Bloom Richardson Grade: 3
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+None identified
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Negative 0/3
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 15%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: High
+Necrosis:
+Present
+Location of CA++:
+DCIS
+ER/PR/HER2 Results
+ER: Positive
+PR: Negative
+HER2: Positive by IHC
+Performed on Case:
+Pathological staging (pTN):
+PT 1c NO
+CLINICAL HISTORY:
+Biopsy of proven cancer at wire- possible second lesion 2cm, medial to premarked tumor at triple stitch.
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer.
+INTRAOPERATIVE CONSULTATION:
+A. GROSS EXAMINATION: Mass abuts the posterior margin, 2nd lesion is 0.3cm from the medial margin. Diagnosis
+called to Dr. at
+by Dr..
+TPB-TPC-TPD: No tumor seen. Diagnosis called to Dr. at
+Gross Dictation:
+Final Review: Pathologist,
+, Dr..
+Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIE
+Dale Revieve-
+Yes
+No

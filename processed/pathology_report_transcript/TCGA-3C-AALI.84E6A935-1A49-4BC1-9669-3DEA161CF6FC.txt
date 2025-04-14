@@ -1,0 +1,171 @@
+UUID:84E6A935-1A49-4BC1-9669-3DEA161CF6FC
+TCGA-3C-AALI-01A-PR
+Redacted
+Name:
+MRN:
+Path No.:
+Date Obtained:
+D.O.B.
+(Age: )
+Sex:
+F
+Date Received:
+Physician:
+Location:
+SURGICAL PATHOLOGY
+**See Addendum/Procedure**
+ICD03
+SPECIMEN:
+A:Lymph node, right axilla sentinel node, biopsy
+B:Breast, right, lumpectomy
+C:Lymph nodes, right axilla, dissection
+DIAGNOSIS(ES):
+A. Lymph node, right axilla sentinel node, biopsy:
+ས
+Са
+Carcinomis infiltrating duct
+NOS 850015
+COLE
+Site & Breast NOS C50.9
+- Carcinoma in 1 sentinel node following carcinoma of right breast.
+B. Breast, right, lumpectomy:
+Breast, upper
+outer
+quadrant C50.4
+7105/11/14
+- Carcinoma, învasive ductal type, moderately-differentiated, with focal micropapillary features,
+Nottingham's score 5 (2+2+1).
+- Carcinoma, intraductal, comedo type with microcalcifications.
+- Lobular neoplasia, focal, classical type.
+- Fibrocystic disease, proliferative, with apocrine metaplasia, sclerosing adenosis and
+microcalcifications.
+- Cicatricial fibrosis and organizing granulation tissue with fat necrosis, consistent with previous
+biopsy site.
+- Fibroadenoma, microscopic.
+C. Lymph nodes, right axilla, dissection:
+-
+· No evidence of carcinoma in 14 lymph nodes.
+Date Dictated:
+CLINICAL INFORMATION: Breast cancer.
+GROSS DESCRIPTION:
+The specimen is received in three parts.
+Part A is received fresh from the operating room for frozen section diagnosis in a container labeled with the patient's
+name and "R sentinel lymph node". It consists of one firm tan to red lymph node measuring 2.0 x 1.8 x 1,0 cm. The
+specimen is serially sectioned. Submitted in toto in three cassettes labeled AFS, A1 and A2. AFS = frozen section, A1
+- A2 = remaining tissue.
+Part B is received unfixed in a container labeled with the patient's name and "R breast lumpectomy". It consists of a
+piece of yellow-white fibrofatty tissue measuring 10.5 x 9.0 x 6.0 cm. An ellipse of skin is not present. An X-ray is
+received. A localization needle is not noted. A short suture is noted indicating the superior margin and a row of long
+sutures are noted indicating the lateral margin. A mass is palpated in the center. The superficial surface is inked yellow
+Page 1 of 3
+and the deep surface is inked black. The specimen is serially sectioned. On cut section, the mass is tan, firm, poorly
+circumscribed and measures 3.2 x 3.0 x 3.0 cm. The mass comes to 0.3 cm of the superficial, 0.5 cm of the deep and
+2.5 cm of the lateral margins. The tissue is composed of 60% fat and 40% intermixed firm tan-white parenchyma.
+Representative sections are submitted in 29 cassettes labeled B1 - B29.
+Legend: B1 = mass and closest deep surface,
+B2 = mass and closest superficial surface(B1 and B2 = full thickness of mass),
+B3B8 = mass with adjacent deep margin
+B9 - B17 = superficial margin over mass
+B18 B19 mass
+B20 - B21 = superior
+B22 B23 = deep margin in lateral part(closest to mass)
+B24 B25
+B26 B27
+lateral
+inferior
+B28 - B29 = medial.
+Part C is received unfixed in a container labeled with the patient's name and "R axillary lymph node dissection". It
+consists of two pieces of yellow-red fatty tissue measuring 4.0 x 2.7 x 1.0 cm and 10.0 x 7.0 x 1.0 cm. A suture is noted
+attached to one end of the larger piece of fatty tissue. Fourteen lymph moves measuring from 0.6 x 0.5 x 0.5 cm to 3.5
+x 1.5 x 1.0 cm are identified. The lymph nodes are submitted in toto 10 cassettes labeled C1 - C10.
+Legend: C1 = five intact nodes, C2-C5 = one bisected node in each cassettes, C6 = one intact node, C7 - C8 = one
+large quadrisected node, C9 - C10 = nodes closest to suture(larger node is bisected).
+INTRAOPERATIVE CONSULTATION:
+AFS: Metastatic carcinoma in lymph node.
+Performed by: Resident:
+Interpreted by: Attending:
+MICROSCOPIC DESCRIPTION:
+I.
+II.
+110.
+TYPE OF SPECIMEN: Right breast, excisional biopsy/lumpectomy
+Right axillary node dissection
+LOCATION OF THE TUMOR: Upper outer quadrant
+TYPE OF NEOPLASM:
+Carcinoma, invasive - ductal type NOS with micropapillary features
+Histological Grading: Moderately differentiated
+(Nuclear grade 2 and Tubular & Glandular differentiation grade 2)
+Ductal carcinoma in situ, nuclear grade 3, multifocal 10%
+Intraductal comedo subtype
+Necrosis is present within the intraductal subtype
+Lobular neoplasia, type A (monomorphic), Focal in 2 of 29 slides
+GROSS/MICRO FINAL INVASIVE TUMOR SIZE INTERPRETATION: 3.2 x 3.0 x 3.0 cm.
+BORDERS OF INVASIVE NEOPLASM: Ill-defined
+. IV.
+V.
+VI.
+VASCULAR SPACE INVASION:
+Present in lymphatics
+VII.
+CALCIFICATION: Present in both malignant and benign areas
+VIII.
+NIPPLE: N/A
+IX.
+SKIN: N/A
+Page 2 of 3
+X.
+ADJACENT BREAST TISSUE: Fibroadenoma (size 0,2 cm.)
+Cystic disease, proliferative
+XI.
+SURGICAL MARGIN: No carcinoma is identified on surgical margins
+Tumor distance from closest deep (slide "B1") margin: 0.6 cm
+AXILLARY LYMPH NODES:
+XII.
+TOTAL: 15
+XIII.
+HIGH POINT: 2
+SENTINEL NODE: 1
+POSITIVE LYMPH NODES:
+TOTAL: 1
+HIGH POINT: 0
+SENTINEL NODE: 1
+DEGREE OF INVOLVEMENT: Extensive replacement
+EXTRANODAL EXTENSION: Present
+XIV.
+PECTORAL MUSCLE: No pectoral muscle identified
+This report has been reviewed electronically and signed on
+Interpreted by: Attending;
+The diagnosis was rendered by the attending pathologist.
+Addendum
+ADDENDUM
+Slides were reviewed by
+agreement with the original diagnosis.
+by
+Date Ordered:
+Status: Signed Out
+This procedure/addenda has been electronically reviewed and signed on
+Interpreted by:
+Attending:
+by
+The diagnosis rendered is in
+Criteria
+سلام
+Diagnosis Discrepancy
+1/21/14
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+1/2014
+1
+Note: Immunochemistry testing performed at
+was developed and its performance characteristics determined by the
+These tests were interpreted in conjunction with external positive and internal negative controls, unless otherwise noted. It has not been cleared or approved by the US
+FDA. This test is used for clinical purposes only. It should not be regarded as investigational or for research.

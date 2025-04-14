@@ -1,0 +1,68 @@
+UUID:B16B3335-4928-471B-AEFE-2350EA558BFC
+TCGA-D8-A3Z5-01A-PR
+Redacted
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Examination: Histopathological examination
+Value of diagnostic procedure
+XXX
+Age:
+Gender:
+-
+Material: 1. Total organ resection – right breast and axillary lymph nodes
+Unit in charge: :
+Physician in charge:
+Material collected or
+Material received or
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+page 1/1
+Examination No.:
+ICD-0-3
+carcinoma, lobular, infiltrating NOS
+852013
+Site: breast, NOS (50.9
+6/4/12 20
+Examination performed on:
+Macroscopic description:
+Right breast, sized 27.8 x 17.2 x 6.8 cm, removed along with axillary tissues sized 13 x 9 x 4 cm and a skin flap of 21.8 x
+10.3 cm. Weight 940 g.
+Tumour sized 4.2 x 2.4 x 1.4 cm found on the boundary of outer quadrants, placed 2.2 cm from the outer boundary, 1.6 cm from the
+base and 2.6 cm from the skin. Lymph nodes of 1 cm in length.
+Microscopic description:
+Carcinoma lobulare invasivum (classical type) - NHG1 (3 + 1 + 1/0 mitoses/10 HPF - visual area 0,55 mm).
+Infiltratio carcinomatosa mamillae.
+Lesions in situ of the type: carcinoma lobulare in situ (LCIS). Glandular tissue showing parenchyma atrophy. AXILLAR
+LYMPH NODES: Metastases carcinomatosae in lymphonodis (No XIX/XXI). Infiltratio telae perinodalis.
+Histopathological Diagnosis,
+Carcinoma lobulare invasivum mammae dextrae. Lubular invasive carcinoma of the right breast
+Metastases carcinomatosae in lymphonodis axillae (No XIX/XXI) (NHG1, pT2, pN3a). Cancer metastases in the axillary
+lymph nodes No XIX/XXI.
+Compliance validated by:
+Examination performed on
+Result of immunohistochemical examination
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 75% of neoplastic cell
+nuclei. HER2 protein stained with
+by
+). Negative reaction in invasive cancerous cells (Score =1+)
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+aria
+-
+Discrepancy
+--
+Yes
+Na
+rimary Tumor Site Discrepancy
+FAA Discrepancy
+For Malignancy History
+lual/Synchronous Primy Noted
+Case is (cicle
+teviewer Intals
+QUALIHED
+Date Reved:
+DISQUALIFIED
+$5/24/13
+سلام
+76/5/12

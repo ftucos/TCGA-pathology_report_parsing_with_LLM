@@ -1,0 +1,80 @@
+UUID:90F83655-038B-412C-91BD-84CC3A4201D4
+TCGA-A7-A3IZ-01A-PR
+Redacted
+Final Surgical Pathology Report
+ICD-0-3
+carcinome, infiltrating lobular, Nus
+Procedure:
+Diagnosis
+A. Sentinel lymph node #1, excision:
+Rare isolated cytokeratin positive cells (pN0i+).
+B. Right breast, resection:
+Site: breast, NOS
+050.9
+Invasive lobular carcinoma, 2.6 cm, extending to involve the inferior
+and lateral margins.
+Microscopic Description:
+Microscopic examination performed.
+A. Sentinel lymph nodes examined at multiple levels section and H&E
+staining as well as immunohistochemistry for pan-keratin. No
+metastasis is seen on H&E staining. On pancytokeratin stain there are
+rare isolated cytokeratin positive cells (pN0i+).
+B. The following template applies to the right breast:
+Invasive Carcinoma:
+Histologic type: Invasive lobular cancer
+Histologic grade:
+Overall grade: 2
+Architectural score: 3
+Nuclear score: 2
+Mitotic score: 1
+Greatest dimension (PT): 2.6 cm, pT2
+Specimen margins: Positive, invasive cancer extends to the
+inferior margin, (green ink) in B1 and B3 and the lateral margin,
+(yellow ink) B7
+Vessel invasion: Not identified
+Calcification: Present
+Ductal carcinoma in situ: not identified
+Description of non-tumorous breast: Biopsy site changes
+Comments: None
+Prognostic markers: Previously performed
+Specimen
+A.
+Sentinel node #1
+B. Right breast (single long stitch lateral, double stitch anterior)
+Clinical Information
+Right breast cancer
+Gross Description
+A. Container A is labeled with the patient's name, medical record
+number and "sentinel node %231". The specimen container holds a single
+rubbery tan lymph node measuring 1.2 x 1 x 0.8 cm. It is bisected and
+submitted in blocks A1 and A2.
+NUS
+852013
+نسار
+12/8/11
+B. Container B is labeled with the patient's name, medical record
+number and "right breast - single long lateral, double stitch
+anterior". The specimen is inked as follows blue - anterior; left -
+posterior; yellow lateral; orange
+- medial; red-tan superior; green
+inferior. The specimen measurements are 8.7 x 7.5 x 5.2 cm in greatest
+dimensions. The specimen is serially sectioned. Near the inferior
+lateral surgical margin there is a tumor mass which is more palpable
+than visible and measures 2.6 x 2.2 x 1.5 cm. Biopsy site changes are
+evident. This mass appears to extend close to the inferior margin.
+Tissue is obtained for tissue procurement. Representative sections
+are submitted in B1-B14.
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Syncl.ronous Primary Noted
+Case is (circle):
+Reviewer Initials
+MY QUALIFIED
+Yes
+No
+CIQUATED
+Date Reviewed: 15
+tw 12/8/11

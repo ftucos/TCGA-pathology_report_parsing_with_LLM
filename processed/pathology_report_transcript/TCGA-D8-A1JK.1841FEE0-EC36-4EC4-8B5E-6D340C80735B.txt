@@ -1,0 +1,63 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast,
+Nos
+Department of Cancer Pathology
+copy No.
+Date:
+Examination: Histopathological examination
+050.9
+3/1/00
+page 1 / 1
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+Internal invoice No.
+Patient: XXX
+Material: Multiple organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected or
+Material received on:
+Expected time of examination: 8 working days
+Clinical diagnosis:
+سل
+Examination performed on:
+Results of immunohistochemical examination:
+No estrogen receptors found in the neoplastic cell nuclei. Progesterone receptors found in less than 10% of the neoplastic cell
+nuclei. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells (Score = 1+ ).
+Estrogen receptor was stained twice.
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Right breast sized 15 x 9 x 3 cm removed along with axillary tissues sized 7 x 4 x 1 cm and a skin flap of 11 x 7 cm. Weight 650
+g. Tumour sized 3.2 x 2.0 x 3.0 cm on the border of the upper quadrants, placed 2.0 cm from the upper edge and 1.5 cm from
+the base.
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3 + 3 + 3: 21 mitoses/10 HPF - visual area of 0.55 mm). Glandular tissue off the tumour
+showing lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis simplex (UDH).
+Axillary lymph nodes:
+Sinus histiocytosis cum microcalcificationes lymphonodorum (No XIII).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+(NHG3, pT2, pNO).
+Compliance validated by
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+UUID:1841FEE8-EC36-4EC4-8B5E-6D340C80735B
+TCGA-D8-A1JK-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+D/Synchronous Primary Noted
+Case:
+QUALIFIED
+Reviewers
+Yes
+DISQUALIFIED
+Date Reviewed:
+/ 11/11/18

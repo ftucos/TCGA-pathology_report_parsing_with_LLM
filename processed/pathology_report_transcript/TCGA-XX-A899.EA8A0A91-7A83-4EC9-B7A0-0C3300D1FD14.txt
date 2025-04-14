@@ -1,0 +1,149 @@
+UUID: EA8A0A91-7A83-4EC9-B7A0-0C3300D1FD14
+TCGA-XX-A899-01A-PR
+Redacted
+Research Gross Description
+year old female multifocal breast cancer
+Research Dx
+ICDO
+Carcinomas, instrating fabular
+NOS
+0665
+ран
+852013
+Sate ® Preast NOS CS0.9
+⑤Breast, overlapping lesion
+Procedure: Total mastectomy (including nipple and skin)
+Lymph node sampling: Sentinel lymph node and axillary dissection
+Specimen laterality: Right
+2011/22/13
+Tumor site: Multifocal, lower outer quadrant (majority of tumors) and lower inner quadrant
+Tumor size: 2 x 1.5 x 1.3 cm (largest tumor)
+Histopathologic type: Lobular with foci of signet ring morphology 0% on top slide.
+Histopathologic grade (Nottingham): 2
+Mitotic count: 2 mitoses/10 hpf (low proliferative rate)
+Tumor focality: Multiple foci of invasive carcinoma
+0508
+Pathologic tumor stage: pT1c: Tumor greater than 1 cm but less than or equal to 2 cm in greatest
+dimension
+Margin status: See below
+Distance of carcinoma from margins:
+Anterior: 0.35 mm (microscopic focus)
+Posterior: 8 mm
+All other margins greater than 1 cm
+Associated in situ carcinoma: Yes
+Type: LCIS
+Extensive (>25% of total tumor): No
+Separate (extra-tumoral) foci away from main lesion: Yes
+Peritumoral angiolymphatic invasion: Not identified
+Dermal angiolymphatic invasion: Not identified
+Hormone receptors by properly controlled immunohistochemistry performed on previous core
+biopsy
+Estrogen receptor: Positive
+Progesterone receptor: Positive
+HER-2/neu (ERBB2): Negative
+Pathologic lymph node stage: pN2a: Metastasis in 4-9 axillary lymph nodes (at least one tumor
+deposit greater than 2.0 mm)
+Number of nodes positive for metastasis/total number nodes sampled: 5/22
+Maximum diameter of largest lymph node metastasis: 1 cm
+Extranodal extension by tumor: Present, focal
+Distant metastasis: pM: Not applicable
+Additional pathologic findings: Fibrocystic changes
+AJCC Staging (7th Edition): pT1c(m) pN2a pM: Not applicable
+Research QC
+Tumor:
+80% tumor nuclei
+0% necrosis
+20% normal
+Normal:
+100% breast
+1
+Specimen Process Time
+Blood draw time:
+Plasma frozen time:
+Serum frozen time:
+Buffy coat frozen time:
+Cold ischemia start time:
+Formalin fixation start time:
+Total cold ischemia time:
+Formalin fixation stopped time:
+Total formalin fixation time:
+Specimen Weight
+Normal
+1-512 mg, 2-351 mg, 3-283 mg, 4-372 mg
+Tumor
+1-262 mg, 2-205 mg, 3-208 mg, 4-317 mg
+Specimen Size
+Plasma x 3
+Serum x 2
+Buffy coat x 1
+Cryovials x 8
+Normal x 4
+Tumor x 4: 1-2 lesion site A., 3-4 lesion site B.
+FFPE × 8
+Normal x 4
+Tumor x 4: 1-2 lesion site A., 3-4 lesion site B.
+Study
+Patient Consent
+Yes
+Criteria
+Diagnosis Discrepancy
+rimary Turnor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Note
+Case is (circle):
+'eviewer Initials
+10/24/13
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+2413
+No
+-
+2
+Page 1 of 1
+Event:
+Interviewer:
+TCGA Breast Invasive Carcinoma -
+PathDiscrepancy
+TCGA Pathologic Diagnosis Discrepancy Form 4.05
+Study Subject ID:
+Study/Site:
+Person ID:
+N/A
+(Breast Invasive Carcinoma)
+Age:
+N/A
+Date of Birth:
+Sex:
+F
+Tumor Identifier Provided on Initial Case
+Quality Control Form
+Provide the tumor identifier documented on the initial case quality
+control form for this case.
+Pathologic Diagnosis Provided Infiltrating lobular Provide the diagnosis/ histologic subtype(s) documented on the initial
+on Initial Pathology Report
+pathology report for this case. If the histology for this case is mixed, provide all
+listed subtypes.
+carcinoma
+Histologic features of the sample provided for signet ring
+TCGA, as reflected on the CQCF
+morphology
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for the
+discrepancy between the pathology
+report and the TCGA Case Quality
+Control Form
+Name of TSS Reviewing Pathologist or
+Biorepository Director
+Provide the histologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+pathology report reports the presence Provide a reason describing why the diagnosis on
+of signet ring morphology, however,
+the topslide contains 0% signet ring.
+the initial pathology report for this case is not
+consistent with the diagnosis selected on the TCGA
+Case Quality Control Form.
+Provide the name of the pathologist who reviewed this
+case for TCGA.

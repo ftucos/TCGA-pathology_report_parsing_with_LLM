@@ -1,0 +1,30 @@
+:
+3
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Poth
+Site: breast, UOQ C50.4
+CQRF
+Site: breast, Nos
+050.9
+1/25/11
+کسا
+1. Poorly differentiated invasive ductal carcinoma (tumor diameter: 3.5
+cm; minimum distance dorsally 1 cm, other margins remain free).
+Tumor classification for left breast: NOS, G III, PT2NOLOVORO
+UUID:6E136F3D-A6E1-4541-AA4B-65BC5872DE06
+TCGA-A8-A08C-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchrono Primary Noted
+QUALIFIED
+Date Reviewed:
+Case (circle);
+Review Ink
+Yes
+DISQUALIFIED
+Redacted

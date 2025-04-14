@@ -1,0 +1,180 @@
+UUID:5E14E7CA-3417-4379-8EE3-7F00D6D4A02B
+TCGA-A7-A4SC-01A-PR
+Redacted
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Right axillary sentinel node, excisional biopsy:
+Single lymph node negative for metastatic tumor (0/1)
+B. Breast, right, simple mastectomy:
+Invasive lobular carcinoma, grade 1
+Tumor size 7.5 CM (PT3)
+Resection margin negative for tumor
+Microscopic Description:
+A. and B. Microscopic examination performed.
+Invasive 
+carcinoma:
+Histologic type: Invasive lobular carcinoma
+Histologic grade: 1
+Overall grade:
+Architectural score: 3
+Nuclear score: 1
+Mitotic score: 1
+Greatest dimension (PT) 7.5 CM (pT3)
+ICD-0-3
+carcinoma, infiltrating lobular, NOS
+852013
+Site: brust, Nos c50.9
+10/27/12
+Specimen margins: Negative for malignancy, deep margin is 1.4 cm
+from 
+tumor
+Vessel invasion: Not identified
+Calcification: Focally present
+Nipple (Paget's ): Unremarkable, no Paget's disease identified
+Invasion of 
+skin or chest wall: Not identified
+Ductal carcinoma in situ: No ductal carcinoma in situ identified
+Description of non-tumorous breast:
+Fatty and atrophic.
+the tumor are too small 1 cm fibroadenomas which are invaded by the
+Adjacent 
+to
+tumor.
+Lymph nodes:
+Number of positive nodes of total: 0/1
+Extracapsular extension (present/absent): No extracapsular tumor
+identified
+PN: snpN0
+2 H&E stained sections were evaluated from each frozen section block.
+An additional 3 H&E 
+stained sections from each tissue block were
+evaluated of 
+the formalin fixed paraffin embedded tissue.
+pancytokeratin AE1/AE3 immunohistochemical stains were evaluated from
+Also
+each of the tissue blocks
+. No metastatic tumor was identified in any
+of these examined sections
+.
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents
+. These antibodies are monitored and
+controlled in 
+our laboratory and their performance for in vitro
+diagnosis is well 
+described in the medical literature.
+been cleared or approved by the FDA.]
+Distant metastasis (PM): Not applicable pMX
+They have not
+Breast prognostic marker results (B5) Progesterone and HER-2 testing
+was 
+repeated given 
+the limited amount of tumor in the prior core
+biopsy.
+Results
+Progesterone receptor: 0%
+Her2 by IHC: 2+
+Interpretation
+Estrogen receptor:
+Reported as positive on prior core biopsy
+Progesterone receptor: Negative
+Her2 by IHC: Equivocal by IHC.
+FISH testing ordered
+Comments
+Fixation time: 28 hours
+Less than
+Favor less than 1
+Cold ischemia time: Time of collection was not noted.
+15 minutes cold ischemia time in the laboratory.
+hour of transport time.
+'CAP guidelines
+The analyzed tissue met quality requirements of the
+Control materials stained appropriately.
+for Her2 testing.
+Based on data collected in our laboratory and reported in the
+literature we recommend FISH analysis for 
+Her2 in cases that 
+stain with
+intermediate intensity by immunohistochemistry
+.
+Prognostic markers were done by immunohistochemical stain on paraffin
+sections from 10% neutral buffered formalin 
+fixed tissue using Ventana
+corportation antibodies on a Benchmark 
+automated stainer.
+The Her2 antibody is clone 4B5 and has been approved by the FDA as an
+aid in the assessment of breast cancer patients 
+for whom Herceptin
+treatment is considered.
+This laboratory meets the test validation and quality assurance
+requirements of the
+carcinoma of the breast
+/CAP guidelines for Her2, ER and PR testing for
+Specimen
+A. Right axillary sentinel lymph node, excisional biopsy:
+B. Right breast, simple mastectomy
+Clinical Information
+year-old white female with infiltrating lobular carcinoma
+Intraoperative Consultation
+A. Right axillary sentinel node, biopsy: No tumor seen.
+Gross Description
+A. Received fresh for frozen section labeled "right axillary sentinel
+The fat is
+node" is a 3 x 1 x 1 CM piece of fatty yellow 
+tissue.
+The lymph node is
+trimmed to reveal a 2.8 cm diameter tan lymph 
+node.
+The fat
+bisected and entirely frozen as frozen sections AFS 1 AFS 2.
+is retained. No blue staining was identified 
+and no grossly 
+suspicious
+areas are identified.
+B. Received fresh and subsequently fixed in formalin labeled "right
+breast" is a 20.5 x 17.2 x 4.7 cm yellow lobular 
+fatty tissue 
+fragment
+is grossly consistent with a mastectomy and is partially 
+covered with 
+a
+7.5 x 3.5 cm pink-tan wrinkled skin ellipse 
+having a 1.4 cm everted
+nipple. The specimen has a suture designating 
+superior breast. The
+and fixed in formalin 
+at
+specimen is received in pathology at
+The deep aspect of the specimen is inked lumen and the
+specimen is sectioned from medial to lateral to show 
+a 7.5 x 
+6.0 x 2.3
+cm white-tan, diffusely nodular and firm central mass is ill
+circumscribed and comes within 1.7 cm of the deep margin. Gross
+identified 
+centrally are white rice-like pellets which are grossly
+consistent 
+with a previous biopsy site. The remainder of the cut
+surface 
+of the specimen is predominantly fatty scanty fibrous tissue
+present
+. No lymph nodes or gross identified in the apex of the
+specimen. Representative sections of the specimen are submitted as
+follows: 1 - 
+entire nipple with representative skin, 2 - 6 -
+representative sections of lesion including tumor to deep margin and
+possible 
+biopsy site, 7 - representative upper outer quadrant, 8 -
+representative lower outer quadrant, 9 - representative lower inner
+quadrant, 10 - representative upper inner quadrant.
+THEY
+te Discrepancy
+Y
+history
+ryoted
+Yes
+No
+QUALIFIED / DEQUALRIED
+Date Reviewed:
+12/27/12

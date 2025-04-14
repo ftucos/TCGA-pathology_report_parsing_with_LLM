@@ -1,0 +1,244 @@
+MRN:
+Patient:
+Admission Date:
+Ordering Physician:
+Collected Date/Time:
+Received Date/Time:
+UUID:F4B87B89-A066-4BE9-88C9-60C7FB5BF373
+TCGA-S3-AA14-01A-PR
+Redacted
+Sex/DOB:
+Discharge Date:
+Surgical Pathology Report voy
+Accession Number:
+Female
+Final Diagnosis
+A. LYMPH NODES, RIGHT SENTINEL, EXCISION:
+"
+THREE OUT OF FOUR LYMPH NODES SHOW ONE TO TWO POSITIVE TUMOR CELLS BY CYTOKERATIN
+STAIN, PN0 (i+)
+-
+"
+"
+SEE SPECIAL STAINS SECTION BELOW.
+B. BREAST, RIGHT, EXCISION WITH NEEDLE WIRE LOCALIZATION:
+INVASIVE DUCTAL CARCINOMA, GRADE 3, NOTTINGHAM HISTOLOGIC SCORE 8 (TUBULE FORMATION 3,
+NUCLEAR PLEOMORPHISM 3, MITOTIC RATE 2).
+-DUCTAL CARCINOMA IN SITU, GRADE II-III, SOLID AND CRIBRIFORM TYPES WITH SMALL AREAS OF
+NECROSIS.
+- LOBULAR CARCINOMA IN SITU, PLEOMORPHIC AND CLASSICAL TYPES.
+- LYMPHOVASCULAR INVASION PRESENT. SEE NOTE.
+· SEE SPECIAL STAINS SECTION BELOW.
+SEE ALSO SYNOPTIC REPORT.
+NOTE:
+ICD-0-3
+duet Nos
+Carcinoma, infiltrating dis
+Site: By Breast Nos (50.9
+B. There is a focus of lymphovascular invasion that is 0.2mm from the anterior margin.
+(Electronic signature)
+Verified:
+JN 2/24/14
+Synoptic Report
+SPECIMEN:
+Partial breast
+PROCEDURE:
+Excision with wire-guided localization
+LYMPH NODE SAMPLING:
+Sentinel lymph node(s)
+SPECIMEN INTEGRITY:
+Printed by:
+Copied to:
+Distribute to:
+Page 1 of 5
+Print Date/Time:
+Patient Locations:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Single intact specimen (margins can be evaluated)
+SPECIMEN SIZE:
+Greatest dimension: 5.0 cm
+Additional dimensions: 4.0 x 3.5 cm
+SPECIMEN LATERALITY:
+Right
+TUMOR SITE: INVASIVE CARCINOMA:
+Not specified
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA:
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.0 cm (Based on gross evaluation)
+Additional dimensions: 2.0 x 1.8 cm
+TUMOR FOCALITY:
+Single focus of invasive carcinoma
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Skin is not present
+Skeletal Muscle: No skeletal muscle present
+DUCTAL CARCINOMA IN SITU (DCIS):
+DCIS is present
+Extensive intraductal component (EIC) negative
+SIZE (EXTENT) OF DCIS:
+Number of blocks with DCIS: 19
+Number of blocks examined: 29
+ARCHITECTURAL PATTERNS:
+Cribriform
+Solid
+NUCLEAR GRADE:
+Grade III (high) (DCIS is mostly Grade II )
+NECROSIS:
+Present, focal (small foci or single cell necrosis)
+LOBULAR CARCINOMA IN SITU (LCIS):
+Present (Pleomorphic and classical types)
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive ductal carcinoma (no special type or not otherwise specified) (With a minor component of apocrine differentiation)
+GLANDULAR (ACINAR)/TUBULAR DIFFERENTIATION:
+Score 3: <10% of tumor area forming glandular/tubular structures
+NUCLEAR PLEOMORPHISM:
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape, occasionally with very
+large and bizarre forms
+MITOTIC COUNT:
+Score 2
+OVERALL GRADE:
+Grade 3: scores of 8 or 9
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1.6 mm (Anterior margin)
+Page 2 of 5
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Margins uninvolved by DCIS (if present)
+Distance from closest margin: 1.2 mm (Anterior margin)
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE BREAST:
+No known presurgical therapy
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE LYMPH NODES:
+No known presurgical therapy
+LYMPH-VASCULAR INVASION:
+Present
+DERMAL LYMPH-VASCULAR INVASION:
+Not identified
+LYMPH NODES:
+Number of sentinel lymph nodes examined: 4
+Total number of lymph nodes examined (sentinel and nonsentinel): 4
+Number of lymph nodes with macrometastases (>0.2 cm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor cells (less than or equal to 0.2 mm and less than or equal to 200 cells): 3
+EXTRANODAL EXTENSION:
+Not identified
+METHOD OF EVALUATION OF SENTINAL LYMPH NODES:
+H&E, multiple levels
+Immunohistochemistry
+PRIMARY TUMOR (INVASIVE CARCINOMA (pT):
+pT1c: Tumor >10 mm but less than or equal to 20 mm in greatest dimension
+REGIONAL LYMPH NODES (PN):
+pN0 (i+): Malignant cells in regional lymph node(s) no greater than 0.2 mm and no more than 200 cells (detected by H&E or
+IHC including ITC) (pN0 (i+)
+DISTANT METASTASIS (M):
+Not applicable
+ADDITIONAL PATHOLOGIC FINDINGS:
+Intraductal papilloma (3.5 mm), fibrocystic changes, usual ductal hyperplasia, reactive changes at prior biopsy site
+ESTROGEN RECEPTOR:
+Performed on another specimen
+Specimen (accession number):
+Immunoreactive tumor cells present (greater than or equal to 1%)
+Quantitation: 75%, positive
+PROGESTERONE RECEPTOR:
+Performed on another specimen
+Specimen (accession number):
+Immunoreactive tumor cells present (greater than or equal to 1%)
+Quantitation: 75%, positive
+HER2/NEU IMMUNOPEROXIDASE STUDIES:
+Performed on another specimen
+Specimen (accession number):
+Positive (Score 3+)
+MICROCALCIFICATIONS:
+Present in both carcinoma and non-neoplastic tissue
+Page 3 of 5
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report.
+Accession Number:
+Source of Specimen
+A
+Lymph Nodes, Sentinel Right Axillary
+B
+RT. BREAST TISSUE
+Sex/DOB: Female
+Clinical Information
+markings: double long-12:00, single long-6:00, double short-deep
+PRE-OP DIAGNOSIS: Right breast cancer
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Right breast needle localization biopsy and right Sentinel node biopsy
+Gross Description
+Specimen is received in 2 parts:
+A.The specimen is labeled "RIGHT SENTINEL NODE" and is received unfixed. It consists of 4 x 4 x 1 cm fragment of fatty tissue
+which reveals 6 lymph nodes ranging from 0.5 x 0.5 x 0.3-2 x 1 x 1 cm. All lymph nodes are entirely submitted as follows:
+A1 = possible two lymph nodes
+A2 = bisection of a single lymph node
+A3-A4 = entire sections of single lymph node
+Specimen is in formalin more than 6 hours and less than 48 hours
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 16 minutes
+B. The specimen labeled "RIGHT BREAST TISSUE" is received in formalin. (Specimen is in formalin more than 6 hours and less
+then 48 hours). It consists of an ovoid piece of yellow-tan fatty tissue with 3 sutures designating double long - 12 o'clock, single long -
+6 o'clock and double short - deep margin. A needle guide wire is inserted within the specimen.. The specimen measures 5x4 x 3.5
+cm, is oriented and inked as follows: Anterior-yellow, posterior-black, superior-orange, inferior-red, medial-blue, and lateral margin
+with green color. On sectioning, the cut surface shows centrally, a 2 x 2 x 1.8 cm in ill-defined mass with 0.5 x 0.5 x 0.5 cm
+calcification. Entirely submitted in cassettes B1-B29.
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: One hour 4 minutes
+Dictated by:
+Special Stains / Slides
+Immunohistochemical studies were performed on formalin fixed, paraffin-embedded tissue (Blocks A1, A2, A3 & A4) with adequate
+positive and negative control sections. A1 and A2 each shows a single positive cells, A3 reveals 2 positive cells and A4 is entirely
+negative. Immunohistochemical stains were also performed on B18 with appropriate positive and negative controls. The results are as
+follows:
+B18-
+E-cadherin Pleomorphic LCIS shows speckled pattern.
+Page 4 of 5
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+_______Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+p63: Present in the pleomorphic and classical LCIS; negative in DCIS-like areas and invasive ductal carcinoma, the former mostly
+representing lymphovascular invasion .
+Calponin: Present in the pleomorphic and classical LCIS; negative among neoplastic cells within the lymphovascular space.
+Podoplanin: Highlights lymphovascular invasion.
+The performance characteristics of these antibodies were determined by the
+They have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+37 H&E, 8 IHC
+Tissue Code
+Page 5 of 5
+Criteria
+Now 12/11/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+IIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted.
+Case is (circle):
+Reviewer initials BT
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 12/11/2015
+Print Date/Time:

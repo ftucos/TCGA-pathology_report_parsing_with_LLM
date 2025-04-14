@@ -1,0 +1,33 @@
+:
+ICD-0-3
+Carcinoma infiltrating ductal, NOS 8500/3
+Path
+Site: breast, UIQ C50.2
+CQCF Site: breast, NOS C50.9
+1/25/11
+Diagnosis:
+1. Poorly differentiated invasive ductal breast carcinoma with small areas of necrosis
+and secondary 
+inflammation (tumor diameter 3 cm, margin distances: cranial 0.6 cm,
+caudal 0.4 cm, 
+ventral 0.2 cm, dorsal 0.1 cm, medial 0.4 cm and lateral 0.8 cm).
+This results in the following summary tumor classification: invasive ductal breast
+carcinoma
+, NOS, G III, pT2 NO(0/3sn)LOV0R0.
+UUID:F2077079-D683-4D18-9489-84C760674AF6
+TCGA-A8-A081-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Casa (circle):
+Review
+QUALIFIED
+Date Reviewed:
+Redacted
+Yes
+NO
+DISQUALIFIED
+سال

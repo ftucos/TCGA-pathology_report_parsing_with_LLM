@@ -1,0 +1,219 @@
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALCED
+Yes
+No
+DISQUALIFIED
+Date Reviewed:
+10/31/11
+UUID:6184F94F-BA8F-4435-A839-E1FEA6EFFDF3
+TCGA-A1-
+A0SO-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+C50.9
+lu 10/21/11
+Final Pathologic Diagnosis:
+A. Right axillary sentinel lymph node, excision: Metastatic carcinoma involving one
+lymph node(1/1).
+B. Breast, right, mastectomy: Invasive ductal carcinoma,4.8 cm, SBRgrade 3 and
+high-grade intraductal carcinoma; see comment.
+C. Lymph nodes, axillary, excision: Seven lymph nodes negative for tumor,(0/7).
+-
+D. Lymph nodes, axillary, excision: One lymphnode, no tumor seen (0/1).
+E. Lymph nodes, axillary, excision: No lymph node seen, no tumor,(0/0).
+Note: Breast Tumor Synoptic Comment
+- Laterality: Right.
+- Invasive tumor type: Invasive ductal carcinoma.
+- Invasive tumor size: 4.8 cm maximum diameter.
+Invasive tumor grade (modified Bloom-Richardson):
+Nuclear grade: 3, 3 points.
+Mitotic count: 10-20 mitotic figures/10 HPF, 2 points.
+Tubule/papilla formation: Definite tubule formation is apparent in <10%, 3 points.
+Total points and overall grade = 8 points = grade 3.
+- Lymphatic-vascular invasion: Not present.
+Resection margins for invasive tumor:
+- Deep margin: Negative (tumor is 1.5 cm away, on slide B4).
+- Medial margin: Negative (>3 cm).
+- Lateral margin: Negative (>3 cm).
+Page 1 of 4
+-
+-
+-
+Surgical Pathology -
+Working Draft
+- Anterior/superior margin: Negative (tumor is 1 cm away, on slide B6).
+- Anterior/inferior margin: Negative (tumor is 3 cm away, on slide B7).
+- Ductal carcinoma in situ (DCIS) type: Solid.
+· Ductal carcinoma in situ size:
+DCIS present as scattered microscopic foci up to 0.1 cm in diameter, involving one of twelve
+total slides.
+Ductal carcinoma in situ nuclear grade: High grade.
+Necrosis in DCIS: A small amount of necrosis is seen.
+- Microcalcifications: None.
+- Resection margins for ductal carcinoma in situ:
+-
+Deep margin: Negative (tumor is >1 cm away, on slide 85).
+Medial margin: Negative (tumor is >3 cm away).
+Lateral margin: Negative (tumor is >3 cm away).
+· Anterior/superior margin: Negative (tumor is >1 cm away, on slide B6)
+· Anterior/inferior margin: Negative (tumor is >1 cm away, on slide B7).
+- Lymph node status: Sentinel lymph node positive for carcinoma, metastasis 0.4cm diameter,no
+capsular penetration.
+-
+-
+-
+Number of positive lymph nodes: 1.
+Total number sampled: 9.
+Diameter of largest metastasis: 1.6 cm.
+- Extranodal extension: None.
+- AJCC/UICC stage: pT2N1MX.
+Nontumorous breast tissue: Unremarkable.
+Nipple: Uninvolved.
+Skin/dermis: Uninvolved.
+- Additional comments: Preliminary results were discussed with medical oncology team
+on
+•
+PR, ER not requested.
+This report was amended due to a typographical error. The diagnoses have not been altered.
+Intraoperative 
+Consult Diagnosis
+FS1 (A) Sentinel lymph node #1, right axilla, biopsy: Metastatic adenocarcinoma. (Frozen section
+and cytologic 
+preparation.) (Dr.
+Clinical History
+The patient is a
+-year-old woman with right breast cancer. Right breast tumor. The patient now
+undergoes right mastectomy and right axillary lymph node dissections.
+Gross Description
+The specimen is received fresh in five parts, each labeled with the patient's name and medical record
+number.
+Part A is additionally labeled
+consists of a single soft, oval,
+pink lymph node, measuring 2.1 × 1,1 × 1 cm. The surgeon marks the hot spot with a stitch. This
+stitched area is 
+subsequently inked black. The node is bisected. Touch preparations and scrape
+preparations are made
+. The remaining tissue is submitted for frozen section diagnosis as FS1, with
+the frozen section remnant 
+submitted in cassette A1.
+Part B, additionally labeled
+consists of a single mastectomy
+specimen. The breast tissue weighs 027 yil and measures 20.5 cm from medial to lateral, 20.7 cm
+from 
+superior to inferior, and 5.7 cm from anterior to posterior. Anteriorly, the specimen exhibits a
+skin ellipse measuring 
+19.9 x 9.2 cm. The breast areola is 4.5 x 3.9 cm and the nipple is 1.1 x 1.1 x
+0.7 cm. 
+The specimen is inked for microscopic evaluation: anterior superior surface in blue, the
+anterior inferior surface 
+in green, the posterior surface in black. On the posterior surface, a large, 12
+cm incision is noted
+, representing the site from which the tumor sample was banked. The specimen is
+serially sectioned from medial 
+to lateral to reveal a chalky white tumor with irregular borders. The
+Page 2 of 4
+Surgical Pathology - i
+Working Draft
+tumor measures 3.5 x 3.2 x 4.8 cm (medial to lateral) and exhibits punctate hemorrhages. The
+specimen is sliced into twenty-one slices. The tumor is located between slices 6 and 11. Furthermore,
+in slice 9, there is a cystic mass measuring 1.5 x 1.5 x 1 cm. It is filled with clear serosanguinous
+fluid. The tumor margins are as follows: tumor is 1.2 cm from the posterior (black) margin, 0.8 cm
+from the closest skin margin, 2.3 cm from the closest green margin, and 1.5 cm from the closest blue
+margin. The remainder of the fatty breast parenchyma is unremarkable. Representative sections are
+submitted as follows:
+Cassettes B1-83:
+Cassette B4:
+Cassette B5:
+Cassette B6:
+Cassette B7:
+Cassette B8:
+Cassette B9:
+Cassette B10:
+Cassette B11;
+Cassette B12:
+Nipple.
+Tumor with posterior margin.
+Tumor with skin margin.
+Tumor with blue margin.
+Tumor with green margin.
+Cystic mass.
+Lateral inferior, representative section.
+Lateral superior, representative section.
+Medial superior, representative section.
+Medial inferior, representative section.
+Part C, additionally labeled
+consists of an unoriented irregularly shaped piece of
+fatty tissue measuring 5.5 x 5 x 4 cm. It is yellow to tan. Within the tissue, seven firm nodes are
+palpated, as well as two large matted nodes. All nodes are submitted as follows:
+Cassettes C1-C2:
+Large matted lymph node mass 1.
+Large matted lymph node mass 2.
+Lymph nodes, three pieces.
+Cassettes C3-C4:
+Cassette C5:
+Cassette C6:
+Cassette C7:
+Lymph node, one piece.
+Cassette C8:
+Lymph nodes, two pieces (bivalved).
+Lymph nodes, two pieces.
+Part D, additionally labeled
+consists of a single piece of unoriented,
+Irregularly shaped, fatty tissue measuring 3.5 x 2 x 1.5 cm. The specimen exhibits a single ovold
+nodule measuring 1 x 0.8 x 0.3 cm. The nodule is firm; this is entirely submitted in cassette D1.
+Part E, additionally labeled '
+consists of a single piece of unoriented,
+irregularly shaped fatty tissue measuring 5 x 5 x 2 cm. The specimen is yellow to tan and palpation of
+the specimen reveals fourteen firm nodes ranging from 0.3 to 1.5 cm in diameter. The nodes are
+entirely submitted as follows:
+Cassette E1:
+Lymph nodes, two pieces.
+Cassette E2:
+Lymph nodes, two pieces.
+Cassette E3:
+Lymph nodes, three pieces.
+Cassette E4:
+Cassette E5:
+Cassette E6:
+Cassette E7:
+Cassette E8:
+Lymph nodes, two pieces (bivalved).
+Lymph nodes, three pieces.
+Lymph nodes, three pieces.
+Lymph nodes, two pieces (bivalved).
+Lymph node, one piece.
+Pathology Resident
+Fee Codes:
+Amendments
+Amended:
+Reason:
+Typographical Error
+Typographical Error in synoptic comment
+/Pathologist
+Signed:
+Page 3 of 4
+Surgical Pathology -
+Working Draft
+Previous Signout Date:
+Other Specimens
+_ Specimen Class:
+Status: Signed Out
+Specimen(s) Received: immunohistostaining & interpretation only
+Final Diagnosis
+Accessioned:
+Signed Out:
+Immunostaining and interpretation for ER, PR, and HER2/neu on
+B4:
+Breast, right, mastectomy: Invasive ductal carcinoma negative for ER and PR, and
+indeterminate for HER2 protein overexpression; see comment.
+END OF REPORT
+Page 4 of 4

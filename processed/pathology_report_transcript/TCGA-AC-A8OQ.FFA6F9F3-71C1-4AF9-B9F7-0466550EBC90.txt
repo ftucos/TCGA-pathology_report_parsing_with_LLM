@@ -1,0 +1,231 @@
+UUID:FFA6F9F3-71C1-4AF9-89F7-0466550EBC90
+TCGA-AC-A80Q-01A-PR
+Redacted
+Referring Physician:
+DOB
+Ref#:
+Age:
+Gender:F
+Hoso#:
+Provider Group.
+Date of Service.
+Date Received:
+A copy of this report will be faxed to:
+Case #
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. -C.) RIGHT BREAST AND AXILLARY SENTINEL LYMPH NODES, LUMPECTOMY WITH
+SENTINEL LYMPH NODE BIOPSIES (X2):
+- Invasive ductal carcinoma, Nottingham grade 3.
+- Tumor size: 3.8 cm in diameter.
+- Ductal carcinoma in situ (DCIS), high nuclear grade, solid type, with
+comedo necrosis and calcifications.
+- DCIS is present in association with invasive carcinoma, at the periphery of the
+main tumor mass, does not extend significantly beyond the area of invasion,
+and comprises less than 10% of tumor volume.
+- Lumpectomy margins are free of tumor.
+Carcinoma is located 0.3 cm from deep margin, and is at least 0.5 cm from
+all other margins.
+Metastatic carcinoma identified in one of two sentinel lymph nodes (the involved
+lymph node is sentinel lymph node with count 414).
+-
+- The metastatic focus measures 1.2 cm in diameter; no extranodal extension
+is identified.
+-Metastatic carcinoma comprises approximately 40% of the involved
+lymph node volume.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 3.
+Type and grade (in situ): DCIS, nuclear grade 3.
+Primary tumor: pT2.
+Regional lymph nodes: pN1a.
+Distant metastasis: Not applicable.
+Stage: IIB.
+Lymphovascular invasion: Present.
+Margin status: Negative (RO).
+Breast Invasive Tumor Staging Information
+Case #:
+Printed:
+ICD0.3
+850013
+Carcinoma, infillating duct
+Site ® Breast NOS $50.9
+JEJ 4/7/14
+Page 1
+This report continues... (FINAL)
+Pathology Repol
+Patient Nam
+Case #:
+Specimen type:
+Specimen procedure:
+Lymph node sampling:
+Specimen integrity:
+Specimen laterality:
+Specimen size:
+INVASIVE TUMOR FEATURES:
+Invasive tumor size:
+Partial breast.
+Lumpectomy.
+Sentinel lymph nodes.
+Intact specimen.
+Right.
+6.5 x 5.5 x 4.5 cm.
+3.8 cm.
+Upper-outer quadrant.
+Single focus.
+invasive ductal carcinoma.
+Invasive tumor site:
+Invasive tumor focality:
+Histologic type:
+Total Nottingham Grade:
+3 of 3.
+Tubule formation:
+3 of 3.
+Nuclear Pleomorphism:
+3 of 3.
+Mitotic count for Nottingham:
+3 of 3.
+Milotic count:
+Lymphatic invasion:
+Twenty-four miloses in ten high power fields.
+Present:
+MARGIN STATUS FOR INVASIVE COMPONENT:
+Distance of lumor from margins:
+Closest margin:
+Other margins:
+IN-SITU CARCINOMA (DCIS) FEATURES:
+DCIS extent:
+Pattern:
+Nuclear grade:
+Necrosis:
+Calcifications:
+Margin status for DCIS component:
+Distance of In-situ from nearest margin:
+LOBULAR CARCINOMA IN-SITU (LCIS):
+Negative (RO).
+0.3 cm.
+Deep.
+All other margins are at least 0.5 cm from tumor.
+Comprises less than 10% of tumor volume;
+DCIS identified only in area of invasive
+carcinoma.
+Solid.
+High grade.
+Present.
+Present, i
+Negative!
+At least 0.5 cm.
+Absent.
+Skin:
+Nipple:
+Skeletal Muscle:
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+Primary tumor (PT):
+Regional lymph nodes (pN):
+Case #
+Printed:
+Pathology Report
+Not applicable.
+Not applicable.
+Not applicable.
+pT2.
+pN1a.
+Page 2
+This report continues... (FINAL)
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Distant metastasis (PM):
+Not applicable.
+RECEPTOR STATUS AND HER2/NEU:
+Estrogen receptors:
+Progesterone receptors:
+Her2/neu:
+Ki-67 proliferative Index:
+0% positive cells.
+0% positive cells.
+1+.
+70% positive cells..
+Signed by
+Source of Specimen:
+A. Breast lumpectomy:Right Breast
+B. Sentinel lymph node;Right Breast
+C. Sentinel lymph node:Right Breast;
+Clinical History/Operative Dx:
+Right breast mass/cancer
+Gross Description:
+A. Specimen is labeled right breast lumpectomy. Initially received in fresh state for possible tumor bank
+studies is a 74 gram portion of yellow-tan fibrofally soft tissue, 4.5 cm anterior-posterior, 5.5 cm
+superior-inferior, 8.5 cm medial-lateral. Three sets of sutures are present designated as follows: a double
+long designated inferior, a single long designated medial, a double short designated anterior. The
+margins are now differentially inked. The specimen is serially sectioned perpendicularly through the
+medial-lateral long axis to reveal a partially well demarcated dense gray-tan tumor mass measuring
+upwards of 3.8 x 2.8 x 2.1 cm. The mass approaches within 0.3 cm of the posterior, 0.6 cm of the medial,
+0.6 cm of the superior, 0.8 cm of the anterior, 1.0 cm of the lateral and 1.2 cm of the inferior surgical
+margins. The cut surfaces surrounding the tumor mass are lobular, admixed yellow-tan without additional
+discrete nodularity. Representative sections are submitted in a sequential fashion, lateral towards medial.
+Cassette summary:
+A1-A2) slab 1, lateral margin
+Printed:
+Page 3
+This report continues... (FINAL)
+Pathology Report
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+A3) slab 2, posterior anterior margins
+A4) slab 2, superior inferior margins
+A5) slab 2, bulk of tumor
+A6) slab 3. posterior anterior margins, tumor
+A7) slab 3, superior inferior margins, tumor
+A8) slab 3, bulk of tumor
+A9) slab 4, posterior margin
+A10) slab 5, posterior anterior margins
+A11) slab 5, superior inferior margins
+A12) slab 5, bulk of tumor
+A13) slab 6. posterior anterior
+A14) slab 6, superior inferior margins
+A15) slab 6, bulk of tumor
+A16-A17) slab 7, medial margin, tumor
+SUPERIOR: BLUE
+MEDIAL: RED
+ANTERIOR: YELLOW
+INFERIOR: GREEN
+LATERAL: ORANGE
+POSTERIOR: BLACK
+B. Specimen is labeled sentinel node , right breast. Received in formalin is a rubbery pink and tan
+lymph node candidate 1.3 x 1.1 x 0.7 cm. The margins are now routinely marked blue. The specimen is
+serially sectioned demonstrating a rubbery pink and tan cul surface without grossly discrete nodularity.
+The lymph node is entirely submitted for microscopic evaluation in B1, with a sentinel lymph node
+protocol performed.
+C. Specimen is labeled sentinel node right breast. Received in formalin is a 3.0.x 2.3 x 2.0 cm
+portion of fat. Examination reveals a 2.0 x 1.6 x 1.3 cm lymph node. The margins are now marked blue.
+The specimen is serially sectioned, revealing a predominantly nodular dense gray-lan qut surface with
+peripheral softened pink and tan appearance. The lymph node is entirely submitted for microscopic
+evaluation in C1 and C2, with a sentinel lymph node protocol performed.
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+C. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #:
+Printed:
+Pathology Repo
+Patient Nam
+}
+Page 4
+END OF REPORT.. (FINAL)
+Yes
+No /
+Criteria
+Diagnosis Discrepancy
+W 11/25/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primar Noted
+Case circle):
+QUALIFIED
+DISQUALIFIED
+Reviewer
+Date Reviewed:

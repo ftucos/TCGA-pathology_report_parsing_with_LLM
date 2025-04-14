@@ -1,0 +1,29 @@
+1CD-0-3
+Carcinoma, infiltrating ductal, Nus 8500/3
+Site: Breast NUS
+C50.9
+1/21/11
+Diagnosis:
+2. Left ablated breast material with a 3.5 cm well differentiated invasive ductal breast
+carcinoma with focal invasion of lymph vessels, infiltration of the skin and inclusion of an
+intraductal non-high-grade carcinoma of equal size with comedo necrosis and a minimum
+basal margin of 0.8 cm and, at 6 o'clock, of 0.6 cm. In the outlying area of the tumor is a
+proliferating mastopathy with cylindrical epithelial metaplasia and areas of scleradenosis.
+Tumor classification:
+M-8500/3, G1, pT4b, pL1, pN1a (2/21), pMX, stage IIIB. RO.
+:
+UUID:5D439E4F-F187-41F7-BF1D-1F6E93D6427D
+TCGA-A8-A09B-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+ALIFIED
+Review
+Date Previewed
+DISQUALIFIED
+Yes

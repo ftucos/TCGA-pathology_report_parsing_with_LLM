@@ -1,0 +1,81 @@
+Sex: Female
+D.O.B.:
+Collected:
+Received:
+Reported:
+SPECIMEN INF
+UUID:30947748-8764-4060-BFF3-48FEF39F4BEA
+TCGA-AC-A3EH-01A-PR
+Redacted
+DIAGNOSIS:
+SURGICAL PATHOLOGY REPORT
+VE DIAGNOSIS ARE
+Breast, right, axillary contents; modified radical mastectomy and axillary node dissection:
+Tumor Characteristics:
+1. Histologic type: Pleomorphic lobular carcinoma, confirmed by negative e-cadherin stain.
+2. Size: 10.0 x 10.0 x 7.2 cm.
+3. Tumor focality: Unifocal.
+4. Elston modification of Bloom-Richardson grade:
+a. Architectural score: 3/3.
+b. Nuclear score: 2/3.
+c. Mitotic score: 1/3.
+d. Total score: 6/9 = Grade: II.
+5. In situ component: Not identified.
+6. Lymphovascular space invasion: Present.
+7. Skin involvement: Not identified.
+8. Microcalcifications: Present and associated with invasive carcinoma.
+Surgical Margin Status:
+1. Deep surgical margin free of tumor by 2.5 cm as measured grossly.
+Lymph Node Status:
+1. Total number of lymph nodes received: 12.
+2. Total number of lymph nodes containing metastatic carcinoma:
+3. Size of largest metastasis: 2.5 cm.
+4. Extracapsular extension of tumor: Present.
+Other:
+1. pTNM stage: pT3 N2.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Lista he
+w
+Yes
+No
+/ DISQUALIFIED
+KMT 10/31/11 10/31/11
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right MET
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+Right breast and axillary contents
+at
+Electronic Signature:
+CLINICAL INFORMATION
+SPECIMEN DATA
+GROSS DESCRIPTION:
+The specimen is received
+right breast and axillary contents the specimen consists of a portion of fibroadipose breast tissue and overlying
+skin that measures 18.0 by 8.0 cm and weighs 1,529 gm. The skin surface measures 23.0 x 13.8 cm is light tan wrinkled there is a scar within the outer
+quadrant measuring 3.0 cm that is 9.2 cm in the nipple there is slight ecchymosis noted within the upper outer quadrant. No other lesions are identified.
+The nipple is eccentrically placed appears grossly unremarkable. Sectioning reveals a firm gray-tan lobular mass that measures 10.0 x 10.0 x 7.2 cm
+that is centrally located it is within 2.5 cm of the deep margin of resection the surrounding breast tissue reveals yellow-tan fatty fibroadipose tissue with
+areas of gray fibrous tissue. Attached to the specimen is a portion of axillary contents measuring 10.0 x 6.0 x 3.0 cm there are twelve possible lymph
+nodes that measure from 0.3 to 2.7 cm. Received with the specimen is a separate piece of skin and underlying subcutaneous tissue 14.0 x 4.0 x 1.5 cm
+sectioning cut surface is yellow-tan fatty fibroadipose tissue lesions not identified grossly. Received with specimen are three cassettes labeled
+with a yellow one additionally labeled-18 green one additionally labeled - 17 and the blue one additionally labeled - 18. Representative
+sections are submitted in cassettes labeled
+_as follows: Nipple - block 1; Deep margin overlying mass block 2; Sections from the mass -
+blocks 3-8; Random sections from the upper inner quadrant - block 9; Lower inner quadrant - block 10; Lower outer quadrant - block 11; Upper outer
+quadrant-block 12; Six probable nodes - block 13; Two probable nodes each bisected - block 14; One probable node bisected block 15; One probable
+node trisected block 16-18; One probable node bisected block 19; One probable lymph node sectioned - blocks 20-23; Sections from separately
+ICD-0-3
+Carcinoma, pleomorphic 8022/3
+(invesive lobulan)
+Site: breast, C50.9
+w 10/31/11

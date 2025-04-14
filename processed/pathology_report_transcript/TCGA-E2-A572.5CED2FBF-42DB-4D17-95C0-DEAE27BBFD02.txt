@@ -1,0 +1,276 @@
+UUID:5CED2FBF-42DB-4D17-95C0-DEAE27BBFD02
+TCGA-E2-A572-01A-PR
+Redacted
+SPECIMEN(S): A. LEFT BREAST AND AXILLARY CONTENTS
+B. ADDITIONAL AXILLARY CONTENTS
+C. LEFT BREAST SKIN AND TISSUE
+D. RIGHT BREAST NEEDLE LOCALIZATION
+E. ADDITIONAL RIGHT BREAST RETROAREOLAR TISSUE
+MARGIN
+CLINICAL HISTORY:
+yo female with left clinical T2N1 IDC, 3.5 cm retroareolar (note ER + primary and ER
+negative axillary mets) here for L MRM. Also, right breast mass bx shows ADH. Here
+for R excisional biopsy.
+PRE-OPERATIVE DIAGNOSIS:
+Left IDC, Right - ADH
+INTRAOPERATIVE CONSULTATION
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, No;
+050.9
+بسیار
+11/25/12
+FSD: Right breast needle localization- Representative section of mass-no invasive
+carcinoma on frozen. At least atypical ductal hyperplasia-cannot rule out DCIS-lesion
+near anterior margin. Diagnosis called to Dr. at by Dr.
+DIAGNOSIS:
+A. BREAST, LEFT, AND AXILLARY CONTENTS, MODIFIED RADICAL
+MASTECTOMY:
+TYPES,
+WITH
+- INVASIVE DUCTAL CARCINOMA, NOTTINGHAM GRADE 2, WITH
+LOBULAR FEATURES, INVOLVING THE NIPPLE DERMIS.
+- 3.4 CM IN SIZE.
+- DUCTAL CARCINOMA IN SITU (DCIS), CRIBRIFORM AND SOLID
+NUCLEAR GRADE 2, WITH NECROSIS AND MICROCALCIFICATIONS.
+- MARGINS, NEGATIVE FOR CARCINOMA.
+- METASTATIC CARCINOMA IN SEVEN OF EIGHT LYMPH NODES
+EXTRANODAL EXTENSION (7/8).
+B. ADDITIONAL AXILLARY CONTENTS, LEFT, DISSECTION:
+- METASTATIC CARCINOMA IN ONE OF FIVE LYMPH NODES (1/5).
+C. BREAST, LEFT, SKIN AND TISSUE, EXCISION:
+- SKIN AND ADIPOSE TISSUE, NEGATIVE FOR CARCINOMA.
+D. BREAST, RIGHT, NEEDLE LOCALIZATION EXCISIONAL BIOPSY:
+- DUCTAL CARCINOMA IN SITU (DCIS), CRIBRIFORM AND PAPILLARY
+TYPES, NUCLEAR GRADE 1.
+- DCIS IS WITHIN 0.2 CM OF THE DESIGNATED RETROAREOLAR
+MARGIN AND 0.3 CM FROM THE ANTERIOR MARGIN.
+- SEVERAL FOCI OF ATYPICAL DUCTAL HYPERPLASIA (ADH).
+- COLUMNAR CELL CHANGE, COMPLEX SCLEROSING LESION WITH
+USUAL DUCTAL HYPERPLASIA, INTRADUCTAL PAPILLOMAS,
+CYSTIC
+APOCRINE METAPLASIA, MICROCALCIFICATIONS AND PREVIOUS
+BIOPSY SITE CHANGES.
+NOTE: DCIS is present in two slides and measures 0.4 cm on a single slide.
+E. BREAST, RIGHT, ADDITIONAL RETROAREOLAR TISSUE MARGIN,
+EXCISION:
+-
+SMALL INTRADUCTAL PAPILLOMA WITH USUAL DUCTAL
+HYPERPLASIA
+AND FOCAL PREVIOUS BIOPSY SITE CHANGES.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens:
+A: LEFT BREAST AND AXILLARY CONTENTS
+B: ADDITIONAL AXILLARY CONTENTS
+C: LEFT BREAST SKIN AND TISSUE
+Specimen Type: Mastectomy
+Needle Localization:
+Laterality: Left
+No
+Invasive Tumor: Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Tumor Site:
+Margins:
+3.4cm
+Central
+Negative
+Distance from closest margin: Greater than 2cm
+deep
+Tubular Score:
+3
+Nuclear Grade:
+2
+Mitotic Score:
+1
+Modified Scarff Bloom Richardson Grade: 2
+Necrosis: Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+None identified
+Lymph nodes: Axillary dissection
+Lymph node status: Positive 8/13 Extranodal extension
+Non-neoplastic areas:
+DCIS present
+complex sclerosing lesion, intraductal papillomas, usual ductal hyperplasia
+Margins uninvolved by DCIS
+DCIS Quantity:
+DCIS Type:
+DCIS Location:
+Nuclear grade:
+Estimate 10%
+Solid
+Cribriform
+Both associated and separate from invasive tumor mass
+Intermediate
+Necrosis: Present
+Location of CA++:
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative
+Performed on Case:
+DCIS
+Pathological staging (pTN): PT 2 N 2
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimens Involved
+Specimens: A: LEFT BREAST AND AXILLARY CONTENTS
+Specimen: Surgical Excision
+Block Number:
+A21 (lymph node)
+ER: Positive
+PR: Positive
+Allred Score:
+Allred Score:
+8 = Proportion Score 5 + Intensity Score 3
+3 = Proportion Score 2 + Intensity Score 1
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 =<1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-
+30% of cells staining, 4 = 31-60% of cells staining, 5 =>60% of cells staining) to the intensity score
+(1 = weak intensity of staining, 2 intermediate intensity of staining, 3 = strong intensity of
+staining), with a scoring range from 0 to 8.
+=
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR
+(PGR 136, 1:100) provided by
+ollowing the manufacturer s
+instructions. This assay was not modified. Interpretation of the ER/PR immunohistochemical stain
+is guided by published results in the medical literature, information provided by the reagent
+manufacturer and by internal review of staining performance.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens: D: RIGHT BREAST NEEDLE LOCALIZATION
+E: ADDITIONAL RIGHT BREAST RETROAREOLAR TISSUE MARGIN
+Specimen Type:
+Needle Localization:
+Excision
+Yes
+Laterality: Right
+Invasive Tumor:
+Absent
+Multifocality: N/A
+WHO CLASSIFICATION
+Intraductal proliferative lesions
+Ductal carcinoma in situ 8500/2
+DCIS present
+Margins uninvolved by DCIS : see above
+DCIS Type:
+Cribriform
+Papillary
+Nuclear grade:
+Low
+Necrosis:
+Absent
+Location of CA++:
+Benign epithelium
+Pathological staging (pTN):
+PT is NX
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+GROSS DESCRIPTION:
+A. LEFT BREAST AND AXILLARY CONTENTS
+Received fresh with the patient's identification and designated "left breast and axillary
+contents" is an oriented 1143g, 19 x 19 x 3.6 cm mastectomy with 14 x 6 cm attached
+tan-brown skin ellipse and a centrally located, non-retracted 1.2 x 1.4 cm nipple. Ink
+code: posterior-black, anterior superior-blue, anterior inferior-orange. Serial sectioning
+from medial to lateral into 14 slices reveals two lesions:
+Lesion 1: 3.4 x 3 x 2 cm white-tan, firm, irregular mass at 12:00 in slices 5 and 6, 3 cm
+from the deep margin.
+Lesion 2: 8 x 7 x 3 cm ill-defined nodular and cystic area, involving the LIQ, mid to LOQ
+and central area in slices 4-9, 2 cm from the deep margin, and inferior and adjacent to
+lesion 1.
+In the axillary tail, there is a 4 x 3.2 x 2 cm mass consistent with tumor involving lymph
+node(s) as well as several other grossly positive lymph nodes. Representatively submitted
+as per the attached diagram:
+A1-A2: lesion 1 (mass), slice 5, 12:00
+A3-A5: lesion 1 (mass), slice 6, 12:00 (biopsy clip in cassette A3)
+A6: deep margin, slice 5
+A7: lesion 2, slice 4, LIQ
+A8: lesion 2, slice 5, central lower
+A9: lesion 2, slice 6, central lower
+A10: lesion 2, slice 7, LOQ
+A11: lesion 2, slice 8, LOQ
+A12: lesion 2, slice 8, mid outer quadrant
+A13: lesion 2, slice 9, LOQ
+A14: deep margin, slice 9
+A15: UIQ
+A16: UOQ
+A17-A19: nipple
+A20: skin
+A21-A22: representative sections of largest lymph node
+A23: one lymph node, representative section
+A24: one lymph node, bisected
+A25: one possible lymph node, bisected
+A26: two lymph nodes
+A27: one lymph node, bisected
+A28: two lymph nodes
+A29-A32: additional axillary tissue.
+B. ADDITIONAL AXILLARY CONTENTS
+Received fresh labeled with patient identification and designated "additional axillary
+contents" is a tan-pink to tan-red and hemorrhagic, fibrofatty soft tissue fragment, 3.5 x
+2.5 x 19 cm. Examination reveals 8-10, firm, tan-white to tan-pink possible lymph nodes
+ranging in size from 0.2 x 0.2 x 0.2 cm to 0.4 x 0.2 x 0.2 cm. The specimen is entirely
+submitted as follows:
+B1: Possible lymph nodes
+B2-B3: The remaining soft tissue
+C. LEFT BREAST SKIN AND TISSUE
+Received fresh with patient's identification and designated "left breast skin and tissue" are
+1) an unoriented, tan-pink to tan-yellow, partially skin covered soft tissue fragment
+measuring 9.5 x 6.5 x 1.8 cm, serial sectioning reveals no grossly visible/possible
+masses/lesions. The deep surface of the specimen is inked in black and representatively
+submitted in C1-C3.
+2) A fragment of tan-brown skin (the central part is missing), 2-1.5 x 7.5 x 1 cm,
+examination reveals no grossly visible lesions, representatively submitted in C4-C5.
+D. RIGHT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with the patient's identification and "right breast needle
+localization" is an oriented 31g, 7 x 5 x 3cm needle localized lumpectomy with
+radiograph. Ink code: retroareolar - purple, anterior-yellow, posterior-black, superior-
+blue, inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from
+lateral to medial into 7 slices revealing a 1.4 x 1 x 1cm tan white irregular mass, 0.1cm
+from the anterior-retroareolar margin in slices 3-4. A 0.5 x 0.5 x 0.3cm tan white firm
+area is also identified, at the anterior-lateral-inferior margin of slice 1. A biopsy clip is
+identified in slice 2 adjacent to the firm area in slice 1. A portion of the 1.4 cm mass is
+submitted for frozen section in FSD. Representatively submitted:
+FSD: 1.4 cm mass slice 3
+D2-D4: lateral margin with 0.5 cm firm area in D4
+D5-D8: slice 2 with clip ID in D8
+D9: superior margin slice 3
+D10: posterior margin slice 3
+D11-D12: inferior margin slice 3
+D13-D14: superior margin slice 4
+D15: mass with anterior margin slice 4
+D16: posterior margin slice 4
+D17: inferior margin slice 4
+D18-D19: anterior margin slice 5
+D20-D21: posterior margin slice 5
+D22: superior margin slice 6
+D23: anterior margin slice 6
+D24: posterior margin slice 6
+D25: inferior margin slice 6
+D26-D27: medial margin slice 7
+E. ADDITIONAL RIGHT BREAST RETROAREOLAR TISSUE MARGIN
+Received fresh labeled with the patient's identification and 'additional right breast
+retroareolar tissue' is an oriented 5g, 4.5 x 3.8 x 1.4cm tan pink fibrofatty tissue. Final
+margin is inked blue. Serial sectioning reveals no discrete lesions. Entirely submitted in
+E1-E4.
+Yes
+t'o
+Criteria
+Diagnosis Discapancy
+Humary Tumor Site Discrepancy
+HIPA Discrepanty
+Pric: Malignancy History
+Duschronoya Poted
+Case is (circa):
+Reviewer initials
+us
+☑QUANTES / DISQUALISED
+Tate Reviewed.

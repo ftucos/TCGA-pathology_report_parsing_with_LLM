@@ -1,0 +1,204 @@
+TSS
+SPECIMENS:
+A. ADDITIONAL AXILLARY NODES
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path Site: breast, upper outer quadrant C50.4
+CQCF Site brust, was C50.9
+B. LEFT BREAST WITH AXILLARY CONTENTS LEVELS 1 & 2
+SPECIMEN(S):
+A. ADDITIONAL AXILLARY NODES
+B. LEFT BREAST WITH AXILLARY CONTENTS LEVELS 1 & 2
+GROSS DESCRIPTION:
+A. ADDITIONAL AXILLARY NODES LEFT
+Received in formalin are multiple tan-pink fragments of fibrofatty tissue aggregating to 4.0 x 4.0 x 2.0
+cm. Dissection reveals 7 possible lymph nodes ranging from 0.2 x 0.2 x 0.2 cm to 2.0 x 1.5 x 1.5 cm.
+A1: 4 possible lymph nodes
+A2: 4 possible lymph nodes
+A3: 2 possible lymph nodes
+A4-A5: 1 lymph node serially sectioned
+B. LEFT BREAST WITH AXILLARY CONTENTS LEVELS 1 & 2
+Received fresh is a 2,422 gm oriented radical mastectomy specimen, 31 x 27 x 10 cm. The specimen
+is partially surfaced with a tan-brown ellipse of skin, 27 x 14.5 cm. The centrally located darkened
+areola rim measures 3.0 cm and the partially flattened nipple measures 1.0 cm. The skin surface is
+remarkable for a gray-white linear well healed scar, 3.5 cm in length and measuring 6.0 cm from the
+nipple in the upper outer quadrant. The specimen is inked as follows: anterior/superior-blue,
+anterior/inferior-orange, posterior-black. The specimen is serially sectioned from medial to lateral into
+13 slices; slice 1 being most medial, slice 13 being most lateral. The nipple is located in slice four. The
+cut surface reveals a gray-white firm/necrotic ill defined mass located in the upper outer central outer
+quadrant in slice 6, 78 and 9, measuring 0.6 cm from the closest deep margin. The mass measures
+9.0 x 8.0 x 4.0 cm, and corresponds to the scar on the skin surface. The remainder of the specimen
+reveals yellow lobulated adipose tissue interdispersed with gray-white fibrous tissue. The axillary tail
+measures 8.0 x 5.0 x 4.0 cm. Dissection reveals 27 possible lymph nodes ranging from 0.1 × 0.1 × 0.1
+cm to 2.0 x 1.5 x 1.5 cm. Slice 11 and 12 are remarkable for 3 large firm lymph nodes, ranging from 1.0
+x 0.8 x 0.8 cm to 5.0 x 2.0 x 2.0 cm. Portion of the specimen is submitted for tissue procurement.
+Representative sections are submitted as follows:
+B1: 1 lymph node, serially sectioned slice 11
+B2-B5: 1 lymph node, serially sectioned slice 11 & 12
+B6-B12: 1 lymph node, serially sectioned slice 11 & 12
+2/15/11
+ke
+B13: 5 possible lymph nodes
+B14: 4 possible lymph nodes
+B15: 5 possible lymph nodes
+B16: 4 possible lymph nodes
+B17: 3 possible lymph nodes
+B18: 2 possible lymph nodes
+B19: 2 possible lymph nodes
+B20: 1 lymph node, trisected
+B21-B22: 1 lymph node, serially sectioned
+B23-B24: nipple serially sectioned slice 4
+B25: base of nipple slice 4
+B26: scar with skin slice 7
+B27: upper inner quadrant slice 2
+B28: upper inner quadrant slice 3
+B29: lower inner quadrant slice 2
+B30: lower inner quadrant slice 3
+UUID:3327975F-94BE-460E-9900-E063340927BE
+TCGA-E2-A1LL-01A-PR
+Redacted
+B31: lower inner quadrant with inferior margin slice 3
+B31: upper central slice 4
+B32: lower central slice 4
+B33: upper outer quadrant with superior margin slice 5
+B34: upper outer quadrant slice 5
+B35: area immediately adjacent to mass slice 5
+B36: area immediately adjacent to mass slice 5
+B37: mass with deep margin and muscle slice 6 upper outer quadrant at deep margin
+B38: mass slice 6
+B39: deep margin slice 6
+TSS.
+B40: mass with deep margin slice 7
+B41: mass with deep margin slice 7 upper outer quadrant mass with skin slice 7
+B42: mass slice 7 upper outer quadrant
+B43: skin, slice 8 upper outer quadrant
+B44: mass with deep margin slice 8 upper outer quadrant
+B45: mass with deep margin slice 8 upper outer quadrant
+B46: mass with deep margin slice 9 upper outer quadrant
+B47: lower outer quadrant with inferior margin slice 7
+B48: inferior margin slice 8
+B49: area immediately adjacent to mass upper outer quadrant slice 10
+B50: deep margin upper outer quadrant slice 10
+DIAGNOSIS:
+A. LYMPH NODES, ADDITIONAL, LEFT AXILLARY, DISSECTION:
+- TEN LYMPH NODES, NEGATIVE FOR METASTASES (0/10).
+B. BREAST, LEFT, MASTECTOMY AND AXILLARY CONTENTS LEVELS 1 AND 2 DISSECTION:
+-
+-
+INVASIVE, DUCTAL CARCINOMA, SBR GRADE 3 WITH SQUAMOUS
+FEATURES AND NECROSIS, MEASURING 9-CM
+SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- LOBULAR CARCINOMA IN SITU
+METASTATIC CARCINOMA TO FIVE OF THIRTY FOUR LYMPH NODES
+(5/34), WITH EXTRANODAL EXTENSION, LARGEST MEASURING 1.5-CM
+- SEE SYNOPTIC REPORTS.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Invasive Tumor:
+Multifocality: No
+Mastectomy
+No
+Present
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 9cm
+Tumor Site: Upper outer quadrant
+Central
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+3
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: None identified
+3
+Lobular neoplasia:
+LCIS
+Lymph nodes:
+Lymph node status:
+Positive 5/44 Extranodal extension
+Axillary dissection
+DCIS not present
+ER/PR/HER2 Results
+ER: Negative
+PR: Negative
+HER2: Negative
+Pathological staging (pTN): PT 3 N 2a
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+TSS
+Block Number:
+B44
+ER: Negative Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+0 = Proportion Score 0 + Intensity Score 0
+0 = Proportion Score 0 + Intensity Score 0
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by.
+following the manufacturer s instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+B44
+NEGATIVE
+Intensity:
+1+
+% Tumor Staining:
+5%
+No
+Fish Ordered:
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved Dako HercepTest (TM) test kit
+using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is guided by published results in the medical literature, information provided
+by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology
+Department takes full responsibility for this test's performance.
+CLINICAL HISTORY:
+year old with left breast ca
+PRE-OPERATIVE DIAGNOSIS:
+Left breast ca
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist, (
+Final Review:., Pathologist,
+Final Review: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Criteria
+Diagnosis Discrepar-cy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary doted
+Case is (circle):
+Reviewer Initials
+QUALIFI
+Cste Reviewed:
+DISQUA
+Yes
+K's

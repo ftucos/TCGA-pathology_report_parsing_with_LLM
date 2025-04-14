@@ -1,0 +1,40 @@
+UUID:6424BA69-DA2B-4CCD-ADDF-DB1BEDA11EBF
+TCGA-AR-AQU4-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, infiltrating duct, Nus 8500/3
+Site: breast, Nos
+05009
+Breast, right, simple mastectomy: Breast parenchymal tissue is negative for tumor. Focal calcifications
+identified. The nipple is negative for tumor. A single intraparenchymal lymph node is negative for
+tumor.
+Breast, left, simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III), [tubules 3
+(of 3), nuclei 3 (of 3), mitoses 2 (of 3); Nottingham score 7-8 (of 9)] forming a 4.7 x 4.0 x 2.7 cm mass,
+located in the upper outer quadrant of the breast (AJCCpT2). Ductal carcinoma in situ is absent.
+Angiolymphatic invasion is absent. No calcifications are present. The tumor does not involve the nipple,
+overlying skin, or underlying chest wall. All surgical resection margins, including deep margin, are
+negative for tumor (minimum tumor free margin, 1.7 cm, deep margin).
+Lymph nodes, left axillary sentinel, excision: Multiple (10) sentinel lymph nodes are negative for tumor.
+AJCC pN0(1-)(sn)
+Immunohistochemical stains were performed on paraffin embedded tissue from the breast tumor using
+antibodies to ER, PR, and HER2/neu. Estrogen is negative, 0% nuclear staining. Progesterone is
+negative, 0% nuclear staining. HER2/neu protein overexpression is negative, score of 0, according to the
+interpretation guidelines in the FDA-approved HercepTest.
+ER (Estrogen Receptor) test was developed and its performance characteristics determined by
+and Drug Administration.
+•
+It has not been cleared or approved by the U.S. Food
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy history
+Dual/Synchronous Primary
+Case is (circle):
+Reviewer tals
+Yes
+No
+QUALIFITO
+DISQUALIFIFO
+Date Reviewed:

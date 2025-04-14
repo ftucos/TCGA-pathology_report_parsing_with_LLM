@@ -1,0 +1,119 @@
+UUID:5D85E578-64B4-4238-922E-80288ED87800
+TCGA-XX-A89A-01A-PR
+Redacted
+Research Gross Description
+Research Dx
+Left breast (1945 g), mastectomy:
+Invasive lobular carcinoma.
+7 regional lymph nodes, negative for malignancy (0/7)
+Tumor site: Upper outer quadrant ( 2-3:00)
+Tumor size: Between 7 and 9 cm
+Histopathologic type: Invasive lobular carcinoma
+Histopathologic grade (Nottingham): 2
+Mitotic count: Low proliferative rate
+Pathologic tumor stage: pT3
+Margin status:
+Distance of carcinoma from margins:
+Superior: 0.8 cm
+Inferior: At least 1 cm
+Medial: Greater than 2 cm
+Lateral: Greater than 2 cm
+Anterior: 1 cm
+Posterior: Greater than 1 cm
+Associated in situ carcinoma:
+Type: Lobular carcinoma in situ (rare focus)
+Extensive (>25% of total tumor): No
+ICD-0.3
+Carcinoma, infiltrating lobular NOS
+Site NOS.
+①Breast MOS
+path
+852013
+050.9
+⑤Breast, upper
+-outer
+quadrant C50.4
+диабла узкие
+11/22/13
+Separate (extra-tumoral) foci away from main lesion: Not identified
+Peritumoral angiolymphatic invasion: Not identified
+Dermal angiolymphatic invasion: Not identified
+Estrogen receptor: Positive (70 % of tumor cell nuclei staining moderately to strongly)
+Progesterone receptor: Positive (70% of tumor cell nuclei staining moderately to strongly)
+HER-2/neu (ERBB2): Negative (score 0)
+Duration of fixation in 10% NBF: 12 hours 24 minutes
+Appropriate internal and external controls: Yes
+Standard assay conditions met? Yes
+Pathologic lymph node stage: pN0 (including sentinel): No regional lymph node metastasis
+Number of nodes positive for metastasis/total number nodes sampled: 0/11
+Maximum diameter of largest lymph node metastasis: Not applicable
+Extranodal extension by tumor: Not applicable
+Distant metastasis: M-not applicable
+Additional pathologic findings: Fibrocystic change and usual ductal hyperplasia; seborrheic
+keratosis
+TNM descriptors (if applicable):
+AJCC Staging (7th Edition): pT3 pNO M-not applicable
+Research QC
+T1 Tumor:
+50% tumor nuclei
+0% necrosis
+50% normal
+Normal:
+100% fibroadipose
+1
+T2
+50% tumor nuclei
+0% necrosis
+50% normal fibrous tissue and fat. minimal normal breast
+T3
+70% tumor nuclei
+0% necrosis
+30% normal
+T4
+50% tumor nuclei
+0% necrosis
+50% normal fat, could prob be trimmed
+Research Specimen
+Specimen Process Time
+Blood draw time
+Plasma frozen time:
+Serum frozen time
+Buffy coat frozen time:
+Cold ischemia start time:
+Formalin fixation start time:
+Total cold ischemia time:
+Formalin fixation stopped time
+Total formalin fixation time:
+Specimen Weight
+Cryovials x 8
+Normal x 4 - 1.) 335 mg 2.) 321 mg 3.) 408 mg 4.) 447 mg
+Tumor x 4 - 1.) 351 mg 2.) 357 mg 3.) 252 mg 4.) 322 mg
+Specimen Size
+Plasma x 3
+Serum x 2
+Buffy coat x 1
+Cryovials x 8
+Normal x 4
+Tumor x 4
+FFPE x 8
+Normal x 4
+Tumor x 4
+Study
+Patient Consent
+Yes
+riteria
+Magsis Discrepan
+w 10/24/13
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Noted
+ase is (circle):
+eviewer Initials
+SQUALIFIPO
+Yes
+/ DISQUALIFIED
+Cate Reviewed:
+18 2413
+No
+2

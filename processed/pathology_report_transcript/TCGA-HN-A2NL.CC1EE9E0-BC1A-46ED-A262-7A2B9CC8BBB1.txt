@@ -1,0 +1,70 @@
+UUID:CC1EE9E0-BC1A-46ED-A262-7A2B9CC8BBB1
+TCGA-HN-A2NL-01A-PR
+Redacted
+ple Type Tumour Primary
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+1CD-0-3
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed:
+tw 9/16/11
+Carcinoma, infiltrating lobular, NOS 8520/3
+Site: breast, Nos C50.9
+سل
+Sample Preparation
+Fresh Frozen
+Site of Primary (Event)
+Site of Tissue
+Breast
+Year of Sample Collection
+Age at Sample Collection (yrs)
+56
+Sample Comments
+Days to Procedure Date
+0
+Days to Diagnosis
+7
+Surgical resection
+Left breast
+Type of Procedure
+Site of Primary (Histology)
+Bilateral Disease
+Tumour Size (cm)
+3.5
+Other
+Grade III (high- poorly differentiated)
+Histology
+Grade/Differentiation
+Pathological T
+T2
+Pathological N
+NO,NOS
+Number of Nodes Sampled
+3
+Number of Nodes Positive
+0
+Clinical M
+MO
+Histology Comments
+component.
+9/14/11
+Inflitrating mammary carcinoma with lobular features No In Situ
+SBR (Scarff-Bloom-Richardson) score
+9
+ER Status
+Negative
+PR Status
+Negative
+HER2 Status
+Negative
+Lymph Node Metastases
+None Documented

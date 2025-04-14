@@ -1,0 +1,134 @@
+Patient:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+Physician(s):
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SPECIMEN: LEFT BREAST
+FINAL DIAGNOSIS:
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+(Age:
+F
+Race: WHITE
+Taken:
+Received:
+Reported:
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 852013
+Site: breast, NOS
+C50.9
+1/24/11 w
+==
+BREAST, LEFT, MASTECTOMY:
+-
+-
+MODERATELY DIFFERENTIATED (GRADE II/III) INFILTRATING LOBULAR CARCINOMA.
+* NOTTINGHAM SCORE: 6 OF 9 (Tubule formation
+2, and Mitotic activity
+: 1).
+=
+3; Nuclear pleomorphism
+* TUMOR SIZE (GREATEST DIMENSION): 3.5 CM (MEASURED GROSSLY) (SEE
+COMMENT).
+* TUMOR NECROSIS: NOT PRESENT.
+* MICROCALCIFICATIONS: FOCALLY PRESENT, ASSOCIATED WITH INVASIVE
+CARCINOMA, AS WELL AS, BENIGN DUCTS.
+* VENOUS / LYMPHATIC INVASION: NOT IDENTIFIED.
+*
+MARGINS: NEGATIVE.
+-
+=
+DISTANCE OF TUMOR FROM NEAREST INKED BLACK (DEEP) TISSUE EDGE IS 0.5
+CM (SLIDE A7).
+* INTRADUCTAL COMPONENT: LOBULAR CARCINOMA IN SITU.
+* NIPPLE INVOLVEMENT: NOT PRESENT.
+* SKIN INVOLVEMENT: NOT PRESENT.
+* LYMPH NODES: ONE (1) SENTINEL LYMPH NODE NEGATIVE PER PRIOR
+SURGICAL SPECIMEN
+* ESTROGEN RECEPTORS: POSITIVE (95% NUCLEAR STAINING PER PRIOR
+SURGICAL SPECIMEN .
+* PROGESTERONE RECEPTORS: NEGATIVE (NO DETECTABLE NUCLEAR
+STAINING PER PRIOR SURGICAL SPECIMEN
+* HER2/NEU: WEAKLY POSITIVE BY IMMUNOHISTOCHEMISTRY (2+) . NEGATIVE BY
+FISH (HER2/CEP17 RATIO: 0.9) PER PRIOR SURGICAL SPECIMEN
+* PATHOLOGIC STAGE: PT2 NO MX.
+ADDITIONAL PATHOLOGIC CHANGES:
+* FLORID USUAL DUCTAL HYPERPLASIA.
+* FIBROADENOMATOID CHANGE.
+* FIBROCYSTIC CHANGES TO INCLUDE STROMAL FIBROSIS, CYST FORMATION,
+APOCRINE METAPLASIA.
+AND
+* PRIOR BIOPSY SITE CHANGES.
+Comment: The lobular differentiation is supported by negative E-cadherin
+cytoplasmic staining and strongly positive 34betaE12 ( () perinuclear
+cytoplasmic staining. There are microscopic foci of infiltrating lobular
+carcinoma and LCIS in a random representative section of the lower outer
+quadrant (slide A10). The morphology is identical to the main tumor
+UUID:6860A718-FAAB-44A1-A3C1-E4A9EC1ECB05
+TCGA-A2-AØES-01A-PR
+Redacted
+Page 1
+Continued on Next Page
+- PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+Patient:
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+FINAL DIAGNOSIS (continued) :
+mass. These foci likely represent extension of the main tumor rather than
+true multifocal carcinoma.
+**
+Report Electronically Signed Out **
+CLINICAL DIAGNOSIS AND HISTORY:
+{None Given}
+GROSS DESCRIPTION:
+and
+A. Received fresh labeled with the patient's name
+designated "LEFT BREAST" is a 413 gram simple mastectomy specimen oriented
+with sutures (long lateral, short superior) measuring 22 cm medial to
+lateral, 16 cm superior to inferior, and 4.8 cm anterior to posterior. An
+ellipse of unremarkable nipple bearing skin measuring 5.5 x 3 cm is
+present. The specimen is inked as follows: blue superior superficial,
+green inferior superficial, black deep. Sectioning reveals a 3.5 x 3.5 x 3
+cm firm poorly defined mass at the 2-3:00 position, 0.2 cm from the inked
+deep margin. The cut surface of the tumor is yellow tan and gritty. The
+remaining tissue is mostly fatty with admixed patches of white fibrous
+tissue located centrally. Two sections of tumor, a single section of
+skin, and a single section of grossly normal breast are collected for CBCP
+protocol with matched paraffin sections in A2, A3, Al, and A4
+respectively. The specimen was in formalin for 76 hours and 5 minutes.
+Summary of cassettes:
+Al: skin
+A2: tumor lateral
+A3: tumor medial
+A4: grossly normal breast central
+A5-A7: random additional sections of tumor
+A8: left upper outer quadrant
+A9: left upper inner quadrant
+A10: left lower outer quadrant
+All: left lower inner quadrant
+A12: nipple.
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepar.cy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronces Primary bloted
+Case is (circle):
+Reviewer Initials is
+11 DISQUALING +
+QUALIFIED
+Date Reviewed:
+Page 2
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+tw
+End of Report

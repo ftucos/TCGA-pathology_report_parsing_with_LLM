@@ -1,0 +1,136 @@
+UUID:69AC5937-3FFD-40FB-9922-79DB3CED7510
+TCGA-A7-AØDA-01A-PR
+SPECIMEN
+Redacted
+100-0-3
+Carcinoma, infiltrating duct, NOS 8500/3
+10/27/11
+Site: breast, Nos
+A. Left axillary sentinel node
+B.
+C50.9
+Left breast long stitch anterior short superior
+CLINICAL NOTES
+PRE-OP DIAGNOSIS: Left breast cancer.
+HISTORY:
+year old white female with left breast cancer.
+POST-OP DIAGNOSIS: Same as above.
+FROZEN SECTION DIAGNOSIS
+A - Lymph node negative for metastatic disease.
+GROSS DESCRIPTION
+to
+The
+The
+A. The specimen is received fresh for frozen section
+labeled "left axillary sentinel node". It consists of a
+portion of adipose tissue measuring 3.2 x 2.1 x 1 cm. On section
+there is an apparent fatty lymph node measuring 1.5 × 0.5 x 0.4 cm.
+Some of the fat is trimmed away. The node is bisected and all
+submitted in one block for frozen section.
+B. Received fresh for tissue procurement labeled "left
+breast" is a diffusely cauterized and fragmented, 7.1 cm.
+(superior to inferior) x 5.7 cm. (medial to lateral) x 4.1 cm.
+(anterior to posterior) soft, lobulated tan gold-white portion of
+fibroadipose tissue with two sutures as stated previously. Prior
+inking the specimen is incised and tissue is recovered for tissue
+procurement. The specimen is subsequently inked as follows:
+Anterior blue, posterior black, medial green and lateral orange.
+specimen is sectioned from superior to inferior. There is a poorly
+circumscribed, 4.0 cm. (superior to inferior) x 3.7 cm. (medial to
+lateral) x 2.0 cm. (anterior to posterior) rubbery tan white tumor
+mass with a few central cylindrical firm tan white structures. The
+lesion focally extends to within 0.15 cm. of the inked anterior
+surface and 0.3 cm. of the inked posterior margin. The lesion also
+focally appears to approach lateral inked margin (see block 3).
+GROSS DESCRIPTION
+remaining cut surface consists predominantly of glistening
+lobulated
+golden yellow adipose tissue with a scant amount of interspersed
+delicate tan white fibrosis tissue. Representative sections are
+submitted in a sequential manner from superior to inferior in ten
+blocks as labeled. RS-10
+BLOCKS SUMMARY: 1
+-
+-
+perpendicular sections entire superior margin
+representative
+cap; 2 through 9 sequential sections; 10
+perpendicular sections inferior margin cap.
+}
+D
+MICROSCOPIC DESCRIPTION
+0/1.
+Surrounding
+A. This single lymph node is examined in its entirety at
+multiple levels and is negative for metastatic disease,
+B. This excision is status post prior biopsy.
+the biopsy site there is a high grade invasive ductal
+carcinoma associated with high grade ductal carcinoma in situ.
+Please see the template below.
+Invasive Carcinoma:
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade:
+Overall grade:
+Poorly differentiated
+Elston SBR grade 3.
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (PT): The tumor measures 4 cm. in greatest
+dimension, pT2.
+Specimen margins: Invasive tumor extends to the anterior margin
+of resection and to within 1.7 mm. of the lateral margin of
+MICROSCOPIC DESCRIPTION
+resection.
+Vessel invasion:
+Lymphatic invasion present.
+Calcification: Negative.
+Ductal carcinoma in situ:
+Histologic pattern: Solid.
+Cancerization of lobules is noted.
+Central necrosis: Minimal.
+Nuclear grade: 3.
+% DCIS of total tumor (if mixed): 25%
+Extensive intraductal component (present/absent):
+Present.
+Specimen margins: High grade DCIS extends to the anterior margin
+of resection, to within 0.4 mm. of the lateral margin of
+resection. There is also a focus of cribriform ductal
+carcinoma present to within 0.4 mm. of the inferior margin of
+resection.
+Calcification:
+Negative.
+Description of non-tumorous breast: A few cysts are noted with
+ductal hyperplasia.
+Prognostic markers: These have been previously performed.
+4x2, 14
+)
+DIAGNOSIS
+A. Left axillary sentinel node, biopsy
+negative
+-
+-
+Single lymph node
+for metastatic disease, 0/1.
+B. Left breast, excision Breast tissue, status post prior biopsy
+with residual infiltrating ductal carcinoma, Elston SBR grade III.
+Lymphatic invasion is noted and extension to margin of
+resection is present. High grade ductal carcinoma in situ is
+also present and also extends to margin of resection.
+DIAGNOSIS
+(Electronic Signature)
+End Of Report
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+!!PAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QHALIE'D ✓ DISQUALIFIED
+Date Reviewed
+10/27/11
+✓

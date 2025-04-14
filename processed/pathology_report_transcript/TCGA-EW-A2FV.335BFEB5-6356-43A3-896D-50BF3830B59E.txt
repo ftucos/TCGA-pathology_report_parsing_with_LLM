@@ -1,0 +1,261 @@
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+UUID:335BFEB5-6356-43A3-896D-50BF3830859E
+TCGA-EW-A2FV-01A-PR
+Redacted
+1
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+F.
+LEFT BREAST MASTECTOMY:
+-
+-
+INVASIVE MAMMARY CARCINOMA, MICROPAPILLARY TYPE with focal ductal features, poorly differentiated,
+Nottingham Grade 3 (3+3 +3 = 9), 7.5 cm in greatest dimension, present in 13/14 slides, constituting 80% of tissue
+sampled.
+The invasive tumor is focally present less han 0.1 cm from the anterior/skin margin and less than 0.1 cm from the deep
+posterior margin in 5 blocks.
+- Extensive lymphovasculr invasion is present in numerous foci in multiple blocks.
+-
+-
+DUCTAL CARCINOMA IN STU, high nuclear grade (DIN 3), micropapillary type, present as a single focus (slide 7).
+Skin with scar and extensive dermal lymphovascular invasion.
+- Skeletal muscle is present.
+-
+- ER, PR and HER2 are pending, an addendum will follow.
+(please see tumor summary)
+LEFT INTRA MAMMARY LYMPH NODE DISSECTION:
+METASTATIC CARCINOMA is present in five (5) of five (5) lymph nodes with extranodal extension (5/5).
+- The largest metastatic deposit is 1.2 cm in greatest linear dimension.
+-
+-
+LEFT AXILLARY LYMPH NODE DISSECTION:
+METASTATIC CARCINOMA to seventeen (17) of twenty (20) lymph nodes (17/20).
+The largest metastatic deposit is 2.9 cm in greatest linear dimension.
+ADDITIONAL LEFT BREAST TISSUE:
+- Fibroadipose tissue, negative for carcinoma.
+LEFT LYMPH NODE DISSECTION (LEVEL 3):
+METASTATIC CARCINOMA to two (2) of two (2) lymph nodes (2/2), largest metastatic deposit is 2.2 cm in greatest
+linear dimension.
+LYMPH NODE DISSECTION ABOVE LEFT BRACHIAL PLEXUS:
+- METASTATIC CARCINOMA to five (5) of five (5) lymph nodes, largest metastatic deposit is 1.8 cm in greatest linear
+dimension.
+Tumor Summary
+ICD-0-3
+Specimen:
+- Total breast (including nipple and skin)
+Procedure:
+"
+Total mastectomy (including nipple and skin)
+Lymph Node Sampling:
+carcinoma, invasive micropepillary,
+intraductal 8507/3
+Site: breast, Nos
+0509
+- Axillary dissection (partial or complete dissection)
+- Lymph nodes present within the breast specimen (ie, intramammary lymph nodes)
+Specimen Integrity:
+"
+• Single intact specimen (margins can be evaluated)
+سر
+6/1/11
+Specimen Laterality:
+- Left
+Tumor Site: Invasive Carcinoma
+- Lower outer quadrant
+- Upper inner quadrant
+- Lower inner quadrant
+-
+- Central
+Tumor Size: Size of Largest Invasive Carcinoma
+- Greatest dimension of largest focus of invasion over 0.1 cm: 7.5 cm
+- Additional dimensions: 6 x 2 cm
+Tumor Focality:
+- Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of tumor:
+-
+-
+Skin: Invasive carcinoma directly invades into the dermis without skin ulceration
+· Nipple: DCIS does not involve the nipple epidermis
+Skeletal muscle: Skeletal muscle is present and is free of carcinoma
+Ductal Carcinoma In Situ (DCIS):
+DCIS is present
+- Extensive intraductal component (EIC) negative
+*Size (Extent) of DCIS
+Estimated size (extent) of DCIS (greatest dimension using gross and microscopic evaluation) is at least: 0.15 cm
+Number of blocks with DCIS: 1
+Number of blocks examined: 14
+Architectural Pattern: Micropapillary
+Nuclear Grade: Grade III (high)
+Necrosis: Not identified
+Lobular Carcinoma In Situ (LCIS): Not identified.
+Histologic Type of Invasive Carcinoma:
+- Invasive micropapillary carcinoma with focal ductal features
+Histologic Grade: Nottingham Histologic Score
+- Glandular (Acinar) /Tubular Differentiation: Score 3: <10% of tumor area forming glandular/tubular structures
+- Nuclear Pleomorphism: Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape,
+occasionally with very large and bizarre forms
+- Mitotic Count Score 3
+Overall Grade: Grade 3: scores of 8 or 9
+Margins:
+- Margins uninvolved by invasive carcinoma
+-
+-
+• Distance from anterior margin: <1 mm
+• Distance from posterior margin: <1 mm
+- Margins uninvolved by DCIS
+Treatment Effect: Response to Presurgical (Neoadjuvant) therapy:
+- In the Breast: No known presurgical therapy
+- In the Lymph Nodes: No known presurgical therapy
+Lymph-Vascular Invasion: PRESENT
+Dermal Lymph-Vascular Invasion: PRESENT
+Lymph Nodes:
+-
+- Number of sentinel lymph nodes examined: 0
+- Total number of lymph nodes examined (sentinel and Nonsentinel): 32
+- Number of lymph nodes with macrometastases (>0.2 cm): 29
+-
+Size of largest metastatic deposit: 2.9 cm
+*Extranodal Extension: Present
+*Method of Evaluation of Sentinel Lymph Nodes: Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM): pT3, pN3a, pM n/a
+Primary Tumor: pT3: Tumor >50 mm in greatest dimension
+Regional Lymph Nodes: pN3a: Metastases in 10 or more axillary lymph nodes (at least 1 tumor deposit greater than 2.0 mm)
+Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor: PENDING
+Progesterone Receptor: PENDING
+Her2/NEU: PENDING
+Microcalcifications: Not identified
+Page 2 of 4
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRS) validated by our laboratory. These ASRs are concally useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636
+-PR, A485-HER2. H-11=EGFR. All immunohistochemical stairs are used with formalin or molecular food, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+Procedures/Addenda
+As the attending pathologist, I attest that 1: (1) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Addendum
+Addendum Diagnosis
+Date Ordered:
+Date Complete:
+Date Reported:
+The tumor cells are positive for ER and PR, negative for HER2 (0).
+Status: Signed Out
+Clinical History:
+Status post previous lumpectomy
+Operation Performed
+Left breast completion, mastectomy with axillary node dissection
+Pre Operative Diagnosis:
+Left breast cancer
+Specimen(s) Received:
+A: Left breast (short superior and long lateral)
+B: Intra mammmary lymph node
+C: Left axillary lymph nodes
+D: Additional left breast tissue
+E: Level 3 lymph nodes
+F: Lymph nodes above brachial plexus
+Gross Description:
+A.
+Received in formalin is a modified left radical mastectomy specimen that weighs 190 grams and measures 16.0 × 11.0 x
+1.0 cm. There is a tan ellipse of skin that measures 6.3 x 5.8 cm, an areola measuring 4.2 x 4.0 cm and a nipple that
+measures 1.0 cm. There is a white lesion on the 11 o'clock aspect of the areola that measures 0.5 cm in greatest
+dimension. Along the 12 o'clock to 6 o'clock aspect of the nipple, it appears to be slightly retracted. Grossly, no
+other lesions or masses are identified. The specimen has previously being inked black and sectioned to allow for fixing.
+On cut section, there is a 7.5 x 6.0 x 2.0 cm ill-defined, indurated, tan/yellow lesion that is retro-areolar in location. This
+lesion comes within 0.2 mm of the deep margin, 0.6 cm from the inferior margin, 4.5 cm from the superior margin, 3.5 cm
+from the inferior margin, 4.5 cm from the lateral margin and 2.5 cm from the medial margin. The remainder of the breast
+parenchyma is composed predominantly of homogeneous yellow adipose tissue with a 20% stroma to 80% adipose tissue
+ratio. Grossly, no lymph nodes are identified. A small section of the specimen was taken for research. Sections
+submitted as follows:
+Page 3 of 4
+1-10
+Section of mass in relation to deep inked margin, nipple and skin
+11
+Upper inner quadrant
+12
+Lower inner quadrant
+13
+Upper outer quadrant
+14
+Lower outer quadrant
+B.
+1
+Received in formalin is a piece of fibroadipose connective tissue that measures 4.6 x 3.8 x 1.3 cm. Grossly, five lymph
+nodes are identified. The largest measures 1.4 cm in greatest diameter. Sections as follows:
+Largest lymph node, trisected
+2
+One lymph node, trisected
+3
+One lymph node, bisected
+C.
+D.
+E.
+F.
+4
+5-7
+Up to three lymph nodes
+Possible lymph nodes
+Received in formalin is a segment of fibroconnective adipose tissue with grossly identifiable enlarged lymph nodes that
+measures 12.0 x 5.8 x 2.5 cm. Grossly, nineteen lymph nodes are identified. The largest measuring 3.7 x 2.7 x 1.6 cm.
+Sections submitted as follows:
+1
+234507
+6
+8
+9
+10
+Five lymph nodes, submitted in toto
+Representative sections of largest lymph node
+Representative sections of two lymph nodes
+Representative section of one lymph node
+Representative section of one lymph node
+Representative sections of two lymph nodes
+Representative sections of two lymph nodes
+Representative sections of three lymph nodes
+Representative section of one lymph node
+Possible lymph nodes
+Received in formalin is a piece of fibroconnective adipose tissue that measures 5.0 x 2.5 x 0.5 cm. Submitted in toto in
+two cassettes.
+Received in formalin are two pieces of fibroconnective adipose tissue, one measuring 1.1 x 0.6 x 0.5 cm and the other
+measuring 3.0 x 1.2 x 0.5 cm. Sections submitted as follows:
+1
+2
+Smaller specimen bisected and submitted in toto
+Larger piece bisected and submitted in toto
+Received in formalin are several fragments of fibroconnective adipose tissue that measure in aggregate 5.0 x 1.0 x 0.5
+cm. Grossly, five lymph nodes are identified, ranging in size from 1.0 to 1.5 cm in greatest dimension. Sections
+submitted as follows:
+1
+23
+Largest lymph node bisected and submitted in toto
+One lymph node, bisected
+Three lymph nodes submitted in toto
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+MCQUALIFIED / DISQUALIFIED
+Date Reviewed:
+A 6/1/11
+Page 4 of 4

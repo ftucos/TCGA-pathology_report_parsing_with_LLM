@@ -1,0 +1,175 @@
+TSS.
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+8500/3
+12/8/10
+Path
+CQCF site: breast, NOS C50.9
+Site Code: breast central portion
+lw
+C
+Male pt.
+SPECIMENS:
+A. SLN #1
+B. SLN #2
+C. LEFT BREAST
+D. SLN #3
+E. UPPER OUTER QUANDRANT LEFT BREAST
+F. SLN #4
+G. INFERIOR MEDIAL LEFT BREAST MARGIN
+SPECIMEN(S):
+A. SLN #1
+B. SLN #2
+C. LEFT BREAST
+D. SLN #3
+E. UPPER OUTER QUANDRANT LEFT BREAST
+F. SLN #4
+G. INFERIOR MEDIAL LEFT BREAST MARGIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA/TPB SLN #1/SLN #2: Negative for tumor cells.
+TPD/TPF - SLN #3/SLN #4: Negative for tumor.
+Called by Dr to Dr. at
+I (A, B).
+(D) and
+UUID:9ECD3DA1-25A4-4325-9B3B-6D7C12283C37
+TCGA-E2-A14W-01A-PR
+(F).
+Redacted
+Cleft breast: (gross exam only) 2.5 x 2 x 1.5 cm tumor located 1.2 cm from the closest/deep margin; tumor extends
+to the nipple and areola, called by Dr. to Dr. at
+GROSS DESCRIPTION:
+A. SLN #1
+Received fresh is a tiny piece of lymphoid tissue within fibroadipose tissue, 0.4 x 0.2 x 0.2 cm. A touch prep is
+performed; submitted entirely in cassette A1.
+B. SLN #2
+Received fresh is a piece of lymphoid tissue within fibroadipose tissue, 0.4 x 0.2 x 0.2 cm. A touch prep is performed;
+submitted entirely in cassette B1.
+C. LEFT BREAST, STITCH AT AXILLARY TAIL
+Received fresh labeled with the patient's identification and "left breast, stitch in axillary tail" is an oriented 392g, 20 x
+14.5 x 2 cm mastectomy with 11.5 x 5.2 skin ellipse and 1.6cm inverted and ulcerated nipple. Ink code:
+Anterior/superior-blue, anterior/inferior-orange, posterior-black. The specimen is serially sectioned into 18 slices
+from medial to lateral with the nipple in slice 5 revealing a 2.5 x 2 x 1.5 cm white-tan firm well-circumscribed mass
+beneath the nipple, present in slices 5 to 7 that is 1.2 cm from the deep margin. A gross diagnosis was conveyed to
+OR and tissue is procured. Representatively submitted:
+C1-C2: slice 5, mass and extension to nipple
+C3: slice 5, mass and deep margin
+C4: slice 6, superior posterior mass
+C5: slice 6, anterior inferior mass
+C6: slice 6, inferior posterior mass
+C7: slice 7, mass and normal appearing parenchyma
+C8: slice 8, normal appearing parenchyma adjacent to mass
+C9: slice 3, upper inner quadrant
+C10: slice 9, upper outer quadrant
+C11: slice 10, lower outer quadrant
+C12: slice 4, lower inner quadrant
+C13: skin
+C14-C17: nipple
+C18: 1 axillary lymph node
+D. SLN #3
+Received fresh is a lymph node, 0.3 x 0.3 × 0.2 cm. A touch prep is performed and the lymph node is submitted
+entirely for cassette D1.
+E. UPPER OUTER QUADRANT LEFT BREAST; STITCH AT NEW UPPER OUTER MARGIN
+Received fresh labeled with the patient's identification and "upper outer quadrant left breast; stitch at new upper
+outer margin" is an oriented 37g, 9 x 6.3 x 0.8 cm fibrofatty tissue. Final margin is inked black. Serial sectioning
+reveals no discrete lesions. Representatively submitted in cassettes E1-E6.
+F. SLN #4
+Received fresh is a lymph node, 0.3 x 0.3 x 0.2 cm. A touch prep is performed; submitted entirely in cassette F1.
+G. INFERIOR MEDIAL BREAST-LEFT; STITCH AT DEEP MARGIN
+Received fresh labeled with the patient's identification and "inferior medial breast-left; stitch at deep margin" is an
+oriented 3g, 4.1 x 2.5 x 0.6 cm fibrofatty tissue. Final margin is inked black. Serial sectioning reveals no discrete
+lesions. Entirely submitted in cassettes G1-G4.
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+C. BREAST, LEFT, MASTECTOMY:
+- INVASIVE DUCTAL CARCINOMA, POORLY DIFFERENTIATED
+(SBR GRADE 3), WITH ULCERATION OF THE NIPPLE.
+TUMOR MEASURES 2.5 CM IN GREATEST DIMENSION.
+- MARGINS, NO TUMOR SEEN.
+- ONE LYMPH NODE WITH NON-NECROTIZING GRANULOMAS, NO TUMOR
+SEEN (0/1) (SEE NOTE).
+NOTE: Special stains have been ordered on the lymph node and those results will be reported in an addendum. A
+CD31 stain has been ordered for evaluation of lymphvascular invasion and those results will be reported in an
+addendum.
+D. SENTINEL LYMPH NODE #3, LEFT AXILLA, BIOPSY:
+-
+ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+E. BREAST, LEFT, UPPER OUTER QUADRANT, EXCISION:
+FIBROADIPOSE TISSUE, NO TUMOR SEEN.
+-
+F. SENTINEL LYMPH NODE #4, LEFT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+G. BREAST, LEFT, INFERIOR MEDIAL MARGIN, EXCISION:
+- FIBROADIPOSE TISSUE, NO TUMOR SEEN.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Tumor Site:
+Margins:
+2.5cm
+Central
+Negative
+Distance from closest margin: Greater than 1cm
+deep
+Tubular Score: 3
+Nuclear Grade:
+Mitotic Score: 3
+3
+Modified Scarff Bloom Richardson Grade:
+Necrosis:
+Absent
+Lobular neoplasia:
+None
+Lymph nodes: Sentinel lymph node only
+Lymph node status:
+Negative 0/5
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+3
+HER2: Positive by FISH
+Pathological staging (pTN):
+PT 2 NO
+CLINICAL HISTORY:
+year-old recent dx of left breast cancer in
+core biopsy
+-IDC ER/PR positive, Her2
+illegible). Now for left mastectomy and sentinel lymph node biopsy-2 cm retroareolar mass.
+A
+PRE-OPERATIVE DIAGNOSIS:
+Left breast cancer
+ADDENDUM:
+NOTE: A CD31 stain was performed on C4 and is negative showing no evidence of lymphvascular invasion. Special
+stains (GMS, AFB, PAS) were performed on the lymph node (C18) and are negative showing no evidence of fungal
+or acid fast organisms. The non-necrotizing granulomas would be consistent with the patient's history
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Dat Rev.wed:
+Yes
+No
+αμαυματική υ

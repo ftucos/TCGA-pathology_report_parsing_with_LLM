@@ -1,0 +1,40 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+:
+Diagnosis
+Pith
+Site: breast, LOQ
+050.5
+CQCF Site: breast, Nos
+C50.9
+1/25/11
+M
+1. Left-sided ablated breast tissue with a poorly differentiated invasive ductal breast
+carcinoma measuring a good 55 mm with invasion of the lymph vessels and focally also of
+the blood vessels, infiltration of the overlying epidermis with very slight paracentral erosion
+and extension to the basal resection margin with infiltration of the resection margin. The
+nipple is tumor-free, including the lactiferous sinus and the other glandular tissue with a
+fibrocystic mammopathy.
+Assessment:
+According to these findings, complete removal of the carcinoma as far as the basal epidermis
+is not definite.
+Tumor classification:
+M-8500/3, G 3, pT4b, pL1, pV1, pN1a (1/11), pMx, stage III B. R1.
+UUID:C5586F4B-1248-4FBF-83C2-B0A1833DEA03
+TCGA-A8-A09E-01A-
+PR
+Yes
+No A
+:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primant Noted
+Case is (circle):
+Reviewer hi A
+QUALIFIED
+Date Reviewed
+DISQUALIFIED
+Redacted

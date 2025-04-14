@@ -1,0 +1,33 @@
+UUID:56DFBCCE-A9D9-4F08-AC7E-33998F3439B2
+TCGA-AR-A24M-01A-PR
+Yes
+No
+Redacted
+Final Diagnosis
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials BB
+QUALIFIED I DISQUALIFIED
+Date Reviewed: 9/1911
+w 4/25/11
+ר
+Breast, left, wide local excision: Invasive mammary carcinoma with mixed ductal and lobular features, Nottingham grade II (of
+III), forming a 2.5 x 2.4 x 2.2 cm mass (AJCC pT2). The surgical resection margins are negative for tumor. A fibroadenoma (0.9
+x 0.8 x 0.6 cm) is also identified.
+Lymph nodes, left axillary sentinel, excision: Left axillary sentinel lymph nodes No. 1 and No. 2 are positive for metastatic
+mammary carcinoma. Left axillary sentinel lymph node No. 3 is negative for tumor. Blue dye is identified in all three left
+axillary sentinel lymph nodes.
+Lymph node, left axillary, excision: A single left axillary lymph node is negative for tumor.
+Lymph nodes, left axillary, dissection: Multiple (2 of 24) left axillary lymph nodes are positive for tumor (AJCC pN2).
+Her-2/Neu has been ordered on paraffin embedded tissue.
+ICD-0-3
+Carcinoma infiltrating duct and lobular 8522/3
+Site. breast, Nos
+C50.9
+hw
+4/25/11

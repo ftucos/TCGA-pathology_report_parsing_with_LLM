@@ -1,0 +1,64 @@
+Patient
+Material:
+infiltratis, cluct Cavirens, bea
+850613
+11/22/10
+Site: breast, NoS
+050.9
+Department of Cancer Pathology
+Examination: Histopathological examination
+PESEL:
+Multiple organ resection - right breast
+Unit in charge
+Physician in charge:
+Material collected on
+Material received on:
+page 1 / 2
+Examination No.:
+Age:
+Gender: F
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+Examination performed on:
+Macroscopic description:
+Right breast, sized 18.3 x 18.8 x 4.2 cm, removed without axillary tissues and with a skin flap of 14.6 x 7.1 cm.
+Weight 580 g.
+Tumour sized 1.6 x 1.2 x 1.8 cm on the boundary of outer quadrants, placed 5.2 cm from the outer edge, 1.2
+cm from the base and 0.8 cm from the skin.
+Status after core needle biopsy (test No.
+Microscopic description:
+Carcinoma ductale - NHG2 (3+2+1:2 mitoses/ 10 HPF, visual area diameter 0.55 mm),
+papilloma intraductale mamillae.
+Glandular tissue showing parenchyma atrophy.
+Examination result:
+Including test No.
+anc
+Carcinoma ductale invasivum mammae dextrae.
+Metastases carcinomatosae in lymphonodo axillae (No I/VII).
+(NHG2, pT1c, pN1a) INVASIVE DUCTAL CARCINOMA OF THE RIGHT BREAST
+ONE METASTATIC HILLARY
+Examination performed or..
+LYMPH NODE
+Comr.
+Results of immunohistochemical examination:
+by:
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 10% of
+neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO.
+Score = 2+, verification by the FISH method recommended.
+UUID:1D26CB97-536A-4D10-A593-73C3A846BB13
+TCGA-D8-A145-01A-PR
+Compliance validated by:
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tuinur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Jual/Synchronous Pma Noted
+Case Kirkel
+leview
+Yes
+QUALIFIED
+Date &
+DISQUALIFIED

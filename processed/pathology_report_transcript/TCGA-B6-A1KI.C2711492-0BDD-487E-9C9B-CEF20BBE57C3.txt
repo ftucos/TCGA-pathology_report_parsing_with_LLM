@@ -1,0 +1,99 @@
+Patient:
+Surgical Pathology: Additional In
+Surg Path
+Page 1 of 2
+ICD-0-3
+Adenocarcinoma infiltrating ductal, Nos 8500/3
+ร
+Site breast, Nos
+C50.9
+CLINICAL HISTORY:
+Mass right breast.
+GROSS EXAMINATION:
+A. "Sentinel node hot and blue”.
+Received fresh
+is a 2 x 1.5 x 1 cm tan lymph
+A cytokeratin is
+node which is bisected and submitted in block Al.
+prospectively ordered.
+B. Requisition labeled with the patient's name and history number "right
+breast tissue:long stitch lateral, short superior, white inferior". Received
+fresh is a 10 (A-P) x 8.5 (M-L) x 3 (S-I) cm breast biopsy specimen which has
+been inked as follows: superior-blue, inferior-black, anterior-red and
+posterior-yellow. Sectioning discloses yellow lobulated adipose tissue and
+thin strands of fibrous tissue without any distinct masses seen. The fibrous
+tissue appears more prominent and dense at the margins on the anterior edge.
+There are several punctate hemorrhages located 1 cm from the nearest red inked
+margin. Sections are submitted from medial to lateral as per gross diagrams
+in blocks B1-51.
+Dr.
+/Dr.
+./slides to Dr.
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+DIAGNOSIS:
+A. "SENTINEL NODE" (EXCISIONAL BIOPSY) :
+(0/1).
+NEGATIVE FOR MALIGNANCY IN 1 LYMPH NODE
+CYTOKERATIN IMMUNOHISTOCHEMICAL STAIN IS NEGATIVE.
+B. "RIGHT BREAST TISSUE"
+(EXCISIONAL BIOPSY) :
+2/10/11
+سار
+UUID:C2711492-0BDD-487E-9C9B-CEF20BBE57C3
+TCGA-B6-A1KI-01A-PR
+Redacted
+Yes
+No
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL.
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 2 OF 3.
+TUBULE FORMATION SCORE: 2
+NUCLEAR PLEOMORPHISM SCORE: 2
+MITOTIC RATE SCORE: 1
+GROSS TUMOR SIZE: NOT GROSSLY APPARENT.
+SIZE OF INVASIVE COMPONENT: 1.6 CM.
+LYMPHATIC/VASCULAR INVASION: ABSENT.
+MULTIFOCAL TUMOR: ABSENT.
+IN-SITU CARCINOMA: PRESENT
+TYPE OF IN SITU CARCINOMA: SOLID
+NUCLEAR GRADE OF IN SITU CARCINOMA: 1
+NECROSIS: ABSENT
+DCIS EXTENDING OUTSIDE OF INVASIVE TUMOR MASS: ABSENT
+SIZE OF IN SITU CARCINOMA: NOT APPLICABLE
+Criteria
+Diagnosis Discrepancy
+Primary Tumor site Discrepancy
+HIPAA Discrepancy
+Pric Malignancy History
+Dual/Synchronous Printed
+Case la circle:
+Revieweraitia
+LHED
+DISQUALIFIED
+ewed:
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: DUCTAL HYPERPLASIA OF THE USUAL
+TYPE, APOCRINE METAPLASIA AND COLUMNAR CHANGES.
+SIZE OF BIOPSY: 10.0 X 8.5 X 3.5 CM.
+MICROCALCIFICATIONS: ABSENT.
+SURGICAL MARGIN STATUS: CLOSE. INVASIVE CARCINOMA IS LESS THAN 0.5 MM FROM
+THE SUPERIOR SURGICAL MARGIN.
+ESTROGEN/PROGESTERONE RECEPTOR, CELL CYCLE, AND HER2/NEU ANALYSIS:
+https:
+PENDING.
+PARAFFIN BLOCK NUMBER: B18.
+RESULTS WILL BE ISSUED IN SEPARATE REPORT FROM THE IMAGE CYTOMETRY LAB
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+CI ADDENDUM 1:
+Please see
+tests.
+M.D. Pager#
+Electronically signed:
+for results of supplementary
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+M.D., Ph.D. Pager
+Electronically signed:
+https://
+Page 2 of 2

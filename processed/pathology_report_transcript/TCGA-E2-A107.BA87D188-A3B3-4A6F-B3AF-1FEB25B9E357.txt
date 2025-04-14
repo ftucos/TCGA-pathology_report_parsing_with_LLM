@@ -1,0 +1,220 @@
+TSS Pt ID:
+SPECIMENS:
+A. LEFT BREAST WLE NEEDLE LOC
+B. SLN #1
+C. SLN #2
+D. RIGHT BREAST
+E. SLN #3
+ICD-0-3
+Carcinoma, Lobular Invasive
+Site Code: breast, Nos
+852013
+F. ADDITIONAL SENTINEL LYMPH NODE RIGHT AXILLA
+G. RIGHT AXILLARY CONTENTS LEVELS 1 & 2
+SPECIMEN(S):
+A. LEFT BREAST WLE NEEDLE LOC
+B. SLN #1
+C. SLN #2
+D. RIGHT BREAST
+E. SLN #3
+F. ADDITIONAL SENTINEL LYMPH NODE RIGHT AXILLA
+G. RIGHT AXILLARY CONTENTS LEVELS 1 & 2
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+050.9
+12/19/10 lu
+UUID:BA87D188-A3B3-4A6F-83AF-1FEB2589E357
+TCGA-E2-A107-01A-PR
+Redacted
+FSA-left breast: No definitive mass seen, tissue with fibrosis by Dr. to Dr. at
+TPB-SLN #1: Lymph node negative for carcinoma.
+TPC/TPE-SLN #2 & #3: Lymph nodes positive for carcinoma.
+Called by Dr. to Dr at
+GROSS DESCRIPTION:
+A. LEFT BREAST WLE NEEDLE LOC
+Received fresh labeled with the patient's identification and "left breast WLE needle localization" is an
+oriented (single-anterior, double-lateral, triple-superior) needle localized lumpectomy with out
+radiograph. Ink code: anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-
+orange. The specimen is serially sectioned into 5 sections revealing dense fibrous tissue without a
+distinct mass. No tissue is procured. Entirely submitted:
+A1-A3: slice 1, lateral margin, perpendicular sections
+A4: slice 2, anterior
+A5: slice 2, posterior
+A6: slice 3, anterior
+A7: slice 3, posterior
+A8: slice 4, anterior
+A9: slice 4, posterior
+A10-A11: slice 5, medial margin, perpendicular sections
+B. SLN #1
+Received fresh is a 3 x 0.8 x 0.5 cm lymph node. A touch prep is performed and the lymph node is
+submitted entirely in cassette B1.
+C. SLN #2
+Received fresh is a lymph node measuring 1.4 x 1.2 x 0.5 cm. One touch prep is performed and the
+lymph node is submitted entirely in cassette C1.
+D. RIGHT BREAST
+Received fresh labeled with the patient's identification and "right breast" is an oriented 678 g, 24 x 21 x
+5 cm mastectomy with 11.5 x 7 the skin ellipse and 1.7 cm everted nipple. Ink code: anterior/superior-
+blue, anterior/inferior-orange, posterior-black. The specimen is serially sectioned into 12 slices from
+medial to lateral with nipple and slice 5 revealing an area of dense nodular firm fibrous tissue, 10 x 8x4
+cm, extending from the upper inner quadrant to the mid outer quadrant at is closest to the
+posterior/deep margin at 1.5 cm. Representatively submitted.
+D1: slice 2, lower-superior anterior
+D2: slice 2, upper-inferior anterior
+D3-D8: slice 3, mid section submitted from superior to inferior
+D9: slice 4, lower-superior anterior
+D10: slice 4, lower-superior posterior
+D11: slice 5, lower-superior anterior
+D12: slice 5, lower-superior posterior
+D13: slice 5, made anterior
+D14: slice 5, mid posterior
+D15: slice 5, upper-inferior anterior
+D16: slice 5, upper-inferior posterior
+D17: slice 6, mid superior
+D18: slice 6, lower-superior posterior
+D19: slice 6, upper-inferior anterior
+D20: slice 6, mid inferior
+D21: slice 7, mid superior
+D22: slice 7, mid inferior
+D23: slice 8, mid lower-superior
+D24: slice 8, mid upper-inferior
+D25: slice 9, mid upper-inferior
+D26: slice 9, mid inferior
+D27: slice 10, mid upper-inferior
+D28: slice 10, mid inferior
+D29: slice 11, upper-inferior posterior
+D30: slice 1, mid
+D31-D32: nipple, perpendicular sections
+D33: skin
+D34: 1 axillary lymph node
+E. SLN #3
+Received fresh is a lymph node, 2 x 1 x 0.5 cm. A touch prep is performed and the lymph node is
+submitted entirely in cassette E1.
+F. ADDITIONAL SENTINEL LYMPH NODE RIGHT AXILLA
+Received fresh is a piece of yellow-tan tissue 2.5 x 2.1 x 1 cm. Two lymph nodes are identified
+measuring 1.4 and 1.8 cm. Lymph nodes are submitted separately in cassettes F1-F2.
+G. RIGHT AXILLARY CONTENTS LEVELS 1 AND 2
+Received fresh is an aggregate of adipose tissue, 7 x 5 x 1.5 cm. Multiple lymph nodes are identified
+ranging from 0.1 to 2.1 cm; they have a variegated pink-tan cut surface. Lymph nodes submitted as
+follows:
+G1-G2: 4 lymph nodes each
+G3: 6 lymph nodes
+G4: 2 lymph nodes
+G5-G8: 1 lymph node each
+DIAGNOSIS:
+A. BREAST, LEFT, WIDE LOCAL EXCISION:
+-
+· USUAL DUCTAL HYPERPLASIA WITHOUT ATYPIA, MICROCALCIFICATIONS IN BENIGN DUCTS
+AND FIBROCYSTIC CHANGES WITH FIBROSIS
+- FOCAL FAT NECROSIS AND MILD ACUTE INFLAMMATION, NO TUMOR SEEN.
+B. LYMPH NODE, SENTINEL #1, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, SENTINEL #2, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+MEASURING 0.8-CM WITH NO EXTRANODAL EXTENSION.
+D. BREAST, RIGHT, SIMPLE MASTECTOMY:
+-
+MULTIFOCAL, INVASIVE, LOBULAR CARCINOMA, SBR GRADE 2, MEASURING 10-CM
+INVASIVE TUMOR PRESENT 2-MM FROM DEEP SURGICAL RESECTION MARGIN
+- METASTATIC CARCINOMA TO ONE OF TWO AXILLARY LYMPH NODES (1/2)
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+E. LYMPH NODE, SENTINEL #3, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+MEASURING 0.7-CM WITH FOCAL EXTRANODAL EXTENSION.
+F. LYMPH NODE, ADDITIONAL SENTINEL, RIGHT AXILLA, BIOPSY:
+- METASTATIC CARCINOMA TO ONE OF TWO LYMPH NODES (1/2).
+G. LYMPH NODES, RIGHT AXILLARY CONTENTS, LEVELS 1 AND 2, DISSECTION:
+- TWENTY LYMPH NODES, NEGATIVE FOR METASTASES (0/20).
+NOTE: Extensive and multifocal invasive lobular carcinoma is identified. The tumor grossly measures
+10-cm. Microscopic examination reveals that the tumor extends from slice #1 to slice #8 (predominantly
+in the inner half, central and subareolar region, with extension to outer quadrants.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+Laterality: Right
+Invasive Tumor:
+Multifocality: Yes
+No
+Present
+WHO CLASSIFICATION
+Invasive lobular carcinoma 8520/3
+Tumor size: 10cm
+Tumor Site: Upper outer quadrant
+Lower outer quadrant
+Upper inner quadrant
+Lower inner quadrant
+Central
+Margins:
+Negative
+Distance from closest margin: 0.2cm
+deep
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+2
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+2
+Sentinel lymph node and axillary dissection
+Positive 4/27 Extranodal extension
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+DCIS not present
+ER/PR/HER2 Results
+ER: Positive
+PR: Negative
+HER2: Negative by FISH
+Performed on Case: HER2 by FISH performed in outside facility
+Pathological staging (pTN): PT 3 N 2a
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+D1
+ER: Positive Allred Score:
+PR: Negative Allred Score:
+COMMENT:
+8 = Proportion Score 5 + Intensity Score 3
+0 = Proportion Score 0 + Intensity Score 0
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 - 10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score
+of less than or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR
+136, 1:100) provided by
+following the manufacturers instructions. This
+assay was not modified. Interpretation of the ER/PR immunohistochemical stain is guided by published
+results in the medical literature, information provided by the reagent manufacturer and by internal
+review of staining performance.
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer, left abnormal imaging
+Gross Dictation:., Pathologist,
+Microscopic/Diagnostic Dictation:., Pathologist,
+Final Review: Pathologist,
+Final Review: Pathologist.
+Final Review: Pathologist,
+Final: Pathologist,
+Yes
+No
+✓
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Ninted
+Case is (circle):
+Reviewer Initials
+AY QUALIFIED /
+Date Reviewed:
+DISQUALIFIED

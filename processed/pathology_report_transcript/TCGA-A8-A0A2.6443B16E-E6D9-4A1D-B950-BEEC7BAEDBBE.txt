@@ -1,0 +1,36 @@
+ICD-0-3 Carcinoma, infiltrating lobular, NUS 852013
+Path Site: Breast, LOQ
+CQCF Site: Breast, Nos
+- C50.5
+050.9
+1/19/11
+کسار
+Diagnosis:
+Well-differentiated invasive lobular carcinoma of the right breast measuring up to 3.3 cm with
+circumscribed infiltration into the dorsal resection margin in the main preparation and with
+tumor-free follow-up dorsal resection material (thus tumor-free dorsal margin of at least 1.2
+cm). Minimum margin 0.5 cm at 3 o'clock and carcinoma-free follow-up resection material at
+3 o'clock with moderate mammary fibrosis and focal intraductal hyperplasia without atypia.
+Further minimum cranial and caudal margins > 1.2 cm. No invasion of lymph vessels. Fifteen
+Fifteen right axillary lymph nodes free of metastases with pre-existing lymphatic hyperplasia
+and pre-existing slight scarring in isolated larger lymph nodes.
+Tumor classification:
+M-8500/3, G 1, pT 2, L 0, V 0, pN 0 (0/15), pMX, R 0. Stage II a.
+UUID:6443816E-E6D9-4A1D-B950-BEEC7BAEDBBE
+TCGA-A8-A0A2-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Review anal
+QUALIFIED
+Date Reviewed:
+lw
+Yes
+No.
+DISQUALIFIED
+5/31/1

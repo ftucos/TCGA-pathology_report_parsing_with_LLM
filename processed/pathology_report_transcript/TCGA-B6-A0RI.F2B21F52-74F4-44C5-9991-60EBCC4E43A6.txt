@@ -1,0 +1,82 @@
+Carcinoma, infiltrating ductal, Nos
+8508/3
+•Path: Site Code:
+Breast, upper
+onter
+quadrist
+650.4
+Patient:
+1/17/11 lu
+CQCF. breast, NOS
+050.9
+Surgical
+Surg Path
+UUID:F2B21F52-74F4-44C5-9991-60EBCC4E43A6
+TCGA-B6-AØRI-01A-PR
+Redacted
+CLINICAL HISTORY:
+Not provided.
+GROSS EXAMINATION:
+Estrogen receptor tissue sent for estrogen and progesterone receptor.
+A. "Tru-cut breast biopsy.": Received fresh. The specimen is a 1 cm x 0.1
+cm tan piece of breast tissue. This frozen as frozen section AF1. The
+frozen section remnant consists of two pieces of tan tissue measuring 0.8 x
+0.1 x 0.1 and 0.7 × 0.1 × 0.1 cm. They are submitted in toto in Block Al.
+B. "Right breast.": Received fresh. The specimen consists of breast with an
+overlying ellipse of skin. The overall dimensions of the specimen are 15 x
+11 x 2 cm with an attached axillary tail which in addition measures 7.8 x 3.5
+cm. The skin ellipse measures 11.5 x 4 cm in greatest dimensions. And
+contains a nipple at its center. The deep surgical margin is inked blue and
+the lateral surgical margins are inked black. Several sections have been
+made through the deep aspect of of the specimen revealing a 1.5 x 2.8 x 1.0
+cm firm mass which radially retracts the adjacent breast tissue and which is
+located approximately 0.2 cm from the deep surgical margin at one point. The
+mass appears located in the upper outer quadrant of the breast. Further
+sectioning through the specimen reveals unremarkable breast parenchyma in
+areas away from the tumor. Material submitted for ER/PR.
+Block Summary:
+B1 and B2-Closest sections of tumor to the deep surgical margin inked blue.
+B3 and B4-Further sections of tumor to the deep surgical margin.
+B5-Section through the nipple.
+B6-Representative sampling from the upper inner quadrant.
+B7-Representative sampling of the lower inner quadrant.
+B8-Representative sampling of the upper outer quadrant.
+B9-Representative sampling of the lower outer quadrant.
+B10-Further sections through the lower outer quadrant.
+The axillary tail is dissected. Tumor margin has been marked with surgical
+suture. These are present in zone 2 at the juncture with zone 1 and are
+submitted separately in Block B11.
+B12-Sections of fat from zone 1 appear that no definite lymph nodes are
+identified in zone 1.
+B13-Candidate lymph nodes from zone 2.
+B14, 15 and B16-Candidate lymph nodes from zone 3.
+INTRA OPERATIVE CONSULTATION:
+infiltrating ductal carcinoma.
+Criteria
+AF1 "Tru-cut breast biopsy":
+DIAGNOSIS:
+A. "TRU CUT BREAST BIOPSY":
+INFILTRATING DUCTAL CARCINOMA.
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Frimary noted
+Case is {circle):
+Reviewar Initials.
+QUALIFIED
+Asia Reviewed
+DISQUALIFIED
+B. "RIGHT BREAST":
+1. INFILTRATING DUCTAL CARCINOMA, NSABP HISTOLOGIC GRADE 3, NUCLEAR
+GRADE MODERATELY DIFFERENTIATED. THE TUMOR COMES WITHIN 0.2 CM
+OF THE DEEP MARGIN GROSSLY. THE TUMOR SIZE IS 1.5 X 2.8 × 1.0 CM.
+VASCULAR INVASION IS PRESENT. THE TUMOR IS LOCATED IN THE UPPER
+OUTER QUADRANT ONLY.
+سر
+1 of 2
+2. SIX OF FIFTEEN LYMPH NODES CONTAIN METASTATIC CARCINOMA.
+Verified by:
+AM
+2 of 2

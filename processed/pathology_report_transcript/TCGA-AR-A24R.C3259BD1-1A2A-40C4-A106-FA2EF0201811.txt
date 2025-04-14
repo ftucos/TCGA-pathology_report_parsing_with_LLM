@@ -1,0 +1,29 @@
+Final Diagnosis
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Maignancy History
+Dual/Synchronous Primary led
+Case is (circle):
+Reviewer Initials,
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+4194
+4/25/11
+UUID:C3259BD1-1A2A-40C4-A106-FA2EF8201811
+TCGA-AR-A24R-01A-PR
+Redacted
+✓reast, right, wide local excision: Invasive Nottingham grade III (of III) ductal carcinoma forming a 1.8 x 1.4 x 1.4 cm mass
+(AJCC pT1c) with prior needle biopsy tract. Angiolymphatic invasion is present. No ductal carcinoma in situ identified. All
+surgical margins are free of tumor. The closest margin (deep) is free by 0.3 cm.
+Lymph nodes, right axillary, dissection: Metastatic adenocarcinoma in multiple (6 of 28) right axillary lymph nodes. Three of the
+positive lymph nodes are matted and form a 1.4 x 1.2 x 1.2 cm mass with extracapsular extension into soft tissue (AJCC pN2).
+Her-2/NEU has been ordered on paraffin embedded tissue.
+ICD-0-3
+carcinoma infiltrating duct, Nos 8500/3
+les 4/25/11
+Site: breast, Nos C50.9

@@ -1,0 +1,90 @@
+153333.
+Procedure Date:
+Procedure Physician:
+Attending Physician/Copies To:
+ICD-0-3
+Carcinoma, infiltrating duct and mucinoves, 8523/3
+Site: Breast, Nos C50.9
+1/20/11
+UUID:B6E6765F-14BC-4D3D-9266-EF8865354070
+TCGA-BH-A1FR
+-01A-PR
+Redacted
+PATIENT HISTORY:
+* DATE OF LMP: *
+DATE OF LAST DELIVERY:
+PRE-OP DIAGNOSIS: R BREAST CA
+POST-OP DIAGNOSIS: SAME
+OPERATIVE PROCEDURE: R SEGM MASTECTOMY
+CLINICAL HISTORY:
+MATERIAL SUBMITTED: RIGHT BREAST BIOPSY/MASS/SEGMENTAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE .
+INTRAOPERATIVE CONSULTATION
+:
+CONSULT: Right breast mass: core biopsy positive for carcinoma. ER/PR's were done. An ellipse of skin with
+breast tissue, 8.5 by 6.5 by 5.0 cm
+, shows a tumor mass, 2.2 by 1.7 by 3.0 cm, located 2.0 cm from post
+margin and 1.0 cm from anterior 
+margin.
+'
+ADDENDA:
+Addendum
+DATE OF LMP:
+DATE OF LAST DELIVERY:
+PRE-OP DIAGNOSIS: R BREAST CA
+POST-OP DIAGNOSIS: SAME
+OPERATIVE PROCEDURE: R SEGM MASTECTOMY
+CLINICAL HISTORY:
+MATERIAL SUBMITTED: RIGHT BREAST BIOPSY/MASS/SEGMENTAL MASTECTOMY, PROCUREMENT BY SURGICAL PROCEDURE
+INTRAOPERATIVE CONSULTATION:
+CONSULT: Right breast mass: core biopsy positive for carcinoma. ER/PR's were done. An ellipse of skin with
+breast tissue, 8.5 by 
+6.5 by 5.0 cm, shows a tumor mass, 2.2 by 1.7 by 3.0 cm, located 2.0 cm from post
+margin and 1.0 cm from 
+anterior margin.
+MACROSCOPIC DESCRIPTION:
+SUPPLEMENTAL REPORT
+The specimen is received fresh labeled with the patient's name and "right breast mass". It consists of an
+oval, yellow, soft, lobulated 
+breast tissue, 8.5 by 6.5 by 5.0 cm with surgical sutures and an ellipse of
+white-tan skin attached, 
+5.5 
+by 
+1.6 cm in greatest dimension, and is grossly unremarkable. The specimen is
+previously inked and sectioned which 
+reveals a 3.0 by 2.2 by 1.7 cm tumor mass, located 2.0 cm from
+posterior resection 
+margin and 1.0 cm from anterior resection margin. The tumor mass if firm and focally
+hemorrhagic. Representative 
+sections are submitted labeled "A1-A2" tumor and anterior resection margin; "A3-
+A4" tumor and superior 
+resection margin; "A5-A6" lateral resection margin; "A9-A10" posterior resection
+margin; "All-A12" medial 
+resection margin; "A13-A14" additional sections of the tumor; "A15" skin with
+underlying tissue.
+My signature below is attestation that I have reviewed all slides and agree with the findings as noted
+below.
+FINAL DIAGNOSIS:
+RIGHT SEGMENTAL MASTECTOMY:
+- MIXED INFILTRATING DUCT AND MUCINOUS CARCINOMA, 3.0 BY 2.2 BY 1.7 CM., GOOD NUCLEAR GRADE (SEE NOTE)
+SURGICAL MARGINS ARE NEGATIVE FOR TUMOR
+-
+-
+-
+DUCTAL CARCINOMA IN-SITU, NON-COMEDO TYPE, PRESENT AT PERIPHERY AND WITHIN THE TUMOR
+SKIN, UNREMARKABLE
+NOTE: Neuroendocrine markers will be performed and results will be reported if positive. ** Special stains
+including NSE and Grimalius, are positive and support the presence of neuroendocrine features often seen in
+this type of breast carcinoma.**
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+y History
+Prior Malignancy h
+Dual/Synchrohous Primary Nu
+Case is (circle):
+Reviewer Initials
+Yes
+WALIFIER
+Dat Review 24:
+DISQUALIFIED

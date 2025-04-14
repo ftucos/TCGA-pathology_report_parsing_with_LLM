@@ -1,0 +1,28 @@
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Pith
+Site breast, UOQ
+050.4
+CQCF
+Site: breast, Nos C50.9
+1/25/11
+tw
+Poorly differentiated invasive ductal carcinoma with focal angioinvasion
+(tumor diameter 2.2 cm).
+Concluding tumor classification: NOS, G III, pT2N1aL1V0R0.
+UUID:66438298-5D7A-4649-B57D-47A5BA4E8D31
+TCGA-A8-A075-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer pals
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+Redacted

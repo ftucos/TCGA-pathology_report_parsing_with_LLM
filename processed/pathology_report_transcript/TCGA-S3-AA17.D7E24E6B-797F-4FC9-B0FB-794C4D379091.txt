@@ -1,0 +1,344 @@
+UUID:D7E24E6B-797F-4FC9-B0FB-794C4D379091
+TCGA-S3-AA17-01A-PR
+Redacted
+Sex/DOB:
+Discharge Date:
+Female
+MRN:
+Patient:
+Admission Date:
+Ordering Physician:
+Pathology Addendum Report
+Collected Date/Time:
+Received Date/Time:
+Accession Number:
+Addendum Report
+Immunohistochemical studies for E-cadherin (Block D2), p63 (Blocks D2-4)and calponin (Blocks D3-4)were performed on formalin
+fixed, paraffin-embedded tissue with adequate positive and negative control sections. Stains are positive, supporting the above
+diagnosis.
+The performance characteristics of these antibodies were determined by the
+They have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+(Electronic signature)
+Verified:
+10003
+Carcinoma, infiltrating duct NOS 8000/3
+Site Breast NOS C50.9
+E
+path
+Roth B Breast, Lower-outer quadrant (505
+Surgical Pathology Report
+DOW2/24/14
+Collected Date/Time:
+Received Date/Time:
+Accession Number:
+Final Diagnosis
+A.RIGHT SENTINEL LYMPH NODES, EXCISION:
+•
+-
+ONE OUT OF TWO LYMPH NODES POSITIVE FOR CARCINOMA WITH MICROMETASTASIS; SEE NOTE
+KERATIN STAIN HIGHLIGHTING ONE LYMPH NODE WITH SCATTERED TUMOR CELLS
+B. RIGHT BREAST, MASTECTOMY:
+- INVASIVE DUCTAL CARCINOMA, GRADE 3; SEE SYNOPSIS
+-
+-NEGATIVE MARGINS
+- RADIAL SCAR, COLLAGENOUS SPERULOSIS AND BIOPSY SITE CHANGES
+Printed by:
+Copied to:
+Distribute to:
+Page 1 of 7
+Print Date/Time:
+Patient Locations:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+:
+Accession Number:
+Sex/DOB: Female
+- NIPPLE AND SKIN WITHOUT SIGNIFICANT PATHOLOGIC ABNORMALITY
+C. LEFT SENTINEL LYMPH NODE, EXCISION:
+-
+ONE LYMPH NODE, NEGATIVE FOR CARCINOMA
+- NEGATIVE KERATIN STAIN
+D. LEFT BREAST, MASTECTOMY:
+-EXTENSIVE DUCTAL CARCINOMA IN SITU, GRADE 2, WITH CRIBIFORM AND SECONDARY INVOLVEMENT
+OF PREEXISTING PAPILLOMA AND RADIAL SCAR; MEASURING APPROXIMATELY 2.5 CM
+- SKIN AND NIPPLE WITHOUT SIGNIFICANT PATHOLOGIC ABNORMALITY
+NOTE: Right sentinel lymph node involved by carcinoma cells are present scattered in a noncontiguous manner of at least half
+of the perimeter with isolated small clusters (< 0.2mm). Although measurements do not categorically classify these as a
+micrometastasis, the tumor load could be greater than just isolated tumor cells. According to the AJCC," if more than 200
+individual tumor cells are identified as single dispersed cells or as a nearly confluent elliptical or spherical focus in a single
+histologic section of a lymph node there is a high probability that more than 1,000 cells are present in the lymph node. In these
+situations, the node should be classified as containing a micrometastases".
+Reference: Cancer Staging Manual. AJCC, 7th edition(2110), New York, p356.
+(Electronic signature)
+Verified:
+Synoptic Report
+SPECIMEN:
+Total breast (including nipple and skin)
+PROCEDURE:
+Total mastectomy (including nipple and skin)
+LYMPH NODE SAMPLING:
+Sentinel lymph node(s)
+SPECIMEN INTEGRITY:
+Single intact specimen (margins can be evaluated)
+SPECIMEN SIZE:
+Greatest dimension: 29.0 cm
+Additional dimensions: 21.0 x 8.0 cm
+SPECIMEN LATERALITY:
+Right
+TUMOR SITE: INVASIVE CARCINOMA:
+Lower outer quadrant (7:00-9:00)
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA:
+Greatest dimension of largest focus of invasion over 0.1 cm: 4.0 cm
+Additional dimensions: 3.0 x 3.0 cm
+TUMOR FOCALITY:
+Single focus of invasive carcinoma
+Page 2 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB:
+Female
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Nipple: DCIS does not involve the nipple epidermis
+Skeletal Muscle: No skeletal muscle present -
+DUCTAL CARCINOMA IN SITU (DCIS):
+No DCIS is present
+LOBULAR CARCINOMA IN SITU (LCIS):
+Not identified
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive ductal carcinoma (no special type or not otherwise specified)
+GLANDULAR (ACINAR)/TUBULAR DIFFERENTIATION:
+Score 3: <10% of tumor area forming glandular/tubular structures
+NUCLEAR PLEOMORPHISM:
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape, occasionally with very
+large and bizarre forms
+MITOTIC COUNT:
+Score 3
+Number of mitoses per 10 high-power fields: 25
+Diameter of microscope field: 0.55 mm
+OVERALL GRADE:
+Grade 3: scores of 8 or 9
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Distance from anterior margin: 10.0 mm
+Distance from posterior margin: 40.0 mm
+LYMPH-VASCULAR INVASION:
+Not identified
+DERMAL LYMPH-VASCULAR INVASION:
+Not identified
+LYMPH NODES:
+Number of sentinel lymph nodes examined: 2
+Number of lymph nodes with macrometastases (>0.2 cm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 1
+METHOD OF EVALUATION OF SENTINAL LYMPH NODES:
+H&E, multiple levels
+Immunohistochemistry
+PRIMARY TUMOR (INVASIVE CARCINOMA (pT):
+pT2: Tumor >20 mm but less than or equal to 50 mm in greatest dimension
+REGIONAL LYMPH NODES (pN):
+pN1mi: Micrometastases (greater than 0.2 mm and/or more than 200 cells, but none greater than 2.0 mm).
+DISTANT METASTASIS (M):
+Not applicable
+ESTROGEN RECEPTOR:
+Performed on another specimen
+Immunoreactive tumor cells present (greater than or equal to 1%)
+Quantitation: 100%
+Page 3 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+PROGESTERONE RECEPTOR:
+Surgical Pathology Report
+Accession Number:
+Performed on another specimen
+Immunoreactive tumor cells present (greater than or equal to 1%)
+Quantitation: 70%
+HER2/NEU IMMUNOPEROXIDASE STUDIES:
+Performed on another specimen
+Equivocal (Score 2+)
+FLUORESCENCE IN SITU HYBRIDIZATION (FISH) FOR HER2/NEU:
+Performed on another specimen
+Not amplified (HER2 gene copy <4.0 or ratio <1.8)
+SPECIMEN:
+Total breast (including nipple and skin)
+PROCEDURE:
+Total mastectomy (including nipple and skin)
+LYMPH NODE SAMPLING:
+Sentinel lymph node(s)
+SPECIMEN INTEGRITY:
+Single intact specimen
+SPECIMEN SIZE:
+Greatest dimension: 19.0 cm
+Additional dimensions: 13.0 x 8.0 cm
+SPECIMEN LATERALITY:
+Left
+TUMOR SITE:
+Lower inner quadrant ((6:00-8:00))
+SIZE (EXTENT) OF DCIS:
+Estimated size (extent) of DCIS: at least 2.5 cm
+Number of blocks with DCIS: 6
+Number of blocks examined: 10
+HISTOLOGIC TYPE:
+Ductal carcinoma in situ. Classified as Tis (DCIS) or Tis (Paget).
+ARCHITECTURAL PATTERNS:
+Cribriform
+Papillary
+NUCLEAR GRADE:
+Grade II (intermediate)
+NECROSIS:
+Not identified
+MARGINS:
+Margin(s) uninvolved by DCIS
+*Distance from posterior margin: 7.0 mm
+LYMPH NODES:
+Sex/DOB: Female
+Number of sentinel nodes examined: 1
+Number of lymph nodes with macrometastases (>0.2 cm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+Page 4 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Number of lymph nodes with isolated tumor cells (less than or equal to 0.2 mm and less than or equal to 200 cells): 0
+METHOD OF EVALUATION OF SENTINEL LYMPH NODES:
+H&E, multiple levels
+Immunohistochemistry
+PRIMARY TUMOR (Invasive Carcinoma) (pT):
+pTis (DCIS): Ductal carcinoma in situ
+REGIONAL LYMPH NODES (pN):
+pNO: No regional lymph node metastasis histologically
+DISTANT METASTASIS (M):
+Not applicable
+ANCILLARY STUDIES:
+Estrogen Receptor (results of special studies performed on this specimen or a prior core needle biopsy)
+Immunoreactive tumor cells present
+Progesterone Receptor (results of special studies performed on this specimen or a prior core needle biopsy)
+Immunoreactive tumor cells present
+MICROCALCIFICATIONS:
+*Present in both DCIS and non-neoplastic tissue
+Source of Specimen
+Lymph Nodes, Rt. Sentinel
+A
+B
+Right Breast
+с
+Lymph Nodes, Sentinel Left
+D
+LT Breast
+Clinical Information
+PRE-OP DIAGNOSIS: Bilateral breast cancer
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Bilateral mastectomy, Sentinel node biopsy
+Gross Description
+Specimen is received in 4 parts:
+A.The specimen is labeled "RIGHT SENTINEL NODE" and is received unfixed of a resection diagnosis. (The specimen is in the
+formalin more than 6 hours and less than 48 hours). It consists of 4 x 3 x 1 cm fragment of fatty tissue which reveals 2.5 x 1.5 x 1 cm
+and 1 x 0.8 x 0.7 cm lymph nodes. Each lymph nodes bisected and entirely submitted as follows:
+FS A1 = smaller lymph node
+FS A2-FSA 3 = larger lymph node
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 20 minutes
+Page 5 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB:
+Female
+B. The specimen is labeled "RIGHT BREAST" and is received in formalin. (The specimen is in the formalin more than 6 hours
+and less than 48 hours). It consist of mastectomy specimen with lymph nodes weighing 1010 grams and measuring 29 x 21 x 8 cm
+with brown skin ellipse measuring 20 x 9 cm, containing grossly unremarkable 1.3 cm in diameter nipple. The skin is tagged 
+with 
+a
+black stitch designating 12:00. The posterior margin is composed of smooth fascia which is inked black. The breast is slices in
+sagittal planes revealing 4 x 3 x 3 cm an ill-defined mass approximately 7:00 to 9:00 position. This mass is 1 cm underneath the skin
+surface and 4 cm away from the deep fascial margin of resection. On sectioning between 12:00 to 1:00 position focal area of
+hemorrhage and 0.7 x 0.5 x 0.5 cm ill-defined firm area is noted which is 2 cm away from the deep fascial margin of resection and 7
+cm away from the 7:00-9:00 mass.. The remaining portions revealed unremarkable yellow mammary fat with streaks of white-gray
+mammary parenchyma. Representative sections estimated as follows:
+B1 = nipple
+B2-B5=7:00-9:00 mass
+B6 7:00-9:00 mass closest deep fascial margin of resection
+B7-B9=12:00-1:00 hemorrhagic area
+B10=12:00-1:00 ill-defined firm area
+B11=12:00-1:00 ill-defined firm area closest deep fascial margin of resection
+B12 = random section between 7:00-9:00 and 12:00-1:00.
+B13
+upper inner quadrant
+B14 = upper outer quadrant
+B15
+lower outer quadrant
+B16 lower inner quadrant
+Time specimen was removed from the patient:
+Time specimen was placed in formalin:
+Ischemic time: 1/5 minutes
+C. The specimen is labeled "LEFT SENTINEL NODE" and is received unfixed for frozen section diagnosis. (The specimen is in the
+formalin more than 6 hours and less than 48 hours). It consists of a 2 x 1.5 x 1 cm fragment of lobulated fatty tissue which reveal 1 x
+0.8 x 0.7 cm lymph node. Lymph node is bisected and entirely submitted in cassette FSC 1.
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 18 minutes
+D. The specimen is labeled "LEFT BREAST " and is received in formalin. (The specimen is in the formalin more than 6 hours and
+less than 48 hours). It consist of mastectomy specimen without lymph nodes weighing 1040 grams and measuring 13 x 19 x 8 cm
+with brown skin ellipse measuring 20 x 9 cm, containing grossly unremarkable 1.2 cm in diameter nipple. [The skin is tagged with a
+black stitch designating 12:00 ]. The posterior margin is composed of smooth fascia which is inked black. The breast is slices in
+sagittal planes revealing multiple white-tan firm nodules ranging from 0.5-0.7 cm in greatest diameter and measuring 2.5 x 2 x 2 cm
+in aggregate. These nodules are located between 6:00 to 8:00 position and are 0.7 cm away from the closest deep fascial margin of
+resection. The remaining portions reveal unremarkable yellow mammary fat with streaks of white-gray mammary parenchyma.
+Representative sections are submitted as follows:
+B1 = nipple
+D2-D6 = multiple nodules between 6:00 8:00 position
+D7 6:00-8:00 position nodules closest deep fascial margin of resection
+D8 = upper outer quadrant
+D9 = upper inner quadrant
+D10
+lower inner quadrant
+Page 6 of 7
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+D11 lower outer quadrant
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 20 minutes
+Dictated by:
+Intra Operative Consultation
+A. Right sentinel node = 2 lymph nodes, negative for carcinoma, fatty lymph node
+C. Left sentinel node = one lymph node negative for carcinoma
+Tissue Code
+Sex/DOB: Female,
+-Page 7 of 7 12/11/17 THE
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+breast
+Dual/Synchronous Primary Noted (1) breast
+QUALIFIED / DISQUALIFIED
+Case is (cire:
+Reviewer initials.
+Date Reviewed:

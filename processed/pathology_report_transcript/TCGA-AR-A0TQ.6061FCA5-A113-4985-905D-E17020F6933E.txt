@@ -1,0 +1,32 @@
+UUID:6061FCAS-A113-4985-905D-E17028F6933E
+TCGA-AR-AOTQ-01A-PR
+Redacted
+ICD-0-3
+carcinoma, impeltrating duct, NOS 8500/3
+Site: breast, Nos C50.9
+Breast, right, simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III) [tubules
+3/3, nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming a single mass (7.2 x 4.5 x 3.4 cm) located in
+the upper inner and upper central quadrant of the breast [AJCC pT2]. Angiolymphatic invasion is absent.
+The non-neoplastic breast parenchyma shows nonproliferative fibrocystic changes. Calcifications are
+present in malignant ducts. Biopsy site changes are present. All surgical resection margins, including the
+deep margin, are negative for tumor (minimum tumor free margin, 7.0 cm, deep margin).
+Breast, right, supranumerary nipple excision: Intradermal nevus (0.6 cm in greatest dimension).
+Lymph nodes, right axillary, dissection: Multiple (2 of 9) right axillary lymph nodes are positive for
+metastatic carcinoma. The largest lymph node measures 1.4 cm. No extranodal extension identified.
+Lymph nodes, highest right axillary, dissection: Multiple (6) highest right axillary lymph nodes are
+negative for tumor.
+Breast, left, simple mastectomy: Nonproliferative fibrocystic changes.
+Her-2/NEU has been ordered on paraffin-embedded tissue.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepanc/
+HIPAA Discrepancy
+Frior Mignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+No

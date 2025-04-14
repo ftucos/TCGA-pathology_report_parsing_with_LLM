@@ -1,0 +1,196 @@
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received: q
+Reported:
+Copy To:
+Pathologic Interpretation:
+A. Lymph node, sentinel lymph node, TP:
+No carcinoma seen in one lymph node (0/1).
+Keratin immunostains is pending.
+B. Lymph node, sentinel lymph node, TP:
+No carcinoma seen in one lymph node (0/1).
+Keratin immunostains is pending.
+C. Lymph node, sentinel lymph node, TP:
+No carcinoma seen in one lymph node (0/1).
+Keratin immunostains is pending
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+D. Right breast mass, 1 short stitch superior, 1 long stitch lateral:
+C50.9
+2/8/11
+her
+UUID:F282122D-C129-4A8B-9A49-78D5267C37CA
+TCGA-EW-A1J6-01A-PR
+Redacted
+Infiltrating, poorly differentiated ductal carcinoma, (high nuclear grade), 1.7 cm in greatest dimension.
+The tumor cells are positive for ER and PR and they are negative for HER by immunohistochemestry.
+HER-2 CISH is pending.
+See tumor summary
+E. Additional medial nodule, FS:
+Mammary parenchyma with stromal fibrosis and associated calcifications.
+Surgical pathology cancer case tumor summary
+Specimen Type: Partial breast
+Procedure: Excision with out wire-guided localization
+Lymph Node Sampling: Sentinel lymph node.
+Specimen integrity: Single intact specimen (margins can be evaluated)
+Specimen size: Greatest dimension 5.8 cm/additional dimension; 538 x 2.5 cm
+Laterality: Right.
+Tumor Site: Not specify
+Tumor Size: Greatest dimension of focus of invasive 1.7 cm; additional dimension 1.6 x 1.6 cm
+Tumor focality: single focus of invasive carcinoma
+Macroscopic and microscopic extent of tumor:
+-Skin is not present
+-Skeletal muscle is not present
+Ductal carcinoma in situ: Ductal cell carcinoma in situ is present
+Size extent of (DCIS): Numbers of blocks with (DCIS) 1 / Numbers of blocks evaluated &
+Architectural Patterns: cribriform/solid
+Nuclear grade: Grade III
+Necrosis: Present, central expansive comedo
+Lobular Carcinoma: Not identified
+Histologic Type: Invasive ductal carcinoma (no special type or not otherwise specified)
+Histologic Grade:Nottingham Histologic Score: 3 ( 3+3+2=8)
+Glandular/Tubular formation: Score 3
+Nuclear Pleomorphism: Score 3
+Mitotic Count: Score 2
+Margins: Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1 mm (Anterior)
+Distance from superior margin> 5 mm/ Distance from inferior margin 5 mm/ Distance from anterior margin | mm/
+Distance from posterior margin>7mm/Distance from medial margin>5 mm/ Distance from lateral margin>5 mm
+Margins uninvolved by (DCIS)
+Distance from closest margin: 5 mm (Anterior)
+SURGICAL PATHOL Report
+Distance from closest margin 5 mm// Distance from superior margin> 5 mm/ Distance from inferior margin 6 mm/ Distance
+from anterior margin 5 mm/ Distance from posterior margin>7mm/Distance from medial margin>5 mm/ Distance from
+lateral margin>5 mm
+Lymph vascular invasion: Present
+Dermal lymph-vascular invasion: No skin present
+Lymph nodes: Number of sentinel lymph nodes examined 3
+** Total numbers of lymph nodes with macrometastases (>0.2 cm) Q
+Number of lymph nodes with macrometastases (>0.2 mm and < 200 cells) 0
+Method of evaluation of sentinel lymph nodes: Hematoxylin and eosin (H&E), one level/immunohistochemistry
+pending
+Pathologic Staging:
+Primary Tumor: pT1c.
+Regional lymph nodes: pNO
+Distant Metastasis: No applicable
+Estrogen Receptor: Pending
+Progesterone Receptor: Pending
+HER2 IHC and CISH: Pending
+Preliminary Dx: AJCC pTc1 No (sn) MX (Final AJCC pending evaluation of keratin immunosatin on sentinel lymph nodes)
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5=ER, PgR 636-PR, A485-HER2, H-11=EGFR, CCH2/DOG9-CMV, F39.4.1-AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+Addendum Diagnosis
+A. Lymph node, sentinel lymph node,
+-Keratin negative for tumor cells.
+B. Lymph node, sentinel lymph node,
+-Keratin negative for tumor cells.
+C. Lymph node, sentinel lymph node,
+-Keratin negative for tumor cells.
+Date Ordered:
+Date Complete:
+Date Reported:
+-
+As the attending pathologist, I attest that f: (i) Examined the relevant
+preparation(s) for the specimen(3); and (II) Rendered the diagnosis(es).
+Status: Signed Out
+Addendum
+Date Ordered:
+Date Complete:
+Status: Signed Out
+Page 2 of 4
+SURGICAL PATHOL Report
+Date Reported:
+Addendum Diagnosis
+The tumor cells are positive for ER and PR and negative for HER-2 by immunohistochemistry. HER-2 CISH is negative.
+Final AJCC staging pT1C NO (sn) (i-) MX.
+Intraoperative Consultation
+AFS.
+Lymph node, sentinel lymph node,
+No evidence of malignancy.
+> ct. Lymphocytes present.
+BFS.
+CFS.
+EFS.
+Lymph node, sentinel lymph node,
+No evidence of malignancy.
+Lymph node, sentinel lymph node,
+No evidence of malignancy.
+Additional medial nodule, FS: fibrosis,
+No malignancy seen.
+:
+> ct. Lymphocytes present.
+ct. Lymphocytes present.
+Clinical History:
+{Not Provided}
+Pre Operative Diagnosis:
+Right breast cancer
+Specimen(s) Received:
+A: Lymph node, sentinel lymph node,
+B: Lymph node, sentinel lymph node,
+C: Lymph node, sentinel lymph node,
+D: Right breast mass, 1 short stitch superior, 1 long stitch lateral
+E: Additional medial nodule, FS
+Gross Description:
+A.
+B.
+C.
+D.
+Received fresh and labeled "lymph node, sentinel lymph node, TP #1" is a segment of fibro-adipose tissue, 1.3 x 0.9 x 0.6
+cm. Specimen bisected and submitted in toto in one cassette.
+Received fresh and labeled "lymph node, sentinel lymph node, TP#2" is a segment of yellow-tan, fibro-adipose tissue, 1.2
+x 0.8 x 0.6 cm. Specimen bisected and submitted in toto in one cassette.
+Received fresh and labeled "lymph node, sentinel lymph node, TP #3" is a segment of pale-tan fibro-adipose tissue, 1.8 x
+1.2 x 0.3 cm. Specimen submitted in toto in one cassette.
+Received in formalin and labeled "right breast mass, 1 short stitch superior, 1 long stitch lateral" is a lumpectomy
+specimen measuring 5.8 x 5.8 x 2.5 cm and weighs 26.5 grams. Specimen oriented with one short stitch indicating
+superior and one long stitch lateral. Resection margins inked as follows: Superior margin inked blue, inferior margin inked
+red, lateral margin inked orange, anterior margin inked yellow, posterior (deep) inked black. Sections of the specimen
+reveal and irregular shaped, ill-defined, indurate, white-tan mass, 1.7 x 1.6 x 1.6 cm. The mass is present at 0.1 cm from
+the anterior margin (closest-yellow). The reminder margins are grossly uninvolved. Cassettes submitted as follows.
+Page 3 of 4
+SURGICAL PATHOL Report
+1
+Mass in relation to anterior and inferior margins (yellow-green)
+2
+Lateral (oranged) and medial (red margin)
+3
+Superior (blue) and deep (black margin)
+4-8
+Lesions submitted in toto
+E.
+Received fresh and labeled “additional medial nodule, FS"consists of a segment of tan-yellow, fibro-adipose tissue, 2.3 x
+1.0 x 0.6 cm. The true margins inked black. Representative sections submitted as follows.
+1
+2
+Sections submitted for frozen
+Reminder of specimen submitted in toto
+ICD-9(s):
+174.8
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Pry Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed:
+tw
+Page 4 of 4

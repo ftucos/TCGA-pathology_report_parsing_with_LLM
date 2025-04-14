@@ -1,0 +1,46 @@
+Procurement Date
+Laterality:Left- UOQ
+Path Report:BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 3.5 x 3.5 x 3.5 cm
+Grossly evident lesion: Yes
+Histologic type: Lobular carcinoma
+Histologic grade: Not specified
+Tumor extent: Not specified
+Lymph nodes: 4/8 positive for metastasis (Axillary 4/8)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+|CD-0-3
+carcinoma, lobular, infitrating
+852013
+Site: breast, NOS
+517-12
+C50,9
+Ro
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: ER, PR-8 points, HER2NEU-O
+UUID:00058FFD-35E6-4891-8801-DAB3AE9EBF78
+TCGA-E9-A3X8-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rlur Malignancy History
+Dual/Syrichronous Primary Noted
+ase is (c
+teviewer tial/
+QUALIFIED
+Date Reviewed
+Yes
+Ma
+DISQUALIFIED

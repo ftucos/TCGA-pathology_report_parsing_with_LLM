@@ -1,0 +1,190 @@
+urgical Pathology: Add
+Surg Path
+150-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path:
+Site: breast,
+uppe inner quadrant C50.2
+CQCF: breast, NOS C50.9
+1/25/11
+lw
+UUID:F05F5886-DC5D-4685-B2BF-57A68A8BB7B9
+TCGA-
+B6-AOWW-01A-PR
+CLINICAL HISTORY:
+Cervical cancer and breast cancer.
+GROSS EXAMINATION:
+A. "True cut breast biopsy", AF1.
+in toto in block A1.
+B. "Cervical tumor"
+B1.
+Frozen tissue remnant labeled AF1 submitted
+tissue fragment labeled BF1 in submitted in toto in block
+A 4.2 x 3 x 2.3 
+cm aggregate of tan 
+tissue containing multiple edematous
+papillary 
+structures. Representative 
+sections are submitted in blocks B2 and
+A representative sample of the 
+specimen is placed in a tea bag for gross
+photography
+.
+B3.
+C. "Right breast and axillary nodes", received unfixed and placed in
+formalin. A sample of fresh tissue has 
+been sent for ER/PR.
+28.4 x 15.3 x 3.9 cm 
+modified radical mastectomy specimen containing a 22.0 x
+A 580 gm,
+15.3 x 3.9 cm breast with an 8.5 x 5.8 x 2 cm 
+axillary tail, and a 2 cm nipple
+within a 5.5 cm areola. The specimen is 
+remarkable for a 4.1 x 2.6 x 4 cm
+white hard mass located within the upper 
+inner portion of the breast 1.1 cm
+from the inked deep margin and 1.7 cm from 
+the skin surface.
+tail contains multiple 
+firm matted lymph nodes within the proximal mid and
+The axillary
+distal portions, the largest measuring 3.5 
+x 1.4 x 1 cm.
+contains a soft pale 
+pink 5 x 1.2 x 1.5 cm.
+The breast also
+dissected 
+for lymph nodes.
+The axillary tail is removed and
+BLOCK SUMMARY:
+C1-C2 tumor with soft tissue margins.
+C3-C4
+-
+C5-C7
+random soft tissue margins
+tumor
+C8-C9
+-
+unremarkable breast tissue
+C10-C11 representative sections of skin
+C12 section of areola
+C13
+C14
+C15
+C16
+C17
+-
+section of nipple
+one bisected lymph node candidate from the proximal axillary lymph
+nodes
+three lymph node candidates from the proximal axillary lymph nodes
+six lymph node candidates from the 
+mid axillary lymph nodes
+one bisected lymph node candidate from mid axillary lymph nodes
+C18 
+two lymph node candidates from 
+the distal axillary lymph nodes.
+C19 one bisected lymph node candidate 
+from the distal portion of axillary
+lymph nodes
+-
+Dr.
+3/Dr.
+'Slides to Dr.
+INTRA OPERATIVE CONSULTATION:
+A. "True cut breast", AF1: invasive carcinoma (Dr.
+B. "Cervical tumor", BF1: papillary squamous cell carcinoma in situ at
+least (Dr.
+DIAGNOSIS:
+A. "TRUE CUT BIOPSY":
+INFILTRATING DUCTAL CARCINOMA.
+N.S.A.B.P. NUCLEAR GRADE 2 OF 3.
+N.S.A.B.P. HISTOLOGIC GRADE 3 OF 3.
+LYMPHATIC/VASCULAR INVASION PRESENT.
+https:/
+Criteria
+Diagnosis Discrepancy
+Redacted
+Yes
+No
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy Histor
+Dual/Synch. onous Primary Noted
+Case is (circle):
+Reviewer Initials A
+Kmt
+QUALIFIED
+Date Reviewed:
+twe
+DISQUALIFIED
+B. "CERVICAL TUMOR":
+POLYPOID PAPILLARY SQUAMOUS CELL CARCINOMA IN-SITU WITH EQUIVOCAL EARLY
+STROMAL INVASION
+. (SEE COMMENT).
+C. "RIGHT BREAST AND AXILLARY NODES"
+(MODIFIED RADICAL MASTECTOMY):
+RESIDUAL INFILTRATING DUCTAL CARCINOMA.
+N.S.A.B.P. NUCLEAR GRADE 2 OF 3.
+N.S.A.B.P. HISTOLOGIC GRADE 3 OF 3.
+GROSS TUMOR SIZE 4.1 X 2.6 X 4.0 CM (GROSSLY).
+SIZE OF INVASIVE COMPONENT 4.1 CM.
+LOCATION OF THE TUMOR, UPPER INNER QUADRANT.
+LYMPHATIC/VASCULAR INVASION PRESENT.
+MULTIFOCAL TUMOR NO.
+IN SITU CARCINOMA PRESENT,
+•
+OCCUPYING APPROXIMATELY 5% OF TUMOR.
+TYPE OF IN-SITU CARCINOMA CRIBRIFORM WITH NECROSIS AND SOLID TYPES
+(SLIDES C4, C6, 
+C7)
+EXTENSIVE INTRADUCTAL COMPONENT, NO.
+NIPPLE STATUS, FREE OF TUMOR.
+SKIN STATUS, FREE OF TUMOR.
+MUSCLE STATUS, NOT SAMPLED.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: FIBROSIS.
+SURGICAL MARGIN STATUS: NEGATIVE.
+LYMPH NODE STATUS: METASTATIC CARCINOMA IN EIGHT OF 15 RIGHT AXILLARY
+LYMPH NODES.
+SIZE OF LARGEST LYMPH NODE METASTASIS 1.5 CM (SLIDE C14).
+EXTRANODAL 
+INVASION PRESENT (SLIDE C14).
+ESTROGEN/PROGESTERONE RECEPTOR AND CELL CYCLE ANALYSIS PENDING.
+METHODOLOGY
+: IMMUNOHISTOCHEMISTRY, PARAFFIN BLOCK (C6).
+COMMENT: The lesion displays in-situ form of cancer that architecturally
+resembles the papillary transitional 
+cell cancer, grade 1, commonly seen in
+the bladder. In multiple areas, 
+the base of the epithelium is cut on a bais,
+so that it cannot be determined 
+whether the few cells seen in the superficial
+stroma are artifactual or the earliest 
+form of microinvasion. While such a
+lesion, if seen in the bladder
+, would be called low grade, there is no
+recorded experience with 
+such a neoplasm in the cervix.
+Dr.
+diagnosis.
+has reviewed the slides of the cervical tumor and concurs with the
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the 
+above diagnosis (es).
+M.D. Page#
+Electronically signed:
+ADDENDUM 2:
+Breast tissue was sent to the
+estrogen and progesterone receptors.
+, for assay of the
+The estrogen receptor activity was
+judged to be POSITIVE with an estimated FMOL value of 99. The progesterone
+receptor activity was judged as POSITIVE 
+with an estimated FMOL value of 15.
+Please refer to
+for 
+a complete report.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the 
+above diagnosis(es).
+http

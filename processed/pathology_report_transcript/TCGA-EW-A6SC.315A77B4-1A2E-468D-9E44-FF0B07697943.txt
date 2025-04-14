@@ -1,0 +1,224 @@
+Name:
+XXX
+DOB:
+Gender:
+F
+MRN:
+X
+UUID:315A77B4-1A2E-468D-9E44-FF0B07697943
+TCGA-EW-A6SC-01A-PR
+Redacted
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+X
+X
+X
+Location: XX
+Physician: XXX
+Pathologic Interpretation:
+A. LEFT BREAST SENTINEL NODE 1
+One lymph node, negative for carcinoma (0/1).
+Immunohistochemistry for keratin is pending.
+B. LEFT BREAST SENTINEL NODE 2
+One lymph node, negative for carcinoma (0/1).
+Immunohistochemistry for keratin is pending.
+ICD-O-3
+NOS
+Carcinoma, Solar infiltrating
+8520/3
+Site: CECF Yeast NOS Co0.9
+path
+"①Breast, ruppen - outer quadron
+8407/24/13
+650.4
+C. LEFT BREAST LUMPECTOMY:
+INVASIVE LOBULAR CARCINOMA, moderately differentiated, Nottingham grade 2 (3+2+1=6), 2.1 cm in
+greatest dimension.
+Immunohistochemistry performed on previous core needle biopsy demonstrated the following staining
+pattern in the lesional cells:
+ER:
+POSITIVE (> 50%)
+PR:
+POSITIVE (10-50%)
+HER2:
+NEGATIVE (0)
+E-Cadherin:
+NEGATIVE (0)
+Resection margins are negative for carcinoma.
+Prior biopsy site changes present.
+Atypical ductal hyperplasia.
+See Surgical Pathology Cancer Case Summary.
+Surgical Pathology Cancer Case Summary
+Procedure
+Excision without wire-guided localization
+Lymph Node Sampling
+Sentinel lymph node(s)
+Specimen Laterality
+Left
+Tumor Site: Invasive Carcinoma
+Position: 1 o'clock
+Histologic Type of Invasive Carcinoma
+Invasive lobular carcinoma
+Tumor Size: Size of Largest Invasive Carcinoma
+Greatest dimension of largest focus of invasion >1 mm: 21 mm
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation
+Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism
+Score 2: Cells larger than normal with open vesicular nuclei, visible nucleoli, and moderate
+variability in both size and shape
+Mitotic Rate
+Score 1 (≤3 mitoses per mm²)
+Overall Grade
+Grade 2: scores of 6 or 7
+Tumor Focality (required only if more than 1 focus of invasive carcinoma is present)
+Single focus of invasive carcinoma
+Ductal Carcinoma In Situ (DCIS) (select all that apply)
+No DCIS is present
+Lobular Carcinoma In Situ (LCIS)
+Not identified
+Margins
+Invasive Carcinoma
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 2.5 mm
+Specify margin: Anterior
+Lymph Nodes (required only if lymph nodes are present in the specimen)
+Number of sentinel lymph nodes examined: 2
+Total number of lymph nodes examined (sentinel and nonsentinel): 2
+Number of lymph nodes with macrometastases (>2 mm): 0
+Number of lymph nodes with micrometastases (>0.2 mm to 2 mm and/or >200 cells): 0
+Method of Evaluation of Sentinel Lymph Nodes (select all that apply)
+Hematoxylin and eosin (H&E), 1 level
+H&E, multiple levels
+Immunohistochemistry to follow
+Treatment Effect: Response to Presurgical (Neoadjuvant) Therapy
+In the Breast
+No known presurgical therapy
+In the Lymph Nodes
+No known presurgical therapy
+Lymph-Vascular Invasion
+Not identified
+Dermal Lymph-Vascular Invasion
+No skin present
+Pathologic Staging (based on information available to the pathologist) (pTNM)
+Primary Tumor (Invasive Carcinoma) (PT)
+pT2: Tumor >20 mm but ≤50 mm in greatest dimension
+Regional Lymph Nodes (pN)
+Modifier (required only if applicable)
+(sn): Only sentinel node(s) evaluated
+PNO: No regional lymph node metastasis identified histologically
+Distant Metastasis (PM)
+Not applicable
+Ancillary Studies
+(required only if available at time of report completion) (select all that apply)
+Performed on another specimen
+Specify specimen (accession number):
+Estrogen Receptor (ER)
+Results and interpretation:
+Positive Immunoreactive tumor cells present ( >50%)
+Progesterone Receptor (PgR)
+HER2
+Results and interpretation:
+Positive Immunoreactive tumor cells present (10-50%)
+Immunoperoxidase Studies
+Results:
+Negative (Score 0)
+Microcalcifications (select all that apply)
+Present in invasive carcinoma
+AJCC Classification (7th edition): pT2, (sn)pNO, pMn/a
+Final AJCC classification will be issued after the keratin immunostain.
+XX,
+XX,
+***Electronically Signed Out By***
+Procedures/Addenda
+Addendum
+Date Ordered:
+Addendum Diagnosis
+A. Immunohistochemistry for keratin is negative.
+B. Immunohistochemistry for keratin is negative.
+Final AJCC pT2 sn NO (i-) Mn/a
+Date Complete:
+Date Reported:
+XX
+Status:
+Intraoperative Consultation
+A. Sentinel node 1,
+stains
+B. Sentinel node 2,
+stains
+FS: No malignancy seen. However, final diagnosis pending Immunohistochemical
+FS: No malignancy seen. However, final diagnosis pending Immunohistochemical
+Clinical History:
+Lobular carcinoma, ER+, RR+, HER (-)
+Operation Performed
+Left lumpectomy with sentinel node biopsy and possible axillary dissection
+Pre Operative Diagnosis:
+None Provided
+Specimen(s) Received/Processing Information:
+Codes:
+A: LEFT BREAST SENTINEL NODE 1
+Prep Histology x 1, Cytokeratin Cocktail (KER) x 1
+B: LEFT BREAST SENTINEL NODE 2.
+Prep Histology x 1, Cytokeratin Cocktail (KER) x 1
+Frozen section x 1, FS Perm x 1, Touch
+A:
+B:
+Frozen section x 1, FS Perm x 1, Touch
+C: LEFT BREAST LUMPECTOMY 1 SUPERIOR 2 LATERAL 3 DEEP H&E, Initial x 1,
+H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x
+1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial x 1, H&E, Initial
+× 1
+Gross Description:
+A.
+Received fresh labeled "Sentinel lymph node count 1 containing 1.3 x 1.0 x 1.0 cm pale yellow soft
+Bisected and submitted in toto in one cassette for frozen section.
+lymph node.
+B.
+Received fresh labeled "Sentinel node 2 count " containing 1.3 x 1.0 x 1.0 cm pale yellow, soft lymph
+node. It is
+bisected and submitted in toto in one cassette for frozen section.
+C.
+Received in formalin labeled “Left breast lumpectomy, 1 superior, 2 lateral 3 deep" is a lumpectomy
+specimen of the breast weighing 180 grams. It is oriented with sutures by the surgeon. It measures 7.5 cm
+in superior to inferior, 7.0 cm medial to lateral surface, 3.5 cm anterior to the posterior surface. The
+specimen is inked as follows: Blue superior, green inferior, red medial, orange lateral, black posterior,
+yellow anterior. Upon sectioning, there is a 2.0 x 1.6 x 1.2 cm tan-white, firm gritty mass with stellate
+borders. It is approximately round to oval in shape. The mass contains a metallic clip measuring 3 mm.
+The mass is closest to the anterior margin which is 0.7 cm away. It is 3.0 cm away from the posterior
+margin, 2.0 cm from the superior margin, 2.6 cm from the inferior margin, 4.0 cm from the medial margin and
+2.5 cm from the lateral margin. The rest of the breast parenchyma is yellow and soft with fat to stroma ratio
+90's to 30. A piece of tumor measuring approximately 1.0 x 1.0 cm is submitted to the tissue bank. Sections
+are submitted as follows:
+Cassettes #1-6
+Cassette #7
+Cassette #8
+Cassette #9
+Cassette #10
+Cassette #11
+Cassette #12
+Cassette #13
+Mass in toto (cassette 1 mass with clip)
+Anterior margin
+Posterior margin
+Medial margin
+Lateral margin
+Superior margin
+Inferior margin
+Stroma
+riteria
+iagnosis Discrepancy
+71943
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Noted
+ase is (circle):
+eviewer Initials
+QUALIFIED
+Date Reviewed
+Yes
+No /
+DISQUALIFIED

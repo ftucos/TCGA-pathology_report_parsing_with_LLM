@@ -1,0 +1,74 @@
+UUID:15237FF6-A56E-4E05-881D-887E91859917
+TCGA-D8-A27T-01A-PR
+Internal invoice No.
+Redacted
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, NoS
+050.9
+fw 5/19/11
+page 1 / 2
+copy No.
+3
+Date:
+Examination: Histopathological examination
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+Patient: XXX
+Material: Multiple organ resection - right breast
+Unit in charge:
+Physician in charge:
+Material collected on: 1
+Material received on
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+Examination No.:
+Criteria
+Dognosis Discrepancy
+Primary Tumor Site Discrepa icy
+HIPAA
+Discrepancy
+Prier Malignane; History
+D/Synchroncus Primean Wed
+Case is (ircle):
+Power Initials
+QUIFIED
+Date Revied:
+DISQUALITIED
+5/13|||
+Examination performed or
+Macroscopic description:
+Right breast sized 21.5 x 14 x 4 cm removed without axillary tissues and with a skin flap of 15 x 7 cm. Tumour sized
+3.0 x 1.4 x 
+1.8 cm on the boundary of outer quadrants, located 3 cm from the lower boundary, 3 cm from the base
+and 1 cm from the skin.
+Microscopic description:
+Carcinoma mammae invasivum- NHG2 (3+2+1:5 mitoses/10 HPF - visual area: 0.55mm).
+Lesions of the type mastopathia fibrosa et cystica.
+Metastases carcinomatosae in lymphonodis.
+Infiltratio capsulae lymphonodí et telae perinodalis.
+Histopathological diagnosis:
+Invasive lobular carcinoma of the right breast
+Examination performed on
+Compliance validated by:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with Ventana's Pathway HER-2/neu (485) Rabbit Monoclonal Antibody.
+Negative reaction in invasive cancerous cells (Score=1+).
+Examination performed on:
+Compliance validated by
+Patient: XXX
+Examination: Histopathological examination
+page 2 / 2
+Examination performed on:
+Examination result:
+PESEL: XXX
+Gender: F
+Carcinoma lobulare invasivum mammae dextrae.
+Metastases carcinomatosae in lymphonodis axillae (No II/II) (NHG2, pT2, pNla).
+Following immunohistopathological tests were made:: E-cadheryna "-".
+Compliance validated hv
+Examination No.:

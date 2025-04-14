@@ -1,0 +1,189 @@
+DATE OBTAINED:
+DATE RECEIVED:
+DATE REPORTED:
+UUID:859561F6-3113-45C8-8FBE-718BF860B582
+TCGA-LD-A7W6-01A-PR
+Redacted
+Surgical Pathology Report
+LOCATION:
+SUBMITTING MD:
+CC:
+DIAGNOSIS
+1. LEFT BREAST, PROPHYLACTIC SIMPLE MASTECTOMY: FOCAL ATYPICAL DUCTAL HYPERPLASIA
+(UPPER INNER QUADRANT, 1 MM, SLIDE 1J), COLUMNAR CELL HYPERPLASIA/CHANGES, COMPLEX
+SCLEROSING LESION, USUAL DUCTAL HYPERPLASIA, SMALL PAPILLOMATOSIS, SCLEROSING
+ADENOSIS (WITH ASSOCIATED MICROCALCIFICATIONS) AND APROCRINE METAPLASIA; NEGATIVE FOR
+MALIGNANCY; NEGATIVE SKIN AND NIPPLE.
+2. RIGHT BREAST, SIMPLE MASTECTOMY: INVASIVE LOBULAR CARCINOMA.
+SIZE (INVASIVE):
+LATERALITY:
+TUMOR FOCALITY:
+LESIONAL SITE:
+HISTOLOGIC TYPE:
+NUCLEAR GRADE:
+HISTOLOGIC GRADE:
+IN-SITU COMPONENT:
+AJCC CATEGORIES:
+LYMPH NODE SAMPLING:
+30 mm
+Right
+Unifocal
+Upper inner quadrant extending to the retroareolar area
+Invasive lobular carcinoma, mixed classical (70%) and pleomorphic/solid (30%) types
+I-II of III (classical type); III (pleomorphic type)
+N/A
+LCIS
+(invasive lobular carcinoma)
+(classical, NG I-II and pleomorphic, NG II-III types)
+Positive (2/18, largest 23mm; no extranodal involvement) see specimen #3
+PTNM:
+CTNM:
+INTEGRITY/ORIENTATION:
+MARGINS (invasive lobular):
+LYMPHOVASCULAR INVASION:
+MICROCALCIFICATIONS:
+NIPPLE/SKIN: (if applicable)
+SKELETAL MUSCLE:
+OTHER:
+Stage IIB
+PT2
+CT2
+(assuming "CM0" status)
+pN1a
+CN1
+смо
+Intact specimen with designated margins
+Negative (> 1 cm)
+Focal suspicious for LVI
+Present, associated with benign acini
+Negative for tumor
+Not present
+Prior biopsy site changes; focal usual ductal hyperplasia, columnar cell changes,
+microcysts and apocrine metaplasia.
+3. RIGHT AXILLARY CONTENTS, DISSECTION: TWO OUT OF EIGHTEEN (2/18) LYMPH NODES POSITIVE
+FOR METASTATIC BREAST CARCINOMA, LARGEST TUMOR 2.3 CM, WITH NO EXTRANODAL
+INVOLVEMENT.
+ICD03
+Carcinoma, infiltrating loludar mixed
+w/other types
+Site
+COMMENT
+88307X3
+852413
+® Breast, upper-inner gradrant 10.2
+91 10/10/13
+Clinical Diagnosis and History:
+***Electronically Signed Out***
+Page 1 of 3
+Surgical Pathology Report
+Year old female with right central ILC and + LN, left prophylactic
+CT2,cN1,cMO, clinical stage IIB
+Tissue(s) Submitted:
+1: LEFT BREAST MASTECTOMY SUTURE MARKS SHORT SUPERIOR AND LONG LATERAL
+2: RIGHT BREAST MASTECTOMY SUTURE MARKS SHORT SUPERIOR LONG LATERAL
+3: RIGHT AXILLARY CONTENTS
+Gross Description:
+Specimen #1 is received fresh labeled left breast mastectomy suture marks short superior and long lateral and consists of a 719
+gram, 19 x 17 x 4 cm left total mastectomy specimen with two attached sutures, the short designating superior and the long
+designating lateral. There is a 13 x 4.5 cm elliptical portion of white skin on the anterior aspect displaying a 1 x 1 x 0.3 cm everted
+nipple. No skin lesions are appreciated. The posterior margin is intact. The specimen is inked as follows:
+Superior-anterior-
+Inferior-anterior-
+Posterior-
+blue
+green
+black.
+The specimen is serially sectioned to reveal two indurated foci within the fibrous tissue, one located retroareolar located
+approximately 3 cm deep to the nipple. The retroareolar nodule measures approximately 0.6 x 0.6 x 0.4 cm and is 2 cm from the
+anterior margin and 6.5 cm from the deep margin. Approximately 3 cm lateral to the aforementioned nodule is an additional 0.5 x
+0.4 x 0.4 cm ill-defined tan rubbery to indurated nodule located at the junction of the lower outer and upper outer quadrant, 3 cm
+from the deep margin and 4.5 cm from the nearest anterior inferior margin. The remaining cut surface consists of approximately
+75% yellow lobulated adipose tissue and 25% scattered white rubbery micronodular fibrous tissue. Representative sections are
+submitted as follows:
+1A-1B: retroareolar indurated nodule (no margins)
+closest anterior and posterior margins to retroareolar nodule
+1C:
+1D:
+skin overlying retroareolar nodule
+1E:
+nipple
+1F-1G:
+lateral nodule (no margins)
+1H:
+posterior and nearest anterior margin to lateral nodule
+11:
+upper outer quadrant
+1J:
+upper inner quadrant
+1K:
+lower outer quadrant
+1L:
+lower outer quadrant.
+Please note all representative quadrant sections contain no margins.
+Time in formalin:
+submitted same day.
+Specimen #2 is received fresh labeled right breast mastectomy suture marks short superior long lateral and consists of an 833
+gram, 23 x 18 x 4 cm right total mastectomy specimen with two attached sutures, short designating superior and the long
+designating lateral. There is an 11.5 x 4.2 cm white elliptical portion of skin on the anterior aspect, which displays a 1 x 1 x 0.5 cm
+everted nipple. There is a 0.5 x 0.3 x 0.2 cm raised tan-white nodule located on the skin at 4 o'clock, 0.8 cm from the 4 o'clock
+margin. The posterior margin is intact. The specimen is inked as follows:
+Superior-anterior-
+Inferior-anterior-
+Posterior-
+blue
+green
+black.
+The specimen is serially sectioned to reveal a 3 x 2.8 x 2.0 cm ill-defined markedly indurated tan-white irregular mass located
+predominantly in the upper inner quadrant and extending retroareolar. The mass is located 4 cm from the distal margin and 2.2 cm
+from the overlying skin. The specimen is radiographed and two clips are identified located in contiguous slices. Palpably the two
+clips are present within the same mass. The mass is located within 1.1 cm of the nearest anterior margin. The remaining breast
+parenchyma consists of approximately 75% yellow lobulated adipose tissue and 25% scattered white rubbery nodular fibrous
+tissue. No additional masses are identified. Representative sections are submitted as follows:
+2A-2D: representative sections of mass, one section per contiguous slices to include both areas surrounding clips
+2E: representative deep margin and mass
+2F-2G: mass to nearest anterior margin
+2H:
+nipple and skin nodule to closest margin (green 4 o'clock margin)
+21:
+upper outer quadrant
+2J:
+lower outer quadrant
+Page 2 of 3
+2K:
+lower inner quadrant
+2L:
+upper inner quadrant.
+Surgical Pathology Report
+Time in formalin:
+submitted same day.
+Specimen #3 is received in formalin labeled right axillary content and consists of a 10 x 7 x 3 cm aggregate of fat in which multiple
+lymph nodes are identified ranging from 0.1 cm to 2.3 cm in greatest dimension. Some of the larger lymph nodes are sectioned to
+reveal white and focally firm cut surfaces possibly consistent with tumor. The lymph nodes are submitted in its entirety with the
+exception of the largest grossly polypoid lymph node as follows:
+3A: five lymph nodes
+3C-3G: each cassette contains one lymph node bisected
+3B:
+six lymph nodes
+3H-3J:
+one lymph node trisected
+3K:
+3L:
+one lymph node bisected.
+representative section of largest grossly positive lymph node
+END OF REPORT
+Criteria
+Diagnosis Discrepancy
+w 9/30/13
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Net
+Case is (circie):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed 9/23/2013
+T
+Page 3 of 3

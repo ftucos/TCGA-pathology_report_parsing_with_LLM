@@ -1,0 +1,27 @@
+1CA0.3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Path Site, breast, UOQ C50.4
+1/25/4
+W
+CQCF Site: breast, NOS C50.9
+Diagnosis:
+Poorly differentiated invasive ductal carcinoma (tumor diameter: 2.8 cm).
+Concluding tumor classification: NOS, G III, pT2N1aL0V0R0.
+(compare E. no. xxxx)
+===
+Redacted
+UUID:B687939C-63AF-4852-B494-AA09A9C03871
+TCGA-A8-A06R-01A-
+PR
+Criteria
+Diagnosi: Discrepancy
+Pery Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Cast is (circle):
+Reviewer Initial
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED

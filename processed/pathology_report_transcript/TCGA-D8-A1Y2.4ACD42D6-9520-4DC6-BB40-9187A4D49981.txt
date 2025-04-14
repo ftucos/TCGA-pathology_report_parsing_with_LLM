@@ -1,0 +1,70 @@
+Department of Cancer Pathology
+Date:
+Internal invoice No.
+Examination: Histopathological examination (cito)
+Patient: XXX
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+1CD-0-3
+page 1 / 2
+Examination No.:
+Material: Multiple organ resection – right breast with axillary tissues
+Unit in charge: :
+Physician in charge:
+Material collected on:
+Material received on:
+carcinoma, infiltrating duct, NOS 8500/3
+Site: breast, NOS
+050-9 for 4/12/11
+Expected time of examination: 5 working days
+Clinical diagnosis:
+Examination performed on:
+Macroscopic description:
+Right breast, sized 24.8 x 19.3 x 5.2 cm, removed with axillary tissues sized 8.0 x 7.5 x 3.0 cm and a skin flap of 28.6 x 14.6 cm.
+Tumour sized 2.2 x 1.7 x 2.4 found in the lower outer quadrant, located 5.2 cm from the lower boundary, 1.7 cm from the base
+and 0 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum NHG3 (3+3+2: 10 mitoses/10 HPF - visual area 0.55 mm).
+Mamillae sine laesionibus.
+Glandular tissue showing parenchymal atrophy.
+Axillary lymph nodes:
+Lymphonodulitis chronica (No VII).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast.
+(NHG3, pT2, pNO).
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in less than 10% of neoplastic cell
+nuclei. HER2 protein stained with Ventana's Pathway HER-2/neu (4B5) rabbit antibody. Score=2+, FISH verification
+recommended.
+UUID:4ACD42D6-9520-4DC6-BB40-9187A4D49981
+TCGA-D8-A1Y2-01A-PR
+Redacted
+Criteria
+Diagnosis D.screpancy
+Primary Tumor Sit: Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synch: onous Primary noted
+Cases (cicle):
+Reviewer
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+top 4/12/11
+Examination: Histopathological examination (cito)
+Page 2 / 2
+Examination No.:
+Patient: XXX
+PESEL: XXX
+Gender: F
+Examination performed on:
+Result of immunohistochemical examination:
+RESULT OF HER2/neu GENE AMPLIFICATION with the FISH method by Path Vysion HER2 DNA Probe Kit
+FINAL RESULT:
+HER-2 GENE AMPLIFICATION NOT FOUND
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT

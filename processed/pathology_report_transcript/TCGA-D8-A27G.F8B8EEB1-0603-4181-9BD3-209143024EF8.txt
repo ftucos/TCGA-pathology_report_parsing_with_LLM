@@ -1,0 +1,56 @@
+ICD-0-3
+Carcinoma, infiltrating lobular, NOS 8520/3
+UUID:F8B8EEB1-0603-4181-9BD3-209143024EF8
+TCGA-D8-A27G-01A-PR
+Site: breast, Nos C50.9
+Redacted
+for 5/19/11
+Pathology
+copy No.
+5
+Date:
+Examination: Histopathological examination
+Internal invoice No.
+Patient: XXX
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Material: Multiple organ resection – left breast with axillary tissues
+Gender: F
+Unit in charge:
+Physician in charge:
+Material collected on
+Material received on:
+Expected time of examination: up to 8 working days
+page 1 / 1
+Examination No.:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual,Synchronous Primary noted
+Case is (circle):
+Reweria
+Yes
+No
+QUALIFIED
+Date Beviewed
+DISQUALIFIED
+Clinical diagnosis: Cancer of the left breast
+Examination performed on:
+Macroscopic description:
+Left breast sized 20 x 16 x 4 cm, removed along with axillary tissues sized 23 x 8 x 3 cm and a skin flap of 16 x 10.5 cm. Tumour
+sized 2. x 2 x 2 cm found in the lower outer quadrant, located 2.5 cm from the lower boundary, 0.2 cm from the base and 2 cm
+from the skin. Lymph nodes 2 cm in length.
+Microscopic description:
+Carcinoma lobulare invasivum NHG2 (3 + 2 +1/10 mitoses/10 HPF, visual area diameter 0.55 mm).
+Lesions of the type hyperplasia lobularis atypica (ALH).
+Glandular tissue showing lesions of the type mastopathia fibrosa et custica, hyperplasia ductalis simplex (UDH)
+papilloma intraductal.
+Axillary lymph nodes
+Sinus histiocytosis et lipomatosis lymphonodorum (No XXXI).
+Histopathological diagnosis:
+Carcinoma lobulare invasivum mammae sinistra. Invasive lobular carcinoma of the left breast.
+(NHG2, pT2, PNO).
+Compliance validated by:

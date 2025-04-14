@@ -1,0 +1,291 @@
+UUID:7726F7AA-88A8-4DD6-B322-6FC68893E0D2
+TCGA-Z7-A8R5-01A-PR
+Redacted
+Addendum #1
+*ADDENDUM*
+Entered:
+BREAST CANCER PROGNOSTIC MARKERS
+Specimen:
+Paraffin block 4E
+Procedures:
+Paraffin Section Immunohistochemistry and DNA Flow Cytometry
+ASSAYS:
+RESULTS:
+FAVORABLE
+RANGES:
+Estrogen Receptors
+3+)
+Progesterone Receptors
+3+)
+1.0
+less)
+Ploidy/DNA Index (DI)
+ANEUPLOID, DI=1.6
+S-Phase Fraction (%)
+POSITIVE, 3+
+Positive (1
+-
+POSITIVE, TRACE TO 1+
+Positive (1 -
+Diploid, DI =
+NOT REPORTED
+Low (3% or
+DUE TO EXCESSIVE BACKGROUND
+Ki-67 (Proliferation marker)
+less)
+INTERMEDIATE, 16%
+Low (15% or
+HER-2/neu (c-erb B2)
+NEGATIVE (0)
+Negative (0 -
+1+)
+NEGATIVE, 0
+p53
+Negative
+These immunoperoxidase tests were developed and their performance characteristics
+determined by XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. Although not cleared or approved
+by
+or
+the U.S.Food and Drug Administration, the FDA has determined that such clearance
+approval is not necessary. These tests are used for clinical purposes and should
+not be
+regarded as investigational or for research. This laboratory is certified under
+the
+Clinical Laboratory Improvement Amendments of 1988 (CLIA) as qualified to perform
+high
+complexity clinical laboratory testing.
+Addendum signed signature on file
+ICD.0.3
+Carcem ma intrating lobular NOS
+Site: Breast Nos
+852013
+Page 1
+050.9
+JJ 5/30/14
+GROSS DESCRIPTION
+1. Labeled "blue node left axilla #1": The specimen consists of multiple possible
+lymph
+nodes ranging from 0.1 to 1.3 cm in greatest dimension. The lymph nodes are
+submitted
+entirely as follows:
+possible lymph
+1A
+-
+one possible lymph node bisected, 1B
+-
+remaining
+nodes. Keratin ordered on both blocks.
+2.
+Labeled "second blue node left axilla #2": The specimen consists of multiple
+possible
+lymph nodes ranging from 0.2 to 1.2 cm in greatest dimension. The lymph nodes are
+submitted entirely as follows: 2A - one possible lymph node bisected, 2B
+remaining
+possible lymph nodes.
+Keratin ordered on both blocks.
+3. Labeled "suspicious node left axilla": The specimen consists of a 2.0 x 1.3 x
+0.2 cm
+pink firm possible lymph node. The lymph node is bisected and submitted entirely
+in 3A.
+to
+4. Labeled "segment left breast, long stitch - anterolateral, short stitch -
+anteromedial": The specimen consists of a 6.7 (medial to lateral) x 4.3 (anterior
+posterior) x 2.1 cm portion of tan yellow to gray white fibrofatty breast tissue.
+specimen is inked as follows: superior blue, inferior - green, posterior -
+The
+-
+-
+black,
+anterior red. Sectioning reveals a 4.0 x 2.8 x 2.0 cm gray white focally
+hemorrhagic ill
+defined mass which extends up to the superior, posterior and inferior margins. The
+distance to the remaining margins is greater than 1.0 cm. The remaining cut
+surface
+features a large amount of fibrocystic change. A portion of the mass and normal
+tissue is
+submitted to XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX for research (IRB#
+XXXXXXXXXXXXX).
+Representative sections are submitted from lateral to medial in 4A-J with en face
+margins
+in 4A and 4J. The mass is in 4C-H.
+5. Labeled "additional segment left breast":
+x 3.2
+The specimen consists of a 6.1 x 3.9
+cm portion of tan yellow to gray white fibrofatty breast tissue. One aspect of the
+tissue
+is hemorrhagic and ragged while the opposing surface is smooth. The specimen is
+inked as
+follows: ragged surface
+multiple gray
+-
+blue, smooth surface
+-
+black. Sectioning reveals
+white gritty focally cystic suspicious areas which exude a yellow grummous
+material. The
+suspicious areas appear throughout the tissue and extend up to both margins. The
+majority
+of tissue to include closest margins are submitted in 5A-G.
+6. Labeled "inferior margin left breast": The specimen consists of a 1.2 x 0.8 x
+0.2 cm
+portion of tan yellow to gray white fibrofatty breast tissue. Submitted in toto in
+6A.
+7.
+Labeled "superior margin left breast": The specimen consists of a 1.2 x 0.6 x
+Page 2
+0.2 cm
+portion of tan yellow to gray white fibrofatty breast tissue. Submitted in toto in
+7A.
+8. Labeled "medial margin, left breast": The specimen consists of a 1.2 x 0.8 x
+0.1 cm
+portion of tan yellow to gray white fibrofatty breast tissue. Submitted in toto in
+8A.
+9.
+Labeled "lateral margin, left breast": The specimen consists of a 1.3 x 0.5 x
+portion of tan yellow to gray white fibrofatty breast tissue. Submitted in toto in
+0.3 cm
+9A.
+10. Labeled "anterior margin, left breast": The specimen consists of a 1.1 × 0.5 x
+0.1 cm
+portion of tan yellow to gray white fibrofatty breast tissue. Submitted in toto
+10A.
+ст
+11. Labeled "deep margin, left breast": The specimen consists of a 1.6 x 0.6 x 0.1
+portion of tan yellow to gray white fibrofatty breast tissue.
+11A.
+Microscopic H&E stained sections are prepared and interpreted.
+Submitted in toto in
+IMMUNOCYTOCHEMISTRY RESULTS
+Block 1A, at 2 levels:
+Keratin: Positive.
+Block 1B, at 2 levels:
+Keratin: Positive in one node.
+Block 2A, at 2 levels:
+Keratin: Positive.
+Block 5B:
+E-cadherin:
+in situ
+Negative in infiltrating carcinoma and in most of ducts involved by
+carcinoma, consistent with lobular carcinoma.
+1.
+2.
+3.
+DIAGNOSIS
+SENTINEL LYMPH NODES, LEFT AXILLA:
+METASTATIC CARCINOMA IN TWO OF THREE LYMPH NODES (2/3).
+METASTATIC DEPOSIT MEASURES 0.3 CM; NO EXTRACAPSULAR INVASION IDENTIFIED.
+IMMUNOHISTOCHEMICAL STAINS ARE CONFIRMATORY.
+SENTINEL LYMPH NODES #2, LEFT AXILLA:
+METASTATIC CARCINOMA IN ONE OF ONE NODE (1/1).
+METASTATIC DEPOSIT MEASURES 1.0 CM; NO EXTRACAPSULAR INVASION IDENTIFIED.
+IMMUNOHISTOCHEMICAL STAINS ARE CONFIRMATORY.
+LYMPH NODE, LEFT AXILLA, SUSPICIOUS:
+ONE NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+Page 3
+4.
+BENIGN CAPSULAR AND TRABECULAR NEVUS.
+BREAST, LEFT, SEGMENTECTOMY:
+SUPERIOR,
+5.
+INFILTRATING LOBULAR CARCINOMA, CLASSIC PATTERN.
+TUMOR MEASURES APPROXIMATELY 5 CM IN GREATEST DIMENSION AND EXTENDS TO
+LATERAL, INFERIOR AND POSTERIOR SPECIMEN EDGES.
+LYMPHOVASCULAR INVASION IDENTIFIED.
+PLEASE SEE BREAST CANCER PROGNOSTIC SUMMARY BELOW.
+BREAST, LEFT ADDITIONAL SEGMENT, SEGMENTECTOMY:
+(INCLUDING
+INFILTRATING LOBULAR CARCINOMA INVOLVING MULTIPLE SPECIMEN EDGES
+APPARENT OLD AND APPARENT NEW SPECIMEN EDGES).
+CARCINOMA EXTENDS THROUGH BULK OF THE TISSUE SEGMENT, MEASURING
+APPROXIMATELY 5.0
+SPREAD OF
+CM IN GREATEST DIMENSION.
+IN SITU CARCINOMA WITH DUCTAL INVOLVEMENT CONSISTENT WITH ANTEGRADE
+LOBULAR CARCINOMA IN SITU.
+LYMPHOVASCULAR INVASION IDENTIFIED.
+ADDITIONAL FINDINGS: PROLIFERATIVE BREAST DISEASE WITH
+MICROCALCIFICATIONS.
+6.
+7.
+8.
+9.
+10.
+11.
+SITE:
+BREAST, LEFT, INFERIOR MARGIN, BIOPSY:
+INFILTRATING LOBULAR CARCINOMA MEASURING 0.5 CM.
+SMALL FIBROADENOMA.
+BREAST, LEFT, SUPERIOR MARGIN, BIOPSY:
+INFILTRATING LOBULAR CARCINOMA, MEASURING 0.25 CM.
+BREAST, LEFT, MEDIAL MARGIN, BIOPSY:
+BENIGN BREAST TISSUE.
+NEGATIVE FOR MALIGNANCY.
+BREAST, LEFT, LATERAL MARGIN,
+BIOPSY:
+INFILTRATING LOBULAR CARCINOMA, MEASURING APPROXIMATELY 1.2 CM.
+LOBULAR CARCINOMA IN SITU WITH EXTENSIVE DUCTAL INVOLVEMENT.
+BREAST, LEFT, ANTERIOR MARGIN, BIOPSY:
+BENIGN BREAST TISSUE.
+NEGATIVE FOR MALIGNANCY.
+BREAST, LEFT, DEEP MARGIN, BIOPSY:
+BENIGN FATTY BREAST TISSUE.
+NEGATIVE FOR MALIGNANCY.
+TUMOR SIZE:
+TUMOR TYPE:
+HISTOLOGIC GRADE:
+MODIFIED BLOOM-
+RICHARDSON SCORE:
+ACTIVITY 1)
+IN SITU CARCINOMA:
+TYPE:
+EXTENSIVE IN SITU
+CARCINOMA:
+MARGINS OF RESECTION:
+INITIAL
+BREAST CANCER PROGNOSTIC SUMMARY
+LEFT BREAST
+6.5 CM (ESTIMATED FROM SPECIMENS 4 AND 5)
+INFILTRATING LOBULAR CARCINOMA
+WELL DIFFERENTIATED
+5/9 (DUCT FORMATION 3, NUCLEAR GRADE 1, MITOTIC
+PRESENT
+LOBULAR, WITH ANTEGRADE DUCTAL INVOLVEMENT
+NOT IDENTIFIED
+POSITIVE: CARCINOMA INVOLVES MULTIPLE MARGINS OF THE
+SEGMENT, MULTIPLE MARGINS OF THE ADDITIONAL SEGMENT,
+Page 4
+AND THE
+LATERAL
+NIPPLE/SKIN INVOLVEMENT:
+LYMPHOVASCULAR INVASION:
+LYMPH NODES:
+# POSITIVE/TOTAL COUNT:
+SENTINEL NODE:
+TNM PATHOLOGIC STAGE:
+MOLECULAR STUDIES:
+BIOPSIES OF INFERIOR MARGIN, SUPERIOR MARGIN AND
+MARGIN.
+NOT APPLICABLE
+PRESENT
+POSITIVE
+3 OUT OF 5
+3 OUT OF 4 SENTINEL NODES
+PT3 N1a MX
+PARAFFIN BLOCK 4E
+Signed Electronically signed by:
+** END OF REPORT **
+Page 5
+Criteria
+Diagnosis Discrepancy
+W 11/25/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 11/21/13

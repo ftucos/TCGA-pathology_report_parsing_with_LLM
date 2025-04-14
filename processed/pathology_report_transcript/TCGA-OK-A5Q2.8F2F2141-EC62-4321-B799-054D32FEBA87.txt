@@ -1,0 +1,90 @@
+UUID:8F2F2141-EC62-4321-B799-054D32FEBA87
+TCGA-OK-A502-01A-PR
+Redacted
+✓
+path Carcinoma, lobular infiltrating
+and 
+ductal in-site 852213
+CGCF Carcinoma, Sobular inistrating,
+CACE
+852013
+Site Beast NOS C50.9
+path ® Breast, upper-octer guadiant
+Infiltrating Lobular Carcinoma
+CATEGORY:
+BREAST INVASIVE CARCINOMA-INFILTRATING LOBULAR
+CARCINOMA
+050.4
+905412/13
+FROM PRIMARY BREAST SURGERY
+CLINICAL HX - Invasive lobular carcinoma.
+RIGHT BREAST, MASTECTOMY - Invasive lobular carcinoma, focally pleomorphic type,
+3.0cm in greatest microscopic dimension, associated with extensive duct carcinoma in-situ
+(DCIS), intermediate nuclear grade, solid type with comedo necrosis. [Nottingham histologic
+grading system utilized- SBR score 7; architectural grade 3, nuclear grade 2, mitotic grade 2]. No
+lymphatic invasion is identified. Deep margin negative for tumor. Vessel wall calcifications.
+Intraductal papilloma, radial scar and fibrocystic changes including sclerosing adenosis. Skin and
+nipple, unremarkable. Prior biopsy site changes.
+RIGHT AXILLARY CONTENTS, EXCISION - Metastatic carcinoma present in two of the
+thirteen lymph nodes (2/13). Largest metastatic focus measures 4mm in greatest microscopic
+dimension. No extranodal extension is identified.
+Comment: AJCC pathologic stage pT2N1aMx.
+Synoptic summary will follow as an addendum.
+ADDENDUM 1:
+RIGHT BREAST, MASTECTOMY - Immunohistochemical stain for HER-2-NEU oncoprotein
+is negative (performed on formalin-fixed paraffin embedded sections by manual semiquantitative
+morphometric analysis with appropriate positive and negative controls). No membranous staining
+is seen. The HER-2-NEU procedure was performed using monoclonal antibody 4B5 and DAB
+detection system. (Staining interpretation: Weak = 1+; Moderate = 2+; Strong = 3+.)
+NOTE. This evaluation was performed according to ASCO/CAP guidelines: Positive HER2/neu
+cases are those with strong and complete membrane staining (3+) in greater than 30% of invasive
+cancer cells. Negative cases are defined as those with no staining (0) or weak, incomplete
+membrane staining (1+) in any proportion of cells. Equivocal cases are those cases with strong
+staining in less than or equal to 30% of cells, or less than strong but complete membrane staining
+(2+) in at least 10% of cells. Immunohistochemical stains were performed on formalin-fixed
+paraffin embedded tissue with appropriate positive and negative controls.
+ADDENDUM 2.
+Specimen Type - Mastectomy. Lymph node Sampling - Axillary dissection. Specimen Size -
+Greatest dimension 3cm. Histologic Type - Invasive lobular. Grading System - Nottingham.
+Tubule Formation - Minimal less than 10% (score = 3). Nuclear Pleomorphism - Moderate
+increase in size, etc (score = 2). Mitotic Count - 40X objective field with a field area of 0.152
+mm2: 6 to 10 mitoses per 10 HPF (score = 2). Total Nottingham Score - Grade II: 6-7 points.
+Margins uninvolved by invasive carcinoma. Distance from closest margin: 5mm. Deep Primary
+Tumor [pT]: pT2 - Tumor greater than or equal to 2.0-5.0cm. Regional Nodes [pN]: pN1a:
+Metastasis in 1 to 3 axillary lymph nodes (at least 1 tumor deposit greater than 2.0mm). Number
+involved: 2. Number examined: 13. Distant Metastasis [pM]: pMX - cannot be assessed.
+FROM DIAGNOSIS
+CLINICAL HX - Right irregular mass, Right ax tail lymph node. RIGHT BREAST, 10:00
+MASS, CORE BIOPSY - Invasive, lobular carcinoma with focal duct carcinoma in situ, solid
+type, low nuclear grade. Intraductal papilloma involved by lobular carcinoma in-situ. RIGHT
+AXILLA, LYMPH NODE, CORE BIOPSY - Lymph node with metastatic carcinoma
+histologically identical to breast carcinoma. COMMENT. Prognostic/predictive markers are
+being performed and results will follow as an addendum. ADDENDUM: Results of
+immunoperoxidase steroid receptor protein determination on paraffin sections, visually evaluated
+using DAB detection system and monoclonal antibodies (manual semiquantitative morphometric
+/ 1/28/13
+Criteris
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepamy
+Prior Malignancy History
+Duel/Synchronous Primary Noted
+Case is (circle):
+Reviewer k:itials
+QUALIFIED
+Date Heviewed:
+Yes
+No
+4
+DISQUALIFIED
++3
+7
+analysis): ESTROGEN RECEPTOR PROTEIN (ER- clone SP1): POSITIVE; PROGESTERONE
+RECEPTOR PROTEIN (PR- clone 1E2): POSITIVE. Estimated percentage of nuclei staining
+positive (ER): 100; Estimated percentage of nuclei staining positive (PR): 25. Intensity of
+staining, ER: 3+ (strong). Intensity of staining, PR: 3+ (strong). Immunohistochemical stain for
+HER-2-NEU oncoprotein is NEGATIVE (performed on formalin-fixed paraffin embedded
+sections by manual semiquanitative morphometric analysis). No membranous staining is seen.
+The HER-2-NEU procedure was performed using monoclonal antibody 4B5 and DAB detection
+system.
+8

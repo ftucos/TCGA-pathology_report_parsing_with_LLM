@@ -1,0 +1,47 @@
+Age:
+Sex: Female
+Tissue Source Site (TSS):
+Date of Tumour Procurement:
+UUID:8C97B391-9684-468D-AAA3-24E196DE03CA
+TCGA-PL-A8LY-01A-PR
+Redacted
+ICD.0.3
+Carcinoma wiltrating duct 13
+Site ® Breast NOS
+Nas
+650.9
+At 5/19/14
+1. GROSS ASSESSMENT: Cut section showed a variegated tumour measuring
+3.4x2.5x1.5cm
+2. MICROSCOPIC ASSESSMENT
+Microscopic description: Section shows a malignant tumour in cords, solid nests and
+tubular patterns. It is composed of large cells having moderately pleomorphic
+hyperchromatic nuclei and amphophilic cytoplasm. The stroma is demoplastic containing
+similar tumour cells and aggregates of lymphocytes. Focal areas of necrosis noted.
+3. Tumour Type: Malignant
+4. Tumour Site: Right Breast
+5. Distance of invasive carcinoma to closest margin: -5mm
+.
+Which margin? Deep resection
+TSS Unique patient ID:
+6. HISTOLOGICAL DIAGNOSIS: Invasive Ductal Carcinoma
+7. COMMENTS:
+Dr
+Reporting Pathologist Name
+Signature
+Date
+Criteria
+- 11/14/13
+Diagnosis fuiscrepancy
+Primary Temur Site Discrepancy
+HIT AA Dicy
+-in: Mange History
+Dun/Synchronous Primary cred
+Case is (circle;
+Paviewer initials
+QUALED
+Yes
+No
+DISQUALIFIE
+Gate Reviewed 11213
+4

@@ -1,0 +1,37 @@
+ICD-0-3
+12/81/10 w
+Carcinoma, Infiltrating duct, Nos 8500/3
+Site Code: breast, Nos
+050.9
+B1961 Final Diagnosis
+Breast, left, wide local excision: Infiltrating ductal carcinoma with mucinous features,
+Nottingham grade III (of III), forming a mass (1.9 x 1.0 x 0.9 cm) [AJCC pT1c]. Ductal
+carcinoma in situ, high nuclear grade, comprises approximately 5-25% of the tumor volume and
+extends beyond the main mass. Angiolymphatic invasion is absent. The non-neoplastic breast
+parenchyma shows proliferative fibrocystic changes. The medial margin, after multiple (3)
+separately submitted re-excisions, is positive for ductal carcinoma in situ.
+Breast, left, simple mastectomy: Microscopic residual ductal carcinoma in situ is identified in the
+region of the prior biopsy site in the upper inner quadrant. No residual invasive neoplasm
+identified. The skin, nipple, and deep surgical margin are free of neoplasm.
+Sentinel lymph node, left axillary, sentinel biopsy: A single left axillary sentinel lymph node
+with blue dye is negative for metastatic carcinoma [AJCC pN0 (i-) (sn)]. Immunohistochemical
+cytokeratin stain was performed on the paraffin embedded sentinel lymph node tissue and
+confirms the H&E impression.
+Her-2/NEU has been ordered on paraffin-embedded tissue.
+UUID:0BFF09DE-6F36-4F68-AC13-8BC16AA0DCBE
+TCGA-AR-A1AP-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary ted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+tw

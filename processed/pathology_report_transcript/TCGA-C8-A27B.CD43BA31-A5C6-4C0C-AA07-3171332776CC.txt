@@ -1,0 +1,359 @@
+UUID:CD43BA31-A5C6-4C0C-AA07-3171332776CC
+TCGA-C8-A27B-01A-PR
+Redacted
+IRR ADENOVED
+Form F
+ICD-0-3
+Carcinoma, infiltrating
+duct, Nos
+8500/3
+Site 2 breast, Nos €50.9
+اسر
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+5/26/11
+Informed Consent
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Pri. Malignancy History
+Dual/Synchronous Frimary Nored
+Case is (circle):
+Rew Initial
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+5/26/4 3/5/11
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+ހ
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+Date
+Date of Birth (mm/dd/yyyy)
+Height
+GENERAL INFORMATION
+Marital Status
+Race
+Temperature
+Gender
+Weight
+☐ Single ☑ Married
+□ Divorced ☐ Widow
+Blood Pressure
+Heart Rate
+□ Male
+☑Female
+13/7
+Chief Complaints: livnip
+Symptoms:
+HISTORY OF PRESENT ILLNESS
+livnip in the left breasting; painfier
+Clinical Findings: A tumour was found in the lift breast
+Performance Scale (Karnofsky Score):
+☐ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory
+860-70 Symptomatic, in bed less than 50% of day
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+☐ 20-30 Bed Ridden
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+To
+To
+To
+1
+Το
+To
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Diagnosis Date
+Treatment
+Status
+OB/GYN HISTORY
+Menopausal Status
+Pre-menopausal
+Peri-Menopausal
+Date of First Menses
+years old
+Date of Last Menses
+Post-menopausal
+Birth Control: ☐ Condom
+☐ Oral Contraceptive ☐ IUD
+□ Other:
+# of Pregnancies
+02
+# of Live Births
+02
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Current Status
+TYPE
+Environmental Hazards:
+Smoking History
+Packs/day
+Duration
+When Quit
+□ YES
+✓ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+□ YES ☑NO
+TYPE
+Drinks/day
+Duration
+When Quit
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES
+NO
+(yrs)
+(yr)
+Relative
+Test
+HIV
+Hep B
+Result
+☐ Negative ☐ Positive:
+☑Negative ☐ Positive:
+Hep C
+Negative ☐ Positive:
+AFP
+☐ Negative ☐ Positive:
+Other:
+☐ Negative Positive:
+B/T Cell Markers:
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Date
+2
+Test
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:_
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy
+DIAGNOSTIC STUDIES
+Results
+Date
+AdenocarcinomaR
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+L. BREAST CANCER
+Location of Suspected Involved Lymph Nodes
+Location of Suspected Distant Metastasis
+Clinical Staging
+Date of Diagnosis
+T3 Na M
+Stage: II B
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Modified Radical Mastectomy
+Organ
+Breast TuniOR
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+Date of Procedure
+Primary Tumor
+Detailed Location
+Teft
+Size
+6x5 x 3 cm
+Extension of Tumor
+Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Distant Metastasis
+Detailed Location
+Surgical Staging
+T3 No Mo
+Stage: B
+Size
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+3
+To
+To
+To
+To
+To
+Collected by:
+Preserved by:
+Pathology Form
+Specimen Information
+J
+Date
+Date
+SPECIMEN TYPE (# of samples provided)
+1_Time: _______
+_ Time: _
+Frozen
+Diseased
+Normal
+Diseased
+4
+2
+4
+Paraffin Block
+Normal
+2
+Blood/Serum/Plasma
+Diseased
+Normal
+Diseased
+4
+'Time to LN2
+12
+min
+Time to Formalin
+13
+Time to LN2
+min
+min
+-
+Slide
+Normal
+2
+Organ
+PATHOLOGICAL DESCRIPTION
+Breast Tunion (left
+Location
+Primary Tumor
+Size
+Extension of Tumor
+Distance to NAT
+5
+cm
+6 x5 x 3 cm kepper criter gradrant
+Lymph Nodes
+# Examined
+# Metastasized
+Organ
+Distant Metastasis
+Detailed Location
+Size
+Pathological Staging
+PT 3
+No
+Notes:
+Mi(-) Mal-)
+Mo
+Stage: IB
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+Diffuse
+Mosaic
+Necrosis
+CELL DISTRIBUTION
++
+STRUCTURAL PATTERN
++
+✓ Streaming
+Storiform
+Fibrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+2. Cellular features:
+Indian File
+Squamous
+Squamoid Cell
+Spindle Cell
+Keratin
+Desmosome
+Pearl
+Otherwise Specified:
++
+-
+Adenomatous
+Glandular cell
++
+Cell Stratification
+Secretion
+Intracyt. Vacuole
+Gland formation
+Palisading
+✓ Cystic Degeneration
+✓ Bleeding
+☑ Myxoid Change
+✓ Psammoma/Calcification
+Sarcomatous
+Round Cell
+✓ Fibroblast
+✓ Osteoblast
+☑K Lipoblast
+☑ Myoblast
++
+-
+Lymphomatous
+Large Cell
+Small Cell
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+P, 75% 7275%, 1378% D4 75%
+2. Cellular Differentiation:
+3. Nuclear Atypia:
+Aniso Nucleosis
+Well
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Moderately
+Nuclear Appearance
+Nuclear Grade
+Poor
++
+NER $9
+Histological Diagnosis: Infilted by Detal Canine, UTS, C.
+Comments: M,M, . Chronic Lymphedevitos, Rejected
+Director, Research Pathology
+Date
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).

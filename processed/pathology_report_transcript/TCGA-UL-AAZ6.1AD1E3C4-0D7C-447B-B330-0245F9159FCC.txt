@@ -1,0 +1,136 @@
+SPECIMEN(S) RECEIVED
+A: RIGHT TOTAL MASTECTOMY
+B: SENTINEL LYMPH NODE #1 HOT
+C: SENTINEL LYMPH NODE #2 HOT
+D: SENTINEL LYMPH NODE #3 HOT
+UUID:1AD1E3C4-0D7C-447B-B330-0245F9159FCC
+TCGA-UL-AAZ6-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Date Reported:
+FINAL DIAGNOSIS
+A. RIGHT TOTAL MASTECTOMY:
+SYNOPTIC REPORT
+MICROSCOPIC:
+HISTOLOGIC TYPE: INVASIVE DUCTAL CARCINOMA
+SIZE OF INVASIVE COMPONENT: 3.4 x 3.0 x 2.5 cm
+TUMOR FOCALITY:
+SINGLE FOCUS OF INVASION
+MACRO/MICRO EXTENT OF INVASIVE TUMOR
+SKIN
+NIPPLE
+TUMOR DOES NOT INVADE DERMIS/ EPIDERMIS
+DCIS DOES NOT INVOLVE THE NIPPLE EPIDERMIS
+SKELETAL MUSCLE
+CICE
+ICD.0.3
+850013
+Carcinoma, infiltracting dent NDS.
+Carcinoma, infiltrating duct w/mixed.
+types 852493
+COLE
+Site: Breast Nos c.50.9
+SKELETAL MUSCLE IS PRESENT AND IS FREE OF CARCINOMA
+DUCTAL CARCINOMA-IN-SITU (DCIS):
+DCIS IS PRESENT
+EXTENSIVE INTRADUCTAL COMPONENT (EIC) NEGATIVE
+LOBULAR CARCINOMA-IN-SITU (LCIS):
+NOT IDENTIFIED
+HISTOLOGIC MODIFIED SCARFF-BLOOM-RICHARDSON GRADE: 2/3
+MARGINS
+MARGINS UNINVOLVED BY INVASIVE CARCINOMA
+DISTANCE FROM CLOSEST MARGIN: 2.0cm (DEEP)
+MARGINS UNINVOLVED BY DCIS
+Path
+® Breast, midlene 150.8
+DISTANCE FROM CLOSEST MARGIN: GREATER THAN 2.0cm (DEEP)
+JJ 4/30/14
+Page 1 of 3
+SURGICAL PATHOLOGY REPORT
+MICROCALCIFICATIONS:
+PRESENT IN DCIS
+TREATMENT EFFECT:
+RESPONSE TO NEOADJUVANT THERAPY
+IN THE BREAST:
+NO KNOWN PRESURGICAL THERAPY
+IN THE LYMPH NODES:
+NO KNOWN PRESURGICAL THERAPY
+VENOUS/LYMPHATIC INVASION:
+NOT IDENTIFIED
+SKIN/DERMAL LYMPHATIC INVASION:
+NOT IDENTIFIED
+LYMPH NODES:
+NUMBER OF SENTINEL LYMPH NODES EXAMINED: 3
+TOTAL NUMBER OF LYMPH NODES EXAMINED (SENTINEL AND NONSENTINEL): 4
+NUMBER OF LYMPH NODES WITH MACROMETASTASES (>0.2 CM): 0
+NUMBER OF LYMPH NODES WITH MICROMETASTASES (>0.2 MM TO 0.2 CM AND/OR >200 CELLS): 0
+NUMBER OF LYMPH NODES WITH ISOLATED TUMOR CELLS (≤0.2 MM AND ≤200 CELLS): 0
+SIZE OF LARGEST METASTATIC DEPOSIT (IF PRESENT): 0
+EXTRANODAL EXTENSION: N/A
+METHOD OF EVALUATION OF SENTINEL LYMPH NODES:
+H&E, MULTIPLE LEVELS
+NOTE: ER/PR/ HER-2/ MIB-1 RESULTS: SEE PRIOR REPORTI
+MACROSCOPIC
+SPECIMEN TYPE: TOTAL BREAST
+PROCEDURE: TOTAL MASTECTOMY
+LYMPH NODE SAMPLING: SENTINEL LYMPH NODES WITH PARTIAL AXILLARY DISSECTION.
+SPECIMEN INTEGRITY: SINGLE INTACT SPECIMEN
+SPECIMEN SIZE: 27 x 17 x 3.5 cm
+LATERALITY: RIGHT
+TUMOR SITE: 12 O'CLOCK POSITION
+AJCC PATHOLOGIC STAGE (AJCC 7TH ED.): (pT2, pN0).
+B. SENTINEL LYMPH NODE #1 HOT:
+ONE (1) REACTIVE LYMPH NODE.
+NO METASTATIC CARCINOMA IDENTIFIED.
+C. SENTINEL LYMPH NODE #2 HOT:
+ONE (1) REACTIVE LYMPH NODE.
+NO METASTATIC CARCINOMA IDENTIFIED.
+D. SENTINEL LYMPH NODE #3 HOT:
+ONE (1) REACTIVE LYMPH NODE.
+NO METASTATIC CARCINOMA IDENTIFIED.
+Page 2 of 3
+CLINICAL DIAGNOSIS AND HISTORY
+Right breast cancer
+See
+results
+right breast Ca
+SURGICAL PATHOLOGY REPORT
+***
+* Report Electronically Signed
+***
+GROSS DESCRIPTION
+The specimen is received fresh in four containers labeled with the patient's name, medical record number, and identified as A.
+"Right Total Mastectomy", B. "Sentinel Lymph Node #1 Hot", C. "Sentinel Lymph Node #2 Hot" and D. "Sentinel Lymph Node #3
+Hot".
+Specimen A consists of a mastectomy (811.1 grams, 27 x 17 x 3.5 cm) with a 22 x 9.5 cm skin ellipse and a centrally located
+unremarkable 1.2 cm nipple. The specimen has been oriented by the surgeon with a stitch indicating the tail of the specimen. The
+deep margin is inked black. The specimen is serially sectioned to reveal an irregular firm tan colored mass with focal hemorrhage
+and calcification (3.4 x 3 x 2.5 cm) in the 12:00 position, 2 cm to the deep margin, 1.2 cm to the anterior skin margin, and 2 cm to
+the nipple. The remaining breast parenchyma appears grossly unremarkable. One 0.7 cm lymph node is identified in the tail of the
+specimen. The specimen is submitted representatively as follows: A1 thru A3, tumor, A4-tumor and anterior skin, A5-anterior skin
+margin, A6-posterior deep margin, 7-nipple, A8 and A9-lateral upper quadrant, A10 and A11-lateral lower quadrant, A13-medial
+upper quadrant, A14 and A15-medial lower quadrant, 16-0.7 cm lymph nodes, bisected.
+Specimen B consists of a 2.2 cm sentinel lymph node. The lymph node is serially sectioned and submitted entirely in two cassettes
+labeled B1 and B2.
+Specimen C consists of a 2.5 cm sentinel lymph node. The lymph node is serially sectioned and submitted entirely in two cassettes
+labeled C1 and C2.
+Specimen D consists of a 1 cm sentinel lymph node with fibroadipose tissue. Lymph nodes are serially sectioned and submitted
+entirety in two cassettes labeled D1 and D2.
+Dictated by:
+Criteria
+w 3/17/14
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+QUALIFIED
+Dual/Synchronous Primacy Noted 1
+Case is (circle):
+Reviewer Initials
+DISQUALIFIED
+Date Reviewed 2/1414
+By the signature above, the senior pathologist certifies that s/he personally conducted the evaluation of the described specimen(s) and rendered
+the diagnosis(es) related thereto.
+Page 3 of 3

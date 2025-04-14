@@ -1,0 +1,297 @@
+Name:
+DOB:
+Age:
+Gender:
+F
+MRN:
+Location:
+Physician:
+UUID:8652E026-9C4D-4AB6-AADE-29DA3345892E
+TCGA-EW-A3U0-01A-PR
+Pathologic Interpretation:
+A. SPECIMEN LABELED SENTINEL NODE # 1 COUNT
+One lymph node, negative for carcinoma (0/1).
+Redacted
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+LEFT BREAST:
+LEFT BREAST:
+B. SPECIMEN LABELED SENTINEL NODE # 2 COUNT
+METASTATIC DUCTAL CARCINOMA in one lymph node (1/1), measuring 0.5 cm in linear dimension.
+C. SPECIMEN LABELED SENTINEL NODE #3 COUNT
+One lymph node, negative for carcinoma (0/1).
+) LEFT BREAST:
+D. SPECIMEN LABELED “NON-SENTINEL LYMPH NODE LEFT BREAST":
+One lymph node, negative for carcinoma (0/1).
+E. LEFT BREAST EXCISION:
+INVASIVE DUCTAL CARCINOMA, moderately differentiated, Nottingham grade 2 (3+2+1=6), 8.5 cm in
+greatest dimension, asociated with calcifications.
+Nerarest margins: Posterior, 1 mm (E2); medial, 3mm (E16); anterior, 5 mm (E4); lateral, inferior and
+superior, >5mm.
+Negative for lymphovascular invasion.
+DUCTAL CARCINOMA IN SITU, intermediate nuclear grade, solid and cribriform type, DIN II, associated
+with necrosis and calcifications, present is 8 out of 17 slides.
+Nearest margins: inferior <1mm (E7); medial 1mm (E12); posterior 2mm (E2); anterior 5mm, superior and
+lateral >5mm.
+Extensive intraductal component negative.
+Note: Immunohistochemistry stains on a prior specimen were:
+ER
+PR
+NEGATIVE (<1%)
+NEGATIVE (<1%)
+HER2
+NEGATIVE (0)
+F. SPECIMEN LABELED “ADDITIONAL ANTERIOR MARGIN, LEFT BREAST":
+Negative for carcinoma.
+Skin with no specific pathologic changes.
+ICD0-3
+Carcinoma, ductal,
+infiltrating
+850013
+site: breast, Nos
+46-12
+050.9
+ко
+G. LEFT LYMPH NODE DISSECTION, AXILLA:
+Two lymph nodes, negatve for carcinoma (0/2).
+H. LEFT LYMPH NODE DISSECTION, AXILLA:
+Nineteen lymph nodes, negative for carcinoma (0/19).
+Pathology Cancer Case Summary:
+INVASIVE CARCINOMA OF THE LEFT BREAST:
+Specimen Type: Partial breast
+Procedure: Excision with wire-guided localization
+Lymph Node Sampling:
+Sentinel lymph node(s)
+Axillary dissection (partial or complete dissection)
+Other lymph nodes (eg, location not identified)
+Specimen Integrity: Multiple designated specimens (eg, main excision and identified margins)
+Specimen Size: Greatest dimension: 9.0 cm
+Additional dimensions: 6.5 x 3.8 cm
+Specimen Laterality: Left
+Tumor Size: Size of Largest Invasive Carcinoma: Greatest dimension of largest focus of invasion over 0.1
+cm: 8.5 cm
+Additional dimensions: 6.0 x 3.3 cm
+Tumor Focality: Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor:
+Skin: Skin is not present
+Nipple: DCIS does not involve the nipple epidermis
+Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ: DCIS is present
+Extensive intraductal component (EIC) negative
+Size (Extent) of DCIS:
+Number of blocks with DCIS: 8
+Number of blocks examined: 17
+Architectural Patterns:
+Cribriform
+Solid
+Nuclear Grade: Grade II (intermediate)
+Necrosis: Present, central (expansive "comedo" necrosis)
+Lobular Carcinoma in Situ: Not identified
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma (no special type or not otherwise
+specified)
+Histologic Grade:
+Margins:
+Glandular (Acinar)/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 2
+Mitotic Count: Score 1
+Overall Grade: Grade 2
+Uninvolved by invasive carcinoma
+Distance from closest margin: 1 mm, posterior, medial
+Specify margins:
+Distance from superior margin: >5 mm
+Distance from inferior margin: > 5mm (E7)
+Distance from anterior margin: 5 mm (E4)
+Distance from posterior margin: 1 mm (E2)
+Distance from medial margin: 3 mm (E16)
+Distance from lateral margin: >5 mm
+Uninvolved by DCIS
+Distance from closest margin: <1 mm, inferior
+Specify margins:
+Distance from superior margin: >5 mm
+Distance from inferior margin: <1mm (E7)
+Distance from anterior margin: 5 mm (E4)
+Distance from posterior margin: 2 mm (E2)
+Distance from medial margin: 1 mm (E12)
+Distance from lateral margin: >5 mm
+Treatment Effect: Response to Presurgical Therapy:
+In the breast: No known presurgical therapy
+Lymph-Vascular Invasion: Not identified
+Dermal Lymph-Vascular Invasion: Not identified
+Lymph Nodes:
+Number of sentinel lymph nodes examined: 3
+Total number of lymph nodes examined (sentinel and nonsentinel): 25
+Number of lymph nodes with macrometastases: 1
+Number of lymph nodes with micrometastases: 0
+Number of lymph nodes with isolated tumor cells: 0
+Size of largest metastatic deposit: 5.0 mm
+Extranodal Extension: Not identified
+Method of Evaluation of Sentinel Lymph Nodes:
+Hematoxylin and eosin (H&E), one level
+Primary Tumor:
+pT3: Tumor >50 mm in greatest dimension
+Regional Lymph Nodes:
+pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor: Performed on another specimen
+Specify specimen:
+Results: NEGATIVE, Less than 1% immunoreactive cells present
+Progesterone Receptor: Performed on another specimen
+Specify specimen:
+Results: NEGATIVE, Less than 1% immunoreactive cells present
+Her2: Performed on another specimen
+Microcalcifications:
+Specify specimen:
+Results: NEGATIVE, Score 0
+Present in DCIS
+Present in invasive carcinoma
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval.
+These clones are used: ID5=ER, PgR 636=PR, 1485=HER2, H-11=EGFR. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by
+The results are read by a pathologist as positive or negative.
+As the attending pathologist, I attest that I: (i) Examined the
+relevant preparation(s) for the specimen(s); and (ii) Rendered the
+diagnosis(es).
+Intraoperative Consultation
+A. Sentinel node # 1 Count
+Left breast: Negative for carcinoma (0/1)
+left breast: One lymph node, positive for carcinoma (1/1)
+B. Sentinel node # 2 count
+C. Sentinel node # 3 count
+' left breast: Negative for carcinoma (0/1)
+Clinical History:
+Breast cancer
+Operation Performed
+Left partial mastectomy and left sentinel lymph node biopsy
+Specimen(s) Received:
+A: SENTINEL NODE # 1 COUNT 1
+B: SENTINEL NODE # 2 COUNT
+C: SENTINEL NODE #3 COUNT
+LEFT BREAST
+5 LEFT BREAST
+:) LEFT BREAST
+D: NON-SENTINEL LYMPH NODE LEFT BREAST
+E: LEFT BREAST MASS-ONE STITCH SHORT SUPERIOR, LONG IS LATERAL
+F: ADDITIONAL ANTERIOR MARGIN
+G: LEFT AXILLA
+H: LEFT AXILLARY CONTENTS
+Gross Description:
+A.
+node with
+Received fresh labeled "Sentinel node # 1 Count
+toto in cassette
+B.
+- left breast". The specimen consists of a lymph
+surrounding fibroadipose tissue which measures 1.5 x 1.5 x 0.2 cm. The specimen is submitted in
+Received fresh labeled "Sentinel node #2 count left breast". The specimen consists of a lymph node
+with surrouding fibroadipose tissue which measures 1.5 x 1.0 x 0.2 cm. The specimen is submitted in toto in
+cassette !
+.
+C. Received fresh labeled "Sentinel node # 3 count left breast". The specimen consists of a lymph node
+with surrounding fibroadipose tissue which measures 1.5 x 1.2 x 0.2 cm. The specimen is submitted in toto in
+cassette (
+D.
+Received in formalin labeled "Non-sentinel lymph node - left breast". The specimen consists of a lymph
+node with
+surrounding fibroadipose tissue which measures 1.0 x 1.0 x 0.5 cm. The specimen is bisected and
+submitted in toto in
+one cassette.
+E.
+Received fresh labeled "Left breast mass - one stitch short superior - long lateral". The specimen consists
+of a left lumpectomy specimen which measures 9.0 cm from medial to lateral by 6.5 cm from inferior to
+superior by 3.8 cm from anterior to posterior. There are two sutures; the long designating lateral and the
+short is designating superior. There is a firm, white, irregularly shaped and poorly defined mass located in
+the center of the specimen with diffuse extension to the medial and lateral margin. The extensions are
+surrounding by white indurated areas. The tumor appears to be less than 1mm from the superior margin
+less than 1mm from the posterior margin. The tumor with indurated area appears to be less than 1mm from
+the inferior margin. The tumor appears to be less than 1mm from the anterior margin, less than 1mm from
+the medial margin and less than 1mm from the lateral margin. The main part of the tumor measures 3.5
+x 3.5 x 3.0 cm. But with the extensions and indurated areas the tumor measures 9.0 x 6.5 x 3.8 cm. The
+specimen isinked as follows:
+Posterior black
+Anterior yellow
+Superior blue
+Inferior green
+Lateral orange
+Medial red
+A section of tumor was taken fresh from frozen section for research. Approximately 50% of the section is
+submitted.
+Sections are submitted as follows:
+Cassettes #1&2
+Tumor in relation to deep posterior margin
+F.
+Cassettes #3&4
+Cassettes #5&6
+Cassettes #7&8
+Cassettes #9&10
+Cassettes #11&12
+Cassette #13
+Cassette #14
+Cassette #15
+Cassette #16
+Cassette #17
+Representative sections of tumor in relation to anterior margin
+Representative section of tumor in relation to superior margin
+Relationship of tumor to inferior margin
+Relationship of tumor to the lateral margin
+Representative section of tumor to the medial margin
+Additional section of tumor near the posterior margin
+Additional section of tumor near anterior margin
+Representative section of possible biopsy cavity
+Representative section of tumor with central focal hemorrhage
+Possible biopsy site
+Received in formalin labeled "Additional anterior margin". The specimen consists of a fragment of skin with
+attached
+fibroadipose tissue, skin measures 12.0 x 1.1 cm and is tan-brown in color. Adipose tissue
+measures 1.5 x 0.8 cm. No
+lesions are identified. The specimen is sectioned and skin is submitted toto in
+five cassettes.
+G.
+measures
+Received in formalin labeled "Left axilla". The specimen consists of a fragment of fibroadipose tissue which
+2.0 x 1.5 x 0.9 cm. The largest lymph node measures 1.0 x 0.5 x 0.5 cm and is inked green. There
+is one additional lymph node identified. The specimen is submittedin toto in cassette one. The largest lymph node
+is bisected.
+H.
+measures
+Received in formalin labeled “Left axillary contents". The specimen consists of a fibroadipose tissue which
+11.0 x 8.0 x 4.0 cm. The specimen is unoriented. No skeletal muscle is identified. The largest
+2.6 x 1.5 x 0.7 cm. The sections are submitted as follows:
+lymph node measures
+Three lymph nodes
+One lymph node
+One lymph node
+Cassette #1
+Cassette #2
+Cassette #3
+One lymph node
+Cassette #4
+Cassette #5
+Cassette #6
+Cassette #7
+Cassette #8
+Cassette #9
+Cassette #10
+One possible lymph node
+Two lymph nodes
+Four possible lymph nodes
+Three possible lymph nodes
+Three possible lymph nodes
+Four possible lymph nodes
+Diteria
+Jagnes's Disc councy
+'r mary lumo Se Discrepancy
+IPAA
+cepat.cv
+or Mapenancy History
+Qual, ynchronous Primary Noted
+ase is (circle!
+eviewer Inils
+QUALIFIED
+Yes
+No
+Date Reviewed."
+4/4/12
+DISQUALIFIED/

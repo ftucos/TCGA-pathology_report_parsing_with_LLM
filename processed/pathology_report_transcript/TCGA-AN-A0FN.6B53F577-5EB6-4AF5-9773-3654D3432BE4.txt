@@ -1,0 +1,49 @@
+TSS Patient ID:
+Case #:
+DOB:
+Sex:
+✓ Ethnicity (Race):
+UUID:6B53F577-5EB6-4AF5-9773-3654D3432BE4
+TCGA-AN-ABFN-01A-PR
+Redacted
+Cancer Sample
+Diagnosis: Breast Cancer Histological description: Infiltrative lobular carcinoma
+Date of Procurement:
+Anatomic Site: Right breast Tumor location: Primary
+Tissue Specification: Tumor Specimen Matrix: Tissue Specimen Format: OCT
+Container: block Type of Procurement: surgery Grade: 2
+T Stage: 1 N Stage: 0 M Stage: 0 Treatment: none
+Treatment Details: n/a
+Normal Sample
+Anatomic Site: Blood Sample Type: Normal Type of Procurement: blood draw
+Matrix: Blood Specimen Format: frozen Container: tube
+Date of Procurement:
+ICD-0-3
+CQCF: carcinome, infiltrating ductal, NoS
+850013
+carcinoma, infiltrating lobular, Nos 8520/3
+Path:
+Site: breast, Nos
+C50.9
+hw
+10/21/11
+Path report shows tumor es lobules and CQCF states
+TCGA tumor is ductal. Ofter email confirmation with
+TSS, ISS pathologist confirms histology of TCGA tumor
+to be 'ductal'.
+10/26/11
+ん
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+GOALIED
+Date Reviewed:
+Yes
+No.
+DISQUALIFIED
+10/21/118

@@ -1,0 +1,188 @@
+Redacted
+UUID:C13D16C9-BAC7-4CA4-B062-D925466F9E2B
+TCGA-LQ-A4E4-01A-PR
+Patient:
+Med. Record. No.:
+Date of Birth:
+Age:
+Sex:
+F
+Submitted by:
+Report also to.
+Pathology Report
+Pathology #:
+Date of Procedure:
+Date Received:
+DIAGNOSIS:
+A. Right axillary sentinel node:
+Lymph node with metastatic mammary carcinoma (5 mm focus), with extranodal
+extension (less than 2 mm).
+B. Right axillary sentinel nodes:
+Metastatic mammary carcinoma (5 mm focus), without extracapsular extension involving
+1 of 2 lymph nodes.
+C. Left breast tissue:
+D.
+Benign breast tissue with fibrocystic changes.
+ICD-0-3
+carcinoma, infiltrating lobuler, Nos
+852013
+Site: breast, NOS
+050-9
+SPECIMEN
+Laterality:
+Specimen(s):
+Right breast
+Modified radical mastectomy
+TUMOR
+Histologic type:
+Invasive lobular carcinoma (two separate lesions)
+Histologic grade: Grade 1
+Tumor grade (Nottingham combined) based on the following:
+Tubule formation score:
+Nuclear pleomorphism score:
+Mitotic count score:
+1
+3
+1
+5
+سار
+9/27/12
+Total score (range of 3-9):
+Tumor size (greatest dimension): 7cm
+Tumor site (quadrant): Upper outer
+Tumor site (add'l descriptors): O'clock orientation:
+Larger lesion - upper outer (9:00-11:00) 5-6 cm
+from nipple; and smaller lesion - upper inner (2:00)
+7-8 cm from nipple
+Peritumoral intralymphatic tumor emboli:
+Dermal lymphatic involvement: Absent
+Status of skin/nipple: Not involved
+Coexistent DCIS: Absent
+Absent
+Pathology Report
+Criteria
+Diagnosis Discrepancy
+Primary Junior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+DISQUALITIES
+QUALIFIED
+3TFF Data Reviewed 9/12/2012
+✓
+7118161
+Page 1 of 4
+Patient:
+Microcalcifications:
+Absent
+Additional findings:
+None
+MARGINS
+Regarding invasive carcinoma:
+Margin(s) positive:
+Margin(s) negative:
+Posterior margin - 2mm linear extent
+Superior:
+> 1 cm
+Medial: > 1 cm
+Inferior: > 1 cm
+Lateral: > 1 cm
+ANCILLARY STUDIES
+IHC for ER and PR:
+Performed on a prior sample
+See report:
+Performed on a prior sample
+See report:
+HER2 amplification by FISH:
+REGIONAL LYMPH NODES
+Positive for metastatic carcinoma (at least one focus > 0.2mm in size)
+Number of nodes positive:
+2
+Total number of nodes evaluated:
+Size of largest metastatic focus:
+Extranodal extension: Present
+26
+5mm
+(tumor extends 2 mm or less beyond node capsule):
+Comment:
+The two positive lymph nodes are the sentinel lymph nodes from Part A (one sentinel
+node) and Part B (1 of 2 sentinel nodes).
+STAGING (AJCC)
+Primary Tumor:
+pT3
+Lymph Nodes:
+pN1a
+Distant Metastasis:
+Not applicable
+CLINICAL INFORMATION:
+Right breast multicentric cancer, ER/PR done previous biopsy
+SPECIMEN(S) RECEIVED:
+A. Right axillary sentinel node
+B. Right axillary sentinel nodes
+C. Left breast tissue
+D. Right modified radial mastectomy with multicentric cancer
+GROSS DESCRIPTION:
+A. Received fresh is a 2.3 x 2 x 1.5 cm fragment of golden yellow fibroadipose tissue containing one rubbery.
+partially fat-replaced 1.1 x 1 x 0.4 cm lymph node. The node is bisected and submitted for frozen section in A1.
+FROZEN SECTION DIAGNOSIS: Lymph node, positive for metastatic breast carcinoma.
+Pathology Report
+Page 2 of 4
+Patient:
+B. Received fresh is a 3 × 2 × 1.5 cm fragment of golden yellow fibroadipose tissue. Dissection reveals two
+rubbery, partially fat-replaced nodes, 0.6 x 0.6 x 0.4 cm and 1.1 x 0.9 x 0.5 cm. Both nodes are bisected and
+submitted for permanent section in B1 and B2.
+C. Received fresh are two fragments of lobular golden yellow fibroadipose tissue along with attached and
+unattached smooth, unremarkable tan-red skin weighing 256 grams in aggregate and measuring from 5 × 34×2.2
+cm to 16 x 11 x 3.5 cm. Sectioning reveals a cut surface consistent of lobular yellow adipose tissue interspersed
+with fibrous pink-white breast parenchyma. Representative tissue is submitted in C1 – C2.
+D. Fixed in formalin for approximately 33 hours is a 1,215 gram modified radical mastectomy with the breast
+proper measuring 20 cm from medial to lateral x 19.5 cm from superior to inferior x 7 cm from anterior to posterior.
+Dissection of the 11 x 6 x 4 cm axillary tail reveals several rubbery tan-red lymph nodes, 0.3 to 2.3 x 1.5 x 1.1 cm.
+There is an 18 x 9 cm ellipse of tan-red skin on the anterior surface with a superomedial placed nipple. The
+superior margin is inked black, inferior blue, medial green, lateral yellow and posterior red. The specimen is
+serially sectioned from medial to lateral into 17 slices measuring from 1 to 1.3 cm. In the upper outer quadrant of
+the breast is a large firm, multinodular, ill-defined 7 x 5 x 3.8 cm pink-gray mass which extends from the 9 to 11
+o'clock position, 5-6 cm away from the nipple. This large, multinodular lesion appears grossly to come within 0.5
+cm of the posterior margin, 1.5 cm of the superior margin and greater than 2 cm away from all remaining margins.
+In the upper inner quadrant of the breast at approximately the 2 o'clock position, 7-8 cm away from the nipple is a
+smaller, firm, ill-defined 0.9 x 0.9 x 0.8 cm pink-gray mass located 1 cm away from the superior margin and greater
+than 2 cm from all remaining margins. This mass appears grossly to be located 3.5 cm away from the larger lesion
+The rest of the specimen consists of lobular yellow adipose tissue interspersed with fibrous pink-white breast
+parenchyma. A photograph of slices 4 through 14 is taken to illustrate both lesions and their relationship to the
+inked margins. Sections submitted are indicated on the photograph and are sublabeled D10-D25. Sections to
+include the mass at 2 o'clock are in D10 and D11, and the mass at the 1 to 3 o'clock position is in D14, D15, 017.
+D20, D21, D22, D23, D24 and D25. The nipple is in D13, and an additional section of medial breast is in D8 and
+lateral breast in D9. The lymph nodes are submitted as follows: D1-D2 - one node trisected: 03 - one node
+bisected; D4-D7 - intact lymph nodes; D8 - medial breast tissue; D9 - lateral breast tissue.
+Slides were microscopically examined by the pathologist.
+Immunohistochemistry Results
+Formalin-fixed, paraffin-embedded tissue is utilized. Tissue sections are incubated with the following antibodies. Positive and
+negative controls stain appropriately. Complete procedural methodology is available upon request. Results indicated below:
+Material: Block D22
+Marker For:
+e-Cadherin
+Result
+Negative
+Comment
+The immunohistochemical findings support the diagnosis of invasive lobular carcinoma.
+Note The nerformance charactenstics of all immunohistochemical stains cited in this report were determined by the Department of Pathology at
+as part of an ongoing quality assurance program and in compliance with federally mandated regulations
+drawn from ine Clinical Laboratory Improvement Amendments of 1988 (CLIA 88) Some of these tests may rely on the use of "analyte specific
+reagents and have not been cleared or approved by the US Food and Drug Administration The FDA has determined that such clearance or
+approval is not necessary. Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following
+disclaimer be attached to this report. These tests are used for clinical numnee and should not be regarded as investigational or for research
+The immunohistochemistry laboratory at
+Department of Pathology is certified by the Centers for Medicare
+and Medicaid Services (formerly HCFA) as a high complexity laboratory under CLIA '88
+Pathology Report
+Page 3 of 4
+Patient:
+Evaluation performed by
+"Electronically signed
+MRN:
+Pathology Report
+Page 4 of 4

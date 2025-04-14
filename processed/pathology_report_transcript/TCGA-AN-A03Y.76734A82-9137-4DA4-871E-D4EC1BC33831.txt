@@ -1,0 +1,39 @@
+UUID:76734A82-9137-4DA4-871E-D4EC18C33831
+TCGA-AN-A03Y-01A-PR
+Redacted
+TSS Patient ID:
+Case #:
+DOB:
+Sex: Female Ethnicity (Race):
+Cancer Sample
+Diagnosis: Breast Cancer Histological description: Infiltrative ductal carcinoma
+Date of Procurement: -
+Anatomic Site: Left Breast Tumor location: Primary
+Tissue Specification: Tumor Specimen Matrix: Tissue Specimen Format: Frozen
+Container: cryomold Type of Procurement: Radical mastectomy Grade: 2
+T Stage: 2 N Stage: 0 M Stage: 0 Treatment: none
+Treatment Details: n/a
+Normal Sample
+Anatomic Site: Blood Sample Type: Normal Type of Procurement: blood draw
+Matrix: Blood Specimen Format: frozen Container: tube
+Date of Procurement:
+10-0-3
+carcinoma, infiltrating dust, was 8500/3
+Site: breast, Nos
+050.7
+سا
+10/21/11
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepan-v
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted.
+Case is (circle):
+Reviewer Initiais
+UALIFI
+Date Reviewed:
+DISQUALIFIED
+w 10/21/11

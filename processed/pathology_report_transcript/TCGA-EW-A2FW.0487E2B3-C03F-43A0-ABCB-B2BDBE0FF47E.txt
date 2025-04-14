@@ -1,0 +1,256 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+UUID:0487E2B3-C03F-43A0-ABCB-B2BDBEOFF47E
+TCGA-EW-A2FW-01A-PR
+Redacted
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+SENTINEL NODE #1 COUNT
+-
+- No malignancy seen in one lymph node (0/1).
+Keratin Immunostain to follow.
+SUSPICIOUS LYMPH NODE RIGHT BREAST:
+- No malignancy seen in one lymph node (0/1).
+Keratin immunostain to follow.
+-
+SENTINEL NODE #2 COUNT
+- No malignancy seen in one lymph node (0/1).
+- Keratin immunostain to follow.
+SENTINEL NODE #3 COUNT
+- No malignancy seen in one lymph node (0/1).
+- Keratin immunostain to follow.
+SENTINEL NODE #4 COUNT
+- No malignancy seen in one lymph node (0/1).
+- Keratin immunostain to follow.
+SENTINEL NODE #5 COUNT
+- No malignancy seen in one lymph node (0/1).
+- Keratin immunostain to follow.
+RIGHT BREAST, SHORT STITCH SUPERIOR LONG LATERAL:
+ICD-0-3
+Carcinoma, papillary, intraductal, Nos
+850313
+Site: breast, Nos
+050.9
+سر
+6/1/11
+- Invasive ductal carcinoma, poorly differentiated, Nottingham grade 2 (3 + 2 + 1 = 6), papillary type, 2.8 cm in greatest
+dimension.
+Resection margin is free of tumor; closest margin, 1.5 mm.
+- Lymphovascular invasion is not identified.
+- Ductal carcinoma in situ, high grade (DIN 3), with necrosis.
+- Margins are free of DCIS.
+-
+See tumor summary.
+TUMOR SUMMARY:
+Specimen:
+- Partial breast
+Procedure:
+"
+Other (specify): Partial mastectomy
+Lymph Node Sampling:
+- Sentinel lymph node(s)
+Specimen Integrity:
+- Single intact specimen (margins can be evaluated)
+Specimen Size:
+- Greatest dimension: 11 cm
+* Additional dimension: 10 x 6 cm
+Specimen Laterality:
+- Right
+Tumor Site: Invasive Carcinoma
+- Upper outer quadrant
+- Lower outer quadrant
+Tumor Size: Size of Largest Invasive Carcinoma
+-
+Greatest dimension of largest focus of invasion over 0.1 cm: 2.8 cm
+Tumor Focality:
+• Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of tumor:
+- Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Skeletal muscle: No skeletal muscle present
+Ductal Carcinoma In Situ (DCIS):
+- DCIS is present
+- Extensive intraductal component (EIC) negative
+- Architectural Patterns: Comedo
+- Nuclear Grade: Grade III (high)
+Lobular Carcinoma In Situ
+- Not identified
+Histologic Type of Invasive Carcinoma:
+- Invasive papillary carcinoma
+Histologic Grade: Nottingham Histologic Score
+Glandular (Acinar)/Tubular Differentiation: Score 3: <10% of tumor area forming glandular/tubular structures
+Nuclear Pleomorphism: Score 2: Cells larger than normal with open vesicular nuclei, visible nucleoli, and moderate
+variability in both size and shape
+Mitotic Count Score 3
+Overall Grade: Grade 3: score of 8
+Margins:
+- Margins uninvolved by invasive carcinoma
+-Distance from closest margin: 15 mm
+Margins uninvolved by DCIS
+Treatment Effect: Response to Presurgical (Neoadjuvant) therapy:
+- In the Breast: No known presurgical therapy
+- In the Lymph Nodes: No lymph nodes metastases and no prominent fibrous scarring in the nodes
+Lymph-Vascular Invasion: Not identified.
+Dermal Lymph-Vascular Invasion: Not identified
+Lymph Nodes:
+- Number of sentinel lymph nodes examined: 6
+- Total number of lymph nodes examined (sentinel and nonsentinel): 6
+- Number of lymph nodes with macrometastases (>0.2 cm): 0
+Extranodal Extension: Not identified
+*Method of Evaluation of Sentinel Lymph Nodes: Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM): pT2 NO MX
+Immunohistochemistry (PENDING)
+Primary Tumor: pT2: Tumor >20 mm but ≤50 mm in greatest dimension
+Regional Lymph Nodes: (sn): Only sentinel node(s) evaluated
+pNO: No regional lymph node metastasis identified histologically
+Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor:
+- Performed on another specimen
+Progesterone Receptor:
+- Performed on another specimen
+Her2:
+- Performed on another specimen
+FISH for HER2/neu: NOT PERFORMED
+Microcalcifications:
+Not identified
+Results: Immunoreactive tumor cells present (≥1%)
+Results: Immunoreactive tumor cells present (≥1%)
+Results: Negative (Score 0)
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) vahdated by our laboratory. These ASRs are chnically useful indicators that do not requare FDA approval. These clones are used:
+ID5=&R, PgR 636=FR, A485=HER2, H-11=EGFR. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Procedures/Addenda
+Addendum
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+A.
+B.
+C.
+D.
+E.
+F.
+SENTINEL NODE #1 COUNT
+Keratin is negative by Immunohistochemistry.
+SUSPICIOUS LYMPH NODE RIGHT BREAST:
+- Keratin is negative by Immunohistochemistry.
+SENTINEL NODE #2 COUNT
+- Keratin is negative by Immunohistochemistry.
+SENTINEL NODE #3 COUNT
+- Keratin is negative by Immunohistochemistry.
+-
+SENTINEL NODE #4 COUNT
+Keratin is negative by Immunohistochemistry.
+SENTINEL NODE #5 COUNT
+- Keratin is negative by Immunohistochemistry.
+Intraoperative Consultation
+A. Sentinel node # 1 count FS: Negative for carcinoma
+B. Suspicious lymph node right breast FS: Negative for carcinoma
+C. Sentinel node # 2 count
+D. Sentinel node # 3 count
+E. Sentinel node # 4 count
+F. Sentinel node # 5 count
+FS: Negative for carcinoma
+(FS: Negative for carcinoma
+FS: Negative for carcinoma
+FS: Negative for carcinoma
+Clinical History:
+Right breast cancer
+Operation Performed
+Right partial mastectomy with sentinel node biopsy and axillary node dissection
+Pre Operative Diagnosis:
+None provided
+Specimen(s) Received:
+A: Sentinel node # 1 count FS
+B: Suspicious lymph node right breast FS
+C: Sentinel node #2 count
+FS
+D: Sentinel node # 3 count
+FS
+E: Sentinel node # 4 count
+FS
+F: Sentinel node # 5 count
+FS
+G: Right breast, short stitch superior long lateral
+Status: Signed Out
+Gross Description:
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+Received fresh is one lymph node measuring 0.7 cm in diameter. Specimen was evaluated during frozen section and
+submitted in one cassette.
+Received fresh is one tiny lymph node measuring 0.3 cm in greatest dimension. Submitted in toto in one cassette for
+frozen section.
+Received fresh is one lymph node measuring 1 cm in greatest dimension. Specimen was evaluated during frozen section
+and submitted in toto in one cassette.
+Received fresh is one lymph node measuring 1.2 cm in greatest dimension. Frozen section submitted in one cassette.
+Rest of adipose tissue measuring 1.5 x 1 x 0.5 cm, submitted in cassette 2. Both specimens submitted in toto in two
+cassettes.
+Received fresh is one lymph node, bisected, measuring 0.9 cm in greatest dimension. The specimen was evaluated
+during frozen section examination. Submitted in toto in one cassette.
+Received fresh is one lymph node, bisected, measuring 0.3 cm in greatest dimension. Frozen section submitted in one
+cassette. Rest of adipose tissue measuring 1 x 0.5 x 0.5 cm, submitted in cassette 2.
+Received in formalin is a 195 grams, right partial mastectomy specimen measuring 11 x 10 x 6 cm. The specimen was
+already cut opened when received. A very soft skin ellipse measuring 4.5 x 2 cm is present at the anterior surface. No
+nipple is present An irregular shaped tan white fibrotic mass measuring 2.8x 2.5 x 2.5 cm, is present at the junction of
+upper-outer and lower-outer quadrants. The mass is approximately 0.9 cm from the anterior skin margin and 2.5 cm from
+the posterior deep inked margin. A separate irregular shaped tan white nodular mass is present measuring 0.3 cm in
+greatest dimension, and 0.3 cm from the main tumor mass. Sections are as follows:
+1
+2
+3
+4&5
+6
+7
+8
+9
+10
+11
+Deep margin
+Tumor with skin
+Tumor with anterior lateral and anterior inferior
+Composite sections of tumor
+Tumor
+Tumor with small nodule
+Upper outer quadrant
+Inner outer quadrant
+Lower inner quadrant
+Additional tumor
+Yes
+Nn
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials.
+THE
+UALIFIE
+Date Peviewed:
+DISQUALIFIED
+4/1/11

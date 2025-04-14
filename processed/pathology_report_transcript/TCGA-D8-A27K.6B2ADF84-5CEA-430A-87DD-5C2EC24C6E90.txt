@@ -1,0 +1,68 @@
+UUID:682ADF84-5CEA-430A-87DD-5C2EC24C6E90
+TCGA-D8-A27K-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos C50.9 has 5/19/11
+page 1 / 1
+copy No.
+4
+Date
+Examination: Histopathological examinatior
+Examination No
+Age:
+Gender: F
+Internal invoice No.
+Patient: XXX
+Cost of diagnostic procedure
+PESEL: XXX
+Material: 1. Total organ resection - left breast.*
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast
+Examination performed on:
+Macroscopic description:
+Left breast sized 16.8 x 13.3 x 4.2 cm removed along with axillary tissues sized 8 x 4 x 3 cm and a skin flap of 17.8 x 9.2 cm.
+Tumour sized 4.3 x 2.3 x 2.7 cm found in the upper inner quadrant, 2.4 cm from the lower boundary, 0.6 cm from the base and
+1.2 cm 
+from the skin.
+Microscopic description:
+Carcinoma ductale invasivum NHG2 (3+2+1, 0 mitoses/10 HPF, visual area diameter 0.55 mm).
+Reactio lymphocytaria peritumoralis. Mamilla sine laesionibus.
+Numerous focuses of carcinoma ductale in situ (DCIS) found within tumour (solid type, with medium nuclear atypia
+and comedo necrosis, 30% of the 
+tumour).
+Invasio carcinomatosa vasorum.
+Mamilla sine laesionibus.
+Normal parenchyma in the glandular tissue.
+Axillary lymph nodes
+Metastases carcinomatosae in lymphonodis (No II / XVII).
+Histopathological Diagnosis:
+Carcinoma ductale invasivum mammae sinistrae, Invasive ductal carcinoma of the left breast.
+Metastases carcinomatosae in lymphonodis axillae (No II/XVII). Cancer metastases in axillary lymph nodes (No II/XVII)
+(NHG2, pT2, pNla).
+Compliance validated by:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell
+nuclei. HER2 protein stained 
+with Ventana's Pathway HER-2/neu (4B5) Rabbit Monoclonal Antibody. Negative reaction in
+invasive cancerous cells (Score = 1 
+1+).
+Compliance validated by:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Hoted
+Cast is (circle):
+Reviewer wins
+Yes
+No
+QUALIFIED 1 DISQUALIFIED
+Date Reviewed
+19/11

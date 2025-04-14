@@ -1,0 +1,95 @@
+PART 3 RIG
+B.
+MITOSIS SCORE 3 TOT
+DE #1, BIOPSY -
+PLASM (0/1) (see comment).
+÷ .
+ODE #2, BIOPSY -
+EOPLASM (0/1).
+TECTOMY AT 11 O'CLOCK -
+TOMA, NOTTINGHAM GRADE 3/3 (TUBULE SCORE 3, NUCLEAR GRADE 3,
+SCORE 
+9/9
+) (see comment).
+ALL MARGINS ARE NEGATIVE FOR NEOPLASM.
+C. TUMOR SIZE IS 1.3 CM IN GREATEST DIMENSION (gross measurement).
+DEFINITE ANGIOLYMPHATIC INVASION IS NOT IDENTIFIED.
+BIOPSY SITE CHANGES.
+FIBROCYSTIC CHANGES, COLUMNAR CELL CHANGE, AND PSEUDOANGIOMATOUS STROMAL
+HYPERPLASIA (PASH).
+SYNOPTIC - PRIMARY INVASIVE CARCINOMA OF BREAST
+D.
+E.
+F.
+ļ
+CASE SYNOPSIS:
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+Right
+Segmental
+Upper outer quadrant
+Maximum dimension invasive component: 1.3 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+No
+Ductal adenocarcinoma, NOS
+Nuclear grade: 3
+Tubule formation: 3
+Mitotic activity score: 3
+Total Nottingham score: 9
+Nottingham grade (1, 2, 3): 3
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+Site: breast, NUS C50.9 3/13/11 fur
+850013
+ANGIOLYMPHATIC INVASION:
+No
+DERMAL LYMPHATIC INVASION:
+Not applicable
+CALCIFICATION:
+No
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+Distance of invasive tumor to closest margin: 8 mm
+LYMPH NODES POSITIVE:
+LYMPH NODES EXAMINED:
+0
+2
+METHOD(S) OF LYMPH NODE EXAMINATION:
+SENTINEL NODE METASTASIS:
+H/E stain, Keratin stain
+No
+NON-NEOPLASTIC BREAST TISSUE: FCD, Other: columnar cell change and PASH
+T STAGE, PATHOLOGIC:
+N STAGE, PATHOLOGIC:
+M STAGE, PATHOLOGIC:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+PT1c
+PNO
+PMX
+unknown
+unknown
+unknown
+UUID:DD647293-3CEA-4845-A0B3-D7000CBAB4C0
+TCGA-BH-A0BL-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima.y Notad
+Case is (circle):
+Laviewer initials,
+QUALIS
+my
+DISQUALIFIED
+Date Reviewed: ISI
+3/13/11

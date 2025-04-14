@@ -1,0 +1,114 @@
+FINAL PATHOLOGIC DIAGNOSIS
+A. Lymph node, right sentinel #1, excision:
+- One lymph node involved by metastatic carcinoma (1/1)
+B. Lymph node, right sentinel #2, excision:
+- One lymph node, negative for carcinoma (0/1)
+C. Lymph node, right sentinel #3, excision:
+One lymph node, negative for carcinoma (0/1)
+D. Lymph node, right sentinel #4, excision:
+- One lymph node, negative for carcinoma (0/1)
+E. Breast, right, wire-localization lumpectomy:
+ICD-0-3
+Carcinoma, infiltrating
+Ductal NoOS
+8500/3
+Site: Breast NOS
+J 2/18/13
+UUID:86B06754-8000-4F8B-9037-95E7A0BD4D20
+TCGA-OL-ASRW-01A-PR
+- Invasive ductal carcinoma, grade III/III, 2.0 cm in greatest dimension,
+surgical margins negative (see pathologic parameters and comment below)
+- Previous biopsy site
+0509
+Redacted
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 2.0 cm
+B. Composite histologic (modified SBR) grade: III/III
+C. Associated intraductal carcinoma in situ (DCIS/LCIS): None
+2. Excisional biopsy margins: Free of tumor
+- Invasive carcinoma 6.0 mm from closest margin (posterior)
+4. Blood vessel and lymphatic invasion: Present in breast parenchyma
+5. Axillary lymph nodes: One of four sentinel lymph nodes involved by carcinoma
+(1/4)
+- Size of largest metastatic deposit: 5.0 mm
+- Extranodal extension: present (2.0 mm; largest focus)
+-
+6. Special studies (see
+ER: No expression
+- PR: No expression
+- Her2/neu antigen (FISH): Non-amplified (ratio: 1.91)
+7. pTNM (AJCC, 7th edition, 2010): pT1c, N1(sn), MX
+Clinical History:
+The patient is a
+year-old female with breast cancer undergoing lumpectomy.
+Comment
+Immunohistochemical stains show the tumor cells to be positive for CK7 and
+negative for CK20 and TTF-1, consistent with the above diagnosis. D240 stain is
+noncontributory.
+Specimens Received:
+A: Sentinel node #1
+B: Sentinel node #2
+C: Sentinel node #3
+D: Sentinel node #4
+E: Right breast partial; lumpectomy
+Gross Description:
+The specimens are received in five containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'sentinel node #1'.
+Received fresh and placed in formalin the specimen consists of a 4 x 3 x 1.2
+lymph node. Specimen is serially sectioned and entirely submitted in cassettes
+A1-A8.
+B. The second container is additionally identified as, 'sentinel node #2'.
+Received fresh and placed in formalin the specimen consists of a 1 × 1 × 0.5 cm
+lymph node. Specimen is entirely submitted in cassette B1.
+C. The third container is additionally identified as, 'sentinel node #3'.
+Received fresh and placed in formalin the specimen consists of a 1 × 1 × 1 cm
+lymph node. Specimen is bisected and entirely submitted in cassette C1.
+D. The fourth container is additionally identified as, 'sentinel node #4'.
+Received fresh and placed in formalin the specimen consists of a 2 x 1 x 1 cm
+lymph node. Specimen is serially sectioned and entirely submitted in cassette
+D1.
+E. The fifth container is additionally identified as, 'right breast partial
+mastectomy'. Received fresh on a radiographic grid is a 96.5 gm lumpectomy
+specimen measuring 8.0 cm from medial to lateral, 8.5 cm from superior to
+inferior and 3.0 cm from anterior to posterior. The specimen is oriented with a
+short suture designating the superior pole and a long suture designating the
+lateral pole. There is a wire entering at the superomedial aspect of the
+specimen at grid C2. Accompanying the specimen is an x-ray demonstrating a
+metallic clip located in grid position D3. The wire terminates in grid position
+D4. There is a circled mass in grid positions C3-D3, D4. The margins are inked
+as follows: anterior- black posterior - red superior - blue inferior - green
+medial - yellow lateral - violet The specimen is serially sectioned from lateral
+to medial into 8 slices. There is a 2.0 x 2.0 x 1.5 cm lesion located in slices
+5 to 7. It is located 1.6 cm from the black margin, 0.6 cm from the red margin,
+1.4 cm from the blue margin and 4.5 cm from the green margin. A metallic clip is
+identified slice #5. The wire enters the specimen in slice #6 and terminates
+in slice #7. Tissue is banked from slices 4 and 6. Lumpectomy is entirely
+submitted.
+E1-E5: slice 1, medial margin
+E4-E10: slice 2
+E11-E17: slice 3
+E18-E28 slice 4
+E29-E41 slice 5 (clip in E29-E31)
+E42-E52: slice 6 (mass in E42-E43)
+E53-E65: slice 7
+E66-E83: slice 8
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours.
+Criteria
+Diagnosis Discrepancy
+LW 2/10/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cific).
+Reviewer hi
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+2/91
+✓
+✓

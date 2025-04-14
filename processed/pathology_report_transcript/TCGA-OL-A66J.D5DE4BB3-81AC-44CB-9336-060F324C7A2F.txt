@@ -1,0 +1,164 @@
+Sample #
+UUID:D5DE4BB3-81AC-44CB-9336-060F324C7A2F
+TCGA-OL-A66]-01A-PR
+Redacted
+FINAL PATHOLOGIC DIAGNOSIS
+A. Lymph node, sentinel #1, right axillary, excision:
+· One lymph node, negative for metastatic carcinoma (0/1).
+- Biopsy site changes identified.
+B. Lymph node, sentinel #2, right axillary, excision:
+- One lymph node, negative for metastatic carcinoma (0/1).
+C. Lymph node, sentinel #3, right axillary, excision:
+One lymph node, negative for metastatic carcinoma (0/1).
+ICD-0-3
+Carcinoma, lobular infiltrature
+NOS
+852013
+Site ® Preast NOS (50.9
+W 5/16/13
+D. Lymph node, sentinel #4, right axillary, excision:
+- One lymph node, negative for metastatic carcinoma (0/1).
+E. Breast, right, partial mastectomy:
+- Invasive lobular carcinoma, see breast pathologic
+parameters.
+- Margins of excision free of tumor, distance to the closest margin >2 mm
+to superior and anterior.
+- Lobular intraepithelial neoplasia (LCIS), classic type.
+- Atypical ductal hyperplasia.
+- Previous biopsy site identified with extensive fat necrosis.
+-
+Flat epithelial atypia, focally associated with microcalcifications.
+- Sclerosing adenosis, focally associated with microcalcifications.
+- Microcalcifications in benign ductal and stroma.
+- Fibrocystic changes with cystic apocrine metaplasia.
+F. Breast, additional superior medial margin, excision:
+- Focal atypical ductal hyperplasia.
+- Lobular intraepithelial neoplasia (ALH/LCIS).
+- Focal flat epithelial atypia.
+- Sclerosing adenosis focally associated with microcalcifications.
+- Microcalcifications in benign ductules and stroma.
+- Fibrocystic changes with cystic apocrine metaplasia.
+- Duct ectasia.
+Breast Pathologic Parameters
+Specimen E: Breast, right, partial mastectomy
+1. Invasive carcinoma:
+A. Size: Gross measurement: 1.6 x 1.5 x 1.4 cm
+B. Composite histologic (modified SBR) grade II
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic count: 1
+C. Associated lobular intraepithelial neoplasia (LCIS):
+- Within main mass (forming <5% of tumor volume)
+- Extending away from main mass
+3. Excisional biopsy margins: Free of tumor
+- Invasive carcinoma > 2 mm from anterior and superior margins
+- Additional margins greater than 3 mm away
+4. Blood vessel and lymphatic invasion: Not definitively identified
+5. Axillary lymph nodes: Negative for tumor (0/4)
+6. Special studies (see
+):
+- Strong expression of ER in 90% of invasive tumor nuclei
+- Strong expression of PR in 50% of invasive tumor nuclei
+- Her2/neu antigen (FISH) Not amplified. Ratio 1.5
+7. pTNM: pT1c, NO(sn), MX
+Clinical History:
+The patient is an year old female with a history of biopsy proven grade II
+ILC of the right breast who undergoes right breast needle localization
+lumpectomy and right axillary sentinel node dissection. Most recent breast
+imaging on
+showed in the right breast at the 10 o'clock position an
+irregularly shaped heterogenous enhancing mass with irregular margins and
+metallic clip artifact at mid depth measuring 1.4 x 1.2 x 1.2 cm representing
+the biopsy proven malignant lesion. Posterior to that main mass was a focal
+non-mass like enhancement measuring 1.6 x 1.1 cm suspicious for extension of the
+disease with a total extent of 2.8 cm.
+Comment
+Part E: The tumor reveals a mixed ductal and lobular morphologic appearance,
+however, immunohistochemical stains for E-cadherin were performed on
+representative areas and supports the presence of a lobular carcinoma.
+Case presented at multidisciplinary breast conference on
+Specimens Received:
+A: Right axillary sentinel node#1
+B: Right axillary sentinel node #2
+C: Right axillary sentinel node #3
+D: Right axillary sentinel node #4
+E: Right breast partial mastectomy
+F: Additional superior medial margin
+Gross Description:
+The specimen is received in six containers each labeled with the patient's name
+and medical record number.
+A. Container A is further designated as '1. Right axillary sentinel node #1.'
+Received fresh and placed in formalin is a 1.5 x 1.2 x 1.0 cm firm, rubbery
+lymph node that is dissected and entirely submitted in cassette A1.
+B. Container B is further designated as '2. Right axillary sentinel node #2.'
+Received fresh and placed in formalin is a 0.7 x 0.6 x 0.4 cm tan, rubbery lymph
+node candidate that is entirely submitted in cassette B1.
+C. Container C is further designated as '3. Right axillary sentinel node #3.'
+Received fresh and placed in formalin is a 0.9 x 0.7 x 0.4 cm tan, rubbery lymph
+node candidate. It is entirely submitted in cassette C1.
+D. Container D is further designated as '4. Right axillary sentinel node #4.'
+Received fresh and placed in formalin is a 0.6 x 0.5 x 0.2 cm tan, rubbery lymph
+node candidate that is entirely submitted in cassette D1.
+E. Container E is further designated as '5. Right breast partial mastectomy'
+with the paper work additionally designating 1 stitch = lateral. Received fresh
+and placed in formalin is a 99.5 gram, 8.5 cm (superior to inferior) x 10.0 cm
+(medial to lateral) x 3.5 cm (anterior to posterior) breast lumpectomy specimen
+on a radiographic grid with a corresponding x-ray film. There is a metallic
+clip located in the center of a spiculated irregularly shaped mass which
+corresponds to C3-C4, D3-D4 and D5. The metallic clip is located in D4. There
+is a questionable extension of the mass into grids E3-E4. A wire extends through
+the center of this mass entering at B5 and terminating at F1. The specimen is
+received with two sutures, long designating lateral and short designating
+superior. The margins are inked as follows: superior blue, inferior green,
+anterior black, posterior red, lateral violet and medial yellow. The
+specimen is serially sectioned from lateral to medial into 14 slices to reveal a
+1.6 x 1.5 x 1.4 cm firm, white poorly circumscribed mass extending from slice 6
+to slice 9. There is a metallic clip found on the center of this mass in slice
+8. The mass approaches the anterior margin within 0.3 cm (slice 9) and the
+posterior margin within 0.6 cm (slice 7). Additionally, the lesion is 3.5 cm
+from the inferior margin and 0.7 cm from the superior margin. The mass is
+greater than 2 cm from both the medial and lateral margins. The wire terminates
+in slice 11. The remainder of the breast tissue consists of grossly
+unremarkable yellow, lobulated adipose tissue. Representative sections are
+submitted as follows:
+E1: mass with clip (slice 8) showing approach to posterior and superior margins
+E2-E3: anterior margin from slice 8
+E4-E5: mass in slice 7 showing closest approach to posterior margin
+E6-E7: mass in slice 6 demonstrating biopsy site changes
+E8: inferior margin from slice 6
+E9-E10: mass in slice 10 showing nearest approach to anterior margin
+E11: posterior margin slice 7
+E12-E13: posterior inferior margin slice 8
+E14: posterior margin slice 9
+E15: anterior margin slice 9
+E16: anterior margin slice 8
+E17: anterior superior margin slice 6
+E18-E20: sections immediately lateral to mass (slice 5)
+E21-E22: sections immediately medial to mass (slice 10)
+E23: grossly unremarkable breast parenchyma slice 3
+E24: grossly unremarkable breast parenchyma slice 12
+E25: lateral margin serially sectioned (slice 1)
+E26: medial margin serially sectioned (slice 14)
+F.Container F is further designated as '3. Additionalsuperior medial margin,
+short stitch marks new true margin.' Received fresh is a 38.0 gram portion of
+yellow, lobulated fibroadipose tissue that measures 8.5 x 6.0 x 1.5 cm. The
+short stitch designates the new true margin. This aspect is inked blue. The
+specimen does not have any further orientation. The specimen is serially
+sectioned to reveal that is primarily composed of yellow, lobulated adipose
+tissue with a region of enhanced firm, white fibrosis measuring 2.4 x 1.5 x 1.5
+cm that appears to abut the new true margin. The specimen is entirely submitted
+sequentially in cassettes F1-F23 with the fibrotic region in F9-F14.
+Pathologist Sign Out:
+Criteria
+Diagnosis Discrepancy
+W 4/12/13 Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual, Synchronous Primary Need
+Case is (circie
+Reviewer initi
+QUALIFIED
+DISQUALIFIED
+No
+4/11/13

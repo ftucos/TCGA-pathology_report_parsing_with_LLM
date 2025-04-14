@@ -1,0 +1,63 @@
+Patient:
+AP Surgical Pathology: Additional Info
+Surg Path
+Page 1 of 1
+Redacted
+UUID:87B150CC-1C5D-42D5-9951-9157A81316D5
+TCGA-B6-A40C-01A-PR
+CLINICAL HISTORY:
+Spiculated mass with pleomorphic calcifications. If invasive carcinoma,
+please obtain ER, PR, EGFR, HER2/Neu by immunohistochemistry; for all 2+ IHC
+results please do FISH analysis.
+GROSS EXAMINATION:
+A. "Left breast, seven cores, with calcifications, 1-2:00 region", in
+formalin. A 1.5 x 1.0 x 0.3 cm aggregate of multiple core biopsies of
+pink-tan tissue is entirely submitted in a mesh bag in Al.
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+DIAGNOSIS:
+A. "LEFT BREAST, SEVEN CORES, WITH CALCIFICATIONS, 1-2:00 REGION"
+(STEREOTACTIC NEEDLE CORE BIOPSY) :
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: LOBULAR.
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 2 OF 3.
+TUBULE FORMATION SCORE: 3.
+NUCLEAR PLEOMORPHISM SCORE: 2.
+MITOTIC RATE SCORE: 2.
+IN-SITU CARCINOMA: PRESENT.
+ICD03
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case in circle):
+ReviewerInit
+Yes
+No
+6/23/12
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+carcinoma, infiltratinglobular NOS
+852013
+Site: breast, Nos C50.9
+TYPE OF IN-SITU CARCINOMA: LOBULAR (FOCAL DUCTAL FEATURES NOTED).
+NUCLEAR GRADE OF IN-SITU CARCINOMA: 1.
+MICROCALCIFICATIONS: PRESENT IN ASSOCIATION WITH INVASIVE CARCINOMA.
+ESTROGEN/PROGESTERONE RECEPTOR, HER2/NEU, AND EGFR ANALYSIS: PENDING.
+PARAFFIN BLOCK NUMBER: A1.
+RESULTS WILL BE ISSUED IN A SEPARATE REPORT FROM THE IMAGE CYTOMETRY
+LAB.
+7-2-1220
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+1 ADDENDUM 1:
+Please see
+tests.
+Electronically signed:
+for results of supplementary
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis (es).
+Electronically signed:

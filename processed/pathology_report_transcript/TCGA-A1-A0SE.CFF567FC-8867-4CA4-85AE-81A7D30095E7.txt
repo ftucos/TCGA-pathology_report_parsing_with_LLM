@@ -1,0 +1,417 @@
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Teviewer Initials
+QUALIFIED
+DISQUALIFIED
+✓
+Date Reviewed. 9/34/1
+tw 10/21/11
+UUID:CFF567FC-8867-4CA4-85AE-81A7D30095E7
+TCGA-A1-ABSE-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, infiltrating lobular and ductal 8522/3
+Site: breast, NES
+C50.9
+پسر
+10/21/11
+Final Pathologic Diagnosis:
+A. Right breast, biopsy: No evidence of tumor in one lymph node (0/1).
+B. Left axilla, sentinel lymph node #1, dissection: No evidence of tumor in three lymph
+nodes (0/3).
+C. Right breast, mastectomy:
+1. Skin with no significant pathologic abnormality.
+2. Proliferative fibrocystic changes.
+3. Microcalcifications in association with benign glands.
+D. Left breast, mastectomy:
+1. Invasive carcinoma, 2.0 cm, SBR grade 2, see comment.
+2. Ductal carcinoma in situ, low grade, see comment.
+3. Skin with no significant pathologic abnormality.
+4. Fibroadenoma.
+5. Microcalcifications associated with invasive carcinoma and benign glands.
+6. Proliferative fibrocystic changes.
+Page 1 of 3
+7. Papillomatosis.
+Surgical Pathology -
+Working Draft
+8. Pseudoangiomatous stromal hyperplasia.
+E. Nonsentinel lymph node, left axilla, dissection: No evidence of tumor in four lymph
+nodes (0/4).
+F. Right breast, re-excision of superior portion: Benign breast parenchyma.
+Note: In Part D (left breast), the area indicated by the surgeon with a green stitch shows proliferative
+fibrocystic changes, sclerosing adenosis, and pseudoangiomatous stromal hyperplasia. There is no
+evidence of carcinoma in the area around the green suture.
+Breast Tumor Synoptic Comment
+- Laterality: Left.
+-
+Invasive tumor type: Mixed ductal and lobular type (tumor is present in Slides D1, D2, D5, and D18).
+Invasive tumor size: 2.0 cm maximum diameter (Slide D5).
+- Invasive tumor grade (modified Bloom-Richardson):
+Nuclear grade: 2 points.
+Mitotic count: 16 mitotic figures/10 HPF, 2 points.
+Tubule/papilla formation: Definite tubule formation <10%, 3 points.
+Total points and SBR grade = 7 points, grade 2.
+- Lymphatic-vascular invasion: None identified.
+- Perineural invasion: None identified.
+-
+-
+Resection margins for invasive tumor:
+-
+-
+- Deep margin: Positive (Slide D2, 5).
+Medial margin: Widely clear; >1 cm.
+· Lateral margin: Widely clear; >1 cm.
+- Anterior/superior margin: Widely clear; >1 cm.
+- Anterior/inferior margin: Widely clear; >1 cm.
+Ductal carcinoma in situ (DCIS) type: Solid.
+Ductal carcinoma in situ size: DCIS present as scattered microscopic foci associated with the invasive
+component on Slides D1 and D2.
+Ductal carcinoma in situ nuclear grade: Low grade.
+Necrosis in ductal carcinoma in situ: None.
+Microcalcifications: Present involving invasive carcinoma.
+Resection margins for ductal carcinoma in situ:
+-
+- Deep margin: Close; within less than 0.3 cm (Slide D1).
+Medial margin: Widely clear; >1 cm.
+Lateral margin: Widely clear; >1 cm.
+- Anterior/superior margin: Widely clear; >1 cm.
+- Anterior/inferior margin: Widely clear; >1 cm.
+- Lobular carcinoma in situ (LCIS): Not identified.
+- Lymph node status: No evidence of tumor in eight lymph nodes (0/8).
+- AJCC/UICC stage: pT1cNOMX.
+Nontumorous breast tissue: Proliferative fibrocystic changes, Fibroadenoma, pseudoangiomatous
+hyperplasia.
+- Nipple: Unremarkable.
+- Skin/dermis: Unremarkable.
+Immunohistochemical tests for estrogen, progesterone and Her2 Neu are pending and will follow in an
+addendum.
+Intraoperative Consult Diagnosis
+FS1 (A) Right breast nodule, biopsy: Lymph node with no tumor seen. (Dr.(
+FS2 (B) Sentinel lymph node, left axilla, biopsy: Three lymph nodes, no tumor seen. (Dr.
+Page 2 of 8
+Surgical Pathology -
+Working Draft
+Clinical History
+The patient is a year-old woman with breast cancer. A
+tracking sheet
+accompanies the specimen and indicates a high family risk for cancer and preoperative diagnosis of
+known left breast cancer in the upper outer quadrant. No specimen radiograph is requested.
+Multifocality is suspected on the left side. Special stains for ER, PR, and HER2/neu are requested as a
+repeat. The diagram indicates that the known tumor is in the upper outer quadrant of the left breast, and
+a suspicious area is present in the upper inner quadrant at approximately the 11 o'clock position above
+the nipple. Recent MRI indicates the presence of a known 2-cm tumor with clip present in the lateral
+breast of the left breast in addition to an adjacent 5-mm lesion that is immediately posteromedial to the
+primary lesion. A 5-mm suspicious area is also identified in the slightly upper inner quadrant.
+Gross Description
+The specimen is received in six parts, each labeled with the patient's name and medical record number.
+Parts A through D and F are received fresh, and Part E is received in formalin.
+Part A is additionally labeled "right breast nodule." It consists of a single unoriented, irregular piece of
+soft, pink tissue, measuring 0.7 x 0.5 x 0.3 cm. The specimen is entirely submitted for frozen section
+diagnosis as FS1, with the frozen section remnant submitted in cassette Al.
+Part B is additionally labeled "sentinel lymph node left axilla, count = 1800, frozen section." It consists of
+a single irregular piece of soft, yellow-pink, fatty tissue, measuring 3.0 x 2.0 x 0.6 cm. The specimen is
+entirely submitted for frozen section diagnosis as FS2, with the frozen section remnant submitted in
+cassette B1.
+Part C is additionally labeled "right breast." It consists of a mastectomy specimen, oriented with a short
+suture considered superior and long suture considered lateral; oriented as such, the specimen measures
+3.2 cm from anterior to posterior, 14.7 cm from medial to lateral, and 13.7 cm from superior to inferior.
+The mastectomy specimen weighs 212.5 gm. The specimen includes an area of skin, measuring 14.5 x
+6.7 cm, with nipple, measuring 1.7 x 1.7 x 1.5 cm, and areola, measuring 3 x 3.8 cm. The specimen has
+been previously inked and serially sectioned by the
+serial
+slices. Inking follows standard inking, with posterior black, anterior superior blue, and anterior inferior
+green. The accompanying research paperwork indicates that a fragment of tissue has been taken for
+tissue banking. Cut sections reveal that the breast is composed almost entirely of homogeneous, firm,
+white, fibrous tissue that abuts the deep margin. Thin layers of adipose tissue are present in the anterior
+surface as well as the medial aspect of the specimen. No grossly evident lesions are identified. The nipple
+and skin similarly appear unremarkable. Slice 1 is considered medial, and slice 10 is considered lateral.
+The nipple, thereby, is in slice 5. Representative sections are submitted as follows:
+Cassettes C1-C2:
+Cassette C3:
+Cassette C4:
+Cassette C5:
+Cassette C6:
+Cassette C7:
+Cassette C8:
+Cassette C9:
+Cassette C10:
+Nipple, entirely submitted.
+Upper outer quadrant from slice 8.
+Upper outer quadrant from slice 7.
+Lower outer quadrant from slice 8.
+Lower outer quadrant from slice 7.
+Upper inner quadrant from slice 4.
+Upper inner quadrant from slice 3.
+Lower inner quadrant from slice 3.
+Lower inner quadrant from slice 2 and section of skin from slice 4.
+Part D is additionally labeled "left breast," with further specification in the requisition form indicating that
+a green stitch = questionable secondary cancer, correlate with MRI, and black short - superior, long -
+lateral.
+=
+A firm, pale-tan, circumscribed lesion, measuring 1.6 x 1.2 x 1.4 cm, is present at the 3 o'clock position, 3
+cm from the nipple; this contains a surgical clip. The lesion is 0.1 cm from the deep margin, 0.9 cm from
+the skin, 2.2 cm from anterior superior, 1.9 cm from anterior inferior, 3.5 cm from the lateral margin, and
+<10 cm from the medial margin. Immediately inferior and medial to main lesion, a 0.4-cm area contains
+multiple punctate, firm, yellow spots. This lesion is 0.5 cm from the large lesion and is 0.5 from the deep
+margin. The remainder of the specimen is composed mostly of firm, fibrous tissue, showing multiple
+small cystic areas, with a maximum diameter of 0.4 cm, throughout. The area adjacent to the green
+suture on slice 6 similarly consists of dense, fibrous tissue, and no definitive lesions are identified in this
+area. The skin, nipple, and areola appear unremarkable.
+INIT
+Pane 3 of s
+Surgical Pathology -
+Accompanying paperwork from the '
+Working Draft
+Indicates that a portion of the
+specimen has been taken for tissue banking. The specimen contains a short stitch and long black stitch,
+taken to be superior and lateral, respectively, and has been previously inked and sectioned by the
+research technician into ten slices, from medial to lateral. Inking is as per standard, with posterior in
+black, anterior superior in blue, and anterior inferior in green. The blue ink appears faint. The
+most-medial slice is taken as slice 1 and the most-lateral slice as slice 10. The specimen, thereby,
+measures 2.5 cm from anterior to posterior, 15.6 cm from medial to lateral, and 16.6 cm from superior to
+inferior and weighs 192.5 gm. A skin ellipse is present, measuring 6.6 x 13.1 cm, with the long axis in the
+mediolateral extent. The areola measures 3.4 x 3 cm, and the nipple measures 1.8 x 1.6 x 1.6 cm. The
+nipple lies in slices 5 and 6. The green nylon suture is in the posterior aspect of slice 6 at the 12 o'clock
+position, 3.5 cm superior to the nipple. Representative sections are submitted as follows:
+Cassette D1:
+Cassette D2:
+Cassette D3:
+Cassette D4:
+Cassette D5:
+Cassettes D6-D7:
+Cassette D8:
+Cassettes D9-D11:
+Cassette D12:
+Cassette D13:
+Cassette D14:
+Cassette D15:
+Cassette D16:
+Cassette D17:
+Cassette D18:
+Cassette D19:
+Cassette D20:
+Cassette D21:
+Cassette D22:
+1.6-cm lateral lesion in relation to deep margin from slice 8.
+Punctate, yellow lesion from slice 8.
+Nearest anterior-superior margin in slice 8.
+Nearest anterior-inferior margin from slice 8.
+Additional 1.6-cm lesion in relation to skin.
+Nipple, entirely submitted.
+Area marked by green suture, including skin and anterior-superior and deep
+margins.
+Additional sections of area marked by the green suture en bloc from slice 6.
+Area adjacent to green suture from slice 5.
+Area adjacent to green suture from slice 7.
+Inferior margin of slice 8.
+Superior margin of slice 8.
+Lateral margin from slice 10.
+Medial margin from slice 1.
+Intervening area between primary lesion and lateral margin from slice 9.
+Upper inner quadrant, rectangular from slice 4 and triangular from slice 3.
+Lower inner quadrant, rectangular from slice 5, triangular from slice 4.
+Upper outer quadrant, rectangular from slice 8, triangular from slice 9.
+Lower outer quadrant, triangular from slice 7, rectangular from slice 9.
+Part E is additionally labeled "nonsentinel lymph node left axilla." It consists of a single unoriented
+fragment of largely adipose tissue, measuring 2.4 x 1.4 x 0.5 cm. A single 1.4-cm lymph node is
+identified. The candidate lymph node is bisected and entirely submitted in cassette El. The remainder of
+the soft tissue is entirely submitted in cassette E2.
+Part F is additionally labeled "re-excision superior portion right breast" and has an additional note in the
+requisition form indicating that the stitch = new margin. It consists of a single fragment of adipose
+tissue, measuring 3 x 2.2 x 0.9 cm, marked by a single black suture. The surface containing the black
+suture is inked in black and the opposite surface in blue. The specimen is serially sectioned to reveal
+mostly adipose tissue, with a single 0.7-cm area of white, fibrous tissue. The specimen is entirely
+submitted in cassettes F1 through F3.
+Fee Codes:
+●/Pathology Resident
+Pathologist
+Signed:
+Status: Signed Out
+Addenda
+Addendum.
+Date Ordered:
+Date Complete:
+Date Reported:
+By:
+Page 4 ofe
+Surgical Pathology -
+Working Draft
+Addendum Comment
+An immunohistochemical test for estrogen and progesterone receptors as well as for HER2 was performed
+on block D5.
+The test for estrogen receptors is positive. There is strong (3+) nuclear staining in 85% of tumor cells.
+Internal positive control is positive.
+The test for progesterone receptors is. There is strong (3+) nuclear staining in-100% of tumor cells.
+Internal positive control is positive.
+Result of HER2/neu test: This carcinoma is negative for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed using the CB11 monoclonal antibody to HER2/neu
+oncoprotein. The staining intensity of this carcinoma was 1 on a scale of 0-3 (HER2 test interpreted by
+Dr.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered borderline. We and others have observed that many carcinomas with staining
+intensity scores of 2 do not show gene amplification. All carcinomas with staining intensity scores of 2 are therefore submitted for
+FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in this
+category show an excellent correlation between the results of immunohistochemical and FISH testing, and almost always show gene
+amplification.
+The immunoperoxidase stain(s) reported above were developed and their performance characteristics determined by the
+They have not been cleared or approved by the U. S. Food and Drug Administration. The FDA has
+determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded
+as investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 ("CLIA")
+as qualified to perform high-complexity clinical testing.
+Addendum.
+Date Ordered:
+Date Complete:
+Date Reported:
+Pathologist
+Electronically signed out on
+Status:
+By:
+Signed Out
+Addendum Comment
+An immunohistochemical test for progesterone receptors was performed on block D5.
+The test for progesterone receptors is positive. There is strong nuclear staining in -100% of tumor cells.
+The immunoperoxidase stain(s) reported above were developed and their performance characteristics determined by the
+1. They have not been cleared or approved by the U. S. Food and Drug Administration. The FDA nas
+determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded
+as investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 ("CLIA")
+as qualified to perform high-complexity clinical testing.
+Pathologist
+Electronically signed out on
+Page 5 of 8
+Surgical Pathology
+Working Draft
+Other Specimens
+Specimen Class:
+Specimen(s) Received: Rectal, polyp
+Final Diagnosis
+Status: Signed Out
+Accessioned:
+Signed Out:
+Rectum, polypectomy: Hyperplastic polyp.
+Specimen Class:
+Specimen(s) Received: Pelvic Washing
+Final Diagnosis
+Pelvic Washing
+BENIGN.
+Status: Signed Out
+Accessioned:
+Signed Out:
+Reactive mesothelial cells.
+_Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: A: Risk reducing salpingo-oophorectormy- right ovary- FS, B: Risk reducing salpingo-oophorectormy-
+left ovary- FS, C: Endometrium, 
+curettage- perm, D: Endocervix, curettage- perm
+Final Diagnosis
+A. Right ovary, salpingo-oophorectomy: No significant pathologic abnormality; see
+comment.
+B. Left ovary, salpingo-oophorectomy: No significant pathologic abnormality; see
+comment.
+C. Endometrium, curettage: Tissue insufficient for accurate evaluation; see
+comment.
+D. Endocervix, curettage: Scant fragments of squamous and glandular epithelium
+with no significant pathologic abnormality.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Cervical, Thin Prep Imaged
+Final Diagnosis
+Cervical, Thin Prep Imaged
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+Atrophic pattern
+Inflammation.
+Page 6 of 8
+Surgical Pathology
+Working Draft
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation; atrophic pattern with no identifiable
+endocervical/transformation zone component.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Cervical/Endocervical, Thin Prep Imaged
+Final Diagnosis
+Cervical/Endocervical, Thin Prep Imaged
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+Atrophic changes
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation; atrophic pattern with no identifiable
+endocervical/transformation zone component.
+Specimen Class:
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: Left breast core needle biopsy at 2:30, N + 3-4
+Final Diagnosis
+Left breast, needle core biopsy: Invasive carcinoma; see comment.
+MD
+Procedure/Addenda for
+ADDENDUM.
+Date of Addendum.:
+Addendum Comment
+Immunohistochemical stain for E-Cadherin was performed and evaluated on Al. The invasive carcinoma
+shows area with moderate membrane staining and others that are negative or demonstrate granular
+staining. Thus, this invasive carcinoma displays features of both ductal and lobular carcinoma. Dr.
+has reviewed the immunohistochemical stained slide and concurs.
+The immunoperoxidase stain(s) reported above were developed and their performance characteristics
+determined by the
+They have not been cleared or
+approved by the U. S. Food and Drug Administration. The FDA has determined that such clearance or
+approval is not necessary. These tests are used for clinical purposes. They should not be regarded as
+investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement
+Amendments of 1988 ("CLIA") as qualified to perform high-complexity clinical testing.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Left Axilla Lymph Node, Fine Needle Aspiration
+Page 7 of 8
+Surgical Pathology -
+Working Draft
+Final Diagnosis
+Left Axilla Lymph Node, Fine Needle Aspiration: Benign reactive lymph node, see note.
+This lymph node shows a spectrum of small to large sized lymphocytes with scattered
+tingible body macrophages. No evidence of neoplasia is seen.
+_ Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Left Breast, Fine Needle Aspiration
+Final Diagnosis
+Left Breast, Fine Needle Aspiration: Adenocarcinoma, see comment.
+Procedure/Addenda for
+ADDENDUM.
+Date of Addendum.:
+Addendum Comment
+An immunohistochemical test for estrogen and progesterone receptors as well as for HEr-2-neu was
+performed on the material submitted for cell block.
+The test for estrogen receptors is positive. There is strong nuclear staining in 90% of tumor cells.
+The test for progesterone receptors is positive. There is strong nuclear staining in 80% of tumor cells.
+Result of HER2/neu test: This carcinoma is borderline for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed on cell block using the CB11 monoclonal antibody to
+HER2/neu oncoprotein. The staining intensity of this carcinoma was 2 on a scale of 0-3.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of
+HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered borderline. We and others have observed that
+many carcinomas with staining intensity scores of 2 do not show gene amplification. All carcinomas with
+staining intensity scores of 2 are therefore submitted for FISH testing. The results of the FISH test are
+issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu
+oncoprotein. Tumors in this category show an excellent correlation between the results of
+immunohistochemical and FISH testing, and almost always show gene amplification.
+Dr
+has reviewed the HER2/neu stain and concurs.
+END OF REPORT
+Page & of R

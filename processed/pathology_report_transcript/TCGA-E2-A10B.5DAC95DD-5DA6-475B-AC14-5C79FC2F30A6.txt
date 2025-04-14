@@ -1,0 +1,309 @@
+ICD-0-3
+Carcinoma, Infiltrating Duct, Nos 8500/3
+Site Code:
+breast,
+Nos
+C50.9
+12/19/10
+TSS Pt ID: :
+SPECIMENS:
+A. BREAST CA INFERIOR LEFT BREAST
+B. SENTINEL LYMPH NODE #1
+C. SENTINEL LYMPH NODE #2
+D. COMPLETE AXILLARY CONTENTS-LEFT
+SPECIMEN(S):
+A. BREAST CA INFERIOR LEFT BREAST
+B. SENTINEL LYMPH NODE #1
+C. SENTINEL LYMPH NODE #2
+D. COMPLETE AXILLARY CONTENTS-LEFT
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+UUID:5DAC95DD-5DA6-475B-AC14-5C79FC2F30A6
+TCGA-E2-A10B-01A-PR
+Redacted
+FSA: Breast cancer, inferior, left breast: One mass measures 3.8 x 3.4 x 2.6 cm. The mass is 0.3 cm
+from medial margin and 0.3 cm from lateral margin.
+By
+called to
+at
+TPB. Sentinel lymph node #1: Metastatic carcinoma.
+By Dr, called to Dr. at
+GROSS DESCRIPTION:
+A. BREAST CA INFERIOR LEFT BREAST
+Received fresh labeled with patient name designated "a. breast ca inferior left breast" is a portion of
+resected breast tissue weighing 50 gm and measuring 6.0 x 4.0 x 3.5 cm. The overlying beige-tan
+ellipse of skin measures 5.0 x 3.0 cm. The surface of the skin has a thickened rough appearance. The
+specimen is received with orientation, the single suture designating anterior, double-lateral and triple-
+superior. Specimen is inked as follows: superior-red, inferior-orange, posterior-black, medial-green,
+lateral-yellow. The specimen is serially sectioned from superior to inferior. Cut section shows a firm ill
+defined beige-tan mass measuring 3.8 x 3.4 x 2.6 cm approaching the closest medial margin at
+distance of 0.3 cm and lateral margin at distance of 0.3 cm. The skin appears grossly involved by the
+lesion. The remainder of the specimen shows dark yellow lobulated adipose tissue with focal areas of
+firm white fibrous parenchyma. A portion of the specimen is submitted for tissue procurement.
+Representative sections are submitted as follows:
+A1-A2: slice 1, bisected serial section of the mass and skin with lateral and medial margins
+A3-A4: sections of inferior margin with skin, slice 1
+A5-A6: slice 2 additional lesion and skin with medial and lateral margins
+A7-A8: slice 2 additional sections of lesion with lateral and posterior margins
+A9-A14: slice 3 totally submitted
+A15-A18: slice 4 entirely submitted
+A19-A20: perpendicular sections superior margin
+B. SENTINEL LYMPH NODE #1
+Received fresh labeled with the patient name designated "b. sentinel lymph node #1" are 2 firm lymph
+nodes measuring 0.9 x 0.6 x 0.5 cm and 0.8 x 0.5 x 0.5 cm. Both lymph nodes are bisected to show
+white cut surface. Touch preps are performed. Both lymph nodes are entirely submitted in cassettes
+B1-B2.
+C. SENTINEL LYMPH NODE #2
+Received fresh labeled with the patient name designated "c. sentinel lymph node #2" is a fragment of
+firm yellow-tan fibroadipose tissue measuring 5.0 x 1.5 x 0.5 cm. The entire specimen is submitted in
+cassettes C1-C2.
+D. COMPLETE AXILLARY CONTENTS-LEFT
+Received in formalin in a container labeled with patient name designated "d. complete axillary contents-
+left" is a portion of yellow-tan fibroadipose tissue measuring 9.4 x 6.2 x 3.1 cm. Multiple possible lymph
+nodes are identified ranging in size from 2.2 x 0.5 x 0.5 to 0.2 x 0.1 x 0.1 cm. Cassettes are submitted
+as follows:
+D1: 2 possible lymph nodes
+D2: 3 possible lymph nodes
+D3: 3 possible lymph nodes
+D4: 3 possible lymph nodes
+D5-D15: multiple additional possible lymph nodes
+DIAGNOSIS:
+A. BREAST, LEFT, INFERIOR, EXCISIONAL BIOPSY:
+- INVASIVE, DUCTAL CARCINOMA, SBR GRADE 3, MEASURING 2.6-CM,
+INVOLVING FIBROADENOMA AND EXTENDING INTO SUPERFICIAL DERMIS
+- INTERMEDIATE, NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, WITH
+CENTRAL NECROSIS, CRIBRIFORM AND SOLID TYPES
+- TUMOR PRESENT WITHIN 1 MM FROM MEDIAL, LATERAL, AND SUPERIOR
+SURGICAL RESECTION MARGINS
+- PERINEURAL INVASION AND FOCAL LYMPHOVASCULAR INVASION
+IDENTIFIED
+- FIBROCYSTIC CHANGES WITH FIBROSIS AND SCLEROSING ADENOSIS
+- SEE SYNOPTIC REPORT.
+B. LYMPH NODE, SENTINEL #1, LEFT, BIOPSY:
+- METASTATIC CARCINOMA TO TWO OF TWO LYMPH NODES (2/2),
+LARGEST MEASURING 0.8 CM, WITH FOCAL EXTRANODAL EXTENSION.
+C. LYMPH NODE, SENTINEL #2, LEFT, BIOPSY:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. LYMPH NODES, LEFT AXILLARY CONTENTS, EXCISIONAL BIOPSY:
+TWENTY FIVE LYMPH NODES, NEGATIVE FOR METASTASES (0/25).
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+No
+Laterality: Left
+Invasive tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 2.6cm
+Tumor site: Not specified
+Margins:
+Negative
+Distance from closest margin: 0.1cm
+medial lateral and superior
+Tubular score:
+Nuclear grade:
+Mitotic score:3
+3
+2
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Present
+Extent:
+focal
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+3
+Sentinel lymph node and axillary dissection
+Positive 2/28
+DCIS present
+Margins uninvolved by DCIS:
+DCIS Quantity:
+Estimate 5%
+DCIS type: Solid
+Cribriform
+DCIS location:
+Nuclear grade:
+Associated with invasive tumor
+Intermediate
+Necrosis: Present
+ER/PR/HER2 Results
+ER: Pending
+PR: Pending
+HER2: Pending
+Pathological staging (pTN):
+CLINICAL HISTORY:
+Left breast cancer invading skin
+PT 2 N 1a
+PRE-OPERATIVE DIAGNOSIS:
+Left breast ca
+ADDENDUM:
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number:
+A1
+ER: Positive Allred Score:
+8
+Proportion score: 5 + Intensity Score 3
+PR: Positive Allred Score: 8 = Proportion Score 5 + Intensity Score 3
+COMMENT:
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the
+proportion score (0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 11-30% of
+cells staining, 4 = 31-60% of cells staining, 5 = >60% of cells staining) to the intensity score (1)
+= weak
+intensity of staining, 2 = intermediate intensity of staining, 3 = strong intensity of staining), with a scoring
+range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of
+less than or equal to 2.
+Methodology: Fixation Type and Length: Tissue was fixed in 10% neutral buffered formalin (
+) for no less than 8 and no longer than 24 hours. Antibody and Assay Methodology:
+Mouse anti-human ER and PR,
+Comment: This assay can be used to select invasive preast cancer patients for hormone therapy (1).
+ER and PR analysis was performed on this case by immunohistochemistry utilizing the ER (ER 1D5,
+1:100) and PR (PGR 136, 1:100) antibody provided by following the manufacturer's instructions
+listed in the package insert. This assay was not modified, and adherence to all instruction and
+guidelines were strictly followed. Interpretation of the ER/PR immunohistochemical staining
+characteristics is guided by published results in the medical literature (1), information provided by the
+reagent manufacturer and by internal review of staining performance within the Pathology Department.
+1. Harvey JM, et al. Estrogen receptor status by immunohistochemistry is superior to the ligand-binding
+assay for predicting response to adjuvant endocrine therapy in breast cancer. J Clin Oncol. 17:1474-
+1481, 1999
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+HER2 Status Results, Immunohistochemistry Evaluation
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+Intensity:
+A1
+EQUIVOCAL
+2+
+10%
+Yes, on Date
+% Tumor Staining:
+Fish Ordered:
+METHODOLOGY
+Methodoloav: Fixation Type and Length: Tissue was fixed in 10% neutral buffered formalin (
+) for no less than 8 and no longer than 24 hours. Antibody and Assay Methodology:
+Rabbit anti-human HER2, HerceptestTM (FDA-approved test kit),
+Control
+Slides Examined: External kit-slides provided by manufacturer (cell lines with high, low and negative
+HER2 protein expression), and in-house known HER2 amplified control tissue were evaluated along
+with the test tissue. These control slides run along side of this patient's sample showed appropriate
+staining. Adequacy of Specimen: Adequate, well preserved, clear-cut invasive carcinoma identified for
+HER2 evaluation.
+Scoring Criterion and Scoring System:
+IHC Level of Expression(Score) /Tumor Cell Membrane Staining Pattern
+Negative (0)/Absence of Staining
+Negative (1+)/Faint Incomplete membrane Staining, >10% of Cells
+Equivocal (2+)/Weak complete membrane Staining, >10% of Cells
+Positive (3+)/Strong complete membrane Staining, >10% of Cells
+Equivocal Category for HER2 IHC results: A HER2, 2+ staining result that is interpreted as equivocal
+may not indicate gene amplification. A FISH test for HER2 gene amplification will be ordered for all
+HER2 IHC 2+ results.
+COMMENT
+This assay can be used to select invasive breast cancer patients for Trastuzumab (Hereptin) therapy
+(1,2). Clinical Trials have shown that Trastuzumab substantially increases the likelihood for an objective
+response and overall survival for patients with metastatic HER2-positive breast cancer, regardless of
+whether HER2 tumor status was determined as IHC 3+ or FISH positive. Trastuzumab added to
+adjuvant chemotherapy substantially increase disease-free survival and decreases the risk of disease
+recurrence by about 50% for patients with early-stage HER2 protein over-expressed or gene amplified
+invasive breast cancer (3).
+HER2 analysis was performed on this case by immunohistochemistry utilizing the FDA approved
+HercepTest (TM) test kit following the manufacturer's instructions listed in the package insert. This
+assay was not modified, and adherence to all instruction and guidelines were strictly followed.
+Interpretation of the HER2 immunohistochemical staining characteristics is guided by published results
+in the medical literature (4), information provided by the reagent manufacturer and by internal review of
+staining performance within the Pathology Department.
+HER2 TEST VALIDATION
+This HER2 immunohistochemical assay has been validated according to the recently revised
+recommendations and guidelines from the NCCN HER2 testing in Breast Cancer Task Force, and the
+jointly issued recommendations and guidelines from ASCO and the CAP (5). 80 randomly selected
+breast cancer samples were tested for HER2 by IHC as outline above and interpreted as, negative
+(score 0/1+) equivocal (score 2+) and positive (score 3+) without knowledge of the previous reported
+results.
+These cases were also blindly read using two different FISH assay as amplified or non-amplified and
+the HER2/CEP17 ratios were recorded. After analyzing these results, there was 100% concordance
+between the IHC and FISH results for cases that were interpreted as either positive or negative by IHC.
+9 of the 80 cases were interpreted as equivocal by IHC and of these 3/9 (33%) were non-amplified by
+FISH and 6/9 (66%) were found to be amplified.
+The Pathology Department Immunohistochemistry laboratory takes full responsibility for this tests
+performance and has programs in place to regularly monitor the proficiency and the interpretation of
+HER2 assays. The laboratory also participates in external quality assurance HER2 programs including
+the CAP proficiency testing program.
+REFERENCE
+1. Carlson RW, Anderson BO, Burstein HJ, et al., NCCN breast cancer clinical practice guidelines in
+oncology. J Natl Compr Canc Netw. 2005;3:238-289.
+2. Carlson RW, Brown E, Burstein HJ, et al., NCCN Task Force Report: adjuvant therapy for breast
+cancer. J Natl Compr Canc Netw. 2006;4:S1-S26.
+3. Romond EH, Perez EA, Bryant J, et al. Trastuzumab plus adjuvant chemotherapy for operable
+HER2-positive breast cancer. N Eng J Med 2005;353(16):1673-84
+4. Leong ASY, Formby M, Haffajee Z, et al. Refinement of immunohistologic parameters for Her2/neu
+scoring validation by FISH and CISH. Appl Immunohistochem Mol Morphol. 2006;14:384-389.
+5. Wolff AC, Hammond EH, Schwartz JN, et al., American Society of Clinical Oncology/College of
+American Pathologists Guideline Recommendations for Human Epidermal Growth Factor Recepto 2
+Testing in Breast Cancer. Arch of Path and Lab Med 2007; 131:18-43.
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results:
+Clinical Interpretation of results
+HER-2 NOT AMPLIFIED
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HER-2 probe that spans the entire HER-2 gene in the
+. A majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no
+amplification of the HER2/neu gene.
+Block used A1
+Tissue fixation
+Tissue source
+HER2/CEP17 ratio:
+Source of case: RPCI
+formalin-fixed tissue
+Outside Case No: NA
+breast Results interpreted:
+yes
+1.11
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method of ratio enumeration: manual count
+No
+Limitations
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status.
+2/neu
+treatment decision for stage II, node-positive breast cancer patients should be based on HER-
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+patients for whom HerceptinⓇ therapy is being considered. These tests were performed in the
+under the direction
+of Dr.. The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+Gross Dictation: Pathologist, (
+Microscopic/Diagnostic Dictation:., Pathologist,
+Final Review: Pathologist
+Final: Pathologis
+Addendum: Pathologist,
+Addendum Final:., Pathologist.
+Addendum: Pathologist,
+Addendum Final:., Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUANFIED
+Date Reviewed:

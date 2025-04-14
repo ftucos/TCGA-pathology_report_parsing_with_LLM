@@ -1,0 +1,41 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Site, breast, Nos C50.9 3/1/11 ho
+BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2.7 x 2.7 x 2.7 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Not specified
+Lymph nodes: 1/11 positive for metastasis (Axillary 1/11)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None_
+Left, upper
+outer
+quadrant
+Redacted
+UUID:AC26EE69-27D8-4523-917A-68573F5F614E
+TCGA-E9-A1ND-01A-PR
+rite;la
+Diagnosis Discrepar.cy
+Primary Tumor Site Discrepancy
+Prior Malignancy History
+HIPAA Discrepancy
+Dual/Synchronous Primary Noted
+Casey's (circle:
+iewer initia's
+QUALIFIED Y DISQUALIFIED
+Date Reviewed:
+11/118 mg

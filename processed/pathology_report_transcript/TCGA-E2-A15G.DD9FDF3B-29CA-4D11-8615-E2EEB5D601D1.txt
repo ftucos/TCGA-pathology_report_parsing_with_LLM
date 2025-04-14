@@ -1,0 +1,176 @@
+TSS:
+SPECIMENS:
+A. WLE LEFT BREAST NEEDLE LOCALIZATION
+B. SENTINEL NODE #1 LEFT AXILLA
+C. MEDIAL MARGIN LEFT BREAST
+SPECIMEN(S):
+A. WLE LEFT BREAST NEEDLE LOCALIZATION
+B. SENTINEL NODE #1 LEFT AXILLA
+C. MEDIAL MARGIN LEFT BREAST
+ICD-0-3
+Carcinoma, infiltrating duct and lobular
+8522/3 12/8/10
+Path Site code breast, upper onter quadrant
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+050.9
+COCF Site: breast, Nos
+UUID:DD9FDF3B-29CA-4D11-8615-E2EEB5D601D1
+TCGA-E2-A15G-01A-PR
+Redacted
+Part A, Left breast, wide local excision, gross examination: Tumor (at least 3 cm in size) seen at inked green medial
+margin
+TPB, Sentinel lymph node #1, left axilla: Negative for tumor cells
+Diagnoses called at ´
+GROSS DESCRIPTION:
+by Dr
+A. WLE LEFT BREAST NEEDLE LOCALIZATION
+Received fresh labeled with the patient's identification and designated "wide local excision left breast needle localization"
+is an oriented, previously inked, 63-g, 8 x 5.5 x 3.7 cm needle localized lumpectomy specimen accompanied by two
+radiographs. The single suture designates anterior, double-lateral. Ink code: Anterior-yellow, posterior-black, medial-
+green, lateral-red, superior-blue, inferior-orange. The specimen is serially sectioned from medial to lateral into 7 slices
+revealing firm tan mass (clip in slice 3), 3.5 x 2 x 1.5 cm, located at the medial margin. A second ill-defined hemorrhagic
+firm area, 1 x 0.9 x 0.6 cm, is identified in slice 6, approximately 1 cm from the mass, and approaches the nearest anterior
+margin at distance of 0.6-cm. A portion of the specimen is submitted for tissue procurement. The specimen is
+representatively submitted:
+A1-A4: Perpendicular sections medial margin, entirely submitted
+A5-A8: Slice 2, entirely submitted, A5-A6 demonstrate mass
+A9-A12: Slice 3, entirely submitted, A10 demonstrates clip
+A13: Slice 4, posterior/superior
+A14: Slice 4, superior/anterior
+05004
+A15: Slice 4, posterior/inferior
+A16: Slice 5, posterior/superior
+A17-A18: Slice 6, hemorrhagic firm area submitted entirely
+A19-A20: Representative perpendicular sections, lateral margin
+B. SENTINEL NODE #1 LEFT AXILLA
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number one left axilla" is a tan
+lymph node measuring 3 x 1.5 x 1 cm. Touch preparations are performed. The entire specimen is submitted, B1-B2.
+C. MEDIAL MARGIN LEFT BREAST
+Received in formalin labeled with the patient's identification and designated "medial margin left breast" is an oriented
+(suture at final margin), 6g, 5.5 x 2.5 x 1 cm fragment of fibroadipose tissue. The final margin inked black. The specimen
+is sectioned and submitted entirely, C1-C5.
+DIAGNOSIS:
+A. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE MIXED (DUCTAL/LOBULAR) CARCINOMA, SBR GRADE II,
+MEASURING 3.5 CM.
+-FOCAL DUCTAL CARCINOMA-IN-SITU, NUCLEAR GRADE 2/3, SOLID AND
+CRIBRIFORM TYPE WITH MICROCALCIFICATIONS.
+- FIBROADENOMA / FIBROCYSTIC CHANGES.
+- PREVIOUS BIOPSY SITE CHANGES.
+(SEE SYNOPTIC REPORT)
+B. LYMPH NODE, SENTINEL #1, LEFT AXILLA, EXCISION:
+- ONE REACTIVE LYMPH NODE.
+- NO METASTATIC CARCINOMA IS SEEN (0/1).
+C. BREAST, LEFT, MEDIAL MARGIN, EXCISION:
+BREAST TISSUE WITH FIBROCYSTIC CHANGES
+- NO MALIGNANCY IS SEEN.
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens:
+A: WLE LEFT BREAST NEEDLE LOCALIZATION
+B: SENTINEL NODE #1 LEFT AXILLA
+C: MEDIAL MARGIN LEFT BREAST
+Specimen Type: Excision
+Needle Localization:
+Laterality: Left
+Invasive Tumor:
+Multifocality:
+Yes For mass
+Present
+No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Mixed type carcinoma
+Tumor size:
+3.5cm
+Additional dimensions:
+2cm x 1.5cm
+Tumor Site:
+Upper outer quadrant
+Margins: Negative
+Tubular Score:
+3
+Nuclear Grade:
+2
+Mitotic Score:
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia: None
+Lymph nodes:
+Sentinel lymph node only
+Lymph node status: Negative 0/1
+Micrometastases:
+DCIS present
+No
+Margins uninvolved by DCIS
+DCIS Quantity:
+Estimate 2%
+DCIS Type:
+Solid
+Cribriform
+DCIS Location:
+2
+Nuclear grade:
+Necrosis: Absent
+Associated with invasive tumor
+Intermediate
+Location of CA++: DCIS
+Stroma
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by IHC
+Performed on Case: outside slides (our consultation report)
+Pathological staging (pTN): PT 2 NO
+CLINICAL HISTORY:
+Invasive carcinoma, UOQ left breast, with enhancement patient for intraductal extension going anteriorly
+PRE-OPERATIVE DIAGNOSIS:
+Invasive carcinoma
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+4
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+rate of Distant Recurrence at 10 years of 5%
+ER Score:
+11.5 Positive
+PR Score:
+9.9 Positive
+Her2 Score:
+8.8
+Negative
+Interpretation:
+PR
+ER Negative < 6.5
+Negative < 5.5
+Her2 Negative <10.7
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal = 10.7 -11.4
+report for further information.
+See separate
+Test performed at:
+Gross Dictation:
+Microscopic/Diagnostic Dictation: ravivgist,
+4 in the clinical validation study had an average
+Final Review: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist.
+Criteria
+Diagnosis Discrepancy
+'rimary Turnor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+ase is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED

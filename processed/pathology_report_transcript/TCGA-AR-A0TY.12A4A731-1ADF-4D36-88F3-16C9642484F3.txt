@@ -1,0 +1,34 @@
+UUID:12A4A731-1ADF-4D36-88F3-16C9642484F3
+TCGA-AR-AØTY-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating ductal, Nus 8500/3
+Site: breast, Nos
+050.9
+Breast, right, simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III) is identified
+forming a 2.4 x 2.2 x 1.8 cm mass (AJCC pT2) in the right upper outer quadrant of the breast. A
+significant component of in situ carcinoma is not identified. A benign fibroadenoma (0.6 x 0.4 x 0.4 cm)
+is identified in the upper inner quadrant. Skin, nipple, and resection margins are free of tumor (closest is
+anterior/superior, free by 3.8 cm). Multiple (8) right axillary lymph nodes are negative for tumor.
+Lymph nodes, right axillary sentinel, excision: Multiple (7) right axillary sentinel lymph nodes are
+negative for tumor [AJCC pNo(sn-)]. Blue dye is identified in right axillary sentinel lymph nodes No.1A
+and No.1B. Blue dye is not identified in right axillary sentinel lymph nodes No. 1C, No. 1D, No.1E, No.2,
+and No.3. Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel
+lymph node tissue and confirms the H&E impression.
+Breast, left, simple mastectomy: Benign breast tissue with non-proliferative fibrocystic changes
+characterized by apocrine metaplasia, cyst formation, and multiple (2) fibroadenomas (upper inner
+quadrant, 0.9, and inferior central, 1.1 cm). A single left axillary lymph node is negative for tumor.
+Estrogen and progesterone receptor analysis and Her-2/NEU have been ordered on paraffin embedded
+tissue from the right breast.
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prinary Heted
+Case is (circle):
+QUALIFIED / DISQUALIFIED
+Reviewer Initials Date Reviewed:
+10

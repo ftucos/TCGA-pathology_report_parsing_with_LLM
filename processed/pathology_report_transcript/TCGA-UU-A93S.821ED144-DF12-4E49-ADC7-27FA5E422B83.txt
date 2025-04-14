@@ -1,0 +1,129 @@
+Patient:
+UUID:821ED144-DF12-4E49-ADC7-27FA5E422883
+TCGA-UU-A93S-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+DOB:
+Age
+Sex: F
+Account:
+MRN:
+Requested by:
+Copy to:
+Patient
+Clinical Data: Right breast mass
+1.
+2.
+FINAL PATHOLOGIC DIAGNOSIS
+Accession:
+Date Collected:
+Date Received:
+Date Reported:
+Pectoralis muscle:
+Invasive poorly differentiated carcinoma consistent with a breast primary. See synoptic report.
+Cautery artifact noted.
+Right breast, mastectomy (2,374 grams):
+Invasive poorly differentiated carcinoma consistent with a breast primary. See synoptic report.
+SYNOPTIC REPORT
+Procedure:
+Lymph node sampling:
+Specimen laterality:
+Tumor site:
+Histologic type of invasive
+carcinoma:
+Tumor size:
+Histologic grade (Nottingham
+Histologic Score):
+Glandular/tubular differentiation:
+Mastectomy
+Right
+ICD-0-3
+NOS
+Carcinoma, infiltrating duct 850013
+Not performed
+Invasive carcinoma involves all quadrants
+Invasive ductal carcinoma
+19 cm
+Score 3
+Score 3
+Site & Breast NOS C50.9
+9408/26/14
+-
+Nuclear pleomorphism:
+.
+Mitotic rate:
+Total overall grade:
+Tumor focality:
+Ductal carcinoma in-situ:
+Skin/nipple:
+Skeletal muscle:
+Margins:
+Lymphovascular invasion:
+Calcifications:
+Greater than 8 mitoses/mm², score 3
+9, grade III (G3)
+Single focus of invasive carcinoma
+Not identified
+There is ulceration of the skin by tumor. There is dermal lymphatic invasion.
+Carcinoma invades the skeletal muscle.
+Invasive carcinoma is identified at the deep margin including involvement of the
+skeletal muscle.
+Invasive ductal carcinoma is identified within 0.2 cm of the superior skin/soft tissue
+margin.
+Identified including dermal lymphatic invasion
+Present in invasive carcinoma
+Page 1 of 2
+Patient:
+SURGICAL PATHOLOGY REPORT - CONTINUED
+Ancillary studies:
+Result ID:
+Accession:
+ER, PR and HER-2/neu studies have been ordered on block E and will be reported
+separately.
+Pathologic Tumor Stage:
+pT4d NX
+Pathologist, Electronic Signature
+SPECIMEN(S) SUBMITTED: GROSS DESCRIPTION
+1.
+2.
+Pectoralis muscle: Received fresh for frozen section diagnosis is a single segment of skeletal muscle with attached
+fibroadipose tissue and soft tissue measuring 6.5 x 4.0 x 1.5 cm. The specimen is unoriented. One surface is inked black
+and the opposite surface is inked orange. The specimen is serially sectioned and entirely submitted for frozen section
+diagnosis in three cassettes. The frozen section remnant is submitted in cassettes A-C.
+Right breast: In formalin labeled with the patient's name and medical record number is a 2374-gram, 26 x 18 x 11 cm
+right simple mastectomy surfaced by brown skin. The specimen is oriented with a short stitch designated as superior and
+a long stitch as lateral. The skin surface displays a 19 x 15.5 cm nodular gray-yellow mass involving the entire nipple
+areolar complex. The nipple is not definitively identified. The mass comes to with in 1.5 cm of the inferior skin margin, 2.5
+cm of the superior skin margin, 1.8 cm of the lateral skin tip, and 8 cm of the medial skin tip. The superior skin margin is
+inked blue, the inferior skin margin is inked green, and the deep margin is inked black. Upon sectioning the mass
+involves all four quadrants and approaches the deep margin. Red-brown muscle is identified at the deep margin, which
+also appears to be involved by tumor grossly. The cut surface of the mass is pink-gray to tan-yellow, firm, and glistening.
+The mass occupies approximately 80% of the breast parenchyma. The remaining cut surface displays yellow adipose
+tissue intermixed with dense tan-white fibroglandular tissue. Representative sections are submitted in nine cassettes as
+follows: A B superior skin margin, C - D - the inferior margin, E - F - mass to include the deep margin, G - the deep
+margin to include muscle, H-1 - the mass to include skin involvement. The specimen is placed in formalin at
+giving a total formalin fixation time of approximately 8.5 hours.
+INTRAOPERATIVE REPORT:
+1.
+Frozen Section Diagnosis: Carcinoma present, involving skeletal muscle
+CPT CODE(S):
+88331, 88307, 88305
+ICD-9 CODE(S):
+[1749]
+FACILITY:
+END OF REPORT
+Criteria
+lu 12/13/13
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials (
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+1210-2015

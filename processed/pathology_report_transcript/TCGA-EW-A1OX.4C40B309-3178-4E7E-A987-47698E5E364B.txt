@@ -1,0 +1,189 @@
+Name:
+DOB:
+Gender:
+F
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+D.
+E.
+Right breast mass, short stitch superior, long stitch lateral, double stitch deep:
+- Infiltrating ductal carcinoma, colloid type, low nuclear grade, 3.0 cm in greatest dimension.
+- 
+Margins of 
+excision are free of tumor.
+-
+-pT2N0MX
+See tumor summary.
+Lateral margin right breast:
+Breast tissue with adenosis.
+New margin is negative for malignancy.
+Additional superior margin:
+- Breast tissue with no pathologic change.
+New margin is negative for malignancy.
+Sentinal node #1:
+- No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin is negative for carcinoma.
+Sentinel node # 2:
+- No malignancy seen in one lymph node (0/1).
+- Immunohistochemistry for keratin is negative for carcinoma.
+Non sentinel node # 1:
+ICD-0-3
+Carcinoma, infiltrating ductal and mercinions 85231
+Site breast, NOS
+050.9
+3/12/11 for
+:
+F.
+- No malignancy seen in one lymph node (0/1).
+G.
+Non sentinel node #2:
+- No malignancy seen in one lymph node (0/1).
+H.
+Axillary tissue:
+- Fibroadipose tissue, no malignancy seen.
+UUID:4C40B309-3178-4E7E-A987-47698E5E364B
+TCGA-EW-A10X-01A-PR
+Redacted
+- No lymphoid tissue present.
+Tumor Summary:
+Specimen Type: Excision
+Lymph Node Sampling: Sentinel lymph node(s) only
+Specimen Size (for excisions less than total mastectomy): 9 x 7.5 x 3.5 cm
+Laterality: Right
+Size of Invasive Component:
+Greatest dimension: 3.0 cm
+*Additional dimensions: 2.4 x 2.4 cm
+Histologic Type: Invasive ductal carcinoma
+Mucinous
+Histologic Grade (any grading system may be used; mitotic count is also required independent of the grading system):
+Tubule Formation: Majority of tumor greater than 75% (score =1
+)
+Nuclear Pleomorphism (Small regular nuclei (score =1)
+Mitotic Count: Less than 10 mitoses per 10 HPF (score =1)
+Total Nottingham Score: Grade 1: 3-5 points
+Pathologic Staging:
+Primary Tumor: pT2
+Regional Lymph Nodes: pNO
+- Specify: Number examined: 4
+Number involved: 0
+Distant Metastasis: pMX
+Margins: Uninvolved by invasive carcinoma
+SURGICAL PATHOL Report
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L): Absent
+ER:
+PR:
+Positive
+Positive
+HER2: Negative
+NOTE: Some immunohistochemical antibodies are analyle specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636-PR. A485-HER2, H-11=EGFR. All immunohistochemical 
+stains are used with formalin or molecular fixed, paraffin embedded time. Detection is by Envision Method. The results are read hy a
+pathologist as positive or negative.
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Intraoperative Consultation
+B. Lateral margin right breast, FS: No malignancy seen.
+D. Sentinal node # 1, FS: Negative for tumor.
+E. Sentinel node #2, FS: Negative for tumor.
+F. Non sentinel node # 1, FS: Negative for tumor.
+G. Non sentinel node #2, FS: Negative for tumor.
+Clinical History:
+(Not Provided}
+Specimen(s) Received:
+A: Right breast mass, short stitch superior, long stitch lateral, double stitch deep
+B: Lateral margin right breast, FS
+C: Additional superior margin
+D: Sentinal node # 1, FS
+E: Sentinel node #2, FS
+2. MD
+MD
+MD
+F: Non sentinel node # 1, FS
+G: Non sentinel node #2, FS
+H: Axillary tissue
+Gross Description:
+A.
+Received in formalin is a yellow fibroadipose tissue weighing 92 grams, measuring 9.0 x 7.5 x 3.5 cm. The specimen is
+oriented with short suture superior margin, long suture lateral margin and double sutures 
+deep margin. The margins are
+inked as follows: Superior margin is inked in blue, superior margin inked in green
+, lateral margin is inked in orange,
+medial margin is inked in red, anterior margin inked in yellow and deep margin inked in 
+black. Multiple cross sections
+,
+there is well demarcated tumor mass 3.0 x 2.4 x 2.4 cm located at approximately 
+0.7 cm closest margin (and 0.4 cm
+inferior margin). The rest of the breast shows a white diffusely breast tissue and 
+adipose tissue. The stroma to fat 
+ratio is
+approximately 30-70%. Representative sections are submitted in twelve 
+cassettes as follows:
+1
+Superior margin
+2
+Inferior margin
+3
+Lateral margin
+Page 2 of 3
+SURGICAL PATHOL Report
+45670
+8
+9-12
+B.
+C.
+D.
+Medial margin
+Anterior margin
+Deep margin
+Superior margin with tumor
+Inferior margin with tumor
+Tumor
+Received fresh is a pale tan tissue fragment, 1.2 x 1.0 x 0.2 cm. Submitted in toto in one cassette for frozen section.
+Received in formalin is a yellow fibroadipose tissue 4.5 x 3.0 x 1.0 cm. The specimen presents multiple black sutures,
+marking through margin. 
+This margin is inked in yellow and the opposite margin is inked in black. Serially sectioned and
+submitted in toto in ten 
+cassettes.
+Received fresh is a yellow fibroadipose tissue 3.0 x 2.0 x 1.0 cm. The specimen is serially sectioned and submitted in toto
+in five cassettes as follows:
+E.
+F.
+G.
+H.
+1
+2-5
+For frozen section
+For permanent
+Received are two pink-tan tissue fragments, 1.0 x 1.0 x 0.5 cm each. Submitted in toto in one cassette for frozen.
+Received in formalin is an ovoid pale tan tissue fragment, 3.0 x 1.5 x 1.0 cm. Bisected and submitted in toto in two
+cassettes for frozen.
+Received in formalin is a yellow, ovoid tissue fragment, 3.0 x 2.0 x 2.0 cm. Serially sectioned and submitted in toto in six
+cassettes for frozen.
+Received in formalin is an ovoid yellow, fibroadipose tissue, 2.0 x 1.5 x 1.5 cm. Serially sectioned and submitted in toto in
+four cassettes.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepanc;
+HIPAA Discrepancy
+Prio Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+f 3/12/11
+Yes
+No
+FIED
+Page 3 of 3

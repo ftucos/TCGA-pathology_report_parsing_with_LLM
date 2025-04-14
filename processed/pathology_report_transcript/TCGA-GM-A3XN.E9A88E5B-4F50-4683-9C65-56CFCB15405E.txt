@@ -1,0 +1,112 @@
+UUID:E9A88E5B-4F50-4683-9C65-56CFCB15405E
+TCGA-GM-A3XN-01A-PR
+Redacted
+Yes
+No
+riteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Por Malignancy His.cry
+Qual/Synchronous Primary Noted
+Case is (circle):
+Reviewer liials
+QUALIFIED DISQUALIFIED
+Date Reviewed)
+DIAGNOSIS
+(A) LEFT BREAST, SEGMENTAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA OF THE BREAST, MODIFIED BLACK'S NUCLEAR GRADE 1 AND 2 (LOW
+AND INTERMEDIATE GRADE), PRESENT AS THREE MASSES MEASURING 2.0 CM, 1.9CM AND 1.1 CM IN
+MAXIMUM DIMENSION. (SEE COMMENT)
+PERINEURAL INVASION IS IDENTIFIED.
+INVASIVE TUMOR IS NOTED WITHIN 0.1 CM FROM THE MEDIAL MARGIN, 1 MM AND 2 MM FROM THE
+DEEP AND ANTERIOR MARGINS TOWARDS THE MEDIAL END OF THE SPECIMEN.
+LOBULAR CARCINOMA IN SITU (LCIS), MODIFIED BLACK'S NUCLEAR GRADE 1 AND 2 (LOW AND
+INTERMEDIATE GRADE), WIDELY DISPERSED.
+Reactive changes at previous biopsy site.
+Fibrocystic changes.
+METASTATIC ADENOCARCINOMA INVOLVING ONE OF ONE SENTINEL LYMPH NODE (1/1).
+MAXIMUM SIZE OF METASTASIS IS 0.3 CM.
+Extranodal extension is not identified.
+(B) PALPABLE LYMPH NODE, LEFT AXILLA:
+METASTATIC ADENOCARCINOMA IN ONE OF ONE LYMPH NODE (1/1).
+MAXIMUM SIZE OF METASTASIS IS 0.9 CM.
+EXTRANODAL EXTENSION IS PRESENT, MEASURING 0.1 CM IN MAXIMUM DIMENSION.
+(C) SECOND PALPABLE LYMPH NODE:
+One lymph node, no tumor present (0/1).
+(D) ADDITIONAL DEEP MARGIN:
+Fibroadipose tissue and skeletal muscle, no tumor present.
+(E) LEFT AXILLARY CONTENTS:
+METASTATIC ADENOCARCINOMA IN THREE OF THIRTY-ONE LYMPH NODES (3/31)
+MAXIMUM SIZE OF METASTASIS IS 0.4CM.
+EXTRANODAL EXTENSION IS PRESENT, MEASURING 0.5MM IN MAXIMUM DIMENSION
+(F)LEFT BREAST, NEW ANTERIOR MARGIN, EXCISION:
+No evidence of invasive carcinoma.
+LOBULAR CARCINOMA IN SITU (LCIS), IN FEW FOCI.
+Columnar alteration and ductal epithelial hyperplasia without atypia..
+(G) LEFT BREAST, NEW ANTERIOR MEDIAL MARGIN, EXCISION:
+No evidence of malignancy.
+1CD-0-3
+carcinoma, i
+, infiltrating
+lobular, NOS
+852013
+COMMENT
+Site. breast, NOS C50.9
+5-23-12 20
+The invasive lobular carcinoma demonstrates tubule formation in occasional small foci comprising much less than 1% of the
+entire tumor. Few signet ring cells are noted in both the in situ and invasive tumor.
+GROSS DESCRIPTION
+(A) FOR IMMEDIATE INTRAOPERATIVE CONSULTATION AND X-RAY IMAGING LABELED LEFT SEGMENTAL
+MASTECTOMY, SHORT STITCH SUPERIOR, LONG STITCH LATERAL, PURPLE IS DEEP - A breast tissue with needle
+localization wires measuring 10.0 x 6.0 x 5.0 cm. Surgical margins are inked. The specimen is radiographed before and after
+slicing and the radiograph is reviewed by the radiologist. The specimen is sectioned from lateral to medial aspect into seven
+slices. Slice 3 contains an ill-defined, firm tan lesion #1 containing radiological clip. It measures 1.1 x 1.0 x 0.6 cm. It is more than
+1.0 cm from all the margins. Cut surface of slices 4 and 5 contains a second ill-defined indurated tan lesion with clip measuring
+2.0 x 1.2 x 1.1 cm. It is 0.4 cm from the closest anterior surgical margin. Cut surface of slice 5 and 6 shows an ill-defined lesion 3
+with clip measuring 1.9 x 1.6 x 1.3 cm. In slice 5, lesion 3 and 2 are grossly connected to each other. Lesion 3 is 0.5 cm away
+from the medial surgical margin, 0.2cm from deep margin and more than 1.0 cm from the rest of the margins. Located in fatty
+tissue at the inferior aspect of slices 1 and 2 are two possible lymph nodes ranging from 1.1 up to 1.3 cm in greatest dimension
+which are indicated by the surgeon to represent the sentinel lymph nodes. Lymph nodes identified in slice 1 is sent for protocol
+Representative sections are submitted. A portion of the tumor is given to tumor bank.
+INK CODE: Superior - blue; inferior - green; anterior - yellow; posterior - black; lateral and medial -red.
+SECTION CODE: A1, possible lymph submitted for protocol identified in slice 1; A2, A3, slice 3, lesion 1, mirror images;
+A4. slice 3. tissue superior to lesion 1 including superior surgical margin: AR eline 3 tiecun nosterior to the lanian dinledi
+posterior surgical margin; A7, slice 2, tissue laterally to lesion 1; A8, slice 5, lesion 2 in relation to the anterior surgical margin; A9,
+slice 4, lesion 2; A10, slice 4, anterior surgical margin; A11, A12, slice 5, mirror images of lesions 2 and 3 in relation to each; A13,
+slice 5, inferior surgical margin; A14, slice 5, superior surgical margin; A15, slice 5, posterior surgical margin; A16, slice 6,
+possible continuation of lesion 2 in relation to the anterior surgical margin; A17, A18, slice 6, mirror images of lesion 3 in relation to
+the deep surgical margin; A19, slice 6, tissue inferior to A16, including anterior surgical margin; A20, A21, lesion 3 in relation to
+the medial surgical margin; A22, slice 2, sectioned possible lymph node.
+(B) PALPABLE NODE, LEFT AXILLA FOR FS - A single possible lymph node measuring 1.8 cm in its areatest dimension.
+Possible lymph node is sectioned and entirely submitted for frozen section in cassettes B1 and B2.
+(C SECOND PALPABLE LYMPH NODE - A single fatty possible lymph node measuring 2.5 cm in its greatest dimension.
+Possible lymph node is sectioned and entirely submitted for routine Histology.
+SECTION CODE: C1-C3, one sectioned possible lymph node.
+(D) ADDITIONAL DEEP MARGIN, INK ON TRUE MARGIN - A single fragment of a fatty tissue with ink indicating true measuring
+4.5 x 3.5 x 1.1 cm. Cut surface is fibrofatty. Entirely submitted.
+INK CODE: True surgical margin - blue.
+SECTION CODE: D1-D7, entire tissue.
+(E) LEFT AXILLARY CONTENTS - A single fragment of a fatty tissue measuring 8.0 x 7.0 x 3.0 cm. Dissection reveals multiple
+possible lymph nodes ranging from 0.3 up to 1.8 cm in greatest dimension. Possible lymph nodes are entirely.
+SECTION CODE: E1, five possible lymph nodes; E2, five possible lymph nodes; E3, five possible lymph nodes; E4, five
+possible lymph nodes; E5, two possible lymph nodes; E6, one sectioned possible lymph node; E7, one sectioned possible lymph
+node; E8, one sectioned possible lymph node; E9, one sectioned possible lymph node; E10, one sectioned possible lymph node;
+E11, one sectioned possible lymph node; E12, one sectioned possible lymph node; E13, one sectioned possible lymph node; E14,
+one sectioned possible lymph node; E15, one sectioned possible lymph node; E16, one sectioned possible lymph node; E17, one
+sectioned possible lymph node; E18, one sectioned possible lymph node.
+(F) NEW ANTERIOR MARGIN, INK ON TRUE MARGIN - A single fragment of a fibrofatty tissue with ink indicating true margin
+measuring 3.6 x 3.2 x 1.8 cm. True surgical margin is reinked blue. Cut surface is fibrofatty. Entirely submitted.
+SECTION CODE: Entirely submitted in cassettes F1-F8.
+(G) NEW ANTERIOR MEDIAL MARGIN, INK ON TRUE MARGIN - A single fragment of a fibrofatty tissue with ink indicating true
+margin measuring 4.0 x 3.0 x 0.9 cm. The surgical margin is reinked blue. Sectioned and entirely submitted.
+INK CODE: True surgical margin - blue.
+SECTION CODE: G1-G6, entire tissue.
+CLINICAL HISTORY
+None given.
+SNOMED CODES
+T-04050, T-C4710, M-85203, M-85206, M-85202
+"Some tests reported here may have been developed and performance characteristics determined by !
+specifically cleared or approved by the U.S. Food and Drug Administration."
+These tests have not been
+-END OF REPORT-

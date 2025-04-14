@@ -1,0 +1,192 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+-
+Pathologic Interpretation:
+BREAST, MASTECTOMY, PARTIAL/SIMPLE:
+- Invasive poorly differentiated ductal carcinoma Nottingham grade 3(3+3+3), 8.5 cm in greatest dimension.
+- Margins are free of tumor 
+(See Tumor Summary).
+Metastatic carcinoma to two out of eight lymph nodes (2/8) with extranodal extension.
+-
+The largest metastatic deposit 4.5 cm.
+ICD-0-3
+carcinoma infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+650.9 3/12/11
+سل
+UUID:B3B6DE56-F40C-40BF-B6B3-2BC10F695F16
+TCGA-EW-A1PB-01A-PR
+Redacted
+Tumor summary:
+Specimen:
+• Total breast
+Procedure:
+-
+· Total mastectomy
+Lymph Node Sampling:
+- Axillary dissection
+Specimen Integrity:
+- Single intact specimen
+Specimen Laterality:
+- Right
+Tumor Site:
+- Upper outer quadrant
+Tumor Size:
+-
+Greatest dimension of largest focus of invasion over 0.1 cm: 8.5 cm
+- Additional dimensions: 7.4 x 5.8 cm.
+Tumor Focality:
+- Single focus of invasive carcinoma
+Macroscopic Extent of Tumor:
+-
+"
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Skeletal Muscle: No skeletal muscle present.
+Histologic Type:
+-
+Invasive ductal carcinoma.
+Histologic Grade (Nottingham Histologic Score):
+Score 3
+Nuclear Pleomorphism:
+- Score 3
+Mitotic Count:
+-
+Score 3
+Overall Grade:
+- Grade 3
+Margins:
+-
+Uninvolved by invasive carcinoma.
+Distance from closest margin: 5.0 mm (deep).
+Treatment Effect:
+- No known Presurgical therapy
+In The Lymph Nodes: No known Presurgical therapy.
+Lymph-Vascular Invasion:
+-
+Present
+Dermal Lymph-Vascular Invasion:
+"
+Not identified.
+Lymph Nodes:
+- Total number of lymph nodes examined (sentinel and nonsentinel): 8
+Number of lymph nodes with macrometastases (>0.2 cm): 2
+-
+-
+Size of largest Metastatic deposit: 4.5 cm
+Extranodal Extension:
+-
+Present
+Method of Evaluation of Sentinel Lymph Nodes:
+- Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM):
+- Primary Tumor (pT): pT3
+-
+- Regional Lymph Nodes (pN): pN1a.
+• Distant Metastasis (PM): Not applicable.
+Ancillary Studies:
+- Estrogen Receptor:
+"
+Performed on another specimen.
+·Progesterone Receptor:
+•Performed on another specimen:
+- HER2/neu:
+-
+- Performed on another specimen:
+SURGICAL PATHOL Report
+: Results: No Immunoreactive tumor cells present.
+Results: No Immunoreactive tumor cells present.
+: Results: Negative (Score 0)
+AJCC: pT3, pN1a, M-n/a
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636=PR, A485=HER2, H-11~EGFR. All immunohistochemical 
+stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Emision Method. The results are read by a
+pathologist as positive or negative.
+As the attending pathologist, I attest that 1: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+Clinical History:
+Patient with cT3N1M0 carcinoma right breast - one large palpable mass axillary tail plus main mass in breast. Patient is
+OR done under para-vertebral block. Please evaluate 
+margins and any submitted nodes
+Operation Performed
+Right total mastectomy
+Pre Operative Diagnosis;
+Triple negative carcinoma breast
+Specimen(s) Received:
+Breast, mastectomy, partial/simple
+Gross Description:
+Received in formalin is a mastectomy specimen, measuring 28.0 x 18.0 x 6.5 cm with an ellipse of skin attached, measuring 25.0 x
+16.0 cm with a nipple attached. The specimen is oriented with one stitch marking 
+the superior margin, two stitches marking the
+medial margin. The specimen has been previously opened with inked deep 
+margin. Upon serial sectioning, there is an 8.5 x 
+7.4
+x 5.8 cm white lesion located in the upper outer quadrant of the breast. The 
+cut surface appears to be necrotic with foci of
+hemorrhage. The rest of the breast appear unremarkable with a stroma to 
+fat ratio of 20 to 80%. Additionally, there is a 
+4.5 x 3.5
+x 3.0 cm white-tan firm lesion located in the axilla. Those lesions are 
+approximately 0.3 cm to the deep margin. Representative
+sections are submitted as follows:
+1
+23
+Nipple
+Tumor with skin
+Tumor with deep margin
+Page 2 of 3
+4509802723-56
+10
+SURGICAL PATHOL Report
+Another section of the tumor with deep margin
+Section from the center of the tumor
+Another section of the tumor, firm area and skin
+One more section of the tumor
+A section of the smaller lesion in the axilla with deep margin
+Two more sections of the smaller tumor with deep margin
+Another section of the smaller lesion
+A section of the breast from the upper inner quadrant
+Section of the breast from the inner lower quadrant
+Section of the breast from the lower outer quadrant
+Section from one possible lymph node, measuring 3.2 x 1.1 x 1.0 cm
+One bisected possible lymph node
+11
+12
+13
+14
+15
+16
+17
+18
+One bisected possible lymph node
+19
+One bisected possible lymph node
+20
+Adipose tissue with possible lymph node
+One trisected possible lymph node
+One bisected possible lymph node
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primur, Noted
+Case is circle):
+leviewer Initiuis,
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 3
+-3/12/11
+Page 3 of 3

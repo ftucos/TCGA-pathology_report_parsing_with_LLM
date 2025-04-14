@@ -1,0 +1,51 @@
+3
+Department of Cancer Pathology
+led-0-3
+Carcinoma, infiltrating ductal. Nes $500/3
+Site: breast, Nos
+050.9
+3/11/11
+page 1 / 1
+سو
+copy No. :
+Date: (
+Internal invoice No.
+Patient: XXX
+Examination: Histopathological examination
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+Material: Multiple organ resection - left breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast. Toilet mastectomy.
+Examination performed on: (
+Histopathological diagnosis:
+Invasive ductal carcinoma of the left breast.
+Results of immunohistochemical examination:
+Estrogen receptors found in less than 10% of neoplastic cell nuclei.
+No progesterone receptors found in neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Positive reaction in invasive cancerous cells (Score = 3+ )
+Compliance validated by:
+UUID:51A2B785-0CDD-427D-BC82-549881082641
+TCGA-D8-A1JA-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy.
+Prior Malignancy History
+Du/Synchronous Primary Noted
+Casei cine
+Reviver itial
+QUALIFIED
+Yes
+DISQUALIFIED
+Date Reviewed:
+No

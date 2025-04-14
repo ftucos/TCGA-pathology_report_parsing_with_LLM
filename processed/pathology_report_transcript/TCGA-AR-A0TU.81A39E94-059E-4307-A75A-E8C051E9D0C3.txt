@@ -1,0 +1,36 @@
+UUID:81A39E94-059E-4307-A75A-E8C051E9D0C3
+TCGA-AR-ADTU-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+Breast, right, simple mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III), forming a
+well circumscribed mass (4.2 x 4.0 x 3.0 cm) (AJCC pT2) in the lower outer quadrant. Extensive tumor
+necrosis is present. There is no associated in situ component. The nipple is uninvolved. The surgical
+resection margins are negative for tumor. The closest margin (deep) is free by 0.3 cm. The surrounding
+breast tissue shows non-proliferative fibrocystic changes.
+Lymph nodes, right axillary sentinel Nos. 1A, 1B, 1C, and 2, excision: Multiple (4) right axillary sentinel
+lymph nodes are negative for tumor. Blue dye is identified in lymph nodes Nos. 1A and 1B. No blue dye
+is present in lymph nodes 1C or 2 [AJCC pN0(sn)]. Immunohistochemical cytokeratin stain was
+performed on the paraffin embedded sentinel lymph node tissue and confirms the H&E impression.
+HER2/neu protein overexpression is negative, score of 1+, according to the interpretation guidelines in
+the FDA-approved HercepTest.
+Estrogen: Negative, 0% nuclear staining
+Progesterone: Negative, 0% nuclear staining
+ER (Estrogen Receptor) test was developed and its performance characteristics determined by
+It has not been cleared or approved by the U.S. Food
+and Drug Administration.
+Criteria
+Diagnosis Discrepancy
+P.imary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer initials,
+Yes
+No
+QUALIFIED
+Date Reviev. ed:
+DISQUALIFIED

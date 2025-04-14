@@ -1,0 +1,150 @@
+Patient:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+Physician(s):
+SPECIMEN:
+UUID:33569E07-D7BF-491B-A352-CEEA81556800
+TCGA-A2-A259-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+ge:
+(F Race:
+A: SENTINEL LYMPH NODE BIOPSY, LEFT
+B: LEFT BREAST LUMPECTOMY
+=====
+FINAL DIAGNOSIS:
+Specimen #:
+Taken:
+Received:
+Reported:
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos C50.9
+he
+4/27/11
+====
+A. SENTINEL LYMPH NODE, DESIGNATED LEFT BREAST, BIOPSY:
+-LYMPH NODES EXAMINED: 2
+-LYMPH NODES POSITIVE FOR METASTASIS: 0
+(EXAMINATION OF MULTIPLE SECTIONS STAINED WITH HEMATOXIN AND EOSIN
+AND BY IMMUNOHISTOCHEMISTRY FOR 
+CYTOKERATIN)
+B. LEFT BREAST, LUMPECTOMY:
+-TUMOR TYPE: INVASIVE DUCTAL CARCINOMA
+-NOTTINGHAM GRADE: 2 (MODERATELY DIFFERENTIATED)
+-NOTTINGHAM SCORE: 7 (Tubules= 3, Nuclei= 3, Mitoses= 1, mitotic count
+4 per 10 
+HPF at 40x power)
+-TUMOR SIZE (GREATEST DIMENSION): GREATEST DIMENSION 1.5 CM
+(MEASURED GROSSLY)
+CARCINOMA, AND BENIGN DUCTS
+-TUMOR NECROSIS: ABSENT
+-MICROCALCIFICATIONS: PRESENT IN DUCTAL CARCINOMA IN-SITU,
+-VENOUS/LYMPHATIC INVASION: ABSENT
+-MARGINS: NOT INVOLVED (BUT CLOSE:)
+-DISTANCE OF INVASIVE TUMOR FROM NEAREST MARGIN:
+0.95 MM FROM SUPERIOR MARGIN (B2)
+-DISTANCE OF INTRADUCTAL CARCINOMA FROM NEAREST MARGIN:
+1.1 MM FROM SUPERIOR 
+MARGIN (B1)
+- INTRADUCTAL COMPONENT:
+DUCTAL CARCINOMA IN SITU WITH FOCAL NECROSIS, GRADE 2
+COMPRISES LESS THAN 
+20% OF THE TUMOR
+LOBULAR CARCINOMA IN SITU
+-ESTROGEN RECEPTORS: POSITIVE
+(REPORTED ON EARLIER CORE BIOPSY
+-PROGESTERONE RECEPTORS: POSITIVE
+(REPORTED ON EARLIER CORE BIOPSY
+-HER 2 NEU by IHC: NEGATIVE (1+)
+(REPORTED ON EARLIER CORE BIOPSY
+-PATHOLOGIC STAGE: pT1cN0 (i-) MX
+Page 1
+INVASIVE
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+PERSONAL DATA PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+FINAL DIAGNOSIS (continued):
+-ADDITIONAL PATHOLOGIC CHANGES:
+ADENOSIS
+CHANGES CONSISTENT WITH PRIOR BIOPSY
+CLINICAL DIAGNOSIS AND HISTORY:
+** Report Electronically Signed Out
+**
+===
+left breast cancer
+GROSS DESCRIPTION:
+A. Received fresh labeled with the patient's name
+designated "SENTINEL LYMPH NODE BIOPSY LEFT BREAST" consists of a 4.0 x
+3.0 x 1.0 cm irregular 
+portion of soft tissue. Sectioning reveals two grey
+yellow fatty lymph nodes 
+each measuring 1.5 x 1.0 x 0.3 cm in overall
+dimension. The specimen 
+is entirely submitted as follows:
+A1-A2: lymph node #1
+A3-A4: lymph node #2
+A5-A6: remaining adipose tissue. 6CFNS.
+B. Received fresh with accompanying radiograph and embedded localization
+wire labeled with the patient's 
+name
+BREAST LUMPECTOMY" consists of an irregular portion of tan yellow soft
+designated "LEFT
+tissue oriented with short 
+stitch superior and long lateral. The specimen
+measures 9.5 cm medial to lateral
+, 6.5 cm superior to inferior, 2.5 cm
+anterior to posterior. The 
+superior margin is focally disrupted. The
+specimen is inked as 
+follows: superior blue, inferior green, medial red,
+lateral yellow, anterior 
+orange, posterior black. Serial sections reveal a
+fairly well defined pink 
+grey gritty mass measuring 1.5 x 1.2 x 1.0 cm in
+overall dimension. The mass comes 
+to within 0.2 cm of the anterior margin
+and is located 1.0 cm from 
+superior margin. The remainder of the cut
+surface is composed 
+of markedly dense pink grey fibrous tissue with
+lobulated yellow tan 
+adipose tissue. No additional lesions are identified.
+Sections are submitted as follows:
+B1-B2: mass
+B3: anterior margin
+B4: normal appearing fibrous tissue
+Page 2
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+PERSONAL DATA PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+GROSS DESCRIPTION (continued) :
+B5-B6: medial and posterior margin
+B7-B8: superior margin
+B9-B10: inferior margin
+B11-B12: lateral margin. 12CFSS.
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronous Primary Noted
+ase is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Dare Reviewed
+4/27/11
+End of Report
+Page 3
+POR OFFICIAL USE ONLY -
+PERSONAL DATA - PRIVACY ACT OF 1974

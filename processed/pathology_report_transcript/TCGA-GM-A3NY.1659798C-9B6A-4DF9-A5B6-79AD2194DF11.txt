@@ -1,0 +1,126 @@
+UUID:1659798C-9B6A-4DF9-A586-79AD2194DF11
+TCGA-GM-A3NY-01A-PR
+Redacted
+Criteria
+W 1/11/12
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Ficr Malignancy History
+Yes
+No
+DIAGNOSIS
+Dual/Synchronous Primary Hote
+Case is (circle):
+Reviewer Initial
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 10/2
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+(A) LEFT BREAST, SEGMENTAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, MODIFIED BLACK'S NUCLEAR GRADES 1 AND 2.
+INVASIVE CARCINOMA COVERS AN AREA OF APPROXIMATELY 3 CM..
+INVASIVE CARCINOMA EXTENDS TO WITHIN 3.0 MM OF DEEP, 3.0 MM OF INFERIOR AND 5.0 MM OF
+SUPERFICIAL MARGINS.
+LYMPHOVASCULAR INVASION IDENTIFIED.
+LOBULAR CARCINOMA IN SITU.
+Intraductal papilloma.
+Fibrocystic changes including duct epithelial hyperplasia without atypia, apocrine metaplasia, radial scar and cyst.
+Microcalcifications present and associated with fibrocystic changes.
+(B) LEFT BREAST CAPSULE, CAPSULECTOMY:
+Dense fibrous connective tissue, no tumor present.
+(C) LEFT BREAST, NEW SUPERFICIAL INFERIOR MARGIN, EXCISION:
+Breast parenchyma with fibrocystic changes including florid ductal hyperplasia without atypia, apocrine metaplasia
+and microcysts.
+No evidence of malignancy.
+(D) LEFT BREAST, ADDITIONAL SUPERFICIAL MARGIN, EXCISION:
+Skin and subcutaneous adipose tissue, no evidence of malignancy.
+(E) LEFT AXILLA, LEVEL 1 AND 2 LYMPH NODES, EXCISION:
+METASTATIC CARCINOMA IN ONE OF TWELVE LYMPH NODES.
+METASTATIC CARCINOMA MEASURES 2.8 CM IN GREATEST DIMENSION.
+EXTRANODAL EXTENSION UP TO 3.0 MM PRESENT.
+(F) LEFT AXILLARY LEVEL 3 LYMPH NODE:
+One lymph node, no tumor present.
+ICD-0-3
+GROSS DESCRIPTION
+carcinoma, infiltrating lobular, NOS 8520/3
+Site: breast, Nos C50.9
+بسل
+1/11/12
+(A) LEFT SEGMENTAL MASTECTOMY, SHORT SUPERIOR, LONG LATERAL, PURPLE INK DEEP - One pale-yellow
+segmental mastectomy specimen (9.5 x 8.0 x 4.2 cm) with a short stitch to mark the superior, long stitch to mark lateral and purple
+ink to mark the deep. The specimen is inked, serially sectioned from medial to lateral into twelve slices. Located at slice 3 through
+slice 8, there is one pale-gray, firm, ill-defined nodule (3.2 x 21.8 x 2.7 cm) is identified, located at 0.2 cm from deep margin, 0.2
+cm from the anterior margin, 0.2 cm from superior margin, 1.2 cm from inferior margin, 0.6 cm from medial margin and 2.2 cm
+from lateral margin. One clip is identified at slice 5, central portion. A portion of normal tissue and tumor is submitted for tumor
+bank.
+INK CODE: Blue - superior; green - inferior; yellow - superficial; black - deep; red - lateral and medial.
+SECTION CODE: A1, slice 1, entirely submitted of the slice, perpendicular for medial margin; A2, slice 12, central portion
+lateral margin perpendicular; A3, slice 2, central portion with deep margin section adjacent to the lesion at slice 3; A4, slice 3,
+central portion nodule with anterior margin; A5, slice 3, central portion nodule with deep margin; A6, slice 3, central to inferior
+portion with the anterior margin; A7, slice 3 central to inferior portion tumor with the deep margin; A8-A14, entirely submitted of the
+slice 4 from superior to inferior direction; A15-A20, entirely submitted of the slice 5 from superior to inferior direction (A16
+associated with clip); A21-A28, slice 6, entirely submitted of the slice submitted from superior to inferior direction; A29, slice 7,
+inferior portion with inferior and deep margin; A30, slice 8, superior portion with the superior margin; A31, A32, slice 8, central
+portion nodule with the deep nodule submitted from superior to inferior direction; A33, slice 9, central portion section adjacent to
+the lesion at slice 8.
+*GROSS EVALUATION: TUMOR EXTENDS SUPERFICIAL/SUPERIOR AND DEEP MARGINS.
+(B) LEFT BREAST IMPLANT AND PARTIAL CAPSULECTOMY - An 11.5 x 11.5 x 2.5 cm tan-yellow plastic breast implant
+devoid of contents. There is a 7.0 x 2.5 x 1.0 cm irregular piece of tan-yellow fibroadipose tissue attached to the surface of the
+breast implant. No inscriptions are noted. Representative sections of the fibroadipose tissue is submitted in B1-B2.
+Photos are also taken.
+(C) NEW SUPERFICIAL INFERIOR MARGIN, INK MARKS TRUE MARGIN - One pale-yellow fibroadipose tissue (4.5 x 1.8 × 0.6
+cm) with one side inked with purple to mark the true margin. The true margin is reinked and the specimen is serially sectioned and
+entirely submitted.
+INK CODE: Blue - true margin.
+SECTION CODE: C1-C4, entirely submitted of the specimen.
+(D) ADDITIONAL SUPERFICIAL MARGIN, INK ON TRUE MARGIN - One pale-yellow fibroadipose tissue (2.5 x 1.6 x 0.6 cm)
+with purple ink to mark the true margin. The true margin is inked and the specimen is serially sectioned and entirely submitted.
+Also in the container, there are two unremarkable pale-gray skin strips (5.2 x 0.5 x 0.5 cm, 3.6 x 0.4 x 0.6 cm, respectively). The
+resection margin of the skin is inked and specimen is serially sectioned and entirely submitted.
+INK CODE: Blue - resection margin.
+SECTION CODE: D1, entirely submitted of the fibroadipose tissue; D2, D3, each containing one piece of skin strip.
+(E) LEFT AXILLARY, LEVEL 1 AND 2 LYMPH NODES - An 11.0 x 7.5 x 2.5 cm portion of yellow fibroadipose tissue which yields
+multiple possible lymph nodes ranging from 0.5 cm to 4.0 x 3.2 x 1.5 cm. The largest lymph node has a solid tan-white lobulated
+cut surface suggestive of metastases. The lymph nodes are submitted entirely.
+SECTION CODE: E1-E4, one lymph node bisected in each cassette; E5, two lymph nodes; E6, four lymph nodes; E7,
+largest lymph node.
+(F) LEFT AXILLARY LEVEL 3 LYMPH NODE - A 3.0 x 2.5 x 0.8 cm portion of yellow fibroadipose tissue which yields two
+possible lymph nodes, both measuring 1.0 cm in greatest dimension. The lymph nodes are submitted entirely in F.
+CLINICAL HISTORY
+None given.
+SNOMED CODES
+T-04050, M-85203, T-C4710, M-85206
+"Some tests reported here may have been developed and performance characteristics determined by
+specifically cleared or approved by the U.S. Food and Drug Administration."
+Entire report and diagnosis completed by:
+. These tests have not been
+Start of ADDENDUM
+This report is issued to give Immunohistochemistry results. Immunohistochemical staining is performed on a representative Pen-
+Fixed, paraffin-embedded section of METASTATIC CARCINOMA, axillary lymph node, block E7.
+MARKER
+Clone/Vendor
+HER2 overexpression
+AB8 (NeoMarkers)
+FOOTNOTE
+RESULTS
+Negative
+STAINING
+SCORE
+0
+Breast specimens used for determining prognostic / predictive markers are fixed in either formalin or Pen-Fix (buffered alcoholic
+formalin fixative) for 6 - 48 hours.
+For ER & PR:
+Positive
+Low Positive
+10 - 100%
+1-9%
+For Ki-67
+Low Positive
+<17%
+Intermediate Positive
+17-35%
+High Positive
+>35%
+Entire report and diagnosis completed by:
+-END OF REPORT---

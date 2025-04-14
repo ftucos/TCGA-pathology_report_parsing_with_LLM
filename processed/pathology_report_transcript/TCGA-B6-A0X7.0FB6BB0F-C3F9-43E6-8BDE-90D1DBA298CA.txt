@@ -1,0 +1,79 @@
+Burgical Pathology!
+Surg Path
+CLINICAL HISTORY:
+ICD-0-3
+duct, Nos
+Carcinoma infiltrating
+8500/3
+Site: breast, Nos
+050.9
+1/25/11 lu
+bilateral
+Bilateral breast tumors.
+GROSS EXAMINATION:
+A. "Left breast tumor (long suture lateral, short suture superior)", fresh.
+Received is a 6 x 2.5 x 1 cm portion of fibroadipose tissue consistent with
+breast tissue, with orientation sutures provided, the anterior surface is
+inked green, and the posterior blue. Specimen is transected to reveal a
+single firm 1.2 x 1 x 1 cm gray-white tumor which in many areas is relatively
+well circumscribed but in other areas appears to have an infiltrative border.
+There is flecks of yellow within the specimen. The neoplasm grossly extends to
+within 0.3 cm of the closest (anterior) margin of resection. A portion of
+tumor is submitted to the Tissue Bank for Estrogen and Progesterone receptor
+analysis. The entire submitted in Blocks A1-A7, with the majority of the
+tumor in Blocks A2-A4.
+Received
+B. "Right breast tumor (long suture lateral, short suture superior).
+is a 5 x 4.5 x 2 cm portion of fibroadipose tissue consistent with breast
+tissue, which is oriented with a long and short suture. The anterior surface
+is inked blue and the posterior black, and the specimen is transected to
+reveal a roughly dumb bell shaped 2.0 x 1.0 x 1.0 cm firm, gray-white mass
+with infiltrative borders. The tumor grossly extends to within 0.3 cm of the
+closest margin of excision. Tissue has been sent for Estrogen and Progestrone
+essays. The entire specimen is submitted from anterior to posterior in Block
+B1 through B8 with the majority of the tumor in Blocks B3-B7. The anterior
+margin is in Block Bl and posterior margin in Block B8.
+DIAGNOSIS:
+A.
+BREAST, "LEFT TUMOR,
+EXCISIONAL BIOPSY:
+INVASIVE AND INTRADUCTUAL CARCINOMA (1.2 X 1.0 X 1.0 CM),
+NSABP NUCLEAR GRADE 2, HISTOLOGIC GRADE 2,
+EXTENDING FOCALLY TO WITHIN 100 MICRONS OF THE INKED MARGIN OF EXCISION
+(ANTERIOR A4).
+INTRADUCTAL CARCINOMA ACCOUNTS FOR LESS THAN 5% OF TOTAL TUMOR VOLUME.
+VASCULAR INVASION NOT PRESENT.
+TISSUE SUBMITTED FOR ER/PR.
+APOCRINE METAPLASIA PRESENT IN BENIGN BREAST TISSUE.
+Criteria
+B.
+BREAST, 'RIGHT TUMOR". EXCSIONAL BIOPSY:
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+INVASIVE AND INTRADUCTAL CARCINOMA (2.0 X 1.0 X 1.0 CM),
+NSABP NUCLEAR GRADE 2, HISTOLOGIC GRADE 3,
+EXTENDING FOCALLY TO WITHIN 100 MICRONS OF THE INKED MARGIN OF EXCISION
+(POSTERIOR B2, B3, B7).
+INTRADUCTAL CARCINOMA ACCOUNTS FOR 5% OF TOTAL TUMOR VOLUME.
+VASCULAR INVASION NOT PRESENT.
+TISSUE SUBMITTED FOR ER/PR.
+MICROCALCIFICATIONS AND EPITHELIAL HYPERPLASIA OF THE USUAL TYPE IN BENGIN
+BREAST TISSUE.
+Verified by:
+M.D.
+(Electronic Signature)
+Yes
+No
+☑
+DISQUALIFIED
+QUALIFIED
+Date viewed:
+1/25/11
+UUID:0FB6BB0F-C3F9-43E6-8BDE-90D1DBA298CA
+TCGA-B6-A0X7-01A-PR
+Redacted

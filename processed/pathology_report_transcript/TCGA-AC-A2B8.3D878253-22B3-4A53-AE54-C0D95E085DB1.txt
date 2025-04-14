@@ -1,0 +1,76 @@
+DIAGNOSIS:
+Sex: Female
+D.O.B.:
+Collected
+Received
+Reported:
+SPECIMEN INFORMATION
+Accession
+Acct/Reg#:
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+UUID:3D878253-22B3-4A53-AE54-C0D95E085DB1
+TCGA-AC-A2B8-01A-PR
+A. Right axillary sentinel lymph node:
+One lymph node, no evidence of metastatic carcinoma.
+Confirms frozen section diagnosis and confirmed by negative staining for pancytokeratin.
+8. Right breast mastectomy:
+Rondual invasive lobular carcinoma
+Size: 8 cm.
+Architectural score: 3 of 3.
+Nuclear score: 2 of 3.
+Mitotic score: 1 of 3.
+Total score: 6 of 9 = grade 2
+Carcinoma involves portions of the nipple.
+No evidence of involvement of the overlying epidermis.
+Deep margin of excision is free of carcinoma.
+pTNM classification: T3pNO (+-) MX.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+QUALIFIED
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewerin
+Yes
+No
+DISQUALIFIED,
+/ 5/27/115/11/
+Electronic Signature:
+Redacted
+CLINICAL HISTORY:
+CLINICAL INFORMATION
+Preoperative Diagnosis: Right modified radical mastectomy with sentinel node mapping with frozen section. Invasive lobular carcinoma. ER positive, PR
+positive, Ki-67 (MIB1) high -28%.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+ICD-0-3
+carcinoma infiltrating lobular, Nos 8520/3
+SPECIMENS:
+A. Right axillary sentinel node #1300 with frozen section
+B. Right breast
+GROSS DESCRIPTION:
+Site: breast, Nos
+050.9
+SPECIMEN DATA
+سر
+5/27/11
+The specimen is received in two containers, labeled with the patient's name,
+Container A is additionally labeled "right axillary sentinel node," and contains a 2.0 cm, yellow-tan, firm. fatty nodule. It is bisected and entirely submitted
+for frozen section. The residual is entirely resubmitted for permanent section in cassette A, labeled
+Container B is received with formalin, additionally labeled "right breast," and contains an 685.4 gm, 19.0 x 13.5 x 7.5 cm, simple mastectomy specimen,
+partially surfaced by a 17.0 x 8.0 cm ellipse of pink-tan wrinkled skin, bearing a central 0.9 x 0.9 x 0.5 cm inverted nipple. The deep margin is inked and
+the specimen is serially sectioned to reveal a 8.0 x 4.0 x 2.5 cm, ill-defined, gray-white gritty mass that resides 2.0 cm from the deep margin and 2.5 cm
+below the skin surface. The remainder of the cut surface is comprised of yellow-tan adipose tissue admixed with moderate amount of interenereeri
+gray-white fibrous tissue. Additional masses are not identified. Representative sections are submitted in cassettes B1-11, labeled
+designated as follows: 1 - nipple; 2 - Inked deep margin, perpendicular; 3-8 -- mass; 9-11 -- sections from the three uninvolved quadrants.
+Additionally a yellow and green cassette are submitted for genomics research, each labeled
+INTRA-OPERATIVE CONSULTATION:
+A. FROZEN SECTION DIAGNOSIS: "Negative for tumor," per Dr
+K
+The sentinel node contains two small microscopic glands in the outer layer of the fibrous capsule of the node. I think they are benign glandular
+Inclusions. They stain with cytokeratin but they do not look like the invasive 
+lobular carcinoma cells.
+110***

@@ -1,0 +1,160 @@
+UUID:DEB67EB8-155C-4ACF-B3D4-595E4CBE2E5C
+TCGA-A7-A0CD-01A-PR
+SPECIMEN
+Redacted
+B.
+C.
+A. Sentinel node #1
+Sentinel node #32
+Left breast mass
+D.
+6 o'clock
+E.
+12 o'clock
+F.
+9 o'clock
+G. 3 o'clock
+100-0-3
+carcinoma, infiltrating duct, NOS 8500/3
+. 9/3/11
+Site: breast, NUS
+050.9
+REPORT REVISED ON
+CLINICAL NOTES
+AT
+HISTORY: Left breast ca at 10:00. Multifocal 1 cm. and 5 cm. from
+nipple.
+REPORT REVISED ON
+FROZEN SECTION DIAGNOSIS
+AT
+A) Lymph node, sentinel node 1, excision
+carcinoma (0/1).
+B) Lymph node, sentinel node 2, excision
+carcinoma (0/1).
+REPORT REVISED ON
+GROSS DESCRIPTION
+AT
+1
+Negative for metastatic
+Negative for metastatic
+A. Received fresh labeled "sentinel node #1" is a lymph
+node that measures 1.5 cm in dimension. The lymph node is
+entirely frozen.
+B. Received fresh labeled "sentinel lymph node #2" is a
+lymph node that measures 7 1 mm in dimension. The lymph
+node is entirely frozen.
+C. The specimen is received fresh labeled "left breast
+mass" and
+consists of a yellow piece of soft tissue measuring 10 x 7.5 x 5.4
+cm. The
+specimen has a long and a short suture on it. There is an
+overlying
+GROSS DESCRIPTION
+white
+ellipse of skin measuring 6.5 x 1.5 cm. which has a central
+longitudinal wound in it. The external surface of the specimen is
+inked as indicated below.
+Superior yellow, inferior orange, anterior red, lateral blue,
+medial
+green,
+inferior black. There is a central firm tumor measuring 1.5 cm. in
+greatest
+cross sectional dimension. A portion of the central tumor is taken
+for
+research purposes.
+Sections after fixation. RS15. +RR11
+D. Received in formalin labeled "#6" and consists of a
+yellow and tan piece of soft tissue measuring 3 x 2 x 0.7
+cm. It is not completely clear which side of the specimen is the
+external side. The external surface of the specimen is inked.
+Sections after fixation. RS4.
+E.
+Received in formalin labeled "#12" and consists of a
+yellow piece of soft tissue measuring 3 x 2.5 x 1 cm. The
+external surface of the specimen is inked. RS4.
+F. Received in formalin labeled "9" and consists of a
+yellow piece of soft tissue measuring 3 x 1.5 x 1 cm. The
+external surface of the specimen is inked. Sections after fixation.
+RS2.
+G. Received in formalin labeled "#3" and consists of a
+piece of yellow soft tissue measuring 3.2 x 1.5 x 1 cm.
+The external surface of specimen is inked. Sections after fixation.
+RS3.
+REPORT REVISED ON
+AT
+MICROSCOPIC DESCRIPTION
+B.
+A. A single lymph node is negative for malignancy.
+A single lymph node is negative for malignancy.
+[At the request of some staff oncologists and in keeping
+with the opinion of some experts in breast pathology,
+immunohistochemical stains for keratin were not used on the
+sentinel
+lymph node sections in this case. These stains can be obtained if
+desired. Our paraffin blocks are retained for 10 years. (Schwartz
+GF et al. Cancer 94 (10): 2542, 2002)].
+C.
+Invasive carcinoma
+Tumor type: Infiltrating ductal carcinoma
+Tumor grade: 2 (Elston SBR grade; A/N/M =3/2/1 )
+Mitotic index: 0 mitoses/10 HPFs (1 HPF = 0.196 sq mm)
+Tumor size: 1.5 cm.
+Specimen margins: Negative for malignancy. Carcinoma is 1
+cm. from the nearest inked margin.
+Vessel invasion: Absent.
+Calcification: Absent.
+Non-tumorous breast: Apocrine metaplasia, cyst formation and
+intraductal epithelial hyperplasia without atypia are present.
+pTNM stage: T1
+Prognostic markers: See previous biopsy.
+malignancy.
+specimen
+D-G. Additional biopsy pieces are negative for
+Cyst formation and apocrine metaplasia are seen in
+D at 6 o'clock.
+After discussion with Dr.
+specimen C was re-examined. No
+definite second mass was identified. An additional 11 blocks of
+tissue were submitted from the inferior portion of the specimen.
+These showed cyst formation (up to 2 mm), focal intraductal
+MICROSCOPIC DESCRIPTION
+epithelial hyperplasia without atypia, periductal elastosis,
+apocrine metaplasia, focal small cyst rupture, and arteriolar
+medial
+calcification. No additional carcinoma was identified.
+4x3, 3x4, 14x2
+REPORT REVISED ON
+AT
+DIAGNOSIS
+A. Sentinel lymph node #1, biopsy:
+A single lymph node is negative for malignancy.
+B. Sentinel lymph node #2, biopsy:
+A single lymph node is negative for malignancy.
+C. Breast, left, excisional biopsy:
+Infiltrating ductal carcinoma, Elston SBR grade 2.
+Fibrocystic
+changes.
+D-G. Breast, left, 6 o'clock, 12 o'clock, 9 o'clock, 3 o'clock,
+biopsies:
+Mild fibrocystic changes. Negative for malignancy.
+Addition to microscopic description.
+REPORT REVISED ON
+AT
+M.D.
+'
+(Electronic Signature)
+End Of Report
+Yes
+No
+Criteria-
+Diagnosis Discrepanty
+Primary Tumor Site Discrepancy
+HIPAA Ciscrepancy
+Prior Malignancy History
+Dual/Synchronous Primery Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED
+e Reviewed:
+CISQUALINED
+W 9/3/11

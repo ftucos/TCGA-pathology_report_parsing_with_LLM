@@ -1,0 +1,160 @@
+Patient:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+Physician(s):
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+) F
+Race: WHITE
+Taken:
+Received:
+SPECIMEN:
+Reported:
+A: SENTINEL LYMPH NODE#1 B: SENTINEL LYMPH NODE #2
+C: RIGHT BREAST
+=====:
+FINAL DIAGNOSIS:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+850013
+Site: breast, NOS 250.9
+1/25/11
+A. RIGHT AXILLARY SENTINEL LYMPH NODE #1,
+BIOPSY:
+ONE LYMPH NODE NEGATIVE FOR TUMRO BY H&E AND IMMUNOHISTOCHEMISTRY.
+B. RIGHT AXILLARY SENTINEL LYMPH NODE #2, BIOPSY:
+ONE LYMPH NODE NEGATIVE FOR TUMRO BY H&E AND IMMUNOHISTOCHEMISTRY.
+C. RIGHT BREAST, MASTECTOMY:
+INFILTRATING DUCTAL CARCINOMA, WELL DIFFERENTIATED BY COMBINED
+HISTOLOGIC CRITERIA (TUBULES- 2; 
+NUCLEAR GRADE- 2; MITOTIC RATE- 1)
+-MAXIMUM TUMOR SIZE: 2.4 CM, MEASURED 
+GROSSLY.
+-DUCTAL CARCINOMA IN SITU, SOLID, CRIBRIFORM, AND MICROPAPILLARY
+TYPES, NUCLEAR GRADE 2, WITH FOCAL 
+NECROSIS, COMPRISING 10% OF
+TUMOR.
+-NO LYMPH VASCULAR OR PERINEURAL INVASION.
+-MARGINS 
+NEGATIVE FOR TUMOR.
+-AJCC STAGE PT2N0MX.
+CLINICAL DIAGNOSIS AND HISTORY:
+new pleo calcifications
+PRE-OPERATIVE DIAGNOSIS:
+r/o dcis
+POST-OPERATIVE DIAGNOSIS:
+Operative Findings: same
+Post-operative Diagnosis: same
+Report Electronically Signed Out
+UUID:FDF38AA6-DC65-4043-8277-71BAE4798281
+TCGA-A2
+-A0CT-01A-PR
+Redacted
+==
+Page 1
+Continued on Next Page
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Patient:
+GROSS DESCRIPTION:
+Specimen #:
+A. Received fresh, labeled with the patient's name,
+designated "SENTINEL LYMPH NODE #1" and consists of a 0.7 × 0.7 x 0.4 cm
+lymph node. 
+One half of the node is submitted for the CBCP protocol. The
+remainder is submitted in cassette 
+Al.
+B. Received in formalin, labeled with the patient's name,
+designated 
+"SENTINEL LYMPH NODE #2" and consists of a 2.0 x 1.3 x 0.4 cm
+fragment of 
+fatty tissue containing a 0.2 cm lymph node. The specimen is
+bisected and submitted 
+in its entirety for paraffin section in one
+cassette.
+designated
+C. Received fresh, labeled with the patient's name,
+"
+RIGHT BREAST ONE TAG MEDIAL, TWO TAGS SUPERIOR" and consists of a 505.0
+gram simple 
+mastectomy specimen, measuring 19.7 cm superior to inferior,
+19.8 cm medial to 
+lateral, and 2.2 cm anterior to posterior. The overlying
+ellipse of nipple 
+bearing skin measures 10.5 x 5.2 cm, which is tagged for
+its abnormalities. Ink 
+code: Superior superficial-blue, inferior
+superficial-orange
+, deep-black. Sectioning reveals a 2.4 x 2.4 x 1.7 cm
+well-circumscribed, 
+tan tumor in the central portion of the upper outer
+quadrant, 0.6 cm from the 
+deep margin. The tumor is surrounded by dense
+fibrous tissue, which 
+extends medially to the inner portions of the
+breast. Within 
+this fibrous tissue in the central portion of the breast
+(1.0 to 2.0 cm from the 
+tumor and 1.5 cm from the deep margin) is a 0.7 cm
+Mammomark site without associated 
+mass. Representative sections are
+submitted in 13 cassettes 
+as follows:
+C1: Skin, lateral tip.
+C2: Tumor, upper outer quadrant.
+C3: Tumor with deep margin upper outer quadrant.
+C4: 
+Tumor with deep margin upper outer quadrant.
+C5: Fibrous 
+tissue immedial medial to tumor.
+C6: Mammomark biopsy site.
+C7: Mammomark biopsy site.
+C8: Deep margin underlying Mammomark site.
+C9: Random fibrous tissue lower inner quadrant.
+C10: Random fibrous tissue upper inner quadrant.
+C11: Random fibrofatty tissue upper outer quadrant peripheral.
+C12: Random fibrofatty 
+tissue lower outer quadrant.
+C13: 
+Cross section of nipple.
+Page 2
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+r
+SURGICAL PATHOLOGY REPORT
+Patient:
+GROSS DESCRIPTION (continued) :
+Specimen #:
+Mirror images of the following sections are submitted for the CBCP
+protocol: C1, C2, C3, C5, C6, C7, C9, C10
+, C11,
+and C12.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Page 3
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+Yes
+No
+ン
+RISQUALIFIED
+Date Reviewed:
+End of Report

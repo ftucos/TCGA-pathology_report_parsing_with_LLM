@@ -1,0 +1,31 @@
+UUID:F832C787-3668-475F-8F67-6342DA3777F4
+TCGA-AR-AØTW-01A-PR
+Redacted
+100-0-3
+carcinoma, infiltrating ductal Nos 8500/3
+Site: breast, Nos
+050.9
+Breast, right, modified radical mastectomy: Multifocal ductal carcinoma of the breast. The largest tumor
+is a Nottingham grade III (of III) ductal adenocarcinoma (5.5 cm in greatest dimension). There are
+multiple (3) additional tumors (all Nottingham grade II (of III) 2.0 cm 1.5 cm, and 1.0 cm in greatest
+dimension. The surgical margins are negative. Metastatic adenocarcinoma is identified in multiple (3 of
+27) right axillary lymph nodes. The largest node of metastasis measures 3.5 cm in greatest dimension.
+No definite extracapsular extension is identified.
+Breast, left, simple mastectomy: Nonproliferative fibrocystic changes characterized by dense fibrosis,
+cyst formation, and fibroadenomatous change.
+Nipples, left and right, excision: Negative for malignancy.
+Criteria
+Diapnosis Discrepancy
+Primary Tumor Site Discreparry
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchroncus Prinary Note
+Case is icircle:
+Reviewer Initials
+QUALIFIED
+Yes
+No
+/ DISQUALIFIED
+Date Reviewed: 10
+kkkkk³
+W

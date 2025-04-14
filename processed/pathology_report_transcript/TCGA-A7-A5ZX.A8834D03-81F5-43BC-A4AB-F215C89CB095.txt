@@ -1,0 +1,241 @@
+Final Surgical Pathology Report
+ICD-0-3
+Carcinoma, duelar
+infiltrating 8520/3
+Site: 
+Yes $50.9
+"①Bast upper
+outer
+quadrant
+IN 4/12/13
+سه
+C504
+Procedure:
+Diagnosis
+A. Lymph nodes, left axillary sentinel, excision
+Metastatic carcinoma in two of two (2/2) lymph nodes in this part.
+B. Breast, right, excision -
+Invasive lobular carcinoma, 0.5 cm in greatest dimension (see
+microscopic description, including for prognostic marker results).
+Lobular carcinoma-in-situ.
+Fibrocystic changes, with microcalcifications present.
+Skin, nipple, and deep margin negative for tumor.
+C. Breast, left, excision -
+Invasive lobular carcinoma, forming a 3.2 cm in greatest dimension
+mass, with additional scattered foci of invasive lobular carcinoma
+present.
+Invasive lobular carcinoma present at least very near (<1 mm from), and
+possibly at, the deep margin in the separate foci.
+Skin and nipple negative for malignancy.
+Lobular carcinoma-in-situ.
+Biopsy site changes.
+Fibrocystic changes, with microcalcifications present.
+D.
+Lymph nodes, left axillary, excision
+-
+Metastatic carcinoma in nineteen of twenty-two (19/22) lymph nodes in
+this part, including with metastatic carcinoma in the superior-most
+lymph node.
+Microscopic Description:
+A, D. There is metastatic carcinoma in two of two (2/2) sentinel lymph
+nodes in part A, and in nineteen of twenty-two (19/22) lymph nodes in
+part D.
+Thus overall in this case, there is metastatic carcinoma in
+twenty-one of twenty-four (21/24) lymph nodes (pN3a). There is
+extracapsular extension. The largest involved lymph node is one of the
+sentinel lymph nodes, 2.5 cm in greatest dimension. The largest lymph
+node in part D is negative for tumor. There is metastatic carcinoma in
+the 
+superior-most lymph node in part D. Please note that in addition
+to examining H&E stained sections, immunostains with antibodies to
+keratin (AE1-AE3) were examined on representative blocks in both parts
+to aid in 
+assessment.
+B. The following template summarizes the findings in this part:
+Invasive carcinoma: Present
+Histologic type: Invasive lobular carcinoma, identified
+incidentally in block B4
+Histologic grade:
+Overall grade: 2
+Architectural score: 3
+Nuclear score: 2
+Mitotic score: 1
+Greatest dimension (PT): slightly >0.5 cm (pTlb)
+Specimen margins: Negative
+Vessel invasion: Not identified
+Nipple: Negative for tumor
+Invasion of skin or chest wall: Not identified
+UUID:A8834D03-81F5-43BC-A4AB-F215C89CB095
+TCGA-A7-A5ZX-01A-PR
+Redacted
+Ductal carcinoma in situ: Not identified
+Description of non-tumorous' breast: Fibrocystic changes, with
+microcalcifications present
+Comments: There is also lobular carcinoma-in-situ present.
+Please note
+that immunostains with antibodies to p63, keratin (AE1-AE3), and
+e-cadherin were examined on representative blocks to aid in assessment.
+Distant metastasis (PM): Not applicable
+Breast prognostic marker results
+Results
+Estrogen receptor: 80% / moderate intensity
+Progesterone receptor: 5% / weak intensity
+Her2 by IHC: 1+
+Interpretation
+Estrogen receptor: Positive
+Progesterone receptor: Weakly positive
+Her2 by IHC: Negative for Her2 expression
+Comments
+Fixation time: 30:00
+Cold ischemia time: 0:30
+The analyzed tissue met quality requirements of the ASCO/CAP guidelines
+for Her2 testing. Control materials stained appropriately.
+Based on data collected in our laboratory and reported in the
+literature we recommend FISH analysis for Her2 in cases that stain with
+intermediate intensity by immunohistochemistry.
+Prognostic markers were done by immunohistochemical stain on paraffin
+sections from 10% neutral buffered formalin fixed tissue using
+antibodies on a Benchmark automated stainer.
+The Her2 antibody is clone 4B5 and has been approved by the FDA as an
+aid in the assessment of breast cancer patients for whom Herceptin
+treatment is considered.
+This laboratory meets the test validation and quality assurance
+requirements of the ASCO/CAP guidelines for Her2, ER and PR testing for
+carcinoma of the breast
+1
+C. The following template summarizes the findings in this part:
+Invasive carcinoma: Present
+Invasive lobular
+Histologic type: Invasive lobular carcinoma.
+carcinoma is identified comprising the main mass lesion, as well as in
+multiple additional foci in random sections of this breast (blocks C7,
+C8, C10, C11).
+Histologic grade:
+Overall grade: 2
+Architectural score: 3
+Nuclear score: 2
+Mitotic score: 1
+Greatest dimension (PT): The main mass lesion is 3.2 cm in
+greatest dimension (pT2)
+Specimen margins: Although the margins surrounding the main mass
+lesion are negative, tumor in the additional foci of invasive lobular
+carcinoma is present at least very near (<1 mm from), and possibly at,
+the deep margin, with fragmentation hindering assessment.
+Vessel invasion: Not identified
+Nipple: Negative for tumor
+Invasion of skin or chest wall: Not identified
+Ductal carcinoma in situ: Not identified
+Description of non-tumorous breast: Fibrocystic changes, with
+microcalcifications present. Biopsy site changes.
+Comments: There is also lobular carcinoma-in-situ present. Please note
+that immunostains with antibodies to keratin (AE1-AE3), and e-cadherin
+were examined on representative blocks to aid in assessment.
+Distant metastasis (PM): Not applicable
+Prognostic markers: Previously performed
+Note:
+have reviewed this case.
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature.
+been cleared or approved by the FDA.]
+They have not
+Specimen
+A.
+Left axillary sentinel node
+B. Right breast
+C.
+Left breast
+D. Left axillary contents
+Clinical Information
+CLINICAL HISTORY:
+breast
+yo white female with invasive lobular cancer left
+Intraoperative Consultation
+A. Metastatic carcinoma present.
+Gross Description
+A.
+Received fresh in a container labeled "left axillary sentinel node"
+is a portion of tissue which is tan-yellow and fatty externally. On
+palpation, it appears to consist of two adherent lymph nodes, spanning
+an area 2.5 x 1 x 0.5 cm and 1.8 x 1 x 0.4 cm. On cut surface, both
+vary from soft and tan to yellow, to firmer and tan-white. The
+specimen is entirely submitted for frozen section in two blocks, with
+one lymph node per block.
+received at
+placed in
+B. Received fresh (excised at
+formalin at
+in a container labeled "right breast" is a 21 cm from
+superior to inferior x 18 cm from medial to lateral x 3.2 cm from
+anterior to posterior soft tan-yellow mastectomy specimen, with an
+orienting suture present. On the anterior surface there is a 7.6 x 4.4
+cm tan-white skin ellipse, with a centrally located 1.3 x 1.3 x 1 cm
+nipple. The intact deep margin is inked, and the specimen is serially
+sectioned. On cut surface, the specimen consists of interspersed
+yellow adipose tissue and tan tissue, without focal lesion. RS-10,
+following fixation.
+upper inner
+BLOCK SUMMARY: B1, B2 upper outer quadrant; B3, B4
+quadrant; B5, B6 - lower inner quadrant; B7, B8 - lower outer quadrant;
+B9 
+central breast; B10 - nipple.
+received at
+placed in
+C. Received fresh (excised at
+formalin at
+in a container labeled "left breast" is a 20.5 cm
+from superior to inferior × 18.8 cm from medial to lateral x 3.2 cm
+from anterior to posterior soft tan-yellow mastectomy specimen, with an
+orienting suture present. On the anterior surface there is a 7 x 5 cm
+tan-white skin ellipse, with a centrally located 1.2 x 1.2 x 0.5 cm
+nipple. The intact deep margin is inked, and the specimen is serially
+sectioned. There is a circumscribed 3.2 x 2.9 x 1.8 cm rubbery
+The lesion is 1.1 cm
+tan-white mass within the upper outer quadrant.
+from the deep margin, and 1.3 cm from the anterior surface, which is
+subsequently inked blue. The specimen away from the nodule consists of
+interspersed yellow adipose tissue and tan tissue, without 
+additional
+focal lesion. RS-12, following fixation.
+-
+BLOCK SUMMARY: C1-C3 tumor to anterior surface; C4, C5
+margin; C6 - central tumor; C7 - upper outer quadrant;
+inner quadrant; C9 lower inner quadrant
+; C10 - 
+lower
+C11 central breast; C12 - nipple.
+C8
+tumor to deep
+-
+upper
+outer quadrant;
+D. Received fresh in a container labeled "left axillary contents" is a
+6.5 x 6.3 x 2.4 cm aggregate of yellow lobular fatty tissue which has a
+Dissection of the specimen reveals
+suture designating superior axilla.
+RS-9,
+multiple lymph nodes, up to 3.5 cm in greatest dimension.
+following fixation, with all lymph nodes submitted, from superior to
+inferior, with the superior-most lymph node in block D1, four lymph
+nodes in block D2, five lymph nodes in block D3, three lymph nodes in
+block D4, one sectioned lymph node in blocks D5 & D6, four lymph nodes.
+in block D7, one lymph node in block D8, and three lymph nodes in block
+D9.
+Bilateral disease.
+Criteria
+سر
+Diagnosis Discrepancy
+3/15/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous
+Case is (circle):
+mary Notod
+brian
+QUALIFIED
+Reviewer Initials 11
+Yes
+DISQUALIFIED
+Date Reviewed:

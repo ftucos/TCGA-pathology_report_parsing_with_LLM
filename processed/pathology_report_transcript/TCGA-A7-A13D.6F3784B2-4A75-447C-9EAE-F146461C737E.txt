@@ -1,0 +1,185 @@
+UUID:6F3784B2-4A75-447C-9EAE-F146461C737E
+TCGA-A7-A13D-01A-PR
+Redacted
+Site: breast, Nos
+SPECIMEN
+A.
+B.
+Sentinel node %231 (84) hot and blue right axilla
+Sentinel node %232 (237) hot and blue right axilla
+C.
+ICD-0-3
+Carcinoma - Infiltrating Duct, NOS
+he
+11/14/10
+850013
+C50.9
+Sentinel node #233 (277) hot and blue right axilla
+D. Segmental mastectomy right breast single suture lateral, double
+long anterior
+E. Superior wall segmental wall right breast; stitch at new
+superior margin
+F. Posterior wall segmental mastectomy right breast; stitch at new
+posterior margin
+G. Retroareolar mass right breast
+H. Sentinel node %234 (300) hot and blue right axilla
+CLINICAL NOTES
+Right breast cancer
+FROZEN SECTION DIAGNOSIS
+A.
+B.
+C.
+Sentinel node #31, right axilla:
+One benign lymph node (0/1).
+Sentinel node #2, right axilla:
+One negative lymph node (0/1).
+Sentinel node #233, right axilla:
+One negative lymph node (0/1).
+H. Sentinel node #34, right axilla: Benign (0/1).
+GROSS DESCRIPTION
+A. Received unfixed for frozen section, labeled "sentinel
+node #231 hot and blue 84 right axilla" is a 1.4 x 1.1 × 0.6
+cm lymph node, bisected and entirely submitted in two blocks.
+B. Received unfixed for frozen section, labeled "sentinel
+node #2 (237) hot and blue right axilla", is a 1 x 0.8 x
+0.6 cm lymph node, bisected and entirely submitted in one block.
+C. 
+Received unfixed for frozen section, labeled "sentinel
+GROSS DESCRIPTION
+node #233 (277) hot and blue right axilla," is a lymph node
+that is 3.5 × 3 × 2 cm quadrisected and entirely submitted in four
+blocks.
+D. Received unfixed for tissue procurement, labeled
+"segmental mastectomy right breast", is a portion of
+fibroadipose tissue that is oriented with sutures as previously
+stated, and 
+8 cm. from medial to lateral, 5.4 cm. from anterior to
+posterior, and 4.0 cm. from superior to inferior. A mass lesion is
+identified, 3 x 2.5 x 2.4 cm., a portion of which is submitted for
+tissue 
+procurement. Margins are inked: superior black, anterior
+green
+, inferior yellow, posterior blue. The mass lesion is 2 mm.
+from 
+the black superior inked margin, and possible less than 1 mm.
+from the 
+yellow inferior margin. Representative sections are
+submitted sequentially from lateral to medial, with D1 being the
+lateral 
+margin, D2-D4 being representative sections between lateral
+margin and beginning of mass lesion, including representative deep
+the
+margin and debris of prior biopsy site, with D15 being medial shaved
+margins. A total 15 cassettes.
+pink
+RS15.
+E. Received fresh subsequently fixed in formalin labeled
+"superior wall right breast" is a 4.5 x 3.0 x 1.2 cm.
+yellow lobular fatty tissue fragment which has a suture designating
+a new superior margin. The surface is inked blue. The specimen is
+sectioned to show no other discrete gross lesions identified and
+yellow lobular fatty cut surface. The specimen is entirely
+submitted in 6 cassettes. AS-6
+F. Received fresh subsequently fixed in formalin labeled
+"posterior wall right breast" is a 1.7 x 1.6 x 1.0 cm.
+yellow rubbery tissue fragment which has a suture designated to the
+The
+new posterior margin. This is located on skeletal muscle.
+surface is inked blue. The opposite surface is yellow, pink and
+The specimen is
+fatty. No residual tumor is grossly identified.
+AS-1
+sectioned and entirely submitted in one cassette.
+Received fresh subsequently fixed in formalin labeled
+G.
+GROSS DESCRIPTION
+tan
+"retroareolar" is a white pink rubbery nodule which shows gross
+evidence of bluing staining present. The specimen is 2.5 x 2.2 x
+1.7 cm., having a single suture designating lateral and double
+suture designating anterior. The specimen is inked as follows:
+Superior orange, anterior blue, posterior black, inferior green.
+The specimen is sectioned from medial to lateral to show a white
+whorled cut surface, shows white rice like pellets located in the
+inferior aspect of the specimen. The specimen is entirely
+submitted
+from medial to lateral labeled "1-5".
+AS-5.
+MICROSCOPIC DESCRIPTION
+Invasive Carcinoma:
+Histologic type: Ductal
+Histologic grade:
+III
+Overall grade: 9/9
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (pT2):
+3.0 cm
+Specimen margins: invasive carcinoma is close to the margins in
+the main resection specimen (part D): 1.5 mm from inferior
+margin, 1 mm from posterior margin, and 1 mm from anterior
+margin. Additional margin specimens (superior wall,
+posterior
+wall) are negative for carcinoma.
+Vessel invasion: Not identified
+Calcification: present
+Necrosis: present
+Ductal carcinoma in situ:
+Histologic pattern: Solid
+Nuclear grade: 3
+MICROSCOPIC DESCRIPTION
+Central necrosis: Present
+% DCIS of total tumor (if mixed):
+Extensive intraductal component:
+Specimen margins: Negative
+Calcification:
+Present
+Description of non-tumorous breast:
+retroareolar)
+<1%
+absent
+Fibroadenoma (part G,
+Comments: Changes of prior biopsy identified (parts D, G).
+Prognostic markers: See core biopsy report,
+4x7, 3, 14x4, 15x4
+DIAGNOSIS
+A. Sentinel lymph node #1, right axilla, biopsy:
+B.
+One negative lymph node (0/1).
+Sentinel lymph node #2, right axilla, biopsy:
+One negative lymph node (0/1).
+Sentinel lymph node #3, right axilla, biopsy:
+C.
+One negative lymph node (0/1).
+D.
+E.
+F.
+G.
+Breast, right, segmental resection:
+Invasive ductal carcinoma, grade III, close to excisional
+margins.
+Breast, superior wall, new margin:
+Negative for carcinoma.
+Breast and muscle tissue, posterior wall, new margin:
+Negative for carcinoma.
+Breast, right retroareolar, biopsy:
+Fibroadenoma.
+Sentinel lymph node #234, right axilla, biopsy:
+H.
+One negative lymph node (0/1).
+DIAGNOSIS
+(Electronic Signature)
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary fumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual/Synchronou; Primary Noted
+ase is (circle):
+leviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALED

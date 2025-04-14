@@ -1,0 +1,191 @@
+UUID:25F791D8-27D6-4DC6-8D96-5D5CF68A5F13
+TCGA-BH-A42U-01A-PR
+FINAL DIAGNOSIS:
+PART 1: AXILLA, RIGHT, SENTINEL LYMPH NODE #1 -
+Collection Date:
+ONE LYMPH NODE NEGATIVE FOR METASTATIC TUMOR (0/1).
+PART 2: AXILLA, RIGHT, SENTINEL LYMPH NODE #2 -
+TWO LYMPH NODES NEGATIVE FOR METASTATIC TUMOR (0/2).
+PART 3: AXILLA, RIGHT, NON-SENTINEL LYMPH NODE -
+TWO LYMPH NODES NEGATIVE FOR METASTATIC TUMOR (0/2).
+PART 4: BREAST, RIGHT, TOTAL MASTECTOMY -
+A. INFILTRATING LOBULAR CARCINOMA, NOTTINGHAM SCORE 6/9 (TUBULE FORMATION = 3, NUCLEAR
+GRADE = 2, MITOSIS = 1), 3.0 X 2.8 X 2.5 CM. See comment.
+B. NIPPLE WITH PERIDUCTAL INFLAMMATION AND FIBROCYSTIC CHANGES. NO TUMOR SEEN.
+C. TUMOR INFILTRATES STRIATED MUSCLE FIBERS OF THE POSTERIOR MARGIN, BUT THE MARGIN IS
+FREE OF TUMOR.
+D. ALL SURGICAL LINES OF RESECTION ARE FREE OF TUMOR.
+E. NO VASCULAR LYMPHATIC SPACE INVASION NOTED.
+PART 5: AXILLA, RIGHT, SENTINEL LYMPH NODE #4 -
+ONE LYMPH NODE NEGATIVE FOR METASTATIC TUMOR (0/1)
+COMMENT: The diagnosis of lobular carcinoma is confirmed with a negative E-Cadherin immunostain.
+MICROSCOPIC:
+SYNOPTIC
+A. Laterality:
+1. Right
+B. Procedure:
+1
+-
+PRIMARY INVASIVE CARCINOMA OF BREAST
+2. Left
+3
+1. Segmentectomy
+2. Simple mastectomy
+C. Location:
+2
+1. Central subareolar
+3. Modified radical mastectomy
+4. Re-excision
+2. UOQ
+3. UIQ
+4. LOQ
+5. LIQ
+6. Not specified
+3.0 cm
+D. Size of tumor (maximum dimension invasive component by gross or microscopic exam):
+E. Tumor Multifocal: 2
+1. Yes
+F. Largest Diameter: 3 cm
+G. Aggregate Diameter: 3 cm
+2. No
+H. Type(s) (Invasive component): 7
+1. Ductal, NOS
+2. Tubular
+3. Mucinous
+4. Medullary
+5. Cribriform
+8. Papillary
+1. If lobular carcinoma, specify type: 6
+1. Classical
+2. Solld
+3. Alveolar
+J. Nottingham Score:
+7. Lobular
+8. Carcinold like
+9. Metaplastic
+10.Other
+4. Signet ring
+5. Trabecular
+6. Pleomorphic, lobular carcinoma, histiocytic type
+J1. Nuclear grade:
+2
+J2. Tubule formation: 3
+J3. Mitotic activity score: 1
+J4. Total Nottingham score:
+8
+J5. Nottingham grade (1, 2, 3): 2
+K. Lympho-Vascular Invasion:
+1. Yes
+2
+2. No
+L. Dermal lymphatic invasion: NA
+ICD.0-3
+1. Yes
+2. No
+3. Not applicable
+M. Calcification:
+3
+1. Yes benign zones
+2. Yes malignant zones 3. No
+carcinoma, infiltrating.
+Tobular, 
+NOS
+852013
+Sik: breast, Nos
+050.9
+9-1-13RD
+riteria
+agnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+al/Synchronous Primary Notod
+ase is (circie):
+eviewer Initials
+my
+QUALIFIED
+Dat Reviewed:
+Yes
+No
+DISQUALIHED
+$7/2412
+Redacted
+NI. ULIS: 2
+1. Yes
+2. No
+N2. Type of in situ component: N/A
+1. Cribriform
+2. Solid
+3. Papillary
+7. Lobular
+N3. Percentage of tumor occupied by in situ component:
+01. Surgical margins involved by invasive component: 3
+1. Yes focal
+2. Yes diffuse 3. No
+02. Distance from Margin:
+< 1 mm
+03. Which margin: 4
+1. Superior
+2. Inferior
+3. Antertor
+4. Posterior
+5. Lateral
+8. Medial
+P1. Surgical margins involved by in situ component: NA
+1. Yes focal
+P2. Distance from Margin: NA
+P3. Which margin: 4
+1. Superior
+2. Inferior
+3. Anterior
+4. Posterior
+2. Yes diffuse
+5. Lateral
+6. Medial
+0%
+3. No
+4. Micropapillary
+5. Apocrine
+6. Comedo
+Q. Paget's disease of nipple: 2
+1. Yes
+R. Number of positive lymph nodes:
+2. No
+0
+S. Total number of lymph nodes examined: 6
+T. Sentinel node metastasis: 2
+1. Yes
+2. No
+U. Only micrometastases to lymph nodes (<0.2 cm): N/A
+1. Yes
+2. No
+V. Metastasis/es to a lymph node (>0.2 cm) or more in greatest dimension: N/A
+1. Yes
+2. No
+W. Lymph node metastasis/es with extracapsular extension: N/A
+1. Yes
+2. No
+X. Metastases to ipsilateral internal mammary lymph node (if applicable): N/A
+1. Yes
+Y. Skin Involved (ulceration):
+1. Yes
+2. No
+2
+2. No
+Z. Non-neoplastic breast tissue: 6
+1. ADH
+2. ALH
+3. Radical scar
+4. Fibroadenoma
+5. Papilloma
+6. FCD
+7. LCIS
+8. Other
+AA. Multicentricity/multifocality of invasive fock: 2
+1. Yes
+BB. TNM stage: T2NOMX
+2. No
+CC. Immunohistochemistry of hormone receptors and target receptors
+JJ1. ER 1: Positive
+JJ2. PR 1: Positive
+JJ3. Her2/Neu 2: Negative.

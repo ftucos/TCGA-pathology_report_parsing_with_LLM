@@ -1,0 +1,557 @@
+Patient;
+www.
+Referring Physician:
+UUID:BBA96852-E70C-4D37-A185-611F568BE90C
+TCGA-AC-A62V-01A-PR
+Redacted
+DOB
+Age:
+Gender: M
+Ref#:
+Hosp#:
+Provider Group.
+Date of Service:
+Date Received:
+Inpatient.
+Case #
+Date Reported:
+ADDENDUM SURGICAL PATHOLOGY REPORT
+Addendum Information:
+This addendum report is issued to the provide results of breast carcinoma biomarker
+studies, performed on the previous ultrasound-guided core needle biopsy of the primary
+breast carcinoma (
+biomarker results. *
+Estrogen receptor: 100% positive cells, strong intensity.
+Progesterone receptor: Less than 1% positive cells.
+HER2: IHC score 0.
+Ki-67 proliferative index: 35% positive cells.
+The above results are similar to the those obtained on the metastatic carcinoma in the left
+iliac bone
+Diagnosis:
+A. LEFT BREAST, PROPHYLACTIC MASTECTOMY:
+- Gynecomastia.
+Unremarkable skin and nipple.
+- Negative for malignancy.
+B. RIGHT BREAST, MODIFIED RADICAL MASTECTOMY:
+Case #:
+- Invasive ductal carcinoma, Nottingham grade 3.
+· Tumor size: 4.7 cm in diameter.
+- Focal features of invasive micropapillary carcinoma.
+Ductal carcinoma in situ (DCIS), high nuclear grade.
+- Cribriform and papillary architecture.
+- Comedo necrosis and calcifications present.
+ICD-O-3
+NOS
+$50013
+Carcinoma, infiltrating duct
+Sate ® Breast NOS
+6641
+C50.9
+path Breast, ryper-cuter
+quadrant C50.4
+45 5/10/13
+- DCIS present adjacent to invasive carcinoma, in lactiferous ducts,
+and focally in upper inner quadrant.
+- Mastectomy margins are free of tumor.
+- Carcinoma is 0.2 cm from the deep margin, and is at least
+2 cm from all other margins.
+- Metastatic carcinoma in 3 of 17 axillary lymph nodes.
+Printed:
+Page 1
+This report continues
+MR No. -
+Acct No.
+Patient Name -
+Pathology - Page 1/6
+Page 1 Doc# 1
+Patient:
+Case #:
+ww
+ADDENDUM SURGICAL PATHOLOGY REPORT
+No extranodal extension is identified.
+- Largest metastatic focus measures 1.3 cm in diameter.
+- Gynecomastia.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 3.
+Primary tumor: pT2.
+Regional lymph nodes: pN1a.
+Distant metastasis: pM1 (metastasis to iliac bone).
+Lymphovascular invasion: Present.
+Pathologic stage: IV.
+Margin status: Negative.
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimens:
+(breast biopsy).
+left iliac bone biopsy),
+Case #:
+Printed:
+MR No.
+Acct No.
+atient Name -
+Pathology - Page 2/6
+Page 2
+This report continues...
+Page 2 Doc# 1
+Patient:
+Case #:
+www
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Modified radical mastectomy.
+Right.
+Lymph node dissection.
+Tumor site:
+Tumor size:
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+Invasive ductal carcinoma..
+Upper outer quadrant.
+4.7 cm.
+Single focus of invasive carcinoma.
+3 of 3.
+3 of 3.
+3 of 3.
+3 of 3.
+Present.
+No skin or chest wall invasion identified.
+high nuclear grade
+Ductal carcinoma in situ:
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit:
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (PT):
+Regional lymph nodes (pN):
+Distant metastasis (pM):
+AJCC Stage:
+0.2 cm from deep margin, at least 2 cm from all
+other margins.
+at least 1 cm from all margins.
+17
+3
+1,3 cm.
+Not identified.
+pT2.
+pN1a
+PM1.
+IV.
+ProPath,
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+Ki-67:
+performed on bone biopsy
+100% positive cells, strong intensity.
+0% positive cells.
+HC score 1+.
+15% positive cells.
+Case #
+Printed:
+Pathology
+MR No. -
+Page 3/6
+Acct No. -
+Patient Name -
+Page 3
+This report continues.
+Page 3 Doc# 1
+Patient:
+Case #:
+www
+ADDENDUM SURGICAL PATHOLOGY REPORT
+Source of Specimen:
+A. Breast:left complete mastectomy
+B. Breast right modified radical mastectomy
+Clinical History/Operative Dx:
+None provided.
+Gross Description:
+A. The specimen is labeled left breast complete mastectomy and is received in formalin. It consists of a
+mastectomy specimen which weighs 227 grams. A black suture with a metallic clip marks the "tail of the
+breast". With this orientation the specimen measures 18.5 cm from medial to lateral, 11.8 cm from
+superior to inferior, and 2.5 cm superficial to deep. There is an overlying broad ellipse of dark brown skin
+which measures 17 x 6.5 cm. Centrally and slightly superiorly within the skin is a 2.3 cm areola and a
+protuberant 0.7 cm nipple. The anterior-superior margin is inked blue, the anterior-inferior margin is inked
+green, and the posterior margin, which consists of smooth fascial tissue, is inked black.
+The specimen is serially sectioned at close intervals to reveal lobulated fatty tissue and centrally located
+tan-white fibrous parenchyma. There are no areas which have a stellate or retracted appearance
+suggestive of neoplasm. In the lateral portion of the specimen, 2 cm from the lateral edge, there is a
+circumscribed 0.7 cm pale red lymph node. Representative sections are submitted, Section summary:
+A1) nipple and tissue just deep to nipple,
+A2) representative upper inner quadrant,
+A3) representative lower inner quadrant,
+A4) representative upper outer quadrant.
+A5) representative lower outer quadrant,
+A6) representative central breast and representative central deep margin,
+A7) lateral lymph node.
+Case #
+Printed:
+MR No.
+Acct No.-
+Patient Name -
+Pathology - Page 4/6
+Page 4
+This report continues.
+K
+Page 4 Doc# 1
+Patient:
+Case #:
+ADDENDUM SURGICAL PATHOLOGY REPORT
+B. The specimen is labeled right breast modified radical mastectomy and is received without fixative. It
+consists of a mastectomy specimen together with axillary tissue weighing 292 grams. The breast measures
+16 cm from medial to lateral, 9 cm from superior to inferior and up to 4 cm from superficial to deep. There
+is an overlying ellipse of dark brown skin which measures 15.5 x 7.6 cm. Slightly medially located within
+the skin is a circumscribed 2.5 cm areola and a protuberant 0,6 cm nipple. The skin is unremarkable.
+Axillary tissue is present and measures 15 x 6.5 x 1.8 cm. The anterior-superior margin is inked blue, the
+anterior-inferior margin is inked green, and the posterior margin, which consists of smooth facial tissue, is
+inked black. In the central lateral portion of the deep margin, there is a 3 x 0.5 cm band of skeletal muscle
+which is indicated by the surgeon as pectoralis major behind the tumor.
+The specimen is serially sectioned at close intervals to reveal a relatively well-circumscribed. firm,
+tan-white tumor mass beginning directly underneath the nipple and extending laterally within the breast.
+This tumor mass measures 4,7 cm from medial to lateral, 4.5 cm from superior to inferior, and 3.5 cm from
+superficial to deep. This neoplasm is 3.5 cm from the closest medial margin, 5 cm from the axillary tail,
+2.5 cm from the closest superior margin, and 2.2 cm from the closest inferior margin. Centrally, it is grossly
+0.2 cm from the closest deep margin and does not appear to extend into the small strip of pectoralis
+muscle. The remainder of the breast is composed of soft fatty tissue without other palpable masses.
+Representative tumor and adjacent breast parenchyrna are obtained for research purposes. In the medial
+portion of the axillary tail, there is a prominent firm 1.5 cm lymph node suspicious for metastatic
+involvement. Representative tissue from this lymph node is obtained for research purposes also. The
+axillary tissue is dissected for nodes. Representaitve sections are submitted.
+Section summary:
+B1) nipple and tissue just deep to nipple,
+B2) representative lateral skin overlying tumor.
+83) medial edge of tumor,
+B4-B11) sections of tumor progressing from medial to lateral,
+B12) section of tumor and closest approach to deep margin,
+B13) deep margin with pectoralis muscle,
+B14) representative upper inner quadrant,
+B15) representative lower inner quadrant,
+B16) representative upper outer quadrant,
+B17) representative lower outer quadrant,
+B18) medial axillary node (some submitted for research).
+B19) single node, multiply sectioned,
+B20) single node, multiply sectioned,
+821) one larger node, serially sectioned, two smaller nodes inked and bivalved,
+822) two nodes, serially sectioned (one inked),
+823-B24) smaller possible nodes, intact.
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+P. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+Case A
+Printed:
+Pathology
+MR No. -
+Page 5/6.
+Acct No.
+Patient Name
+Job
+Page S
+This report continues..
+Page 5 Doc# 1
+Patient
+Case #:
+wwwwwwwwwwwwww
+ADDENDUM SURGICAL PATHOLOGY REPORT
+rendered.
+Final report originally signed by
+Case #
+Printed:
+Pathology
+MR No. -
+Page 6/6
+Acct No.
+Patient Name -
+Pace 6
+END OF REPORT (ADDENDUM)
+Page 6 Doc# 1
+Nationt:
+Referring Physician:
+DOB:"
+Ref#:
+Age:
+Hosp#:
+Gender: M
+Provider Group :
+Date of Service: Date Received:
+Inpatient
+Case #
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+A. LEFT BREAST, PROPHYLACTIC MASTECTOMY:
+- Gynecomastia.
+- Unremarkable skin and nipple.
+- Negative for malignancy.
+B. RIGHT BREAST, MODIFIED RADICAL MASTECTOMY:
+- Invasive ductal carcinoma, Nottingham grade 3.
+× Tumor size: 4.7 cm in diameter.
+- Focal features of invasive micropapillary carcinoma.
+· Ductal carcinoma in situ (DCIS), high nuclear grade.
+- Cribriform and papillary architecture.
+- Comedo necrosis and calcifications present.
+- DCIS present adjacent to invasive carcinoma, in lactiferous ducts,
+and focally in upper inner quadrant.
+- Mastectomy margins are free of tumor.
+- Carcinoma is 0.2 cm from the deep margin, and is at least
+2 cm from all other margins.
+- Metastatic carcinoma in 3 of 17 axillary lymph nodes.
+No extranodal extension is identified.
+- Largest metastatic focus measures 1.3 cm in diameter.
+- Gynecomastia.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive ductal carcinoma, Nottingham grade 3.
+Primary tumor: pT2.
+Regional lymph nodes: pN1a.
+Distant metastasis: pM1 (metastasis to iliac bone).
+Lymphovascular invasion: Present.
+Pathologic stage: IV.
+Margin status: Negative.
+Case #
+Printed:
+MR No.
+3
+Acct No.
+Patient Name -
+Pathology - Page 1/6
+Page 1
+This report continues. (INAL)
+Page 1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous pathology specimens:
+1 (breast biopsy).
+(left iliac bone biopsy).
+Case #.
+Printed:
+Pathology
+MR No.
+Page 2/6
+Acct No
+Patient Name - T
+།
+Job
+Page 2
+This report continuas (FINAL)
+Page 2 Doc# 1
+Patient:
+Case #:
+www.wwways sesion
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Modified radical mastectomy.
+Right.
+Lymph node dissection.
+Tumor site:
+Tumor size:
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+Invasive ductal carcinoma.
+Upper outer quadrant.
+4.7 cm.
+Single focus of invasive carcinoma.
+3 of 3.
+3 of 3.
+3 of 3.
+3 of 3.
+Present.
+No skin or chest wall invasion identified.
+high nuclear grade
+Ductal carcinoma in situ:
+0.2 cm from deep margin, at least 2 cm from all
+other margins.
+at least 1 cm from all margins,
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit.
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (pT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+AJCC Stage:
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+Ki-67:
+17
+3
+1.3 cm.
+Not identified.
+pT2.
+pN1a
+pM1.
+IV.
+ProPath,
+biopsy).
+performed on bone
+100% positive cells, strong intensity.
+0% positive cells.
+IHC score 1+.
+15% positive cells.
+Case #
+Ponted:
+MR No.
+Acct No
+Patient Name -
+Pathology - Page 3/6
+Jo
+Page 3
+This report continues... (FINAL)
+Page 3 Doc# 1
+Patient
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Signed by
+Source of Specimen:
+A. Breast;left complete mastectomy
+B. Breast; right modified radical mastectomy
+Clinical History/Operative Dx:
+None provided.
+Gross Description:
+A. The specimen is labeled left breast complete mastectomy and is received in formalin. It consists of a
+mastectomy specimen which weighs 227 grams. A black suture with a metallic clip marks the "tail of the
+breast". With this orientation the specimen measures 18.5 cm from medial to lateral, 11.8 cm from
+superior to inferior, and 2.5 cm superficial to deep. There is an overlying broad ellipse of dark brown skin
+which measures 17 x 6.5 cm. Centrally and slightly superiorly within the skin is a 2.3 cm areola and a
+protuberant 0.7 cm nipple. The anterior-superior margin is inked blue, the anterior-interior margin is inked
+green, and the posterior margin, which consists of smooth fascial tissue, is inked black.
+The specimen is serially sectioned at close intervals to reveal lobulated fatty tissue and centrally located
+tan-white fibrous parenchyma. There are no areas which have a stellate or retracted appearance
+suggestive of neoplasm. In the lateral portion of the specimen, 2 cm from the lateral edge, there is a
+circumscribed 0.7 cm pale red lymph node. Representative sections are submitted. Section summary:
+A1) nipple and tissue just deep to nipple,
+A2) representative upper inner quadrant,
+A3) representative lower inner quadrant,
+A4) representative upper outer quadrant,
+A5) representative lower outer quadrant.
+A6) representative central breast and representative central deep margin,
+A7) lateral lymph node.
+Case #
+Printed:
+Pathology
+MR No. <
+Page 4/6
+Acct No.
+Patient Name -
+Job
+Page 4
+This report continues. (FINAL)
+Page 4 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+B. The specimen is labeled right breast modified radical mastectomy and is received without fixative. It
+consists of a mastectomy specimen together with axillary tissue weighing 292 grams. The breast measures
+16 cm from medial to lateral, 9 cm from superior to inferior and up to 4 cm from superficial to deep. There
+is an overlying ellipse of dark brown skin which measures 15.5 x 7.6 cm: Slightly medially located within
+the skin is a circumscribed 2.5 cm areola and a protuberant 0.6 cm nipple. The skin is unremarkable,
+Axillary tissue is present and measures 15 x 6.5 x 1.8 cm. The anterior-superior margin is inked blue, the
+anterior-inferior margin is inked green, and the posterior margin, which consists of smooth facial tissue, is
+inked black. In the central lateral portion of the deep margin, there is a 3 x 0.5 cm band of skeletal muscle
+which is indicated by the surgeon as pectoralis major behind the tumor.
+The specimen is serially sectioned at close intervals to reveal a relatively well-circumscribed, firm,
+tan-white tumor mass beginning directly underneath the nipple and extending laterally within the breast.
+This tumor mass measures 4.7 cm from medial to lateral, 4.5 cm from superior to inferior, and 3.5 cm from
+superficial to deep. This neoplasm is 3.5 cm from the closest medial margin, 5 cm from the axillary tail,
+2.5 cm from the closest superior margin, and 2.2 cm from the closest interior margin. Centrally, it is grossly
+0.2 cm from the closest deep margin and does not appear to extend into the small strip of pectoralis
+muscle. The remainder of the breast is composed of soft fatty tissue without other palpable masses.
+Representative tumor and adjacent breast parenchyma are obtained for research purposes. In the medial
+portion of the axillary tail, there is a prominent firm 1.5 cm lymph node suspicious for metastatic
+involvement Representative tissue from this lymph node is obtained for research purposes also. The
+axillary tissue is dissected for nodes. Representaitve sections are submitted.
+Section summary:
+B1) nipple and tissue just deep to nipple,
+B2) representative lateral skin overlying tumor,
+B3) medial edge of tumor,
+B4-B11) sections of tumor progressing from medial to lateral,
+B12) section of tumor and closest approach to deep margin,
+B13) deep margin with pectoralis muscle,
+B14) representative upper inner quadrant.
+B15) representative lower inner quadrant,
+B16) representative upper outer quadrant,
+B17) representative lower outer quadrant,
+818) medial axillary node (some submitted for research),
+B19) single node, multiply sectioned,
+B20) single node, multiply sectioned,
+B21) one larger node, serially sectioned, two smaller nodes inked and bivalved,
+B22) two nodes, serially sectioned (one inked).
+B23-B24) smaller possible nodes, intact.
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+Case #:
+Printed:
+Page 5
+This report continues. (FINAL)
+Pathology
+MR No.
+Page 5/6
+Acct No.
+Patient Name -
+H
+age 5 Doc# 1
+Patient:
+Case #:
+-IN
+rendered.
+FINAL SURGICAL PATHOLOGY REPORT
+Case #
+Printed:
+Pathology
+Criteria
+Diagnosis Discrepancy 4/7/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronousimary Noted
+Case is (circle):
+Reviwe Initials
+QUALIFIED
+Date Rewed:
+Yes
+DISQUALIFIED
+4/2/13
+No
+Page 0
+END OF REPORT (FINAL)
+MR No.
+Page 6/6
+Acct No. *
+Patient Name -
+I
+Page 6 Doc# 1

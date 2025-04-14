@@ -1,0 +1,54 @@
+'Patient:
+Surgical Pathology: Final
+Surg Path
+ICD-0.3
+Carcinoma, lobulw, NOS 8520/3
+Site Code: breast, Nos
+650.9
+CLINICAL HISTORY:
+Inflammatory breast ca. Breast cancer.
+GROSS EXAMINATION:
+A. "Left breast biopsy," received fresh. A fragment of skin which is 3.3 cm
+long and 
+0.4 cm in diameter attached to underlying fibroadipose tissue which
+is 2.7 cm thick 
+x 3.5 x 1 cm in greatest dimensions. The specimen has been
+previously 
+partially sectioned revealing a poorly defined area of pink tissue
+measuring 
+approximately 2.5 x 1.5 x 1 cm in greatest dimensions. This does
+not represent the true sides of the lesion. Portions of the tissue have
+submitted for ER/PR evaluation. It is noted that this is a representative
+fragment 
+of larger lesion and margins are not require for the specimen.
+Representative sections are submitted in Blocks Al and A2.
+!
+DIAGNOSIS:
+A.
+BREAST, LEFT, INCISIONAL BIOPSY:
+POORLY DIFFERENTIATED CARCINOMA WITH EXTENSIVE VASCULAR INVASION.
+IN SITU CARCINOMA IS NOT PRESENT.
+NOTE: THE TUMOR HAS FEATURES OF LOBULAR CARCINOMA, BUT AN IN SITU COMPONENT
+IS NOT 
+PRESENT.
+eBrowser Result for:
+Verified by:
+"
+1/17/11 M
+UUID:DFCA9C6E-710E-4645-9CFC-A908AAD583F3
+TCGA-B6-AØIE-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary rumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prime Noted
+Care is (circle):
+feviewer In.rials
+QUALIFIED
+Redacted
+Yes
+No
+DISQUALIFIED
+7 Reviewed:
+1 of 1

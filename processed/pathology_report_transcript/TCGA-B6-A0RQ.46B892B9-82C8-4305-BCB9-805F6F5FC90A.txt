@@ -1,0 +1,136 @@
+Patien
+Cerina lobular, Nos 8520/3
+Path Site Code: breast, upper insur quadrant C50.2
+CAFF: breast, Nos
+C509
+1/17/22
+lov
+Surg Path
+r
+UUID:46889289-82C8-4305-BCB9-805F6F5FC98A
+TCGA-B6-AØRQ-01A-PR
+Redacted
+CLINICAL HISTORY:
+Not provided.
+GROSS EXAMINATION:
+A. "Right breast biopsy", fresh. The specimen is a 4.5 x 3.5 x 3.0 cm portion
+of yellow to grey-white soft tissue. According to the surgeon, the resection
+margins are not a concern, as a mastectomy is planned. The specimen is not
+inked. 
+Cut surface shows an approximately 2.5 x 2.5 x 1.5 cm mass composed of
+firm white tissue with interspersed foci of adipose tissue. The mass extends
+to the operative margin over a wide area. The specimen is otherwise composed
+of 
+unremarkable adipose tissue. A representative portion of the mass is
+submitted for frozen section. Another representative portion is submitted for
+hormone receptor analysis.
+BLOCK SUMMARY:
+Al frozen section remnant.
+A2-A4 further representative sections from the mass.
+B. "Breast tissue right side", fresh. The specimen is a 700 gram, 21 x 14 x 4
+cm breast with an attached, approximately 9 × 9 × 1 to 2 cm portion of soft
+tissue in the axillary region. The breast includes a 17.5 x 10.5 cm
+elliptical portion of skin with a roughly centrally placed nipple and a 4.5 cm
+transverse incisional wound located superior, and slightly medial, to the
+nipple. The skin is uniformly smooth and tan-white, without erythema,
+induration or nodules. The nipple is likewise unremarkable. Cut surface
+reveals an approximately 6.0 x 5.0 x 4.5 cm cavity deep to the incisional
+wound. The biopsy cavity occupies the region immediately deep to the nipple
+and 
+the adjacent upper inner quadrant. An approximately 3.5 x 3.5 x 2.5 cm
+mass is present alongside the biopsy cavity, involving tissue medial and deep
+to the biopsy cavity. The mass is composed of firm grey-white tissue which
+contains foci 
+of yellow adipose tissue within it. The surgical resection
+margins are grossly free of the mass; toward the medial edge of the specimen,
+the mass extends to approximately 0.3 cm from the deep resection margin, with
+questionable extension to within 0.2 cm from the margin at this site. The
+breast is otherwise composed of adipose tissue and grey-white glandular-
+appearing breast tissue, showing occasional firmer areas of white fibrous-
+appearing tissue, but no other discrete masses or nodules. Nine lymph nodes
+are identified in the lower portion of the axillary tissue, and nine lymph
+nodes are identified in the upper portion of the axillary tissue. The lymph
+nodes range up to 
+3.0 cm in greatest dimensions. Some of the lymph nodes show
+replacement with adipose tissue, but they are otherwise grossly unremarkable.
+B3-4
+B5-6
+B7
+B8
+B9
+B10
+representative sections from lower outer quadrant.
+BLOCK SUMMARY:
+B1-2 deep resection margin at medial aspect of specimen (closest approach of
+the tumor 
+to the margin).
+medial resection margin.
+representative sections of the mass, medial to the biopsy cavity.
+section from fibrous-appearing tissue, lateral to the biopsy cavity.
+representative sections from upper outer quadrant.
+representative sections from upper inner quadrant.
+Criteria
+Diagnosis Discrepancy
+Bll
+representative sections from lower inner quadrant.
+B12
+nipple.
+B13
+representative portions of skin.
+B14-16
+B17
+B18
+one lymph node in several parts, lower axillary region.
+one lymph node in three parts, lower axillary region.
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case (circle):
+QUALIFIED
+Reviewer is
+two lymph nodes, each bisected, lower axillary region; one lymph node is
+_Date viewed
+Yes
+No
+DISQUALIFIED
+1 of 2
+B19
+B20
+B21
+inked.
+four lymph nodes, each single, lower axillary region.
+one lymph node in several parts, lower axillary region.
+several questionable lymph nodes, lower axillary region.
+B22-23 one lymph node node in several parts, upper axillary region.
+B24 
+one lymph node in several parts, upper axillary region.
+B25
+B26
+B27
+two lymph nodes, each bisected, upper axillary region; one lymph node is
+inked blue, the other black.
+four smaller lymph nodes, each single, upper axillary region.
+highest axillary lymph node (marked with blue ink) and several other
+questionable lymph nodes, upper axillary region.
+INTRA OPERATIVE CONSULTATION:
+Afl: "Right breast biopsy": Carcinoma
+DIAGNOSIS:
+A. "RIGHT, BREAST BIOPSY":
+B.
+INVASIVE LOBULAR CARCINOMA.
+"BREAST TISSUE RIGHT SIDE":
+INVASIVE LOBULAR CARCINOMA WITH A FOCAL CARCINOMA IN SITU COMPONENT.
+TUMOR SIZE: APPROXIMATELY 7.0 X 3.5 X 2.5 CM.
+INVASIVE CARCINOMA EXTENDS TO WITHIN 1 MM OF THE DEEP RESECTION MARGIN
+AT THE MEDIAL ASPECT OF THE SPECIMEN.
+LOBULAR CARCINOMA IN-SITU IS PRESENT IN DUCTS APART FROM THE TUMOR
+MASS (BLOCK B10).
+BENIGN PROLIFERATIVE CHANGES INCLUDING: APOCRINE METAPLASIA AND DUCT
+ECTASIA
+.
+FOURTEEN AXILLARY LYMPH NODES, NONE OF WHICH CONTAIN METASTATIC CARCINOMA
+(0/14)
+.
+Verified ť,
+2 of 2

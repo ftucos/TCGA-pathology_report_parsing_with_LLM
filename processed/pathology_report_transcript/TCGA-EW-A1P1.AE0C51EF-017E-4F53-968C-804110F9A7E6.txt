@@ -1,0 +1,165 @@
+Name:
+DOB:
+Gender:
+MRN:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Location:
+Physician:
+Pathologic Interpretation:
+A. Sentinel node #1 ( ) right FS:
+- Metastatic carcinoma into one lymph node (1/1)
+B. Sentinel node #2 ( ) FS:
+- Metastatic carcinoma into theree out of four lymph nodes (3/4)
+C. Sentinel node #3 ( } FS:
+-
+One benign lymph node (0/1)
+D. Right breast lumpectomy, long - lateral, short - superior:
+- in situ and invasive carcinoma
+-
+- The entire tumor mass measures 2.3 cm in greatest dimensions
+-
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+050.9
+- The invasive component represents the majority of the tumor mass and is of Nottingham grade of 3 +3 +3=9/9
+- Foci of vascular invasion are noted
+"
+-
+3/12/11
+- The in-situ component is of ductal type, high nuclear grade with central necrosis and calcifications (comedocarcinoma)
+All margins of resection appear free of invasive and intraductal carcinoma
+-The closest margins of resection are the medial and anterior at 4 mm from the tumor
+-
+- The non-neoplastic breast tissue shows fibroproliferative disease, radial scar, atypical ductal hyperplasia and changes consistent
+with previous biopsy site
+D. Right axillary content:
+- Metastatic carcinoma into six out of twenty-thre lymph nodes (6/23)
+E. Level 3 (right) permanent:
+- Metastatic carcinoma into one out of three lymph nodes (1/3)
+Tumor Summary:
+Specimen Type Lumpectomy
+Lymph Node Sampling: Axillary dissection
+UUID:AE0C51EF-017E-4F53-968C-804110F9A7E6
+TCGA-EW-A1P1-01A-PR
+Redacted
+Specimen Size (for excisions less than total mastectomy): 6 cm in greatest dimensions
+Laterality: Right
+Tumor Site: Not specified
+Size of Invasive Component: 2.3 cm in greatest dimensions
+Histologic Type: Ductal
+Histologic Grade (any grading system may be used; mitotic count is also required independent of the grading system): 3 +3 +3=9/9
+Total Nottingham Score:9/9
+Margins: Free
+Pathologic Staging (pTNM)
+PT 2, N3, MX
+SURGICAL PATHOL Report
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER. PgR 636-PR, A4RS-HER2, H-11=EGFR. All immunohistochemical 
+stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+Intraoperative Consultation
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+***Electronically Signed Out By***
+A. Sentinel node #1 (
+right FS: Metastatic adenocarcinoma to one lymph node (1/1).
+B. Sentinel node #2 (
+> FS: Metastatic adenocarcinoma to three of four lymph nodes (3/4).
+C. Sentinel node #3 (
+) FS: One lymph node, no tumor seen (0/1).
+MD
+Clinical History:
+None provided
+Operation Performed
+Right breast lumpectomy with sentinel node biopsy, possible axillary node dissection; possible left breast reduction
+Pre Operative Diagnosis:
+Breast cancer
+Specimen(s) Received:
+A: Sentinel node #1
+›) right FS
+B: Sentinel node #2 (
+) FS
+) FS
+C: Sentinel node #3 (
+D: Right breast lumpectomy, long - lateral, short - superior
+E: Right axillary content
+F: Level 3 (right) permanent
+Gross Description:
+A.
+B.
+C.
+D.
+Received fresh is an irregular fragment of fibroadipose tissue, measuring 2.3 x 1.2 x 0.7 cm. One lymph node is ill-
+defined. The lymph node is submitted in toto in one cassette for frozen section.
+Received fresh is an irregular fragment of fibroadipose tissue, measuring 3.2 x 1.7 x 0.9 cm. Four lymph nodes are
+grossly identified. The lymph nodes are submitted in toto as follows:
+1
+2
+One lymph node for frozen
+Lymph node for frozen section.
+Received fresh is an irregular fragment of fibroadipose tissue, measuring 1.9 x 1.1 x 0.7 cm. One lymph node is grossly
+identified. The lymph node is submitted in toto in one cassette for frozen section.
+Received in formalin is a lumpectomy specimen measuring 6 cm from medial to lateral, 5.4 cm from superior to inferior
+and 4.4 cm from anterior to posterior. The specimen has an ellipse of skin in the anterior 
+surface measuring 3.8 x 0.9 
+cm.
+The specimen is labelled as follows: long stitch lateral; short stitch superior. The margin is inked 
+as follows: Anterior
+yellow, posterior black, superior blue, inferior green, medial red, lateral orange. Upon sectioning 
+ill-defined firm white 
+and
+Page 2 of 3
+SURGICAL PATHOL Report
+tan mass is identified measuring 2.3 x 2 x 1.5 cm. The mass is 1 cm from the lateral margin up to 1.6 cm from the
+superior margin, 0.5 cm from the inferior margin, 0.5 cm from the posterior margin, 0.4 cm from the medial margin and 0.4
+cm from the anterior margin from the skin. Other areas of the mastectomy specimen show unremarkable fibroadipose
+tissue. Representative sections are submitted as follows:
+1
+2
+Lateral margin
+Superior margin
+E.
+3
+4
+5
+8
+7-8
+Anterior margin and skin in relation with the tumor
+Medial margin in relation with the tumor
+Posterior margin in relation with the tumor
+Inferior margin in relation with the turnor
+Other areas of the mass
+Received in formalin are multiple irregular fragments of fibroadipose tissue measuring 9 x 7.5 x 2.2 cm in aggregate.
+Five possible lymph nodes are identified. The lymph nodes are submitted in toto-→ as follows:
+1-2
+3-4
+One lymph node bisected per cassette
+Lymph node bisected per cassette
+Three lymph nodes bisected per c assette
+5-6
+7-8
+Four tymph nodes per cassette
+F.
+Received in formalin are four irregular fragments of soft tan brown and yellow tissue measuring 1 x 0.5 x 0,4 cm in
+aggregate. Submitted in toto in one cassette.
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Disc. epancy
+Prior Malignancy History
+Dua!/Synchronous Primary Neted
+Case is (circle):
+Reviewer Initials
+QUALIFIFO
+DISQUALIFIED
+Date Reviewed: 11
+3/12/1 سال
+Page 3 of 3

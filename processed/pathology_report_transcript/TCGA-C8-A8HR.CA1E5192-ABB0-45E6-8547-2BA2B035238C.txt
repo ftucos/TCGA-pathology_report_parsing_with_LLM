@@ -1,0 +1,338 @@
+UUID:CA1E5192-ABB0-45E6-8547-2BA2B035238C
+TCGA-C8-A8HR-01A-PR
+Redacted
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+Informed Consent
+ICD-0.3
+Carcinoma, Idular infiltrating NOS
+Site ①Breast Nos
+852013
+C50.9
+JJ11/26/13
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+GENERAL INFORMATION
+Date
+Date of Birth (mm/dd/yyyy)
+Height
+Gender
+Weight
+Marital Status
+☐ Single ☑ Married
+☐ Divorced ☐ Widow
+Race
+VIETNAMESE
+Blood Pressure
+Temperature
+Heart Rate
+Male
+✓ Fer
+Female
+HISTORY OF PRESENT ILLNESS
+Chief Complaints: Nipple retraction; pain in the right breast
+Symptoms:
+Clinical Findings:
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic 080-90 Symptomatic but Fully Ambulatory
+□ 60-70 Symptomatic, in bed less than 50% of day
+□ 20-30 Bed Ridden
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+Το
+To
+Το
+Το
+Το
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Diagnosis Date
+Treatment
+Status
+Menopausal Status
+OB/GYN HISTORY
+Date of First Menses
+☐ Pre-menopausal
+✡Peri-Menopausal
+Date of Last Menšes
+☐ Post-menopausal
+Birth Control: □ Condom
+Oral Contraceptive # IUD
+□ Other:
+# of Pregnancies
+02
+# of Live Births
+02
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Current Status
+TYPE
+Environmental Hazards:
+Smoking History
+Packs/day
+Duration
+When Quit
+☐ YES ☐ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+Duration
+When Quit
+□ YES NO
+(yrs)
+(yr)
+Drug Use
+Current Status
+□ YES ☑NO
+TYPE
+Frequency
+Duration
+When Quit
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Test
+HIV
+Hep B
+Result
+Date
+☑Negative ☐ Positive:
+Negative ☐ Positive:
+Hep C A Negative ☐ Positive:
+AFP
+☐ Negative ☐ Positive:
+Other:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+Test
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative □ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+DIAGNOSTIC STUDIES
+Results
+Date
+Biopsy ✗
+Carcinoma
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+R. BRoast Cancer
+Location of Suspected Involved Lymph Nodes
+Location of Suspected Distant Metastasis
+T3 N2
+Clinical Staging
+Mo
+Stage: A
+Date of Diagnosis
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Modified Radical Mastectomy
+Organ
+breast trener
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Date of Procedure
+Size
+Right breast 9 × 8 × 3 cm
+Primary Tumor
+Detailed Location
+Extension of Tumor
+Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Organ
+Distant Metastasis
+Detailed Location
+T3 N2
+Surgical Staging
+Mo
+Stage: T
+Size
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+3
+Το
+Το
+Το
+Το
+Το
+Collected by:
+Preserved by:
+Frozen
+Pathology Form
+Specimen Information
+Date,
+Time:
+ime:
+Date:
+SPECIMEN TYPE (# of samples provided)
+Diseased
+Normal
+4
+4
+Time to LN2
+72
+min
+Paraffin Block
+Normal
+Diseased
+Time to Formalin
+233
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+4
+Time to LN2
+min
+min
+PATHOLOGICAL DESCRIPTION
+Organ
+Breast FuncR
+Location
+Organ
+Normal
+2
+Primary Tumor
+Size
+Extension of Tumor
+Distance to NAT
+6
+cm
+FxB x 3 cm rigly breast
+Lymph Nodes
+# Examined
+# Metastasized
+Distant Metastasis
+Detailed Location
+Size
+Pathological Staging
+PT 3
+N2 MO Stage:
+Notes:
+A
+Lymph nodes 8 (positive 5
+Negative 3)
+Consolidated Pathology Diagnosis
+Cell Distribution
++
+Diffuse
+Mossic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+Squamous
+Squamoid Cell
+Adenomatous
+Glandular cell
+Cell Stratification
+✓ Streaming
+Storiform
+✓ Fibrosis
+Palisading
+Structural Pattern
+✓ Cystic Degeneration
+Bleeding
+Myxoid Change
+ammoma/Calcification
+Sarcomatous
+Round Cell
+vohomatous
++
+Spindle Cell
+Fibroblast
+Large Cell
+Small Cell
+Keratin
+Secretion
+Osteoblast
+Desmosome
+Intracyt. Vacuole
+Lipoblast
+Pearl
+Gland formation
+Cellular Differentiation:
+Myoblast
+Well
+RS Call/RS Like
+Inflem. Call
+Plasma Cell
+¤ Moderate
+Poor
+Atyplas
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Glant Cell
+Mitotic Activity
+Nuclear Grade:
+Final Pathology Report
+Histological Diagnosis: 10-filtrating Lobular Carina Grade: 3.
+Comments:
+M-R: Caninoma Metalletizer to LN
+дзев
+Director, Research Pathology
+INTEGRATED REPORT OF FINDINGS BY COLLABORATORS AND
+d
+PATHOLOGISTS - FOI
+Criteria
+Date
+Diagnosis discreang
+fw 11/8/13 Yes
+Primary Tuna Site Discrepancy
+A Discrepancy
+Pror Magney Histo
+Dual/such unous Primary loved
+Case is irrla
+Feviewer (itial
+QUALIFIC
+Da Reviewed:
+CISOUAL:HED
+No
+11/8/13

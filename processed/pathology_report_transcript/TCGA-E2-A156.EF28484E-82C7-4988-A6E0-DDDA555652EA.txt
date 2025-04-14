@@ -1,0 +1,205 @@
+TSS
+ICD-0-3
+Carcinoma, infiltrating duct, Nos
+8500/3
+Site Code: breast, Nos
+12/8/10
+کسل
+050.9
+UUID:EF28484E-82C7-4988-A6E0-DDDA555652EA
+TCGA-E2-A156-01A-PR
+Redacted
+SPECIMENS:
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA
+C. NON-SENTINEL LYMPH NODE LEFT AXILLA
+D. WIDE EXCISION LEFT BREAST MASS
+E. ADDITIONAL NEW MARGIN SUPERIOR LATERAL
+F. SKIN AT ANTERIOR MARGIN
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA
+C. NON-SENTINEL LYMPH NODE LEFT AXILLA
+D. WIDE EXCISION LEFT BREAST MASS
+E. ADDITIONAL NEW MARGIN SUPERIOR LATERAL
+F. SKIN AT ANTERIOR MARGIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+TPA, Sentinel lymph node #1, left axilla, excision: Negative for carcinoma
+TPB, Sentinel lymph node #2, left axilla, excision: Negative for carcinoma
+Part D, Left breast, excisional biopsy, gross examination: Tumor approximately 0.3-cm from the posterior margin
+Diagnoses called at
+GROSS DESCRIPTION:
+A and B) and
+A. SENTINEL LYMPH NODE #1, LEFT AXILLA
+(D) by Dr.
+Received fresh labeled with the patient's identification and designated "sentinel lymph node number one left axilla" is
+a fragment of red-tan possible lymphoid tissue measuring 1 x 0.5 x 0.3-cm. Touch preparation is 
+performed. The
+entire specimen is submitted, A1.
+B. SENTINEL LYMPH NODE #2, LEFT AXILLA
+Received fresh labeled with the patient identification and designated "sentinel lymph node number two left axilla" is
+fragment of red-tan possible lymphoid tissue measuring 1.3 x 0.5 x 0.2 cm. Touch preparation is performed. 
+The
+entire specimen is submitted, B1.
+C. NON-SENTINEL LYMPH NODE LEFT AXILLA
+Received in formalin labeled with the patient's identification and designated "Non-sentinel lymph node left axilla" is a
+fragment of adipose tissue, 2.5 x 2.4 x 0.5 cm, consisting of one possible lymph node measuring 1 x 0.5 x 
+0.4 cm.
+The lymph node is submitted, C1.
+D. WIDE EXCISION LEFT BREAST MASS
+Received fresh labeled with the patient's identification and designated "wide excision left breast" is a previously
+inked, oriented, 89-g, 9 x 8.4 x 2.5 cm lumpectomy specimen. The single clip designates superior, double-lateral,
+triple-anterior. Ink code: Anterior-yellow, posterior-black, superior-blue, inferior-orange, medial- green
+, lateral-red.
+The specimen is serially sectioned from medial to lateral into 7 slices revealing an irregular friable 
+soft tan mass, 
+3 x
+2.4 x 0.9 cm, located 0.3-cm from the nearest posterior margin (Slices 3-5). A previous hemorrhagic biopsy cavity is
+identified 0.6-cm from the mass (lateral), measuring 1.4 x 0.8 x 0.7 cm. A portion of the specimen is submitted 
+for
+tissue procurement. Representatively submitted:
+D1-D2: Representative perpendicular sections, medial margin
+D3: Slice 2, posterior
+D4: Slice 2, superior
+D5-D11: Slice 3, entirely submitted, D8 and D10 demonstrating tumor
+D12-D15: Slice 4, posterior/superior/anterior/superior, tumor
+D16-D19: Slice 5, D16-D18 demonstrating biopsy cavity
+D20-D21: Slice 6, superior, remainder of biopsy cavity
+D22-D25: Perpendicular sections lateral margin, entirely submitted
+E. ADDITIONAL NEW MARGIN SUPERIOR LATERAL
+Received in formalin labeled with the patient's identification and designated "additional new margin superior lateral"
+is a previously inked, 6-g, 5.2 x 3 x 0.8 cm fragment of fibroadipose tissue. Ink code: Superior-blue, lateral-red.
+Sectioning shows no obvious gross abnormalities. The entire specimen is submitted, E1-E2 (superior), 
+E3-E4
+(lateral).
+F. SKIN AT ANTERIOR MARGIN
+Received in formalin labeled with the patient's identification and designated "skin at anterior margin" is a slender
+fragment of unoriented light beige skin measuring 2.1 x 0.6 x 0.2 cm. the entire specimen is submitted, F1.
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, left AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+-
+B. LYMPH NODE, SENTINEL #2, left AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, non-SENTINEL, left AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+D. BREAST, LEFT, WIDE LOCAL EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.8-CM
+-INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM TYPE WITH
+CENTRAL NECROSIS AND MICROCALCIFICATIONS WITH A COMPONENT OF INTRACYSTIC PAPILLARY
+CARCINOMA
+- SURGICAL RESECTION MARGINS NEGATIVE FOR INVASIVE TUMOR
+- MICROSCOPIC FOCUS OF LOW GRADE DUCTAL CARCINOMA IN SITU AT INFERIOR SURGICAL
+RESECTION MARGIN
+- BIOPSY SITE CHANGES WITH FIBROSIS AND GRANULATION TISSUE
+- SEE SYNOPTIC REPORT AND SEE NOTE.
+e. breast, left, additional superior lateral margin, excision:
+- fibroadipose tissue, NO TUMOR SEEN
+f. skin, anterior margin, excision:
+- SKIN tissue, NO TUMOR SEEN.
+NOTE: Ductal carcinoma is identified in 5 consecutive slices. The tumor is composed of 3 components, invasive, in
+situ and intracystic. The gross measurement of the tumor is a 3-cm. The largest confluent invasive tumor measures
+1.8-cm.
+A microscopic focus of low-grade DCIS is identified at the inferior surgical resection margin.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Excision
+Needle Localization:
+No
+Laterality: Left
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+1.8cm
+Tumor Site:
+Not specified
+Margins:
+Negative
+Distance from closest margin:
+deep
+Tubular Score: 2
+Nuclear Grade:
+2
+Mitotic Score: 2
+0.3cm
+Modified Scarff Bloom Richardson Grade: 2
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+None identified
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Negative 0/3
+DCIS present
+Margins involved by DCIS: inferior
+DCIS Quantity: Estimate 20%
+DCIS Type:
+Cribriform
+intracystic
+Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Present
+Location of CA++:
+ER/PR/HER2 Results
+DCIS
+ER: Positive
+PR: Positive
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+pT 1c NO
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Left breast mass
+ADDENDUM:
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score:
+0
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+rate of Distant Recurrence at 10 years of 3%
+11.8 Positive
+ER Score:
+PR Score:
+10 Positive
+0 in the clinical validation study had an average
+Her2 Score: 9.8 Negative
+Interpretation:
+ER
+Negative < 6.5
+Positive >= 6.5
+PR
+Negative < 5.5
+Her2 Negative <10.7
+Positive >= 5.5
+Positive >=11.5
+Equivocal
+= 10.7-11.4
+a report for further information.
+See separate
+Test performed at:
+Gross Dictation: {
+Microscopic/Diagnostic Dictation:
+Final Review: Pathologist, (
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Por Malignarcy History
+Dual/Synchronous Primary Noted
+Case Is (circle);
+Reviewer Initials
+QUALIFIED
+Rate Reviewed:
+DISQUALIFIED

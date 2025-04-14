@@ -1,0 +1,140 @@
+copy No.
+6
+page 1 / 2
+Internal invoice No.
+Patient: XXX
+:
+Date:
+Examination: Histopathological examination
+Material: Total organ resection - Brian
+Unit in charge: Central Operating Theatre
+ICD-0-3
+Value of diagnostic procedure
+Examination No.:
+Age:
+Gender: F
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: 5 working days
+Clinical diagnosis:
+852313
+path: carcinoma, infiltrating duct and mucinous
+CQCF: "other" carcinoma, ductal, papillary 8503/2
+Site: breast, Nos C50.9
+for 4/12/41
+Examination performed on:
+Macroscopic description:
+Roger brustized 21 x 17 x 5 cm removed without axillary tissues with a skin flap of 19 x 8.5 cm.
+Weight 700 g.
+Tumour sized 2.2 x 1,9 x 2.4 cm in the upper outer quadrant, located 2.1 cm from the upper boundary, 0.7 cm from the base and
+1.5 cm from the skin.
+Microscopic description:
+Carcinoma mucinosum partim ductale invasivum - NHG2 (3 + 2 + 1/21 mitoses/10 HPF - visual area 0.55 mm).
+Foci of carcinoma ductale in situ DCIS found within the tumour (solid and cribrate type, with medium nuclear atypia and comedo
+necrosis 2% of the tumour).
+Lesions in situ of the type carcinoma intraductale mamillae.
+Lesions in situ of the type mastopathia fibrosa et cystica in the glandular texture.
+AXILLARY LYMPH NODES
+Sinus histiocytosis in tymphonodo (No I).
+Test result
+Final diagnosis to be given after
+examination
+Compliance validated by:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% neoplastic cell nuclei. Progesterone receptors found in over 75% neoplastic cell nuclei.
+HER2 protein stained with
+by
+.
+Negative reaction in invasive cancerous cells (Score = 0)
+Examination performed on:
+Compliance validated by:
+UUID:D3EA3547-7E53-442E-A957-B2DD7EBAFBB9
+TCGA-D8-A1x7-01A-PR
+Redacted
+Criteria +
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronour Primar Noted
+Case (cicle):
+Review Ini
+Yes
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+Examination: Histopathological examination
+Patient: XXX
+Examination performed on
+page 2 / 2
+Examination No.:
+Gender: F
+Histopathological Diagnosis:
+(Including examination
+Carcinoma mucinosum partim ductale invasivum et ductale in situ mammae dextrae Invasive mucinous and in part ductal?
+carciname, and ductal in situ canrcinoma of the right breast f
+(NHG2, pT2, pN0/sn/).
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+TCGA Pathologic Diagnosis Discrepancy Form
+14.00
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+Tissue Source Site (TSS):.
+Completed By (Interviewer Name
+Diagnosis Information
+_TSS Identifier:
+#
+Data Element
+Entry Alternatives
+Pathologic Diagnosis
+* Ductal with mucinous
+"
+1
+Provided on Initial
+TSS Unique Patient Identifier:
+_Completed Date:
+Working Instructions
+Provide the diagnosis/ histologic subtype(s) documented on
+the initial pathology report for this case. If the histology for
+this case is mixed, provide all listed subtypes.
+Pathology Report
+Histologic features of
+Provide the histologic features selected on the TCGA Case
+"Ductal partially papillary Quality Control Form completed for this case.
+the sample provided
+2
+for TCGA, as reflected
+on the CQCF.
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for
+* the discrepancy
+between the pathology
+report and the TCGA
+Case Quality Control
+Form.
+Дзаморожу
+Discquency 
+probably
+due to methodology
+slice preparation
+of
+Provide a reason describing why the diagnosis on the initial
+pathology report for this case is not consistent with the
+diagnosis selected on the TCGA Case Quality Control Form.
+* Name of TSS Reviewing
+Pathologist or
+4
+Biorepository Director
+Provide the name of the pathologist who reviewed this case
+for TCGA.
+1 acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+TSS Reviewing Pathologist or Biorepository Director
+Date
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+Principal Investigator Signature
+Date

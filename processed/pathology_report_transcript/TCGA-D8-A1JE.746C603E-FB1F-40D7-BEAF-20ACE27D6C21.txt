@@ -1,0 +1,68 @@
+Department of Cancer Pathology
+1CD-0-3
+Carcinoma, infiltrating ductul, Nus 850
+Site. breast, Nos
+C50.9
+page 1 / 2
+3/10/11 h
+Date:
+copy No.
+Examination: Histopathological examination
+Internal invoice No.
+Cost of diagnostic procedure
+Examination No.:
+Patient: XXX
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - the left breast and axillary tissue
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast.
+Examination performed on
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+)
+Examination performed on:
+Compliance validated by:
+UUID:746C603E-FB1F-40D7-BEAF-20ACE27D6C21
+TCGA-D8-A1JE-
+01A-PR
+Macroscopic description:
+Left breast sized 19 x 20 x 5 cm removed along with axillary tissues sized 12 x 6 x 2 cm and a 16 x 11
+cm skin flap. Weight 800 g. Tumour sized 1.5 x 1.5 x 1.5 cm on the border of upper quadrants, 6.5
+cm from the upper boundary, 0.7 cm from the base and 0.1 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (2 +2 +3/15 mitoses/10 HPF, visual area diameter 0.55 mm).
+Glandular, outside the tumour, tissue showing lesions of the type mastopathia fibrosa et cystica,
+hyperplasia ductalis simplex (UDH).
+AXILLARY LYMPH NODES
+Metastases carcinomatosae in lymphonodis No III/X.
+Infiltratio capsulae lymphonodorum.
+Criteria
+Diagnosis Discrepancy
+Redacted
+Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual, Synchronous Pinary Noted
+QUALIFIE
+Case (chiph
+Rewer itils
+/ DISQUALIFIED
+Date Reviewed:/
+for 3/11/11
+page 2 / 2
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+Metastases carcinomatosae in lymphonodis axillae No. III/X. Cancer metastases in axillary lymph
+nodes No III/X.
+(NHG2, pT1c, pN1a).
+Compliance validated by:
+:

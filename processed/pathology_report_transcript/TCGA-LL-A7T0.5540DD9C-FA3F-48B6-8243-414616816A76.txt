@@ -1,0 +1,205 @@
+RUN DATE:
+RUN TIME:
+RUN USER
+PATIENT.
+REG DR:
+SPEC #:
+CLINICAL INFORMATION:
+RECD:
+COLL:
+UUID:5540DD9C-FA3F-48B6-8243-414616816A76
+TCGA-LL-A7T0-01A-PR
+Redacted
+Pre-Op Diagnosis: Left breast cancer
+Remarks:
+Specimen(s): A. Left breast
+ACCT #
+AGE/SX:
+DOB:
+STATUS:
+ROOM:
+BED:
+STATUS:
+TIME IN FORMALIN:
+COLD ISCHEMA TIME:
+hrs.
+mins.
+-
+green is 12 o'clock
+B. Left axilla, level 1 and 2
+MICROSCOPIC DIAGNOSIS
+PAGE 1
+A. LEFT BREAST (TOTAL MASTECTOMY):
+INVASIVE DUCTAL CARCINOMA, TWO SEPARATE FOCI
+COMBINED HISTOLOGIC GRADE 3 OF 3
+LARGEST INVASIVE CARCINOMA MEASURES 2.8 CM IN GREATEST DIMENSION
+HIGH-GRADE DUCTAL CARCINOMA IN SITU PRESENT
+MARGINS UNINVOLVED BY INVASIVE CARCINOMA WITH CLOSEST MARGIN DEEP AT 4 MM
+MARGINS UNINVOLVED BY IN SITU CARCINOMA WITH CLOSEST MARGIN DEEP AT 1 MM
+SEE COMMENT FOR SYNOPTIC REPORT
+B. LEFT AXILLARY LYMPH NODES. LEVELS 1 AND 2 (DISECTION):
+METASTATIC CARCINOMA IN ONE OF FOUR LYMPH NODES
+COMMENT(S)
+ICD-0-3
+85003
+Carcinoma, infiltrating duct
+Site & forecast NOS (50.9
+kath
+①Breast, central portion
+01/10/10/13
+CAP APPROVED SURGICAL PATHOLOGY CANCER CASE SUMMARY: INVASIVE CARCINOMA OF THE BREAST
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE OF
+INVASIVE CARCINOMA:
+TUMOR SIZE:
+HISTOLOGIC GRADE:
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+Total mastectomy
+Axillary dissection, levels 1 and 2
+Left
+Invasive ductal carcinoma
+650.1
+Greatest dimension of largest focus of invasion: 2.8 cm
+NOTTINGHAM HISTOLOGIC SCORE:
+Glandular/tubular differentiation: Score 3
+Nuclear pleomorphism: Score 3
+Mitotic rate: Score 3
+Overall grade: Grade 3
+Multiple foci of invasive carcinoma
+Number of foci: 2
+Sizes of individual foci: 2.8 cm and 1.3 cm
+DCIS is present
+** CONTINUED ON NEXT PAGE **
+RUN DATE
+RUN TIME:
+RUN USER:
+SPEC #:
+PAGE 2
+(Continued)
+COMMENT(S)
+(Continued)
+Size of DCIS: Estimated size of DCIS at least 5 cm
+Nuclear grade: Grade III
+Necrosis: Present. central
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+Invasive carcinoma: Margins uninvolved by invasive
+carcinoma
+Distance from closest margin: 4 mm to deep
+DCIS: Margins uninvolved by DCIS
+Distance from closest margin: 1 mm to deep
+Total number of lymph nodes examined: 4
+Number of lymph nodes with metastasis: 1
+Size of largest metastatic deposit: 7 mm
+Extranodal extension: Not identified
+Primary tumor: pT2
+Regional lymph nodes: Category: pNla
+Distance metastasis: Not applicable
+PERFORMED ON
+Estrogen receptor: Positive (100% of tumor cells with
+nuclear positivity}
+Average intensity of tumor cell nuclei staining: strong
+Progesterone receptor: Positive (2% of tumor cells with
+nuclear positivity)
+Average intensity of tumor cell nuclei staining: weak
+HER2: Immunoperoxidase studies: Positive (Score 3+)
+GROSS DESCRIPTION:
+Received fresh for tissue banking labeled with the patient's name and designated "left
+breast" is a 1,094 gram. 24.0 x 23.0 x 5.5 cm fibrofatty breast.
+overlying 22.0 x 8.5 cm portion of tan-white skin.
+The breast has an
+The skin has a central 6.5 x 5.5 cm
+areola and 1.5 cm raised nipple. There is a green suture on the skin designating 12
+o'clock. An indurated nodule is present beneath the skin surface directly medial to the
+nipple and underlying the areola. The skin surface and areola have multiple plaque-like
+pigmented papules. The largest papule is superior and lateral at the edge of the areola.
+This papule is 1.6 x 0.8 cm. No additional scars or lesions are identified on the skin
+surface. The deep margin is ragged and fatty. The specimen is consistent with a simple
+mastectomy specimen.
+The deep margin is inked blue, and the breast is sectioned to have a diffusely glistening
+fatty cut surface. A medial, 2.3 cm nodular tumor mass is present beneath the skin surface
+medial in the described area beneath the areola. The tumor has a focal multinodular
+The mass is 0.7 cm from
+appearance at the periphery, but appears to be one mass grossly.
+the skin surface. is 6.0 cm from superior, is 3.0 cm from inferior. is 5.0 cm from medial.
+and 18.5 cm from lateral. The tumor is at least 4.5 cm from the deep margin. The tumor
+has a central stellate, gritty indurated cut surface, and further sectioning shows the
+The
+tumor to range up to 2.8 cm. A section of tumor is sampled for tissue banking.
+remainder of the parenchyma is diffusely fatty with scant, delicate white fibrous tissue.
+No additional tumor-like masses are identified. The delicate white fibrous tissue makes up
+between 10-15% of the parenchyma. The tumor is most closely associated with the lower
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+GROSS DESCRIPTION:
+(Continued)
+PAGE 3
+(Continued)
+inner quadrant. Further sectioning of the lower inner quadrant shows a deeper, separate,
+1.3 x 0.7 x 0.5 cm possible tumor mass. This second described mass is 0.3 cm from the deep
+margin and is associated with the lower inner quadrant. This separate tumor is 5 cm from
+the first described tumor underlying the areola. The second mass is 4.5 cm from superior.
+4.0 cm from inferior. 2.8 cm from medial, 20 cm from lateral. Representative sections are
+sampled as labeled:
+nipple entirely submitted
+A1
+A2
+A3
+A4
+A5-7
+A8-10
+All
+A12
+A13
+A14
+en face section of areola
+pigmented skin papule
+deep margin associated with first described tumor mass
+sections of first described tumor mass to include mass to skin
+separate smaller circumscribed-appearing tumor mass at deep margin.
+entirely submitted
+upper outer quadrant
+lower outer quadrant
+upper inner quadrant
+lower inner quadrant (quadrant most closely associated with both tumor
+masses
+B. Received in formalin. labeled with the patient's name and "left axilla level 1 and 2" is
+a 5.0 x 4.0 x 2.5 cm aggregate of yellow adipose. The adipose is trimmed to have four
+nodular, fatty lymph nodes. The nodes range from 1.2 cm to 2.5 x 1.9 x 1.1 cm. The fat is
+trimmed and the nodes are sectioned to be entirely submitted as labeled:
+two lymph nodes with one lymph node bisected
+B1
+B2
+B3
+one lymph node bisected
+-
+the largest lymph node bisected
+PHOTO DOCUMENTATION
+Signed
+(signature on file).
+** END OF REPORT **
+Criteria
+fw 9/23/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (cie);
+QUALIFIED
+Date Reviewed:
+Reviewer itia A
+Yes
+No
+✓
+✓
+DISCU
+10/13

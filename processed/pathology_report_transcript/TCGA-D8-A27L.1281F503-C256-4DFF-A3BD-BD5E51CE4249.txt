@@ -1,0 +1,68 @@
+UUID:1281F503-C256-4DFF-A3BD-BD5E51CE4249
+TCGA-D8-A27L-01A-PR
+ICB-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS
+Redacted
+050.9
+lu 5/19/11
+copy No.
+2
+Date:
+Examination: Histopathological examination
+page 1 / 1
+Internal invoice No.
+Value of diagnostic procedure
+Examination No.:
+Patient: XXX
+PESEL: XX
+Age:
+Gender: F
+Material: Multiple organ resection - right breast,
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima Noted
+Case is icircle):
+QUALIFIED
+Pate Reviewed
+Review 5/19/
+DISQUALIFIED
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+Examination performed on:
+Macroscopic description:
+Right breast sized 19.0 × 14.0 x 2.5 cm removed without axillary tissues and with a skin flap of 14 x 8 cm. Tumour sized 1.1 x 0.6
+x 1.0 cm found in upper inner quadrant, located 2.5 cm from the lower boundary, 0.5 cm from the base and 1.0 cm from the
+skin.
+Microscopic description:
+Carcinoma ductale invasivum NHG1 (2 +2 + 1/5 mitoses/10 HPF - visual area 0.55 mm).
+Numerous foci of carcinoma ductale in situ (DCIS) found within the tumour (cribrate type with medium nuclear atypia and point
+necrosis, 30% of the tumour).
+Mamilla sine laesionibus.
+Glandular texture showing lesions of the type mastopathia fibrosa et cystica.
+Invasive lesions are situated 5 cm from the base.
+Histopathological diagnosis:
+Carcinoma ductale invasivum et in situ mammae dextrae. Invasive and in situ ductal carcinoma of the right breast.
+( NHG1, 
+pT1c
+, 
+pNx).
+Compliance validated by: dr
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell
+nuclei. HER2 protein stained 
+with Ventana's Pathway HER-2/neu (4B5) Rabbit Monoclonal Antibody. Negative reaction in
+invasive cancerous cells (
+Score=1+).
+dr
+dr

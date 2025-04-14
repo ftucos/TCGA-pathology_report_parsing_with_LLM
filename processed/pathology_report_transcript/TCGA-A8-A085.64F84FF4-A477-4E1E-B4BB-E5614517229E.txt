@@ -1,0 +1,32 @@
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+Path Site: breast, central C50.1
+CQCF Site: breast
+portion
+NUS 050.9
+1/25/11
+سر
+Poorly differentiated invasive carcinoma with discrete in situ spread
+(tumor diameter 2.5 cm). Infiltration of the corial connective tissue of superficial
+adjacent skin spindle. No ulceration of the skin. Focal tumor spread within the lymph
+vessels.
+In conclusion, this is a poorly differentiated invasive ductal carcinoma.
+Tumor classification: NOS, G III, pT2N1aL1V0R0.
+UUID:64F84FF4-A477-4E1E-B4BB-E5614517229E
+TCGA-A8-A085-01A
+-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Irital
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+8500/3

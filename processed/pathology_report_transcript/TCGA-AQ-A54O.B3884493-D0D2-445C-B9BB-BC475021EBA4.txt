@@ -1,0 +1,229 @@
+Redacted
+SURGICAL PATHOLOGY
+Case Number:
+UUID:B3884493-D0D2-445C-B9BB-BC475021EBA4
+TCGA-AQ-A540-01A-PR
+Diagnosis:
+A: Sentinel lymph node, right axillary #1, removal
+-
+No evidence of metastatic carcinoma in one lymph node (0/1)
+See comment
+B: Breast, right, total mastectomy
+Tumor type: Infiltrating ductal carcinoma
+ICDO-3
+Nottingham combined histologic grade: 3
+Tubule formation score: 3
+Nuclear Pleomorphism Score: 2
+Mitotic count score: 3
+Focality of tumor: unifocal
+Tumor size (greatest dimension): 35 mm
+Lymphovascular invasion: not identified
+Carcinoma, Infiltrating Duct,
+8500/3
+Site: R Breast, LOQ
+NOS
+Path, C50.3
+COCF, C50.9
+JW 12/12/12
+In Situ Component: Minor component of ductal carcinoma in situ,
+cribriform and solid types, nuclear grade 2 with necrosis, 2mm
+in linear extent
+Extensive intraductal component: absent
+Nipple/skin involvement: not identified
+Margin status:
+Invasive component: negative, widely clear; 1.5 cm to closest
+posterior
+margin
+In Situ component: negative; widely clear of all margins
+Axillary lymph nodes:
+Total number with metastasis: 0
+Total number examined: 14 ( see parts A & C)
+Microcalcifications: not identified
+Other findings: gynecomastia, biopsy site changes
+See report of prior biopsy (
+HER2 immunohistochemical studies
+·) for results of ER, PR and
+AJCC PATHOLOGIC TNM STAGE: PT2 pNO
+Note: This pathologic stage assessment is based on information
+available at the
+time of this report, and is subject to change pending clinical
+review and
+additional information.
+C: Lymph nodes, right axillary, removal
+-
+No evidence of metastatic carcinoma in 13 lymph nodes (0/13)
+See comment
+Comment:
+The axillary lymph nodes reveal lymphoid paracortical expansion,
+which is
+favored to be reactive in nature by H & E stains. Scattered
+pigmented
+histocytes are present suggestive of dermatopathic
+lymphadenitis. Additional
+immunohistochemical stains are pending to further evaluate this
+process, results
+of which will follow in an addendum report.
+Intraoperative Consult Diagnosis:
+Frozen section consultation was requested at
+by in OR
+FSA1,A2: Lymph node, right axillary SLN #1, biopsy
+No tumor seen
+Drs. at
+on
+Frozen Section Pathologist:, MD
+Clinical History:
+with right poorly differentiated invasive
+ductal carcinoma, Grade 3.
+Gross Description:
+Received are three appropriately labeled containers.
+Container A is additionally labeled "right axillary SLN #1, hot
++ blue." The
+specimen is a 6 x 4.5 x 1.5 cm fatty soft tissue fragment.
+Examination of the
+fat reveals a 2.0 x 2.0 x 1.0 cm blue lymph node candidate. This
+candidate is
+serially sectioned and submitted entirely in blocks FSA1 and
+FSA2.
+Container B:
+Specimen fixation: formalin
+Time in fixative: 28.5 hours
+Type of mastectomy: simple mastectomy
+Weight of specimen: 950 grams
+Size of specimen: 26.0 cm medial to lateral, 26.7 cm superior to
+inferior,
+4.0 cm anterior to posterior
+Orientation of specimen: Sutures: Short-superior, long-lateral
+Inking: anterior-blue, posterior-black, lateral=yellow
+Skin ellipse dimensions: 18.6 x 9.3 cm
+Nipple/areola: Nipple, 1.0 cm; areola, 3.1 cm
+Axillary tail: submitted separately
+Biopsy site: present; Location is central breast/lower outer
+quadrant;
+Size: 0.8 x 0.5 x 0.5 cm
+Appearance: Biopsy site (clip identified) is in the center of a
+white/tan, firm area. Hemorrhage and fat necrosis
+are noted in this area. Additional residual tumor is present.
+Discrete Mass(es): present
+Number of discrete masses: one
+Size of mass (es)/biopsy site: 2.5 x 2.0 x 3.5 cm
+Location of mass(es): subareola/lower outer quadrant
+Distance of mass/biopsy site from surgical margin: The mass
+measures 1.9 cm to
+posterior margin, 8.5 cm to inferior margin, 10.5
+cm to superior margin, 2.8 cm to anterior margin and is widely
+clear
+of medial/lateral margins.
+Gross involvement of skin or fascia/muscle by tumor: absent
+Descripti
+fibroad
+remaining breast: consistent with yellow/tan
+_issue
+with increased fibrous areas noted in the subareolar
+area; no other masses are identified
+Other remarkable features: none
+Tissue submited for special investigations: yes; Tumor to
+Tissue Pr
+ment
+Block Summary:
+(Inking: blue-anterior, black-posterior, yellow=lateral)
+B1
+B2
+-
+nipple
+areola
+B3 - biopsy site
+B4 - medial aspect of mass
+B5 B8 central portion of mass
+B9 lateral aspect of mass
+B10
+B11
+-
+mass to posterior margin
+representative dense fibrous tissue posterior to nipple
+and anterior to mass
+-
+closest skin margin (inferior areola)
+upper inner quadrant
+lower inner quadrant
+lower outer quadrant
+B12
+B13
+B14
+-
+B15
+B16
+-
+B17
+-
+mass to normal breast, superior
+B18
+-
+mass to normal breast, inferior
+upper outer quadrant
+Container C is additionally labeled "right axillary contents."
+The specimen
+consists of two fragments of yellow/tan fibroadipose tissue that
+measures 9.5 x
+6.5 x 3.0 cm in aggregate. Within the fibroadipose tissue,
+fifteen lymph node
+candidates are identified. These range in size from 0.4 up to
+1.5 cm in greatest
+dimension. The largest lymph node candidate measures 2.3 x 1.5 x
+1.0 cm.
+Block summary:
+C1
+C2
+C3
+-
+-
+six lymph node candidates
+five lymph node candidates (bisected node inked black)
+three lymph node candidates (bisected nodes inked black,
+blue and
+yellow)
+C4
+-
+one lymph node candidate, sectioned
+C5 one lymph node candidate, sectioned
+C6
+C7, C8
+one lymph node candidate, sectioned
+largest lymph node candidate, sectioned
+Procedures/Addenda:
+Addendum
+Addendum
+Immunohistochemical studies were performed on representative
+blocks of axillary
+lymph nodes (C6 and C7) and the results are as follows:
+CD20: Highlights many small lymphocytes in a generally nodular
+distribution
+CD3: Highlights majority of lymphocytes with focal expansion of
+the paracortex
+Interpretation: The immunohistochemical studies highlight an
+essentially normal
+pattern of distribution of B cells and T cells in the lymph
+nodes, with primary
+follicles composed predominantly of small
+paracortex
+lymphocytes and a
+populated by predominantly small T lymphocytes. Morphologic and
+immunohistochemical findings are compatible with reactive lymph
+nodes and do not
+support a diagnosis of a lymphoproliferative disorder. The mild
+paracortical
+expansion can be seen as a feature of dermatopathic
+lymphadenopathy.
+Criteria
+Diagnosis Discrepancy
+Primary Tumur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Need
+Case is (circle
+Reviewer Initials.
+QUALIFIED
+1 21412
+Date Reviewed:
+DISQUALIFIED
+No
+11/24/02

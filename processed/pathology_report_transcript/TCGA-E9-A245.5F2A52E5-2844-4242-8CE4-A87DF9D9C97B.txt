@@ -1,0 +1,49 @@
+OC#:
+TSS #.
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS
+050.9
+4/22/11th
+Procurement Date: 3/1/2011 Laterality: Left, upper outer quadrant
+Path Report:BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Upper outer quadrant
+Tumor size: 2 x 0 x 2.2 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 3/10 positive for metastasis (Axillary 3/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+UUID:5F2A52E5-2844-4242-8CE4-A87DF9D9C97B
+TCGA-E9-A245-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Di.crepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewet Initials
+Reviewer
+Yes
+No
+QUALIFIED
+Date Reviewed:
+tw
+DISQUALIFIED
+4/29/11
+1251

@@ -1,0 +1,178 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+A.
+B.
+C.
+D.
+-
+Sentinel node #1:
+No carcinoma seen in one lymph node (0/1)
+- Keratin Immunostain is negative.
+Suspicious node:
+- No carcinoma seen in one lymph node (0/1)
+Keratin Immunostain is negative.
+-
+Sentinel node #3:
+- No carcinoma seen in one lymph node (0/1)
+- Keratin Immunostain is negative.
+Left breast lumpectomy:
+ICD-0-3
+carcinoma, base cell, Hos 8090/3
+Site: breast, Nos
+· Invasive, poorly differentiated mammary carcinoma, high nuclear grade, 2.5 cm.
+- Margins are free of tumor.
+C50.9
+3/12/11
+- Tumor cell have been reported to be ER, and PR negative by Immunohistochemistry and HER2 negative by CISH.
+- In house immunostains are pending for further tumor subclassification.
+Tumor Summary:
+Specimen Type: Partial breast
+Procedure: Excision without wire-guided localization
+Lymph Node Sampling: Sentinel lymph node
+Specimen integrity: Left
+Specimen Size:
+- Greatest dimension: 5 cm
+- Additional dimensions: 4 x 3.5 cm.
+Laterality: Left
+Tumor Site: Not specified
+Size of Invasive Component:
+- Greatest dimension of largest focus of invasion: 2.5 cm.
+- Additional dimensions: 1.8 x 1.8 cm.
+Tumor Focality: Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor:
+Skin: Skin is not present.
+Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ (DCIS): No DCIS is present.
+Lobular Carcinoma in situ (LCIS): Not identified.
+Sue adchendur comment
+carcinoms of based all subtas
+Histologic Type: Invasion carcinoma. In house immunostains are pending for further tumor subclassification.
+Histologic Grade: Overall Grade: Grade 3+3+2=8
+Glandular (Acinar)/Tubular Differentiation: Score 3 <10% of tumor area forming glandular/tubular structures
+- Nuclear Pleomorphism: Score 3: Vesicular nuclei, often often with prominent nucleoli, exhibiting marked variation in size
+and shape, occasionally with very large and bizarre forms.
+- Mitotic Count: Score 2
+Margins: Margins uninvolved by invasive carcinoma.
+-
+Distance from closest margin: 2 mm (Posterior).
+Lymph-Vascular Invasion: Not identified.
+Dermal Lymph-Vascular invasion: No Skin present.
+Lymph Nodes:
+Number of sentinel nodes examined: 3
+Total number of nodes examined (sentinel and Nonsentinel): 3
+Number of lymph nodes with macrometastases (>0.2 cm): 0
+UUID:2153CBCE-6DA9-4E0F-9F41-89F08FD50647
+TCGA-EW-A10W-01A-PR
+Redacted
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor cells (<0.2 mm and ≤200 cells): 0
+Size of largest metastatic deposit: 0
+SURGICAL PATHOL Report
+Method of Evaluation of Sentinel Lymph Nodes:
+- Hematoxylin and eosin (H&E). one level
+-
+-
+Immunohistochemistry.
+Pathologic Staging:
+Primary tumor: pT2
+- Regional Lymph nodes: pNO (sn) (i-)
+- Distant Metastasis: pMX
+Additional Pathologic Findings:
+Other ancillary Studies: Performed on another specimen,
+ER: Immunohistochemistry = Negative.
+PR: Immunohistochemistry = Negative.
+HER2: Immunohistochemistry = Negative.
+HER2 CISH - Not amplified.
+Pathologic Staging (pTNM): pT2, NO (i-) (sn), MX
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validoned by our laboratory. These ASRs are clinically useful indicators that do not require FDA approval. These clones are used:
+IDS-ER, PgR 636-PR, A485-HER2, H-11-EGFR
+. All immunohistochemical stains are used with formalin or molecular fixed, paraffin embedded tissue. Detection is by Envision Method. The results are read by a
+pathologist as positive or negative.
+As the attending pathologist, I attest that I: (i) Examined the relevant preparation(s)
+for the specimen(s); and (ii) Rendered the diagnosis(es).
+Procedures/Addenda
+Addendum
+***Electronically Signed Out By***
+Date Ordered:
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+Status: Signed Out
+Left breast lumpectomy0:
+The tumor cells are focally positive for p63 and EGFR by Immunohistochemistry, The morphology and immunophenotype of this
+neoplasm is consistent with a carcinoma of basal cell 
+subtype.
+, MD, PhD
+Intraoperative Consultation
+A. Sentinel node #1 FS: No carcinoma seen
+B. Suspicious node FS: No carcinoma seen
+Clinical History:
+None provided
+, MD
+Page 2 of 3
+SURGICAL PATHOL Report
+Operation Performed
+Left breast lumpectomy; left breast lumpectomy with sentinel node biopsy, axillary node dissection
+Pre Operative Diagnosis:
+Breast cancer
+Specimen(s) Received:
+A: Sentinel node #1 FS
+B: Suspicious node FS
+C: Sentinel node #3, internal mammary (permanent)
+D: Left breast lumpectomy
+Gross Description:
+Received fresh there is a 1 x 0.8 x 0.3 cm lymph node. Bisected and submitted in toto for frozen section in two cassettes.
+Received fresh there is a 2 x 1 x 0.3 cm lymph node. Bisected and submitted in toto in two cassettes for frozen section.
+A.
+B.
+C.
+Received in formalin there is a 0.3 × 0.2 x 0.2 cm lymph node. Submitted in toto.
+D.
+Received in formalin there is a lumpectomy specimen of 5 x 4 x 3.5 cm and 40 grams. Specimen is oriented with short
+stitch in the superior margin and a long stitch in the lateral margin. Specimen is inked as follows: blue superior, green
+inferior, yellow anterior, black posterior, red medial, and orange lateral. There is a palpable indurated pale tan mass of
+2.5 x 1.8 x 1.8 cm. Closest resection margin is the posterior margin at 0.2 cm. Superior margin are 0.7, inferior margin at
+1 cm, lateral margin at 2.5 cm, and medial margin at 1.5 cm. There are no additional lesions in the remainder of the
+parenchyma. Fat to stroma ratio is 40:60. Representative sections are submitted as follow:
+1
+Superior posterior resection margin
+Inferior posterior margin
+2
+3
+Medial margin
+4
+Lateral margin
+5
+Inferior margin
+6-9
+10
+Remaining stroma
+Additional section of tumor
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Jual/Synchronous Primary Noted
+Case is (circle:
+Reviewer 74
+MC
+, MD
+--
+Yes
+QUALIFIED
+Date Reviewed:
+DISQUALIMED
+19
+Page 3 of 3

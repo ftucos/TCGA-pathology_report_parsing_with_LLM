@@ -1,0 +1,125 @@
+UUID:E8583D11-D6F7-41AC-8CD5-53437CBD8820
+TCGA-GM-A3XL-01A-PR
+DIAGNOSIS
+(A) RIGHT AXILLARY SENTINEL LYMPH NODE #1, BLUE,
+C Rare cytokeratin positive cell (See comment).
+(B) RIGHT AXILLARY SENTINEL LYMPH NODE #2, BLUE,
+One lymph node, negative for tumor.
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+Ne
+Primary Tumor Site Discrepancy
+HIPA Discrepancy
+Pior Malignancy History
+Cal/Synchronous Primary Noted
+QUALIFIED
+De Reviewed:"
+DISQUALIFIED
+Case is (circle):
+Reviewer itials
+BIOPSY:
+, BIOPSY:
+Cytokeratin immunohistochemical stain is negative for metastatic carcinoma.
+(C) RIGHT AXILLARY SENTINEL LYMPH NODE #3, BLUE, !
+, BIOPSY:
+Rare cytokeratin positive cell (See comment).
+(D) RIGHT AXILLARY SENTINEL LYMPH NODE #4,
+Rare cytokeratin positive cell (See comment).
+BIOPSY:
+(E) RIGHT AXILLARY SENTINEL LYMPH NODE #5, NOT BLUE, '
+One lymph node, negative for tumor.
+Cytokeratin immunohistochemical stain is negative for metastatic carcinoma.
+I, BIOPSY:
+(F) RIGHT AXILLARY SENTINEL LYMPH NODE #6, NOT BLUE,
+One lymph node, negative for tumor.
+BIOPSY:
+Cytokeratin immunohistochemical stain is negative for metastatic carcinoma.
+BIOPSY:
+Cytokeratin immunohistochemical stain is negative for metastatic carcinoma.
+(G) RIGHT AXILLARY SENTINEL LYMPH NODE #7, NOT BLUE,
+One lymph node, negative for tumor.
+(H) RIGHT BREAST, SEGMENTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA WITH EXTENSIVE TUMOR NECROSIS, MODIFIED
+BLACK'S NUCLEAR GRADE 3 (HIGH GRADE), NOTTINGHAM HISTOLOGIC GRADE 3, MEASURING 2.5 CM
+IN GREATEST SINGLE DIMENSION. (SEE COMMENT).
+Margins widely free of tumor.
+Lymphovascular space invasion is not identified.
+Fibrocystic change including apocrine metaplasia, usual duct epithelial hyperplasia without atypia, and adenosis.
+Intraductal papilloma.
+(I) ADDITIONAL LATERAL MARGIN OF RIGHT BREAST, EXCISION:
+Fibrocystic change including adenosis and usual duct epithelial hyperplasia without atypia.
+Negative for tumor.
+COMMENT
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS
+Site, breast, NoS (50A
+850013
+5-23-12 Ro
+In the lymph node samples designated A, C, and D, rare cytokeratin reactive cells are present. These cells do not bear any
+resemblance to the patient's invasive tumor and are believed to represent non-specific immunoreactivity.
+Prognostic and predictive tumor markers have been previously reported, please refer to
+GROSS DESCRIPTION
+(A) RIGHT AXILLARY SENTINEL LYMPH NODE #1, BLUE,
+¡number
+Received fresh for frozen section is
+light blue lymph node measuring 3.0 x 1.5 x 1.0 cm. Sectioned and entirely submitted in A1-A6. Entire lymph node is submitted
+for frozen section.
+.
+*FS/DX: ONE LYMPH NODE, NEGATIVE.
+(B) RIGHT AXILLARY SENTINEL LYMPH NODE #2, BLUE, FOR FROZEN SECTION,
+-
+Received is
+a single lymph node measuring 1.2 x 0.8 x 0.6 cm. Cut surface is light blue. Sectioned and entirely submitted in blocks B1, B2.
+*FS/DX: ONE LYMPH NODE, NEGATIVE.
+(C) RIGHT AXILLARY SENTINEL LYMPH NODE #3, BLUE,
+..
+Received is a single lymph node, for
+frozen section measuring 0.8 x 0.6 cm. Cut surface is light tan. Bisected and entirely submitted for frozen section in C.
+*FS/DX: ONE LYMPH NODE, NEGATIVE.
+(D) RIGHT AXILLARY SENTINEL LYMPH NODE #4,
+-
+Received for frozen section is a single lymph
+node measuring 0.8 x 0.7 cm. Cut surface is light tan. Bisected and entirely submitted in D, for frozen section.
+*FS/DX: ONE LYMPH NODE, NEGATIVE.
+(E) RIGHT AXILLARY SENTINEL LYMPH NODE #5, NOT BLUE,
+lymph node measuring 0.8 x 0.6 cm. Bisected and entirely submitted for frozen section in E.
+*FS/DX: ONE LYMPH NODE, NEGATIVE.
+(F) RIGHT AXILLARY SENTINEL LYMPH NODE #6, NOT BLUE,
+-
+Received is a single light brown
+Received for frozen section is a
+single light brown lymph node measuring 0.7 x 0.4 cm. Bisected and entirely submitted for frozen section in cassette F.
+*FS/DX: ONE LYMPH NODE, NEGATIVE.
+(G) RIGHT AXILLARY SENTINEL LYMPH NODE #7, NOT BLUE,
+-
+Received for frozen section is a
+single light brown lymph node measuring 1.0 x 0.7x 0.7 cm. Sectioned and entirely submitted in cassette G for frozen section.
+*FS/DX: ONE LYMPH NODE, NEGATIVE. .
+(H) RIGHT BREAST SEGMENTAL MASTECTOMY, SHORT SUPERIOR, LONG LATERAL - Received for immediate
+intraoperative evaluation is a single fragment of a breast tissue measuring 7.0 x 6.0 x 3.7 cm. The surgical margin is inked.
+Sectioned from medial to lateral aspects producing six slices. The cut surface of slices 3, 4 and 5 shows a well to ill-defined
+indurated light gray tumor measuring 2.5 x 2.2 x 2.0 cm. Grossly, it is 0.5 cm from the lateral surgical margin at inferior aspect, 1.8
+cm from inferior surgical margin, 2.0 cm from the deep surgical margin, 1.5 cm from the anterior surgical margin and 2.0 cm from
+the superior surgical margin and 1.0 cm from the medial surgical margin. The rest of the tissue is fatty. Representative sections
+are submitted.
+SECTION CODE: H1, perpendicular sections of the lateral surgical margin at the inferior aspect; H2, perpendicular
+sections of the lateral surgical margin, midportion; H3, slice #5, superior aspect of the tumor; H4, slice #5, tissue superior to the
+tumor including superior surgical margin; H5, slice #5, inferior portion of the tumor; H6, slice #5, tissue inferior to the tumor, slice
+#5 including inferior surgical margin; H7, posterior aspect of the tumor, slice #5; H8, slice #5, tissue posterior to the tumor
+including posterior surgical margin; H9, slice #5, anterior surgical margin; H10, H11, slice #4, superior aspect of the tumor, mirror
+images; H12, H13, slice #4, inferior aspect of the tumor, mirror images; H14, slice #4 anterior surgical margin; H15, slice #4,
+inferior surgical margin; H16, slice #4, superior surgical margin; H17, slice #3, dissection of the tumor; H18, slice #2, tissue
+medially to the tumor; H19, perpendicular sections of medial surgical margin. A small amount of tumor is submitted to tumor bank.
+(I) ADDITIONAL LATERAL MARGIN OF RIGHT BREAST, CLIPS MARKS TRUE MARGIN - A fragment of breast tissue with clips
+indicating new margin measuring 7.2 x 2.5 x 0.9 cm. New surgical margin is inked. The cut surface is fibrofatty. Representative
+sections is entirely submitted in cassettes 1-17.
+CLINICAL HISTORY
+Right breast cancer.
+SNOMED CODES
+T-04050, M-85003, M-85002, M-H0310
+"Some tests reported here may have been developed and performance characteristics determined by
+specifically cleared or approved by the U.S. Food and Drug Administration."
+-END OF REPORT---
+These tests have not been

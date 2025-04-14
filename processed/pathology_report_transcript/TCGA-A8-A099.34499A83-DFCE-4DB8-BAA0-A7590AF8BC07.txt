@@ -1,0 +1,27 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+1/25/11 w
+050.9
+Diagnosis:
+1. Ablated breast sample with a moderately differentiated invasive ductal carcinoma
+(tumor diameter 105 cm) with focal ulceration of the skin and a satellite node
+(diameter 0.9 cm) in the skin. Tumor-free dorsal resection margin.
+Together with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G II, pT4b pN3a(11/22) LOVORO.
+UUID:34499A83-DFCE-4DB8-BAA0-A7590AF8BC07
+TCGA-A8-A099-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nuted
+Case (circle):
+Review Inti
+QUALIFIED
+Date Reviewed:
+DISQUALIFI
+Yes
+Nor
+Redacted

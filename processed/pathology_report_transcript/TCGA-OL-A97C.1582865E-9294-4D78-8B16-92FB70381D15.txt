@@ -1,0 +1,147 @@
+Sample #
+UUID:1582865E-9294-4D78-8B16-92FB70381D15
+TCGA-OL-A97C-01A-PR
+Redacted
+FINAL PATHOLOGIC DIAGNOSIS
+A. Sentinel lymph node #1, left, biopsy:
+-One reactive lymph node, negative for tumor (0/1)
+B. Sentinel lymph node #2, left, biopsy:
+-One reactive lymph node, negative for tumor (0/1).
+C. Left axillary lymph node #3, biopsy:
+-Two reactive lymph nodes, negative for tumor (0/2).
+D. Left axillary lymph node #4, biopsy:
+-One reactive lymph node, negative for tumor (0/1).
+E. Left axillary non-sentinel lymph node, biopsy:
+-One reactive lymph node, negative for tumor (0/1).
+F. Left breast, mastectomy:
+ICD-0-3
+Tumor, phyllodes malignait
+Lite ①Breast NOSSO
+-Malignant phyllodes tumor (25 x 17 x 16.5 cm) with heterologous
+(chondrosarcomatous, fibrosarcomatous-like, and
+fibro-myxosarcomatous-like differentiation).
+- Margins of resection are free of phyllodes tumor (0.5 mm from posterior
+margin, > 6 mm from closest anterior inferior aspect).
+- The tumor abuts the dermis of the nipple areolar complex.
+- Nipple without diagnostic abnormality.
+- Focus of atypical ductal hyperplasia, see comment.
+- Intraductal hyperplasia, usual type.
+- Benign skin.
+G. Pectoralis major muscle, new outer margin, excision:
+لله
+9020/3
+C50.9
+4/28/14
+-Fibroadipose tissue and skeletal muscle with degenerative changes,
+negative for tumor.
+Clinical History:
+The patient is a -year-old female with breast cancer undergoing simple
+mastectomy, breast reconstruction, and sentinel node biopsy.
+Comment
+F. CK5/14 supports a small focus of atypical ductal hyperplasia. All IHC
+controls were appropriate.
+Specimens Received:
+A: F/s 1st sentinel node left breast
+B: F/s 2nd sentinel node left breast
+C: Left axillary lymph node #3
+D: Left axillary lymph node #4
+E: Left axillary non-sentinel lymph node
+F: Left breast
+G: Pectoralid(sp) major muscle
+E. The fifth container is additionally identified as, 'left axillary
+non-sentinel lymph node'. Received fresh and placed in formalin is a 0.7 x 0.6
+x 0.4 CM lymph node that is bisected and submitted in E1.
+F. The sixth container is additionally identified as, 'left breast. Long
+stitch-lateral margin. Short stitch-superior margin. Please weigh the specimen
+per Dr.
+Received fresh and placed in formalin is a 4,580 gm
+mastectomy specimen measuring 25 cm from medial to lateral, 20 cm from superior
+to inferior and 16.5 cm from anterior to posterior. There is a 25 x 20 cm
+wrinkled skin ellipsecovering the entire anterior surface, with a short suture
+designating the superior pole and a long suture designating the lateral pole.
+The areola measures 5.5 CM in diameter and the nipple measures 1.5 x 1.2 x 0.3
+CM. The nipple-areolar complex displays no evidence of ulceration or retraction.
+The deep surface is inked black and the specimen is sectioned from medial to
+lateral into 12 slices (nipple at slice 6-7) to reveal a 25 x 17 x 16.5 CM mass
+with a variegated cut surface characterized by tan, fleshy regions intermixed
+with dusky, gray-green regions and golden-yellow adipose, with scattered coarse
+granularity and hemorrhage. The superior portions of slices 2-10 contain a
+cystic space filled with hemorrhagic to slightly mucinous fluid. The mass
+grossly extends to the posterior margin (slice 9) and is located 0.2 CM from the
+green ink. Multiple sections of the mass, skin, and margins are submitted as
+follows:
+Gross Description:
+The specimens are received in seven containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'F/S first sentinel node
+left breast'. Received fresh for frozen section diagnosis is a 2 x 1.2 x 0.8 CM
+lymph node that is entirely frozen and called, 'one benign lymph node,' by Dr.
+The frozen section remnants are submitted in A1-A2 FS.
+B. The second container is additionally identified as, 'F/S second sentinel
+node left breast'. Received fresh for frozen section diagnosis is a 2.0 x 1.2 x
+0.6 CM lymph node that is entirely frozen and called, 'one benign lymph node,'
+by Dr.
+"
+The frozen section remnants are submitted in B1FS.
+C. The third container is additionally identified as, 'Left axillary lymph node
+#3. Count '. Received fresh for frozen section diagnosis are 2 lymph nodes
+measuring 0.6 and 1.2 CM in greatest dimension. They are entirely frozen and
+called, '2 benign lymph nodes,' by Dr.
+submitted in C1-C2 FS.
+The frozen section remnants are
+D. The fourth container is additionally identified as, 'Left axillary lymph
+node #4. Count- '. Received fresh for frozen section diagnosis is a 1.3 CM
+lymph node that is entirely frozen and called, 'one benign lymph node,' by Dr.
+. The frozen section remnants are submitted in D1FS.
+F1-F2: Slice 11
+F3-F4: Slice 10
+F5-F6: Slice 9, closest approach to black ink
+F7-F8: Slice 8
+F9: Slice 7
+F10-F11: Slice 6 (nipple)
+F12: Slice 5
+F13: Slice 4, closest approach to green ink
+F14-F15: Slice 3
+F16-F17: Slice 2
+F18: Slice 1
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours.
+G. The seventh container is additionally identified as, 'pectoralis major
+muscle new outer margin lateral long black, new superior margin black'. Received
+fresh and placed in formalin is a 24.3 g, 7 x 4.5 x 2.2 CM portion of irregular,
+ragged, partially disrupted fibroadipose and muscle tissue designated with a
+long suture marking new outer margin lateral, and a black suture designating new
+superior margin. A gross photograph is taken. The specimen is inked as follows:
+New outer lateral margin-orange
+Superior-blue
+Inner-black
+Anterior-yellow
+Posterior-red
+The specimen is serially sectioned from superior to inferior into 13 slices to
+reveal scattered palpable nodules. Sections are submitted as follows:
+G1: Superior tip (slice 1), shaved
+G2: Slice 3
+G3-G4: Slice 5
+G5-G6: Slice 7
+G7-G8: Slice 9
+G9: Slice 11
+G10: Slice 13
+Intraoperative Consult Diagnosis:
+A1-A2 FS: 'one benign lymph node,' by
+B1 FS: 'One benign lymph node,' by
+C1-C2 FS: '2 benign lymph nodes,' by
+D1 FS: 'One benign lymph node,' by
+Criteria
+Cu 12/23/13.
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima Noted
+Case is (circle)
+Reviewer Initials
+10 QUALIFIED
+Yes
+No
+1/ DISQUALIFIED 3713
+18/237/3
+Date Reviewed:

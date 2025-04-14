@@ -1,0 +1,334 @@
+UUID:23B3BAED-E281-4A1D-AB78-51D8D62466FF
+TCGA-C8-A9FZ-01A-PR
+Redacted
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+Informed Consent
+220 C3
+Caraisuma, in Strating
+lebear mixeal wother types
+(tubalar) 852413
+Sater NOS (509
+(i) Preout central portion
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+2501
+801/7/14
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+Date
+Date of Birth (mm/dd/yyyy)
+Height
+1
+☐ Single
+Marital Status
+Married
+Race
+caucasian
+Temperature
+Gender
+Weight
+□ Divorced □ Widow
+Blood Pressure
+Heart Rate
+☐ Female
+Chief Complaints: Formation in the left mammary gland
+Symptoms: Formation in central portion of left breast 2,0 cm in diameter
+Clinical Findings: Normal no complaints; no evidence of disease.
+Performance Scale (Karnofsky Score):
+☐ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory □ 60-70 Symptomatic, in bed less than 50% of day
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+□ 20-30 Bed Ridden
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+Το
+1
+To
+To
+To
+.:
+Diagnosis Date
+Treatment
+Status
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Obesity gr.II
+Nephrolithiasis
+Menopausal Status
+Date of First Menses
+# of Pregnancies
+3
+☐ Pre-menopausal
+□ Peri-Menopausal
+Post-menopausal
+Date of Last Menses
+Birth Control: ☐ Condom ☐ Oral Contraceptive □ IUD
+□ Other:
+# of Live Births
+1
+□ Hormone Replacement
+Therapy:
+Occupation: accountant
+Environmental Hazards: NO
+Current Status
+TYPE
+Smoking History
+Packs/day
+Duration
+When Quit
+□ YES ☐ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+Duration
+When Quit
+□ YES ☐ NO
+(yrs)
+(yr)
+Drug Use
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES
+☐ NO
+(yrs)
+(yr)
+Relative
+Diagnosis
+Test
+HIV
+Result
+Date
+✓ Negative ☐
+Test
+CEA
+Result
+☐ Negative ☐ Positive:
+Positive:
+Hep B
+☐ Negative ☐
+CA 15-3
+☐ Negative ☐ Positive:
+Positive:
+Hep C
+✓ Negative
+☐
+CA 19-9
+☐ Negative ☐ Positive:
+Positive:
+AFP
+☑ Negative ☐
+Positive:
+Other:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+PSA
+Other:
+☐ Negative ☐ Positive:_
+☐ Negative ☐ Positive:
+2
+Age of Diagnosis
+Date
+Study
+Ultrasound
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy
+Results
+In the central portion of left breast – formation 2,0 cm in diameter
+In the central portion of left breast – tumor size 2,0 cm in diameter
+-
+Breast cancer
+Preoperative Clinical Diagnosis
+Breast cancer
+Location of Suspected Involved Lymph Nodes
+axillary
+Clinical Staging
+Date
+Location of Suspected Distant Metastasis
+Date of Diagnosis
+T2 N1 MO Stage: IIB
+Treatment Information
+Procedure
+Mastectomy with axillary and subclaian lymph node dissection
+Date of Procedure
+Primary Tumor
+Organ
+Left breast
+Detailed Location
+Central portion
+Size
+1.3x1.6x2.2 cm
+Extension of Tumor
+Lymph Nodes
+Description
+Location of Lymph Nodes
+# of Lymph Nodes
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Organ
+axillary, sublavian
+10
+Distant Metastasis
+Detailed Location
+Size
+Surgical Staging
+T2N1M0
+Stage: IIB
+Drug/Treatment
+Dose
+Route
+4
+Frequency
+Date (mm/dd/yyyy)
+Collected by:
+Preserved by:
+Diseased
+Frozen
+Normal
++
+Time to LN2
+15 min
+Notes:
+Organ
+Breast
+Pathology Form
+Specimen Information
+Date:
+ime:
+Date:
+'ime:
+Paraffin Block
+Diseased
+Normal
++
+Time to Formalin
+15 min
++
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+Normal
++
+Time to LN2
+15 min
+Primary Tumor
+Size
+1,3x1,6x2,2cm
+Extension of Tumor
+Distance to NAT
+≥2 cm
+Lymph Nodes
+Location
+axillary
+subclaviculary
+# Examined
+5
+5
+# Metastasized
+3
+0
+Distant Metastasis
+Organ
+Detailed Location
+Size
+Pathological Staging
+PT2N1M0 Stage:IIB
+5
+Consolidated Pathology Diagnosis
+Call Distribution
+Diffuse
+Mosaic
+Necrosis
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+Structural F
+bern
++
+Streaming
+Storiform
+Fibrosis
+Palisading
+✗Cystic Degeneration
+Bleeding
+Myroid Change
+Psammomma/Calcifica
+nomatous +
+Squamoid Cell
+Glandular cell
+N
+Round Cell
+Spindle Cell
+Keratin
+Desmosome
+Pearl
+Cell Stratification
+☑
+Fibroblast
+Secretion
+x
+Osteoblast
+Large Cell
+Small Cell
+RS Cell/RS Uke
+Intracyt. Vacuole
+Gland formation
+Cellular Differentiation:
+Lipoblast
+Myoblast
+□ Well
+Inflam. Cell
+Plasma Cell
+Moderate
+□ Poor
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Glant Cell
+Mitotic Activity
+D: 80%
+Nuclear Grade:
+Final Pathology Report
+Histological Diagnosis: In KM: 2
+Comments:
+Tubulo-lobular caReg.
+D₁:d, 12
+Director, Research Pathology
+Criteria
+INTEGRATED REPORT OF FINDINGS BY COLLABORATORS AND
+PATHOLOGISTS – FO-
+-
+Date
+1/3/14
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted...
+Case is (circle/
+Reviewer Initis
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+12/30/13

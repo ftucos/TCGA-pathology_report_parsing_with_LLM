@@ -1,0 +1,37 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+Site: Breast, LIQ 050.2
+CQCF
+Site: Breast, Nos
+050.9
+1/21/11
+سلام
+Diagnosis:
+1. Ablated (right) breast sample with a multifocal invasive ductal carcinoma with
+intraductal components and focal angioinvasion (focus of a poorly differentiated
+invasive ductal carcinoma with a tumor diameter of 2.8 cm and 
+two further foci 
+of a
+moderately invasive ductal carcinoma with tumor diameters of 3.0 cm and 1 cm).
+Dorsal resection margin tumor-free with minimum margin of 0.5 cm with the first
+tumor focus, 1.5 cm with the second and 0.7 cm with the third, other margins are
+free.
+Tumor classification: NOS, G III, pT2(mult)N3aL1V0R0
+UUID:683AAF99-3891-4501-8701-C3A4E8439647
+TCGA-A8-A08F-01A-PR
+Redacted
+3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle
+Revveiti
+QUALIFIED
+De Reviewed:
+Yes
+DISQUALIFIED
+5/31/11

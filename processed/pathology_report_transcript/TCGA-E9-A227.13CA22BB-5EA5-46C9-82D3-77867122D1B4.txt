@@ -1,0 +1,50 @@
+Case ID
+Subject ID
+Formatted Path Report
+BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2.1 x 1.8 x 1.4 cm
+Grossly evident lesion: Yes
+1CD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 1/17 positive for metastasis (Sentinel 1/17)
+Extracapsular invasion of the lymph nodes: No
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Moderate 10% to 75% (score=2)
+Nuclear pleomorphism: Marked variation in size, nucleoli, etc
+(score=3)
+Mitotic count (25x): 10 to 20 mitoses per 10 HPF (score=2)
+Mitotic count (40x): Not specified
+050.9
+Total Nottingham Score: Grade II (moderately differentiated): 6-7
+points
+Evidence of neo-adjuvant treatment: Not specified
+4/7/11 fer
+Laterality Date of Procurment
+outer
+Left, upper
+quadrant
+TCGA-E9-A227-01A-PR
+UUID:13CA22BB-SEA5-46C9-82D3-77867122D1B4
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Maliynancy History
+Dual/Synchronous Primary Noted
+Case is circle:"
+Reviewer India's
+QUALIFIED
+Date Reviewed:
+CISQUALIFIED
+4/7/41

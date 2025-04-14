@@ -1,0 +1,68 @@
+PATIENT HISTORY:
+IUD-0-3
+Carcinoma,
+mucinous and infiltrating duct 8523/3
+Site Code: breast, lower inner quadrant C50.3
+showing infiltrating ductal carcinoma, mucinous type,
+The patient is a year-old woman with a core biopsy in
+nuclear grade 1 (ER and PR positive, and HER-2/neu negative).
+PRE-OP DIAGNOSIS: Right breast cancer; postmenopausal bleeding.
+Same.
+POST-OP DIAGNOSIS:
+PROCEDURE:
+Right total mastectomy, sentinel node biopsy, hysteroscopy, D&C.
+139/15/12
+کسار
+CQCF:
+breast, Nos
+C50.9
+FINAL DIAGNOSIS:
+PART 1: BREAST RIGHT, TOTAL MASTECTOMY -
+A. MULTIFOCAL INFILTRATING DUCTAL CARCINOMA, MUCINOUS TYPE, INVOLVING THE LOWER INNER
+QUADRANT
+B. THE TWO FOCI OF INVASIVE CARCINOMA ARE BOTH 1.5 CM IN GREATEST DIMENSION.
+C. NOTTINGHAM SCORE 4 (TUBULE FORMATION, 2; NUCLEAR PLEOMORPHISM, 1; MITOTIC INDEX 1).
+D. DUCTAL 
+CARCINOMA IN SITU (DCIS), SOLID TYPE, NUCLEAR GRADE 1.
+G. SURGICAL MARGINS FREE OF CARCINOMA.
+· E.
+DCIS CONSTITUTES APPROXIMATELY 15% OF THE TUMOR MASS.
+F.
+NO ANGIOLYMPHATIC INVASION IS IDENTIFIED.
+H.
+1.
+J.
+PREVIOUS BIOPSY SITE IS IDENTIFIED.
+BENIGN BREAST TISSUE.
+SKIN AND NIPPLE NOT REMARKABLE.
+K. ONE LYMPH NODE NEGATIVE FOR CARCINOMA (0/1).
+-
+PART 2: RIGHT AXILLA, SENTINEL LYMPH NODE#1, BIOPSY.
+ONE LYMPH NODE NEGATIVE FOR MALIGNANCY (0/1).
+PART 3: ENDOCERVIX, CURETTAGE -
+A.
+RARE BENIGN ENDOCERVICAL CELLS AND MUCUS,
+B. NEGATIVE FOR ATYPIA OR CARCINOMA.
+PART 4: ENDOMETRIUM, CURETTAGE -
+UUID:E89670CB-575A-4867-AF79-1C730B9B86D4
+TCGA-BH-A18S-01A-PR
+Redacted
+A. SCANT BENING ENDOMETRIUM WITH MUCUS AND CELL DEBRIES (Cross refer
+B. NEGATIVE FOR ATYPIA OR CARCINOMA.
+COMMENT:
+Estrogen and progesterone receptors and HER2/neu, performed on the previous core biopsy
+reported as follows:
+ER positive, PR positive, HER-2/neu negative (score 1+).
+Criteria
+Diagnosis L'iscrepancy
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notad
+Case is (circle):
+Reviewer Initials
+Yes
+SALTER/DSQUALIFIED
+Mo
+Date Review:
+were

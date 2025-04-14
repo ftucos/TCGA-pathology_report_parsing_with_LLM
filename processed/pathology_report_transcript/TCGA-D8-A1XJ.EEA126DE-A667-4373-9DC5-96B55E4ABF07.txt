@@ -1,0 +1,67 @@
+Department of Cancer Pathology
+copy No.
+Date:
+Examination: Histopathological examination
+page 1/1
+Internal invoice No.
+Patient: XXX
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+ICD-0-3
+Material: 1. Multiple organ resection - left breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+carcinoma infiltrating ductal and mucinous
+852313
+Site: buast, Nos
+050.9
+سر
+Clinical diagnosis: Cancer of the breast.
+Examination performed on:
+Macroscopic description:
+Left breast sized 22.4 x 14.2 x 5.3 cm removed along with axillary tissues sized 8 x 9 x 3.5 cm and a 24.3 x 8.2 cm skin flap.
+Weight 860 g.
+Tumour sized 5 x 3.5 x 5.5 cm found on the boundary of outer quadrants, 2.4 cm from the upper boundary, 0.4 cm from the base
+and 1.6 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum (partim mucinosum) – NHG2 (2+2+3/24 mitoses/10 HPF - visual area: 0.55mm).
+Carcinoma intraductale mamillae.
+Glandular tissue with lesions of the type mastopathia fibrosa. Invasive lesions 0.5 cm away from the base.
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodis (No II/XLIII).
+Histopathological diagnosis:
+Carcinoma invasivum partim mucinosum mammae sinistrae. Invasive ductal and partially mucinous carcinoma of the left breast.'
+Metastases carcinomatosae in lymphonodis axillae (No II/XLIII). Cancer metastases in axillary lymph nodes.
+(NHG2, pT3, pN1a).
+Compliance validated by:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Positive reaction in invasive carcinoma cells (Score = 3+ ).
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+UUID:EEA126DE-A667-4373-9DC5-96855E4ABF87
+TCGA-D8-A1XJ-01A-PR
+Redacted
+_riteria
+Diagnosis Discrepancy
+Yes
+Primary Tumor Site Discrepanc
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+that
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+4/12/11

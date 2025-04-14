@@ -1,0 +1,208 @@
+TSS
+SPECIMENS:
+A. SENTINEL NODE #1 AND #2
+B. RIGHT BREAST
+C. RIGHT AXILLARY CONTENTS
+SPECIMEN(S):
+A. SENTINEL NODE #1 AND #2
+B. RIGHT BREAST
+C. RIGHT AXILLARY CONTENTS
+GROSS DESCRIPTION:
+A. SENTINEL NODE #1 AND #2
+ICD-0-3
+carcinoma, infiltrating ductal, Nos 8500/2
+Path
+Site: breast, upper inner quadrant C50.2
+CQCF Sites breast,
+F, 
+NOS 050.9
+UUID:8F401B38-8D91-4F75-ADE5-52521EAA7DFE
+TCGA-E2-A1LA-01A-PR
+Redacted
+Received fresh labeled with the patient's identification and "sentinel node #1 and #2, right axilla" is a 1.8
+x 1.5 x 0.6 cm portion of adipose tissue, within which, two lymph nodes are identified, 0.4 cm( #2) and
+0.8 cm( #1). A touch preparation is made on each node. The specimen is entirely submitted as follows:
+A1- lymph node #1
+A2-lymph node #2
+B. RIGHT BREAST
+Received fresh labeled with the patient's identification and designated "right breast" is an oriented
+(suture in axilla), 358 g, 21 x 17 x 5 cm mastectomy specimen with 7.5 x 5.4 cm beige skin ellipse
+showing a 1 cm diameter retracted nipple. Ink code: Posterior-deep, anterior/superior-blue,
+anterior/inferior-orange. The specimen is serially sectioned from lateral to medial into 13 slices
+revealing two possible lesions. Mass #1, in the upper inner quadrant (two o'clock, slices 9-10), 2 x 1.5 x
+1.4 cm, is located 2.2-cm from the deep margin and 1.4-cm from anterior. Approximately 4.5-cm from
+mass #1, a second mass is demonstrated in the upper outer quadrant (slice 8), 2 x 1.5 x 1 cm, located
+2.5-cm from the deep margin and 1 cm from anterior. A portion of the specimen is submitted for tissue
+procurement (mass #1). Representatively submitted:
+B1-B2: Nipple
+B3: Skin
+B4-B5: Mass #1, two o'clock, UIQ, slice 9
+B6-B7: Mass #1, two o'clock, UIQ, slice 9
+B8: Deep margin overlying mass #1, slice 9
+B9: Firm tissue adjacent to mass #1, slice 9
+B10-B12: Mass #2, UOQ, slice 8
+B13: Deep margin, mass #2, slice 8
+B14: Representative section, LOQ, slice 6
+B15-B16: Representative sections, LIQ, slice 12
+B17: Possible axillary lymph nodes
+C. RIGHT AXILLARY CONTENTS
+Received fresh labeled with the patient's identification and " axillary contents" is a 10.5 × 10.0 x 2.5 cm
+portion of adipose tissue, within which, 34 possible lymph nodes are identified, ranging from 0.1 to 2.5
+cm. The cut surfaces of the larger nodes are fatty to soft tan-pink. No evidence of tumor is grossly
+noted. The specimen is entirely submitted as follows:
+C1-six lymph nodes
+C2-six lymph nodes
+C3-six lymph nodes
+C4-six lymph nodes
+C5-seven lymph nodes
+C6- one lymph node bisected
+C7-one lymph node bisected
+C8-C9-one lymph node
+C10-C14-remaining soft tissue
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1 and #2, RIGHT AXILLA, EXCISION:
+METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1),
+MEASURING 8-MM WITH EXTRANODAL EXTENSION.
+-
+B. BREAST, RIGHT, MASTECTOMY:
+TSS:
+-
+INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.1 CM, PRESENT IN UPPER
+INNER QUADRANT
+HIGH NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID type
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- BIOPSY SITE CHANGES WITH FIBROSIS, GRANULATION TISSUE
+- usual ductal hyperplasia without atypia
+-
+-
+· fibroadenoma (0/.7-CM) AND INTRADUCTAL PAPILLOMA (0.2-CM)
+SEE SYNOPTIC REPORT.
+C. LYMPH NODES, RIGHT, AXILLARY DISSECTION:
+- Thirty-FOUR LYMPH NODES, NEGATIVE FOR METASTASES (0/34).
+NOTE: Two nodules are grossly identified, one located in the upper inner quadrant and one located in
+the upper outer quadrant. Microscopically, the former is invasive ductal carcinoma and the later is
+fibroadenoma.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Mastectomy
+No
+Laterality: Right
+Present
+Invasive Tumor:
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.1cm
+Tumor Site: Upper inner quadrant
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+2
+2
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+Lymph nodes:
+None
+2
+Sentinel lymph node and axillary dissection
+Positive 1/35 Extranodal extension
+Lymph node status:
+Micrometastases:
+DCIS present
+No
+Margins uninvolved by DCIS
+DCIS Quantity:
+Estimate 5%
+DCIS Type: Solid
+DCIS Location:
+Associated with invasive tumor
+Nuclear grade:
+High
+Necrosis: Absent
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN): pT 1c N 1a
+CLINICAL HISTORY:
+year old with right breast cancer, previous biopsy
+PRE-OPERATIVE DIAGNOSIS:
+TSS.
+None given
+INTRAOPERATIVE CONSULTATION
+TPA: Positive for carcinoma.
+Called by Dr. to Dr at
+Right breast, gross examination: Two possible lesions, mass number one, 1.5-cm located 3.2-cm from
+deep margin and 1.4-cm from anterior, mass number two, 2-cm in size located 2.5-cm from deep and
+1cm from anterior
+Diagnosis called at
+ADDENDUM:
+by Dr.
+PathVysion HER-2 DNA Probe Kit
+Case NoAnalytical Interpretation of Results: HER-2 NOT AMPLIFIED
+Clinical Interpretation of results
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HER-2 probe that spans the entire HER-2 gene in the
+by Dr.. A majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no
+amplification of the HER2/neu gene.
+Block used B7
+Tissue source
+HER2/CEP17 ratio:
+Source of case: Tissue fixation
+breast Results interpreted:
+1.15
+formalin-fixed tissue
+Outside Case No: NA
+yes
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method of ratio enumeration: manual count
+No
+Limitations
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status.
+treatment decision for stage II, node-positive breast cancer patients should be based on HER-
+2/neu
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+natients for whom HerceptinⓇ therapy is being considered. These tests were performed in the
+under the direction
+'
+of Dr.. The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+Gross Dictation:, (
+Microscopic/Diagnostic Dictation:,
+Microscopic/Diagnostic Dictation:...
+Final Review:,
+Microscopic/Diagnostic Dictation:, (
+Final Review: Pathologist,
+Final: Pathologist
+Addendum:., Pathologist,
+Addendum Final: Pathologist
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Sit Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials,
+QUALIFIED
+/ DISQUALINED
+Date Reviewed:
+Yes
+No

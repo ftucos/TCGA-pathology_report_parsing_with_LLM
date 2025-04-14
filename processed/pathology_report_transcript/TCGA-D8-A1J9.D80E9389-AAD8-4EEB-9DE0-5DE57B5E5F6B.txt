@@ -1,0 +1,68 @@
+3
+Department of Cancer Pathology
+Internal invoice No.
+Patient: XXX
+ICD-0-3
+page 1 / 2
+Carcinoma, infiltrating ductal, asos
+Site: breast, Nos C50.9
+"NOS 8500/3
+1/2
+3/11/11 lu
+copy No.
+Date:
+Examination: Histopathological examination
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - left breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast.
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in 10-75% of neoplastic cell nuclei.
+No progesterone receptors found in neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO.
+Positive reaction in invasive cancerous cells ( Score = 3+ )
+Examination performed on
+Examination No.:
+UUID:D88E9389-AAD8-4EEB-9DE0-5DE57B5E5F6B
+TCGA-D8-A139-01A-PR
+Redacted
+Compliance validated by:
+Macroscopic description:
+Left breast sized 18 x 12.5 x 2.5 cm removed along with axillary tissues sized 9 x 5 x 1 cm and a 14 x 4 cm skin flap. Weight
+350 g. Tumour sized 1.8 x 1.5 x 1.9 cm on the boundary of outer quadrants, 2.0 cm from the lower boundary, 0.3 cm from
+the base and 0.7 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (2 + 3 +1:4 mitoses/10 HPF, visual area diameter 0.55 mm).
+Mamilla sine laesionibus.
+Lesions of the type mastopathia fibrosa et cystic, calcificationes.
+Invasive lesions situated 7 cm from the base.
+Axillary lymph nodes:
+Lymphonodultis chronica et sinus histiocytosis (No. VI).
+Criteria
+Diagnosis Ciscrepancy
+Y:s
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Duel/Synchronous Plimary Noted
+Calestre
+Rewe Ini als
+QUALIFIED
+Dete Revicwed:
+DISQUALIFIED
+for 3/11/11
+page 2/2
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+(NHG2, pT1c, pNO ).
+Compliance validated by:
+CALL YOUR DOCTOR WITH THIS REPORT!

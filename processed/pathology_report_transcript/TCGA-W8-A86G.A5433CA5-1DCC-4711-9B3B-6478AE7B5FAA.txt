@@ -1,0 +1,441 @@
+PATHOLOGY EXAMINATION
+PATIENT NAME:
+MED. REC. #
+UUID:A5433CA5-1DCC-4711-9B3B-6478AE7B5FAA
+TCGA-W8-A86G-01A-PR
+Redacted
+SOC. SEC #:
+GENDER:
+ACCOUNT #
+SPECIMEN(S) RECEIVED:
+CLIENT:
+PHYSICIAN:
+ADDITIONAL:
+COPY TO NOTES:
+A: Right breast lumpectomy needle localized "short double stitch, superior margin "single long, lateral
+B: Left breast sentinel node #1
+C: Left breast sentinel node #2
+D: Left breast needle localized subareolar blopsy - short double stitch superior, single long lateral margin
+E: Left breast anterior margin "stitch to mark tumor side
+F: Left breast superior margin "stitch to mark tumor side
+G: Left breast medial margin *stitch to mark turnor side
+H: Left breast inferior margin *stitch to mark tumor side
+1: Left breast lateral margin "stitch to mark tumor side
+J: Left breast posterior (deep) margin "stitch to mark tumor side
+K: Left breast, axilary sentinel node #3
+L: Left breast needle localized lumpectomy "short double stitch, superior margin *single long, lateral
+M: Left breast lumpectomy, new anterior margin *stitch marks tumor side
+N: Left breast lumpectomy, new medial margin *stitch marks tumor side
+O: Left breast lumpectomy, new Inferior margin *stitch marks tumor side
+P: Left breast lump additional anterior margin
+Q: Left breast lump additional inferior margin
+R: Left breast lumpectomy new superior margin
+CLINICAL DATA/HISTORY:
+Tissue banking - hx of right breast papillary lesion.
+FINAL PATHOLOGIC DIAGNOSIS:
+A. RIGHT BREAST, NEEDLE LOCALIZED LUMPECTOMY:
+ICD-O-3
+Carcinoma, lobular infiltrating
+NOS 252013
+Site Breast NOS C50.9
+Breast, central portion
+JW 4/4/14
+INTERMEDIATE GRADE DUCTAL CARCINOMA IN SITU, SOLID TYPE.
+•
+°
+2 MM IN GREATEST EXTENT.
+。 <1 MM TO MEDIAL MARGIN.
+INTRADUCTAL PAPILLOMA WITH FLORID DUCTAL HYPERPLASIA.
+FIBROCYSTIC CHANGE.
+•
+•
+•
+.
+SEE SYNOPTIC REPORT #1.
+PREVIOUS BIOPSY SITE.
+C50.1
+B, C, K. LEFT BREAST SENTINEL NODES #1-3:
+•
+THREE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/3).
+D. LEFT BREAST, SUBAREOLAR, NEEDLE LOCALIZED LUMPECTOMY:
+.
+.
+•
+MULTIFOCAL INVASIVE LOBULAR CARCINOMA.
+° LARGEST FOCUS 1.2 MM IN GREATEST EXTENT.
+° <1 MM TO MEDIAL MARGIN.
+° 1 MM TO POSTERIOR MARGIN.
+INTRADUCTAL PAPILLOMA WITH FLORID DUCTAL HYPERPLASIA.
+FIBROCYSTIC CHANGE.
+PREVIOUS BIOPSY SITE.
+• SEE SYNOPTIC REPORT #2.
+E-J, L-R. LEFT BREAST, NEEDLE LOCALIZED LUMPECTOMIES X2 WITH SEPARATELY SUBMITTED
+MARGINS DESIGNATED AS ANTERIOR, SUPERIOR, MEDIAL, INFERIOR, LATERAL, POSTERIOR (DEEP),
+F2 of 7
+NEW ANTERIOR, NEW MEDIAL, NEW INFERIOR, ADDITIONAL ANTERIOR, ADDITIONAL INFERIOR, NEW
+SUPERIOR:
+•
+•
+MULTIFOCAL INVASIVE LOBULAR CARCINOMA
+。 LARGEST FOCUS AT LEAST 2.3 CM. IN GREATEST DIMENSION.
+° FINAL MARGINS NEGATIVE WITH CLOSEST BEING 3MM TO INFERIOR AND 9 MM TO
+ANTERIOR.
+INTRADUCTAL PAPILLOMAS.
+• FLORID DUCTAL HYPERPLASIA.
+FIBROCYSTIC CHANGE.
+•
+•
+SEE SYNOPTIC REPORT #2.
+SYNOPTIC REPORT #1 (RIGHT BREAST LUMPECTOMY):
+•
+•
+PROCEDURE: EXCISION WITH WIRE GUIDED LOCALIZATION.
+SPECIMEN LATERALITY: RIGHT.
+SIZE (EXTENT) OF DCIS:
+2 MM IN GREASTEST EXTENT.
+NUMBER OF BLOCKS WITH DCIS: 1.
+NUMBER OF BLOCKS EXAMINED: 8.
+HISTOLOGIC TYPE: DUCTAL CARCINOMA IN SITU.
+ARCHITECTURAL PATTERN: SOLID.
+•
+•
+•
+NUCLEAR GRADE: G2 (INTERMEDIATE).
+• NECROSIS: NOT IDENTIFIED.
+• MARGINS: UNINVOLVED BY DCIS.
+DISTANCE FROM CLOSEST MARGIN: <1 MM (MEDIAL).
+• PATHOLOGIC STAGING: pTls (DCIS).
+• ADDITIONAL PATHOLOGIC FINDINGS:
+。 INTRADUCTAL PAPILLOMA WITH FLORID HYPERPLASIA.
+。 FIBROCYSTIC CHANGE.
+• ANCILLARY STUDIES: HORMONE RECEPTORS TO BE PERFORMED AND REPORTED IN AN
+ADDENDUM.
+COLD ISCHEMIA TIME: 11 MINUTES.
+FORMALIN FIXATION TIME: 10 HOURS 33 MINUTES.
+SYNOPTIC REPORT #2 (LEFT BREAST SUBAREOLAR LUMPECTOMY):
+PROCEDURE: EXCISION WITH WIRE GUIDED LOCALIZATION.
+SPECIMEN LATERALITY: LEFT.
+•
+•
+LYMPH NODE SAMPLING: SENTINEL LYMPH NODES.
+•
+•
+•
+•
+•
+•
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA: INVASIVE LOBULAR CARCINOMA.
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA 1.2 MM IN GREATEST DIMENSION.
+HISTOLOGIC GRADE (NOTTINGHAM HISTOLOGIC SCORE):
+GLANDULARI TUBULAR DIFFERENTIATION: SCORE 3.
+NUCLEAR PLEOMORPHISM: SCORE 1.
+MITOTIC RATE: SCORE 1.
+OVERALL GRADE: GRADE 1.
+TUMOR FOCALITY: MULTIPLE FOCI OF INVASIVE CARCINOMA.
+AT LEAST 2.
+SIZES OF INDIVIDUAL FOCI: RANGING FROM LESS THAN 0.5 MM TO 1.2 MM.
+DUCTAL CARCINOMA IN-SITU: NOT PRESENT.
+• LOBULAR CARCINOMA IN-SITU: PRESENT.
+• MARGINS: UNINVOLVED BY INVASIVE CARCINOMA.
+•
+•
+DISTANCE FROM CLOSEST MARGIN: <1 MM (MEDIAL).
+LYMPH NODES: SEE FULL DESCRIPTION UNDER SYNOPTIC REPORT #3.
+LYMPHOVASCULAR INVASION: NOT IDENTIFIED.
+• PATHOLOGIC STAGING: mpT1a pN0(sn)(1-).
+• ADDITIONAL PATHOLOGIC FINDINGS:
+INTRADUCTAL PAPILLOMA WITH FLORID DUCTAL HYPERPLASIA.
+FIBROCYSTIC CHANGE.
+ANCILLARY STUDIES: NOT PERFORMED ON CURRENT SPECIMEN. PERFORMED AND
+PREVIOUSLY REPORTED ON BIOPSIES FROM OTHER LEFT BREAST SITES
+SYNOPTIC REPORT #3.
+COLD ISCHEMIA TIME OF CURRENT SPECIMEN: 35 MINUTES.
+FORMALIN FIXATION TIME OF CURRENT SPECIMEN: 9 HOURS 41 MINUTES.
+SEE
+SYNOPTIC REPORT #3 (LEFT BREAST LUMPECTOMIES X2 WITH SEPARATELY SUBMITTED MARGINS);
+PROCEDURE: EXCISIONS WITH WIRE GUIDED LOCALIZATION (2).
+•
+.
+LYMPH NODE SAMPLING: SENTINEL LYMPH NODES.
+SPECIMEN LATERALITY: LEFT.
+•
+•
+.
+•
+•
+•
+•
+•
+•
+•
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA: INVASIVE LOBULAR CARCINOMA.
+TUMOR SIZE:
+SIZE OF LARGEST INVASIVE CARCINOMA AT LEAST 2.3 CM. IN GREATEST DIMENSION.
+HISTOLOGIC GRADE (NOTTINGHAM HISTOLOGIC SCORE):
+GLANDULAR/TUBULAR DIFFERENTIATION: SCORE 3.
+NUCLEAR PLEOMORPHISM: SCORE 1.
+MITOTIC RATE: SCORE 1.
+OVERALL GRADE: GRADE 1.
+TUMOR FOCALITY: MULTIPLE FOCI OF INVASIVE CARCINOMA.
+AT LEAST 7,
+SIZES OF INDIVIDUAL FOCI: RANGING FROM LESS THAN 0.5 MM TO AT LEAST 2.3 CM.
+DUCTAL CARCINOMA IN-SITU: NOT PRESENT.
+LOBULAR CARCINOMA IN-SITU: PRESENT.
+MARGINS: SEPARATELY SUBMITTED FINAL MARGINS UNINVOLVED BY INVASIVE CARCINOMA.
+DISTANCE FROM CLOSEST MARGIN: 3 MM FROM INFERIOR AND 9 MM FROM ANTERIOR.
+LYMPH NODES:
+NUMBER OF SENTINEL LYMPH NODES EXAMINED: 3.
+TOTAL NUMBER OF LYMPH NODES EXAMINED: 3.
+NUMBER OF LYMPH NODES WITH MACROMETASTASIS: 0
+NUMBER OF LYMPH NODES WITH MICROMETASTASIS: 0.
+NUMBER OF LYMPH NODES WITH ISOLATED TUMOR CELLS: 0.
+NUMBER OF LYMPH NODES WITHOUT TUMOR CELLS IDENTIFIED: 3.
+METHOD OF EVALUATION OF SENTINEL LYMPH NODES: MULTIPLE H&E LEVELS AND
+IMMUNOHISTOCHEMISTRY.
+LYMPHOVASCULAR INVASION: NOT IDENTIFIED.
+PATHOLOGIC STAGING: mpT2a pN0(sn)(1-).
+ADDITIONAL PATHOLOGIC FINDINGS:
+INTRADUCTAL PAPILLOMAS.
+FIBROCYSTIC CHANGE.
+FLORID DUCTAL HYPERPLASIA.
+FOCAL FIBROADENOMATOID CHANGE.
+ANCILLARY STUDIES: AS PERFORMED AND PREVIOUSLY REPORTED (BIOPSIES FROM
+FOR SITE #1 (SUSPICIOUS MASS 5 CM FROM NIPPLE):
+ESTROGEN RECEPTOR: POSITIVE (3+, 90%).
+PROGESTERONE RECEPTOR: POSITIVE (3+, 84%).
+HER-2: NEGATIVE (1+).
+FOR SITE #2 (10 O'CLOCK 7-8 CM FROM NIPPLE):
+ESTROGEN RECEPTOR: POSITIVE 3+, 95%.
+PROGESTERONE RECEPTOR: POSITIVE (3+, 77%).
+HER-2: NEGATIVE (0).
+COLD ISCHEMIA TIME OF CURRENT SPECIMEN: 13 MINUTES.
+FORMALIN FIXATION TIME OF CURRENT SPECIMEN: 9 HOURS 18 MINUTES.
+The separately submitted margins are
+oriented as being around both lumpectomy specimens within the Part L container. Consultant:
+COMMENT: The case was discussed with the
+on
+***ELECTRONICALLY SIGNED OUT***
+FROZEN SECTION DIAGNOSIS:
+B AND C. NEGATIVE LYMPH NODES.
+E, G, and H: MARGINS POSITIVE FOR INVASIVE LOBULAR CARCINOMA.
+F. MARGIN NEGATIVE FOR INVASIVE CARCINOMA: LCIS PRESENT.
+1 and J: NEGATIVE FOR MALIGNANCY.
+K: NEGATIVE LYMPH NODE.
+M. POSITIVE FOR INVASIVE LOBULAR CARCINOMA.
+N. NEGATIVE FOR MALIGNANCY.
+O. POSITIVE FOR INVASIVE LOBULAR CARCINOMA.
+GROSS DESCRIPTION:
+A. Right breast lumpectomy needle localized "short double stitch, superior margin "single long, lateral:
+Received fresh labeled
+-right breast lumpectomy needle localization" and consists of oriented fragment of
+fibrofatty tissue weighing 11 grams and measuring 4 x 3 x 2.5 cm. The specimen is oriented by two attached sutures
+and is inked as follows: superior-orange, lateral-yellow, inferior-red, medial - green, anterior-blue, posterior -
+black. A localization needle extends from the lateral margin. The specimen is serially sectioned revealing abundant
+dense fibrosis throughout with no grossly normal breast tissue appreciated. The dense fibrosis extends to within 0.1
+cm. of all margins. No portion of the specimen is submitted for tissue banking due to the lack of discrete mass. The
+specimen is entirely submitted A1) lateral margin, A2-A3) superior, inferior, anterior and posterior margins. A4)
+superior, anterior, posterior margin, A5) inferior, anterior, posterior margins, A6) superior, Inferior, anterior and
+posterior margins. A7) inferior, superior and lateral margin, A8) medial and anterior margine. All margins are
+perpendicular. The specimen has a cold ischemia time of 11 minutes. At the completion of processing the breast
+tissue will have a formalin fixation time of 10 hours and 33 minutes.
+left breast
+B. Left breast sentinel node #1: Received fresh for frozen section evaluation labeled
+sentinel lymph node" and consists of a single tan lymph node measuring 1.2 cm. In greatest dimension. The
+specimen is entirely frozen in B-FS1 cryoblock frozen section remnant as B1.
+C. Left breast sentinel node #2: Received fresh for frozen section evaluation labele
+left breast
+sentinel lymph node #2" and consists of a single fatty lymph node measuring 3 x 2.5 x 1 cm. The specimen is
+bisected revealing fatty cut surfaces. The specimen is entirely frozen as C-FS1-C-FS2 cryoblocks, frozen section
+remnant as C1 – C2.
+;
+D. Left breast needle localized subareolar biopsy - short double stitch superior, single long lateral margin:
+Received fresh labeled
+- Left breast needle localized subareolar biopsy" and consists of an oriented
+fragment of fibrofatty tissue weighing 11 grams and measuring 7 x 3 x 2 cm. The specimen is oriented by two
+attached sutures and is inked as follows: Superior orange, lateral yellow, Inferior red, medial green, anterior blue,
+posterior black. A localization needle extends from the lateral margin. The specimen is serially sectioned, revealing
+an ill-defined tan firm area measuring 0.5 cm in greatest dimension that lies 0.2 cm from the posterior margin at its
+closest point. A representative portion of the mass is submitted for tissue banking. Within the same container are
+two unoriented fragments of blue-tinged fibrofatty tissue, one weighing 3 grams and measuring 4.5 x 2x 1 cm, and
+the second weighing 6 grams and measuring 6 x 4 x 0.6 cm. The smaller unoriented fragment is marked with orange
+ink, and the larger unoriented fragment is marked with red ink. The unoriented fragments are serially sectioned,
+revealing dense fibrosis and lobulated yellow adipose tissue. Representative sections of the specimen are submitted
+Including the mass in its entirety. D1) Mass at closest point to posterior margin and tissue adjacent to portion of
+specimen submitted for tissue banking. D2-D3) Tissue adjacent to mass Including anterior, posterior, and lateral
+margins. D4-D5) Dense fibrosis with anterior and posterior margins. D6) Dense fibrosis and inferior margin. D7)
+Dense fibrosis and superior margin. D8) Dense fibrosis with anterior and posterior margins. D9) Central transverse
+smaller section, two fragments. D10) Central transverse larger unoriented fragment, two fragments. The specimen
+has a cold ischemia start time of. and was received in pathology and Immediately placed in formalin at , for a
+cold ischemia time of 35 minutes. At the completion of processing, tissue will have been fixed in formalin for 9 hours
+and 41 minutes.
+E. Left breast anterior margin "stitch to mark tumor side: Received fresh for frozen section evaluation
+labeled
+Lumpectomy left anterior margin, stitch to tumor side", and consists of three oriented fatty tissue
+fragments measuring 2 x 1.5 x 0.5 cm, 2.5 x 1.5 x 1 cm and 2.2 x 1.6 x 0.6 cm. The tumor sides are designated by
+attached sutures and the anterior margins are marked in blue Ink. Central transverse sections of the specimen are
+frozen in EFS1 cryoblock, frozen section remnant as E1.
+F. Left breast superior margin "stitch to mark tumor side: Received fresh for frozen section evaluation
+Lumpectomy left superior margin, stitch to tumor side", and consists of an oriented fragment of fibrofatty
+bssue measuring 3.5 x 2 x 1 cm. The tumor side is designated by an attached suture and the superior margin is
+Page 5 of 7
+marked with orange Ink. A central transverse section of the specimen is frozen in FFS1 cryoblock, frozen section
+remnant as F1.
+Left breast medial margin *stitch to mark tumor side: Received fresh for frozen section evaluation
+Lumpectomy left medial margin, stitch to tumor side", and consists of an oriented fragment of fibrofatty
+tissue measuring 3.5 x 2 x 0.5 cm. The tumor side is designated by an attached suture and the medial margin is
+marked with green ink. A central transverse section of the specimen is frozen in GFS1 cryoblock, frozen section
+remnant as G1.
+-
+H. Left breast inferior margin "stitch to mark tumor side: Received fresh for frozen section evaluation
+– Lumpectomy left inferior margin, stitch to tumor side", and consists of an oriented fragment of fibrofatty
+ssue measuring 2.5 x 2 x 1 cm. The tumor side is designated by an attached suture and the inferior margin is
+marked with red ink. A central transverse section of the specimen is frozen in HFS1 cryoblock, frozen section
+remnant as H1.
+Left breast lateral margin "stitch to mark tumor side: Received fresh for frozen section evaluation
+-Lumpectomy left lateral margin, stitch to tumor side", and consists of an oriented fragment of fibrofatty
+ussue measuring 3.1 x 2 x 1 cm. The tumor side is designated by an attached suture and the lateral margin is
+marked with yellow ink. A central transverse section of the specimen is frozen in IFS1 cryoblock, frozen section
+remnant as 11.
+J. Left breast posterior (deep) margin "stitch to mark tumor side: Received fresh for frozen section
+evaluation
+- Lumpectomy left posterior margin, stitch to tumor side", and consists of an oriented fragment
+of fibrofatty issue measuring 1.5 x 1.5 x 0.5 cm. The tumor side is designated by an attached suture and the
+posterior margin is marked with black ink. A central transverse section of the specimen is frozen in JFS1 cryoblock,
+frozen section remnant as J1.
+K. Left breast, axiliary sentinel node #3: Received fresh for frozen section evaluation labeled
+Axiliary sentinel lymph node #3, left breast", and consists of a fatty tan lymph node measuring 2 cm in greatest
+dimension. The lymph node is bisected and entirely frozen in KFS1 cryoblock, frozen section remnant as K1.
+_ Left breast needle localized lumpectomy *short double stitch, superior margin "single long, lateral:
+Received fresh labeled
+-Left breast needle localized lumpectomy" and consists of two oriented fragments
+of fibrofatty tissue, each bearing localization clips.
+One lumpectomy fragment weighs 7 grams and measures 4.9 x 3.5 x 1 cm. The specimen is oriented by two
+attached sutures and is inked as follows: superior orange, lateral yellow, Inferior red, medial green, anterior purple,
+posterior black. The localization needle on this fragment extends from the anterior margin. This portion of the
+specimen is serially sectioned revealing dense fibrosis with no discrete masses. No portion of this lumpectomy is
+submitted for tissue banking due to the lack of grossly appreciated abnormality.
+The second lumpectomy specimen weighs 18 grams and measures 6 x 4 x 2.5 cm. The specimen is
+oriented by two attached sutures and is inked as follows: superior orange, lateral yellow, inferior red, medial green,
+anterior blue, posterior black. The localization needle on this lumpectomy specimen extends from the inferior margin.
+The specimen is serially sectioned revealing two ill-defined masses, both bearing mammotome clips. The larger of
+the two masses measures 1 x 1 x 0.9 cm and lies within 0.1 cm of both the posterior and inferior margins.
+Approximately 0.5 cm superior to this mass is an additional ill-defined mass measuring 0.9 cm in greatest dimension
+that lies 0.1 cm from the superior margin at its closest point. The remaining cut surfaces show lobulated, yellow
+adipose tissue. A representative portion from each mass is submitted for tissue banking.
+Representative sections of the specimen, including both masses in their entirety, are submitted. L1 medial
+margin, first described lumpectomy. L2-L4 first described lumpectomy, superior, anterior, inferior and posterior
+margins. L5 first described jumpectomy, superior margin. L6 first described lumpectomy, lateral margin. L7 mass
+at closest point to inferior margin. L8 inferior mass at inferior margin. L9 intervening tissue between inferior and
+superior mass. L10 superior mass at closest point to superior margin. L11 superior mass. L12 tissue adjacent to
+inferior mass. L13 anterior margin. L14 lateral margin. L15 medial margin.
+All margins are perpendicular. The specimen has a cold ischemia time of 13 minutes. At the completion of
+processing, the breast tissue will have a formalin fixation time of 9 hours and 18 minutes.
+M. Left breast lumpectomy, new anterior margin "stitch marks tumor side: Received fresh for frozen section
+evaluation labeled i
+- Left breast lumpectomy new anterior margin, stitch to tumor side", and consists of an
+oriented fragment of fibrofatty tissue measuring 3 x 2.2 x 0.5 cm. The tumor side is designated by an attached suture
+and the new anterior margin is marked with blue ink. A central transverse section of the specimen is frozen in MFS1
+cryoblock, frozen section remnant as M1.
+N. Left breast lumpectomy, new medial margin "stitch marks tumor side: Received fresh for frozen section
+evaluation labeled “
+- Left breast lumpectomy new medial margin, stitch marks tumor side", and consists of
+an oriented fragment of fibrofatty tissue measuring 2 x 2 x 0.5 cm. The tumor side is designated by an attached
+suture and the new medial margin is marked with green ink. A central transverse section of the specimen is frozen in
+NFS1 cryoblock, frozen section remnant as N1.
+O. Left breast lumpectomy, new inferior margin *stitch marks tumor side: Received fresh for frozen section
+evaluation labeledá
+- Left breast lumpectomy new Inferior margin, stitch marks tumor side", and consists of
+an oriented fragment of fibrofatty tissue measuring 3x2x1 cm. The tumor side is designated by an attached suture
+and the new inferior margin is marked with rad ink A central transverse section of the specimen is frozen in OFS1
+cryoblock, frozen section remnant as 01.
+P. Left breast lump additional anterior margin: Received fresh labeled
+Left breast lump
+additional anterior margin", are two irregular, yellow, lobulated portions of fibroadipose tissue averaging 2.0 x 1.8 x 1.0
+cm. Each tissue displays a stitch designating the tumor side. The margins are differentially inked red and orange and
+representative sections are submitted in P1.
+Cold ischemia time
+formalin fixation time
+fixed in formalin for 7 hours and 10 minutes.
+At the completion of processing, tissue will have been
+Q. Left breast lump additional inferior margin: Received fresh labeled{
+- Left breast lump
+additional Inferior margin", are two irregular, yellow, lobulated portions of fibroadipose tissue averaging 2.0 × 1.3 × 0.7
+cm. Each tissue displays a stitch designating the tumor side. The margins are differentially inked yellow and green
+and representative sections are submitted in Q1.
+Cold ischemia time
+formalin fixation time
+fixed in formalin for 7 hours and 10 minutes.
+At the completion of processing, tissue will have been
+Received in formalin labeled.
+R. Left breast lumpectomy new superior margin:
+- Left breast
+lumpectomy, new superior margin, stitch tumor side", is a 2.6 x 2.5 x 0.8 cm irregular, yellow, lobulated portion of
+fibroadipose tissue which displays a stitch designating the tumor side. The margin is inked red, and a representative
+section is submitted in R1.
+Cold ischemia time
+formalin fixation time
+been fixed in formalin for 8 hours and 36 minutes.
+MICROSCOPIC DESCRIPTION:
+At the completion of processing, tissue will have
+A. Sections from the entirely submitted specimen show a partially fragmented and cauterized intraductal
+papilioma with florid hyperplasia. In the surrounding breast parenchyma there is fibrocystic change with florid
+hyperplasia and papillary apocrine change. A single focus of intermediate grade, solid type ductal carcinoma in situ
+is present in A8 less than 1 mm to the green inked medial margin. Invasive carcinoma is not identified.
+B. A single lymph node is negative for metastatic carcinoma. This is confirmed with a pancytokeratin
+Immunohistochemical stain. An additional level is reviewed.
+C. A single sectioned lymph node is negative for metastatic carcinoma. This is confirmed with an
+immunohistochemical stain for pancytokeratin. An additional level is reviewed.
+D. Sections reveal at least two foci of invasive lobular carcinoma with associated lobular carcinoma in situ.
+These foc are 1.2 mm and approximately 0.6 mm in greatest extent. The smaller focus iles approximately 0.5 mm
+from the green Inked medial margin. The 1.2 mm focus lies approximately 1 mm from the green Inked medial margin
+and black inked posterior margin. Additionally there is an intraductal paplitoma with florid hyperplasia. Fibrocystic
+change is seen. Previous blopsy site is identified.
+E. Sections of mammary parenchyma, which are Inked blue, show invasive lobular carcinoma. This
+confirms the frozen section diagnosis.
+F. Portions of mammary parenchyma, which are inked orange, show a focus of lobular carcinoma in-situ.
+This confirms the frozen section diagnosis.
+G. A portion of mammary parenchyma, which is inked green, shows an area of Invasive lobular carcinoma.
+This is only seen on the frozen sections and not on the permanent section.
+H. Mammary parenchyma, which is inked red, shows invasive lobular carcinoma. This confirms the frozen
+section diagnosis.
+1. Mammary parenchyma, which is inked yellow, shows fibrocystic changes. There is no atypia, in-situ
+carcinoma, or invasive carcinoma. This confirms the frozen section diagnosis.
+J. Mammary parenchyma with attached portion of skeletal muscle is inked black. There is no atypia, in-situ,
+or invasive carcinoma. This confirms the frozen section diagnosis.
+K. A single bisected lymph node is negative for metastatic carcinoma. This is confirmed with a
+pancytokeratin immunohistochemical stain. An additional level is reviewed.
+L. Sections from the smaller oriented lumpectomy show multiple foci, at least four, of invasive lobular
+carcinoma ranging in size from less than 1 mm up to 3 mm in size. invasive lobular carcinoma extends to the black
+inked posterior margin and the orange inked superior margin. There is associated lobular carcinoma in-situ. The
+second lumpectomy specimen also shows multiple foci of Invasive lobular carcinoma, with the largest focus
+measuring at least 2.3 cm. In greatest dimension and spanning the area of both grossly identified masses.
+Additionally multiple foci of Invasive lobular carcinoma are identified in the sections not from these masses. Invasive
+foci measure from less than 1 mm up to the largest of at least 2.3 cm. Again, there is associated lobular carcinoma
+in-situ. Biopsy site change is identified. Invasive lobular carcinoma extends to the red inked Inferior margin and
+age 7 of 7
+blue inked anterior margin on the second lumpectomy specimen. Other benign changes seen include florld ductal
+hyperplasia, intraductal papillomas, fibrocystic change, and fibroadenomatoid change. No atypical ductal lesions
+are identified. No lymphovascular Invasion is identified.
+M. A portion of mammary parenchyma, which is inked blue, shows invasive lobular carcinoma. This
+confirms the frozen section diagnosis.
+N. A portion of mammary parenchyma, which is inked green, is negative for atypia or malignancy. This
+confirms the frozen section diagnosis.
+O. A portion of mammary parenchyma, which is inked red, shows invasive lobular carcinoma. This
+confirms the frozen section diagnosis.
+P. Portions of mammary parenchyma, which are inked orange and red, show a focus of invasive lobular
+carcinoma lying 0.9 cm. from the orange inked margin.
+Q. Portions of mammary parenchyma, which are inked yellow and green, show a focus of invasive lobular
+carcinoma, 0.3 cm. from the yellow inked margin.
+R. A portion of mammary parenchyma, which is inked red, is negative for atypia or malignancy.
+Criteria
+in 10/16/177
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is (circle):
+Reviewer Initiais
+QUALIFIED
+DISQUALIFIED

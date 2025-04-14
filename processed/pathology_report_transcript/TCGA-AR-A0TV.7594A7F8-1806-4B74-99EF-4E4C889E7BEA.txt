@@ -1,0 +1,30 @@
+UUID:7594A7F8-1806-4874-99EF-4E4C889E7BEA
+TCGA-AR-AØTV-01A-PR
+Redacted
+100-0-3
+carcinoma, infiltrating ductal, Nos 8500/3
+Sin: breast, NO S
+050.9
+Breast, left, simple mastectomy: Infiltrating Nottingham grade III (of III) ductal carcinoma forming a 2.6
+x 2.4 x 2.0 cm (AJCC pT2) mass located in the outer quadrant. No angiolymphatic invasion identified.
+No significant ductal carcinoma in situ component identified. A separate hyalinized fibroadenoma (1.2 x
+1.0 x 1.0 cm) is present superior to the tumor mass. The nipple and skin are unremarkable.
+Lymph nodes, left axillary sentinel, excision: Multiple (3) left axillary sentinel lymph nodes are negative
+for tumor. Blue dye is identified in left axillary sentinel lymph node No. 1. Blue dye is not identified in
+left axillary sentinel lymph nodes No. 2 and No. 3. Immunohistochemical cytokeratin stain was
+performed on the paraffin embedded sentinel lymph node tissue and confirms the H&E impression.
+[AJCCpN0(i-)]
+Her-2/NEU has been ordered on paraffin embedded tissue.
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED

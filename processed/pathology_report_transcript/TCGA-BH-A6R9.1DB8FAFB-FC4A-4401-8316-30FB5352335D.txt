@@ -1,0 +1,193 @@
+FINAL DIAGNOSIS:
+BREAST, LEFT, TOTAL MASTECTOMY (120.1 GRAMS) -
+Collection Date:
+A. METAPLASTIC CARCINOMA OF THE BREAST, SPINDLE CELL TYPE, NOTTINGHAM GRADE II (TUBULE
+FORMATION 3, NUCLEAR PLEOMORPHISM 3, MITOTIC ACTIVITY 1; TOTAL SCORE 7/9).
+B. THE INVASIVE TUMOR MEASURES 3.8 CM IN GREATEST DIMENSION.
+C.
+NO LYMPHOVASCULAR SPACE INVASION IS NOTED.
+D. INKED MARGINS ARE NEGATIVE FOR CARCINOMA; HOWEVER, A FOCUS OF INVASIVE CARCINOMA IS LESS
+THAN 1.0 MM (LESS THAN 0.1 CM) FROM THE ANTERIOR INKED MARGIN.
+E. THE INVASIVE CARCINOMA IS LOCATED IN THE CENTRAL AREA.
+F. THE NIPPLE DERMIS AND ADJACENT SKIN DERMIS, BUT NOT THE EPIDERMIS, ARE INVOLVED BY INVASIVE
+CARCINOMA.
+G. NIPPLE DUCTS WITH SQUAMOUS METAPLASIA.
+H.
+1.
+PREVIOUS BIOPSY SITE CHANGES.
+THE INVASIVE TUMOR CELLS ARE NEGATIVE FOR ESTROGEN RECEPTOR, WEAKLY POSITIVE FOR
+PROGESTERONE RECEPTOR, AND NEGATIVE FOR HER-2, AS PER PREVIOUS PATHOLOGY REPORT
+(see comment).
+J. NON-NEOPLASTIC BREAST WITH RADIAL SCARS.
+COMMENT:
+Due to the weakly positive PR result on the core biopsy based on stains performed at
+receptor immunohistochemistry will be repeated and an addendum will follow.
+Addendum
+** BREAST TUMOR IMMUNOHISTOLOGY RESULTS**
+HORMONE RECEPTOR IMMUNOHISTOCHEMISTRY
+RESULT
+ER:
+PR:
+Weakly positive
+Negative
+H SCORE
+10
+0
+RAW IMMUNOSTAINING SEMIQUANTITATION
+(0: 91%; 1+: 8%; 2+: 1%; 3+: 0%)
+(0: 100%; 1+: 0%; 2+: 0%; 3+: 0%)
+hormone
+ESTROGEN/PROGESTERONE RECEPTORS (ER/PR) TEST DETAILS: Using formalin fixed tissues (8-96 hours) and appropriate
+positive and negative internal/external controls; the test for the presence of hormone receptor protein is performed by the
+immunoperoxidase method according to the ASCO-CAP Guidelines. A positive Estrogen or Progesterone receptor tumor shows
+nuclear immunostaining in greater than or equal to 1% of the tumor cells (i.e. and H-score of 1 or higher). The ER and PR
+Histologic Score (H-Score, or HS) is calculated as the sum of intensity of staining times the proportion of cells staining and has a
+dynamic range of 0 to 300. The semiquantitation immunostaining raw data used to calculate the H-score is also shown above in
+the report. Generally, the H-score correlates to percentage of positive cells. According to
+the correlation of mean H-score versus percent cells staining for ER is as follows: H-score of 251 (>75% cells staining); H-
+score of 130 (51-75% cells staining); H-score of 42 (10-50% cells staining); H-score of 4 (<10% cells staining).
+Estrogen receptor antibody SP1, an IVD, is performed using the
+Progesterone receptor antibody 1E2, an IVD, is performed using the
+CQCF
+ICD03
+TCGA-BH-A6R9-01A-PR
+UUID:1DB8FAFB-FC4A-4401-8316-30FB5352335D
+Redacted
+path
+Carcinoma, metaplastic ductal
+857613
+(850013
+Code to highest 8575/3
+Carcinoma, metastic, spindle all
+Site
+C6CF
+857513
+8032/3
+Code to highest 8575/3
+①Brest NOS C50.9
+path
+①Breast, central portion (50.1
+90812/13
+CASE SYNOPSIS:
+SYNOPTIC PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Left
+Simple mastectomy
+Central subareolar
+Maximum dimension invasive component: 38 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+No
+Metaplastic carcinoma
+Nuclear grade: 3
+Tubule formation: 3
+Mitotic activity score: 1
+Total Nottingham score: 7
+Nottingham grade (1, 2, 3): 2
+ANGIOLYMPHATIC INVASION:
+No
+DERMAL LYMPHATIC INVASION:
+No
+CALCIFICATION:
+No
+No
+Distance of invasive tumor to closest margin: 1 mm
+No
+LYMPH NODES EXAMINED:
+0
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+PAGET'S DISEASE OF NIPPLE:
+METHOD(S) OF LYMPH NODE EXAMINATION:
+SKIN INVOLVED (ULCERATION):
+T STAGE, PATHOLOGIC:
+IN STAGE, PATHOLOGIC:
+M STAGE:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+MICROSCOPIC:
+Block 1B:
+Antibody/Antigen
+Vimentin
+S-100
+CK5
+AE1/AE3
+CK17
+P63
+Other: None.
+No
+pT2
+pNX
+Not applicable
+negative
+positive, H-score: 60
+0
+Result
+Positive
+Rare weakly positive cells.
+Positive.
+Weakly positive.
+Positive.
+Positive.
+Positive.
+CK14
+Block 1C:
+Antibody/Antigen
+P63
+Smooth muscle myosin heavy chain
+Result
+Highlights tumor cells and myoepithelial cells.
+Highlights myoepithelial cells.
+Utilizing formalin-fixed (8-96 hour range), paraffin embedded tissue, immunohistology is
+performed with the 
+following selected antibodies and designated antibody clone(s), directed
+against the 
+following antigenic target (s), with adequate positive and negative internal and
+external controls. 
+Antibodies are optimized appropriate for fixation times.
+ANTIBODY
+Vimentin
+S-100
+CK 5
+AE1/AE3
+CK 17
+p63
+CK 14
+Myosin
+CLONE
+V9
+Polyclonal Rabbit
+XM26
+AE1/AE3
+E3
+4A4
+LL002
+SMMS-1
+TARGET ANTIGEN
+Mesenchymal cells
+Melanoma screen
+High molec wt keratin
+carcinomas
+High molec wt keratin
+Myoepithelial cells
+High molec wt keratin
+Myoepithelial cells
+VENDOR
+Criteria
+Diagnosis Discrepancy
+w 6/20/13 Yet
+سل
+Primary umur Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+BTH
+DISQUALIFIED
+Cute Reviewed: 6693

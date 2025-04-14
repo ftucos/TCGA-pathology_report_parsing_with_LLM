@@ -1,0 +1,90 @@
+Sample #
+I4D-0-3
+Carcinoma, infiltrating
+850043
+duct NOS
+Site Buast Nos
+650.9
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right axillary sentinel node #1:
+· One lymph node, negative for metastatic carcinoma (0/1)
+JW 8/2/13
+B. Right axillary sentinel node #2:
+UUID:217745AA-6C5A-46C5-AC04-1C6581A96A04
+TCGA-OL-A6VR-01A-PR
+Redacted
+-
+One lymph node, negative for metastatic carcinoma (0/1)
+C. Right breast simple mastectomy:
+- Invasive ductal carcinoma, SBR grade I, with micropapillary features, see
+comment.
+- Ductal carcinoma in situ, intermediate nuclear grade, cribriform, papillary
+and micropapillary type, associated with microcalcifications and necrosis.
+- Margins of excision are negative for invasive carcinoma, DCIS is 1.5 mm from
+the anterior-inferior margin.
+- Previous biopsy site identified.
+- Fibroadenoma.
+- Intraductal hyperplasia, usual type.
+- Apocrine metaplasia.
+- Sclerosing adenosis, focally associated with microcalcification.
+- Microcalcifications in benign ductules.
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Microscopic measurement: 6 mm (main lesion) and 3.2 mm (satellite)
+B. Composite histologic (modified SBR) grade: I
+- Architecture: 2
+- Nuclear grade: 2
+- Mitotic count: 1
+C. Associated intraductal carcinoma in situ (DCIS):
+- Within main mass (forming 95% of tumor volume)
+- Extending away from main mass
+2. Intraductal carcinoma:
+A. Microscopic measurement: 3.6 cm (medial to lateral), and extending
+towards nipple, inferior and central aspect of breast
+B. Type: Cribriform / Papillary / Micropapillary
+C. Nuclear grade: Low/Intermediate
+D. Associated features: Necrosis / Microcalcifications / Cancerization of
+lobules
+3. Excisional biopsy margins: Free of tumor
+- DCIS 1.5 mm from anterior-inferior (closest) margin
+- Invasive carcinoma > 10 mm from anterior-inferior (closest) margin
+4. Blood vessel and lymphatic invasion: Absent
+5. Nipple: DCIS extending towards lactiferous duct
+6. Skin: uninvolved
+7. Skeletal muscle: absent
+8. Axillary lymph nodes: Negative (0/2)
+9. Special studies:
+ER: Strong expression in 30% of invasive tumor nuclei
+- PR: Strong expression in >90 % of invasive tumor nuclei
+- Her2/neu antigen (FISH): pending
+10. pTNM (AJCC, 7th edition, 2010): pT1b(m), NO(sn), Mx
+Effective January 1, 2010 this Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Clinical History:
+The patient is a -year-old female with recent breast cancer (DCIS) undergoing
+Per TSS - OK- part of this tumor process.
+Все
+a right breast simple mastectomy and right breast sentinel lymph node biopsy.
+Comment
+Immunohistochemical stain for p63 supports absence of a myoepithelial cell
+layer.
+Specimens Received:
+A: Right axillary sentinel node #1
+B: Right axillary sentinel node #2
+C: Right breast simple mastectomy
+Gross Description:
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+Diterle
+gnosis Discreparcy
+w 7/19/13 Yes
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+her Malignancy History
+Qual/S.nchronous Primary koted
+to iever in al
+QUALIFIED
+DISQUALIFIED
+OneReviewed:,
+No

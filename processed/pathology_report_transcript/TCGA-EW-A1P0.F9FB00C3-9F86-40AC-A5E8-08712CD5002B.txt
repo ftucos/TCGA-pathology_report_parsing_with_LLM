@@ -1,0 +1,203 @@
+Name:
+DOB:
+Gender:
+MRN:
+Location:
+Physician:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Copy To:
+Pathologic Interpretation:
+-Fibrocystic changes including consisting of apocrine metaplasia, stromal fibrosis and microcysts.
+A.
+Right breast 1 short stitch superior, 1 long stitch lateral:
+B.
+Right axillary node:
+-Two lymph nodes, no carcinoma seen (0/2).
+C.
+Left rotter lymph node:
+-Metastatic carcinoma to one lymph node, 6.0 cm, (1/1).
+-Perinodal tumoral invasion seen.
+D.
+ICD-0-3
+Carcinoma infiltrating ductal and ominous 8523/3
+Site: briset Nos
+3/12/11
+Left breast and axilla (fresh) 1 short suture superior; 1 long suture lateral:
+050-9
+-Invasive, multifocal moderately differentiated ductal carcinoma with mucinous (colloid) morphology, 2.0 and 2.4 cm
+(sum: 4.4 cm).
+-No carcinoma seen in eighteen lymph nodes, (0/18).
+-Intraductal papilloma.
+-Intradermal nevus.
+(See tumor summary).
+Tumor Summary
+Specimen Type: Mastectomy
+Lymph Node Sampling: Axillary dissection
+Specimen Size Greatest dimension 21.0 cm
+Additional dimension: 21.0 x 6.0 cm
+Laterality: Left
+Tumor Site: Upper outer quadrant
+UUID:F9FB00C3-9F86-40AC-A5E8-08712CD5002B
+TCGA-EW-A1P0-01A-PR
+Size of invasive component: Greatest dimension: 2.0 cm and 2.4 cm (sum: 4.4 cm).
+Histologic type: Invasive ductal carcinoma with mucinous differentiation
+Histologic Grade: Nottingham Histologic Score: 2 (2+2+2=6)
+Tubule formation: (2)
+Nuclear Pleomorphism: (2).
+Mitotic Count: (2).
+Pathologic staging (pTNM)
+Primary tumor: pT2
+Regional Lymph Nodes: pN1a
+Number examined: 21
+Number involved: 1
+Distant Metastasis: pMX
+Margins: Uninvolved by invasive carcinoma, 1.5 cm from the superior margin
+Venous/Lymphatic Invasion: Absent
+ER: Positive (In-house Immunoperoxidase performed)
+PR: Negative (In-house Immunoperoxidase performed)
+Her2: Negative (In-house Immunoperoxidase performed)
+* Note:
+Redacted
+This neoplasm demonstrates a more defined mucinous differentiation on the 2.4 cm nodule, however focal mucinous differentiation
+is also seen on the 2.0 cm 
+neoplasm
+AJCC pathologic staging pT2 N1a Mx
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRS) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5-ER, PgR 636-PR, A485-HER2, H-11=EGFR, CCH2/DDG9-
+CMV, F39.4.1=AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is by LSAB. The results are read by a 
+pathologist as positive or negative.
+Procedures/Addenda
+Addendum
+SURGICAL PATHOL Report
+Date Ordered:
+Date Complete:
+Date Reported:
+As the attending pathologist, I attest that I: (i) Examined the relevant
+preparation(s) for the specimen(s); and (ii) Rendered the diagnosis(es).
+Status: Signed Out
+Addendum Diagnosis
+D.
+Left breast and axilla (fresh) 1 short suture superior; 1 long suture lateral:
+-The cells of intradermal nevus are positive fo by immunohistochemistry.
+, PhD
+Clinical History:
+Patient is a
+I white female with history of left breast cancer.
+Pre Operative Diagnosis;
+Right breast cancer
+Specimen(s) Received:
+A: Right breast 1 short stitch superior, 1 long stitch lateral (fresh)
+B: Right axillary node (perm)
+C: Left rotter lymph node (perm)
+D: Left breast and axilla (fresh) 1 short suture superior; 1 long suture lateral
+Gross Description:
+A.
+Received fresh and labeled "right breast 1 short stitch superior, 1 long stitch lateral" specimen consist of right breast
+oriented with 1 short stitch superior resection margin and 1 long stitch in lateral 
+resection margin, 18.0 x 150 x 5.0 
+cm and
+weighs 775.0 grams. The skin mesures 13.0 x 8.0 cm, nipple measures 1.2 cm and 
+the areola, 4.0 cm in circumference.
+Sections reveal abundant grossly unremarkable fibroadipose tissue. The central 
+area reveal white-tan, fibrocystic area,
+2.0 cm in greatest dimension. No tumor or any other lesions are grossly identified. Representative 
+sections are submitted
+in ten cassettes as follows:
+1
+1345ON
+Perpendicular representative sections from superior resection margins
+Perpendicular representative sections from inferior resection margins
+Perpendicular representative sections from medial resection margins
+Perpendicular representative sections from lateral resection margins
+Representative sections from nipple
+Perpendicular representative sections from deep resection margins
+The lesion described submitted in toto (fibrocystic areas)
+Representative from upper outer quadrant
+6
+7-10
+11
+12
+Representative sections from lower outer quadrant
+13
+Representative sections from upper inner quadrant
+14
+Representative sections from lower inner quadrant
+B.
+Received in formalin and labeled 'right axillary node" specimen consist of yellow-tan, fibroadipose tisseu, 3.0 x 1.5 x 1.0
+cm. Section reveal two lymph nodes. The lymph nodes submitted in toto in one cassette bissected each
+.
+Page 2 of 3
+C.
+D.
+SURGICAL PATHOL Report
+Received in formalin and labeled “left rotter lymph node" specimen consist of one lymph node, 6.0 x 5.0 x 3.0 cm and
+weighs 35.0 grams. Sections reveals pink-tan, well defined multinodular. No calcified or hemorrhagic areas are grossly
+identitified. Representative sections are submitted in eight cassettes:
+Received fresh and labeled "left breast and axilla 1 short suture superior; 1 long suture lateral" is a mastectomy specimen
+with axillary contents, weighing 1150.0 grams and measuring 21.0 x 21.0 x 6.0 cm and the axillary contents, 14.0 x 12.0 ×
+2.0 cm. There is an anterior ellipse of white skin, 20.0 x 10.0 cm. Located centrally within this ellipse of skin there is a
+nipple areola complex 3.5 cm in circumference and 1.0 cm in circumference. Located toward the outer quadrant there are
+two verrucose shaped hyperkeratosis lesions, 0.7 x 0.5 cm in greatest dimension. The remainder of the skin surface is
+unremarkable. The rest of the specimen is covered by yellow-tan lobulated adipose tissue. The surgical resection
+margins are inked din black. Multiple cross sections reveals an ill circumscribed gray-tan, hard greatly mass, 2.0 cm in
+greatest dimension. The mass is located in the outer quadrant approximately 1.00 o'clock position, 1.5 cm from the
+superior resection margin (nearest margin) and 2.5 cm from deep resection margin. Located in the same quadrant 2.5 cm
+from the mass previously described there is a second ill circumscribed gray-tan, hard nodule measuring 2.4 cm in greatest
+dimension
+, this mass is 2.8 cm from deep resection margin (closest margin). The remainder of the specimen shows a
+heterogeneous breast tissue. No other lesions or masses are grossly identified. The stroma to fat ratio is 30.70. Multiple
+sections through the axillary contents reveal eighteen possible lymph nodes ranging in size from, 0.3 cm to 2.0 cm in
+greatest dimension. Representative sections are submitted as follows:
+1234567
+Superior resection margin nearest to the 1.00 o'clock mass
+Inferior resection margin
+Medial resection margin
+Lateral resection margin
+Deep margin closest to 1.00 o'clock mass (outer upper quadrant)
+Deep margin closest to the second mass (outer upper quadrant)
+Representative sections from the areola and nipple
+Representative sections from the skin wit verrucose lesion
+Representative sections from the mass at 1.00 o'clock (outer upper quadrant)
+Representative sections from the second mass (outer upper quadrant)
+Representative sections from inner upper quadrant
+Representative sections from inner lower quadrant
+Representative sections from outer lower quadrant
+8
+9-11
+12-14
+15
+16
+17
+18-20
+One lymph node multisected
+21-23
+One lymph node multisected
+24&25
+One lymph node multisected
+26-33
+34
+35
+One lymph node bisected per cassette
+Four possible lymph nodes submitted in toto
+Three possible lymph nodes submitted in toto
+ICD-9(8):
+174.8 196.3 216.5
+Criteria
+Yes
+Diagnoris Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Hoted
+Case is (circle):
+Reviewer Initials
+QUALIFIE / DISQUALIFIED
+Date Reviewed:
+3/12/11
+Page 3 of 3

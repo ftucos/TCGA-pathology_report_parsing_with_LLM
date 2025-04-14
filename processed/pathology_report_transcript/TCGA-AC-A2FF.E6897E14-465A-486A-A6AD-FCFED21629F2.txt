@@ -1,0 +1,279 @@
+Patient
+UUID:E6897E14-465A-486A-A6AD-FCFED21629F2
+TCGA-AC-A2FF-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Casais (circle):
+Reviewer laitials
+Yes
+QUALIFIED
+Date Revieved:
+DISQUALIFIED
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name
+SEE REPORT
+Surgical Report
+Requested by:
+ICD-0-3
+carcinoma, infiltrating lobular, Nos 8520/3
+Site, breast, Nos C50-9
+M 6/10/11
+ADDENDUM INFORMATION
+PROCEDURE DATE:
+==== ADDENDUM REPORT #2; COMMENT:
+The panel of breast cancer markers was performed at
+using material from block B/BPC3. The results are summarized in part B/BPC
+line 10. I have seen the results and concur with the findings as stated.
+T:
+==== ADDENDUM REPORT #2; DIAGNOSIS:
+A/APC & C.
+B/BPC.
+======
+SEE ORIGINAL DIAGNOSES
+RIGHT BREAST MASS, EXCISION:
+1 - 9. SEE ORIGINAL DIAGNOSES
+10. ANCILLARY STUDIES: BREAST CANCER PROGNOSTIC PANEL:
+ASSAY RESULTS
+Staining
+Percent
+Test Name
+Intensity
+Positive
+Prognostic
+Assay Type
+Average
+Average
+Significance
+ER
+N/A
+37%
+Favorable
+PR
+N/A
+71%
+Favorable
+HER-2/neu
+1.7
+N/A
+Normal Limit
+Ki-67
+N/A
+18%
+Borderline
+REFERENCE RANGES
+Test
+Favorable
+Borderline
+Unfavorable
+ER
+>5%
+<5%
+PR
+>5%
+<5%
+Her2/neu
+<2.0
+>2.0
+Ki-67
+<10%
+>10% - <20%
+>20%
+11. SEE ORIGINAL DIAGNOSIS
+A-MALIGNANT
+T:
+(Electronic Signature
+C-
+====
+ADDENDUM REPORT #1; „ENT: =========0
+An immunostain for E-cadherin utilizing material from block A is entirely
+negative. This supports the light microscopic diagnosis of lobular carcinoma.
+===
+ADDENDUM REPORT #1; DIAGNOSIS:
+=====
+PENDING BREAST CANCER PANEL STUDIES ON B/BPC-3
+A & APC. SENTINEL LYMPH NODE, RIGHT AXILLA: METASTATIC LOBULAR CARCINOMA
+i
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Requested by:
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name
+Surgical Report
+PRESENT IN ONE LYMPH NODE: NEGATIVE E-CADHERIN IMMUNOSTAIN
+B & BPC. RIGHT BREAST MASS. EXCISION:
+1. TUMOR TYPE: INFILTRATING LOBULAR CARCINOMA. SEE COMMENT
+BELOW
+2 - 11. SEE ORIGINAL DIAGNOSES
+C. SEE ORIGINAL DIAGNOSIS
+COMMENT: As noted, breast cancer marker studies will be performed on B/BPC-3.
+A-MALIGNANT
+(Electronic Signature)
+SURGICAL PATHOLOGY REPORT
+PROCEDURE DATE:
+SPECIMEN DESCRIPTION:
+================
+A. RIGHT AXILLARY SENTINEL LYMPH NODE, APC
+B. RIGHT BREAST BIOPSY, BPC
+C.
+1431
+AXILLARY CONTENTS
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+====
+Same
+POST-OPERATIVE DIAGNOSIS:
+CLINICAL INFORMATION:
+==============
+============
+Invasive ductal carcinoma in retroareolar space; right breast mass
+INTRAOPERATIVE CONSULTATION:
+APC DIAGNOSIS: "Metastatic carcinoma," by Dr.
+BPC DIAGNOSIS: "Tissue obtained for genomics," by
+T:
+====
+GROSS DESCRIPTION:
+A. Received in formalin is an irregular tan-gray nodule, measuring 2.0 x 1.6
+× 0.5 cm. The specimen is bisected and entirely submitted in one cassette.
+APC. Received in formalin is an irregular portion of tan-gray soft tissue,
+measuring 1.5 x 1.5 x 0.2 cm. The specimen is entirely submitted in one
+cassette.
+B/BPC. Received in formalin is a portion of tan-yellow fibrofatty tissue,
+measuring 6.8 cm from medial to lateral, 6.7 cm from superior to inferior, and
+4.8 cm from anterior to posterior. The specimen is oriented as follows: short
+stitch superior: long stitch - lateral. The anterior aspect is covered by
+skin, measuring 5.0 x 3.0 x 0.2 cm. Centrally located on the skin surface is
+the nipple, measuring 1.0 x 1.0 x 0.8 cm. The cut surface of the nipple is
+tan and unremarkable. The specimen is inked as follows: superior - blue;
+inferior - green; medial - red: lateral - yellow; anterior - orange; posterior
+- black. Sectioning from medial to lateral reveals a poorly-defined tan-gray
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name
+Surgical Report
+Requested by
+tumor mass, measuring approximately 5.0 x 3.0 × 1.5 cm. This area is
+diffusely covered with blue radiographic dye. The cut surface is firm and
+gritty. The tumor mass blends into the adjacent thick fibrotic tissue. The
+tumor comes to within 1.0 cm of the medial margin, 0.2 cm of the lateral
+margin, 2.0 cm of the superior margin, 0.7 cm of the inferior margin. 1.5 cm
+of the skin and nipple, and abuts the posterior margin. The remaining cut
+surface is composed of approximately 50% adipose tissue and 50% fibrous
+tissue. A biopsy cavity or metallic clip is not found. Representative
+sections are sequentially submitted, from medial to lateral, in six cassettes
+as follows: cassette 1 - medial margin; cassette 2 - nipple with anterior
+aspect; cassette 3 - tumor mass with closest posterior margin; cassette 4 -
+tumor mass with superior margin; cassette 5 - tumor mass with inferior margin;
+cassette 6 - tumor mass with lateral margin.
+C. Received in formalin is an irregular portion of tan-yellow fatty tissue.
+measuring 5 x 4 x 2 cm. Six possible lymph nodes, ranging from 0.4 x 0.3 x
+0.3 cm to 1.5 x 1.0 x 0.8 cm, are identified. The cut surface of the largest
+lymph node shows foci of tan-gray discoloration. The lymph nodes are entirely
+submitted in four cassettes as follows: cassette 1 - one intact and one
+bisected lymph node; cassette 2 - one lymph node: cassette 3 - two bisected
+lymph nodes (one inked black); cassette 4 - largest lymph node.
+====
+MICROSCOPIC DESCRIPTION:
+=============
+A & APC. One slide is examined for each portion of the case. Both slides
+demonstrate extensive lymph node involvement by poorly differentiated
+carcinoma. Because of the obvious nature of this finding, it will not be
+necessary to perform a cytokeratin stain.
+B/BPC. Six slides are examined. Slide 1 show benign breast tissue without
+evidence of tumor involvement. The red inked medial margin is free of
+tumor. Slide 2 shows tissue from the region of the nipple. There is patchy
+ductal hyperplasia and no evidence of Paget's disease is evident. Slide 3
+shows extensive infiltrating carcinoma with a pattern most suggestive of
+lobular carcinoma with periductal targetoid-like areas and numerous foci of
+"Indian file" arrangement. On this slide, tumor is present approximately 0.1
+mm to the black inked posterior surface. The tumor shows no evidence of
+tubular formation (tubules = 3). Nuclei exhibit occasional prominent nucleoli
+and these seem to be multiple in some scattered foci. In the most mitotically
+active areas of tumor, approximately eighteen to nineteen mitoses are present
+within ten high power field (mitoses = 2). The Nottingham score of this
+lesion is therefore 7 (3+3+2). making this a grade II lesion. Slide 4 shows
+no evidence of malignancy. Slide 5 shows infiltrating carcinoma with a clear
+inferior green inked margin. Changes consistent with a prior biopsy site are
+also present. No tumor is seen on slide 6.
+C. Four slides are examined. These show six lymph nodes. Positive lymph
+Not for Permanent Storage in Medical Records / Not Valid for Signing
+Requested by:
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name
+Surgical Report
+nodes are present on C1 and C3 for a total of two positive lymph nodes out of
+six. Including the sentinel lymph node in part A/APC, a total of three out of
+seven lymph nodes are positive for metastatic carcinoma.
+FINAL DIAGNOSIS:
+***================
+(PRELIMINARY - PENDING BREAST CANCER PANEL STUDIES TO BE PERFORMED ON
+B/BPC-3)
+A & APC.
+SENTINEL LYMPH NODE, RIGHT AXILLA: METASTATIC CARCINOMA PRESENT IN
+ONE LYMPH NODE (1/1)
+B/BPC. RIGHT BREAST MASS, EXCISION:
+SEE REPORT
+1. TUMOR TYPE: INFILTRATING CARCINOMA MOST LIKELY LOBULAR
+CARCINOMA, SET COMMENT BELOW
+2. NOTTINGHAM PROGNOSTIC INDEX:
+3. MAXIMUM INVASIVE TUMOR SIZE:
+4.
+5.
+6.
+7.
+PERCENT DCIS: ZERO
+LVI: NOT IDENTIFIED
+DISTANCE TO CLOSEST MARGIN:
+7 (3+2+2), GRADE II
+GROSSLY ESTIMATED AT
+APPROXIMATELY 5 CM (pT2)
+APPROXIMATELY 0.1 MM TO POSTERIOR
+INKED MARGIN (B/BPC-3 SLIDE)
+MICROCALCIFICATIONS: NOT IDENTIFIED
+8. LYMPH NODES: SEE PART C BELOW
+9.
+TNM STATUS: PT2.N1.MX
+10.
+11
+ANCILLARY STUDIES: TO FOLLOW ON BLOCK B/BPC-3
+OTHER FINDINGS:
+SURGICAL PATHOLOGY REPORT
+PROCEDURE DATE:
+FINAL DIAGNOSIS:
+======
+-
+· CHANGES CONSISTENT WITH PRIOR BIOPSY
+-
+FOCAL FIBROCYSTIC CHANGES OF REMAINING BREAST PARENCHYMA
+C. AXILLARY CONTENTS. RIGHT: METASTATIC CARCINOMA IDENTIFIED IN TWO OF
+SIX AXILLARY LYMPH NODES, TOTAL 3/7 INCLUDING SENTINEL LYMPH NODE. AS
+ABOVE
+COMMENT: As noted, breast cancer marker studies will be performed on B/BPC-3;
+in addition to confirm the lobular nature of this tumor, I will order an
+E-Cadherin immunostain on block A.
+A-MALIGNANT
+DATE AND TIME OF REPORT:
+Signature

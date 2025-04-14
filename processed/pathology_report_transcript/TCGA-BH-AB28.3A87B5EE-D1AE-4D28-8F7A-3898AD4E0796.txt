@@ -1,0 +1,302 @@
+UUID:3A87B5EE-D1AE-4D28-8F7A-3898AD4E0796
+TCGA-BH-AB28-01A-PR
+Redacted
+Anonymous number:
+Accession Date:
+Collection Date:
+FINAL DIAGNOSIS:
+PART 1: LYMPH NODE, LEFT AXILLA SENTINEL NODE #1, BIOPSY -
+METASTATIC ADENOCARCINOMA INVOLVING ONE LYMPH NODE (1/1), UP TO 7 MM (1A), CONFIRMED BY
+AE1/AE3 CYTOKERATINE IMMUNOSTAINING ( (see comment).
+PART 2: LYMPH NODE, LEFT AXILLA, SENTINEL #2, BIOPSY –
+METASTATIC ADENOCARCINOMA INVOLVING ONE LYMPH NODE (1/1), UP TO 7 MM (2B), CONFIRMED BY
+AE1/AE3 CYTOKERATINE IMMUNOSTAINING ( (see comment).
+PART 3: LYMPH NODE, LEFT AXILLA, SENTINEL #3, BIOPSY -
+METASTATIC ADENOCARCINOMA INVOLVING ONE LYMPH NODE (1/1), UP TO 4 MM (3A), CONFIRMED BY
+AE1/AE3 CYTOKERATINE IMMUNOSTAINING ( (see comment).
+PART 4: LYMPH NODE, LEFT AXILLA, SENTINEL #4, BIOPSY -
+ONE LYMPH NODE, FREE OF TUMOR (0/1), (see comment).
+PART 5: BREAST, LEFT, TOTAL MASTECTOMY
+-
+A. INFIULTRATING LOBULAR CARCINOMA (5C, 5D, 5E, 5F, 5H, 51, 5J, 5K, 5L, 5M, 5N, 50, 5P, 5Q, 5R, 5S, 5T,
+5U,
+5V, and 5AA).
+B. THE TUMOR SIZE IS: 8.0 X 6.5 X 4.2 CM.
+C. NOTTINGHAM SCORE IS: 6/9 (TUBULES 3, NUCLEI 2, MITOSIS 1).
+D. LYMPHOVASCULAR INVASION IS NOT APPRECIATED (see comment).
+E. DUCTAL CARCINOMA IN-SITU, SOLID TYPE, NUCLEAR GRADE 2, WITH COMEDONECROSIS,
+REPRESENTING ABOUT 1 % OF TUMOR VOLUME.
+F. DUCTAL CARCINOMA IS PRESENT ADMIXED WITH INVASIVE TUMOR.
+G. MARGINS OF RESECTION ARE FREE OF TUMOR.
+H. NIPPLE, NO TUMOR IS SEEN.
+I. SKIN, FREE OF TUMOR.
+J. CHANGES CONSISTENT WITH PREVIOUS CORE BIOPSY SITE,
+K. LOBULAR CARCINOMA IN-SITU, CLASSIC TYPE WITH PAGETOID SPREAD INTO DUCTS (see comment).
+L. ATYPICAL LOBULAR HYPERPLASIA (see comment)).
+M. MULTIPLE MICROSCOPIC RADIAL SCARS WITH FLORID DUCTAL EPITHELIAL HYPERPLASIA AND
+XOLUNAR CELL CHANGES.
+N. INTRADUCTAL PAPILLOMA INVOLVED WITH INFILTRATING LOBULAR CARCINOMA.
+O. FIBROCYSTIC CHANGES WITH FIBROADENOMATOID NODULAR CHANGES.
+P. PSEUDOANGIOMATOUS STROMAL HYPERPLASIA (PASH).
+Q. IMMUNOHISTOCHEMICAL STAINING FOR ESTROGEN RECEPTOR, PROGESTERONE RECEPTOR AND
+HER-
+2/NEU WERE PREVIOUSLY PERFORMED ON
+AND WERE REPORTED AS FOLLOWS:
+ESTROGEN RECEPTOR - POSITIVE (H-SCORE 290), PROGESTERONE RECEPTOR - POSITIVE (H-SCORE
+200), AND HER-2/NEU - EQUIVOCAL (SCORE 2+). HER-2 FISH WAS NOT AMPLIFIED.
+1000.3
+Lobular
+Carcinoma, infiltrating 852013
+Site
+@Breast 250.9
+JJ 4/22/14
+Anonymous No.:
+Age:
+Gender: F
+Race: White
+CLINICAL HISTORY
+Procedure: Left total mastectomy, left sentinel lymph node biopsy, possible axillary lymph
+node dissection
+Number of Lesions: 1
+Site and Size Lesion 1: 9 cm, Histology: Invasive lobular carcinoma
+Other Areas: Not provided
+Neoadjuvant Therapy: No
+Type of Neoadjuvant Therapy: N/A
+Pretherapy Size: N/A
+Clinical Findings Based On: MRI, ultrasound and mammogram
+Comment: None listed
+ADDENDUM
+Tumor characteristics
+Size: 8 cm
+Nottingham score: 6
+ER H-score: 290
+PR H-score: 200
+HER2 status: Negative
+Ki-67 labeling index: 30
+Based on above tumor characteristics, the estimated recurrence score
+using
+is reported below.
+1 (includes a-f): 22.59
+2 (includes a-e): 16.19
+3 (includes c-f): 17.82
+NOTE
+For more scientific details, see reference: Klein ME et al. Mod Pathol.
+2013;26:658-664. PMID: 23503643.
+ADDENDUM
+This infiltrating lobular carcinoma is heterogeneous and show microscopic
+foci of pleomorphic tumor component (infiltrating pleomorphic lobular
+component). This case is discussed with
+on
+FINAL DIAGNOSIS
+at
+PART 1: LYMPH NODE, LEFT AXILLA SENTINEL NODE #1, BIOPSY
+METASTATIC ADENOCARCINOMA INVOLVING ONE LYMPH NODE (1/1), UP TO 7 MM
+(1A), CONFIRMED BY AE1/AE3 CYTOKERATINE IMMUNOSTAINING ( (see comment).
+PART 2: LYMPH NODE, LEFT AXILLA, SENTINEL #2, BIOPSY
+METASTATIC ADENOCARCINOMA INVOLVING ONE LYMPH NODE (1/1), UP TO 7 MM
+(2B), CONFIRMED BY AE1/AE3 CYTOKERATINE IMMUNOSTAINING ( (see comment).
+PART 3: LYMPH NODE, LEFT AXILLA, SENTINEL #3, BIOPSY
+METASTATIC ADENOCARCINOMA INVOLVING ONE LYMPH NODE (1/1), UP TO 4 MM
+(3A), CONFIRMED BY AE1/AE3 CYTOKERATINE IMMUNOSTAINING ( (see comment).
+PART 4: LYMPH NODE, LEFT AXILLA, SENTINEL #4, BIOPSY
+ONE LYMPH NODE, FREE OF TUMOR (0/1), (see comment).
+PART 5: BREAST, LEFT, TOTAL MASTECTOMY
+A.
+INFIULTRATING LOBULAR CARCINOMA (5C, 5D, 5E, 5F, 5H, 51, 5J, 5K, 5L, 5M,
+5N, 50, 5P, 5Q, 5R, 5S, 5T, 5U, 5V, and 5AA).
+B.
+C.
+D.
+E.
+THE TUMOR SIZE IS: 8.0 X 6.5 X 4.2 CM.
+NOTTINGHAM SCORE IS: 6/9 (TUBULES 3, NUCLEI 2, MITOSIS 1).
+LYMPHOVASCULAR INVASION IS NOT APPRECIATED (see comment).
+DUCTAL CARCINOMA IN-SITU, SOLID TYPE, NUCLEAR GRADE 2, WITH
+COMEDONECROSIS, REPRESENTING ABOUT 1 % OF TUMOR VOLUME.
+DUCTAL CARCINOMA IS PRESENT ADMIXED WITH INVASIVE TUMOR.
+G. MARGINS OF RESECTION ARE FREE OF TUMOR.
+F.
+NIPPLE, NO TUMOR IS SEEN.
+H.
+I.
+SKIN, FREE OF TUMOR.
+J.
+K.
+CHANGES CONSISTENT WITH PREVIOUS CORE BIOPSY SITE, SEE PRIOR
+LOBULAR CARCINOMA IN-SITU, CLASSIC TYPE WITH PAGETOID SPREAD INTO
+DUCTS (see comment).
+L.
+ATYPICAL LOBULAR HYPERPLASIA (see comment)).
+M. MULTIPLE MICROSCOPIC RADIAL SCARS WITH FLORID DUCTAL EPITHELIAL
+HYPERPLASIA AND XOLUNAR CELL CHANGES.
+N. INTRADUCTAL PAPILLOMA INVOLVED WITH INFILTRATING LOBULAR
+CARCINOMA.
+0. FIBROCYSTIC CHANGES WITH FIBROADENOMATOID NODULAR CHANGES.
+P. PSEUDOANGIOMATOUS STROMAL HYPERPLASIA (PASH).
+Q.
+IMMUNOHISTOCHEMICAL STAINING FOR ESTROGEN RECEPTOR,
+PROGESTERONE RECEPTOR AND HER-2/NEU WERE PREVIOUSLY PERFORMED
+ON
+AND WERE REPORTED AS FOLLOWS: ESTROGEN RECEPTOR
+POSITIVE (H-SCORE 290), PROGESTERONE RECEPTOR POSITIVE (H-SCORE 200),
+AND HER-2/NEU EQUIVOCAL (SCORE 2+). HER-2 FISH WAS NOT AMPLIFIED.
+COMMENT
+Part #1, #2, #3, # 4, and # 5: The results of immunohistochemical stainings support the
+above diagnosis (see microscopic description).
+Parts #1, #2 and #3: The metastatic tumor cells with thin these lymph nodes are depicted
+by the AE1/AE3 cytokeratin immunostaining and are present circumferentially within the
+sub capsular sinusoidal area in minute tumor cell clusters and mostly as single cells. Re-
+review of the imprint slides performed at intraoperative consultation showed no metastatic
+tumor cells in part 1 and part 2, and showed rare atypical cells in part 3.
+GROSS DESCRIPTION
+The specimen is received fresh and in 5 parts.
+Part 1 is received for intraoperative consultation labeled with the patient's name, initials
+and "sentinel node biopsy #1 left axilla, not blue". It consists of a portion of
+adipose tissue which measures 2.5 x 1.5 x 1.2 cm. A single pink tan probable lymph node
+is identified measuring 1.5 x 1.1 x 0.8 cm. The lymph node is bisected for touch
+preparation to reveal a homogenous tan-yellow cut surface. The lymph node is further
+bisected longitudinally into 2-mm intervals and submitted entirely in two cassettes labeled
+1A-1B.
+Formalin Exposure Time: 13 hours
+Part 2 is received for intraoperative consultation labeled with the patient's name, initials
+☐ and "sentinel node biopsy #2 left axilla not blue". It consists of a single fatty pink
+tan probable lymph node with minimal attached adipose tissue which measures 2 x 1.7 x 1
+cm. The lymph node is bisected for touch preparation analysis to reveal a largely fatty
+replaced cut surface. The lymph node halves are further bisected into 2-mm longitudinal
+intervals and submitted entirely in two cassettes labeled 2A-2B.
+Formalin Exposure Time: 13 hours
+Part 3 is received for intraoperative consultation labeled with the patient's name, initials
+and "sentinel node biopsy #3 left axilla not blue". It consists of a portion of
+A single fatty pink tan probable lymph node
+adipose tissue which measures 4 x 3 x 1.5 cm.
+is identified measuring 1.5 x 1 x 0.8 cm. The lymph node is bisected to reveal a largely
+fatty replaced cut surface. One half the lymph node is submitted for frozen section
+analysis. Both halves of the lymph node are further bisected into 2-mm longitudinal
+intervals and submitted entirely as follows:
+3FS- lymph node half, frozen section
+3A- remaining lymph node halves.
+Formalin Exposure Time: 13 hours
+Part 4 is labeled with the patient's name, initials
+and "sentinel node biopsy #4 left axilla
+not blue". It consists of a portion of adipose tissue which measures 4.0 x 2.7 x 1.0 cm.
+A single pink tan probable lymph node is identified measuring 2.0 x 1.3 x 0.6 cm. The
+lymph node is bisected to reveal a pink-tan cut surface interspersed with adipose tissue.
+The lymph node halves are further sectioned into 2-mm longitudinal intervals and submitted
+entirely in two cassettes labeled 4A-4B.
+Formalin Exposure Time: 13 hours
+Part 5 is labeled with the patient's name, initials and “left total mastectomy long lateral
+short superior". It consists of a 1202 g total mastectomy specimen which measures 23.5 x
+22 x 7.5 cm. The anterior surface is remarkable for an ellipse shaped portion of light tan
+skin which measures 20 x 16 cm. The areola measures 6.5 x 6 cm with a 1.1-cm
+retracted, mobile nipple. No discrete skin scars or lesions are grossly identified. The
+specimen is inked and sectioned to reveal a large, ill-defined slightly stellate mass (ring-
+shaped biopsy clip) which is located roughly between the upper outer and lower outer
+quadrants, and extends towards the central aspect of the breast. The mass measures 8.0
+x 6.5 x 4.2 cm and comes to within 1.0 cm of the closest posterior margin, 2.2 cm of the
+skin and 3 cm of the anterior inked margin. The breast parenchyma directly medial of the
+mass and encompassing a large portion of the upper inner and lower inner quadrants is
+dense and extensively fibrocystic (approximately 10 x 4.5 x 4 cm). No additional masses
+are identified grossly. The uninvolved breast parenchyma is composed of approximately
+50% adipose tissue and 50% nodular fibrous tissue. Representative sections are
+submitted as follows:
+5A- nipple and subareolar soft tissue
+5B- breast parenchyma directly lateral of mass
+5C- fullface mass (most lateral aspect)
+5D-5K- fullface mass (central lateral aspect), 5D-5G= posterior aspect, 5E-5K= anterior
+aspect
+5L-5S-fullface mass (central medial aspect), 5L-50= posterior aspect, 5P-5S= anterior
+aspect
+5T-5U-fullface mass (most medial aspect)
+5V- breast parenchyma directly medial of mass
+5W-5Y-fibrocystic tissue adjacent to the mass
+5Z-5AA- posterior inked margin closest to mass
+5AB- anterior inked margin closest to mass
+5AC- lower outer quadrant
+5AD- lower inner quadrant
+5AE- upper inner quadrant
+5AF-upper outer quadrant
+Block 1-left breast tumor infiltrating lobular carcinoma.
+Block 2-left breast normal fibrocystic changes.
+Upper outer quadrant- green
+Lower outer quadrant- red
+Upper inner quadrant- black
+Lower inner quadrant- blue
+Anterior-orange.
+Cold ischemic time: 28 minutes
+Formalin exposure time: 12 hours 30 minutes
+MICROSCOPIC DESCRIPTION
+Microscopic examination substantiates the above diagnosis.
+The results of immunohistochemical staining are as follows for Part 1, 2, 3, and 4:
+Antibody/Antigen
+AE1-AE3
+Result
+Positive in the metastatic tumor cells in parts1, 2 & 3, negative in 4.
+The results of immunohistochemical staining are as follows for Part 5:
+Antibody/Antigen
+E-Cadherin
+P120
+D240
+spaces.
+CD31
+spaces.
+Result
+Negative
+Positive cytoplasmic expression in lobular cells
+Highlights lymphatic spaces; no tumor cells within lymphatic
+Highlights vascular c spaces; no tumor cells within vascular
+Utilizing formalin-fixed (8-96 hour range), paraffin embedded tissue, immunohistology is
+performed with the following selected antibodies and designated antibody clone(s), directed
+against the following antigenic target(s), with adequate positive and negative internal and
+external controls. Antibodies are optimized appropriate for fixation times.
+TARGET ANTIGEN
+carcinomas
+ANTIBODY
+AE1/AE3
+CLONE
+AE1/AE3
+e-cadherin
+36
+p120
+98
+Lobular Differentiation
+Lobular Differentiation
+D2-D2-40
+D2-40
+CD 31
+JC70
+Lymphatic Endothelium
+endothelium
+VENDOR
+INTRAOPERATIVE DIAGNOSIS
+1TP: LYMPH NODE, LEFT AXILLA, SENTINEL NODE BIOPSY #1,
+preparation)-
+A. SUFFICIENT FOR ANCILLARY STUDIES
+B. BENIGN
+C. LYMPH NODE
+NOT BLUE (touch
+2TP: LYMPH NODE, LEFT AXILLA, SENTINEL NODE BIOPSY #2,
+preparation)-
+NOT BLUE (touch
+A. SUFFICIENT FOR ANCILLARY STUDIES
+B. BENIGN
+C. LYMPH NODE
+3FS/TP: LYMPH NODE, LEFT AXILLA, SENTINEL NODE BIOPSY #3,
+(frozen section and touch preparation)-
+A. SUFFICIENT FOR ANCILLARY STUDIES
+B. DEFER
+C. LYMPH NODE WITH ATYPICAL CELLS
+NOT BLUE
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary noted
+Case is (circle):
+Reviewer initials
+1/7/14
+Yes
+QUALIFIED
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+No

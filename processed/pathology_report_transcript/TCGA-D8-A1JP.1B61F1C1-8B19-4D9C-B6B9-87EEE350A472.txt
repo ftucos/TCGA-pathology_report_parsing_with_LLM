@@ -1,0 +1,55 @@
+3
+1CD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nes
+050-9
+3/11/11
+Department of Cancer Pathology
+page 1 / 1
+copy No.
+Date:
+Examination: Histopathological examination (cito)
+Examination No
+Patient:
+PESEL:
+Age:
+Gender: F
+Material: Multiple organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: 5 working days
+Clinical diagnosis:
+Examination performed on:
+Macroscopic description:
+Right breast sized 20.3 x 14.4 x 4.6cm removed, without axillary tissues and with a skin flap of 17.8 x 9.4 cm.
+Weight 300g. Site of tumour removal sized 8 x 8 x 3 cm found on the boundary of inner quadrants, placed 4.0
+cm from the upper edge, 0.1 cm from the base and 0.2 cm from the skin.
+Status after tumour removal (examination No.
+Microscopic description:
+Status post resectionem tumoris.
+Mamilla sine laesionibus.
+Glandular tissue showing Parenchyma atrophy.
+Histopathological diagnosis:
+(including test No.
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+(NHG2, pT1c, pN0/sn/)
+Compliance validated by:
+UUID:1B61F1C1-8B19-4D9C-B6B9-87EEE350A472
+TCGA-D8-A1JP-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prin.ary Noted
+Case circlel:
+Reviewer Intia
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+3/11/44

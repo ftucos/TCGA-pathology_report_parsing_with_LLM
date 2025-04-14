@@ -1,0 +1,72 @@
+Patient: XXX
+Department of Cancer Pathology
+Date:
+Examination: Intraoperative examination
+PESEL: XXX
+Age
+Gender: F
+Material: Lesion excision - right breast
+Unit in charge:
+Internal referral
+Physician in charge:
+Material collected on
+Material received on:
+page 1 / 2
+Examination No.:
+1CD-0-3
+carcinoma, infiltrating duct, was 8500/3
+Site: breast, NOS
+050.9
+4/17/11
+Expected time of examination: 20 minutes (from receipt of material)
+Clinical diagnosis: Cancer of the right breast-marked with 1 thread for sternum, 2 threads for the shoulder, 3 threads for the
+axilla. Please, review the margins.
+Examination performed or
+Result of intraoperative examination:
+Carcinoma invasivum mammae 1.1 cm in diameter
+Final response to be given after paraffin specimens are analysed
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest TM by DAKO.
+Negative reaction in invasive cancerous cells (Score = 1+)
+Examination performed on:
+Macroscopic description:
+Partial reaction of the mammary gland;
+Compliance validated by
+Compliance validated by
+Fragment of the breast sized 6.7 x 5.7 x 3.8 cm with a skin flap of 5.3 x 1.6 cm. We marked typically.
+Tumour sized 1.1 x 0.6 x 0.8 cm in the cross section. Margins: 0.8 cm to the base; 1.9 cm to the skin; 3.4 cm to the edge of
+sternum; 1.8 cm to the axilla, 1.4 cm to the shoulder; 1.3 cm to the lower boundary.
+Microscopic description:
+Carcinoma ductale invasivum mammae dextrae NHG1 (2 +2 + 1/2 mitoses/10 HPF - visual area of 0.55 mm). The largest
+dimension of the lesion 1.1 cm. Margins of normal tissues as in the macroscopic description. Glandular tissue showing lesions of
+the type mastopathia fibrosa partim lipomatosis.
+UUID:7E48315C-3717-40DB-8773-710070AFC47B
+TCGA-D8-A1XM-01A-PR
+Redacted
+Criteria
+No
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is Bircle):
+Reviewer glial
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+4/12/11
+Patient: XXX
+Examination: Intraoperative examination
+page 2 / 2
+Examination performed on:
+Histopathology diagnosis:
+PESEL: XXX
+Gender: F
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast.
+NHG1, pT1c, pN0/sn/.
+xamination No.:
+Compliance validated by
+CONTACT YOUR DOCTOR WITH THIS REPORT!

@@ -1,0 +1,203 @@
+Collection Date:
+UUID:80DA141E-2752-4464-8D23-06DC7E9B05FE
+TCGA-BH-A530-01A-PR
+Redacted
+FINAL DIAGNOSIS:
+-
+PART 1: BREAST, LEFT AT 2 O'CLOCK, SEED LOCALIZED SEGMENTAL MASTECTOMY (26.95 grams) –
+A. INVASIVE DUCTAL CARCINOMA, 11.0 MM (1.1 CM) IN 
+GREATEST DIMENSION (MEASURED
+MICROSCOPICALLY), NOTTINGHAM SCORE 7/9 (
+TUBULES 3, NUCLEAR GRADE 2, MITOTIC ACTIVITY 2),
+NOTTINGHAM GRADE 2.
+B. DUCTAL CARCINOMA IN-SITU (DCIS), SOLID AND CRIBRIFORM TYPES, NUCLEAR GRADE 2 WITH
+ASSOCIATED MICROCALCIFICATIONS AND EXTENSION 
+INTO THE LOBULES, ADMIXED AND ADJACENT
+TO THE INVASIVE COMPONENT.
+C.
+D.
+E.
+F.
+DCIS SPANS AN AREA OF APPROXIMATELY 0.8 CM (8 MM).
+SURGICAL MARGINS ARE NEGATIVE FOR INVASIVE TUMOR; CLOSEST MARGIN IS ANTERIOR AT 0.45 CM
+(4.5 MM) (See Part 6 for additional anterior margin).
+SURGICAL MARGINS ARE NEGATIVE FOR DCIS; DUCTAL CARCINOMA IN SITU IS 0.15 CM (1.5 MM) FROM
+THE NEAREST LATERAL MARGIN.
+LYMPHOVASCULAR SPACE INVASION IS IDENTIFIED.
+G. LOBULAR CARCINOMA IN SITU, CLASSICAL TYPE, NUCLEAR GRADE 1, IS ALSO IDENTIFIED, WITH
+PAGETOID EXTENSION INTO DUCTS.
+H. CHANGES CONSISTENT WITH PREVIOUS BIOPSY SITE.
+1.
+ATYPICAL DUCTAL HYPERPLASIA.
+J.
+ATYPICAL LOBULAR HYPERPLASIA.
+K.
+L.
+FIBROCYSTIC CHANGE WITH SCLEROSING ADENOSIS.
+THE INVASIVE TUMOR CELLS ARE ESTROGEN RECEPTOR POSITIVE, PROGESTERONE RECEPTOR
+WEAKLY POSITIVE, HER-2/NEU NEGATIVE (1+
+), AS PER PREVIOUS PATHOLOGY REPORT◄
+PART 2: LYMPH NODE, LEFT AXILLA SENTINEL NODE #1, BIOPSY -
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 3: LYMPH NODE, LEFT AXILLA SENTINEL NODE #2, BIOPSY -
+ICD-0-3
+Carcinoma, infiltrating duct NOS
+Site
+CSCE
+850013
+FL Breast NOS (50.9
+path ①Breast, lypper-suter
+quadrant (50.4
+9103/28/13
+ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 4: LYMPH NODES, LEFT AXILLA SENTINEL NODE #3, BIOPSY -
+TWO LYMPH NODES, 
+NEGATIVE FOR METASTATIC CARCINOMA (0/2).
+PART 5: LYMPH NODE, LEFT AXILLA SENTINEL NODE #4, BIOPSY -
+ONE LYMPH 
+NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+PART 6: BREAST, NEW ANTERIOR MARGIN, EXCISION (13.4 grams) -
+A. FOCUS OF INVASIVE 
+DUCTAL CARCINOMA, 0.2 CM IN GREATEST DIMENSION, 0.3 CM FROM THE NEW
+ANTERIOR MARGIN (See comment).
+B. ATYPICAL DUCTAL HYPERPLASIA.
+C. SCLEROSING ADENOSIS.
+COMMENT:
+-
+In Part 1, immunohistochemical staining for E-cadherin is focally negative and P120 demonstrates focal strong
+cytoplasmic staining. This immunohistochemical 
+staining pattern supports the diagnosis of lobular carcinoma in situ and
+atypical lobular hyperplasia.
+Part 6: The presence of a 0.2 cm focus of invasive ductal carcinoma is confirmed by immunohistochemical stains for p63
+and
+(see Microscopic Description). The morphologic 
+features of this microscopic focus of carcinoma are similar
+to the invasive 
+ductal carcinoma in Part 1.
+MICROSCOPIC:
+Microscopic examination substantiates the above diagnosis.
+Block 18
+Antibody/Antigen
+E-cadherin
+P120
+Result
+Negative in areas of atypical lobular hyperplasia.
+Strong positive cytoplasmic staining in areas of atypical lobular
+hyperplasia.
+Utilizing formalin-fixed (8-96 hour range), paraffin embedded tissue, immunohistology is
+performed with 
+the following selected antibodies and designated antibody clone(s), directed
+against the 
+following antigenic target (s), with adequate positive and negative internal and
+external controls. 
+Antibodies are optimized appropriate for fixation times.
+ANTIBODY
+e-cadherin
+CLONE
+36
+98
+TARGET ANTIGEN
+Lobular Differentiation
+Lobular Differentiation
+VENDOR
+p120
+Block 6F
+Antibody/Antigen
+SMMHC
+carcinoma
+P63
+carcinoma
+Result
+Negative in area of interest; supports focus of invasive ductal
+Negative in area of interest; supports focus of invasive ductal
+Utilizing formalin-fixed (8-96 hour range), paraffin embedded tissue, immunohistology is
+performed with the following selected antibodies and designated antibody clone(s), directed
+against the following antigenic target (s), with adequate positive and negative internal and
+external controls. Antibodies are optimized appropriate for fixation times.
+ANTIBODY
+Myosin
+CLONE
+SMMS-1
+4A4
+TARGET ANTIGEN
+Myoepithelial cells
+Myoepithelial cells
+VENTOR
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+p63
+CASE SYNOPSIS:
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Left
+Segmental
+Clock position:2
+Maximum dimension invasive component: 11 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR AGGREGATE SIZE:
+TUMOR TYPE (Invasive component):
+NOTTINGHAM SCORE:
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+CALCIFICATION:
+TUMOR TYPE, IN SITU:
+Yes
+Sum of the sizes of multiple invasive tumors: 13 mm
+Ductal adenocarcinoma, NOS
+Nuclear grade: 2
+Tubule formation: 3
+Mitotic activity score: 2
+Total Nottingham score: 7
+Nottingham grade (1, 2, 3): 2
+Yes
+Not applicable
+Yes, malignant zones
+Cribriform
+Solid
+DCIS admixed and outside of invasive carcinoma component
+Percent of tumor occupied by in situ component: 10 %
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+Distance of invasive tumor to closest margin: 4.5 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+LYMPH NODES POSITIVE:
+LYMPH NODES EXAMINED:
+No
+Distance of in situ disease to closest margin: 1.5 mm
+0
+5
+METHOD(S) OF LYMPH NODE EXAMINATION:
+H/E stain
+No
+NON-NEOPLASTIC BREAST TISSUE: ADH, ALH, FCD
+SENTINEL NODE METASTASIS:
+T STAGE, PATHOLOGIC:
+IN STAGE MODIFIER:
+pT1c
+(sn)
+M STAGE:
+N STAGE, PATHOLOGIC:
+ESTROGEN RECEPTORS:
+HER2/NEU:
+PNO
+Not applicable
+PROGESTERONE RECEPTORS:
+positive, previously performed, H-score: 290
+positive, previously performed, H-score: 5
+1+
+Criteria
+Diagnosis Discrepancy
+12/31/12
+Yes
+No
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIEDI
+DISQUALIFIED
+Date Reviewed: 12
+12/22/2

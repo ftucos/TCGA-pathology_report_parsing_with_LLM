@@ -1,0 +1,208 @@
+Patient Results
+Path Report
+SURGICAL PATHOLOGY REPORT
+ACCESSION NO.:
+Final Diagnosis(es):
+(A) Left simple mastectomy:
+1) Benign breast with areas of stromal fibrosis.
+2) No atypia, in-situ or invasive malignancy identified,
+Including margins.
+3) Skin and nipple unremarkable.
+(B) Right simple mastectomy:
+1) Infiltrating lobular carcinoma, Nottingham grade II of
+III.
+2) Pathologic stage pT3 psnN0 pMX
+3) See Synoptic report (below) for details.
+(C) Right axilla sentinel lymph node #1: One lymph node
+negative for metastasis (0/1).
+Synoptic Report:
+Specimen Type: Total breast (including nipple and skin).
+Procedure: Simple mastectomy.
+Lymph Node Sampling: Sentinel lymph node.
+Laterality: Right.
+Tumor Type: Lobular.
+Tumor Focality: Single.
+Tumor Site: Lower outer quadrant.
+Tumor Size: 7.8 x 7.0 x 6.0 cm.
+Nottingham Grade: II of III.
+Skin: Present, unremarkable.
+Nipple: Present, unremarkable.
+Skeletal Muscle: Absent.
+Invasive Margins: Widely negative.
+Lobular Carcinoma in Situ: Not present.
+Ductal Carcinoma in Situ: Not present.
+Lymphvascular Invasion: Not identified.
+Lymph nodes: Sentinel: 0/1 (positive/total)
+CK 10.11 performed on block B1.
+Ancillary Studies:
+Estrogen Receptor: Positive, strong, 95%
+Progesterone Receptor. Positive, strong, 50%
+Her-2/neu: 0+ (0-3+ scale)
+(was not sent for FISH analysis)
+KI-67: 25%
+MD
+Specimen(s) Received:
+A: left simple mastectomy
+B: right simple mastectomy
+C: right axilla sentinel lymph node # 1
+1
+UUID:6931CAAE-6DFE-4A61-84D5-4EC804C2F2C6
+TCGA-AC-A4ZE-01A-PR
+Final
+Redacted
+Final
+ICD-0-3
+carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, NOS
+050.9
+سال
+11/4/12
+Printed from: Default
+Page: 1 of 5
+Patient Results
+Clinical History:
+High risk breast cancer left.
+(A) Short-superior, long - lateral.
+(B) Short superior, long - lateral.
+(C) Count 166
+Intraoperative Consultation:
+Time Received:
+Time Reported:
+FSC1-FSC2: Right axilla sentinel lymph node #1: Benign (2
+blocks).
+M.D.
+Gross Description:
+(A) (left simple mastectomy)
+Specimen type: Simple mastectomy.
+Specimen weight and dimensions: The specimen weighs 1595 gm and
+measures 23.5 x 22.5 x 6.3 cm.
+Skin: The overlying skin ellipse measures 22.0 × 11.0 cm. The
+skin appears tan-pink and unremarkable.
+Orientation and inking scheme: The specimen is oriented as
+follows: One short suture denoting the superior orientation and
+one long suture representing the lateral left orientation. The
+specimen is inked as follows: Medial - red, lateral - green.
+Estimated size of lesion: Sectioning of the breast demonstrates
+unremarkable fibrofatty tissue with no nodules or masses seen or
+palpated.
+Blocks submitted:
+A1 - section of nipple
+A2-A3 - two sections from upper lateral portion of breast
+A4-A5-two representative sections of the lower lateral
+quadrant
+A6-A7-representative sections of lower medial quadrant
+A8-A9-representative sections of upper medial quadrant
+(B) (right simple mastectomy)
+Specimen type: Simple mastectomy.
+Specimen weight and dimensions: The specimen weighs 1670 gm and
+measures 26.0 x 28.0 x 8.0 cm.
+Skin: The ellipse of overlying skin measure 24.5 x 9.0 cm. The
+skin is pink and unremarkable.
+Orientation and inking scheme: The specimen is oriented as
+follows: One short suture denoting the superior orientation and
+one long suture representing the lateral left orientation. The
+specimen is inked as follows: Deep margin - black, anterior
+lateral margin-red, anterior medial margin - blue.
+Estimated size of lesion: The breast is serially sectioned. The
+primary lesion measures approximately 7.0 x 7.8 x 6.0 cm.
+Appearance of lesion: The lesion is firm and tan-white, and
+infiltrates into the breast parenchyma.
+F
+Printed from: Default
+Page: 2 of 5
+Patient Results
+Location of lesion: The lesion is located approximately 7.0 cm
+medial to the center of the specimen in the lower lateral
+quadrant.
+Distance from closest margin: The primary lesion is located 1.5
+cm superficial to the deep margin, 4.0 cm from the anterior
+margin, 6.0 cm from the lateral margin, 19.0 cm to the medial
+margin, 6.0 cm to the inferior margin, and 14.0 cm to the
+superior margin.
+Other findings: Two possible satellite lesions are located with
+one central and one at 2:00. The central lesion measures 6.5 x
+3.0 x 3.0 cm. The lesion at 2:00 measures 1.5 x 2.5 x 2.5 cm.
+Uninvolved parenchyma: The uninvolved parenchyma demonstrates
+unremarkable 
+fibrofatty tissue.
+Axillary tail and lymph nodes: No axillary tail is received in
+this specimen.
+Blocks submitted:
+B1 - nipple
+B2 - fat overlying tumor
+B3 - skin overlying tumor
+B4-B8 - representative sections from the primary tumor
+B9-B10-representative sections from the centrally located
+possible satellite lesion
+B11-B12 - two representative sections from the lesion at 2:00
+B13-14-representative sections of uninvolved parenchyma from
+the upper medial quadrant
+B15-B16-representative sections of uninvolved parenchyma
+B17-B18-representative sections of the lower lateral quadrant
+B19-B20-two representative sections of uninvolved parenchyma
+from 
+the upper lateral quadrant
+B21-section of the medial margin
+B22-section of the lateral margin
+B23-section of the inferior margin
+B24 - section of the superior margin of uninvolved parenchyma
+(C) (right axilla sentinel lymph node #1) Received fresh for
+intraoperative consultation is one piece of fatty tissue
+measuring 3.3 x 2.4 x 1.0 cm. The specimen is bisected with
+one-half submitted in FSC1 and the other half submitted in FSC2
+for frozen section evaluation. One lymph node was received in
+formalin and submitted entirely in C3.
+Microscopic Description:
+Complete microscopic evaluation has been performed.
+Appropriately reacting controls have been performed and
+evaluated for all stains on this case as required.
+Histopathology has a list of IH antibodies that are regulated as
+analyte specific reagents (ASR's). These assays were developed
+and 
+their performance characteristics determined by the
+at
+They
+have not been cleared by the US Food and Drug Administration.
+F
+Printed from: Default
+Page: 3 of 5
+Patient Results
+The FDA has determined that such clearance or approval is not
+necessary for the ASR's. These tests are not investigational
+and are used in standard clinical care. In cases where
+Immunohistochemistry testing is performed, the following
+antibodies and their respective clones may be used to determine
+therapy for the patient: EFGR(31G7), ER(SP1), PR(1E2),
+Her2neu(4B5), CD117(Poly), CD20(126).
+Unless otherwise stated in the report, all tissue tested for
+ERPR by IHC, Her2 by IHC and/or HER2 by FISH have been fixed as
+per ANP 22998 for a minimum of 6 hours and a maximum of 48.
+hours.
+ER, PR, Ki-67, p53 are reported as a semi-quantitative
+percentage of positively stained nuclei. Her-2/neu and EGFR are
+scored as follows: No staining at all is scored as (0), weak,
+incomplete membrane staining in any proportion of cells is
+scored as (1+), less than strong but complete staining in any
+proportion of cells or complete strong staining in less than 30%
+of cells is scored as (2+), and strong complete staining in more
+that 30% of cells is scored as (3+). All studies are performed
+on tissue fixed in 10% neutral buffered formalin and embedded in
+paraffin unless otherwise stated in the report.
+Citteri
+F
+1
+Yes
+No
+Diagnosis Discrepancy
+Primary tumor Site Discrepancy
+HIPAA Discrepancy
+For Magnancy History
+Curs/Synchroncu: Primary Noted
+Case tic
+ReviewerI
+CLAUFIED
+Date Previewed:
+DISQUALIFIED
+11/2/12
+Printed from: Default
+Page: 4 of 5

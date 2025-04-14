@@ -1,0 +1,78 @@
+IRE
+ICD-0-3
+8523/3
+Carcinoma, mixed w/ other types, infiltration lective pillanes)
+Site - Breast, NoS
+Department of Cancer Pathology.
+050.9
+3/11/11
+ん
+page 1 / 2
+copy No. 5
+Date:
+Examination: Histopathological examination
+Internal invoice No.
+Cost of diagnostic procedure
+Examination No.
+Age:
+Gender: .
+Material: Multiple organ resection - left breast
+Unit in charge
+Physician in charge:
+Material collected on:
+Material received or
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast.
+Examination performed on
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by
+Score = 2+, verification by the FISH method recommended.
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Left breast sized 26 x 20 x 5.5 cm removed along with axillary tissues sized 10 x 8 x 2.5 cm and a 25 x 14 cm skin
+flap. Tumour sized 2.6 x 2 x 1.8 cm found in the outer lower quadrant, 5.3 cm from the lower boundary, 1.2 cm
+from the base and 1.4 cm from the skin.
+Microscopic description:
+-
+Carcinoma ductale partim papillare – NHG1 (2 + 2 +3/22 mitoses/10 HPF, visual area diameter: 0.55 m).
+Glandular tissue showing lesions of the type fibrosa et cystica, hyperplasia ductalis simplex
+Invasive lesions reaching the base.
+Axillary lymph nodes:
+Lymphonodulitis chronica et lymphonodorum No XV.
+Compliance validated by:
+UUID:72AF26A2-FADO-42FD-A63C-6E8E2597B84E
+TCGA-D8-A1JT-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+nal/chronous Primary Noted
+Case
+Reviewer itial
+Yes
+Na
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+2/11/11
+Examination: Histopathological examination (
+Patient: XXX
+Examination performed on:
+Results of immunohistochemical examination:
+Gender
+page 2 / 2
+Examination No.
+RESULT OF HER2/neu GENE AMPLIFICATION with the FISH method by
+FINAL RESULT:
+HER2 DNA Probe Kit
+HER-2 gene AMPLIFICATION NOT FOUND.
+Histopathological diagnosis:
+Mixed ductal and papillary invasive carcinoma of the left breast. Usual ductal hyperplasia (
+changes. Lymph nodes negative for cancer.
+Compliance validated by:
+1. Fibrocystic

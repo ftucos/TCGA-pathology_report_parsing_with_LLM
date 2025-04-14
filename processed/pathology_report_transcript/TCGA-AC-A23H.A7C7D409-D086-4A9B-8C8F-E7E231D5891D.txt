@@ -1,0 +1,181 @@
+MRN:
+Surgerv
+ICD-0-3
+Carcinoma, infiltrating ductal. Nos 8500/3
+Site: Breast, NOS
+C50.9
+hu 4/19/11
+Ov
+Age:
+DOB:
+Y
+Sex: F
+Laboratory Patient Report
+Print Date/Time:
+Histopathological Examination
+Path#:
+Collected:
+Surgical Pathology
+Criteria
+Diagnos's Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Reewe Inals
+QUALIFIED
+Date Reviewed:
+Received:
+Pre-Op Diagnosis : Right Breast Cancer
+Order Physician
+Specimens
+:
+Frozen Diagnosis :
+Report
+Complete:
+Yes
+No
+DISQUALIFIED
+4/19/1
+: Breast, right breast, white/lateral, black/superior
+: GROSS EXAMINATION:
+The specimen is received in a container labeled with the
+name 
+of the patient and identified as breast, right breast.
+The specimen 
+consists of a simple mastectomy measuring en
+bloc 15.5 x 9.5 x 
+3.1 and weighs 115 grams. There is an
+anterior 
+ellipse of skin measuring 16.5 x 7.5 cm with an
+eccentric 
+2.7 cm areolar complex with everted nipple.
+Sections of nipple areola are sampled in block 1. The skin
+surface 
+shows a 4 cm long scar located near the lateral
+margin and is sampled in block 2. The superficial superior
+margin is 
+inked orange and the superficial inferior margin
+is inked 
+green. The deep margin is inked black and the
+specimen sectioned, showing 
+a firm pale tan mass measuring
+4.2 × 3.7 x 2.9 
+cm. The mass is located in the upper inner
+and lower 
+inner quadrants. The mass grossly extends to the
+inked deep margin 
+and is 1.7 cm from the superficial
+superior margin and 1.9 cm from the superficial inferior
+margin. The skin overlying the mass is disrupted.
+of the 
+mass are submitted in blocks 3-7. The remaining
+breast is composed of yellow lobulated adipose tissue
+admixed 
+with islands of gray-white rubbery tissue.
+breast 
+is divided into four quadrants, upper inner, lower
+inner, 
+upper outer and lower outer and sampled in blocks
+8-11 
+respectively. No axillary tissue is grossly
+identified.
+Formalin fixation time is approximately 12 hours.
+Sections
+DIAGNOSIS BASED ON GROSS AND MICROSCOPIC EXAMINATION:
+Breast, right simple mastectomy:
+-
+The
+Invasive ductal carcinoma of breast, grade 2, extending to
+within 
+0.4 mm of 
+the deep märgin (see cancer case summary
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL 
+AND STATE LAW. UNAUTHORIZED DISCLOSURE, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #:
+Visit #:
+UUID:A7C7D409-D086-4A9B-8C8F-E7E231D5891D
+TCGA-AC-A23H-01A-PR
+Redacted
+check'
+-
+Tumor present within dermis and dermal lymphatics.
+SPECIMEN:
+Total breast (including nipple and skin)
+PROCEDURE: Simple mastectomy
+LYMPH NODE SAMPLING: No lymph nodes present
+SPECIMEN INTEGRITY: Single intact specimen (margins can be
+evaluated)
+SPECIMEN LATERALITY: Right
+TUMOR SITE (Invasive Carcinoma): Upper an lower inner
+quadrant
+TUMOR SIZE (Invasive Carcinoma):
+Greatest dimension:
+4.2 x 3.7 x 2.9 cm
+TUMOR FOCALITY: Single focus of invasive carcinoma
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Invasive carcinoma directly invades into the
+dermis without skin ulceration
+Nipple: DCIS does not involve nipple epidermis
+Skeletal Muscle: No skeletal muscle present
+DUCTAL CARCINOMA IN SITU (DCIS): No DCIS is present
+LOBULAR CARCINOMA IN SITU (LCIS): Not identified
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive ductal
+carcinoma (no special type or not otherwise specified)
+HISTOLOGIC GRADE: NOTTINGHAM HISTOLOGIC SCORE:
+Glandular (Acinar)/Tubular Differentiation: 3
+Nuclear Pleomorphism: 2
+Mitotic Count:
+2
+Overall Grade: Grade 2, score 7 (scores of 6 or 7)
+MARGINS: Uninvolved by invasive carcinoma
+Distance of closest margin: 0.4 mm
+Specify margin: Deep margin
+PATHOLOGIC STAGING (PTNM):
+Primary Tumor (Invasive Carcinoma)(PT):
+= 50 mm
+PT2: Tumor greater than 20 mm but < or
+Regional Lymph Nodes (PN): pNX: Cannot be assessed
+Distant Metastasis (M): Not applicable
+ANCILLARY STUDIES:
+Estrogen Receptor:
+Performed on another specimen (TML accession #
+Results: Immunoreactive tumor cells present.
+Quantitation: 1-2+, 10% of cells staining.
+Progesterone Receptor:
+Performed on another specimen (TML accession #
+Results: No immunoreactive tumor cells present.
+HER2/neu:
+Immunoperoxidase Studies: Performed on another specimen
+(TML 1
+Results: Positive, score 3+
+Fluorescence In Situ Hybridization (FISH) for HER2/neu:
+Performed on another specimen
+Results: Amplified, ratio 5.90
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE LAW. UNAUTHORIZED DISCLOSURE,
+OR DUPLICATION IS PROHIBITED
+DISSEMINATION
+Path #:
+Visit #:
+Page 2 of 3
+MICRO' ECIFICATIONS: Present in neoplastic tissue
+CLINICAL HISTORY: 
+Palpable mass.
+SUMMARY OF PATHOLOGIC STAGING:
+PT2NXG2
+Intradepartmental consultation obtained.
+, M.D., Pathologist
+Electronically Signed by:
+'
+MD
+THIS CONFIDENTIAL AND PRIVILEGED DOCUMENT/INFORMATION IS PROTECTED BY
+FEDERAL AND STATE 
+LAW. UNAUTHORIZED DISCLOSURE, DISSEMINATION
+OR DUPLICATION IS PROHIBITED
+Path #:
+Visit #:
+Page 3 of 3

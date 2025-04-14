@@ -1,0 +1,181 @@
+TSS:
+ICD-0-3
+Carcinoma, infiltrating duct,
+850013 12/8/10
+Site Code: breast,
+سر
+, NOS
+No s
+050.9
+SPECIMENS:
+A. RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+SPECIMEN(S):
+A. RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+A- right breast: 1.5-cm mass at 0.5 cm from posterior margin.
+TPB/TPC-SLN #1, #2 right axilla: Negative for tumor.
+Diagnoses called by Dr. to Dr. at :
+GROSS DESCRIPTION:
+..(A) and
+.(B, C).
+UUID:8C7442C0-540C-4023-BBFA-8482935259A7
+TCGA-E2-A15P-01A-PR
+Redacted
+A. RIGHT BREAST NEEDLE LOC
+Received fresh labeled with the patient's identification and "right breast needle loc" is a previously inked, oriented
+(single stitch-anterior, double-lateral, triple-anterior) 31 g, 3.5 x 3.1 x 3.1 cm needle localized lumpectomy with
+radiograph. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange.
+Specimen is serially sectioned from superior to inferior into 8 slices revealing a 1.5 x 1.3 x 1.1 cm firm tan stellate
+mass that is closest to the posterior margin at 0.5 cm. Tissue is procured. Representatively submitted:
+A1: superior margin, perpendicular sections
+A2: slice 2, posterior medial
+A3: slice 3, anterior medial
+A4: slice 4, posterior lateral
+A5: slice 5, anterior lateral (mass, clip)
+A6: slice 5, posterior lateral (mass)
+A7: slice 5, mid anterior
+A8: slice 5, mid posterior
+A9: slice 5, medial
+A10: slice 6, anterior lateral (mass)
+A11: slice 6, posterior lateral
+A12: slice 7, anterior lateral
+A13: slice 7, posterior lateral
+A14: slice 7, anterior medial
+A15: slice 7, posterior medial
+A16: inferior margin, perpendicular sections
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "sentinel lymph node #1" is a 2 x 1 x 0.8 cm lymph node.
+Sectioned, touch preps are performed; lymph node is submitted entirely in cassette B1.
+C. SENTINEL LYMPH NODE #2 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "sentinel lymph node #2" is a 1 x 0.8 x 0.5 cm lymph
+node. Sectioned, touch preps are performed; lymph node is submitted entirely in cassette C1.
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+-INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, MEASURING 1.1-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID TYPE
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- FIBROADENOMA (0.2-CM)
+- BIOPSY SITE CHANGES WITH FIBROSIS AND FOREIGN BODY GIANT CELL REACTION
+- SEE SYNOPTIC REPORT.
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+- ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Laterality: Right
+Invasive Tumor:
+Multifocality: No
+WHO CLASSIFICATION
+Excision
+Yes
+Absent
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+Margins:
+1.1cm
+Negative
+Distance from closest margin:
+0.5cm
+deep
+Tubular Score: 3
+Nuclear Grade:
+2
+Mitotic Score: 1
+Modified Scarff Bloom Richardson Grade:
+Necrosis:
+Absent
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+Lymph nodes: Sentinel lymph node
+2
+None identified
+Lymph node status: Negative 0/2
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 10%
+DCIS Type: Solid
+DCIS Location:Associated with invasive tumor
+Nuclear grade: Intermediate
+Necrosis:
+Absent
+ER/PR/HER2 Results
+ER: Pending
+PR: Pending
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+pT 1c NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+Right lateral breast 1.5-cm invasive breast cancer, posterior near fascia, fascia included with specimen.
+PRE-OPERATIVE DIAGNOSIS:
+None given
+ADDENDUM:
+SYNOPTIC REPORT - BREAST, ER/PR RESULTS
+Specimen: Surgical Excision
+Block Number: A6
+ER: Positive Allred Score:
+PR: Positive Allred Score:
+COMMENT:
+8 = Proportion Score 5 + Intensity Score 3
+4 = Proportion Score 2 + Intensity Score 2
+The Allred score for estrogen and progesterone receptors is calculated by adding the sum of the proportion score
+(0 = no staining, 1 = <1% of cells staining, 2 = 1 -10% of cells staining, 3 = 11-30% of cells staining, 4 = 31-60% of
+cells staining, 5 = >60% of cells staining) to the intensity score (1 = weak intensity of staining, 2 = intermediate
+intensity of staining, 3 = strong intensity of staining), with a scoring range from 0 to 8.
+ER/PR positive is defined as an Allred score of >2 and ER/PR negative is defined as an Allred score of less than
+or equal to 2.
+METHODOLOGY:
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Immunohistochemistry was performed using the mouse anti-human ER (ER 1D5, 1:100) and PR (PGR 136, 1:100)
+provided by Dakc
+following the manufacturers instructions. This assay was not modified.
+Interpretation of the ER/PR immunohistochemical stain is guided by published results in the medical literature,
+information provided by the reagent manufacturer and by internal review of staining performance.
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score: 22
+CLINICAL EXPERIENCE: Patients with a recurrence score of: 22 in the clinical validation study had an average
+rate of Distant Recurrence at 10 years of 14%
+ER Score: 11.1 Positive
+PR Score:
+4.4 Negative
+Her2 Score:
+10 Negative
+Interpretation:
+ER Negative <6.5
+PR
+Negative < 5.5
+Her2 Negative <10.7
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal = 10.7 -11.4
+report for further information.
+See separate (
+Test performed at:
+Microscopic/Diagnostic Dictation: Pathologist.
+Final Review: Pathologist.
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Final: Pathologist.
+Addendum: Pathologist,
+Addendum Final: Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Prinary Tumor Site Ciscrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED // QuED
+Date Reviewed:

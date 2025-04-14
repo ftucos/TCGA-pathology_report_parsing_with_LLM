@@ -1,0 +1,107 @@
+TSS ID...
+TSS ID:
+OC ID:
+Date of Procurement
+Gross Description:
+Labeled left breast lumpectomy. Received is an 85 g unoriented ovoid
+portion of lobulated tan fibroadipose tissue measuring 8 x 7 x 3.5 cm. The
+specimen contains 2 needle localization wires and there is an accompanying
+specimen mammogram, which is used to orient the specimen and select the
+sections. The radiologist has circled two areas of concern marked 1 and 2,
+both of which are associated with microcalcifications. The margins are
+inked blue for microscopic evaluation. Upon sectioning, area 1 is present
+near the midpoint of the long axis and consists of a 2.4 x 1.9 x 1.4 cm
+irregular mass. The cut surfaces of the mass are white-tan, smooth and have
+well-defined borders. The mass grossly abuts the inked margin. At one end
+of the mass is a 0.7 x 0.3 cm biopsy cavity containing collagen material
+and a small metal clip as well as adjacent focal hemorrhage. Area 2 is
+present at one end of the specimen and consists of a 1.2 x 0.9 cm ovoid
+portion of firm white fibrous tissue that is slightly more dense than the
+adjacent white fibrous tissue. This area comes to within 0.7 cm of the
+nearest inked margin. The remaining cut surfaces are tan and lobulated with
+interspersed areas of condensed white fibrous tissue comprising
+approximately 25% of the specimen. Poorly-defined areas of blue staining
+are also present.
+Microscopic Description:
+Microscopic sections of the principal mass (grossly area 1) demonstrate
+an infiltrating markedly pleomorphic epithelial neoplasm with a brisk
+mitotic rate that is arranged in nests. Occasional areas of intratumoral
+high grade ductal carcinoma in situ are
+Diagnosis Details:
+INVASIVE BREAST CARCINOMA CHECKLIST
+10D-0-3
+carcinoma infiltrating duct, Nos 8500/3
+Site: breast, Nos C50.9 4/8/11 fu
+UUID:5B9C0E4A-3958-4ECF-B8B2-E758E04E7722
+TCGA-E9-A1R2-01A-PR
+Criteria
+Diagnosis Discrepancy
+Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synclphous Pimary Noted
+Case is RK QALIFIED
+Revic wer Ins
+Date Reviewed:
+DISQUALIFIED
+Redacted
+4/8/11
+TSS ID
+1)
+Tumor focality: Single focus.
+2) Tumor size: 2.4 x 1.9 cm.
+3) Histologic type: Ductal
+4)
+Nottingham Combined Histologic Grade: Poorly differentiated.
+a)
+Ductule formation: 3
+b)
+Nuclear features: 3
+c)
+Mitotic index: 2
+5)
+Angiolymphatic invasion: Present.
+6) Margins:
+a)
+Not involved by tumor.
+b)
+Distance from closest margin: 1.9 cm (thickness of part B tissue).
+7)
+Lymph nodes: 17 positive/ 19 found.
+8)
+Size of largest metastatic deposit: 2.1 x 1.2 cm.
+9) Extracapsular invasion of lymph nodes: No.
+10) Extensive DCIS component (>25%): No.
+11) DCIS component, extratumoral: No.
+12)
+TNM: pT2 pN3a MX.
+13)
+ERA/PRA: Positive/negative on prior biopsy
+14) Her-2/neu over-expression: Negative (score 2) by FISH on prior biopsy
+Comments:
+Formatted Path Report:
+BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2.4 x 1.9 x 1.4 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+TSS ID
+Histologic grade: Poorly differentiated
+Tumor extent: Not specified
+Lymph nodes: 17/19 positive for metastasis (Axillary 17/19)
+Extracapsular invasion of the lymph nodes: No
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Minimal less that 10% (score=3)
+Nuclear pleomorphism: Marked variation in size, nucleoli, etc (score=3)
+Mitotic count (25x): 10 to 20 mitoses per 10 HPF (score=2)
+Mitotic count (40x): Not specified
+Total Nottingham Score: Grade III (poorly differentiated): 8-9 points
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Laterality:
+Left, upper outer quadrant

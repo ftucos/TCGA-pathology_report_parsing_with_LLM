@@ -1,0 +1,29 @@
+17
+10D-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+Site: Breast, Nos
+050.9
+1/19/11 lu
+Diagnosis:
+1. Invasive ductal breast carcinoma (maximum diameter 3 cm, conclusive malignancy grade
+III) with invasion of the lymph vessels in the tumor periphery and an invasive satellite node,
+as macroscopically documented. Remaining glandular body, which is rich in fatty tissue, is in
+involution. No calcification here and no DCIS formation. Tumor-free nipple. Wide safety
+margins.
+Tumor classification: pT2m pN2a (4/15), MX, R0; G3 (L1, V0).
+UUID:7DB1F816-A55F-449A-8DF9-672485100CA1
+TCGA-A8-A08P-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior t.talignancy History
+Dual/Synchronous Primary Noted
+Case (cle)
+Review Initi
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED

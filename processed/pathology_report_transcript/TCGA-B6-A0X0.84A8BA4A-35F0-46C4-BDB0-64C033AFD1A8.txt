@@ -1,0 +1,158 @@
+Surg Path
+ICD-0-3
+Carcinoma, infiltrating cribriform 8201/3
+Site: breast, Nos 05019
+1/5/15 Hostu w
+CLINICAL HISTORY:
+Right breast FNA negative. 2 x 1.5 cm tumor. Oriented by Dr.
+grossly.
+GROSS EXAMINATION:
+and the
+A. "Right breast biopsy", in formalin. The specimen consists of a 6.0 x 3.8 x
+2.8 cm sample of firm, yellow-white, fibroadipose tissue that is received
+previously incised. The specimen was oriented grossly by Dr.
+lateral operative margin inked in blue, medial operative margin inked in
+black, and the anterior operative margin inked in red. The specimen is
+sectioned superiorly to inferiorly revealing a firm, white scuirrious uniform
+lesion with irregular borders extending up to 2 cm in greatest dimension. The
+lesion abuts the medial and inferior operative margins. The specimen is
+submitted in toto in Blocks Al-A13 from inferior to superior and anterior to
+posterior.
+Also received is a sample of firm, yellow-white fibroadipose tissue measuring
+4.3 x 4.0 x 1.3 cm in size. The sample is oriented by Dr.
+and the new
+surgical margin is inked in blue and the old surgical margin is inked in
+black. The new surgical margin represents the true margins. Serial
+sectioning reveals a firm, white, infiltrative lesion extending through much
+of the specimen and abutting the blue inked surgical margin.
+toto in Blocks A14-A20.
+Samples of the lesion were obtained for ER/PR studies.
+DIAGNOSIS:
+Dr.
+A. "RIGHT BREAST BIOPSY" (EXCISIONAL BIOPSY):
+INFILTRATING CARCINOMA PRESENT,
+N.S.A.B.P. HISTOLOGIC GRADE, 2 OF 3.
+HISTOLOGIC TYPE, DUCTAL.
+N.S.A.B.P. NUCLEAR GRADE, 2 OF 3.
+SIZE OF INVASIVE COMPONENT, 2 CM.
+Submitted in
+Criteria
+Diagnosis Discrepancy
+w 1/5/15
+Cribriform
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circk
+Reviewer Inits
+VALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+4/25/11
+per TSS path discrepancy form,
+TCGA tumor is cribriform
+UUID:84A8BA4A-35F0-46C4-BDB0-64C033AFD1A8
+TCGA-B6-A0X0-01A-PR
+Redacted
+GROSS TUMOR SIZE, 2 CM.
+DUCTAL IN-SITU CARCINOMA, EXTENSIVE.
+MULTIFOCAL TUMOR, NO.
+TYPE OF IN SITU CARCINOMA, NON-COMEDO SUBTYPES.
+SIZE OF IN SITU CARCINOMA, 2 CM.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE, APOCRINE METAPLASIA AND DUCT
+ECTASIA.
+LYMPHATIC/VASCULAR INVASION, NOT PRESENT.
+SURGICAL MARGIN STATUS, NEGATIVE.
+MICROCALCIFICATIONS NOT PRESENT.
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS PENDING, YES.
+NOTE:
+METHODOLOGY, FRESH TISSUE. SEE NOTE.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+The original biopsy specimen shows carcinoma in situ to both lateral
+and medial margins. The reexcision specimen shows operative margins to be
+free of 
+malignancy. This specimen shows a single small focus of residual
+invasive 
+carcinoma, infiltrating ductal type, N.S.A.B.P. histologic grade 2,
+nuclear grade 2, and residual intraductal carcinoma of non-comedo type. Breast
+tissue away from the carcinoma in this specimen shows blunt duct adenosis and
+a small radial scar.
+1 of 2
+Verified by:
+Date Signed:
+Pager#
+ADDENDUM 1:
+Tissue was sent to the
+and Progesterone receptors.
+for assay of the Estrogen
+The Estrogen receptor was judged as positive with
+an estimated fmol valve of 166. The Progesterone receptor was judged as
+positive 
+with an estimated fmol valve of 11. Please report to
+more complete details.
+☐ for
+Verified by:
+Date Signed:
+Pager
+2 of 2
+TCGA Pathologic Diagnosis Discrepancy Form
+V4.00
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+Tissue Source Site (TSS): _
+Completed By (Interviewer Name on
+Diagnosis Information
+#
+Data Element
+Pathologic Diagnosis
+1
+Provided on Initial
+Pathology Report
+Histologic features of
+the sample provided
+2
+for TCGA, as reflected
+on the CQCF.
+TSS Identifier.
+Entry Alternatives
+TSS Unique Patient Identifier:
+_Completed Date:
+Working Instructions
+Provide the diagnosis/ histologic subtype(s) documented on
+subtypes.
+Infiltrating Carcinoon the initial pathology report for this case. If the histology for
+Present, Duefal
+Cribriform
+Provide the histologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for
+3
+the discrepancy
+between the pathology
+report and the TCGA
+Case Quality Control
+Form.
+Sample Submitted
+reviewed and
+agreed that it is
+Cribriform.
+Provide a reason describing why the diagnosis on the initial
+pathology report for this case is not consistent with the
+diagnosis selected on the TCGA Case Quality Control Form.
+4
+Name of TSS Reviewing
+Pathologist or
+Biorepository Director
+Provide the name of the pathologist who reviewed this case
+for TCGA.
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+TSS Reviewing Pathologist or Biorepository Director
+Date
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+artment Chairman has been informed or is aware of the above discrepancy in diagnoses.
+Principal Investigator Signature
+Date

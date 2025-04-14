@@ -1,0 +1,333 @@
+ICD-0-3
+Carcinoma, Infiltrating duct, Nos
+8500/3
+Site Code: breast, Nos
+050.9
+12/19/10
+TSS Pt ID
+SPECIMENS:
+A. SLN #1 RIGHT AXILLA
+B. SLN #2 RIGHT AXILLA
+C. SLN #3 RIGHT AXILLA
+D. RIGHT BREAST
+E. RIGHT AXILLARY CONTENTS LEVELS 1-2
+F. ADDITIONAL RIGHT BREAST TISSUE
+G. ADDITIONAL INFERIOR MARGIN
+SPECIMEN(S):
+A. SLN #1 RIGHT AXILLA
+B. SLN #2 RIGHT AXILLA
+C. SLN #3 RIGHT AXILLA
+D. RIGHT BREAST
+E. RIGHT AXILLARY CONTENTS LEVELS 1-2
+F. ADDITIONAL RIGHT BREAST TISSUE
+G. ADDITIONAL INFERIOR MARGIN
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+سلام
+UUID:D05A4266-6719-4916-B7D0-A23275A88266
+TCGA-E2-A106-01A-PR
+Redacted
+TPA-sentinel lymph node #1 right axilla: Positive for carcinoma {Dr.
+at
+GROSS DESCRIPTION:
+A. SLN #1 RIGHT AXILLA
+consulted} called by Dr. to Dr.
+Received fresh is one lymph node measuring 0.8 x 0.7 x 0.2 cm. One touch prep is performed. Lymph
+node is submitted entirely in cassettes A1-A3.
+B. SLN#2 RIGHT AXILLA
+Received fresh is a lymph node measuring 1 x 0.6 x 0.4 cm. Submitted in cassette B1.
+C. SLN#3 RIGHT AXILLA
+Received fresh is a piece of yellow-tan soft tissue measuring 3.2 x 1.5 x 0.3 cm. One possible lymph
+node is identified measuring 0.1-cm. Lymph node is submitted in cassette C1.
+D. RIGHT BREAST
+Received fresh is an oriented 205g, 15 x 13 x 4.5 cm mastectomy with 4.5 x 3 cm tan skin ellipse, 1.5
+cm everted nipple. Superior anterior margin is inked yellow, inferior anterior margin blue, the deep
+margin black. The specimen is serially sectioned from lateral to medial revealing the following:
+1) A granular tan irregular mass (lesion #1) measuring 4.5 x 2.7 x 1.5 cm in the mid to upper inner
+quadrant. It is 1 cm from the deep margin and abuts the anterior/superior margin.
+2) A 1 x 0.8 x 0.7 cm granular pink-tan area (lesion #2} that is 2 cm inferior to lesion #1.
+3) 0.5 cm possible biopsy site in upper outer quadrant that is 1.5 cm lateral to lesion #1 and is 2.7 cm
+from the deep margin.
+Representatively submitted as follows:
+D1-D2: lesion #1 including anterior/superior margin
+D3-D4: complete cross-section extending from anterior/superior to deep, lesion #1
+D5: lesion #1 including deep margin
+D6: lesion #2 and tissue connecting to lesion #1
+D7: lesion #2 and skin
+D8: tissue extending from lesion #1 to possible biopsy site
+D9-D11: possible biopsy site
+D12: granular tissue from superior anterior margin
+D13: upper inner quadrant
+D14: lower inner quadrant
+D15: lower outer quadrant
+D16: upper outer quadrant
+D17-D18: nipple
+D19-D20: soft tissue from axillary tail
+E. RIGHT AXILLARY CONTENTS LEVELS 1-2
+Received in formalin are multiple tan pink soft tissue fragments aggregating to 5 x 3 x 2cm. Dissection
+reveals 17 possible lymph nodes ranging from 0.2 x 0.2 x 0.2cm to 2.0 x 2.0 x 1.5cm. Entirely
+submitted:
+E1: 5 lymph nodes
+E2: 4 lymph nodes
+E3: 4 lymph nodes
+E4: 2 lymph nodes
+E5: 1 lymph node serially sectioned
+E6: 1 lymph node serially sectioned
+E7-E8: additional axillary tissue
+E9-E13: remainder of tissue
+F. ADDITIONAL RIGHT BREAST TISSUE
+Received in formalin is an 8g unoriented aggregate of tan pink fibrofatty tissue 5.0 x 4.0 x 2.0cm. The
+specimen is inked Black and serially sectioned to reveal grossly unremarkable breast parenchyma. Toto
+F1-F9.
+G. ADDITIONAL INFERIOR MARGIN
+Stitch at new true margin.
+Received in formalin is a 28g oriented tan pink fragment of fibrofatty tissue 11.0 x 5.0 x 1.5cm. The new
+true margin is inked Black and the specimen is serially sectioned to reveal grossly unremarkable breast
+parenchyma. Toto G1-G27.
+RESULTS:
+SUMMARY OF IMMUNOHISTOCHEMISTRY/SPECIAL STAINS
+Material: Block A1
+Population: Tumor Cells
+Stain/Marker: Result:
+Comment:
+CYTOKERATIN AE1/3
+Positive
+Material: Block A2
+Population: Tumor Cells
+Stain/Marker: Result:
+Comment:
+CYTOKERATIN AE1/3
+Negative
+Material: Block A3
+Population: Tumor Cells
+Stain/Marker: Result:
+CYTOKERATIN AE1/3
+Comment:
+Positive
+The interpretation of the above immunohistochemistry stain or stains is guided by published results in
+the medical literature, provided package information from the manufacturer and by internal review of
+staining performance and assay validation within the Immunohistochemistry Laboratory of The use of
+one or more reagents in the above tests is regulated as an analyte specific reagent (ASR). These tests
+were developed and their performance characteristic determined by the Department of Pathology
+Laboratory at. They have not been cleared or approved by the U.S. Food and Drug Administration.
+The FDA has determined that such clearance or approval is not necessary.
+Special stains and/or immunohistochemical stains were performed with appropriately stained positive
+and negative controls.
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, RIGHT AXILLA, BIOPSY:
+- MICROMETASTATIC CARCINOMA TO ONE LYMPH NODE, WITH NO
+EXTRANODAL EXTENSION (1/1) (SEE NOTE).
+NOTE: There are two foci of micrometastasis, each measuring less than 1 mm in size. A cytokeratin
+AE1/3 stain was performed that highlights the micrometastases and also shows a few scattered
+cytokeratin positive cells in the parenchyma.
+B. SENTINEL LYMPH NODE #2, RIGHT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+C. SENTINEL LYMPH NODE #3, RIGHT AXILLA, BIOPSY:
+ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+D. BREAST, RIGHT MASTECTOMY:
+- MULTICENTRIC INVASIVE DUCTAL CARCINOMA, MODERATELY
+DIFFERENTIATED (SBR GRADE 2) (SEE NOTE).
+- TUMOR MEASURES 1.2 CM IN GREATEST DIMENSION.
+- INVASIVE CARCINOMA IS WITHIN 1 MM OF THE ANTERIOR MARGIN
+IN THE UPPER INNER QUADRANT.
+- EXTENSIVE DUCTAL CARCINOMA IN SITU (DCIS), CRIBRIFORM, SOLID
+AND MICROPAPILLARY TYPES, NUCLEAR GRADES 2 AND 3, WITH
+NECROSIS AND MICROCALCIFICATIONS, INVOLVING LOBULES
+- DCIS IS PRESENT AT THE ANTERIOR MARGIN IN THE UPPER INNER
+QUADRANT.
+- DCIS INVOLVES LACTIFEROUS DUCTS.
+SKIN AND NIPPLE, NO TUMOR SEEN.
+NOTE: In the upper outer quadrant, a biopsy site is noted with adjacent DCIS. Near the biopsy site, a 2
+mm focus of invasive ductal carcinoma is seen. In the upper inner quadrant, there is invasive ductal
+carcinoma with DCIS, with the largest focus of invasion measuring 1.2 cm and with at least one other
+focus of invasion that measures 0.1 cm. The DCIS in the upper inner quadrant is mass forming and
+spans at least 4 cm in greatest dimension.
+E. AXILLARY CONTENTS, RIGHT, LEVELS 1-2, DISSECTION:
+13 LYMPH NODES, NO TUMOR SEEN (0/13).
+F. BREAST, RIGHT, ADDITIONAL TISSUE, EXCISION:
+·DUCTAL CARCINOMA IN SITU, PRESENT AT INKED ASPECT (SEE NOTE).
+NOTE: There is a 3 millimeter focus of DCIS. The tissue was not oriented but was inked entirely black
+and DCIS is present at the inked aspect.
+G. BREAST, RIGHT, ADDITIONAL INFERIOR MARGIN, EXCISION:
+FOCAL COLUMNAR CELL CHANGE WITH CYTOLOGIC ATYPIA
+(FLAT EPITHELIAL ATYPIA).
+-
+- NO EVIDENCE OF CARCINOMA.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization: No
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: Yes
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.2cm
+Tumor Site: Upper outer quadrant
+Upper inner quadrant
+Margins:
+Negative
+Distance from closest margin: Less than 0.1cm
+anterior
+Tubular Score:
+Nuclear Grade:
+Mitotic Score:
+3
+2
+1
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: Present
+Extent:
+Focal
+Lobular neoplasia:
+None
+Lymph nodes:
+Lymph node status:
+Micrometastases:
+2
+Sentinel lymph node and axillary dissection
+Positive 1/16
+Yes
+Non-neoplastic areas: columnar cell change with flat epithelial atypia
+DCIS present
+Margins involved by DCIS: anterior
+DCIS Quantity:
+DCIS Type: Solid
+Cribriform
+Micropapillary
+Estimate 75%
+DCIS Location:
+Nuclear grade:
+Both associated and separate from invasive tumor mass
+High
+Necrosis: Present
+Location of CA++:
+DCIS
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: by FISH
+Pathological staging (pTN):
+pT 1c N 1mi
+SYNOPTIC REPORT - BREAST HER-2 RESULTS
+Specimen: Surgical Excision
+Block Number:
+Interpretation:
+Intensity:
+D2
+EQUIVOCAL
+2+
+10%
+% Tumor Staining:
+Fish Ordered:
+METHODOLOGY:
+Yes, on Date
+Tissue was fixed in 10% neutral buffered formalin for no less than 8 and no longer than 24 hours.
+Her2 analysis was performed using the FDA approved Dako HercepTest (TM) test kit (
+using rabbit anti-human HER2. This assay was not modified. External kit-slides
+provided by the manufacturer (cell lines with high, low and negative HER2 protein expression) and in-
+house known HER2 amplified control tissue were evaluated along with the test tissue. Adequate, well
+preserved, clear-cut invasive carcinoma was identified for HER2 evaluation. Interpretation of the HER2
+immunohistochemical stain is guided by published results in the medical literature, information provided
+by the reagent manufacturer and by internal review of staining performance.
+This assay has been validated according to the 2007 joint recommendations and guidelines from
+ASCO and CAP and from the NCCN HER2 testing in Breast Cancer Task Force. The Pathology
+Department takes full responsibility for this test's performance.
+CLINICAL HISTORY:
+-year-old female with abnormal screening mammogram of right breast at right upper outer quadrant.
+Needle biopsy showed invasive ductal carcinoma. Patient then had MRI which showed enhancement of
+upper outer quadrant and upper inner quadrant; anteriorly there was enhancement 2 cm from clip and
+close to nipple. PET, CT and bone scan show no evidence of metastatic disease. Invasive ductal
+carcinoma SBR grade 2, ER positive, PR positive, Her2/neu negative. Tumor size 0.4 cm, also with high
+grade DCIS solid and cribriform with necrosis and extension to lobules.
+PRE-OPERATIVE DIAGNOSIS:
+Right Breast Cancer
+ADDENDUM:
+PathVysion HER-2 DNA Probe Kit
+Case No
+Analytical Interpretation of Results:
+Clinical Interpretation of results
+HER-2 NOT AMPLIFIED
+Amplification of the HER-2 gene was evaluated with interphase fluorescence in-situ
+hybridization (FISH) on formalin-fixed paraffin embedded tissue sections using a chromosome
+17 centromeric probe and a HER-2 probe that spans the entire HER-2 gene in the Pathology
+Core Facility by Dr.. A majority of tumors cells displayed 2 chromosome 17
+signals and 2 HER-2 signals, with a HER-2/CEP 17 Ratio </=2.0, consistent with no
+amplification of the HER2/neu gene.
+Block used
+A1
+Tissue fixation
+Tissue source
+HER2/CEP17 ratio:
+Source of case:
+formalin-fixed tissue
+RPCI
+Outside Case No: NA
+yes
+breast Results interpreted:
+1.05
+This ratio is derived by dividing the total number of LSI HER-2/neu signals by the total number of
+CEP17 signals in at least 20 interphase nuclei with nonoverlapping nuclei in the neoplastic
+mammary epithelial cells. Cells with no signals or with signals of only one color are disregarded.
+Method of ratio enumeration: manual count
+No
+Limitations
+The Vysis PathVysion Kit is not intended for use to screen for or diagnose breast cancer. It is
+intended to be used as an adjunct to other prognostic factors currently used to predict disease-free
+and overall survival in stage II, node-positive breast cancer patients. In making decisions regarding
+adjuvant CAF treatment, all other available clinical information should also be taken into
+consideration, such as tumor size, number of involved lymph nodes, and steroid receptor status.
+treatment decision for stage II, node-positive breast cancer patients should be based on HER-
+2/neu
+gene amplification status alone.
+Overview of this test
+FDA APPROVED REAGENT
+PathVysion HER-2 DNA Probe Kit is FDA approved for selection of
+natients for whom HerceptinⓇ therapy is being considered. These tests were performed in the
+under the direction
+of Dr.. The results of these studies should always be interpreted in the context of the
+clinical, morphological, and immunophenotypic diagnosis.
+ONCOTYPE DX BREAST CANCER ASSAY
+RESULTS: Recurrence Score: 16
+CLINICAL EXPERIENCE: Patients with a recurrence score of:
+had an average rate of Distant Recurrence at 10 years of 10%
+ER Score: 10.1
+Positive
+PR Score: 7.7 Positive
+Her2 Score: 9.8 Negative
+Interpretation:
+ER Negative < 6.5
+PR Negative < 5.5
+Her2 Negative <10.7
+See separate
+16 in the clinical validation study
+Positive >= 6.5
+Positive >= 5.5
+Positive >=11.5
+Equivocal 10.7 11.4
+report for further information.
+Inc.
+Test performed at:
+Gross Dictation:., Pathologist,
+Microscopic/Diagnostic Dictation:, M.D., Pathologist, i
+Final Review: M.D., Pathologist,
+Final Review:, M.D., Pathologist,
+Final:, M.D., Pathologist,
+Addendum:., Pathologist,
+Addendum Final: Pathologist,
+Addendum:., Pathologist,
+Addendum Final:., Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Mal gnancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+TW QUALIFIED
+Date Reviewed:
+DISQUALIFIED

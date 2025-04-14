@@ -1,0 +1,47 @@
+UUID:E6DD0840-4D71-4EEC-B559-F6BFC9E7E68B
+TCGA-PL-A8LX-01A-PR
+Redacted
+Age:
+Sex: Female
+Tissue Source Site (TSS):
+Date of Tumour Procurement:
+ICD-0.3
+Carcinoma, infiltrating duck
+Саганста
+Site: ①Breast NOS
+8500/3
+1509
+70 5/19/14
+1. GROSS ASSESSMENT: Cut section showed a variegated tumour.
+2. MICROSCOPIC ASSESSMENT
+Microscopic description: Section shows an invasive tumour growing solid nests, cords,
+comedo and tubular patterns.. It is composed of large cells having moderately
+pleomorphic hyperchromatic nuclei and amphophilic cytoplasm. The stroma is
+demoplastic containing similar tumour cells and lymphocytes. Focal areas of necrosis
+noted.
+3. Tumour Type: Malignant
+4. Tumour Site: Left Breast
+5. Distance of invasive carcinoma to closest margin: 5mm
+Which margin? Deep resection
+TSS Unique patient ID:
+6. HISTOLOGICAL DIAGNOSIS: Invasive ductal carcinoma
+7. COMMENTS:
+Dr
+Reporting Pathologist Name
+Signature
+Date
+Criteria
+Diagnosis Discrepancy
+w 11/14/13.
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchrones Primary Note
+Case is (cirrie):
+Reviewer Initials
+Date Reviewed
+DISQUALIED
+111213
+7

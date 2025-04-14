@@ -1,0 +1,29 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, was
+Path Site: Breast, 40Q 050.4
+CQCF Site: Brast, Nos C50.9
+Diagnosis:
+1. Moderately differentiated invasive ductal carcinoma with discrete intraductal
+spread (tumor diameter 1.9 cm).
+In conjunction with the preliminary finding, this gives rise to the following tumor
+classification: NOS, G II, pT1cN1aLOVORO.
+850013
+1/19/4
+UUID:1ED901DF-BCDC-44C8-A7DF-AB895ECA0952
+TCGA-AB-A07G-01A-PR
+C.iteria
+Diagnosis iscrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Cafe circle):
+Relever gitils
+53
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+سلام
+Redacted

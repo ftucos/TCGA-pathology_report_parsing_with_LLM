@@ -1,0 +1,309 @@
+Clinical Diagnosis & History:
+y/o female with right breast core biopsy positive for invasive carcinoma
+and left breast with atypical ductal hyperplasia. For bilateral
+mastectomies, right sentinel node biopsy; right breast carcinoma and left
+atypia.
+Specimens Submitted:
+1: SP: Sentinel node #1 level 1 right axilla (fs)
+2: SP: Sentinel node #2 level 2 right axilla (fs)
+3: SP: Non sentinel node, right axilla
+4: SP: Non sentinel node, right axilla, level 2
+5: SP: Right breast
+6: SP: Left breast
+UUID:FF188295-E139-4AEE-8EE8-364536F2BBE8
+TCGA-AO-A1KR-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+LYMPH NODE, SENTINEL #1 LEVEL I RIGHT AXILLA; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+- ADDITIONAL H/E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+(AE1:AE3)
+CYTOKERATINS
+2)
+SHOW NO EVIDENCE OF METASTATIC TUMOR.
+LYMPH NODE, SENTINEL #2 LEVEL II RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+- ADDITIONAL H/E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS (AEL:AB3)
+3)
+4)
+5)
+SHOW NO EVIDENCE OF METASTATIC TUMOR.
+-
+LYMPH NODE, NON-SENTINEL RIGHT AXILLA; BIOPSY:
+ONE BENIGN LYMPH NODE (0/1).
+LYMPH NODE, NON-SENTINEL LEVEL II RIGHT AXILLA; BIOPSY:
+- ONE BENIGN LYMPH NODE (0/1).
+-
+BREAST, RIGHT; TOTAL MASTECTOMY:
+INVASIVE POORLY DIFFERENTIATED DUCTAL CARCINOMA, NOS TYPE, HISTOLOGIC
+GRADE III/III (SLIGHT OR NO TUBULE FORMATION), NUCLEAR GRADE III/III (MARKED
+VARIATION IN SIZE AND SHAPE), WITH EXTENSIVE NECROSIS, MEASURING 2.4 CM IN
+LARGEST DIMENSION MICROSCOPICALLY.
+LOBULAR CARCINOMA IN SITU (LCIS) IS ALSO IDENTIFIED, CLASSICAL TYPE (TYPE
+** Continued on next page **
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos C50-9
+2/16/11
+سلا
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prio: Malignancy History
+Duai/Synchronous Primary Nated
+Case is (Circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed
+DISQUALIFIED
+A).
+Page 2 of 5
+- THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER INNER QUADRANT.
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+- NO VASCULAR INVASION IS NOTED.
+-
+NO INVOLVEMENT OF THE SURGICAL MARGINS BY INVASIVE CARCINOMA IS
+IDENTIFIED.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES, FIBROCYSTIC
+AND FIBROADENOMATOID CHANGES. MICROCALCIFICATIONS FOCALLY IN BENIGN DUCTS.
+FIBROADENOMA 
+WITH MYXOID STROMA MEASURING 0.8 CM.
+- ER: 0% NUCLEAR STAINING.
+-
+PR: 0% NUCLEAR STAINING.
+HER2/NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY OF 1+).
+6)
+-
+BREAST, LEFT; TOTAL MASTECTOMY:
+DUCTAL HYPERPLASIA USUAL TYPE WITHOUT ATYPIA.
+COLUMNAR CELL CHANGES, ADENOSIS AND STROMAL FIBROSIS.
+- MICROCALCIFICATIONS IN BENIGN DUCTS.
+BIOPSY SITE CHANGES.
+UNREMARKABLE NIPPLE AND SKIN.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL). AND THAT I HAVE REVIEWED AND APPROVED
+THIS 
+REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Special Stain
+AEL:AE3
+NEG CONT
+IMM RECUT
+AE1:AE3
+NEG CONT
+IMM RECUT
+ER-C
+PR-C
+HER2-C
+NEG CONT
+IMM RECUT
+NEG-HERZ
+Gross Description:
+Comment
+1). The specimen is received fresh for frozen section consultation, labeled
+** Continued on next page
+"Sentinel node number one, level 1, right axilla" and consists of one lymph
+Page 3 of 5
+node measuring 1.0 cm. bisected 
+and entirely submitted for frozen section.
+Summary of sections:
+FSC -- frozen section control
+2). The specimen is received fresh for frozen section consultation, labeled
+"Sentinel 
+node number two, level 2, right axilla" and consists of one lymph
+node measuring 
+1.4 cm, bisected and entirely submitted for frozen section.
+Summary of sections:
+PSC Erozen section control
+3). The specimen is received in formalin labeled, "Non-sentinel node, right
+axilla", and 
+consists of one lymph node measuring 1.3 cm, which is entirely
+submitted.
+Summary of sections:
+BLN - bisected lymph node
+4). The specimen is received in formalin labeled, "Non-sentinel node, level
+2. right axilla", and consists of one lymph node measuring 1.0 cm, which is
+entirely submitted.
+Summary of sections:
+BLN - bisected lymph node
+5). The specimen is received fresh labeled, "right breast, stitch marks the
+axillary tail" and consists of a breast measuring 24 x 23 x 3.5 cm with
+overlying skin ellipse measuring 16 x 8.5 cm. Situated superiorly on the
+skin surface is an everted nipple measuring 1.2 × 0.9. A suture demarcates
+the axillary aspect. The posterior surface of the breast is inked black,
+anterior blue and the specimen is serially sectioned to reveal a large
+stellate mass measuring 2.4 x 2.2 x 1.8 cm, and located in the upper inner
+quadrant, 2 cm from deep margin, 1.0 cm from anterior skin. Sectioning of
+the axillary aspect reveals no grossly identifiable lymph nodes. 25% of the
+tumor is given to tissue bank. Representative sections are submitted.
+Summary of sections:
+N - nipple
+NB - nipple base
+- skin
+S
+D
+-
+deep margin
+AA
+axillary aspect
+** Continued on next page
+UIQ
+upper inner quadrant
+LIQ
+lower inner quadrant
+UOQ
+upper outer quadrant
+ZOQ
+T-
+lower outer quadrant
+tumor
+Page 4 of 5
+6). The specimen is received fresh labeled, "left breast, stitch marks the
+axillary tail" and consists of a breast measuring 24 x 19 x 2.8 cm with
+overlying skin ellipse measuring 16 x 3.9 cm. Situated centrally on the
+skin surface is an everted nipple measuring 1.5 x 1.1 cm. A suture
+demarcates the axillary aspect. The posterior surface of the breast is
+inked black, anterior blue and the specimen is serially sectioned to reveal
+a recent biopsy site, located in the lower inner quadrant. Sectioning of
+the axillary aspect reveals no grossly identifiable lymph nodes. 25% of
+breast consists of fibrous tissue. Samples are given to tissue bank.
+Representative sections are submitted.
+Summary of sections:
+N - nipple
+NB
+"
+S
+nipple base
+skin
+D - deep margin
+ΚΑ -
+axillary aspect
+UIQ - upper inner quadrant
+LIQ lower inner quadrant
+UOQ - upper outer quadrant
+LOQ - lower outer quadrant
+BxSite recent biopsy site
+Summary of Sections:
+SP: Sentinel node #1 level 1 right axilla (fs)
+Part 1:
+Block
+I
+Part 2:
+Block
+1
+Part 3:
+Block
+1
+Sect. Site
+£sc
+PCs
+1
+SP: Sentinel node #2 level 2 right axilla (fs)
+Sect. Site
+Esc
+PCS
+1
+SP: Non sentinel node, right axilla
+Sect. Site
+BLN
+PCs
+3
+** Continued on next page
+Part 4:
+SP: Non sentinel node, right axilla, level 2
+Block
+1
+Sect. Site
+BLN
+PCs
+2
+Part 5:
+SP: Right breast
+Block
+Sect. Site
+PCs
+1
+AA
+1
+1
+D
+I
+1
+LIQ
+1
+LOQ
+1
+N
+2
+1
+NB
+1
+1
+S
+I
+4
+T
+4
+1
+UIQ
+1
+UOQ
+Part 6: SP: Left breast
+Block
+1
+4
+Sect. Site
+PCs
+^^
+I
+BxSite
+1
+D
+2
+LIQ
+1
+8
+2
+LOQ
+8
+1
+N
+2
+1
+NBB
+1
+1
+S
+1
+2
+UIQ
+8
+2
+800
+8
+4
+Page 5 of 5
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the intraoperative consultation.
+1)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN (0/1).
+SAMB
+2)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN (0/1)
+SAME
+**End of Report **

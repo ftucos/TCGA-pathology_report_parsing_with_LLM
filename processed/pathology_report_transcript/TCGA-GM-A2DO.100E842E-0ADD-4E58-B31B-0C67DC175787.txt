@@ -1,0 +1,143 @@
+DIAGNOSIS
+ICD-0-3
+carcinoma, infiltrating lobular, NUS 852013
+Site: breast, NOS
+C50.9
+5/24/11
+Criteria
+fu 5/24/11
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Brimary foted Bilaterat
+Case is (circle):
+Reviewer initials
+ME
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+d: 519.11
+*******
+MODIFIED REPORT - REVIEW ADDENDUM SECTION
+(A) SENTINEL LYMPH NODE #1, RIGHT, NOT BLUE:
+One lymph node, no tumor present (0/1).
+Cytokeratin immunohistochemical stain
+(B) SENTINEL LYMPH NODE #2, RIGHT:
+One lymph node, no tumor present (0/1).
+negative.
+Cytokeratin immunohistochemical stain is negative.
+(C) SENTINEL LYMPH NODE #3, RIGHT:
+One lymph node, no tumor present (0/1).
+Cytokeratin immunohistochemical stain is negative.
+(D) RIGHT BREAST SEGMENTAL MASTECTOMY:
+INVASIVE LOBULAR CARCINOMA OF THE BREAST, MODIFIED BLACK'S NUCLEAR GRADE 1,
+WELL DIFFERENTIATED.
+INVASIVE LOBULAR CARCINOMA MEASURES 1.7 CM IN MAXIMUM DIMENSION.
+INVASIVE LOBULAR CARCINOMA IS 5 MM FROM THE SUPERFICIAL MARGIN OF
+RESECTION, 5 MM FROM THE LATERAL MARGIN OF RESECTION, AND 5 MM
+FROM THE INFERIOR MARGIN OF RESECTION.
+All other margins widely free of tumor.
+Atypical lobular hyperplasia.
+Fibrocystic changes.
+Changes consistent with prior biopsy site.
+(E) SECOND SUPERFICIAL INFERIOR LATERAL MARGIN:
+Fibrocystic changes.
+ADDITIONAL INFERIOR MARGIN:
+Atypical lobular hyperplasia.
+Fibrocystic changes.
+(G) LEFT BREAST EXCISIONAL BIOPSY:
+Bilateral
+LOBULAR CARCINOMA IN SITU, CLASSIC TYPE.
+Changes consistent with prior biopsy site.
+Fibrocystic changes.
+Entire report and diagnosis completed by
+UUID:100E842E-8ADD-4E58-831B-0C67DC175787
+TCGA-GM-A2D0-01A-PR
+Redacted
+!
+COMMENT
+Prognostic/predictive markers were performed on the patient's diagnostic biopsy
+GROSS DESCRIPTION
+(A) SENTINEL LYMPH NODE #1, NOT BLUE, IN VIVO 259, EX VIVO 332 - A tan-pink lymph node is 0.8 x 0.6 x 0.6 cm. The
+specimen 
+is serially sectioned and two touch preps are performed. Total A.
+*FS/DX: ONE LYMPH NODE, NO TUMOR PRESENT ON TOUCH PREPS.
+SENTINEL LYMPH NODE #2, RIGHT, BLUE, IN VIVO 21, EX VIVO 17 - A tan-pink lymph node with blue dye is 0.8 x 0.5 x
+0.5 cm. The specimen is serially sectioned and two touch preps are performed. Total B.
+*FS/DX: ONE LYMPH NODE, NO TUMOR PRESENT ON TOUCH PREPS.
+(C) SENTINEL LYMPH NODE #3, RIGHT, NOT BLUE, IN VIVO 50, EX VIVO 71 - A tan-pink lymph node is 0.7 x 0.5 x 0.5 cm.
+The specimen is serially sectioned and two touch preps are performed. Total C.
+*FS/DX: ONE LYMPH NODE, NO TUMOR PRESENT.
+(D) RIGHT SEGMENTAL MASTECTOMY, SHORT STITCH SUPERIOR, LONG STITCH MEDIAL - An oriented right segmental
+mastectomy specimen (6.0 x 6.0 x 3.0 cm). The specimen is oriented as short stitch superior, long stitch medial.
+The specimen is serially sectioned sequentially from lateral to medial aspect in seven slices. The cut surface reveals the
+most lateral aspect (slice #1) towards medial aspect (slice #5), a white firm lesion (1.5 x 1.0 cm). The lesion is distant
+approximately 0.5 cm from closest to superficial margin, 0.4 cm from closest lateral margin, 0.4 cm from closest inferior margin,
+1.5 cm from closest superior margin, and 2.0 cm from closest deep margin.
+INK CODE: Superficial - yellow, superior - blue, inferior - green, medial and lateral - red, and deep margin - black.
+SECTION CODE: Slice #1, most lateral aspect, D1-D3, in perpendicular sections; slice #2, D4, tumor including superficial
+margin; D5, superior margin; D6, inferior margin; D7, deep margin; slice #3, D8, tumor including superficial margin; D9, section
+including superior and deep margin; D10, section including superficial and inferior margin; slice #4; D11, tumor including
+superficial margin; D12, section including superior and deep margin; D13, section including inferior and deep margin; D14, section
+including deep margin; slice #5; D15, tumor including superficial and superior margin; D16, section including superior and deep
+margin; D17, section including superficial and inferior margin, slice #6; D18, section adjacent to the tumor, slice #7; D19, D20,
+representative sections in perpendicular, most medial aspect.
+(E) SECOND SUPERFICIAL INFERIOR AND LATERAL MARGINS CLIPS ON TRUE MARGIN, SHORT STITCH ANTERIOR,
+LONG STITCH SUPERIOR - An oriented irregular fragment of adipose tissue 4.0 x 4.0 x 0.8 cm. The specimen is oriented as clip
+on true margin, short stitch anterior, long stitch superior. The specimen is serially sectioned sequentially from superior to inferior.
+INK CODE: Anterior-yellow, true margin-black.
+SECTION CODE: E1-E7, entirely submitted from superior to inferior.
+(F) ADDITIONAL INFERIOR MARGIN CLIPS MARK TRUE MARGIN - An oriented irregular fragment of adipose tissue (3.5 x 2.0
+x 0.8 cm). The specimen is oriented as clip on true margin. The true margin is inked in black. The specimen is serially sectioned
+and entirely submitted in F1-F4.
+(G) LEFT EXCISIONAL BIOPSY, SHORT STITCH SUPERIOR, LONG STITCH MEDIAL - An oriented left excisional biopsy
+specimen (3.0 x 3.0 x 2.0 cm). The specimen is oriented as short stitch superior, long stitch medial
+The specimen is serially sectioned sequentially from medial to lateral aspect in six slices. The cut surface reveals fibrous
+area and also on slice #3, a surgical coil is present, distant approximately 0.5 cm from closest superior margin, 0.7 cm from
+closest superficial margin and 0.5 cm from closest deep margin. No tumor is grossly identified.
+INK CODE: Superficial - yellow, superior - blue, inferior - green, medial and lateral - red, and deep margin - black.
+SECTION CODE: Slice #1, most medial aspect, entirely submitted in perpendicular in G1-G3. Slice #2, G4, superior
+aspect including margin; G5, inferior aspect including margin; slice #3, G6, superior aspect including margin; G7, inferior aspect
+including margin; slice #4, G8, superior aspect, including margin; G9, inferior aspect, including margin; slice #5, G10, superior
+aspect including margin; G11, inferior aspect including margin; slice #6, most lateral aspect; G12, G13, entirely submitted in
+perpendicular.
+CLINICAL HISTORY
+Bilateral segmental.
+SNOMED CODES
+"Some tests reported here may have been developed and performance characteristics determined by
+3. These tests have not been specifically cleared or approved by the U.S. Food and Drug Administration."
+Released by:
+ADDENDUM
+Addendum completed by
+Start of ADDENDUM
+This report is issued to give immunohistochemistry results. Immunohistochemical staining is performed on a representative
+formalin-fixed, paraffin-embedded section of INVASIVE LOBULAR CARCINOMA, right breast, block D4.
+MARKER
+RESULTS
+% POSITIVE SCORE
+Estrogen Receptor
+Positive
+90 %
+N/A
+Progesterone Receptor
+Positive
+80 %
+N/A
+HER-2/neu
+overexpression
+Negative
+0 %
+Ki-67
+High (>35%)
+65 %
+N/A
+FOOTNOTE
+Estrogen receptor was assessed by immunohistochemistry using antibody 6F11 (
+☑sogesterone receptor was assessed by immunohistochemistry using antibody PgR1294
+HER-2/neu was assessed by immunohistochemistry using antibody AB8
+Ki-67 was assessed by immunohistochemistry using antibody MIB1
+Released by:
+-END OF REPORT------

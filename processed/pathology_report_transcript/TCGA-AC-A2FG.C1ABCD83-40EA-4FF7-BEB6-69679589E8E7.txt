@@ -1,0 +1,106 @@
+UUID:C1ABCD83-40EA-4FF7-BEB6-69679589E8E7
+TCGA-AC-A2FG-01A-PR
+SPECHIEN INFORMATION
+Collected
+Received:
+Reported:
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+Accession #:
+Acct/Reg#:
+Redacted
+DIAGNOSIS:
+A. Left breast and axillary contents, radical mastectomy:
+Tumor Characteristics:
+1. Histologic typer Invasive lobular carcinoma.
+2. Size: 2.1 cm linear measurement as measured on slide A3.
+3. Elston modification of Bloom-Richardson grade:
+a. Architectural Score:3/3.
+b. Nuclear Score: 3/3.
+C. Mitotic Score: 1/3.
+d. Total score: 7/9 = Grade: 2.
+4. Lymphovascular space invasion: No.
+5.
+Skin Involvement: No.
+6.
+Are microcalcifications identified in association with tumor: No.
+7.
+In situ component: Absent
+Surgical Margin Status:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+w 4/10/11
+E
+AF
+Yes
+Ne
+DISQUALIFIED
+ICD-0-3
+carcinoma, infiltrating lobular, Nos 8520/3
+Site: breast, NOS
+050.9
+سار
+6/10/11
+1. Is tumor transected: No.
+2. Tumor distance to closest margin: 0.7 cm from deep margin
+Lymph Node Status:
+1. Total number of lymph nodes examined within specimen A: Ten.
+2. Total number of lymph nodes containing metastatic carcinoma by gross exam or light microscopy: One.
+3. Size of largest metastasis: 0.25 cm.
+4. Extra-capsular extension of tumor: Yes.
+Other:
+1. Other significant findings: Focus of fibrosis and hemorrhage compatible with prior biopsy site; mild fibrocystic change featuring apocrine metaplasia;
+focal florid ductal hyperplasia.
+B. Lymph node, left axillary, excision:
+Isolated single cell micrometastases identified with immunohistochemistry (pancytokeratin), not identified on H&E.
+Electronic Signature: ¨
+COMMENTS:
+This case has been reviewed by
+Breast carcinoma prognostic Indicator analysis was performed on the blopsy specimen
+will not be obtained unless requested by the primary clinician.
+A repeat of this analysis on the present specimen
+No definite tumor is identified with the H&E stained slide of the permanent control of the frozen section material (Specimen B - Left axillary node).
+PTNM: T2N1MX.
+CLINICAL INFORMATION
+CLINICAL HISTORY:
+Preoperative Diagnosis:
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Left breast and axillary contents
+B. Axillary node (left)
+CLINICAL INFORMATION
+SPECIMEN DATA
+GROSS DESCRIPTION:
+A labeled left breast and axillary contents is a 581 gram left modified radical mastectomy specimen, 23.8 x 11.5 x 3.5 cm. The specimen is
+partially 
+covered by a 21.1 x 9.9 cm ellipse of tan 
+skin
+. 
+Eccentrically located is a non-retracted nipple surrounded by areola complex, 2.8 cm in diameter.
+The specimen is Inked and sectioned to display a circumscribed tan white 
+fibrous appearing nodule, 2.9 x 2.8 x 2.7 cm. The lesion is 0.7 cm from the
+deep inked margin.
+The remainder of the cut surface displays at least 50% Interspersed blue-pink fibrous tissue. Additional lesions are not identified.
+The axillary contents measure 8.2 x 5.5 x 1.7 cm. On sectioning and palpation, nine lymph nodes are idenunted ranging from 0.3 to 1.4 cm in greatest
+dimension.
+Representative sections are submitted as follows: 1--nipple; 2-lesion to inked margin; 3 and 4-additional sections of lesion; 5--uninvolved tissue lower
+outer quadrant; 6--upper outer quadrant; 7-upper Inner 
+quadrant; 8--lower inner quadrant; 9 and 10--Individual nodes in each cassette; 11-one node
+bisected; 12-two whole nodes. Two cassettes for research
+casselle
+MB/map
+©labeled axillary node left is a previously bisected tan yellow lymph node received for frozen, 1.5 x 0.6 x 0.4 cm, entirely resubmitted in one
+INTRA-OPERATIVE CONSULTATION:
+FSB: 'No definite tumor Identified' per |
+MICROSCOPIC EXAMINATION:
+Microscopic examination performed.
+;

@@ -1,0 +1,55 @@
+UUID:BCDA7E7B-3968-4809-A0B3-28C2C22DC908
+TCGA-E9-A54X-01A-PR
+Redacted
+Gross Description: There is a fragment of the breast tissue with a tumor up to 1 cm in its diameter. On
+the edge of the breast tissue there are three isolated lymph nodes.
+Microscopic Description: Mucinous carcinoma of the breast, G-2. Two examined lymph nodes
+demonstrated sinus histiocytosis.
+IHC-stainings: Estrogen receptor - positive reaction 98% 3+; Progesterone receptor - positive reaction
+95% 3+; Her-2/neu - negative reaction; Ki67 - 12%.
+Diagnosis Details: Tumor Features: Indeterminate, Tumor Extent: T1 tumor size 2 cm or less, Venous
+Invasion: Absent, Margins: Absent, Treatment Effect:
+Comments:
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Lumpectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 1x1 x 1 cm
+Grossly evident lesion: Yes
+Histologic type: Adenocarcinoma, mucinous type
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/2 positive for metastasis (Axillary 0/2)
+ICD-0-3
+adenocarcinoma, mucinous, Nos 8480/3
+Site: brust, NUS
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+050.9
+سال
+11/20/12
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Tumor Features: Indeterminate, Tumor Extent: T1 tumor size 2 cm or
+less, Venous Invasion: Absent, Margins: Absent, Treatment Effect: IHC-stainings: Estrogen receptor -
+positive reaction 98% 3+; Progesterone receptor - positive reaction 95% 3+; Her-2/neu - negative
+reaction; Ki67 - 12%.
+Comments: Breast-left
+Now 11/20/12
+Yes
+alter
+Dinosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Palignancy History
+Dual/Synchronous Primary Noted
+Case is (circ
+Reviewer In
+QUALIFIED
+DISQUALIFE
+te Reviewed:

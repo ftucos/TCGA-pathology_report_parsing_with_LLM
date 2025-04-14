@@ -1,0 +1,231 @@
+Clinical Diagnosis & History:
+year old female with stage IV breast carcinoma, debulking surgery.
+Specimens Submitted:
+1: SP: Right breast and axillary contents level 1
+DIAGNOSIS:
+1.
+BREAST, RIGHT; MODIFIED RADICAL MASTECTOMY:
+INVASIVE CARCINOMA, HISTOLOGIC GRADE II/III (MODERATE TUBULE
+FORMATION
+) TO HISTOLOGIC GRADE III
+/III (SLIGHT OR NO TUBULE FORMATION),
+NUCLEAR GRADE III/III (MARKED 
+VARIATION IN SIZE AND SHAPE), MEASURING AT
+LEAST 10 CM IN LARGEST DIMENSION 
+GROSSLY. INVASIVE CARCINOMA SHOWS
+MICROPAPILLARY FEATURES. FOCAL EXTRACELLULAR MUCIN IS ALSO NOTED.
+- DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID CRIBRIFORM
+MICROPAPILLARY AND FLAT TYPES, WITH 
+HIGH NUCLEAR GRADE, AND EXTENSIVE
+NECROSIS.
+- LOBULAR INVOLVEMENT BY DCIS IS PRESENT.
+- THE DCIS CONSTITUTES LESS THAN OR EQUAL TO 25% OF THE TOTAL TUMOR MASS,
+AND IS PRESENT ADMIXED WITH AND AWAY FROM THE INVASIVE COMPONENT.
+-
+THE INVASIVE CARCINOMA IS LOCATED IN ALL FOUR QUADRANTS.
+- THE DCIS IS LOCATED IN ALL FOUR QUADRANTS.
+-
+-
+-
+THE NIPPLE IS INVOLVED BY INVASIVE CARCINOMA.
+CALCIFICATIONS ARE PRESENT IN BOTH THE IN SITU AND INVASIVE CARCINOMA.
+VASCULAR INVASION IS PRESENT.
+- THE SKIN IS INVOLVED BY INVASIVE CARCINOMA BY DIRECT EXTENSION INTO THE
+DERMIS.
+THE ATTACHED SKELETAL MUSCLE IS EXTENSIVELY INVOLVED BY INVASIVE CARCINOMA
+BY 
+DIRECT EXTENSION.
+- INVASIVE CARCINOMA IS CLOSE (LESS THAN 0.1 CM) FROM THE NEAREST DEEP
+MARGIN.
+-
+THE NON-NEOPLASTIC BREAST TISSUE IS UNREMARKABLE.
+FOCAL CHANGES OF PRIOR PROCEDURE ARE NOTED IN THE AXILLARY TAIL.
+METASTATIC CARCINOMA IS 
+PRESENT IN TWO OUT OF TWO LEVEL I LYMPH NODES
+(
+2/2). ADDITIONAL SECTIONS OF THE 
+AXILLARY TISSUE HAVE BEEN SUBMITTED AND
+THE FINDINGS WILL BE REPORTED IN AN 
+ADDENDUM.
+- NUMEROUS FOCI OF METASTATIC CARCINOMA ARE NOTED IN THE AXILLARY SOFT
+TISSUE, WITH THE LARGEST MEASURING 
+AT LEAST 1.4 CM.
+UUID:5EFC16F4-7FC7-479E-93F7-AEDC2D350A22
+TCGA-A0-A035-01A-PR
+J
+Redacted
+**Continued on next page **
+ICD-0-3
+carcinoma, infiltrating duct mixed w/other typ
+Site: breast, Nos
+€50.9
+lu 10/24/11
+852313
+as typer
+Criteria
+Diagnosis Discrepancy
+Primary Tumc Site Discrepancy
+HIPAA Discrepancy
+nor Malignancy History
+Dual/Synchronous Primary Natal
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed
+Yes
+DISQUALIFIED
+w 10/24/4
+No
+Immunohistochemical stains were performed on formalin-fixed tissue with
+the following results for invasive carcinoma (block 1-8):
+intensity
+ESTROGEN RECEPTOR
+PROGESTERONE RECEPTOR
+HER2
+90% nuclear staining with strong
+(5% of invasive tumor cells exhibit complete membranous staining;
+Uniformity of staining: absent;
+Equivocal (focal 2+). FISH will be performed.
+Negative (no nuclear staining)
+Homogeneous, dark circumferential pattern: absent)
+The carcinoma is positive for E-cadherin, supporting lobular
+differentiation.
+Comment:
+Controls are satisfactory. Ventana'
+an FDA-approved rabbit monoclonal primary antibody (clone 4B5) directed
+against the internal domain of the c-erbB-2 oncoprotein (HER2) for
+immunohistochemical detection of HER2 protein overexpression in breast
+■ PATHWAY anti-HER-2/neu is
+cancer tissue routinely processed for histologic evaluation. The HER2 test
+results are reported in accordance with the ASCO/CAP guideline
+recommendations for HER2 testing in breast cancer (J Clin Oncol 2007;
+25 (1): 118-145).
+approved.
+The ER and PR rabbit monoclonal antibodies are also FDA
+Some of the immunohistochemistry and ISH tests were developed and their
+performance characteristics were determined by the Department of Pathology.
+They have not been cleared or approved by the US Food and Drug
+Administration. The FDA has determined that such clearance or approval is
+not necessary. These tests are used for clinical purposes. They should not
+be regarded as investigational or for research. This laboratory is certified
+under the Clinical Laboratory Improvement Amendments of 1988 (CLIA 88) as
+qualified to perform high complexity clinical laboratory testing.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+M.D.
+M.D.
+'
+1) The specimen is received fresh labeled, "right breast and axillary
+contents level 1",
+axillary contents. The breast measures 20 x 15 x 5 cm with overlying skin
+ellipse measuring 18 x 7 x 0.2 cm. Situated centrally on the skin surface is
+It consists of a breast with attached
+a fixed, and retracted nipple measuring 1.5 x 1.0 x 1.0 cm. The surrounding
+skin is markedly thickened (up to 0.6 cm). A suture demarcates the axillary
+contents which measures 7 x 5 x 2 cm. The posterior surface of the breast is
+** Continued on next page **
+N
+inked black and the anterior blue. Part of the posterior surface of the
+breast is covered by dark red skeletal muscle, measuring 11 x 4 x 0.5 cm.
+'The specimen is serially sectioned to reveal an irregular tumor bed (10 *
+8.3 x 5.1 cm) with poorly defined white, firm and tan areas. The tumor bed
+occupies almost the entire breast volume, extending throughout all four
+quadrants. The tumor bed is located 0.2 cm from the posterior margin, 0.3 cm
+from the anterior margin, and 0.5 cm from the skeletal muscle. The remaining
+breast tissue shows yellow fatty areas with foci of fibrosis. The axillary
+tissue is dissected to reveal 13 possible lymph nodes, ranging in size from
+0.4 cm to 1.2 cm. Representative sections are submitted. All dissected lymph
+nodes are entirely submitted. The specimen is photographed. Tissue is
+submitted to TPS.
+Summary of sections:
+N nipple, nipple base and tumor
+S -
+thickened skin
+PM - posterior margin
+AM -
+anterior margin
+DSM deep skeletal muscle
+T-
+tumor central region and closest margins, continuous cross sections,
+taken from medial to lateral
+UIQ
+-
+upper inner quadrant
+LIQ
+UOQ
+LOQ
+L1
+-
+-
+-
+lower inner quadrant
+upper outer quadrant
+-
+lower outer quadrant
+axilla, level one lymph nodes
+AX axillary tail, entirely submitted
+Summary of Sections:
+Part 1: SP: Right breast and axillary contents level 1
+Block
+Sect. Site
+PCs
+1
+AM
+1
+11
+ax
+11
+1
+DSM
+1
+9
+L1
+9
+2
+LIQ
+2
+2
+LOQ
+2
+3
+N
+3
+1
+PM
+1
+1
+S
+1
+10
+T
+10
+2
+2
+UIQ
+UOQ
+2
+2
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Status:
+Signed Out
+** Continued on next page **
+3
+Date Complete:
+Date Reported:
+.
+Addendum Diagnosis
+PART #1
+RIGHT BREAST AND AXILLARY CONTENTS:
+By: 1
+THE REMAINING AXILLARY TISSUE IS ENTIRELY SUBMITTED.
+NODES ARE IDENTIFIED.
+.MD
+**
+End of Report **
+NO ADDITIONAL LYMPH
+4

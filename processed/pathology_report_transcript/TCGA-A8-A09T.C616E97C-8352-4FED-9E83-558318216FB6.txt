@@ -1,0 +1,33 @@
+смитеты, лости,
+Site: Breast, NOS
+050,9
+1/19/11 for
+Diagnosis:
+3. Left-sided breast resection material with a 1.8 cm moderately differentiated tubulolobular
+breast carcinoma with an equally sized component of intraductal tumor propagation 
+of the
+lobular tumor component and a minimum margin of 5 mm at 12 o'clock and over 10 
+mm 
+at
+3 o'clock and about 1 mm at 6 o'clock (well over 10 mm at 9 o'clock) without 
+any evidence
+of invasion of the lymph vessels.
+Tumor classification:
+M-8500/3, G 2, pT1c, pL0, pSN0 (0/2), pMx, stage I. R 0.
+UUID:C616E97C-8352-4FED-9E83-558318216FB6
+TCGA-A8-A09T-01A-PR
+Redacted
+Yes
+No 1
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer til
+☐ QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+tw

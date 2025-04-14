@@ -1,0 +1,34 @@
+3
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+1/21/1 for
+Path
+Site: Breast, Central C50.1
+portion
+CQCF
+Site: Breast, Nos
+050.9
+Diagnosis:
+1. Ablated (right) breast sample with a moderately differentiated invasive ductal
+carcinoma (tumor diameter: 3.0 cm; minimum distance to dorsal margin 0.3 cm, other
+margins are 1 cm and remain free).
+In conclusion, this is a moderately differentiated invasive ductal carcinoma.
+Concluding tumor classification: NOS, G II, pT2N0(sn)LOVORO
+Redacted
+UUID:DE25BF82-5F7A-489B-BFC1-9386C44E7D62
+TCGA-
+AB-A081-01A-PR
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Trior Malignancy History
+Dual/Synchronous Primary Noted
+Case (crcle):
+Revieve initials.
+QUALIFIED
+_Date Reviewed:
+tw
+DISQUALIFIED

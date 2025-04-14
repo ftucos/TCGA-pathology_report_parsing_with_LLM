@@ -1,0 +1,246 @@
+MRN:
+Patient:
+Admission Date:
+Ordering Physician:
+Collected Date/Time:
+Received Date/Time:
+UUID:DD2B9E47-8C67-4599-B0B6-0D30DE727855
+TCGA-S3-AA15-01A-PR
+Redacted
+Surgical Pathology Report
+Sex/DOB:
+Discharge Date:
+Female
+Accession Number:
+Final Diagnosis
+A. RIGHT SENTINEL LYMPH NODE, EXCISION:
+- METASTATIC CARCINOMA TO ONE LYMPH NODE (1/1).
+- THE FROZEN SECTION DIAGNOSIS IS CONFIRMED.
+SEE SPECIAL STAINS AND SYNOPTIC REPORT.
+B. RIGHT BREAST, MASTECTOMY WITH AXILLARY LYMPH NODES DISSECTION:
+-
+INVASIVE DUCTAL CARCINOMA, GRADE 3, MEASURING 1.1 CM, EXTENDING TO 5 MM FROM THE CLOSEST
+POSTERIOR RESECTION MARGIN, WITH LYMPHOVASCULAR INVASION.
+DUCTAL CARCINOMA IN-SITU, NUCLEAR GRADE 3, WITH FOCAL NECROSIS, EXTENDING TO MORE THAN 5
+MM FROM THE CLOSEST POSTERIOR RESECTION MARGIN.
+-
+•
+MICROMETASTATIC CARCINOMA (0.21 MM) TO 1 OF 12 AXILLARY LYMPH NODES (1/12).
+-
+HEALING BIOPSY SITE WITH ORGANIZING HEMATOMA.
+SKIN AND NIPPLE WITH SCLEROSING ADENOSIS.
+SEE SYNOPTIC REPORT AND SPECIAL STAINS.
+(Electronic signature)
+Verified:
+Synoptic Report
+SPECIMEN:
+Total breast (including nipple and skin)
+PROCEDURE:
+Total mastectomy (including nipple and skin)
+LYMPH NODE SAMPLING:
+Axillary dissection (partial or complete dissection)
+SPECIMEN INTEGRITY:
+Single intact specimen (margins can be evaluated)
+SPECIMEN SIZE:
+Greatest dimension: 30 cm
+ICDO-3
+Carcinoma, infiltrating duct NOS
+CLCE
+Site Breast NOS
+patta
+0850013
+C50.9
+⑤Breast, repper immer quadrant
+65072
+JW 2/24/14
+Printed by:
+Copied to:
+Distribute to:
+Page 1 of 5
+Print Date/Time:
+Patient Locations:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Sex/DOB: Female
+Surgical Pathology Report ⠀⠀⠀⠀
+Accession Number:
+Additional dimensions: 22 X 7 cm
+SPECIMEN LATERALITY:
+Right
+TUMOR SITE: INVASIVE CARCINOMA:
+Upper inner quadrant
+TUMOR SIZE: SIZE OF LARGEST INVASIVE CARCINOMA:
+Microinvasion only (<=0.1 cm)
+Greatest dimension of largest focus of invasion over 0.1 cm: 1.1 cm
+TUMOR FOCALITY:
+Single focus of invasive carcinoma
+MACROSCOPIC AND MICROSCOPIC EXTENT OF TUMOR:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis.
+DUCTAL CARCINOMA IN SITU (DCIS):
+DCIS is present
+Extensive intraductal component (EIC) negative
+NUCLEAR GRADE:
+Grade III (high)
+NECROSIS:
+Present, focal (small foci or single cell necrosis)
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+Invasive ductal carcinoma (no special type or not otherwise specified)
+GLANDULAR (ACIÑAR)/TUBULAR DIFFERENTIATION:
+Score 3: <10% of tumor area forming glandular/tubular structures
+NUCLEAR PLEOMORPHISM:
+Score 3: Vesicular nuclei, often with prominent nucleoli, exhibiting marked variation in size and shape, occasionally with very
+large and bizarre forms
+MITOTIC COUNT:
+Score 2
+Number of mitoses per 10 high-power fields: 17
+Diameter of microscope field: 0.55 mm
+OVERALL GRADE:
+Grade 3: scores of 8 or 9
+MARGINS:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: POSTERIOR 5 mm
+Distance from anterior margin: >5 mm
+Margins uninvolved by DCIS (if present)
+Distance from anterior margin: >5 mm
+Distance from posterior margin: >5 mm
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE BREAST:
+No known presurgical therapy
+TREATMENT EFFECT: RESPONSE TO PRESURGICAL THERAPY: IN THE LYMPH NODES:
+No known presurgical therapy
+LYMPH-VASCULAR INVASION:
+Present
+Page 2 of 5
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+DERMAL LYMPH-VASCULAR INVASION:
+Not identified
+LYMPH NODES:
+Number of sentinel lymph nodes examined: 1
+Total number of lymph nodes examined (sentinel and nonsentinel): 13
+Number of lymph nodes with macrometastases (>0.2 cm): 1
+Number of lymph nodes with micrometastases (>0.2 mm to 0.2 cm and/or >200 cells): 1
+Number of lymph nodes with isolated tumor cells (less than or equal to 0.2 mm and less than or equal to 200 cells): 0
+Size of largest metastatic deposit: 0.9 CM
+EXTRANODAL EXTENSION:
+Not identified
+METHOD OF EVALUATION OF SENTINAL LYMPH NODES:
+Hematoxylin and eosin (H&E), one level
+PRIMARY TUMOR (INVASIVE CARCINOMA (PT):
+pT1c: Tumor >10 mm but less than or equal to 20 mm in greatest dimension
+REGIONAL LYMPH NODES (PN):
+pN1a: Metastases in 1 to 3 axillary lymph nodes, at least 1 metastasis greater than 2.0 mm
+DISTANT METASTASIS (M):
+Not applicable
+ESTROGEN RECEPTOR:
+Performed on another specimen
+Specimen (accession number):
+PROGESTERONE RECEPTOR:
+Performed on another specimen
+Specimen (accession number):
+HER2/NEU IMMUNOPEROXIDASE STUDIES:
+Performed on another specimen
+Specimen (accession number):
+MICROCALCIFICATIONS:
+Not identified
+CLINICAL HISTORY:
+Mass or architectural distortion
+Source of Specimen
+Lymph Nodes, Rt. Sentinel
+A
+B
+RT Breast and Axillary Nodes I & II
+Clinical Information
+African American female with right breast cancer, silk marks axilla upper inner quadrant
+PRE-OP DIAGNOSIS: Right breast cancer
+POST-OP DIAGNOSIS: Same
+TYPE OF PROCEDURE: Right breast mastectomy and Sentinel node biopsy
+Gross Description
+Page 3 of 5
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+Accession Number:
+Sex/DOB: Female
+Specimen is received in 2 parts:
+A.The specimen is labeled "RIGHT SENTINEL NODE" and is received unfixed for frozen section diagnosis. (The specimen is in the
+formalin more than 6 hours and less than 48 hours). It consists of a large lymph node measuring 3.5 x 2 x 2 cm. Sectioned and
+entirely submitted in cassettes FSA 1-FSA3.
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 27 minutes
+B. The specimen is labeled "RIGHT BREAST AND AXILLARY NODES I AND II" and is received in formalin. (The specimen is
+in the formalin more than 6 hours and less than 48 hours). It consist of mastectomy specimen with lymph nodes weighing 1150
+grams and measuring 30 x 22 x 7 cm with brown skin ellipse measuring 21 x 10 cm, containing grossly unremarkable 2.0 cm in
+diameter nipple. The skin is tagged with a black stitch designating the axilla. The posterior margin is composed of smooth fascia
+which is inked black. The breast is sliced in sagittal planes revealing a 5 x 5 x 4 cm hemorrhagic cavity within the upper inner-central
+quadrants which is 0.7 cm away from the closest deep fascial margin of resection. The remaining parenchyma reveals unremarkable
+yellow mammary fat with streaks of white-gray mammary parenchyma. Representative sections are submitted as follows:
+B1 = one lymph node, bisected
+B2 = one lymph node, bisected
+B3 = one lymph node, bisected
+B4 = 5 lymph nodes
+B52 lymph nodes, one bisected.
+B6 = one lymph node, bisected
+B7 = one lymph node, bisected
+B8
+one lymph node, bisected
+B9-B12 = upper inner quadrant-central mass
+B13 = mass closest to deep fascial margin of resection
+B14 = nipple
+B15 = upper inner quadrant
+B16 = upper outer quadrant
+B17
+lower outer quadrant
+B18 = lower inner quadrant
+B19-28 additional sections from biopsy cavity.
+Time specimen was removed from the patient:
+Time specimen was placed in formalin :
+Ischemic time: 18 minutes
+Dictated by:
+Intra Operative Consultation
+Right sentinel lymph node: one lymph node, positive for carcinoma (1/1)..
+Special Stains / Slides
+Immunohistochemical studies were performed on formalin fixed, paraffin-embedded tissue (Block B2, B5, B6) with adequate positive
+and negative control sections.
+Immunostains for keratins AE1/AE3 are negative for carcinoma.
+Page 4 of 5
+Print Date/Time:
+MRN:
+Patient:
+Collected Date/Time:
+Received Date/Time:
+Surgical Pathology Report
+The performance characteristics of these antibodies were determined by the
+Accession Number:
+Sex/DOB:
+Female
+They have not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform high-complexity clinical laboratory testing.
+Tissue Code
+Criteria
+1 / 12/11/13
+Yes
+No
+Page 5 of 5
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 12/11/2013

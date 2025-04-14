@@ -1,0 +1,125 @@
+Final Surgical Pathology Report
+UUID:F969E3E4-0053-44E9-858C-BEFDBD62C512
+TCGA-A7-A425-01A-PR
+Redacted
+Procedure:
+Diagnosis
+A. Lymph node, right axillary sentinel node, excision:
+One lymph node positive for metastatic carcinoma (1/1).
+B. Breast, right, excision:
+Invasive lobular carcinoma (see tumor characteristics in the
+microscopic description).
+C.
+Lymph nodes, right axillary contents, excision:
+Ten of sixteen lymph nodes positive for metastatic carcinoma (10/16).
+D.
+Lymph node, highest apical node, excision:
+One of two lymph nodes positive for metastatic carcinoma (1/2).
+Microscopic Description:
+Invasive carcinoma:
+Histologic grade:
+Histologic type: Lobular
+Overall grade:2
+Architectural score: 3
+Nuclear score: 2
+Mitotic score: 1
+Greatest dimension (PT) 7.5 cm, pT3
+ICD03
+Carcinoma, infiltrating, lobular, NOS
+852013
+Site: breast, Nos (50.9
+Specimen margins: Tumor is more than 2 cm from the deep margin of
+excision and 1 cm from the superficial soft tissue margin.
+Vessel invasion: Present
+Nipple (Paget's). Tumor invades into the dermis beneath the
+surface of the nipple: Paget's disease is not identified.
+Ductal carcinoma in situ: Not identified
+7-23-17820
+Description of non-tumorous breast: Biopsy site changes are identified.
+Fibrocystic changes.
+Lymph nodes:
+Number of positive nodes of total: Twelve lymph nodes positive for
+metastatic carcinoma (12/19).
+Size of largest metastasis: 2.9 cm
+Extracapsular extension (present/absent): Present
+PN: риза
+Distant metastasis (PM): pMX
+Prognostic markers: Previously performed
+Specimen
+A. Right breast axillary sentinel node
+B. Right breast stitch at 12 o'clock
+C. Right axillary contents
+D. Highest apical node
+Clinical Information
+Right breast cancer
+Intraoperative Consultation
+A) Lymph node, right axillary sentinel node, excision: One lymph node
+positive for metastatic carcinoma (1/1).
+Gross Description
+A.
+Received fresh labeled "right axillary sentinel node hot not blue"
+The
+is a lymph node that measures 2.9 x 1.7 x 1.4 cm in dimension.
+lymph node has a firm consistency and shows yellowish discoloration.
+representative section from the node is submitted for frozen section.
+The remaining node is sectioned and entirely submitted for permanent
+section in 6 cassettes.
+B.
+An
+A
+There
+Received fresh for tissue procurement labeled "right breast" is a
+1220 g, 29.0 cm (medial to lateral) by 23.5 cm (superior to inferior)
+by 5.8 cm (anterior to posterior) soft, lobulated tan gold-like portion
+of fibroadipose tissue in keeping with breast, designated as right per
+requisition slip and container and oriented by a suture as stated
+previously. A 17.5 x 5.8 cm wrinkled tan-white skin ellipse with a
+flat 1.3 x 1.3 cm nipple is present along the anterior aspect.
+indurated focus is present subjacent to the central superior portion of
+the skin, corresponding to the junction of the upper inner and outer
+The
+quadrants. The anterior surface in this area is inked blue.
+intact deep margin is inked black and the specimen is sectioned.
+is a central, 7.5 cm (superior to inferior) by 5.5 cm (medial to
+lateral) by 4.0 cm (anterior to posterior) rubbery tan-white apparent
+tumor mass is present (corresponding to the central junction of the 4
+quadrants). The lesion is present within 3.5 cm of the inked deep
+margin and appears to approach the anterior surface to within 2 cm.
+portion of tumor and a portion of normal parenchyma are submitted for
+tissue procurement as requested. The cut surfaces throughout the
+remainder of the specimen consist predominantly of soft lobulated tan
+gold adipose tissue with a scant amount of interspersed delicate
+tan-white fibrous tissue. No additional mass lesion or abnormality is
+identified.
+A
+Summary: 1 - deep margin subjacent to the lesion, 2 - lesion to
+anterior surface, 3 through 7 - lesion to adjacent parenchyma, 8 -
+random upper outer quadrant, 9 - upper inner quadrant, 10 - lower inner
+quadrant, 11 - lower outer quadrant, 12 - nipple
+C. Received fresh and subsequently fixed in formalin labeled "right
+axillary contents "is a 12.0 x 7.5 x 3.0 cm aggregate of yellow lobular
+fatty tissue fragments which are not orientated. The specimens are
+palpated to identify lymph nodes which range from 0.1 cm and 2.5 cm in
+greatest dimension.. The lymph nodes are entirely submitted as follows:
+1 - 1 possible lymph node, 2 - 6 possible lymph nodes, 3 - 6 possible
+lymph nodes, 4 - 2 possible lymph nodes, 5 - 1 possible lymph node, 6 -
+1 possible lymph node.
+D. Received fresh and subsequently fixed in formalin labeled "highest
+apical node "is a 3.0 x 2.0 x 0.4 cm aggregate of yellow lobular fatty
+tissue fragment. The specimen is palpated to identify 2 possible lymph
+nodes present. The lymph nodes are 0.5 cm and 0.2 cm in greatest
+dimension. The specimens are entirely submitted as follows: 1 - lymph
+nodes, 2 - remaining fat.
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronus Primary Noted
+Case is (circle):
+Reviewer Initials
+☑QUALIFIED 7 DISQUALIFI
+Date Reviewed:
+3/17/18

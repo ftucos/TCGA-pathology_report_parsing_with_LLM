@@ -1,0 +1,175 @@
+TSS:
+Carcinoma, infiltrating duct, Nos
+850013
+12/8/10
+کیا
+Path Site Code: breast, upper outer quadrant C50.4
+CQCF
+Site: breast, Nos C50.9
+UUID:957AC7B0-D613-4F97-BBBC-930EB95EE2E4
+TCGA-E2-A14Y-01A-PR
+Redacted
+SPECIMENS:
+A. SLN #1 RIGHT AXILLA
+B. SLN #2 RIGHT AXILLA
+C. SLN #3 RIGHT AXILLA
+D. SLN #4 RIGHT AXILLA
+E. RIGHT BREAST
+F. ADDITIONAL AXILLARY TAIL RIGHT BREAST
+G. SCALP LESION
+SPECIMEN(S):
+A. SLN #1 RIGHT AXILLA
+B. SLN #2 RIGHT AXILLA
+C. SLN #3 RIGHT AXILLA
+D. SLN #4 RIGHT AXILLA
+E. RIGHT BREAST
+F. ADDITIONAL AXILLARY TAIL RIGHT BREAST
+G. SCALP LESION
+GROSS DESCRIPTION:
+A. SLN #1 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "SLN #1 right axilla" is a tan pink lymph node 2.5 x 1.5 x
+1.1cm. The specimen is sectioned and a touch prep is taken. Toto A1-A2.
+B. SLN #2 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "SLN #2 right axilla" is a tan pink lymph node 0.8 x 0.5 x
+0.4cm. The specimen is sectioned and a touch prep is taken. Toto B1.
+C. SLN #3 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "SLN #3 right axilla" is a tan pink lymph node 0.7 x 0.5 x
+0.2cm. The specimen is sectioned and a touch prep is taken. Toto C1.
+D. SLN #4 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "SLN #4 right axilla" are two tan pink lymph nodes 1.1cm
+and 0.6cm in greatest dimension. The specimens are sectioned and a touch prep is taken.
+D1: 1 lymph node
+D2: 1 lymph node
+E. RIGHT BREAST
+Received fresh labeled with the patient's name and "right breast" is an oriented 466g, 17.5 x 16 x 2.5 cm
+mastectomy with a 7.5 x 3.2 cm skin ellipse and 1.5 cm everted nipple. Ink code: Anterior/superior-blue,
+anterior/inferior-orange, posterior-black. The specimen is serially sectioned into 12 slices from lateral to medial with
+nipple in slice 8 revealing a 2.7 x 2.5 x 2.5 cm white-tan firm infiltrating mass in the mid upper breast in slices 7-9 that
+is closest to the anterior margin at 0.5 cm. There is a clip located within the mass. Adjacent to the mass is a biopsy
+site with biopsy clip and surrounding granular tissue spanning - 4 cm in slices 4-7 in the upper outer quadrant.
+Tissue is procured. Representatively submitted:
+E1: slice 7, mid anterior including bisected mass
+E2: slice 7, mid posterior including bisected mass (clip)
+E3: slice 7, fibrous tissue inferior to mass
+E4: slice 8, margin deep to mass
+E5: slice 8, mass
+E6: slice 9, mass, UIQ
+E7: slice 6, mid-superior
+E8: slice 6, mid anterior (with clip)
+E9: slice 5, mid superior
+E10: slice 5, deep margin
+E11: slice 4, upper anterior margin
+E12: slice 4, lower anterior margin
+E13: slice 3, superior mid
+E14: slice 2, midsection
+E15: slice 4, lower outer quadrant
+E16: slice 5, lower outer quadrant
+E17: slices 7-8, lower inner quadrant
+E18: slices 9-10, lower inner quadrant
+E19: nipple
+E20: nipple and skin
+F. ADDITIONAL AXILLARY TAIL RIGHT BREAST
+Received in formalin labeled with the patient's identification and "additional axillary tail right breast" are multiple tan
+pink soft tissue fragments aggregating to 3 × 2 × 1cm. No lymph node is grossly identified. Toto F1-F3.
+G. SCALP LESION
+Received in formalin labeled with the patient's identification and "scalp lesion" is a tan white firm well circumscribed
+mass 1.4 x 1.3 x 1cm. The resection margin is inked black and the specimen is trisected. Toto G1.
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1, RIGHT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+B. SENTINEL LYMPH NODE #2, RIGHT AXILLA, BIOPSY:
+-
+ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+C. SENTINEL LYMPH NODE #3, RIGHT AXILLA, BIOPSY:
+- ONE LYMPH NODE, NO TUMOR SEEN (0/1).
+D. SENTINEL LYMPH NODE #4, RIGHT AXILLA, BIOPSY:
+-
+TWO LYMPH NODES, NO TUMOR SEEN (0/2).
+E. BREAST, RIGHT, MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, SBR GRADE 3, WITH FOCAL SQUAMOUS
+FEATURES AND NECROSIS.
+-
+TUMOR MEASURES 2.7 CM.
+MARGINS, NO TUMOR SEEN.
+- DUCTAL CARCINOMA IN SITU (DCIS), SOLID TYPE, NUCLEAR GRADE 3,
+WITH NECROSIS AND MICROCALCIFICATIONS, INVOLVING LOBULES.
+- SKIN AND NIPPLE, NO TUMOR SEEN.
+F. ADDITIONAL AXILLARY TAIL, RIGHT, EXCISION:
+- FIBROADIPOSE TISSUE, NO TUMOR OR LYMPH NODES SEEN.
+G. SCALP, LESION, EXCISION:
+- PILAR CYST.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Mastectomy
+Needle Localization:
+No
+Laterality: Right
+Invasive Tumor:
+Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+2.7cm
+Tumor Site:
+12:00
+Margins:
+Negative
+Distance from closest margin:
+anterior
+Tubular Score: 3
+Nuclear Grade:
+3
+Mitotic Score: 3
+0.5cm
+Modified Scarff Bloom Richardson Grade: 3
+Necrosis:
+Present
+Vascular/Lymphatic Invasion:
+Lobular neoplasia:
+None
+None identified
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Negative 0/5
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity: Estimate 15%
+DCIS Type:
+Cribriform
+Solid
+DCIS Location: Both associated and separate from invasive tumor mass
+Nuclear grade: High
+Necrosis:
+Present
+Location of CA++:
+DCIS
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Positive by FISH
+Pathological staging (pTN):
+PT 2 NO
+CLINICAL HISTORY:
+None provided
+PRE-OPERATIVE DIAGNOSIS:
+Right axilla
+INTRAOPERATIVE CONSULTATION:
+TPA-TPB-TPC-TPD: Negative for tumor on touch prep. Diagnosis called by Dr. to Dr. af
+(D).
+Gross Dictation: Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review: Pathologist,
+Final: Pathologist,
+Criteria
+Jiagnosis Discrepancy
+(A-C) and
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prur Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): CUALIFIED DEQUATED 10
+Reviewer Initials
+Bate Reviewed
+the

@@ -1,0 +1,26 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, was 8500/3
+Site: Breast, Nos C50.9
+1/19/11 lu
+Diagnosis:
+1. Ablated breast sample with a moderately differentiated invasive ductal
+carcinoma (tumor diameter: 2.7 cm). Tumor-free dorsal resection margin.
+Concluding tumor classification: NOS, G II, pT2NOLOVORO
+UUID:549E8258-F206-4FF9-835B-2FBE51C78831
+TCGA-A8-
+A090-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Prima Noted
+Case is circle):
+Reviewers
+QUALIFIED
+Date Bewed:
+Yes
+QUALIFIED
+2/37/1
+No

@@ -1,0 +1,91 @@
+Surgical Patha
+Surg Path
+Carcinoma infiltrating ductal, NOS 8500/3
+C50.9
+Site, breast, Nos
+1/25/11 for
+UUID:506BFD3B-240B-440E-B7A0-E596FC0B7F72
+TCGA-B6-AØWV-01A-PR
+Redacted
+CLINICAL HISTORY:
+Moderately
+S/P tru cut biopsy of 3.5 cm breast self detected lesion.
+differentiated NSABP II, grade adenocarcinoma. Breast carcinoma.
+GROSS EXAMINATION:
+A. "Right breast mass", in formalin. A 4 x 3 x 1.5 cm piece of yellow-white
+fibrofatty breast tissue containing a 3.5 x 3 x 2 cm firm, gritty, white-pink,
+infiltrating tumor. Margins are not an issue for this specimen per Dr.
+therefore, the specimen is not inked. Representative sections of
+the tumor are submitted in Blocks A1-A3.
+B. "Right breast", unfixed. A 22 x 15 x 5 cm mastectomy specimen with
+axillary tail. The breast has a 19 x 13 cm skin ellipse containing nipple and
+areola with a 6 cm long horizontal sutured biopsy site located directly above
+the nipple. The external surface of the breast is inked in black.
+The skin surface, nipple and areola are grossly unremarkable.
+Cross sectioning through the breast specimen reveals a soft yellow-white
+fibrofatty breast parenchyma along with an 8 x 6 x 5 cm hollow biopsy cavity
+running in a horizontal direction beneath the nipple which is lined by pink,
+thin, smooth, membranous tissue. No residual tumor is identified. The edges
+of the biopsy cavity lie 3 cm, 1 cm, 7 cm and 7 cm from the superior,
+deep/posterior and inferior inked tissue margins. No other lesions are noted.
+BLOCK SUMMARY:
+B1
+B2
+representative section of nipple.
+biopsy cavity and corresponding inked deep/posterior surface.
+additional sections of biopsy cavity.
+B3-B4
+B5-B6
+B7-B8
+representative sections of upper lateral portion of breast.
+representative sections of lower lateral portion of breast.
+B9-B10 representative sections of upper medial portion of breast.
+B11-B12 representative sections of lower medial portion of breast.
+B13 1 bisected lymph node candidate from most medial portion of axillary
+tail.
+B15
+B14 2 lymph node candidates from most medial portion of axillary tail.
+3 lymph node candidates from the middle portion of the axillary tail.
+B16 2 lymph node candidates from the middle portion of the axillary tail.
+B17 1 bisected lymph node candidate from the middle portion of the axillary
+tail.
+B18 2 lymph node candidates from the middle portion of the axillary tail.
+B19 2 lymph node candidates from the most lateral portion of "
+tail.
+DIAGNOSIS:
+A. "RIGHT BREAST",
+3.5 X 3 X 2
+Dr.
+(BIOPSY):
+INFILTRATING DUCTAL CARCINOMA
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Frior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials,
+Yes
+No
+1
+QUALIFIED / DISQUALIFIED
+Date Reyiewed:
+me
+NSABP HISTOLOGIC GRADE 2 OF 3, NUCLEAR GRADE MODERATELY DIFFERENTIATED.
+VASCULAR INVASION IDENTIFIED.
+B. "RIGHT BREAST", (MASTECTOMY WITH AXILLARY TAIL):
+BREAST:
+NO RESIDUAL CARCINOMA.
+BENIGN PROLIFERATIVE CHANGES, INCLUDING EPITHELIAL HYPERPLASIA OF USUAL
+TYPE AND BLUNT DUCT ADENOSIS.
+RECENT BIOPSY CAVITY WITH NO EVIDENCE OF MALIGNANCY.
+SKIN AND NIPPLE WITH NO HISTOLOGIC ABNORMALITY.
+AXILLARY LYMPH NODES
+METASTATIC CARCINOMA IN 4 OF 7 LYMPH NODES.
+EXTRACAPSULAR SPREAD PRESENT.
+LARGEST LYMPH NODE 2.1 CM.
+COMMENT:
+Verified by:
+M.D. Pager ID#
+Date Signed:

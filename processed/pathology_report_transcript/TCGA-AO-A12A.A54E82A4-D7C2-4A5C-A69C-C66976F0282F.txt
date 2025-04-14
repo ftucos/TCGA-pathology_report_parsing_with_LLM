@@ -1,0 +1,466 @@
+Clinical Diagnosis & History:
+year-old female with right breast mass s/p core biopsy showing invasive
+ductal carcinoma, poorly differentiated. Now for TM SLN with IR.
+Specimens Submitted:
+1: SP: Right breast and silicone implant
+2: SP: Sentinel node #1 level one right axilla
+3: SP: Sentinel node #232 level one right axilla
+4:
+SP: Sentinel node #3 level one right axilla
+5: SP: Sentinel node #4 level one right axilla
+6: SP: Non-sentinel tissue right axilla
+7: SP: Sentinel node #235 level one right axilla
+3: SP: Additional superior right mastectomy flap tissue
+DIAGNOSIS:
+1)
+GROSSLY.
+BREAST, RIGHT AND SILICONE IMPLANT; MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, HISTOLOGIC GRADE III/III (SLIGHT OR NO
+TUBULE FORMATION), NUCLEAR
+SHAPE), MEASURING 3.1 CM IN LARGEST DIMENSION
+GRADE III/III (MARKED VARIATION IN SIZE AND
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID AND
+CRIBRIFORM TYPES WITH INTERMEDIATE TO HIGH NUCLEAR GRADE AND MINIMAL
+NECROSIS. THE DCIS CONSTITUTES <= 25% OF THE TOTAL TUMOR MASS, AND IS
+PRESENT ADMIXED WITH THE INVASIVE COMPONENT.
+THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER QUADRANT.
+DCIS IS LOCATED IN THE
+UPPER OUTER QUADRANT.
+THE
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA
+IS IDENTIFIED.
+-
+NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+CARCINOMA.
+- NO VASCULAR INVASION IS NOTED.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+INVASIVE CARCINOMA IS 0.2 CM FROM THE NEAREST (ANTERIOR AND DEEP)
+MARGINS.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES AND
+APOCRINE METAPLASIA, MICROCALCIFICATIONS, AND
+FIBROCYSTIC CHANGES WITH
+COLUMNAR CELL ALTERATION WITHOUT ATYPIA.
+** Continued on next page **
+PATH
+REPORT
+i
+11/04/01
+ICD-0-3
+carcinoma, infiltrating duct, NOS 8500/3
+Site breast, Nus
+050.9
+لسل
+Redacted
+UUID:A54E82A4-D7C2-4A5C-A69C-C66976F0282F
+TCGA-AO-A12A-01A-PR
+Criteria
+Ciagrosis Discrepancy
+Primary Tumor Site Ciscrepancy
+HIPAA Discrepancy
+Priur Malignancy History
+DualSynchronous Primary Nated
+Case 
+is fircle):
+er init.als
+Ic.jewer
+Date Reviewed:
+QUALIFIED
+Yes
+DISQUALIFIED
+No
+le 10/22/11
+RESULTS OF SPECIAL STAINS
+(ER, PR, HERZ-NEU) WILL BE REPORTED AS AN
+ADDENDUM.
+2)
+LYMPH NODE, SENTINEL #1, LEVEL I, RIGHT AXILLA: EXCISION:
+ONE BENIGN LYMPH NODE (0/1). 
+DEEPER LEVEL RECUTS AND SPECIAL STAINS
+HAVE BEEN 
+ORDERED. THE
+RESULTS WILL BE 
+REPORTED IN AN ADDENDUM.
+3)
+LYMPH NODE, SENTINEL #2, LEVEL I, RIGHT AXILLA; EXCISION:
+ONE BENIGN LYMPH NODE (0/1)
+. DEEPER LEVEL RECUTS AND SPECIAL STAINS
+HAVE BEEN 
+ORDERED. THE
+RESULTS WILL BE 
+REPORTED IN AN ADDENDUM.
+4)
+LYMPH NODE, SENTINEL #3, LEVEL I, RIGHT AXILLA; EXCISION:
+ONE BENIGN LYMPH NODE (0/1). 
+DEEPER LEVEL RECUTS AND SPECIAL STAINS
+HAVE BEEN 
+ORDERED. THE
+RESULTS WILL BE 
+REPORTED IN AN ADDENDUM.
+5)
+LYMPH NODE, SENTINEL #4, LEVEL I, RIGHT AXILLA; EXCISION:
+ONE BENIGN LYMPH NODE
+HAVE BEEN ORDERED. THE
+6)
+7)
+-
+(0/1). DEEPER LEVEL RECUTS AND SPECIAL STAINS
+RESULTS WILL BE 
+REPORTED IN AN ADDENDUM.
+NON-SENTINEL TISSUE, RIGHT AXILLA; EXCISION:
+- TWO BENIGN LYMPH NODES (0/2).
+LYMPH NODES, SENTINEL #5, LEVEL I, RIGHT AXILLA: EXCISION:
+TWO BENIGN LYMPH NODES (0/2). DEEPER LEVEL RECUTS AND SPECIAL STAINS
+HAVE BEEN 
+ORDERED.
+THE RESULTS WILL BE 
+REPORTED IN AN ADDENDUM.
+8)
+-
+-
+BREAST, RIGHT, ADDITIONAL SUPERIOR MASTECTOMY FLAP TISSUE; EXCISION:
+BENIGN FIBROADIPOSE TISSUE AND SKELETAL 
+MUSCLE.
+NO RESIDUAL CARCINOMA SEEN.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT 
+I HAVE REVIEWED AND APPROVED
+THIS 
+REPORT.
+MD/
+*** Report Electronically Signed Out
+Special Studies:
+Result
+positive
+positive
+negative
+negative
+positive
+negative
+Special Stain
+Comment
+ER-C
+PR-C
+HER2-C
+NEG CONT
+NEG-HER2
+IMM RECUT
+AE1:AE3
+NEG CONT
+IMM RECUT
+AE1:AE3
+NEG CONT
+IMM RECUT
+AE1:AE3
+NEG CONT
+intensity of 1+
+** Continued on next page **
+PATH
+REPORT
+negative
+negative
+1MM RECUT
+AE1:A23
+NEG CONT
+IMM RECUT
+AEL:AE3
+NEG CONT
+IMM RECUT
+Gross Description:
+1)
+The specimen is received fresh, labeled, "Right breast and silicone
+implant
+". It consists of product of right 
+mastectomy which measures 14.0 cm
+from superior to inferior, 14.0 cm from medial to 
+lateral, 5.0 cm from
+anterior to 
+posterior. There is a skin 
+ellipse with nipple areolar complex
+which 
+measures 10.0 x 3.5 cm.
+inked in black, 
+superior-anterior tissue edge is inked in green, and the
+The nipple is erect. 
+The posterior aspect 
+is
+inferior anterior tissue edge is inked in blue.
+sectioned 
+from the 
+lateral to medial revealing a stellate vasculated mass in
+The specimen is serially
+the upper outer quadrant which measures 3.1 x 1.4 x 
+1.7 cm.
+0.2 cm from 
+anterior tissue edge
+, 0.2 cm from the deep surgical margin.
+It is 
+present
+deep margin is easily movable over the tumor 
+mass.
+identified 
+which measures 
+7.0 x 7.0 x 0.3 cm.
+A silicone implant is
+surrounded by 
+fibrous partially calcified capsule.
+It 
+is intact. It is
+Summary of Sections:
+N
+т
+nipple
+tumor
+UOQ - upper outer quadrant
+LOQ lower outer quadrant
+PIQ - upper inner quadrant
+lower inner quadrant
+LIQ
+"
+The
+1
+2)
+The specimen is received fresh for frozen section, labeled "Sentinel
+node #1 
+level one right axilla".
+measuring 1.0 x 0.5 x 0.4 cm.
+Summary of Sections:
+FSC- frozen section control
+It consists of one firm brown-tan node
+Bisected and entirely frozen.
+3)
+The specimen is received fresh for frozen section, labeled "Sentinel
+node #2 
+level one right axilla".
+It consists of a 1.6 x 1.2 × 0.6 cm
+brown-tan lymph node bisected and entirely frozen.
+Summary of Sections:
+FSC - frozen section control
+PATH
+REPORT
+** Continued on next page
+3
+4)
+The specimen is received fresh for frozen section, labeled "Sentinel
+node #3 
+level one right axilla".
+brown
+-tan 
+node 
+bisected and entirely frozen.
+It consists of 
+a 1.7 x 0.6 x 0.6 cm
+Summary of Sections:
+FSC - frozen section control
+4
+5)
+The specimen is received in formalin, labeled "Sentinel node #234 level
+one right 
+axilla". It consists of a portion of 
+adipose tissue which
+measures 
+1.9 
+× 1.5 x 0.6 cm. Examination 
+reveals a pink-tan lymph node
+which measures 1.5 x 1.0 x 0.4 cm.
+entirely.
+Summary of Sections:
+SN sentinel node
+The lymph node is bisected and submitted
+6)
+The specimen is received in formalin, labeled "Non-sentinel tissue
+right 
+axilla". It consists of three irregular 
+shaped portions of yellow
+adipose which measures 0.6 x 2.5
+submitted 
+entirely in one cassette.
+cm in greatest 
+dimension. The specimen is
+Summary of Sections:
+NS
+non-sentinel tissue
+7)
+The specimen is received in formalin, labeled "Sentinel node #235 level
+one right 
+axilla". It consists of pink-tan 
+portion of soft tissue which
+measures 0.7 × 0.4 × 0.3 cm. The specimen is 
+submitted entirely.
+Summary of Sections:
+SN sentinel node
+8)
+The specimen is received in formalin, labeled "Additional superior
+right 
+mastectomy flap tissue". It consists of 
+two unoriented flap portions
+of fibrofatty tissue which measure 5.5 x 2.0 x 0.6 cm and 4.5 x3.0 x 0.9 cm.
+Each piece has a cauterized aspect which is 
+inked in red.
+aspect 
+is inked in green. 
+The specimen is serially sectioned and submitted
+The opposing
+entirely.
+Summary of Sections:
+U undesignated
+PATH
+REPORT
+** Continued on next page **
+Summary of Sections:
+Part 1: SP: Right breast and silicone implant
+Block
+1
+1
+1
+1
+5
+1
+Sect. Site
+с
+LIQ
+LOQ
+23
+F
+UIQ
+PCs
+3
+1
+1
+1
+S
+1
+Part 2:
+SP: Sentinel node #1 level one right axilla
+Block
+1
+Part 3:
+Block
+1
+Part 4:
+Block
+1
+Part 5:
+Block
+1
+Part 6:
+Block
+1
+Part 7:
+Block
+1
+Part 8:
+Block
+8
+Sect. Site
+FSC
+PCs
+1
+SP: Sentinel node #2 level one right axilla
+Sect. Site
+FSC
+PC5
+1
+SP: Sentinel node #33 level one right axilla
+Sect. Site
+FSC
+PCs
+1
+SP: Sentinel node #234 level one right axilla
+Sect. Site
+SN
+PCs
+1
+SP: Non-sentinel tissue right axilla
+Sect. Site
+NS
+PCs
+1
+SP: Sentinel node #35 level one right axilla
+Sect. Site
+SN
+PCs
+1
+SP: Additional superior right mastectomy flap tissue
+Sect. Site
+U
+Procedures/Addenda:
+Addendum
+Date Ordered:
+Date Complete:
+PCs
+8
+Status:
+By:
+Signed Out
+PATH
+REPORT
+** Continued on next page **
+5
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Page 6 of 7
+し
+SITE: SENTINEL LYMPH NODE, RIGHT AXILLA
+PART 
+#3.
+METASTATIC CARCINOMA IN THE FORM OF MICROSCOPIC CLUSTERS, MEASURING LESS
+THAN 2MM (MICROMETASTASIS), IS 
+IDENTIFIED ON ADDITIONAL H&E STAINED
+SECTIONS AND CYTOKERATIN 
+IMMUNOHISTOCHEMICAL STAINS.
+ADDITIONAL H&E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS (AE1:AE3 AND CAM 
+5.2) ON THE OTHER SENTINEL LYMPH NODE FROM
+PART #2,4,5,7 SHOW NO EVIDENCE OF 
+METASTATIC TUMOR.
+Addendum
+Date Ordered::
+Date Complete:
+Date Reported:
+Addendum Diagnosis
+ADDENDUM
+Status:
+By:
+Signed Out
+SITE: RIGHT BREAST
+PART #1.
+ER:
+PR:
+90% OF NUCLEAR STAINING WITH MODERATE INTENSITY.
+90% OF 
+NUCLEAR STAINING WITH STRONG INTENSITY.
+HER2/
+NEU (
+HERCEPTEST):
+NEGATIVE (STAINING INTENSITY OF 1+).
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+tissue sample examined 
+at the time of the intraoperative
+consultation.
+2)
+FROZEN SECTION DIAGNOSIS:
+BENIGN LYMPH NODES.
+PATH
+REPORT
+** Continued on next page
+PERMANENT DIAGNOSIS:
+SAME.
+7/
+3)
+FROZEN SECTION DIAGNOSIS:
+BENIGN LYMPH NODES.
+PERMANENT DIAGNOSIS:
+SAME.
+4)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN LYMPH NODES.
+SAME.
+PATH
+REPORT
+** End of Report **

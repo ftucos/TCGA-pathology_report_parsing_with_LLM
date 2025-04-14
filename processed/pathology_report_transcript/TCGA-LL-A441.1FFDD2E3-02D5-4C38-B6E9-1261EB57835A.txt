@@ -1,0 +1,195 @@
+RUN DATE:
+RUN TIME :
+RUN USER
+PATIENT:
+REG DR:
+SPEC #:
+RECD:
+COLL:
+Specimen Inquiry
+ACCT #:
+AGE/SX:
+DOB:
+STATUS:
+STATUS:
+TIME IN FORMALIN:
+LOC:
+ROOM:
+BED:
+TLOC:
+U #:
+REG
+DIS:
+PAGE 1
+PERFORMED A'
+UUID:1FFDD2E3-02D5-4C38-B6E9-1261EB57835A
+TCGA-LL-A441-01A-PR
+Redacted
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Right breast cancer
+A.
+B.
+C.
+Remarks:
+Specimen (s): A. Right breast needle localized lumpectomy
+B.
+Axillary contents
+C. Sentinel node
+MICROSCOPIC DIAGNOSIS
+ductal, NOS
+850013
+carcinoma, infiltrating clout3
+1CD-03
+site: breast, Nos
+RIGHT BREAST TISSUE, NEEDLE LOCALIZED LUMPECTOMY:
+INFILTRATING DUCTAL CARCINOMA
+'C50.9 8/23/120
+MODIFIED NOTTINGHAM HISTOLOGIC GRADE 3 OF 3: TUBULAR FORMATION SCORE 3 OF 3,
+MITOTIC SCORE 3 OF 3 (10 MITOTIC FIGURES PER SQ MM)
+DUCTAL CARCINOMA IN SITU, HIGH-GRADE WITH SOLID PATTERN, NOT EXTENSIVE
+INVASIVE TUMOR MEASURES 12 MM (pTlc)
+SURGICAL MARGINS FREE OF INVASIVE CARCINOMA WITH NEAREST MARGIN 3 MM, SUPERIOR
+MARGIN
+DUCTAL CARCINOMA IN SITU IS FOCALLY PRESENT AT SUPERIOR MARGIN
+SEE COMMENT FOR SYNOPTIC REPORT
+RIGHT AXILLARY CONTENTS, LYMPHADENECTOMY:
+NO TUMOR SEEN IN ANY OF TWO LYMPH NODES
+RIGHT AXILLARY SENTINEL LYMPH NODES, LYMPHADENECTOMY:
+NO TUMOR SEEN IN ANY OF TWO LYMPH NODES
+COMMENT(S)
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+Procedure:
+Lymph Node Sampling:
+Special Laterality:
+Histologic Type of Invasive Carcinoma:
+Tumor Size:
+Histologic Grade (Nottingham):
+CAP APPROVED
+Excision with wire-guided localization
+Sentinel lymph node(s), axillary dissection
+Right
+Invasive ductal carcinoma
+Greatest dimension of largest focus of invasion: 12
+mm
+Glandular/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 3
+Mitotic Rate: Score 3
+Overall Grade: Grade 3
+** CONTINUED ON NEXT PAGE **
+Criteria
+Diagnosis Giscrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/synchronous Primary Noted
+Case is (circle):
+Revieve
+QUALIFIED
+Date Reveveo:
+DISQUALIFIED
+17/12
+8/19/17
+... .....
+RUN DATE:
+RUN TIME:
+PAGE 2
+ご
+Specimen Inquiry
+RUN USER:
+PCI User:
+SPEC #:
+PATIENT:
+(Continued)
+COMMENT(S)
+Tumor Focality:
+Ductal Carcinoma In Situ:
+Margins:
+Lymph Nodes:
+Pathologic Staging:
+Ancillary Studies:
+(Continued)
+Single focus of invasive carcinoma
+DCIS is present
+Invasive Carcinoma: Margins uninvolved by invasive
+carcinoma
+Distance from closest margin: 3 mm; superior
+DCIS: Margins positive for DCIS; superior
+Number of sentinel lymph nodes examined: 2
+Total number of lymph nodes examined (sentinel and
+nonsentinel):
+4
+Number of lymph nodes with macrometastases (>2 mm):
+0
+Number of lymph nodes with micrometastases (>0.2 mm
+to 2 mm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor cells
+(≤0.2 mm and <200 cells): 0
+Number of lymph nodes without tumor cells
+identified: 4
+Primary Tumor: pTic
+Regional Lymph Nodes: pNO
+Distant Metastasis: Not applicable
+ER: Negative (<1% of tumor cells with nuclear
+positivity)
+PR: Negative (<1% of tumor cells with nuclear
+positivity)
+Immunoperoxidase Studies: Negative (Score 1+)
+GROSS DESCRIPTION:
+The specimen is received in three parts.
+A. This specimen is received in the fresh state from the operating room for immediate
+gross evaluation and consist of an excision of breast tissue which measures 8 x 6 x 4 cm.
+A needle is present in the specimen. I have applied ink to the margins as follows: yellow
+is superior; blue is deep; black is anterior; red is inferior. Sections reveal a firm, tan
+tumor measuring 12 mm located 4 mm from the nearest margin, the anterior margin.
+Additional sectioning
+representative section of the tumor is submitted for tumor banking.
+reveals fibrotic tissue associated with the biopsy site nearer to the anterior margin.
+Fibrotic breast tissue is present near the inferior margin, also. Representative sections
+are submitted as blocks Al through A6.
+A
+B. This is a portion of adipose tissue which measures 4 x 4 × 2 cm. Two soft, tan and
+yellow lymph nodes are present measuring up to 1.5 cm. The following sections are
+submitted:
+B1
+B2,3
+one lymph node totally submitted
+one lymph node totally submitted
+C.
+This is a portion of adipose tissue which measures 3 x 3 x 1 cm.
+Within this are three
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER :
+SPEC #:
+PATIENT:
+Specimen Inquiry
+PAGE 3
+(Continued)
+GROSS DESCRIPTION: (Continued)
+lymph nodes measuring up to 1 cm.
+One of the lymph nodes measuring 7 mm in grossly
+suspicious for tumor containing a firm area measuring 3 mm.
+mm and contains a 6 mm area suspicious for metastatic tumor.
+mm and is soft.
+The following sections are submitted:
+3
+01
+C2
+C3
+one suspicious lymph node totally submitted
+second suspicious lymph node totally submitted
+unremarkable lymph node totally submitted
+A second lymph node measures 6
+A third lymph node measures 8
+INTRAOPERATIVE CONSULTATION:
+IMMEDIATE GROSS EVALUATION A (LUMPECTOMY):
+CARCINOMA PRESENT IN SPECIMEN
+SURGICAL MARGINS APPEAR FREE OF TUMOR
+TUMOR PROCESSED FOR TUMOR BANKING
+Signed
+(signature on file).
+** END OF REPORT **
+www.wwe.....

@@ -1,0 +1,246 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+ACCT #:
+AGE/SX:
+DOB:
+SPEC #:
+STATUS:
+LOC:
+ROOM:
+BED:
+REG:
+DIS:
+PAGE 1
+UUID:C3BD4B5F-0FB9-4822-88FE-9D689660B5E9
+TCGA-LL-ASØY-01A-PR
+Redacted
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Right breast lobular CA
+Remarks:
+Specimen(s) : A. Left breast tissue stitch marks axillary tail
+B.
+Right modified radical mastectomy stitch marks axillary contents
+A.
+B.
+MICROSCOPIC DIAGNOSIS
+LEFT BREAST TISSUE, TOTAL MASTECTOMY WITH TWO AXILLARY LYMPH NODES:
+INTRADUCTAL PAPILLOMA WITH ATYPICAL HYPERPLASIA, SUBAREOLAR, SMALL
+FOCI OF LOBULAR CARCINOMA IN SITU
+FIBROCYSTIC CHANGES
+TWO LYMPH NODES, NO PATHOLOGIC DIAGNOSIS
+RIGHT BREAST, MODIFIED RADICAL MASTECTOMY:
+MULTIFOCAL INVASIVE LOBULAR CARCINOMA (AT LEAST 4 FOCI DETECTED)
+LARGEST FOCUS OF INVASIVE LOBULAR CARCINOMA MEASURES 3 CM IN GREATEST DIMENSION
+(pT2)
+NOTTINGHAM COMBINED HISTOLOGIC GRADE 2 OF 3
+TUBULE FORMATION SCORE 3 OF 3
+NUCLEAR PLEOMORPHISM SCORE 2 OF 3
+MITOTIC RATE SCORE 1 OF 3
+DUCTAL CARCINOMA IN SITU NOT IDENTIFIED
+SURGICAL MARGINS OF RESECTION FREE OF INVASIVE CARCINOMA WITH CLOSEST MARGIN
+MEDIAL MARGIN APPROXIMATELY 1 MM
+EIGHT AXILLARY LYMPH NODES, NO PATHOLOGIC DIAGNOSIS (NO EVIDENCE OF METASTATIC
+CARCINOMA)
+SEE COMMENT FOR SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST
+ICD-0-3
+COMMENT(S)
+carcinoma, infiltrating lobular, Nos
+Site: breast, Nos 050.9
+852013
+1 1117/12
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+-
+CAP APPROVED
+Procedure:
+Lymph Node Sampling:
+Specimen Laterality:
+Tumor Site:
+Histologic Type:
+Tumor Size:
+Total mastectomy (including nipple and skin)
+Axillary dissection (partial or complete
+dissection)
+Right
+Other; multifocal
+Invasive lobular carcinoma
+Greatest dimension of largest focus of invasion
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+· PATIENT:
+PAGE 2
+(Continued)
+COMMENT(S)
+Histologic Grade:
+Tumor Focality:
+Ductal Carcinoma In Situ:
+Margins:
+Lymph Nodes:
+Lymph-Vascular Invasion:
+Dermal Lymph-Vascular Invasion:
+Pathologic Staging:
+Ancillary Studies:
+(Continued).
+>1 mm: 30 mm (3.0 cm)
+Glandular/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 2
+Mitotic Rate: Score 1
+Overall Grade: Grade 2
+Multiple foci of invasive carcinoma; 4 foci
+No DCIS is present
+Invasive Carcinoma: Margins uninvolved by invasive
+carcinoma.
+Distance from closest margin: 1 mm; medial
+DCIS: DCIS is not present
+Number of sentinel lymph nodes examined: 0
+Total number of lymph nodes examined (sentinel and
+nonsentinel): 8
+Number of lymph nodes with macrometastases (>2 mm):
+0
+Number of lymph nodes with micrometastases (>0.2 mm
+to 2 mm and/or >200 cells): 0
+Number of lymph nodes with isolated tumor cells
+(≤0.2 mm and <200 cells): 0
+Number of lymph nodes without tumor cells
+identified: 8
+Not identified
+Not identified
+TNM Descriptors: m
+Primary Tumor: pT2
+Regional Lymph Nodes: pNO
+Distant Metastasis: Not applicable.
+ER: Positive (100% of tumor cells with nuclear
+positivity); Strong
+PR: Positive (100% of tumor cells with nuclear
+positivity); Moderate
+HER2 Immunoperoxidase Stains: Equivocal (Score 2+)
+GROSS DESCRIPTION:
+This is a breast
+Specimen A is received in the fresh state labeled "left breast tissue".
+The skin measures 24 x 15 cm. The
+with an overlying ellipse of white skin and nipple.
+The breast measures 24 x 15 x 4 cm. A suture tags the
+skin and nipple are unremarkable.
+axillary tail which measures 5 x 3 x 3 cm. The chest wall margin is fatty and
+unremarkable. This margin is marked with black ink. The specimen is serially sectioned.
+A couple of large
+The breast tissue is mostly fatty without focal suspicious lesions.
+fatty lymph nodes are found in the axillary tail with the largest one measuring 3 cm in
+greatest dimension. Representative sections are submitted as follows:
+Al
+nipple
+A2-5
+A6
+representative breast tissue moving medial to lateral
+chest wall margin, inked
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:.
+GROSS DESCRIPTION:
+(Continued)
+A7
+A8
+axillary tail
+one fatty lymph node
+A9-11-
+largest fatty lymph node
+PAGE 3
+(Continued)
+Specimen B is received in the fresh state labeled "right modified radical mastectomy".
+This 
+is a breast with an overlying ellipse of white skin and nipple. The skin ellipse
+measures 
+20 x 15 cm. The breast measures 20 x 15 x 4 cm. The axillary tail measures 8 x 8
+x 3 
+cm. The skin and nipple are unremarkable. The chest all margin is fatty without focal
+lesions. 
+The chest wall margin is inked black. There is some palpable nodularity along
+the medial 
+most margin and this margin is inked blue. Serial sections through the breast
+reveal mostly fatty tissue with irregular areas of white fibrosis. In the central breast
+roughly 3 cm inferior to the nipple is an ill-defined, indurated area suspicious for tumor
+and 
+associated with fresh hemorrhage. This area spans approximately 1 cm by palpation and
+a 
+portion of this area is submitted for tumor banking, handed off to
+appears to be a separate tumorous area in the lateral breast roughly 6 cm from the nipple
+and spanning by palpation roughly 3 cm. Again, this area is visually ill-defined.
+may be yet a third ill-defined indurated area in the far lateral breast spanning
+approximately 7 mm. Several fatty lymph nodes are identified in the axillary tail.
+measure up to 3 cm in greatest dimension. Representative sections are submitted as
+follows:
+NOTE:
+B1,2
+B3
+B4
+B5-7
+B8
+B9
+B10-12-
+B13
+B14,15-
+B16
+B17,18-
+B19,20-
+nodularity in the medial most breast
+nipple
+grossly uninvolved medial breast tissue
+1 cm nodule mid inferior breast
+hemorrhagic focus mid breast
+chest wall margin central breast
+3 cm area of nodularity lateral breast
+possible third area of nodularity lateral breast
+one fatty lymph node
+one fatty lymph node
+one fatty lymph node
+multiple lymph nodes
+There
+There
+These
+The specimen margins were grossly uninvolved by tumorous tissue by at least 1 cm
+along the deep margin.
+MICROSCOPIC DESCRIPTION:
+The slides are examined and evaluated. E-cadherin stain is performed on the left breast
+tissue 
+in an area showing features of lobular carcinoma in situ and atypical lobular
+hyperplasia. The E. Cadherin stain is negative confirming this diagnosis. In addition to
+the histologic sections 
+one of the lymph node from the right modified radical mastectomy is
+examined with Pankeratin 
+stain. No evidence of metastatic carcinoma is detected either in
+the histology or the Pankeratin stain.
+** CONTINUED ON NEXT PAGE **
+RUN DATE
+RUN TIME
+RUN USER:
+SPEC #:
+PCI User:
+PATIENT:
+INTRAOPERATIVE CONSULTATION:
+B.
+RIGHT MODIFIED MASTECTOMY, GROSS EXAM:
+MARGINS INKED
+TUMOROUS TISSUE HANDED OFF TO TUMOR BANKING
+PAGE 4
+(Continued)
+Yes
+No
+Criteria
+Diagnosis Discrenancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synch,onaus Primary Noted
+Case is (cicla
+Reviewer ifiak
+QUAUHED
+In situ bu
+Date Reviewed:
+DISQUALIFIED

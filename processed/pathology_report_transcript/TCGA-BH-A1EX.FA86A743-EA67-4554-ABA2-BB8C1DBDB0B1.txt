@@ -1,0 +1,84 @@
+Procedure Date:
+Procedure Physician:
+Attending Physician/Copies To:
+Criteria
+Diagnosis Discrenancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronou. Primary Ned
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+le ileviawed:
+twe
+Yes
+No
+DISQUARED
+ICD-0-3
+Carcinoma, infiltrating
+ductal, Nos
+Site. Breast, Nos C50,9.
+8500/3
+1/20/4 for
+Redacted
+UUID:FA86A743-EA67-4554-ABA2-BB8C1DBDB0B1
+PATIENT HISTORY:
+SPECIMENS TAKEN BY PATH DATE of LMP: (NOT LISTED ON REQUISITION)
+DATE OF LAST DELIVERY:
+*
+PRE-OP DIAGNOSIS: RIGHT BREAST CANCER
+POST-OP DIAGNOSIS: SAME
+OPERATIVE PROCEDURE: R SENTINEL LYMPH NODE, R SEGMENTAL MASTECTOMY
+CLINICAL HISTORY: SPECIMENS TAKEN BY PATH
+TCGA-BH-A1EX-01A-PR
+MATERIAL SUBMITTED: A) RIGHT SENTINEL LYMPH NODE, PROCUREMENT BY SURGICAL PROCEDURE
+B) RIGHT BREAST BIOPSY/TISSUE, PROCUREMENT BY SURGICAL PROCEDURE
+long-lat, med-med, sht-superior
+INTRAOPERATIVE CONSULTATION: R SENTINEL LYMPH NODE #1: One lymph node, 0.8 by 0.6 by 0.5 cm. Touch Prep
+Diagnosis: Negative.
+ADDENDA:
+Addendum
+FISH analysis using DNA probe for Her-2/neu gene showed that, the ratio of Her-2/neu signals to chromosome 17
+centromere signals is 0.94 (≥ 2.0 ratio is considered amplified). Therefore, Her-2/neu gene is not amplified.
+Pathologist.
+** Report Electrònies
+_ Bv Patholog
+My signature is attestation that I have personally reviewed the submitted material(s) and the above diagnosis reflects that evaluation.
+Addendum
+MATERIAL SUBMITTED: BLOCK "B3" FOR ER/PR AND HER-2/NEU (BREAST CANCER)
+FINAL DIAGNOSIS:
+ESTROGEN/PROGESTERONE RECEPTORS AND HER-2/NEU PERFORMED ON RIGHT BREAST TISSUE
+ESTROGEN RECEPTOR (0- 40%; 1+ 40%; 2+ 10%; 3+ 10%) HSCORE OF 90. ESTROGEN RECEPTOR IS INTERPRETED AS
+POSITIVE
+PROGESTERONE RECEPTOR (0- 70%; 1+ 10%; 2+ 10%; 3+ 10%) HSCORE OF 60. PROGESTERONE RECEPTOR IS INTERPRETED AS
+POSITIVE
+HER-2/NEU-DAKO HERCEPTEST. A WEAK TO MODERATE COMPLETE MEMBRANE STAINING IS OBSERVED IN MORE THAN 10% OF THE
+TUMOR CELLS. HER-2/NEU IS INTERPRETED AS POSITIVE (SCORE 2+)
+HSCORE: <= 15 NEGATIVE
+>15<=30 BORDERLINE
+FINAL DIAGNOSIS:
+FINAL DIAGNOSIS:
+A) RIGHT SENTINEL LYMPH NODE #1:
+MICROMETASTATIC DUCTAL CARCINOMA OF THE BREAST (SEE NOTE)
+B) RIGHT SEGMENTAL MASTECTOMY:
+- INFILTRATING MODERATELY DIFFERENTIATED DUCTAL CARCINOMA) NOTTINGHAM SCORE 6/9 (TUBULES=3, NUCLEI=2,
+MITOSIS-1), SIZE 2.5 BY 2.0 BY 1.5 CM
+- DUCTAL CARCINOMA IN SITU, NON-COMEDO TYPE, SOLID AND CRIBRIFORM) NUCLEAR GRADE 1, CONSTITUTES 5% OF ENTIRE
+TUMOR MASS
+-
+SEVERAL MICROSCOPIC FOCI OF INFILTRATING ADENOCARCINOMA, UP TO 0.5 CM, IN THE REMAINING BREAST TISSUE (#6,
+#9, #12)
+-
+LATERAL AND INFERIOR SURGICAL MARGINS POSITIVE FOR INVASIVE TUMOR
+INTRADUCTAL PAPILLOMA AND PROLIFERATIVE FIBROCYSTIC CHANGES IN THE REMAINING BREAST TISSUE
+- FOCAL NECROSIS AND GRANULATION TISSUE, STATUS-POST CORE BIOPSY OF BREAST (CROSS REFER
+NOTE: Minute clusters of metastatic ductal carcinoma was found in serial section "A1", but it is best
+visualized with the immunoperoxidase stain AE1/AE3 in serial section A2. The immunostain was repeated and
+the presence of metastatic neoplastic cells in the lymph node section "A" & was confirmed by
+immunostaining ("A2&A3"). The later serial sections of the lymph nodes are negative. The touch prep of the
+sentinel node was re- reviewed and no malignant cells are identified. ER/PR immunoperoxidase assay and Her-
+2/NEU testing will be performed on block "B3".
+The special stains and/or immunoperoxidase tests used in this case have hean develed and their performance
+characteristics determined by the Department of Pathology at
+They have not been cleared or approved by the U.S. Food and Drug Administration.

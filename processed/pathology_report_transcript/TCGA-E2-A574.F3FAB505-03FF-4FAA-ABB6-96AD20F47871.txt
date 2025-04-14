@@ -1,0 +1,146 @@
+UUID:F3FAB505-03FF-4FAA-ABB6-96AD20F47871
+TCGA-E2-A574-01A-PR
+Redacted
+SPECIMEN(S): A. PAPILLOMA MEDIAL LEFT BREAST
+B. EXCISION LEFT BREAST CANCER
+C. SENTINEL LYMPH NODE #1 LEFT AXILLA
+D. SENTINEL LYMPH NODE #2 LEFT AXILLA
+CLINICAL HISTORY:
+1) Cancer 2 cm in axillary tail left breast.
+2) Medial left breast mass - Papilloma by core biopsy.
+PRE-OPERATIVE DIAGNOSIS:
+None Given.
+INTRA-OPERATIVE DIAGNOSIS
+B: Lumpectomy, left breast, excision; margins check: Mass is located 0.2 cm from the
+posterior margin.
+Reported to Dr. by Dr.
+DIAGNOSIS:
+A. BREAST, LEFT MEDIAL, EXCISION:
+- INTRADUCTAL PAPILLOMA
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, was 6.50.9
+- APOCRINE METAPLASIA AND COLUMNAR CELL CHANGE
+- BIOPSY SITE CHANGES
+- SURGICAL MARGINS NEGATIVE FOR TUMOR
+B. BREAST, LEFT, EXCISION:
+hu
+11/25/12
+- INVASIVE DUCTAL CARCINOMA, 2.3 CM IN GREATEST DIMENSION, SBR
+GRADE 3
+- SURGICAL MARGINS NEGATIVE FOR TUMOR
+- BIOPSY SITE CHANGES
+- SEE SYNOPTIC REPORT
+C. LYMPH NODES, SENTINEL #1, LEFT AXILLA:
+- TWO LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/2)
+D. LYMPH NODES SENTINEL #2, LEFT AXILLA:
+- TWO LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/2)
+SYNOPTIC REPORT - BREAST
+Specimens Involved
+Specimens:
+B: EXCISION LEFT BREAST CANCER
+Specimen Type:
+Needle Localization:
+Laterality: Left
+Excision
+Yes For mass
+Invasive Tumor: Present
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size:
+2.3cm
+Additional dimensions:
+2.1cm x 2cm
+Tumor Site:
+Not specified
+Margins:
+Negative
+Distance from closest margin:
+0.3cm
+deep
+Tubular Score: 2
+3
+Nuclear Grade:
+Mitotic Score:
+Modified Scarff Bloom Richardson Grade: 3
+Necrosis: Present
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+None
+Lymph nodes:
+Sentinel lymph node
+Lymph node status:
+Negative 0/4
+DCIS not present
+ER/PR/HER2 Results
+ER: Negative
+PR: Negative
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+PT 2 N0
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+GROSS DESCRIPTION:
+A APILLOMA MEDIAL LEFT BREAST
+Received fresh/in formalin labeled with the patient's identification and designated
+"papilloma medial left breast" is an oriented (single anterior, double lateral, triple
+superior), previously inked, 14 g, 4.3 x 3.2 x 2.1 cm needle localized excision. Ink code:
+anterior-yellow, posterior-black, medial-green, lateral-red, superior-blue, inferior-orange.
+The specimen is serially sectioned from medial to lateral into 7 slices revealing firm,
+focally hemorrhagic breast parenchyma. No lesions or nodules are grossly appreciated.
+Entirely submitted as per the attached diagram:
+A1: Perpendicular sections medial margin
+A2-A3: Slice 2, bisected
+A4-A5: Slice 3, bisected
+A6-A7: Slice 4, bisected
+A8-A9: Slice 5, bisected
+A10-A11: Slice 6, bisected
+A12-A13: Perpendicular sections lateral margin
+B. EXCISION LEFT BREAST CANCER
+Received fresh labeled with the patient's identification and designated "excision left
+breast cancer" is an oriented (triple - superior, double - lateral, single - anterior), 46 g,
+(Medial to lateral - 6.5 cm, superior to inferior - 5.4 cm, anterior to posterior - 3.5 cm)
+lumpectomy specimen. (The specimen is previously inked) Ink code: anterior-yellow,
+posterior-black, medial-green, lateral-red, superior-blue, inferior-orange. The specimen is
+serially sectioned from medial to lateral into 9 slices revealing a 2.3 x 2.1 x 2 cm, tan-
+white to tan-pink, firm to hard mass that is closest to the posterior margin at 0.2 cm, in
+slices 6 to 9. Tissue is procured.
+Representatively submitted in 18 cassettes as per the attached diagram:
+B1: slice 1 entire, perpendicular sections of the medial margin
+B2: slice 2, representative anterior margin
+B3: slice 3, representative posterior margin with the mass
+B4-B5: slice 4, sections of the mass showing the closest posterior margin,
+B6-B7: slice 5, mass with anterior and posterior margins
+B8: slice 5, superior margin
+B9-B10: slice 6, mass with anterior and posterior margins
+B11: slice 6, inferior margin
+B12-B13: slice 6, superior margin
+B14-B15: slice 7, representative anterior and key and posterior margins
+B16: slice 8, posterior margin
+B17-B18: slice 9, lateral margin, perpendicular sections.
+C. SENTINEL LYMPH NODE #1 LEFT AXILLA
+Received in formalin with the patient's identification and designated "sentinel lymph
+node #1 left axilla" is a 3.2 x 1.5 x 1.2 cm fibrofatty tissue within which 2 lymph nodes, 2
+x 1.3 x 0.7 cm and 2.5 x 1.2 x 1 cm are identified. The lymph nodes are serially sectioned
+and entirely submitted in 2 cassettes, C1-C2.
+D. SENTINEL LYMPH NODE #2 LEFT AXILLA
+Received in formalin with the patient's identification and designated "sentinel lymph
+node #2 left axilla" is a 3.5 x 2.5 x 0.8 cm fibrofatty tissue within which 2 lymph nodes,
+1.2 x 1 x 0.5 cm and 0.5 x 0.4 x 0.3 cm are identified. The lymph nodes are serially
+sectioned and entirely submitted in 2 cassettes, d1-D2.
+Criteria
+Diagnosis Ciscrepancy
+Pranary"
+Tumer Ste
+H PAA Discrepancy
+Discrepancy
+Frior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALED
+Dale Reviewed:
+SQUATIFIED
+No
+11/25/12

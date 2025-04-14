@@ -1,0 +1,419 @@
+Site:
+ICD-0-3
+Carcinoma infiltrating duct, Nos
+Bruint
+4925
+8500/3
+"
+ho
+050.9.
+4/19/14
+)
+Collection Date:
+Hospital of Origin
+Copy to
+QC Pathologist:
+FINAL PATHOLOGIC DIAGNOSIS:
+A. Left axillary sentinel lymph node:
+One lymph node containing metastatic carcinoma.
+Confirms frozen section diagnosis.
+Size of involvement within the node: 0.3 cm.
+B. Left breast mastectomy:
+Residual invasive ductal carcinoma.
+Size: 2.5 cm.
+Architectural score: 2/3.
+Nuclear score: 2/3.
+Mitotic score: 1/3.
+Total score: 5/9, Grade 1.
+Carcinoma is adjacent to previous biopsy cavity.
+No evidence of skin or nipple involvement.
+Deep margin of excision is free of carcinoma.
+Prognostic panel was performed on the original biopsy and
+will not be repeated unless requested.
+Multifocal areas of ductal carcinoma in situ present in
+uninvolved quadrants of breast.
+DCIS is high-grade comedo carcinoma type.
+Largest area of confluent DCIS is approximately 1.0 cm.
+TNM Classification: T2 pN1 MX.
+COMMENTS:
+CLINICAL HISTORY:
+Preoperative Diagnosis: Left modified radical mastectomy
+with sentinel node mapping with frozen section. Invasive
+ductal carcinoma, ER positive, PR positive, Ki-67 (MIB1)
+33%.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Left axilla sentinel node with frozen section
+B. Left breast
+CODES:
+UUID:926E9386-EF7C-4F13-824D-13D08B7F7938
+TCGA-AC-A23C-01A-PR
+Critcria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Cave is (circle):
+Pewetk
+QUALIFIED
+Date Review:
+Redacted
+DISQUALIFIED
+Yes
+11/11/17
+P.I
+으
+11
+PROCEDURAL DEMOGRAPHICS:
+Date of Procedure:
+Accession Date/Time:
+GROSS DESCRIPTION:
+The specimen is received in two containers labeled
+A. Auumionally labeled right sentinel node and contains a
+1.7 cm yellow tan fibrofatty soft tissue. The specimen is
+bisected and entirely submitted for frozen section 
+with 
+the
+residual entirely resubmitted for nermanent section in
+cassette A labeled
+B. Additionally labeled left breast and contains a 641
+gram, 20.0 x 13.5 x 7.0 cm simple mastectomy specimen
+partially surfaced by a 17.5 x 9.3 cm ellipse: of pink 
+tan
+wrinkled skin bearing a central 1.4 x 1.2 x 0.5 cm everted
+nipple. No orientation is offered or possible. The deep
+margin is inked and the specimen is serially sectioned to
+reveal a 2.5 x 1.5 x 1.5 cm ill defined gray white gritty
+mass that resides 3.5 cm from the skin surface and
+approaches to within 3.5 cm of the inked deep margin.
+Located immediately adjacent to this mass is a 3.5 x 2.8 x
+2.3 cm shaggy, necrotic cavity consistent with previous
+biopsy site. This cavity resides 1.5 cm below the 
+skin
+surface and approaches to within 3.5 cm of the inked deep
+margin. The remainder of the cut surface is comprised 
+of
+predominantly yellow tan adipose tissue admixed 
+with
+moderate amounts of interspersed gray white fibrous tissue.
+No additional masses are identified.
+Also received in the same container is an 11.5 x 2.0 x 1.5
+cm strip of pink tan wrinkled skin with adherent yellow tan
+fibrofatty soft tissue. Sectioning reveals a yellow tan
+fibrofatty cut surface with no discrete lesions.
+Representative sections are submitted in cassettes B1-B13
+labeled
+designated as follows: B1-- nipple;
+B2-- inked deep margin, perpendicular; B3-B5-- mass; B6-B9--
+previous biopsy cavity; B10-B12-- representative 
+sections
+from the three uninvolved quadrants; B13-- sections 
+from
+separately submitted skin and fibroadipose tissue.
+Additionally, a yellow and green cassette are submitted for
+genomic research each labeled
+INTRA-PROCEDURE CONSULTATION:
+A. Frozen section diagnosis: Metastatic neoplasm
+approximately 0.3 mm on frozen section per Dr.
+:
+рг
+)
+>
+>
+margin. The specimen is inkl. .s follows: Superficial -
+blue, deep black, superior - green, and inferior - orange. .
+The specimen is serially sectioned in a medial to lateral
+fashion to reveal a 0.9 x 0.8 x 0.6 cm white-tan, firm,
+well-defined mass/possible lymph node which extends to the
+medial, superior, inferior, superficial margins, is within
+0.7 cm of the deep margin and greater then 1 cm from the
+lateral margin. The mass is covered in a moderate amount of
+overlying blue surgical dye. Remaining breast parenchyma is
+approximately 10% tan, somewhat dense fibrous tissue. Cut
+surfaces are also remarkable for a few foci of hemorrhage up
+to 0.8 cm in greatest dimension. The entire enecimen is
+submitted in cassettes labeled
+as follows:
+A1-A7 are in a medial to lateral fashion. A1 is a full
+cross section of the mass to show the nearest superficial,
+deep, superior, inferior margins; A2. Additional section of
+the mass; A3-A7. Remaining full cross sections of the
+specimen; A8. Medial margin and transverse sections; A9.
+Lateral margin and transverse sections.
+B. Additionally labeled "2 - Left medial margin, old
+margin up, new margin down" and consists of a 1.9 x 1.4 x
+0.8 cm portion of yellow-tan, lobulated, fibrofatty breast
+tissue, stitched to a Telfa pad to indicate that the new
+margin is face down; new margin is inked blue. Sectioning
+reveals tan-yellow, lobulated, fibrofatty and friable cut
+surfaces. No significant fibrous tissue or distinct nodular
+lesions are identified. The entire specimen is submitted
+sequentially in cassettes B1 and B2 labeled
+INTRA-PROCEDURE CONSULTATION:
+MICROSCOPIC DESCRIPTION:
+THERAPEUTIC MARKERS
+Test
+Description
+Breast Cancer Analysis using Immuno-histochemistry,
+), and Pathologist review.
+is a FDA approved adjunctive, computer-assisted and
+interactive microscopy system which aids the pathologist in
+the detection, classification, and counting of cells of
+interest thereby standardizing slide scoring through
+quantitative assessment of marker intensity, size and shape.
+Estrogen / Progesterone
+Receptors ER/PR
+ER=Rabbit Monoclonal Antibody (clone SP1)
+PR=Rabbit Monoclonal Antibody (Clone 1E2)
+Anti-Estrogen receptor (ER) primary antibody is a rabbit
+monoclonal antibody (IgG) that is used for the qualitative
+detection of estrogen receptor antigens in sections of
+formalin-fixed, paraffin-embedded tissue on an automated
+slide stainer platform used in conjunction with an indirect
+biotin streptavidin detection system. The ER antibody is
+directed against the epitrope present on human ER protein
+Y
+1.
+P3
+located in the nucleus of norr and neoplastic cells. This
+test is indicated as and aid in the management, prognosis,,
+and prediction of therapy outcome of breast cancer.
+Anti-Progesterone Receptor (PR) primary antibody is a rabbit
+monoclonal antibody (IgG) that is used for the quantitative
+detection of the A, B and C isoforms of human progesterone
+receptor antigens in sections of formalin-fixed,
+paraffin-embedded tissue on an automated slide stainer
+platform used in conjunction with an indirect biotin
+streptavidin detection system. This test is indicated as
+and aid in the management, prognosis, and prediction of
+therapy outcome of breast cancer. The significance of PR is
+its role in determining the functionality of estrogen
+receptors in breast cancer cells. The presence of estrogen
+does not guarantee a response to endocrine therapy. One way
+to evaluate the functionality of the ER present in breast
+carcinoma is to determine if the proteins regulated by ER
+are expressed. PR receptor is such a protein, and has
+historically been-used to monitor the functionality of ER.
+The measures the percentage of positively stained
+nuclei of the tumor cells.
+Note: False negatives are possible. Positive staining for
+receptor in the normal glands if present is a good internal
+control, and increases the likelihood that a negative result
+is a true negative.
+=
+Ki-67 Rabbit Monoclonal (clone 30-9)
+Anti-Ki-67 primary antibody is directed against the
+C-terminal portion of the Ki-67 antigen, which is expressed
+in the nuclei of proliferating cells (normal and
+neoplastic). The antibody identifies proliferating activity
+in sections of formalin-fixed, paraffin-embedded tissue on
+an automated slide stainer platform used in conjunction with
+an indirect biotin streptavidin detection system.
+Assessment of tumor proliferative activity, IHC staining of
+tumor cell nuclei, can be used for prognosis and therapy
+planning. Ideal for use with small breast cancer specimens.
+The percentage of positively stained tumor nuclei is
+reported
+The {
+Interpretation utilizes the
+is an indirect biotin method.
+instrument. The
+is a
+Tissue Fixation
+ER/PR testing guidelines were released which include
+fixation recommendations. All tissue should be fixed in
+neutral buffered formalin as soon as possible. Excisional
+and mastectomy specimen tissue should be fixed for a minimum
+of 6 and maximum of 72 hours. For tissue not fixed within
+the optimal time period or if fixation time is unknown it
+should be noted on report. Any negative Her2 IHC result
+without optimal fixation time should have Her2 FISH testing
+performed.
+11.
+P4
+FISH, HER2/neu refl to IHC: CYTOGENETIC RESULTSCytogenetic
+Reference #:
+Completion Date:
+´est
+Test Setup Date:
+Specimen Source: Left breast
+Clinical History: Invasive ductal carcinoma;
+HER2 IHC: Not AvailableInterphase Cells: 30 Metaphase Cells:
+OFISH RESULTS: POSITIVE HER2 oncogene amplification detected
+by FISH analysisRatio of HER2 to D17Z1 is 8.0 (average
+count: HER2: 14.9, D17Z1: 1.9)nuc
+ish(D17Z1x1
+3,HER2x5
+25)[30]INTERPRETATION and COMMENTS: The
+HER2 FISH assay (Abbott Molecular) revealed amplification of
+the HER2 oncogene.A ratio of >2.2 is considered to indicate
+amplification.
+Slides from this sample were evaluated by an in-house
+pathologist and deemed adequate for HER2 FISH analysis. The
+formalin fixation time was between 6 hours and 48 hours per
+the submitting facility. Controls were performed and
+provided the anticipated results. The imaging method was
+manual. This case has been reviewed by at least 2 observers.
+Results from this test are intended for use as an adjunct to
+prognosis in stage II, node positive breast cancer patients.
+Clinically relevant amplification has been documented only
+when an invasive component is involved. Clinical correlation
+is recommended. This test is also indicated as an aid in the
+assessment of patients for whom Herceptin
+treatment is being considered.
+The performance characteristics of this assay have been
+determined by
+Performance characteristics
+refer to the analytical performance of the
+test. Reference:Wolff et al. Arch Pathol Lab Med
+P5
+11.
+Collection Date:
+Hospital of Origin:
+Copy to
+QC Pathologist:
+*** ADDENDUM REPORT ***
+ADDENDUM REPORT NUMBER TWO
+FISH RESULTS: Specimen Source: Left breast (
+A1)POSITIVE HER2 oncogene amplification detected by FISH
+analysisRatio of HER2 to D17Z1 is 8.0 (average count: HER2:
+14.9, D17Z1: 1.9) nuc ish(D17Z1x1
+3,HER2x5
+25)[30][Specific
+testing information from this report has been added to the
+microscopic description]
+Addendum Report Issued By:
+ADDENDUM REPORT NUMBER ONE
+BREAST PROGNOSTIC PANEL: (test results on block A1).
+TEST RESULT REFERENCE RANGES
+Estrogen Receptor: POSITIVE (91%) = 1% is Positive
+< 1% is Negative
+Staining Intensity: Strong
+Progesterone Receptor: POSITIVE (53%) = 1% is Positive
+< 1% is Negative
+Staining Intensity: Strong
+Ki-67 (MIB1) Proliferation Marker: HIGH (33%) > 20% is High
+10-20% is Borderline
+<10% is Low
+These results were interpreted by 1
+Indiana. An additional addendum report will follow when
+Her-2-neu tests are completed.
+[Specific testing information and references have been added
+to the microscopic description}
+The original diagnosis remains unchanged.
+Addendum Report Issued by:
+:
+Y
+.il.
+11.
+P6
+EXAMINATION: MRI BREAST
+Completed:
+FULL RESULT:
+ATERALI
+Indication: Newly diagnosed left breast cancer.
+Comparison: Multiple mammograms dating back to
+FINDINGS:
+Bilateral breast MRI was performed with and without contrast. CAD-stream
+computer-aided detection system was utilized
+to obtain multiplanar and 3-D reconstruction images. Subtraction images
+were created from dynamic contrast data. All
+images were evaluated at a work station.
+The right breast demonstrates no abnormal areas of enhancement or
+adenopathy.
+On the left, axillary lymph nodes are more hypervascular than on the
+right but morphologically they are similar and
+symmetric.
+In the anterior upper-outer quadrant of the left breast, there is a
+1.5 x 1.1 x 1.3 cm irregular enhancing mass
+consistent with the patient's known malignancy.
+Multiple scattered nodules are identified throughout the left breast.
+#1-3 cm superior, posterior and medial to the known malignancy is a
+6 x 5 x 7 mm enhancing nodule. Review of the
+prior mammograms demonstrates that this was not present prior to this
+year's mammogram and therefore is highly
+suspicious for a satellite lesion.
+#2--Approximately 1 cm posterior to the known malignancy is a 3 mm
+nodular area of enhancement.
+#3--2.3 cm inferior and lateral to the known malignancy is a 5 mm
+nodule. These are all suspicious for satellite
+lesions.
+#4--In the far lateral aspect of the breast, there is a 1-2 mm
+enhancing nodule.
+#5--Even more laterally, is a 3-4 mm enhancing nodule. This contains a
+fatty hilum and these latter two nodules are
+likely lymph nodes given their far lateral location and appearance.
+#6--In the posterior medial left breast a 3 mm enhancing nodule is seen.
+#7 in the far medial skin of the left breast there is a 4 x 2 x 4 mm
+enhancing nodule. This could represent either a
+benign or malignant skin lesion and therefore clinical correlation is
+recommended.
+Interspersed between the known malignancy and the suspected satellite
+lesions, are vague areas of subthreshold nodular
+enhancement. A 1.6 and 1.4 cm area of this type of enhancement is seen in
+_the medial breast Comparison of the MIP
+P7
+1r.
+projections show that these of
+ll areas of scattered enhancement and
+nodularity are very asymmetric to the right and
+therefore may relate to additional disease. Inclusion of all of the
+areas of enhancement shows that a large percentage
+of the breasts may be involved with disease measuring up to 8.0 x 6.8 cm.
+Multicentric disease 
+should be excluded. If breast conservation therapy
+is considered, then biopsy of one or more of the
+nodules will be needed. The 7 mm lesion, 3 cm from the known malignancies
+(#1) would likely be 
+visible by ultrasound and
+amenable to biopsy. Some of the smaller more posterior nodules in the
+medial breast 
+may not be visible by ultrasound.
+IMPRESSION:
+1. The patient's known malignancy is identified in the anterior
+upper-outer quadrant and measures 1.5 cm. There are
+multiple scattered enhancing nodules seen within the breast that are
+suspicious for satellite lesions. Biopsies as
+clinically indicated should be performed.
+HISTORY
+Allergies: NKDA
+Current Meds: See attached list please
+PHYSICAL
+VITAL SIGNS: BP-
+WNL Abnormal N/A
+P.
+R-
+See preprocedure record
+Mental Status
+HEENT
+Heart
+Lunga
+Abdomen
+Pelvic
+Extremities
+000000
+000000
+PMH: fibromyalgia, Sjogren's Syndrome, rheumatoid arthritis Osteo arthritis.
+-Surgical Hx: Knee replacement
+., left breast. biopsy
+Family Hx: breast cancer
+Lab/X-Ray: ☐ Normal Abnormal (explain) Pathology, Invasive dictal carcinonia
+CC/Present liness left breast cancer, Sibromyalgia, Sjogren's 
+Syndrome, rheumatoid
+arthritis
+, osteoarthritis.
+Admit/Pre-Op Diagnosis:
+Treatment Plan:
+Surgery Date
+left breast cancer
+"Left modified radial mastertony with sentinel hade mapping
+With frozen section.
+H&P Date_
+Time
+ignature
+M.D.
+P8
+LA AUVSICAL
+>

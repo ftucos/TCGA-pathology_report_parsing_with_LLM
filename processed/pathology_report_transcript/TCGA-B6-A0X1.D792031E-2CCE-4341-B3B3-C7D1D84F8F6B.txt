@@ -1,0 +1,92 @@
+Purgical Path
+Surg Path
+сагатата, три ночной анслах, Nus
+Site: breast, Nos
+050.9
+1/25/11
+CLINICAL HISTORY:
+Large primary tumor left breast.
+GROSS EXAMINATION:
+A. "Left breast biopsy", received fresh. Fibroadipose tissue 5.4 x 4 cm
+containing a central infiltrative yellow white stellate tumor 3 cm in
+diameter. Al- AF1. Representative sections in Block A2-A4.
+B. "Left breast", fresh. A breast measuring 23 x 15 x 6 cm with an overlying
+skin ellipse 17 x 9 cm. There is a retracted nipple toward the medial aspect.
+A sutured incision 6 cm across is present towards the lateral aspect. Numerous
+slightly elevated brown warty lesions are present on the skin adjacent to the
+nipple. Attached axillary tissue is present measuring 13 x 3 x 5 cm and this
+contains numerous enlarged lymph nodes, the largest of which measures 2.5 cm
+across. The largest three nodes have been marked with a suture and bisected.
+Sectioning the breast shows a cavity beneath located in the upper outer
+quadrant the incision measuring 5 cm in diameter. The deep margin is 0.5 cm
+from the deep edge of the cavity. None of these tumor tissues is present
+within wall. 
+The remaining breast tissue is irregular fibrous but shows no
+suspicious lesions.
+Block Summary:
+B1- nipple and adjacent skin lesions.
+B2- nipple.
+B3 deep margin.
+B4, B5- cavity wall.
+B6 lower outer quadrant.
+UUID:D792031E-2CCE-4341-83B3-C7D1D84F8F6B
+TCGA-B6-A0X1-01A-PR
+Redacted
+B7- lower outer quadrant.
+B8- upper inner quadrant.
+B9- upper outer quadrant.
+B10- one lymph node lower axilla.
+B11, B12- one lymph node
+.
+B13- fibrous tissue mid axilla.
+B14, B15- two lymph nodes.
+B16 three lymph nodes.
+B17- four lymph nodes.
+B18- four lymph nodes upper axilla.
+B19- four lymph nodes.
+B20- two lymph nodes.
+No
+Yes
+QUALIFIED
+Date Reviewed:
+DISQUALIEJED
+INTRA OPERATIVE CONSULTATION:
+AF1 "Invasive ductal carcinoma". Tissue sent for ER/PR.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is (circle
+):
+Reviewer Initials
+MICROSCOPIC EXAMINATION:
+Sections show poorly differentiated invasive ductal carcinoma of no special
+type 
+invading breast tissue. The tumor is composed of highly atypical
+pleomorphic epithelial cells forming sheets, cords, and columns with minimal
+attempt at the gland formation. There is extensive lymphatic channel invasion
+by tumor
+, and extensive tumor necrosis is present.
+DIAGNOSIS:
+A. "LEFT BREAST BIOPSY":
+INVASIVE DUCTAL CARCINOMA OF NO SPECIAL TYPE MEASURING 3 CM ACROSS.
+NSABP NUCLEAR GRADE 3, HISTOLOGIC GRADE 3.
+EXTENSIVE LYMPHATIC CHANNEL INVASION AND TUMOR NECROSIS IS PRESENT.
+B.
+NO ADJACENT IN SITU CARCINOMA PRESENT.
+"LEFT BREAST BIOPSY", LEFT RADICAL MASTECTOMY.:
+BIOPSY CAVITY WALL CONTAINS RESIDUAL HIGH GRADE INVASIVE DUCTAL CARCINOMA
+OF NO SPECIAL TYPE SIMILAR TO THE ABOVE TUMOR.
+DEEP MARGIN IS FREE OF TUMOR.
+NIPPLE AND NIPPLE DUCT ARE FREE OF TUMOR.
+SEPARATE FOCI OF TUMOR IS IDENTIFIED IN THE UPPER INNER QUADRANT,
+REPRESENTING MULTIFOCAL TUMOR.
+METASTATIC TUMOR PRESENT IN 16 OF 21 LYMPH NODES WITH EXTRACAPSULAR
+INVASION OF TUMOR PRESENT.
+(3 OUT OF 4 LOWER AXILLA, 9 OUT OF 11 MID AXILLA, 4 OUT 6 UPPER AXILLA)
+MULTIPLE SEBORRHEIC KERATOSIS ON SKIN ADJACENT TO NIPPLE.
+Verified by:
+(Electronic Signature)
+Date Signed:

@@ -1,0 +1,291 @@
+Patient:
+Referring Physician:
+DOB:
+Ref#:
+Age:
+Hosp#:
+Gender: F
+Provider Group:
+Date of Service: Date Received:
+Metastatie LN
+UUID:A92859DA-41AD-4CF9-86AF-E4073E6276ED
+TCGA-AC-A6IX-06A-PR
+Redacted
+A copy of this report will be faxed to:
+Date Reported:
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating lobuler, Nos
+852013
+A. -B.) LEFT BREAST, MODIFIED RADICAL MASTECTOMY:
+Multicentric invasive lobular carcinoma, Nottingham grade 2.
+-
+-
+· Tumor size: 3.5 cm.
+-
+- Smaller tumor nodules: 0.1 to 1.2 cm in diameter.
+- Atypical lobular hyperplasia and atypical ductal hyperplasia.
+Site: lymph node, axillary
+- Metastatic carcinoma in nineteen of twenty-one axillary lymph nodes (19/21).
+Largest 
+metastatic focus: 2.5 cm; extranodal extension present.
+- One of the nodes was previously biopsied.
+- Mastectomy margins are free of tumor.
+Carcinoma is 1 cm from the deep margin, and at least 1 cm from all other
+margins.
+PATHOLOGIC TUMOR STAGING SUMMARY:
+Type and grade (invasive): Invasive lobular carcinoma, Nottingham grade 2.
+Primary 
+tumor: pT2(m).
+Regional lymph nodes: pN3a.
+Distant metastasis: Not applicable.
+Pathologic stage: IIIC.
+Margin status: Negative.
+COMMENT: The main tumor mass is located in the 3-4:00 region of the breast, and
+grossly measures 
+3.5 cm in diameter. Adjacent to this nodule is a 1.2 cm secondary
+nodule. A third 0.5 cm 
+nodule is identified in the lower inner quadrant, and small foci
+of invasive tumor 
+are located in the subareolar breast tissue. The separately
+submitted lymph node (specimen B) is positive for metastatic carcinoma, and is
+included 
+in the total lymph node count above.
+Invasive Breast Cancer Tumor Staging Information
+AJCC Cancer Staging Handbook, 7th Ed., and CAP Protocol (revised June 2012).
+Previous 
+pathology specimens
+Case #
+Printed:
+07703
+سل
+3/5/14
+Page 1
+This report continues. (FINAL)
+MR No. -
+Acct No.
+Patient Name -
+'athology - Page 1/6
+Dage 1 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Case #.
+Printed:
+Page 2
+This report continues. (FINAL)
+MR No. -
+Acct No.
+Patient Name
+Pathology - Page 2/6
+Page 2 Doc# 1
+Patient:
+Case #:
+SPECIMEN IDENTIFICATION
+Procedure/specimen type:
+Laterality:
+Lymph node sampling:
+INVASIVE CARCINOMA TUMOR CHARACTERISTICS
+Histologic type:
+Tumor site:
+Tumor size:
+Modified radical mastectomy.
+Left.
+Lymph node dissection.
+Invasive lobular carcinoma.
+Main mass 3-4:00 aspect.
+3.5 cm.
+Multicentric.
+Tumor focality:
+Histologic grade (Nottingham Score):
+Tubule formation:
+Nuclear pleomorphism:
+Mitotic rate:
+Lymphovascular invasion:
+Macroscopic and microscopic extent of tumor:
+DUCTAL CARCINOMA IN SITU (DCIS):
+MARGINS
+Invasive carcinoma:
+2 of 3.
+3 of 3.
+2 of 3.
+1 of 3.
+Indeterminate.
+No skin or chest wall invasion is identified.
+Not identified.
+1 cm from deep margin, at least 1 cm from all
+other margins.
+LYMPH NODES
+Total lymph nodes examined
+Number of lymph nodes involved
+Size of largest metastatic deposit:
+Extranodal extension:
+PATHOLOGIC STAGING:
+Primary Tumor (pT):
+Regional lymph nodes (pN):
+Distant metastasis (PM):
+AJCC Stage:
+ANCILLARY STUDIES:
+Estrogen receptor:
+Progesterone receptor:
+HER2:
+Ki-67:
+21.
+19.
+2,5 cm.
+Present around multiple lymph nodes.
+pT2(m).
+pN3a.
+Not applicable.
+IIIC.
+98% positive cells, strong intensity.
+Less than 1% positive cells, strong intensity.
+IHC score 1+.
+5% positive cells.
+Case #:
+Printed:
+Page 3
+This report continues. (FINAL)
+MR No
+Acct No. -
+Patient Name
+Pathology
+Page 3/6
+Page 3 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Source of Specimen:
+A. Breast;left
+B. Apical node
+Clinical History/Operative Dx:
+Left breast cancer
+Gross Description:
+A. Received fresh labeled "modified radical mastectomy" is a right modified radical mastectomy
+specimen. The breast 
+measures 16 cm (medial-lateral) x 15 cm (superior-inferior) x 5 cm
+(anterior-posterior)
+, and weighs 538 g. There is an elliptical portion of tan skin measuring 15 x 8 cm, with
+nipple and areola present 
+just medial of center. The attached axillary tail measures 10 x 4 x 1,5 cm. The
+specimen is inked as follows:
+Blue - Superior,
+Orange - Inferior,
+Black - - Deep.
+The specimen is sliced from medial to lateral in nine slices with slice 1 most medial, slice nine most
+lateral (including axillary tail). 
+The nipple is in slice #4.
+There is a dominant mass in the 3-4:00 aspect of the specimen, approximately 5 cm from the nipple,
+measuring 3.5 x 3 x 
+2 cm. This mass is 2 cm from the closest inferior margin, 1 cm from the deep margin,
+and is at least 4 cm from all other 
+margins. A nodule is appreciated superior-posterior to lesion #1, 1.2 x
+0.8 cm, within slabs 4-5.
+There is a second ill-defined nodule located approximately 3 cm superior to the largest mass, located in
+the upper outer quadrant, 
+approximately 2 cm in diameter. A third ill-defined area of nodularity is
+identified in the upper 
+inner quadrant measuring up to 2.5 cm in diameter, located in slabs 3-4, from
+Case #:
+Printed:
+Page 4
+This report continues... (FINAL)
+Pathology
+MR No.
+Page 4/6
+.cct No
+atient Name
+Je 4 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+medial. In the lower inner quadrant, there is a 0.5 cm nodule, at least 1 cm from the nearest margin.
+There is ill-defined nodularity in the lower outer quadrant region, apart from the main tumor, and areas of
+central fibrocystic changes. The axillary tail 
+contains prominent lymph nodes, the largest of which is 2.5
+cm in diameter. Portions of tumor and non-
+tumor breast tissue, and a portion of the suspicious lymph node
+are submitted for research. Time removed from breast:
+Time placed in formalin:
+Representative sections are submitted according to the following slide key:
+A1) nipple (slab 4),
+A2) medial and lateral extension of skin represented,
+A3) lower outer quadrant,
+A4) lesion #1, lower outer quadrant,
+A5) lesion #1, overlying skin,
+A6) lesion #1, deep margin relationship,
+A7) lesion #1, lower outer quadrant, adjacent inferior superficial surgical margin, slab 6,
+A8) lesion #1, slab 7,
+A9) lower outer quadrant, adjacent to lesion #1, slab 8,
+A10-A11) discrete bilobed nodularity, superior to lesion #1, slabs 4-5, respectively,
+A12) second (#2) ill-defined mass, slab 5,
+A13) second ill-defined mass, slab 6,
+A14) second ill-defined mass, superior edge, slab 7,
+A15) deep surgical margin adjacent to second ill-defined mass,
+A16) superior superficial surgical margin adjacent to second ill-defined mass, slab 6,
+A17) upper outer quadrant, slab 8,
+A18) third nodule, upper inner quadrant, adjacent to second ill-defined mass, slab 4, adjacent deep
+margin separate piece,
+A19) upper inner quadrant, third nodular area, slab 3,
+A20) upper inner quadrant, deep surgical margin, adjacent to third nodular area suspicion, slab 3,
+A21) upper inner quadrant, superficial surgical margin adjacent to third nodular area of suspicion, slab 3,
+A22) upper inner quadrant, adjacent 
+to third nodular area. slab 1,
+A23) lower inner quadrant, slab 2,
+A24) central breast subareolar area, slab 4,
+A25) discrete nodule, lower inner quadrant,
+A26-A27) largest lymph node,
+A28) four lymph nodes,
+A29) five lymph nodes,
+A30) two lymph nodes bisected, one marked orange,
+A31) two lymph nodes bisected, one marked orange,
+A32) larger and smaller lymph node, each bisected, one marked orange,
+A33) single lymph node bisected,
+A34) single lymph node bisected.
+A35) single lymph node bisected
+B. Part B designated apical node. Received is a single pink-gray, dense gray lymph node candidate, 1.3 x
+0.7 x 0.5 cm. The node is submitted in its entirety, 
+bisected in B1.
+Case #
+Printed:
+Page 5
+This report continues... (FINAL)
+MR No.
+Acct No.
+_lient Name -
+Pathology - Page 5/6
+Page 5 Doc# 1
+Patient:
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #
+Printed:
+MR No
+Acct No.
+Patient Nam
+'athology - Page 6/6
+This is A metastatic lymph node.
+Criteris
+Diagnosis Discrepancy
+W 3/5/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is facials
+Reviewer nical I
+Yes
+No
+QUALIFIED I DISQUALIFIED
+Date Reviewed:
+✓
+✓
+Page 6
+END OF REPORT (FINAL)
+Page 6 Doc# 1

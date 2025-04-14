@@ -1,0 +1,80 @@
+Patient
+Surgical Pathology
+Surg Path
+ICD-0-3
+Carcinoma, ductal. Nos, infiltrating 8500/3
+breast, Nos
+1/17/11 w
+Site Code
+050.9
+UUID:0ED7357E-662C-4D65-82ED-29739919068F
+TCGA-B6-A0IQ-01A-PR
+CLINICAL HISTORY:
+Infiltrating ductal cancer by incisional biopsy.
+GROSS EXAMINATION:
+A. "Left breast". Received fresh is a 600 gram, 17 x 14 x 4 cm breast with a
+7 × 5 × 2.5 cm axillary tail. There is a 15 x 10 cm skin ellipse with a 4 cm
+in 
+diameter areolar and a 1 cm in diameter nipple. 5 cm superior and lateral
+to 
+the nipple is a 2.5 cm well-healed scar. On cut section, a 5.5 x 4 x 3.5
+cm firm tan-white mass lies deep to the skin incision. Within the mass is a 1
+× 1 × 1 cm hemorrhagic capsule. The mass appears well-circumscribed but
+approaches to within 2 mm of the deep margin. No other lesions are noted.
+BLOCK SUMMARY:
+A1-A2- nipple.
+A3- scar and previous biopsy capsule.
+A4-A5- representative sections of tumor.
+A6-A7- deep margin.
+A8- upper inner quadrant.
+A9- lower inner quadrant.
+A10- lower outer quadrant.
+All- upper outer quadrant.
+A12- six lymph node candidates, proximal third.
+A13- five lymph node candidates, middle third.
+A14- five lymph node candidates, distal third.
+A15- four lymph node candidates, distal third.
+A16- four lymph node candidates, distal third.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+IFAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle)
+Reviewer Initias
+QUALIFIED
+Date Reviewed
+DISQUALIHOD
+B. "Rotter's node". Received fresh is a 1.2 x 0.7 x 0.5 cm firm node which is
+bisected and submitted in toto in Block Bl.
+MICROSCOPIC EXAMINATION:
+The carcinoma is growing as rounded masses composed of nests and trabeculae
+of 
+carcinoma
+. There is extensive necrosis. 10 mitoses per 10 high power fields
+are present. The pattern of growth makes it difficult to be certain what is
+invasive 
+and what is in-situ with cancerization of the lobules.
+DIAGNOSIS:
+A. "LEFT BREAST" (MASTECTOMY):
+BREAST WITH RESIDUAL INFILTRATING DUCTAL CARCINOMA, NSABP HISTOLOGIC GRADE
+3, NUCLEAR GRADE MODERATELY-DIFFERENTIATED.
+SIZE IS 5.5 X 4 X 3.5 CM. INCLUDING PRIOR BIOPSY CAVITY.
+LESS THAN 5% IDENTIFIABLE AS INTRADUCTAL CARCINOMA, SOLID AND COMEDO TYPES.
+THE CARCINOMA IS WITHIN 1 MM OF THE DEEP MARGIN.
+NO LYMPHATIC INVASION IS SEEN.
+BENIGN CHANGES OF THE BREAST INCLUDING APOCRINE METAPLASIA AND DUCT
+ECTASIA.
+NIPPLE WITH NO PATHOLOGIC DIAGNOSIS.
+26 LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY.
+B. "ROTTER'S NODE" (EXCISION):
+eBrowser Result for:
+Redacted
+Yes
+Na
+1 of 2
+ONE LYMPH NODE, POSITIVE FOR CARCINOMA.
+Verified by:
+eBrowser Result for
+2 of 2

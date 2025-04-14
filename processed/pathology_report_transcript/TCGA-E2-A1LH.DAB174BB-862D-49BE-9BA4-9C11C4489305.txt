@@ -1,0 +1,161 @@
+TSS:
+SPECIMENS:
+A. SENTINEL LYMPH NODE BX #1 RIGHT AXILLA
+B. SENTINEL LYMPH NODE BX #2 RIGHT AXILLA
+C. WIDE EXCISION RIGHT BREAST
+D. RIGHT BREAST CYST
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast,
+E. RE-EXCISION INFERIOR LATERAL MARGIN-RIGHT BREAST
+DIAGNOSIS:
+A. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+B. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+ONE LYMPH NODE, NEGATIVE FOR TUMOR (0/1).
+C. BREAST, RIGHT, WIDE EXCISION:
+Nos
+C50.9
+-INVASIVE POORLY DIFFERENTIATED DUCTAL CARCINOMA WITH LOBULAR EXTENSION OF
+RIGHT BREAST (SBR GRADE 3)
+-SIZE OF TUMOR: 1.5x1.5x1.2cm
+-MARGINS OF RESECTION: FREE OF TUMOR
+-BLUNT DUCT ADENOSIS AND FOCAL SCLEROSING ADENOSIS
+-FOCAL DUCT ECTASIA
+D. RIGHT BREAST CYST, EXCISION:
+-CONISITENT WITH RUPTURED APOCRINE RETENTION CYST WITH REACTIVE ATYPIA; AND
+PERIDUCTAL FIBROSIS WITH GRANULATION TISSUE
+-CYSTIC AND PAPILLARY APOCRINE CHANGE
+-FOCAL BLUNT DUCT ADENOSIS
+-FOCAL PERIDUCTAL DUCT ECTASIA (NEGATIVE FOR TUMOR)
+E. RIGHT BREAST, RE-EXCISION-INFERIOR LATERAL MARGIN:
+-DUCTAL CARCINOMA IN SITU WITH LOBULAR EXTENSION (SOLID
+PATTERN), HIGH NUCLEAR GRADE .see note
+-
+STROMAL FIBROSIS, FOCAL PERIDUCTAL MASTITIS
+-CYSTIC APOCRINE CHANGE WITH MICRO AND COARSE CALCIFIACTION
+Note: Slide#E1-represents section from new margin that shows extension of DCIS involving
+3 lobular acini. There is no stromal invasion.
+Slide#E6-focus of DCIS measures 8x5 mm, and in#E4-6x4 mm.
+2/15/11
+Invasive Breast Cancer Template
+INVASIVE TUMOR:
+Histologic type: ductal
+Tumor Size (cm): 1.5x1.5x1.2cm
+Size of Invasive Focus: 1.5x1.5x1.2cm
+Grade, Histologic: 3
+Grade, Nuclear: 3
+Mitoses (Olympus 40x): 3
+Scarff Bloom Richardson grade: III
+Necrosis: absent
+Invasion Vasc/Lymphatic: absent
+DCIS component
+DCIS Quantity: <25%
+DCIS Type: solid
+DCIS Location: inside and outside main mass
+Nuclear grade:
+Necrosis: present
+Margins: see note
+high
+Lymph nodes: negative (0/2) sentinel lymph nodes
+Stage, Pathology: pT1c
+UUID:DAB17488-862D-498E-9BA4-9C11C4489305
+TCGA-E2-A1LH-01A-PR
+Redacted
+TSS:
+Non-neoplastic areas:
+Hormone receptor status (by IHC): ER: pending
+HERCEPTEST (by IHC): pending
+Pathologist
+Electronically signed -
+ADDENDUM
+PR: pending
+The ER/PR/HER2 status of the invasive breast carcinoma was determined by immunohistochemistry
+and quantitated via ACIS (image analysis). Results are as follows:
+0%
+ER
+PR
+0%
+HER2
+0.0%
+A separate ACIS report has been generated.
+NOTE: FISH analysis for HER2 gene amplification has not been ordered.
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE BX #1 RIGHT AXILLA B. SENTINEL LYMPH NODE BX #2 RIGHT
+AXILLA C. WIDE EXCISION RIGHT BREAST D. RIGHT BREAST CYST E. RE-EXCISION INFERIOR
+LATERAL MARGIN-RIGHT BREAST
+CLINICAL HISTORY:
+Right breast ca.
+FROZEN SECTION DIAGNOSIS:
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+Touch prep: No tumor seen on touch prep
+B. SENTINEL LYMPH NODE BIOPSY #2 RIGHT AXILLA
+Touch prep: No tumor seen on touch prep, reported to Dr. by Dr. a
+C. WIDE EXCISION RIGHT BREAST
+Gross only: Tumor about 0.8cm. from anterior margin, reported to Dr. by Dr.
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE BIOPSY #1 RIGHT AXILLA
+Received fresh in a single container labelled and designated "sentinel lymph node bx #1 right axilla"
+and consists of a single 1.5x1.1x0.4cm. lymph node with tan cut surfaces and associated unremarkable
+adipose tissue. A touch preparation is made from the lymph node. The entire specimen is submitted in
+a single cassette labelled A1.
+B.
+SENTINEL LYMPH NODE BIOPSY #2 RIGHT AXILLA
+Received fresh in a single container labelled and designated "sentinel lymph node bx #2 right axilla"
+and consists of a single 1.3x1.3x0.4cm. lymph node with tan cut surfaces and associated unremarkable
+adipose tissue. Touch preparations are made from the lymph node. The entire specimen is submitted
+in a single cassette labelled B1.
+C. WIDE EXCISION RIGHT BREAST
+Received fresh in a single container labelled and designated "wide excision right breast cancer with
+needle localization" and consists of a single 8.5x7.5x3.0cm. resected portion of breast tissue. A single
+stitch of suture indicates the anterior aspect and a double stitch indicates the lateral aspect. A
+TSS.
+localization wire is present within the specimen. A radiograph is also received with the specimen and
+shows a radiographic density in the region of the tip of the wire. The margins of resection is inked as
+follows: inferior orange, superior red, lateral yellow, anterior blue, medial green, posterior black. The
+specimen is serially sectioned from superior to inferior and a 1.5x1.5x1.2cm. tan grey well
+circumscribed tumor is identified. The tumor does not approach any of the margins grossly. However,
+it is within approximately 0.8cm. of the anterior (blue) margin. The tumor is at least 1.5cm. away from
+all the other margins. A small portion of tumor is submitted for tissue procurement as well as a portion
+of uninvolved breast parenchyma. The remainder of the cut surfaces are remarkable only for multiple
+small cystic nodules all 0.3cm. in diameter or less. Multiple sections including approximately 95% of the
+tumor are submitted and labelled as follows:.
+Code of sections:
+C1-C2: tumor approaching anterior margin
+C3: tumor
+C4-C5: tissue adjacent to medial margin
+C6-C9: breast with cystic nodules
+D. RIGHT BREAST CYST, excision
+Received in formalin in a single container labelled and designated "right breast cyst" and consists of a
+single portion of firm tan yellow fibrofatty tissue measuring 3.7x2.7x2.2cm. No orientation is given. The
+resection margin is inked. The specimen is serially sectioned and located centrally is a 1.2cm. diameter
+cyst. The inner lining is smooth and tan. The remainder of the cut surfaces are composed of
+unremarkable adipose tissue with streaks of breast parenchyma. All of the cyst is submitted in
+cassettes D1 through D6.
+E. RE-EXCISION INFERIOR LATERAL MARGIN RIGHT BREAST
+Received in formalin in a single container labelled and designated "re-excision inferior lateral margin
+right breast" and consists of a portion of tissue measuring 2.0x1.7x1.5cm. A short stitch of suture
+indicates the inferior aspect of the specimen and a long stitch indicates the lateral aspect which is the
+new margin. The new margin submitted in a single cassette labelled E1 en face. The remainder of the
+specimen is serially sectioned and the cut surfaces show unremarkable adipose tissue and breast
+parenchyma.Remainder of specimen submitted and labelled E2-E9.
+Gross Dictation: Pathology Fellow
+Microscopic/Diagnostic Dictation: Pathologist, 1
+Final Review: Pathologis
+Final: Pathologist,
+Addendum: Pathologist,
+Addendum Review: Pathologist,
+Addendum Final: Pathologist
+Criteria
+Diagnosis Discrepancy
+Primary humer Site Discrepanc
+HIPAA Discrepancy
+Pric. Malignancy History
+Qual/Synchronous frimary Koted
+Case is (circle):
+Reviewer Inals
+H
+Yes
+QUALIFIED
+Date Re lewed:
+CISQUALIFIED

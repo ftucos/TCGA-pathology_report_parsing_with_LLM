@@ -1,0 +1,68 @@
+Patient:
+Surgical Pathology+
+Surg Path
+ICD-0-3
+Adenocarcinoma papillary and infilirating 8503/3
+Site Code breast, Nos
+050.9
+1/18/11
+CLINICAL HISTORY:
+year old white female with right subareolar breast mass times 3 month.
+Right 
+breast carcinoma.
+GROSS EXAMINATION:
+A. "Right breast mass-wide local excision" in formalin.
+of a portion of breast tissue with a skin ellipse and nipple.
+The 
+specimen consists
+ellipse measures 
+9 x 3.5 cm.
+The skin
+The underlying breast tissue measures 10 x 4 × 4
+cm. The outer surface was inked in blue.
+is a 2.5 x 2 x 1.5 cm mass composed of tan firm friable tissue with focal
+Directly 
+beneath the skin 
+ellipse
+areas of hemorrhage
+. The mass is sharply circumscribed.
+from 
+the deep surgical margin.
+The mass is 0.8 cm
+Block Summary:
+Al: Section of nipple.
+A2-All: Section of mass including deep surgical margin.
+MICROSCOPIC EXAMINATION:
+Large portions of the tumor are made up of well-formed papillary tumor with
+fibrovascular cores lined 
+by malignant, stratified, complicated, epithelium.
+In addition, cribriform and tubular foci infiltrate desmoplastic fibrous
+tissue.
+This case was reviewed by Dr.
+DIAGNOSIS:
+A. "RIGHT BREAST MASS- WIDE LOCAL EXCISION":
+INVASIVE PAPILLARY ADENOCARCINOMA OF BREAST (2.5 CM IN GREATEST DIAMETER).
+MARGINS OF RESECTION ARE 
+FREE OF TUMOR
+Verified by:
+1.D. i.d.
+Result for
+Date
+Redacted
+UUID:8AABC46F-03C7-4FBF-AC20-2C862E303A8B
+TCGA-B6-A0IC-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prio Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewertia
+QUALIFIED
+DATE Reviewed:
+Yes
+Na
+DISQUALIFI.D
+1341
+1 of 1

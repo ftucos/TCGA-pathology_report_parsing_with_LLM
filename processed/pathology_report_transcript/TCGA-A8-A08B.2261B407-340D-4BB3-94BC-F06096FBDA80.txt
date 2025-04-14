@@ -1,0 +1,30 @@
+09
+:
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 8500/3
+1/25/11 bu
+Path
+Site: breast, UIQ C50.2
+CQCF
+Site: breast, Nos 050.9
+Diagnosis:
+1. Bifocal poorly differentiated invasive ductal carcinoma (tumor diameters: 2.5
+cm and 0.7 cm) with focal intraductal components.
+Concluding tumor classification: NOS, G III, pT2(mult)N0(sn)L0V0R0
+UUID:22618487-340D-4883-94BC-F06096FBDA80
+TCGA-A8-A08B-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initiali
+QUALIFIED
+Date Reviewed
+Redacted
+Yes
+No
+DISQUALIFIED

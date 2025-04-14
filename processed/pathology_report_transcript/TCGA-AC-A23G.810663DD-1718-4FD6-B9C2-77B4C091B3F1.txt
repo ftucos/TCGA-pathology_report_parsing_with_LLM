@@ -1,0 +1,245 @@
+UUID:810663DD-1718-4FD6-B9C2-77B4C091B3F1
+TCGA-AC-A23G-01A-PR
+Redacted
+Collected
+Received:
+Reported:
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Site: Breast. Nos
+C50.9
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS:
+Accession
+Acct/Re
+4/19/11
+fin
+Pg1
+DIAGNOSIS
+A. Right axillary sentinel lymph nodes, excision:
+Metastatic adenocarcinoma involving
+B. Right breast, mastectomy:
+frozen section diagnosis confirmed.
+Bloom Richardson cartells up to 2.0 cm in maximal diameter as measured on glass slide, upperinges quadrant
+Areas of angiolymphatic Invasion 
+suggested.
+No in situ component identified.
+Histologically unremarkable nipple and negative inked deep surgical margin of resection.
+Background of proliferative fibrocystic changes including moderate usual ductal hyperplasia and a single microscopic focus of atypical ductal
+hyperplasia.
+Ancillary studies previously obtained
+C. Right axilary contents, regional resection:
+Metastatic adenocarcinome
+ING
+The largest lymph node shows a multifocal microgranulomatous reaction associated with refractile foreign material.
+Staging sheet #25
+Stage: T1cN1MX, stage
+İla
+CLINICAL HISTORY:
+Preoperative Diagnosis: Right breast cancel
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Right axillary sentinel nodes
+B. Right breast
+C. Right axillary contents
+Electronic Signature: ·
+CLINICAL INFORMATIO
+Criteria
+Yes
+No✓
+Diagnosis Discrepancy
+Primary Tumor Site Di.crepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Qual/Synchroncus P.inary Noted
+Case is (circle):
+viewer
+QUALIFIED / CISQUALIFIED
+Date Reviewed.
+14/19/11
+GROSS DESCRIPTION:
+SPECIMEN DATA
+A. The first container A is labeled
+were examined at the time of surgery and are subsequently entirely submitted in cassettes:
+_ and 
+consists of two lymph nodes measuring 1.2 
+x 1.0 x 0.5 cm and 1.5 x 1.2 x 0.5 cm. The lymph nodes
+as follows: 
+FSA1--1; FSA2--2.
+B. The second container B is labeled
+Inked and sectioned with attached skin measuring 25.0 x 15.0 x 6.0 cm and weighs 830 grams. The skin surface measures 20.0 x 9.0 cm and is light
+nd right breast and consists of a portion of fibroadipose breast tissue that has been received previously
+tan wrinkled. There is an area discolored by blue contrast dye surrounding the nipple measuring 6.0 cm. 
+The nipple is centrally placed and appears
+grossly normal. The specimen has 
+oriented with a suture at superior. On sectioning there is a firm gray-tan 
+fibrous mass measuring 1.2 x 1.0 x 0.7 cm
+that is 1.0 cm from the deep margin of 
+resection and is located predominantly within the upper inner quadrant. 
+The surrounding breast tissue reveals
+fatty fibroadipose breast tissue with fihmus 
+tissue. There are no other lesions grossly Identified. Received 
+with the specimen are two cassettes, one
+Representative sections are submitted in cassettes
+Hargin ovenying mass-6, 
+sections 
+from 
+upper Inner quadrant--7; lower Inner quadrant--8; lower outer quadrant-8; upper outer quadrant--10.
+as follows: nipple-1; sections from mass-
+2
+C. The third 
+container C is labeled
+Sectioning reveals twelve probable lymph nodes measuring from 0.2 to 1.5 cm. The lymph nodes are entirely submitted in cassetter
+and right axillary contents and consists of a portion of fibroadipose tissue measuring 8.0 
+x 5.5 x 2.5 cm.
+to b
+as.
+i
+:
+follows: five probable nodes-1; six probable nodes-2; one lymph node trisected--3 and 4.
+INTRA-OPERATIVE CONSULTATION:
+FSA: 'Metastatic neoplasm in at least one of the two lymph nodes'n.
+P92
+Addendum: Pathology of the filtrasound core biopsy rightkeparti, positive for invasive lobular carcinoma. Patient needs
+to be referred to a breast surgeon; Patient was called with results and will followup with
+necessary surgical referral
+*** END OF ADDENDUM ***
+*** VOICE TO TEXT SYNOPSIS ADDENDUM ***
+Invasive lobular carcinoma Patient needs to be referred to a surgeon
+ADS: (6) Known biopsy-proven malignancy
+END OF ADDENDUM ***
+FULL RESULT:
+.
+Indication: Right breast masstaðurd guid
+for the
+Vacuum-assisted ultrasound-guided core biopsy: Scana through the right breast at 1:00 again confirm a soild Irregular
+mass. It has shadowing posteriorly. Following local anesthesia, a 10
+-gauge Cassi device was introduced into the mass
+under ultrasound guidance, using vacuum assistance, multiple core 
+samples were obtained. Procedure was well tolerated.
+Clip placement: Under ultrasound guidance, a biopsy clip was inserted percutaneously into the area of the mass. This was
+successfully deployed under ultrasound guidance.
+***
+. . i
+Right mammogram, post procedure: A postbiopsy mammogram was obtained. This confirms placement of the biopsy
+marker clip.
+It is well within the spiculated mass in the upper inner quadrant.
+IMPRESSION:
+Irregular solid mass right breast at
+Ultrasound-guided vacuum-assisted core blopsy performed. Clip
+deployed successfully into the biopsy site. Pathology pending...
+P93
+ADDENDUM REPORT NUMBER TWO
+BREAST PROGNOSTIC PANEL: Block 2
+TEST
+DNA Analysis by Image:"
+DNA Index:
+PATIENT INFORMATION
+PHYSICIAN INFORMATION
+Collected:
+Received.
+Reported:
+RESULT
+SPECIMEN INFORMATION
+Accession #
+Acct/Reg#: (
+SURGICAL PATHOLOGY REPORT
+*** ADDENDUM REPORT **
+SEE COMMENT
+REFERENCE RANGES
+0.9-1.1 Is Diploid
+<0.9 or > 1.1 Aneuploid
+COMMENT: Insufficient tumor volume is present for quantitation of DNA by Image analysis.
+Her2 Gene Amplification By FISH:
+NEGATIVE
+Average coples per call:
+Her-2/neu:
+1.82
+Chromosome 17:
+Ratio:
+1.67
+1.09
+Case Interpreted by i
+>20 Her2/neu
+Notes:
+*Quantitative analysis performed using Chromavision ACIS.
+The Her2 /neu and CEP17 probes are manufactured by Vysis Inc.
+The Her2/neu gane detection by Fluorescence in Situ Hybridization (FISH) was performed using the LSI Her2/neu DNA probe, specific
+for the Her2/neu gene locus 17q11.2-q12 and the CEP1 DNA probe specific for the alpha satellite DNA sequence at the centromeria
+region of chromosome 17 (17p11.1-q11.1)
+These tests were developed and performance characteristics determined by the
+They have not
+been cleared or approved by the US Food and Drug Administration. The FDA has determined that such approval or clearance is not
+necessary. These texts are used for clinical purposes. They should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory Improvement Act (CLIA) of 1988 as qualified to perform high complexity clinical
+laboratory testing.
+Place of Service: Center for Advanced Diagnostics
+Addendum Report Issued By:
+ADDENDUM REPORT NUMBER ONE
+BREAST PROGNOSTIC PANEL: (Preliminary test results on block AZ).
+TEST
+Estrogen Receptor:
+Progesterone Receptor:
+RESULT
+POSITIVE (94%)
+REFERENCE RANGES
+>4% is Positive
+2-4% Is Borderline
+<2% Is Negative
+POSITIVE (89%)
+>4% is Positive
+2-4% is Borderline
+<2% Is Negative
+KI-67 (MIB1) Proliferation Marker: BORDERLINE (18%)
+> 20% is High
+10-20% is Borderline
+<10% is Low
+REPORT CONTINULD ON NEXT PAGE
+Page: 1 of 2
+pg 4
+PATIENT INFORMATION
+SPECIMEN INFORMATION
+P95
+These results were interpreted by Dra
+are completed.
+An additional addendum report will follow when DNA and Her-2-neu tests
+hey have not been cleared or approved by
+These tests were developed and performance characteristics determined by
+the US Food and Drug Administration. The FDA has determined that such approval or clearance is not necessary. These tests are used for
+clinical purposes. They should not be regarded as investigational or for research. This laboratory is certified under the Clinical Laboratory
+Improvement Act (CLIA) of 1988 as qualified to perform high complexity clinical laboratory testing.
+Addendum Report Issued By:
+DIAGNOSIS
+DIAGNOSIS:
+10 gauge true cut ultrasound guided needle core biopsies of an imegular 1 x 2 cm mass near the 0100 position within the right breast:
+Invasive lobular carcinoma.
+Size: Two cores partially involved with largest linear dimension 5 mm as measured from slide A2.
+Elston modification of Bloom-Richardson Grade:
+Architectural score: 3/3.
+Nuclear score: 2/3.
+Mitotic score: 1/3.
+Total score: 6/9-14.
+No in situ carcinoma component present.
+No lymphovascular space invasion evident.
+No microcalcifications seen.
+No other significant proliferative breast disease pattern present.
+Paraffin Block A2 submitted for breast cancer prognostic panel with results reported as an addendum (paraffin block A5 suitable if
+additional material necessary).
+Electronic Signature:
+CLINICAL HISTORY:
+CLINICAL INFORMATION
+Preoperative Diagnosis: Core needle biopsy, true cut, ultrasound core biopsy ancillary test if malignant: Estrogen/Progesterone receptors, Her2-neu
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings: Mammogram, užtrasound, size irregular mass 1 x 2 cm
+SPECIMENS:
+Right breast
+GROSS DESCRIPTION:
+SPECIMEN DATA
+Received in one container labeled
+✓ right breast are multiple (15 to 20) soft pale yellow wispy fragments and come measuring up to 1.2 cm in
+greatest dimension. The specimen is entirely submitted in five cassettes labeled
+Case color blue.
+ختيت سيدة نت
+*** END OF REPORT ***
+Page: 2 of 2

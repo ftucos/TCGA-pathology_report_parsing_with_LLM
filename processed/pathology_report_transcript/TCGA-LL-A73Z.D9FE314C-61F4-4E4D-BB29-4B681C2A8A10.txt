@@ -1,0 +1,173 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+SPEC #:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+UUID:D9FE314C-61F4-4E4D-BB29-4B681C2A8A10
+TCGA-LL-A73Z-01A-PR
+Redacted
+PAGE 1
+ACCT #:
+LOC:
+AGE/SX: /F
+DOB:
+ROOM:
+BED:
+STATUS
+RECD:
+STATUS:
+COLL:
+TIME IN FORMALIN:
+COLD ISCHEMA TIME:
+hrs.
+mins.
+Remarks:
+Specimen(s):
+B.
+C.
+A, Left breast skin biopsy
+Left breast lumpectomy
+Left breast frozen section
+-
+stitch marks area of interest
+ICD-0-3
+MICROSCOPIC DIAGNOSIS
+A.
+"LEFT BREAST SKIN BIOPSY":
+B.
+C.
+85003
+Carcinoma, infiltrating duet NOS
+Sate Breast NOS $50.9
+Hos
+28/11/13
+INVASIVE CARCINOMA WITH EXTENSIVE VASCULAR LYMPHATIC INVASION
+"LEFT BREAST LUMPECTOMY STITCH MARKS AREA OF INTEREST":
+INVASIVE DUCTAL CARCINOMA
+RECEPTORS, HER2/NEU, KI-67 ANALYSIS PENDING
+SEE COMMENT FOR DETAILS
+"LEFT BREAST":
+INVASIVE DUCTAL CARCINOMA
+COMMENT(S)
+COLLEGE OF AMERICAN PATHOLOGISTS PROTOCOL FOR THE EXAMINATION OF SPECIMENS WITH
+INVASIVE CARCINOMA OF THE BREAST. BASED ON AJCC/UICC TNM. 7TH EDITION
+The following classification should be adjusted based on additional clinical information.
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE OF INVASIVE CARCINOMA:
+TUMOR SIZE:
+HISTOLOGIC GRADE:
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+Excision without wire-guided localization,
+skin biopsy, left breast biopsy
+No lymph nodes identified
+Left
+Invasive ductal carcinoma
+2.0 cm
+Grade 3
+Tubular Differentiation Score: 3
+Nuclear Pleomorphism Score: 3
+Mitotic Rate Score: 2
+Single focus of invasive carcinoma
+Present high grade, not extensive
+** CONTINUED ON NEXT PAGE
+**
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+COMMENT(S)
+MACROSCOPIC/MICROSCOPIC EXTENT OF TUMOR:
+MARGINS:
+LYMPH NODES:
+LYMPH-VASCULAR INVASION:
+DERMAL-LYMPHATIC INVASION:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+ADDITIONAL PATHOLOGIC FINDINGS:
+(Continued)
+PAGE 2
+(Continued)
+Skin: Invasive carcinoma directly invades into
+dermis without ulceration
+Margins involved by invasive carcinoma
+Margins uninvolved by ductal carcinoma in situ
+No lymph nodes identified
+Present
+Present
+Primary Tumor: pT1c
+Lymph Nodes: pNX
+Distant Metastasis: Not applicable
+Receptors. Her2/Neu, Ki-67 analysis pending
+Fibrocystic changes
+GROSS DESCRIPTION:
+A. In formalin labeled with the patient's name and "left breast skin biopsy" is a 3 × 0.8
+x 1.5 cm wedge biopsy of brown skin and underlying fatty tissue. The specimen is bisected
+lengthwise and totally submitted in blocks A1 and A2.
+B.
+Received fresh labeled with the patient's name and "left breast lumpectomy, stitch
+marks area of interest" is a 7 gram aggregate of fibroadipose tissue. The specimen
+measures 6 x 5 x 2 cm. There is one portion which is sutured, and this portion measures
+4 x 2 x 1.5 cm. On cross section. this portion shows an admixture of adipose tissue and
+streaky gray-white tissue possibly representing tumor. A section of this portion is
+Additional sections of the other fragments of tissue are
+submitted in blocks B1-B3.
+submitted in blocks B4-B6.
+A
+are
+À
+C. Received fresh for frozen section labeled with the patient's name and "left breast"
+several fragments of firm, fatty tissue which measure together 2.5 x 2 x 1 cm.
+representative portion of the firmer area is submitted in block C1 for frozen section.
+cytologic scrape prep is prepared for Diff-Quik stain. The complimentary tissue submitted
+for frozen section is provided to the Tissue Bank coordinator. The remainder of the soft
+tissue is submitted in block C2 for permanent section.
+MICROSCOPIC DESCRIPTION:
+E-cadherin stains on specimens B and C demonstrate that they are positive.
+stained appropriately.
+Control block
+INTRAOPERATIVE CONSULTATION:
+C. FROZEN SECTION DIAGNOSIS. LEFT BREAST BIOPSY:
+MALIGNANT CONSISTENT WITH INVASIVE CARCINOMA. POSSIBLE PLEOMORPHIC LOBULAR
+CARCINOMA
+TISSUE PROVIDED TO TISSUE BANK COORDINATOR
+RESULTS PHONED TO
+** CONTINUED ON NEXT PAGE
+**
+RUN DATE
+RUN TIME
+RUN USER
+SPEC #:
+PHOTO DOCUMENTATION
+Image
+.
+Signed
+PATIENT:
+(signature on file).
+**
+END OF REPORT **
+PAGE 3
+(Continued)
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is (cle:
+Reviewer nitas
+8/1/13
+DUS
+QUALIFIED
+Date Reviewed:
+Yes
+✓
+DISQUALIFIED
+No
+113

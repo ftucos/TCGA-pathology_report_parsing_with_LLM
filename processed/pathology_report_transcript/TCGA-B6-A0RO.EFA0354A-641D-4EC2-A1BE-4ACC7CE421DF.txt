@@ -1,0 +1,83 @@
+Patien
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site Code: breast, Nos
+050.9
+1/17/11
+ho
+Surgical F
+Surg Path
+UUID:EFA0354A-641D-4EC2-A1BE-4ACC7CE421DF
+TCGA-86-AØRO
+-01A-PR
+Redacted
+CLINICAL HISTORY:
+Right breast Ca, rule out deep margin positive.
+GROSS EXAMINATION:
+A. "#1 right modified radical mastectomy", in formalin. Received in the
+container is a portion of breast with an attached skin ellipse containing the
+nipple and an axillary dissection. The specimen measures 18.5 x 14 x 3.9 cm.
+The attached skin ellipse measures 14.7 x 6.3 cm. The nipple appears grossly
+unremarkable. There is a small 0.5 cm hole 1.7 cm inferior to the nipple. The
+deep surface of the specimen is inked in blue and the specimen is serially
+sectioned revealing a 3.5 x 2 x 1.5 cm firm white mass in the medial portion
+of the specimen. The mass is fairly well-circumscribed but very firm to
+palpation. Grossly it appears to approach within 0.2 cm of the deep surgical
+margin. There is no definite biopsy cavity; however, there is a small area of
+hemorrhage just adjacent to the tumor mass. Tissue from the tumor mass has
+been sent for estrogen and progesterone receptors.
+Block Summary:
+Al- section through nipple.
+A2- section through hole in skin ellipse.
+A3-A5- sections of tumor with adjacent deep margin.
+A6-A9- representative sections of tumor.
+A10- representative sections of upper lateral quadrant.
+All representative section of lower lateral quadrant.
+A12- representative section of upper medial quadrant.
+A13- five lymph node candidates from level three.
+A14-A15- one large lymph node bisected, level three.
+A16- one large lymph node bisected and one small lymph node candidate, level
+three.
+A17- one lymph node candidate bisected, level three.
+A18- one lymph node candidate bisected, level three.
+A19- four lymph node candidates from level II.
+A20- one lymph node candidate bisected from level II.
+A21- two lymph node candidates from level II.
+A22- five lymph node candidates from level I.
+A23- two lymph node candidates from level I.
+A24- two lymph node candidates from level I.
+A25- two lymph node candidates from level I.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primarycted
+Case is (circle: AQUALIFIED
+Reviewer init VAN
+Meiewed:
+MICROSCOPIC EXAMINATION:
+Most of the tumor consists of tubules and cribriform glands composed of
+atypical cells with a moderate amount of eosinophilic cytoplasm and oval
+nuclei with distinct relatively small nucleoli. There is a sparse
+inflammatory response. A minor non-comedo intraductal component is present,
+within or near the tumor mass. Away from the tumor, no intraductal carcinoma
+or epithelial hyperplasia is seen.
+DIAGNOSIS:
+A. "RIGHT" BREAST, MODIFIED RADICAL MASTECTOMY:
+INFILTRATING DUCTAL CARCINOMA (2.5 CM), NSABP HISTOLOGIC GRADE II/III,
+NUCLEAR GRADE MODERATELY DIFFERENTIATED.
+A NON-COMEDO INTRADUCTAL CARCINOMA COMPONENT IS IDENTIFIED, COMPRISING
+LESS THAN 10% OF THE CARCINOMA.
+NO TUMOR IS SEEN IN THE DEEP SURGICAL MARGIN.
+Yes
+No
+DISQUALIFIED
+#
+1 of 2
+NO VASCULAR INVASION IS IDENTIFIED.
+TWO OF SEVENTEEN (2/17) LYMPH NODES ARE POSITIVE FOR METASTATIC
+ADENOCARCINOMA.
+BREAST TISSUE WITH APOCRINE METAPLASIA AND MICROCALCIFICATIONS IN
+NON-NEOPLASTIC LOBULES.
+Verified by
+2 of 2

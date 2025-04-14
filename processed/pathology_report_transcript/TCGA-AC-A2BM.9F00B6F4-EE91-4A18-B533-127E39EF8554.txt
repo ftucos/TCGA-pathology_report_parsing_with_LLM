@@ -1,0 +1,224 @@
+Print-
+Back to List
+TEST: Surgical Patholoav
+Date & Time:
+REPORT STATUS: Final
+FACILITY:
+Patient:
+Surgical Pathology
+SURGICAL PATHOLOGY REPORT
+See Addendum
+Patient Name: }
+Accession #
+Med. Rec. #:
+Billing Type: Inpatient
+Location:
+DOB:
+Service: Surgery
+...ge:
+Gender: F
+Billing #!
+Taken
+Physician(s):
+UUID:9F00B6F4-EE91-4A18-B533-127E39EF8554
+TCGA-AC-A2BM-01A-PR
+Redacted
+Page 1 of 4
+Crier!
+Diaris Discrepancy
+Pimary Tunur Site Discrepancy
+---
+NAA Screpan</
+Prior Malignancy History
+Daym ronus P
+Case is (circle):
+Pevi
+in als
+ICD-0-3
+QUALIFIED
+.d.
+for 5/27/11
+DISQUALIHED
+5/12/11
+carcinoma, infiltrating duct, NOS 8500/3
+Site: brust, NOS
+C50.9
+W 5/27/11
+Received
+Reported:
+Specimen(s) Received
+A: Left sentinel nodes
+B: Left sentinel node #2
+C: Left breast tissue
+D: Left axillary contents
+Pathologic Diagnosis
+"A"
+Left sentinel node: Metastatic carcinoma in one
+(of one) lymph node. Two foci of metastatic tumor are present,
+the larger measuring 0.3 cm. The metastatic tumor is confined to
+the lymph node.
+"B"
+Left sentinel lymph node #2: One lymph node negative
+for malignancy.
+C. Keft breast tissue;
+Histologic Type:
+Invasive ductal carcinoma (NOS)
+Modified B-R Grade:
+3
+Tubular score: 3
+Nuclear score: 3
+Mitosis score: 3
+Greatest dimension: 2.5 cm
+Additional dimensions: 1.5 X
+Tumor Size:
+Regional Lymph Nodes:
+Number of lymph nodes examined: 13
+Number of lymph nodes involved: 1
+Metastasis dectected by light microscopy
+Margins of Invasive Carcinoma:
+Negative
+Invasive carcinoma is located: 3 cm
+away from the deep margin
+Lymphovascular Invasion:
+Absent
+Ductal Carcinoma In Situ:
+Absent
+Paget's Disease:
+Absent
+Distant Metastasis:
+Cannot be assessed
+Print
+Microcalcifications:
+Absent
+Additional Pathologic Findings:
+Specimen Type:
+Specimen Size:
+Tumor Laterality:
+Tumor Site:
+Mastectomy
+Fibroadenomas
+Greatest dimension: 28 cm
+Left
+Upper inner quadrant
+Lower inner quadrant
+Lymph Node Sampling:
+dissection
+Comment:
+Sentinel lymph nodes and axillary
+In Part "C", one contiguous lymph node is negative
+for malignancy. H&E and cytokeratin stains examined.
+pT2 pNla pMX
+"D"
+-
+malignancy.
+Left axillary contents: Ten lymph nodes negative for
+Left axillary contents:
+ESTROGEN AND PROGESTERONE RECEPTOR SYNOPSIS
+Estrogen and progesterone receptor immunohistochemistry stains
+are performed utilizing the 6f1l (ER) and 1A6 clones (PR) along
+with the iview detection kit. The stains are performed on
+formalin-fixed paraffin-embedded sections. Both special stains
+have adequate controls.
+60
+10
+8
+*
+ESTROGEN RECEPTORS:
+Infiltrating malignant cells showing positive staining:
+PROGESTERONE RECEPTORS:
+Infiltrating malignant cells showing positive staining:
+ESTROGEN RECEPTOR RESULTS: Positive.
+PROGESTERONE RECEPTOR RESULTS: Positive.
+Note:
+Consensus
+Statement on Adjuvant Therapy for Breast Cancer:
+•
+Any positive nuclear ER immunostaining is considered a positive
+result. These immunohistochemistry reaction patterns were
+developed and their performance characteristics determined by
+They have not been cleared or
+approved by the U.S. Food and Drug Administration. The FDA has
+determined that such clearance or approval is not necessary.
+These tests are used for clinical purposes. They should not be
+regarded as investigational or for research. This laboratory is
+certified under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical
+laboratory testing."
+Primary Pathologist:
+Electronically Signed Out by:
+Addendum
+Results from
+HER2 by FISH: 1.4/Not Amplified
+Electronically Signed Out by
+Clinical History
+Left breast cancer.
+Intraoperative Consultation
+A - Left sentinel node: Metastatic cancer. (Microscopic frozen
+section).
+Page 2 of 4
+1
+B - Left sentinel node #2: Negative. (Microscopic frozen
+section).
+Gross Description
+A - The specimen is received fresh for frozen section labeled
+"left sentinel node." The specimen consists of a pink-tan lymph
+node measuring 2.5 × 1.5 x 0.9 cm. The specimen is bisected and
+entirely frozen in cassette "FS-Al."
+B - The specimen is received fresh for frozen section labeled
+"left sentinel node." The specimen consists of a pink-tan lymph
+node measuring 3 × 2 × 1.2 cm. The specimen is bisected and
+entirely frozen in cassette "FS-B1."
+C - The specimen is received in formalin and labeled "left breast
+suture at 6 o'clock." The specimen consists of a mastectomy
+specimen without axillary tissue measuring 28 x 23.5 x 50 cm and
+weighing 1559 gm. There is an overlying tan ellipse of skin
+measuring 22 x 7 cm and showing an eccentric wrinkled brown
+areola measuring 4.5 x 4.5 cm. Within the center of the areola
+there is an inverted soft brown nipple measuring 1.1 × 1.1 × 0.9
+cm. There are grossly no healed incisions or biopsy sites on the
+skin surface however the medial edge of the areola is partially
+stained with blue dye. Attached suture marks the 6 o'clock
+margin. The deep margin is inked black and the specimen is
+serially sectioned to reveal an irregular firm tumor between the
+upper-inner and lower-inner quadrants approximately 1 cm from the
+nipple measuring 2.5 × 2 × 1.5 cm. The tumor comes to within 3
+cm of the deep margin and within 2 cm of the superficial margin
+(inked blue). Further sectioning reveals a well-circumscribed
+nodule within the lower-outer quadrant 3.5 cm from the nipple
+measuring 1.5 x 1 x 1 cm. This nodule comes to within 3 cm of
+the deep margin. The remaining specimen consists of lobulated
+fat interspersed with a large amount of tan-white
+irregularly-indurated tissue with scattered cysts filled with
+clear fluid measuring up to 0.4 cm in diameter. A lymph node is
+identified at the axillary margin measuring 1 x 1 x 0.7 cm.
+Representative sections are submitted in 12 cassettes.
+Block summary: "1"
+-
+-
+vertical section of nipple, "2"
+-
+cross-section of nipple, "3-4" tumor, "5" superficial and
+deep margin nearest to tumor, "6" - nodule within the lower-outer
+quadrant, "7" upper-inner quadrant, "8" lower-inner quadrant,
+"9" - lower-outer quadrant, "10" upper-outer quadrant, "11"
+tissue underlying the nipple stained with blue dye, "12" -
+bisected lymph node at the axillary margin.
+-
+-
+D - The specimen is received in formalin and labeled "left
+axillary contents." The specimen consists of a tan-yellow portion
+of axillary fatty tissue measuring 8 x 5.5 x 3.5 cm and weighing
+53 gm. Sectioning reveals 11 potential lymph nodes ranging from
+0.4 to 2.3 cm in greatest dimensions. The lymph nodes are
+totally submitted in 4 cassettes.
+-
+1
+Block summary: "1" - 7 lymph nodes 1 of which is bisected, "2"
+2 bisected lymph nodes, "3" - 1 bisected lymph node, "4"
+bisected lymph node.
+-
+Microscopic Description
+Microscopic examination has been performed on all slides.
+pathologic diagnosis encompasses the essential microscopic
+The
+Page 3 of 4

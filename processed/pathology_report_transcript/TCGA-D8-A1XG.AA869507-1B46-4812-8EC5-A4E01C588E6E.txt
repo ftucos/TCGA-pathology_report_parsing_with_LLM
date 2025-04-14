@@ -1,0 +1,62 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Value of diagnostic procedure
+PESEL: XXX
+Material: 1. Total organ resection - right breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Age:
+Gender: F
+ICD-0-3
+page 1 / 1
+Examination No.:
+carcinoma, infiltrating duct, Nos 8500/:
+Site: breast, NOS
+ん
+650.9
+J 4/12/11
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast, ulcerous - Toilet mastectomy.
+Examination performed on:
+Macroscopic description:
+Right breast sized 13.7 x 7.6 x 4.8 cm removed without axillary tissues and with a skin flap of 17.8 x 10.2 cm. Weight 193 g.
+Tumour sized 6.2 x 4.3 x 7.8 cm in the middle part, 0.1 cm from the upper boundary, 0.1 cm from the base.
+Microscopic description:
+Carcinoma ductale invasivum - NHG3 (3+2+3/20 mitoses/10 HPF - visual area: 0.55mm).
+Infiltratio carcinomatosa cutis et musculi pectoralis.
+Mamilla sine laesionibus
+Glandular tissue showing parenchyma atrophy.
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the right breast.
+Metastases carcinomatosae in lymphonodis axillae (No II/II). Cancer metastases of the axillary lymph nodes.
+(NHG3, pT4b, pN1a).
+Compliance validated by
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in 10-75% of neoplastic cell nuclei. Progesterone receptors found in 10-75% of
+neoplastic cell nuclei. HER2 protein stained with HercepTest™ by DAKO.
+Negative reaction in invasive cancerous cells (Score = 0)
+UUID:AA869507-1846-4812-8EC5-A4E01C588E6E
+TCGA-D8-A1XG-01A-PR
+Compliance validi
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+QUALIFIED
+ate Reviewed:
+Case is (circle):
+Reviewer Initials
+DISQUALIFIED
+1
+the 4/12/11

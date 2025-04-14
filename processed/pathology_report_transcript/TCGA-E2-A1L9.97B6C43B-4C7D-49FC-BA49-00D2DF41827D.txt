@@ -1,0 +1,141 @@
+TSS
+SPECIMENS:
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL NODE #1 RIGHT AXILLA
+C. SENTINEL NODE #2
+SPECIMEN(S):
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+B. SENTINEL NODE #1 RIGHT AXILLA
+C. SENTINEL NODE #2
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+050.9
+UUID:9786C43B-4C7D-49FC-BA49-00D2DF41827D
+TCGA-E2-A1L9-01A-PR
+A-WLE right breast: Mass (1.4 x 1.2 x 1 cm) is 0.8 cm from the closest inferior margin.
+TPB/TPC-sentinel lymph nodes #1 & #2 right axilla: Negative for tumor by touch prep.
+Diagnoses called by Dr. to Dr. at
+GROSS DESCRIPTION:
+A. WLE RIGHT BREAST NEEDLE LOCALIZATION
+2/15/11
+Redacted
+Received fresh labeled with the patient's identification and "WLE left breast needle localization" is a
+previously inked, oriented (single-anterior, double-lateral, triple-superior) 53-g, 4 x 3.4 x 2.5 cm needle
+localized lumpectomy with radiograph. Ink code: Anterior-yellow, posterior-black, medial-green, lateral-
+red, superior-blue, inferior-orange. Specimen is serially sectioned from lateral to medial into 7 slices
+revealing a 1.4 x 1.2 x 1 cm firm, tan, stellate mass that is closest to the inferior margin at 0.8 cm.
+Tissue is procured; Representatively submitted:
+A1-A3: lateral margin, perpendicular sections
+A4: slice 2, anterior inferior
+A5: slice 3, anterior inferior
+A6: slice 3, mid inferior (mass)
+A7: slice 3, posterior inferior
+A8: slice 4, anterior inferior (mass)
+A9: slice 4, posterior inferior (mass)
+A10: slice 5, anterior superior
+A11: slice 5, posterior superior
+A12: slice 5, anterior inferior (mass)
+A13: slice 5, posterior inferior (mass)
+A14: slice 6, anterior inferior (mass)
+A15: slice 6, posterior inferior (mass)
+A16-A18: medial margin, perpendicular sections (muscle infiltrating the tissue)
+B. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+Received fresh labeled with the patient's identification and "sentinel lymph node #1 right axilla" is a 4 x
+2.3 x 1.5 cm lymph node; sectioned, it has a yellow-tan cut surface. A touch prep is performed;
+submitted entirely in cassettes B1-B2.
+C. SENTINEL LYMPH NODE #2
+Received fresh labeled with the patient's identification and "sentinel lymph node #2" is a 3.4 × 3 × 0.4
+cm lymph node; sectioned, it has a yellow-tan cut surface. Touch prep is performed; submitted entirely
+in cassettes C1-C3.
+DIAGNOSIS:
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+-
+-
+INVASIVE DUCTAL CARCINOMA, SBR GRADE 2 WITH FOCAL NECROSIS, MEASURING 1.5-CM
+- INTERMEDIATE NUCLEAR GRADE, DUCTAL CARCINOMA IN SITU, SOLID AND CRIBRIFORM
+TYPES WITH CENTRAL NECROSIS
+SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- BIOPSY SITE CHANGES WITH FIBROSIS AND GRANULATION TISSUE
+· SEE SYNOPTIC REPORT.
+B. LYMPH NODE, SENTINEL #1, RIGHT AXILLA, EXCISION:
+- METASTATIC CARCINOMA TO ONE OF ONE LYMPH NODE (1/1), MEASURING 1.0-MM
+(MICROMETASTASES) WITH NO EXTRANODAL EXTENSION, SEE NOTE.
+C. LYMPH NODE, SENTINEL #2, RIGHT AXILLA, EXCISION:
+ONE LYMPH NODE, NEGATIVE FOR METASTASES (0/1).
+-
+TSS:
+NOTE: The touch preparation was reviewed, no tumor cells are identified. Therefore, the false
+negativity is due to sampling error.
+SYNOPTIC REPORT - BREAST
+Specimen Type:
+Needle Localization:
+Laterality: Right
+Invasive Tumor:
+Multifocality: No
+Excision
+Yes - For mass
+Present
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.5cm
+Tumor Site: Not specified
+Margins: Negative
+Distance from closest margin: 0.7cm
+inferior
+Tubular Score:
+Nuclear Grade:
+22
+Mitotic Score:
+2
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Present
+Vascular/Lymphatic Invasion: Present
+Extent:
+focal
+Lobular neoplasia:
+None
+Lymph nodes:
+Sentinel lymph node only
+2
+Lymph node status:
+Micrometastases:
+DCIS present
+Positive 1/2
+Yes
+Margins uninvolved by DCIS
+DCIS Quantity:
+DCIS Type: Solid
+Cribriform
+DCIS Location:
+Nuclear grade:
+Necrosis: Present
+ER/PR/HER2 Results
+ER: Positive
+Estimate 2%
+Associated with invasive tumor
+Intermediate
+PR: Positive
+HER2: Negative by IHC
+Performed on Case:
+Pathological staging (pTN):
+pT 1c N 1mi
+CLINICAL HISTORY:
+None given
+PRE-OPERATIVE DIAGNOSIS:
+Cancer right breast
+Final ReviewPathologist,
+Final:., Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discreparcy
+Prior Malignancy History
+Dual/Synchronous Frimety Noted
+Case Is (ci):
+Reviewer Initials
+QUALIF
+Date Reviewed:
+te
+No

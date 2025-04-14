@@ -1,0 +1,78 @@
+Patient: 1
+Department of Cancer Pathology
+163-6 3
+dict suviinons,
+Infiltrating
+850013
+Site: breast, NOS
+نسا
+11/22/10
+050.9
+page 1 / 2
+copy No.
+Date:
+Examination: Histopathological examination
+PESEL:
+Material: Total organ resection - right breast
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to
+Age:
+Gender: F
+Examination No.
+Clinical diagnosis:
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors in neoplastic cell nuclei not found. Progesterone receptors found in 75% of neoplastic cell
+nuclei. HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive carcinoma cells
+(Score = 1+)
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Right breast, sized 22 x 15 x 4cm, removed along with axillary tissues sized 9 x 7 x 2 cm and a skin flap of 13 x
+7.5 cm. Tumour sized 1.5 x 1.5 x 1.5 cm found on the boundary of inner quadrants, placed 5.0 cm from the
+upper edge, 0.7 cm from the base and 0.6 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG2 (3+2+1/2 mitoses/10 HPF - visual area 0.55mm). Numerous
+focuses of carcinoma ductale in situ (DCIS) found within tumour (cribrate type, with high nuclear
+atypia and comedo necrosis and calcifications, 20% of the tumour). Reactio lymphocytaria
+peritumoralis.
+Glandular tissue showing lesions of the type mastopathia fibrosa et cystica. Axillary lymph nodes:
+Micrometastases carcinomatosae in lymphonodo (No I/XV).
+Histopathological diagnosis:
+Carcinoma ductale invasivum et ductale in situ mammae dextrae. Micrometastases
+carcinomatosae in lymphonodo axillae (No I/XV). (NHG2; pT1c; pN1(mi).
+Compliance validated by:
+Redacted
+UUID:AA6F84C8-D0B4-446F-A8A7-8CE7F9D07ECF
+TCGA-D8-A141-01A-PR
+ritaria
+iagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IIPAA Discrepancy
+rior Malignancy History
+Jual Synchronous mary Noted
+ase cin
+Revier In
+QUALIFIED
+Date iewed.
+Yes
+DISQUALIFIED
+Examination performed on:
+Examination: Histopathological examination
+Patient
+PESEL:
+Examination performed on:
+page 2 / 2
+Examination No.:
+Gender: F
+Complementary diagnosis:
+Following reassessment of receptor status on selected material:
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 75% of
+neoplastic cell nuclei. HER2 protein stained with HercepTestTM by DAKO. Negative reaction in
+invasive carcinoma cells (Score = 1+)
+DUCTAL INVASIVE CARCINOMA OF THE RIGHT BREAST
+MICROMETASTASIS IN ONE AXILLARY LYMPH NODE !
+Compliance validated by:

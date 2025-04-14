@@ -1,0 +1,179 @@
+Patient:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+Physician(s):
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Race: BLACK
+Taken:
+Received:
+Reported:
+ICA-0-3
+Carcinoma, infiltrating ductal, Nos 8500/7
+SPECIMEN:
+A: LEFT BREAST B: SKIN FLAP
+Site breast, Nos
+=======
+FINAL DIAGNOSIS:
+C50.9
+1/25/11
+A. BREAST, LEFT, MASTECTOMY WITH AXILLARY TAIL:
+*
+TUMOR TYPE: INFILTRATING DUCTAL CARCINOMA, NO SPECIAL TYPE.
+* NOTTINGHAM GRADE: POORLY DIFFERENTIATED (G3).
+* NOTTINGHAM SCORE: 9 (Tubules= 3, Nuclei= 3, Mitoses= 3; mitotic count
+> 12 per 10 HPF at 40x power)
+* TUMOR SIZE (GREATEST DIMENSION):
+3.5 CM. (MEASURED GROSSLY).
+* TUMOR NECROSIS: PRESENT IN INFILTRATING COMPONENT.
+* MICROCALCIFICATIONS: ABSENT.
+* VENOUS / LYMPHATIC INVASION: ABSENT.
+* MARGINS: NEGATIVE.
+*
+-DISTANCE OF TUMOR FROM NEAREST MARGIN IS 2.0 CM. (DEEP MARGIN).
+INTRADUCTAL COMPONENT: ABSENT.
+* LYMPH NODES: TEN (10) LYMPH NODES NEGATIVE FOR TUMOR.
+* NIPPLE INVOLVEMENT: ABSENT.
+* SKIN INVOLVEMENT: ABSENT.
+* MULTICENTRICITY: ABSENT.
+* ESTROGEN RECEPTORS: NEGATIVE (REFER TO PRIOR SPECIMEN
+* PROGESTERONE RECEPTORS: NEGATIVE (REFER TO PRIOR SPECIMEN
+* HER 2 NEU by IHC: NEGATIVE, 1+ (REFER TO PRIOR SPECIMEN
+* PATHOLOGIC STAGE: PT2 NO MX.
+* ADDITIONAL PATHOLOGIC FINDINGS:
+-
+PERIDUCTAL CHRONIC INFLAMMATION.
+B. SKIN, LEFT BREAST, EXCISION:
+-UNREMARKABLE SKIN AND SUBCUTANEOUS SOFT TISSUE.
+-NO EVIDENCE OF MALIGNANCY.
+*⭑
+Report Electronically Signed Out
+DOĞ
+======
+UUID:D8B44020-EC34-4788-B7FB-79089C12D886
+TCGA-A2-A0D0-01A-PR
+Redacted ==
+1
+Continued on Next Page
+__AL DATA -
+PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+CLINICAL DIAGNOSIS AND HISTORY:
+-year-old female with breast cancer.
+PRE-OPERATIVE DIAGNOSIS:
+Breast cancer.
+GROSS DESCRIPTION:
+The
+A. Received fresh, labeled with the patient's name,
+designated "LEFT BREAST" is a 1.466 gram, left mastectomy specimen
+oriented with a 
+short stitch superior, long lateral, and double deep.
+specimen measures 
+31.0 cm medial to lateral, 23.0 cm superior to inferior,
+and 6.0 cm anterior 
+to posterior. The darkly pigmented, superficial skin
+ellipse measures 30.0 
+x 6.0 cm, and displays a 1.0 cm everted, centrally
+located, nipple free 
+of discharge. No scars are noted. The deep margin
+is remarkable for scattered, irregular portion of attached red-brown
+muscle 
+measuring up to 4.5 x 1.5 cm in greatest dimension. The deep
+margin is inked in black
+, and the superficial-lateral surface is inked
+blue. Serial 
+sections reveal a 3.5 x 2.8 x 3.0 cm poorly defined mass in
+the mid-outer breast. 
+On sectioning, the cut surface ranges from
+pink-white, and 
+firm, to pink-white, soft, and cystic. Continuous, with,
+The
+and deep to, this mass is a 2.0 x 2.0 x 1.9 cm smooth walled cyst
+containing 
+serosanguineous fluid, consistent with the previous biopsy
+site. The cyst and 
+mass are located 2.0 cm from the deep margin.
+remainder of 
+the specimen is predominantly composed of lobulated,
+yellow-tan, adipose 
+tissue admixed with scant, fibrous tissue.
+additional 
+lesions are identified. Specimen subsequently placed in
+formalin for 32 hours.
+cm.
+No
+The attached axillary tail measures 13.0 x 9.0 x 3.
+eight 
+pink-tan, lymph nodes are identified which range in size from 0.8 x
+On sectioning,
+0.5 x 0.2 cm to 3.0 x 2.0 
+x 1.0 cm. Representative sections are
+submitted.
+Cassette Summary:
+A1: Skin.
+A2: Mass.
+A3: Mass.
+A4: Mass and adjacent cyst.
+A5: Normal adjacent to mass.
+A6-A7: Deep margin closest to mass.
+A8: Upper outer quadrant.
+A9: Upper inner quadrant.
+A10: Lower outer quadrant.
+All: Lower inner quadrant.
+FOR OFFICIAL USE ONLY
+Page 2
+Continued on Next Page
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+GROSS DESCRIPTION (continued):
+A12: Largest lymph node.
+A13-A14: Second largest lymph node.
+A15-A16: One lymph node.
+A17: Three lymph nodes.
+A18: One lymph node bisected.
+A19: One lymph node bisected.
+A20: Nipple.
+Matched sections of A1 through A3, A8 through A12, A13, A15, A20 are
+submitted in OCT for CBCP protocol. 20CF
+name,
+B. Received in formalin for twenty-eight hours, labeled with the patient's
+designated "SKIN FLAP" is an irregular, lobular
+fragment of soft tissue with attached brown skin forming a continuous ring
+which measures 61.0 cm in circumference with the width of skin ranging
+from 1.5 cm at narrowest to 4.8 cm at widest. No lesions are seen on the
+skin surface. Representative sections are submitted in one cassette.
+1CF
+FOR OFFICIAL USE ONLY
+-
+Page 3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History/
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+Yes
+No
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+End of Report

@@ -1,0 +1,44 @@
+Age:
+Sex: Female
+Tissue Source Site (TSS):
+Date of Tumour Procurement:
+UUID:436F3280-98C7-4FA9-BD6F-1B02CAF1D262
+TCGA-PL-A8LZ-01A-PR
+Redacted
+ICD-0.3
+Carcinoma, infiltrating duct NOS
+Site: @YBreast NOS
+0509
+W 5/19/14
+1. GROSS ASSESSMENT: Cut section showed a chalky white tumour. 4x3x2cm,
+2. MICROSCOPIC ASSESSMENT
+Microscopic description: Section shows an invasive tumour growing in solid nests and
+tubular patterns. It is composed of cells having moderately pleomorphic hyperchromatic
+nuclei and amphophilic cytoplasm. The stroma is desmoplastic containing thin-walled
+vascular channels, tumour cells and lymphocytes. Focal areas of necrosis noted,
+3. Tumour Type: Malignant
+4. Tumour Site: Left Breast
+5. Distance of invasive carcinoma to closest margin: 5mm
+. Which margin? Deep resection
+TSS Unique patient ID:
+6. HISTOLOGICAL DIAGNOSIS: Invasive ductal carcinoma, NOS
+7. COMMENTS: nil
+Dr
+Reporting Pathologist Name
+Signature
+Date
+Criteria
+Dagnosis Discrepa
+Primary Tume Cire Discrepan
+HIP
+Discrepancy
+Prior Malignancy History
+/ 11/14/13
+Yes
+No
+Dual/Synchronous Primaryoted
+Case is (circle):
+Reviewer lainal:
+St
+QUAL/ DISQUALIFIED
+Date Rev: Wed: 11/1213

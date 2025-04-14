@@ -1,0 +1,29 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Puth
+Site: Breast, UOQ C50.4
+CQCF
+Site: Breast, Nos C50.9
+1/21/11
+سا
+Diagnosis: Invasive ductal breast carcinoma (maximum diameter 5.5 cm, malignancy grade
+III) with angioinvasion and a mediocranial safety margin at least 3 mm wide.
+Tumor classification:
+G3 (L0, V0), pT3, Nx, Mx.
+Diagnosis:
+Tumor-free lymph nodes (total N = 11, pN0).
+UUID:738B601A-24D8-4261-8000-198648213070
+TCGA-A8-A06X-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED

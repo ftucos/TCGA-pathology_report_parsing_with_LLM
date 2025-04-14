@@ -1,0 +1,188 @@
+Criteria
+Diagnosis Discrepancy
+Prinary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUAHEED
+Date Reviewed:
+DISQUALIFIED
+☑
+12/10/10/21/11
+UUID:89A67051-898A-4E2A-A874-E0165F274E63
+TCGA-A1-A0SG-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating micropapillary, intraductal 8507/3
+Site: breast, NOS
+050.9
+u 10/21/11
+Final Pathologic Diagnosis:
+A. Right axillary sentinel lymph node #1, count = 3500, dissection: Metastatic
+adenocarcinoma in one of two lymph nodes (1/2).
+B. Right axillary sentinel lymph node #2, count = 500, dissection: No tumor in two
+lymph nodes (0/2).
+C. Right breast, partial mastectomy:
+1. Invasive micropapillary carcinoma, 2.1 cm, associated with microcalcifications; see
+comment.
+2. Atypical lobular hyperplasia.
+3. Fibroadenoma.
+4. Microcalcifications in benign ducts.
+D. Sentinel lymph node #3, count = 350, dissection: No tumor in two lymph nodes
+(0/2).
+-
+Note:
+Breast Tumor Synoptic Comment
+- Laterality: Right.
+- Invasive tumor type: Invasive micropapillary carcinoma.
+Invasive tumor size: 2.1 cm maximum diameter. The tumor is present in slices 4, 5, 9, and 10; however
+the tumor has been banked from slices 6, 7, and 8. Therefore, the tumor extends through seven
+consecutive slices, each with a width of approximately 0.3 cm, for a total maximum diameter of 2.1 cm.
+- Invasive tumor grade (modified Bloom-Richardson): 2
+Nuclear grade: 3, 3 points.
+Mitotic count: < 10 mitotic figures/10 HPF, 1 point.
+Tubule/papilla formation: Definite tubule formation in <10%, 3 points.
+Page 1 of 4
+-
+"
+Surgical Pathology -
+Total points and SBR grade = 7 points, grade 2.
+- Lymphatic-vascular invasion: None identified.
+Perineural invasion: None identified.
+Resection margins for invasive tumor:
+-
+-
+-
+- Deep margin: Negative (1 cm).
+Medial margin: Negative (0.9 cm).
+Lateral margin: Negative (0.6 cm).
+- Anterior/superior margin: Negative (0.5 cm).
+Working Draft
+- Anterior/inferior margin: Negative (greater than 1 cm).
+Ductal carcinoma in situ (DCIS) type: None identified.
+- Microcalcifications: Present involving both benign ducts and invasive carcinoma.
+Lobular carcinoma in situ (LCIS): None identified.
+- Lymph node status:
+-
+-
+Number of positive lymph nodes: 1.
+· Total number sampled: 6.
+Diameter of largest metastasis: 2.1 mm.
+- Extranodal extension: Absent.
+- AJCC/UICC stage: pT2N1aMX.
+- Nontumorous breast tissue: Atypical lobular hyperplasia, fibroadenoma, and sclerosing adenosis.
+|
+- Additional comments: We reviewed the original frozen section slides and concur with the frozen section
+diagnosis rendered. The metastatic tumor in Part A was only present in the additionally submitted
+sections of the lymph node (slide A2). Level sections on A2-A4 confirms the diagnosis. Select slides from
+part C were shown at the
+the faculty in attendance concurred
+with the above diagnosis of micropapillary type of invasive carcinoma. Dr.
+and concurs with the diagnosis.
+has reviewed A2
+An immunohistochemical test for estrogen and progesterone receptors was performed on block C9.
+The test for estrogen receptors is positive. There is 3+ nuclear staining in >95% of tumor cells.
+The test for progesterone receptors is positive. There is 3+ nuclear staining in >95% of tumor cells.
+Result of HER2/neu test: This carcinoma is negative for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed on block C9 using the CB11 monoclonal antibody to
+HER2/neu oncoprotein. The staining intensity of this carcinoma was 1 on a scale of 0-3.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered indeterminate. We and others have observed that many carcinomas with
+staining intensity scores of 2 do not show gene amplification. All carcinomas with staining intensity scores of 2 are therefore
+submitted for FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in this
+category show an excellent correlation between the results of immunohistochemical and FISH testing, and almost always show gene
+amplification.
+Slide A2 was shown at the departmental Consensus Conference, and the faculty in attendance concurred
+with the above diagnosis.
+Intraoperative Consult Diagnosis
+FS1 (A) Right axillary SLN #1, biopsy: Negative for carcinoma. (Dr.
+Clinical History
+The patient is a year-old woman with right breast carcinoma.
+Page 2 of 4
+Surgical Pathology -
+Working Draft
+Gross Description
+The specimen is received in four parts, each labeled with the patient's name and medical record number.
+Part A is received fresh and labeled
+It consists of one pink-yellow,
+soft, fatty tissue that measures 3.1 x 2.5 x 0.8 cm. The specimen is strained and two candidate lymph
+nodes are found, the smallest is inked blue and submitted with a representative section of the largest
+submitted for frozen diagnosis #1, thereafter submitted in cassette Al. The remnant of the largest lymph
+node is transected and entirely submitted in cassettes A2-A3, and the remnant of the yellow fatty tissue is
+submitted in cassette A4.
+Part B, additionally labeled
+consists of a single fragment of yellow,
+fibrofatty tissue measuring 2 x 1.8 x 0.4 cm. The specimen is entirely submitted in cassette B1.
+Part C, additionally labeled
+consists of a right breast specimen oriented
+with a short superior and a long stitch lateral. The specimen measures 3.2 cm from anterior to posterior,
+5 cm from medial to lateral and 6.5 cm from superior to inferior. The resection margins are inked as
+follows for microscopic evaluation: anterior superior in blue, anterior inferior in green and posterior in
+black. The specimen is serially sectioned from medial to lateral into twelve slices. There is gray-white,
+fibrous tissue in the superior half of the specimen in slices 3-11, measuring 2.4 x 2 x 1.5 cm. White
+fibrous tissue extends from this area to the anterior inferior aspect in slices 5-8. The gray-white fibrous
+tissue appears extend to the inked margin in the posterior superior aspect of slices 3 and 4, and appears
+to be 0.5 cm from the anterior superior inked margins in slices 5 and 9. Representative sections are
+submitted as follows:
+Cassette Cl:
+Representative medial margin, slice 1, bread-loafed.
+Representative section of slice 3.
+Slice 4.
+Representative section of slice 5.
+Representative section of slice 6.
+Cassette C2:
+Cassettes C3-C5:
+Cassette C6:
+Cassette C7:
+Cassette C8:
+Representative section of slice 8.
+Cassette C9:
+Representative section of slice 9.
+Cassettes C10-C11:
+Representative sections of slice 10.
+Cassette C12:
+Representative section of slice 11.
+Cassette C13:
+Representative lateral margin, slice 12, bread-loafed.
+Part D, additionally labeled
+consists of a single, yellow, fibrofatty tissue fragment
+measuring 2.5 x 1.5 x 0.4 cm. The specimen is entirely submitted in cassette D1.
+The immunoperoxidase stain(s) reported above were developed and their performance characteristics determined by the
+They have not been cleared or approved by the U. S. Food and Drug Administration. The FDA has
+determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded
+as investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (*CLIA")
+as qualified to perform high-complexity clinical testing.
+Fee Codes:
+Other Specimens
+pecimen Class:
+-
+Signed
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Right axillary contents
+Final Diagnosis
+Axilla, right, "contents," excision:
+1. Scar tissue, fat necrosis and suture with giant cell reaction. No malignancy is
+identified.
+Page 3 of 4
+Surgical Pathology –
+Working Draft
+2. No metastatic tumor identified in five lymph nodes. (0/5)
+Specimen Class:
+Specimen(s) Received:
+Final Diagnosis
+Review of
+from
+Status: Signed Out
+Accessioned:
+Signed Out:
+Breast, right, 10 o'clock, core biopsies: Infiltrating ductal carcinoma, SBR Grade 2; see
+comment.
+END OF REPORT
+Page 4 of 4

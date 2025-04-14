@@ -1,0 +1,266 @@
+Clinical Diagnosis & History:
+Internal development of enhancing mass on MRI left breast, core biopsy
+showed 
+infiltrating ductal carcinoma (IFDC) and DCIS, history of right
+infiltrating 
+ductal carcinoma 0.3 cm 0/6 sentinel lymph node, status post
+right TM sentinel 
+lymph node biopsy 8/05.
+Specimens Submitted:
+1: SP: Sentinel node #231, level 1, left axilla (fs)
+2: SP: Sentinel node %232, level 2, left axilla (fs) (
+3: SP: Left breast
+4: SP: Nonsentinel Houe left axilla
+DIAGNOSIS:
+1)
+LYMPH NODE, SENTINEL #1 LEVEL I LEFT AXILLA; EXCISION:
+AND SINGLE
+UUID:46841185-1719-4684-835D-E469D6AEFF12
+TCGA-AO-A0JI-01A-PR
+Redacted
+- METASTATIC CARCINOMA IN THE FORM OF MICROSCOPIC CLUSTERS
+CELLS, MEASURING 0.5 MM (MICROMETASTATIC), IS IDENTIFIED IN ONE LYMPH NODE
+(1/1) ON 
+ADDITIONAL H&B STAINED SECTIONS AND CYTOKERATINS
+IMMUNOHISTOCHEMCIAL STAINS (AE1: AB3).
+- THERE IS NO EXTRACAPSULAR EXTENSION OF CARCINOMA.
+2)
+-
+LYMPH NODE, SENTINEL #2 LEVEL II LEFT AXILLA; EXCISION:
+- ONE BENIGN LYMPH NODE (0/1).
+ADDITIONAL HE STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS AE1: AB3) SHOW NO EVIDENCE OF METASTATIC CARCINOMA.
+3)
+BREAST, LEFT; MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA, NOS TYPE, POORLY DIFFERENTIATED,
+HISTOLOGIC GRADE III/III (SLIGHT OR NO TUBULE FORMATION), NUCLEAR GRADE
+III/
+III (MARKED VARIATION IN SIZE AND SHAPE), MEASURING 1.1 CM IN LARGEST
+DIMENSION 
+MICROSCOPICALLY.
+- DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE, WITH HIGH
+NUCLEAR GRADE 
+AND MINIMAL NECROSIS.
+- THE DCIS CONSTITUTES LESS THAN OR EQUAL TO 25% OF THE TOTAL TUMOR MASS,
+AND IS PRESENT 
+ADMIXED WITH THE INVASIVE COMPONENT.
+- LOBULAR CARCINOMA IN SITU (LCIS) IS ALSO IDENTIFIED, CLASSICAL TYPE (TYPE
+A
+) INVOLVING 
+SCLEROSING ADENOSIS.
+-
+THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER QUADRANT.
+-
+THE DCIS IS LOCATED IN THE UPPER OUTER QUADRANT.
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+** Continued on next page **
+ICD-0-3
+carcinoma, infiltrating duct, Nes 8500/3
+Site: breast, NUS
+C50.9
+10/22/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED 1 DISQUALIFIED
+Date Reviewed:
+W 10/22/11.
+Page 2 of 5
+IDENTIFIED.
+CALCIFICATIONS ARE PRESENT IN THE IN SITU AND INVASIVE CARCINOMA, AND IN
+BENIGN BREAST PARENCHYMA.
+- NO VASCULAR INVASION IS NOTED.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+- NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+THE SKIN SHOWS SEBORRHEIC KERATOSIS.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES, EXTENSIVE
+SCLEROSING ADENOSIS, RADIAL SCAR, ATYPICAL DUCTAL HYPERPLASIA (ADH),
+INTRADUCTAL SCLEROSED PAPILLOMA WITH FOCAL ATYPIA, FIBROADENOMA AND CYST
+FORMATION.
+RESULTS OF SPECIAL STAINS (ER, PR, HER2-NEU) ARE AS FOLLOW:
+Immunohistochemical stains were performed on formalin-fixed tissue with the
+following results for invasive carcinoma (block 6):
+ESTROGEN RECEPTOR
+95% nuclear staining with strong intensity
+PROGESTERONE RECEPTOR
+0% nuclear staining
+HER2 (HercepTest;
+Negative (0 / 1+)
+(1% of invasive tumor cells exhibit complete membranous staining;
+Uniformity of staining:
+absent;
+Homogeneous, dark circumferential pattern: absent)
+Controls are satisfactory.
+HercepTestTM (
+Comment:
+is an FDA-approved method for assessment of
+HER2 protein overexpression in breast cancer tissue routinely processed for
+histological evaluation. The HER2 test results are reported in accordance
+with the ASCO/CAP guideline recommendations for HER2 testing in breast
+cancer (J Clin Oncol 2007; 25(1):1-28).
+4)
+LYMPH NODE, NON-SENTINEL LEFT AXILLA; EXCISION:
+- ONE BENIGN LYMPH NODE (0/1).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Gross Description:
+MD
+** Continued on next page **
+N
+Page 3 of 5
+1). The specimen is received fresh for frozen section consultation, labeled
+"Sentinel node #1, level 1, left axilla" and consists of a single yellow-tan
+firm and fatty lymph node measuring 4.7 cm. The node is trisected and two
+half are submitted for frozen section in cassettes labeled as A and B. The
+remaining fatty portion is bisected and entirely submitted for permanent
+section.
+Summary of sections:
+FSC-A
+--
+frozen section control-A
+FSC-Bfrozen section control
+RLN- remaining lymph node
+B
+2). The specimen is received fresh for frozen section consultation,
+labeled "Sentinel node #2, level 2, left axilla" and consists of a single
+pink-tan fatty lymph node measuring 1.6 cm in greatest dimension. Bisected
+and entirely submitted for frozen section.
+Summary of sections:
+FSC -- frozen section control
+.D.
+3). The specimen is received fresh, labeled "left breast, stitch marks
+axillary tail" and consists of a breast measuring 25 x 24 x 4 cm with
+overlying skin ellipse measuring 24 x 7.5 cm. Situated central/superiorly
+on the skin surface is an everted nipple measuring 1.0 x 0.9 x 0.5 cm and
+areola measuring 3.0 x 2.7 cm. The skin shows a raised pigmented lesion
+measuring 1.0 x 0.5 x 0.2 cm, located 1.8 cm medial to the areola. No scar
+is grossly identified on the skin surface. A suture demarcates the axillary
+aspect. The posterior surface of the breast is inked black and the radial
+margin is inked blue. The specimen is serially sectioned to reveal a firm,
+white, well-circumscribed mass measuring 1.0 x 1.0 x 0.9 cm, located within
+the upper outer quadrant at the two o'clock aspect, 1.2 cm from the deep
+margin. A hemorrhagic biopsy site is associated with the mass. An irregular
+area of white fibroglandular tissue is located immediately medial to the
+mass and measures approximately 5 x 5 x 3 cm. No additional discrete masses
+are grossly identified. Sectioning of the axillary aspect reveals no grossly
+identifiable lymph nodes. Representative sections are submitted. TPS is
+taken.
+Summary of sections:
+N
+-
+nipple with nipple base
+S - skin with pigmented lesion
+D - deep margin
+BX
+-
+biopsy site
+T- tumor, entirely submitted
+FG - dense fibroglandular tissue medial to the mass
+UIQ - upper inner quadrant
+LIQ - lower inner quadrant
+UOQ - upper outer quadrant
+LOQ - lower outer quadrant
+3
+✶✶ Continued on next page **
+Page 4 of 5
+4).
+M.D.
+The specimen is received in formalin, labeled "non-sentinel node left
+axilla" and consists a single lymph node with surrounding fibrofatty tissue
+measuring 1.2 × 0.4 cm. The lymph node is bisected and entirely submitted.
+Summary of sections:
+U-undesignated
+Summary of Sections:
+SP: Sentinel node #1, level 1, left axilla (fs)
+Part 1:
+Block
+1
+1
+1
+Sect. Site
+FSC-A
+FSC-B
+RLN
+PCS
+1
+1
+3
+Part 2:
+SP: Sentinel node #32, level 2, left axilla (fs)
+Block
+1
+Sect. Site
+FSC
+PCs
+1
+Part 3:
+SP: Left breast (sr)
+Block
+Sect. Site
+2
+BX
+1
+D
+9
+FG
+PCs
+2
+1
+9
+1
+LIQ
+1
+LOQ
+1
+1
+N
+1
+1
+S
+1
+2
+T
+2
+1
+UIQ
+1
+UOQ
+1
+1
+Part 4: SP: Nonsentinel node left axilla
+Block
+1
+Sect. Site
+U
+PCs
+1
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+**Continued on next page **
+4
+0
+NODE.
+tissue sample examined at the time of the intraoperative
+consultation.
+Page 5 of 5
+1)
+FROZEN SECTION DIAGNOSIS:
+GROSSLY LARGE AND FATTY LYMPH
+REPRESENTATIVE SECTIONS FROZEN AND SHOW NO TUMOR ON FROZEN SECTION.
+PERMANENT DIAGNOSIS:
+SAME
+"
+MD
+**End of Report **
+S

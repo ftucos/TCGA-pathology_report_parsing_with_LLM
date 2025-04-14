@@ -1,0 +1,322 @@
+Dations
+Referring Physician:
+DOB:
+Ref#:
+Age:
+Hosp#:
+Gender: F
+Provider Group:
+Date of Service:
+Date Received:
+Outpatient
+Room:
+Bed:
+AAAAA
+UUID:1A0D203A-BC4B-441F-97F6-D1FF7E959262
+TCGA-AC-A3TN-01A-PR
+Redacted
+FINAL SURGICAL PATHOLOGY REPORT
+Diagnosis:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malign..ncy History
+Dual/Synchronous Primary Noted
+Casey's (circle);
+A., C, D.) RIGHT BREAST AND AXILLARY SENTINEL LYMPH NODE, Reviewer
+MASTECTOMY AND SENTINEL LYMPH NODE BIOPSY:
+-
+- Multicentric invasive lobular carcinoma, Nottingham grade 1-2.
+-
+QUALIFIED
+DE Reviewed.
+JJ3130112
+- The area involved by invasive carcinoma measures approximately 8 cm in
+diameter.
+- See comment.
+Two axillary lymph nodes, no tumor present (0/2).
+-
+This includes one sentinel lymph node and one non-sentinel lymph node.
+- Resection margins are free of tumor. Invasive carcinoma is at least 1 cm
+from all margins. The closest margin is the inferior, which is approximately 1 cm
+from carcinoma.
+- Lobular carcinoma in situ (LCIS), classic type, low nuclear grade,
+widespread throughout the right breast.
+- Sites of previous biopsy identified.
+PATHOLOGIC TUMOR STAGING SYNOPSIS:
+Type and grade (invasive): Invasive lobular carcinoma, Nottingham grade 1.
+Type and grade (in situ ): Lobular carcinoma in situ, low nuclear grade.
+Primary tumor: pT3(m)
+Pathologic stage: IIB.
+Regional lymph nodes: pN0(i-)(sn).
+Distant metastasis: Not applicable.
+Lymphovascular invasion: Not identified.
+Margin status: Negative (RO).
+ICD-03
+Yes
+No
+DISQUALIFIED
+3/30
+carcinoma lobular, infiltrating
+852013
+Site: breast, Nos
+C50.9
+4-3-12
+COMMENT: In addition to the two areas of invasive lobular carcinoma previously
+biopsied, there is a large area of invasive lobular carcinoma in roughly the center of
+the breast that corresponds to the abnormal area detected in the right breast MRI
+dated
+(the suspicious area measured 8.1 cm in diameter on MRI). Grossly,
+this was an ill-defined area relatively denser than the surrounding breast tissue.
+B. LEFT BREAST, PROPHYLACTIC MASTECTOMY:
+Case #:
+Penont
+Printed:
+Pathology Report - Page 1/6
+Phone:
+Patient Nam
+Page 1
+This report continues... (FINAL)
+Page 1
+Dntinus.
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+- Focal atypical ductal hyperplasia (ADH, in lower outer quadrant).
+- Subareolar duct ectasia.
+- Focal fibrosis, cysts and mild usual type ductal hyperplasia.
+- Discrete focus of scar tissue in central inferior breast.
+Breast Invasive Tumor Staging Information
+(AJCC Cancer Staging Handbook.
+This staging also incorporates:
+Previous biopsy:
+Breast profile:
+'
+and CAP protocol,
+Case #:
+Printed:
+Acct No..
+Patient Nam
+Pathology Report - Page 2/6
+Page 2
+This report continues... (FINAL)
+Page 2
+Case #:
+Specimen type:
+Specimen procedure:
+Lymph node sampling:
+Specimen integrity:
+Specimen laterality:
+Total breast.
+Mastectomy.
+Sentinel lymph node.
+Intact specimen.
+Right.
+24.4 x 21.8 x 6.4 cm.
+Specimen size:
+INVASIVE TUMOR FEATURES:
+Invasive tumor size:
+Invasive tumor site:
+Invasive tumor focality:
+Histologic type:
+Total Nottingham Grade:
+Tubule formation:
+Nuclear Pleomorphism:
+Mitotic count for Nottingham:
+Mitotic count:
+Lymphatic invasion:
+Approximately 8 cm in diameter
+Central, in addition to areas previously biopsied
+(12:00 and 9:30 aspects of right breast).
+Multicentric
+Invasive lobular carcinoma.
+1 of 3.
+3 of 3.
+1-2 of 3.
+1 of 3.
+1 mitosis in 10 high power fields.
+Not identified.
+MARGIN STATUS FOR INVASIVE COMPONENT:
+Distance of tumor from margins:
+Closest margin:
+Other margins:
+DUCTAL CARCINOMA IN-SITU (DCIS):
+LOBULAR CARCINOMA IN-SITU (LCIS):
+Skin:
+Nipple:
+Skeletal Muscle:
+INVASIVE PATHOLOGIC TUMOR STAGING (pTNM)
+Primary tumor (pT):
+Regional lymph nodes (pN):
+Distant metastasis (pM):
+Tumor Stage:
+Negative.
+Approximately 1 cm.
+Inferior
+All other margins at least 1 cm from tumor.
+Absent.
+Present, extensive.
+Unremarkable.
+Focal subareolar duct ectasia. Subareolar foci of
+invasive lobular carcinoma present.
+Not applicable.
+pT3
+pNO(i-)(sn).
+Not applicable.
+11B
+RECEPTOR STATUS AND HER2/NEU:
+Estrogen receptors:
+Progesterone receptors:
+Her2/neu:
+Biomarkers performed on
+two separate core needle biopsies.
+95%.
+80% and 50%, respectively.
+1+.
+Case #:
+Printed:
+Page 3
+Phone
+This ranart continuae.. (FINAL)
+Acct No
+Patient Nam
+Pathology Report - Page 3/6
+Page 3
+Patient
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+Ki-67 proliferative index:
+Source of Specimen:
+A. Sentinel lymph node; Sentinel node #1, Right breast
+B. Breast;Left
+C. Breast; Right breast-additional inferior margin
+D. Breast;Right
+Clinical History/Operative Dx:
+1-2%.
+སྐྱལ་
+Signed by
+Neoplasm of right breast.
+Intraoperative Diagnosis:
+A. Sentinel node #1 right breast
+touch prep A diagnosis: Negative for carcinoma. (Dr.
+The
+intraoperative interpretation(s) was/were performed and rendered at
+Gross Description:
+A. The specimen is labeled sentinel node #1 right breast and is received without fixative. It consists
+of a 0.5 x 0.5 x 0.4 cm lymph node. It is serially sectioned and touch imprints are obtained. The node is
+submitted for permanent section in cassette A1.
+B. The specimen is labeled left breast tissue and is received in formalin. It consists of a mastectomy
+specimen which weighs 1,258 grams. A black suture marks lateral. With this orientation, the specimen
+Case #:
+Page 4
+Printed:
+This report continues... (FINAL)
+Phone:
+MR No.
+Acct No. -
+Patient Nam
+Pathology Report - Page 4/6
+) - Page 4
+Case #:
+T
+FINAL SURGICAL PATHOLOGY REPORT
+measures 20.5 cm from superior to inferior, 29 cm from medial to lateral, and 4.5 cm from superficial to
+deep. There is a broad overlying semi-circular portion of tan skin measuring 23 x 14.5 cm. In the medial
+inferior edge of the skin, there is a 4.5 cm areola with a protuberant 1.4 cm nipple. The skin is otherwise
+unremarkable. The anterior-superior margin is inked blue, the anterior-inferior margin is inked green, and
+the posterior margin, which partially consists of smooth facial appearing tissue, is inked black. The
+specimen is serially sectioned at close intervals to reveal lobulated fatty tissue and scattered tan-white
+fibrous parenchyma. In the central inferior portion of the breast, along the superior medial edge of the
+areola, there is an area of fibrous parenchyma which has a slightly stellate appearance but is soft and
+rubbery. This stellate area is 2 cm in maximum dimension. It is 4 cm or greater from the deep, inferior,
+and superior margin and is 2 cm from the closest skin. The breast parenchyma in the lower outer quadrant
+has a rough fine nodular feel but there are no areas which have a stellate or retracted appearance. There
+are no lymph nodes identified within the lateral portion of the excision. Representative sections are
+submitted. Section summary:
+B1) nipple and tissue just deep to nipple,
+B2-B3) stellate fibrous parenchyma central inferior breast,
+84) representative upper inner quadrant,
+B5) lower inner quadrant,
+B6) upper outer quadrant,
+B7-B8) lower outer quadrant, including representative lower outer quadrant deep margin.
+C. The specimen is labeled right breast tissue, additional inferior margin and is received in formalin. It
+consists of two irregular fragments of lobulated fatty tissue with an aggregate weight of 52 grams. The
+larger specimen measures 10.5 x 4.8 x 1.6 cm and the smaller specimen measures 4.2 x 2.8 x 1.7 cm. The
+surgical margins of these specimens are not designated. The larger specimen is inked black and the
+smaller specimen is inked green. Serial sections of both specimens reveal predominantly lobulated soft to
+pale yellow fatty tissue without palpable areas of nodularity. Representative sections of the larger
+specimen are submitted in cassettes C1-C3. Representative sections of the smaller specimen are submitted
+in cassette C4. Following review of the initial slides, additional sections are submitted in C5-C9.
+D. The specimen is labeled right breast tissue and is received without fixative. It consists of a mastectomy
+specimen weighing 1,285 grams. A black suture is present and is not otherwise designated but is arbitrarily
+assumed to represent lateral. With this orientation, the specimen measures 24.4 cm from medial to lateral,
+21.8 cm from superior to inferior, and 6.4 cm from superficial to deep. There is an overlying broad
+elliptical portion of tan skin which measures 24 x 16 cm. In the medial inferior skin, there is a 4 cm areola
+and 1.5 cm protuberant nipple. The skin shows two small areas of hemorrhagic discoloration which are
+located 3 and 3.5 cm superior to the nipple. No other skin lesions are identified. The anterior-superior
+margin is inked blue, the anterior- inferior margin is inked green, and the posterior margin, which consists
+partially of smooth facial tissue, is inked black.
+The breast is serially sectioned at close intervals to reveal a firm stellate appearing tumor mass within the
+central lateral breast, approximately 4.5 cm lateral to the nipple. This stellate area is 1.2 cm in maximum
+dimension. Centrally, within this stellate mass is a biopsy site clip. This stellate mass is 3.5 cm from the
+closest inferior margin, 11 cm from the closest superior margin, 14 cm from the closest medial margin, and
+11 cm from the closest lateral margin. It is 3.5 cm from the closest deep margin and approximately 3 cm
+Case #:
+Printed:
+Page 5
+This report continues... (FINAL)
+Pathology Report
+Page 5/6
+Phone:
+Patient Nan
+) - Page 5
+Case #:
+FINAL SURGICAL PATHOLOGY REPORT
+from the skin. A second palpably firm and stellate appearing mass is located in the superior central breast
+approximately 4 cm superior to the nipple. This second area measures 0.8 cm in maximum dimension. It
+is 4 cm from the closest deep margin, 3.5 cm from the closest skin, 6.5 cm from the closest inferior margin,
+9 cm from the closest superior margin, 10 cm from the closest medial margin, and greater than 10 cm from
+the lateral margin. A twisted biopsy site clip is also embedded within this stellate mass.
+The central breast tissue has an ill-defined firm area measuring approximately 7-8 cm in diameter. This
+area of firmness involves multiple quadrants of the breast. In the far lateral portion of the breast, there is a
+firm 1.8 cm lymph node.
+Representative tissue of the central lateral stellate mass is retained for research purposes. Representative
+sections are submitted. Section summary:
+D1) nipple and tissue just deep to nipple,
+D2-D3) complete cross-section of central lateral palpable mass,
+D4) additional section of superior edge of central lateral tumor,
+D5-D6) sections of central superior turnor mass (biopsy site clip in cassette D5),
+D7) central superior deep margin,
+D8) central lateral deep margin,
+D9) representative upper inner quadrant,
+D10) representative medial lower inner quadrant,
+D11) representative lateral lower inner quadrant,
+D12) representative lateral lower inner quadrant and closest anterior inferior margin.
+D13) upper outer quadrant,
+D14) lower outer quadrant,
+D15-D16) lymph node lateral portion of excision.
+Microscopic Description:
+1
+A. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered. Immunohistochemical stain:
+showing no evidence of metastatic carcinoma.
+Appropriate positive and negative controls reviewed.
+B. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+C. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+D. Microscopic sections have been examined. The microscopic findings are reflected in the diagnosis
+rendered.
+Case #:
+Printed:
+Pathology Report
+-
+MR No..
+"
+Page 6/6
+Phone:
+Acct No. -
+Patient Nar
+Page 6
+END OF REPORT (FINAL)
+Page 6

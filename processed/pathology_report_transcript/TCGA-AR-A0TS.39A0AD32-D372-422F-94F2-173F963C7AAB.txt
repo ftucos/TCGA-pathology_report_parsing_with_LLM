@@ -1,0 +1,31 @@
+UUID:39A0AD32-D372-422F-94F2-173F963C7AAB
+TCGA-AR-AOTS-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NOS C50.9
+Breast, right, lumpectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III) [tubules 3/3,
+nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming a 2.4 x 2.1 x 1.5 cm mass [AJCC pT2]. Ductal
+carcinoma in situ, intermediate nuclear grade, comprising approximately 5% of tumor volume.
+Angiolymphatic invasion is present. The non-neoplastic breast parenchyma shows proliferative
+fibrocystic changes. Calcifications present in benign ducts and acini. Biopsy site changes present. All
+surgical resection margins, after re-excision of the lateral-deep margin, are negative for tumor (minimum
+tumor free margin, 0.4 cm, deep margin).
+Lymph nodes, right axillary, sentinel biopsies: Two (of 3) axillary sentinel lymph nodes are positive for
+metastatic carcinoma [AJCC pN1]. Extranodal extension is present. Immunohistochemical cytokeratin
+stain was performed on the paraffin embedded sentinel lymph node tissue (sentinel node #3) and confirms
+the H&E impression.
+Lymph nodes, right axillary, dissection: Multiple (13) axillary lymph nodes are negative for tumor.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synch. onous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED/ DISQUALIFIED
+Date Reviewed:
+4710

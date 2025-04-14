@@ -1,0 +1,29 @@
+00
+KCD-0-3
+Carcinoma, infiltrating ductul. Nos 8500/3
+Site: breast, Nos
+050.9
+1/25/11
+Diagnosis:
+1. Poorly differentiated invasive ductal carcinoma with focal intraductal spread (tumor
+diameter 5 cm). Dorsal resection 
+margin tumor-free.
+Tumor classification: NOS, G III, PT2NOLOVORO.
+UUID:85288EC6-0BDC-4955-8888-1DEECBF8E235
+TCGA-A8-A094-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tuinor Site Discrepancy
+HIPAA Discrepanc
+Prior Malignancy History
+Dual/Synchronousrimary floted
+Case is icile):
+Reviewer ni
+QUALIFIED
+Date Reviewed:
+Redacted
+Yes
+N
+DISQUALID
+ستار

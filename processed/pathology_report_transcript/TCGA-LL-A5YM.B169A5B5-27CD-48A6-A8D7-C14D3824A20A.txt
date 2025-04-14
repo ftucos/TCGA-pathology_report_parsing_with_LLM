@@ -1,0 +1,179 @@
+UUID:B169A5B5-27CD-48A6-A8D7-C14D3824A20A
+TCGA-LL-A5YM-01A-PR
+PATIENT:
+REG DR:
+SPEC #:
+COLL:
+Redacted
+Specimen Inquiry
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Left breast cancer
+Remarks:
+Specimen(s):
+Left breast tissue
+ACCT #
+AGE/SX:
+DOB:
+STATUS:
+LOC:
+ROOM:
+REG
+BED:
+TLOC:
+DIS
+TIME IN FORMALIN: 100:36 hrs.
+PAGE 1
+MICROSCOPIC DIAGNOSIS
+LEFT BREAST TISSUE:
+INVASIVE DUCTAL CARCINOMA
+SEE COMMENT FOR DETAILS
+COMMENT(S)
+ICD-0-3
+Carmona, infitrating
+-¿ infitrating ductal w/ Payet
+Disease
+Site: CCCF (①Breast Nos C50.9
+path & Breast, central portion 0.50.1
+ORU 4/2/13
+PROTOCOL FOR EXAMINATION OF SPECIMENS WITH INVASIVE CARCINOMA OF THE BREAST
+BASED ON AJCC/UICC 
+TNM 7TH EDITION
+The following classifications should be adjusted based on additional operative and clinical
+information.
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+HISTOLOGIC TYPE:
+TUMOR SIZE:
+NOTTINGHAM HISTOLOGIC SCORE:
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+EXTENT OF TUMOR:
+MARGINS:
+PATHOLOGIC STAGING:
+Not specified
+Not identified
+Left
+Invasive ductal carcinoma
+5.5 cm
+Tubular differentiation: Score 3
+Nuclear pleomorphism: Score 3
+Mitotic rate: Score 3
+Overall grade: Grade 3
+Multiple foci of invasive carcinoma
+Not identified
+Skin: Invasive carcinoma directly invades into the
+dermis and epidermis with satellite nodules
+Nipple: Paget's disease of nipple
+Skeletal muscle: Skeletal muscle not identified
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 1.2 cm inferior skin
+Primary tumor: pT4b
+Regional lymph nodes: pNX
+Distance metastasis: Not applicable
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+GROSS DESCRIPTION:
+PATIENT:
+PAGE 2
+Specimen Inquiry
+(Continued)
+Received fresh for Tissue Banking, labeled with the patient's name and designated "left
+breast". Received with two inserted needle localization wires is a 586 gram. 
+21.0 × 
+14.0 x
+4.5 cm fibrofatty breast. The breast is received with an overlying 20.5 x 12.0 cm skin
+ellipse.
+The skin is tan/white and mottled with an eccentric, lateral 
+9.0 x 8.0 cm 
+areola
+and indurated 1.5 cm nipple. There are focal pigmented papules on the skin surface. The
+breast has been oriented with a short suture at one pole of the skin 
+ellipse designating
+medial a short double suture designating superior and a double long suture designating
+deep. The deep margin will be inked blue with the superior margin inked black, 
+the 
+inferior
+The 
+skin surface has an
+margin inked red, medial is inked yellow and lateral green.
+indurated 8.0 x 2.5 cm area extending medial from the nipple. There are focal skipped
+areas on this lesion with the medial most lesion being 1.5 cm at the medial pole
+.
+Sectioning of these indurated areas shows tumor associated with the skin. 
+The 
+tumor extends
+from beneath the nipple medially with the medial most lesion being 1.2 cm from the 
+inferior
+skin edge and approximately 2.2 cm from the medial pole of the skin. No additional 
+areas of
+induration extend close to the skin margin. The breast is serially sectioned 
+from medial
+to lateral to have a tumor mass extending across the breast for approximately 5.0 
+cm. The
+mass extends from the lateral aspect beneath the nipple medially where it goes from being
+The tumor extends and becomes 
+5.5 x 5.0 x 
+3.0
+approximately 1.0 cm in thickness to 2.5 cm.
+cm and comes within 2.5 cm of the nearest deep margin. The tumor is 3.0 cm from inferior.
+is approximately 4.5 cm from superior. is 3.0 cm from medial and is approximately 6 cm from
+The parenchyma is 
+glistening
+lateral with the skin lesion coming within 4.5 cm of lateral.
+yellow and fatty with scant white fibrous tissue. The white fibrous tissue makes up less
+than 10% of the parenchyma. The tumor predominantly involves the central medial 
+aspect 
+of
+the breast. Representative sections are sampled as labeled in the following cassettes
+:
+1
+2
+3
+4-5
+6
+nipple trisected
+en face section of areola where nipple has been removed
+sections with darker papules to include section with subcutaneous tumor
+adjacent to nearest inferior medial margin
+additional sections of subcutaneous tumor
+sections extending lateral and medial from the area where the nipple has
+been removed
+lateral most extension of tumor to include overlying skin
+nearest deep margin
+near full cross sections of largest area of tumor sampled
+upper/outer quadrant sampled
+lower/outer quadrant sampled
+7
+8
+9-11
+12
+13
+14
+15
+upper/inner quadrant sampled
+lower/inner quadrant sampled
+PHOTO DOCUMENTATION
+Image
+Signed
+(signature on file)
+* *
+END OF REPORT **
+Criteria
+LW 3/15/13.
+Yes
+No
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Daal/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initas
+QUALIFIED DISQUALIFIED
+De Reviewed:
+36113
+---

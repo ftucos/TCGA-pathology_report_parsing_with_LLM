@@ -1,0 +1,78 @@
+}
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+page 1 / 2
+Internal invoice No.
+Patient: XXX
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+ICD-0-3
+Material: Multiple organ resection - right breast.
+Unit in charge:
+Physician in charge:
+Material collected on
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Bifocal cancer of the right breast.
+Examination performed on:
+Carcinona, infiltrating duct, Nos 8500/3
+Site: breast, Nos
+050.9
+f 4/12/11
+Results of immunohistochemical examination: Tumour 1
+No estrogen receptors found in neoplastic cell nuclei. No progesterone receptors found in neoplastic cell nuclei. HER2 protein
+stained using rabbit antibody Ventana PATHWAY HER-2/neu (485). Positive reaction in invasive cancerous cells (Score = 3+)
+Tumour 2
+No estrogen receptors found in neoplastic cell nuclei. No progesterone receptors found in neoplastic cell nuclei. HER2 protein
+stained using rabbit antibody Ventana PATHWAY HER-2/neu (4B5). Positive reaction in invasive cancerous cells (Score = 3+)
+validated by:
+Examination performed on: :
+Macroscopic description:
+Right breast sized 26 x 19 x 5 cm with axillary tissues sized 11 x 8 x 2 and a skin flap of 24 x 2.5 cm.
+Tumour sized 1.6 x 1.5 x 1.3 cm found on the boundary of lower quadrants, located 1.3 cm from the lower boundary, 1 cm from
+the base and 4 cm from the skin.
+The other tumour present in the upper outer quadrant, sized 1.6 x 1.5 x 1.2 cm, removed by 0.1 cm from the base, 0.6 cm from
+the skin and 3 cm from the upper boundary.
+Microscopic description:
+Both tumours: Carcinoma ductale invasivum NHG3 (3+3+2/ 12 mitoses/10 HPF, visual area diameter: 0.55mm). Few
+foci of carcinoma ductale in situ (DCIS) (papillary type, with medium nuclear atypia and comedo necrosis of 5% of
+the tumour).
+In situ lesions of the type carcinoma intraductale mamillae.
+Glandular tissue showing parenchymal atrophy.
+AXILLARY LYMPH NODES:Metastases carcinomatosae in lymphonodis (No III/X).
+UUID:99858E48-8DFE-4405-88D8-7649CE2C9CFF
+TCGA-D8-
+A1XT-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronicu Primary Noted
+Case circle
+Reviver
+QUALIFIED
+Yes
+DISQUALIFIED
+teeviewed:
+4/12/11.
+Examination: Histopathological examination
+page 2 / 2
+Examination No.:
+Patient: XXX
+PESEL: XXX
+Gender: F
+Examination performed on:
+Infiltratio telae perinodalis.
+Test result:
+Carcinoma ductale invasivum bifocale et ductale in situ mammae dextrae. Invasive bifocal ductal carcinoma and ductal
+carcinoma in situ of the right breast: Metastases carcinomatosae in lymphonodis axillae (No III/X). Cancer metastases in axillary
+lymph nodes (NHG3, pTic, pNla).
+Compliance validavou vy.
+CONTACT YOUR DOCTOR WITH THIS REPORT!

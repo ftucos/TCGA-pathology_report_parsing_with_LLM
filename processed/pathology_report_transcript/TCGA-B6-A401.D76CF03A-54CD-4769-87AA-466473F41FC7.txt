@@ -1,0 +1,160 @@
+Patient
+UUID:D76CF03A-54CD-4769-87AA-466473F41FC7
+TCGA-B6-A401-01A-PR
+Redacted
+Page 1 of 3
+16/23/12
+AP Surgical Pathology: Additional Info
+Surg Path
+CLINICAL HISTORY:
+Not provided.
+GROSS EXAMINATION::
+Criteria
+Diagnosis Discrepanc;
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer tial
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+No
+6/22/12
+A. "Sentinel node #1, hot (AF1-3)", received for frozen section are three
+lymph node candidates. One lymph node is bisected and submitted for frozen
+section as AF1-AF2, and the remnant sections are submitted in blocks Al-2.
+Two additional lymph nodes are submitted for frozen section as AF3, and the
+remnant is submitted as block A3.
+B. "Axillary fat", received in formalin is a 11.3 x 4 x 1.5 cm fragment of
+yellow-tan adipose tissue which is dissected to reveal one lymph node
+candidate measuring 0.8 x 0.7 x 0.5 cm, which is submitted entirely in block
+B1.
+C. "Left breast cancer, two clips medial, one clip inferior, long stitch
+lateral, short stitch superior", received in formalin is a 8 cm medial to
+lateral, 7 cm superior to inferior, 2.7 cm anterior to posterior lumpectomy
+specimen inked as follows: superior-yellow, inferior-red, anterior-blue and
+posterior-black. The specimen is sectioned from medial to lateral to reveal a
+2.0 x 1.5 x 1 cm mass lesion located 0.4 cm from the posterior margin, 0.7 cm
+from the anterior margin, 2.7 cm from the medial margin, 2.7 cm from the
+lateral margin, 1.3 cm from the superior margin and 3.2 cm from the superior
+margin. The remainder of the breast tissue demonstrates fibrofatty lobulated
+adipose tissue that is otherwise grossly unremarkable. Sections are submitted
+as follows per the block diagram:
+BLOCK SUMMARY:
+C1-
+C2-4
+medial edge
+representative medial breast
+C5-28 mass submitted entirely
+C29-31 representative lateral breast
+C32-34 lateral edge
+ICD-0-3
+carcinoma, Infiltrating ductal NOS
+Site: breast, NOS C50.9
+D. "Superior medial margin", received in formalin is a 7.2 x 6.4 x 2.3 cm
+fragment of adipose tissue with a stitch marking final margin. The final
+margin is inked blue and the opposite margin is inked black.
+section is submitted in blocks D1-10.
+Every other
+850013
+7-2-1220
+E. "Medial and superior margin", received in formalin is a 5.5 x 3.5 x 2.2 cm
+fragment of yellow-tan adipose tissue with a stitch in place marking the final
+margin. The stitched margin is inked blue, and the opposite margin is inked
+black. The specimen is sectioned to reveal no focal lesions. Every other
+section is submitted in blocks E1-12.
+F. "Inferior to lateral margin", received in formalin is a 6.5 × 5.2 x 2.1 cm
+fragment of yellow-tan adipose tissue with a suture marking the final
+margin. The final margin is inked blue and the opposite margin is inked
+black. The specimen is sectioned to reveal no focal lesions.
+section is submitted in blocks F1-11.
+Every other
+G. "Anterior skin", received in formalin is a 7.5 × 5 × 2 cm unoriented
+aggregate of brown skin with subcutaneous tissue that is grossly
+unremarkable. Representative sections are submitted in blocks G1-3.
+INTRA OPERATIVE CONSULTATION:
+A. "Sentinel node #1, hot and blue":
+AF1-2 (one lymph node candidate, bisected) -positive for carcinoma.
+AF3 (two lymph node candidates) -negative for malignancy
+Page 2 of 3
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+PATHOLOGIC STAGE:
+PROCEDURE: Partial mastectomy, sentinel lymph node biopsy.
+PATHOLOGIC STAGE (AJCC
+Edition): pT1c pNla (sn) pMX
+NOTE: Information on pathology stage and the operative procedure is
+transmitted to this Institution's Cancer Registry as required for
+accreditation by the Commission on Cancer. Pathology stage is based solely
+upon the current tissue specimen being evaluated, and does not incorporate
+information on any specimens submitted separately to our Cytology section,
+past pathology information, imaging studies, or clinical or operative
+findings. Pathology stage is only a component to be considered in determining
+the clinical stage, and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon's operative report.
+DIAGNOSIS:
+A. "SENTINEL LYMPH NODE #1" (BIOPSY):
+METASTATIC ADENOCARCINOMA IN ONE OF THREE LYMPH NODES (1/3).
+SIZE OF METASTASIS: 5 MILLIMETERS
+EXTRANODAL INVASION:
+ABSENT.
+B. "AXILLARY FAT" (EXCISION):
+ONE LYMPH NODE, NO EVIDENCE OF MALIGNANCY (0/1).
+SEE COMMENT.
+COMMENT: The specimen is re-examined and only one lymph node is identified.
+C. "LEFT BREAST CANCER" (PARTIAL MASTECTOMY):
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL.
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 3 OF 3.
+TUBULE FORMATION SCORE: 3
+NUCLEAR PLEOMORPHISM SCORE: 3
+MITOTIC RATE SCORE:
+2
+GROSS TUMOR SIZE: 2 X 1.5 X 1 CM.
+SIZE OF INVASIVE COMPONENT: 2.0 CM.
+LYMPHATIC/VASCULAR INVASION: ABSENT.
+MULTIFOCAL TUMOR: ABSENT.
+IN-SITU CARCINOMA: PRESENT.
+TYPE OF IN-SITU CARCINOMA: CRIBRIFORM.
+NUCLEAR GRADE OF IN-SITU CARCINOMA: 3 OF 3.
+NECROSIS: ABSENT.
+DCIS EXTENDING OUTSIDE INVASIVE TUMOR MASS: ABSENT.
+SIZE OF IN-SITU CARCINOMA: NOT APPLICABLE.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE: INTRADUCTAL PAPILLOMA, RECENT
+NEEDLE CORE BIOPSY SITE.
+SIZE OF BIOPSY: 8 X 7 X 2.7 CM.
+MICROCALCIFICATIONS: ABSENT.
+SURGICAL MARGIN STATUS: NEGATIVE (GREATER THAN 2 MM).
+ESTROGEN/PROGESTERONE RECEPTOR, CELL CYCLE, EGFR AND HER2/NEU ANALYSIS:
+PENDING.
+PARAFFIN BLOCK NUMBER: C14.
+RESULTS WILL BE ISSUED IN SEPARATE REPORT FROM
+D.
+"SUPERIOR MEDIAL MARGIN, LEFT BREAST" (RE-EXCISION):
+BREAST TISSUE, NO EVIDENCE OF MALIGNANCY.
+FINAL MARGIN FREE OF TUMOR.
+E. "MEDIAL AND SUPERIOR MARGIN, LEFT BREAST" (RE-EXCISION):
+BREAST TISSUE, NO EVIDENCE OF MALIGNANCY.
+FINAL MARGIN FREE OF TUMOR.
+F. "INFERIOR TO LATERAL" (RE-EXCISION):
+BREAST TISSUE, NO EVIDENCE OF MALIGNANCY.
+FINAL MARGIN FREE OF TUMOR.
+G. "ANTERIOR SKIN" (BIOPSY) :
+SKIN AND SUBCUTANEOUS TISSUE, NO EVIDENCE OF MALIGNANCY.
+FINAL MARGIN IS NEGATIVE FOR MALIGNANCY.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis(es).
+ADDENDUM 1:
+Electronically signed:
+for results of supplementary
+Please see
+tests.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+Performed by:
+i
+Electronically signed:
+Page 3 of 3

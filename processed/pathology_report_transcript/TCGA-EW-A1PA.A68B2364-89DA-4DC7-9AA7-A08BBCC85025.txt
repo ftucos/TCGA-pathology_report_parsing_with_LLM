@@ -1,0 +1,207 @@
+Name:
+DOB:
+Gender:
+MRN:
+Surgical Pathology Report
+Case #:
+Collected:
+Received:
+Reported:
+Location:
+Copy To:
+Physician:
+Pathologic Interpretation:
+A.
+B.
+Left breast lumpectomy with needle localization (short stith- superior, long lateral):
+- Invasive ductal 
+carcinoma, Nottingham grade 2 (3+2+2), 2.5 cm in greatest linear dimension.
+- Associated ductal carcinoma in situ, intermediate grade (DIN2), cribriform type with necrosis.
+- The margins 
+are free from tumor.
+-
+-
+Distance from the nearest margin is 1.8 cm (superior).
+- Lymphovascular space invasion is identified.
+No malignancy seen in skin.
+- Microcalcifications.
+- Previous biopsy site.
+Skin left breast:
+ICD-0-3
+Carcinoma infiltrating ductal, Nos
+Site: breast, Nos
+8500/3
+3/12/11 for
+C50.9
+-
+- No malignancy seen in skin.
+C.
+D.
+E.
+-
+Additional tissue superior to the two small nodules blue Indicates true margin:
+· Invasive ductal carcinoma, 0.4 cm in greatest linear dimension.
+· The distance from the true margin is 1.0 cm.
+Left axillary contents:
+"
+•
+Metastatic carcinoma in one out of thirteen lymph nodes with extranodal extension (1/13).
+Size of metastatic tumor is 
+2.0 cm.
+Right breast tissue:
+No malignancy seen in skin.
+Fibroadenoma.
+Tumor Summary (Invasive Carcinoma of the Breast):
+Specimen Type: Partial breast
+Procedure: Excision with wire-guided localization
+UUID:A6882364-89DA-4DC7-9AA7-A08BBCC85025
+TCGA-EW-A1PA-01A-PR
+Redacted
+Lymph Node Sampling: Axillary dissection (partial or complete dissection)
+Specimen Integrity: Single intact specimen (margins can be evaluated)
+Specimen Size: Greatest dimension: 16cm
+Additional dimensions: 12 x 3 cm
+Specimen Laterality: Left
+Tumor Size: Size of Largest Invasive Carcinoma: Greatest dimension of largest focus of invasion: 2.5 cm
+Additional dimensions: 2 x 1 
+cm
+Tumor Focality: Multiple foci of invasive carcinoma
+Number of focl: 2
+Sizes of individual foci: 2.5 cm and 0.4 cm
+Macroscopic and Microscopic Extent of Tumor:
+Skin: Invasive carcinoma does not invade into the dermis or epidermis
+Nipple: DCIS does not involve the nipple epidermis
+Skeletal Muscle: No skeletal muscle present
+Ductal Carcinoma in Situ: DCIS is present
+Histologic Type of Invasive Carcinoma: Invasive ductal carcinoma (no special type or not otherwise specified)
+Histologic Grade:
+Glandular (Acinar)/Tubular Differentiation: Score 3
+Nuclear Pleomorphism: Score 2
+Mitotic Count: Score 2
+Overall Grade: Grade 2
+Margins: Uninvolved by invasive carcinoma
+Distance from closest margin: 1.0 cm (superior)
+Lymph-Vascular Invasion: Present
+Dermal Lymph-Vascular Invasion: Not identified
+Lymph Nodes:
+SURGICAL PATHOL Report
+Number of sentinel lymph nodes examined: 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 12
+Number of lymph nodes with macrometastases: 1
+Number of lymph nodes with isolated tumor cells: 2.0 cm
+Extranodal Extension: Present
+Method of Evaluation of Sentinel Lymph Nodes: Hematoxylin and eosin (H&E), one level
+Pathologic Staging (pTNM)
+Primary Tumor: pT2
+Regional Lymph Nodes: pN1a
+Distant Metastasis: Not applicable
+Ancillary Studies:
+Estrogen Receptor: Performed on another specimen
+Specify specimen:
+Results: Immunoreactive tumor cells present
+Progesterone Receptor: Performed on another specimen
+Specify specimen:
+Results: Immunoreactive tumor cells present
+Her2: Performed on another specimen
+Specify specimen:
+Results: Negative (Score 0)
+Microcalcifications: Present in invasive carcinoma
+***Electronically Signed Out By***
+NOTE: Some immunohistochemical antibodies are analyte specific reagents (ASRs) validated by our laboratory (Her 2, Parvo, H. pylori, HBcore). These ASRs are clinically useful indicators that do
+not require FDA approval. These clones are used: ID5=ER, PgR 
+636-PR, A485-HER2, H-11=EGFR, CCH2/DDG9-CMV, F39.4.1-AR and HPV by ISH. All immunohistochemical stains are used
+with formalin or molecular fixed, paraffin embedded tissue. Detection is 
+by LSAB. The results are read by a pathologist as positive or negative.
+2, MD
+As the attending pathologist, I attest that 1: () Examined the relevant
+preparation(s) for the specimen(s); and (i) Rendered the diagnosis(es).
+Clinical History:
+Female with left breast cancer
+Pre Operative Diagnosis:
+Left breast cancer
+Specimen(s) Received:
+A: Left breast lumpectomy with needle localization (short stith-superior, long lateral) fresh
+B: Skin left breeast (perm)
+C: Additional tissue superior to the two small nodules blue indicates true margin (perm)
+D: Left axillary contents (perm)
+E: Right breast tissue (perm)
+Gross Description:
+A.
+Received fresh and labeled "left breast lumpectomy with needle localization (short stith-superior, long lateral) fresh"
+specimen is inked for evaluation of margins as follows: posterior, black; 
+anterior, yellow; superior, blue; Inferior, green
+;
+lateral, orange; medial, red. The specimen weighs 299.0 grams and 
+measures 16.0 cm from medial to lateral, 12.0 cm
+Inferior to superior and 3.0 cm anterior to posterior. It is oval in shape, 
+yellow in color, soft in consistency. The specimen
+has an ellipse of skin measuring 3.0 x 1.0 cm. Serial sectioning of the 
+specimen reveals an oval mass with infiltrating
+borders and measures approximately 2.5 x 2.0 x 1.0 cm. The mass 
+occupies 10% of the entire specimen. It is white 
+in
+color and firm in consistency. The distance of the mass from the margin 
+is as follows: posterior 2.0 cm, inferior 2.0 cm
+,
+anterior 3.0 cm, superior 3.0 cm, medial 10.0 cm, lateral 9.0 cm. The 
+remaining of the breast parenchyma appears
+unremarkable with fat to stroma ratio 90:10. The mass has a clip. A 
+section of mass was submitted to tissue bank.
+Sections submitted as follows:
+Page 2 of 3
+SURGICAL PATHOL Report
+B.
+C.
+D.
+E.
+Sections of the mass in toto
+1-8
+9&10 Representative section from the superior margin)
+11&12 Representative section from inferior margin
+13&14 Representative section from lateral margin
+15&16 Representative section from medial margin
+17&18 Representative section from posterior margin
+19&20 Representative section from anterior margin
+21
+22
+Representative section from the remaining breast parenchyma
+Representative section of the skin
+Received in formalin and labeled “skin left breast" is a skin tag measuring 5.0 x 1.0 cm. Representative section submitted
+in one cassette.
+Received in formalin and labeled "additional tissue superior to the two small nodules blue indicates true margin (perm)" is
+oval in shape. The surgeon inked the true margin in blue. Resident inked true margin in black. It measures 3.0 x 1.0 x 1.0
+cm. It is submitted in toto in eight cassettes.
+Received in formalin and labeled "left axillary contents (perm)" is axillary contents measuring 10.0 x 8.0 x 3.5 cm. It is
+yellow in color and soft in consistency. There are 13 lymph nodes. The largest lymph node measures 2.0 x 2.0 cm. The
+lymph nodes are submitted as follows:
+1-8
+9
+10
+Two lymph nodes
+One lymph node per cassette
+Three lymph nodes
+Received in formalin and labeled "right breast tissue (perm)" is a soft, yellow breast tissue measuring 14.0 x 5.0 x 3.0 cm.
+Serial sectioning does not reveal any gross lesions. The breast parenchyma appears to be normal with fat to stroma ratio
+90:10. It has a skin tag measuring 3.0 x 1.0 cm. Sections are submitted as follows:
+1
+Section from skin
+2-4
+Representative section of stroma
+ICD-9(s):
+174.8 196.3 217
+MD
+Criteria
+Diagnosis Discrepancy
+Primary Tu.nor S. Le Discrepancy
+HIPAA Discrepancy
+Prior Malignancy; History
+Qual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIHILD
+Date Reviewed.
+Yes
+No
+DISQUALIFIED
+for 3/12/11
+Page 3 of 3

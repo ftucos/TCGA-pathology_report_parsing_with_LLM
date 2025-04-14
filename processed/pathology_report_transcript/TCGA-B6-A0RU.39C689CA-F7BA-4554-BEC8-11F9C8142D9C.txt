@@ -1,0 +1,59 @@
+DEPARTMENT OF PATHOLOGY
+SURGICAL PATHOLOGY REPORT
+Material
+mitted: Lef breast mass.
+Clinical
+History:
+Clinical
+Diagnosis:
+Operating
+Surgeon:
+carcinoma, infiltrating duct mixed w/ other types
+Site Code: breast, NUS C50.9
+(Metaplastic)
+852313
+10/25/11
+UUID:39C689CA-F7BA-4554-BEC8-11F9C8142D9C
+TCGA-B6-AØRU-01A-PR
+Redacted
+Pathology Number
+en
+Gross Examination:
+A.) "Left breast mass". Tissue sent for ER/PR. In formalin. A single irregular piece
+of firm yellow and tan lobulated fibroadipose tissue which has been previously inked and
+partially cross sectioned measuring 3.0 × 3.2 × 2.4 em. On cut surface there is a poorly
+circumscribed firm gritty yellow-tan mass measuring approximately 2.7 × 2.4 × 1.8 cm.
+in greatest dimensions. This mass grossly extends to within the surgical margins.
+Serially cross sectioned submitted in toto in Blocks 1 through 7.
+MICROSCOPIC: The predominant component of the tumor is an infiltrating ductal
+earemma with almost no tubule formation. Extensive necrosis is seen in the
+trating component. A minor component of comedo type intraductal carcinoma is seen
+at the periphery, making up less than quarter of the tumor. Scattered through the tumor
+are multiple foci of sarcomatous metaplasia characterized by myxoid stroma of high
+exilularity with rudimentary cartilaginous differentiation. Although small foci of this
+metaplasia are scattered through the tumor, the epithelial component of the tumor
+predominates. Tumor extends to the margin of resection. The adjacent breast shows duet
+ertusic and papillary apocrine metaplasia.
+DIAGNOSIS:
+"LEFT BREAST MASS": COMEDO INTRADUCTAL AND INFILTRATING
+DUCTAL CARCINOMA NUCLEAR GRADE POORLY
+DIFFERENTIated, histologic grADE 3 OF 3 (2.7 CM. IN
+GREATEST DIAMETER), EXTENDING TO THE SURGICAL MARGIN.
+SARCOMATOUS METAPLASIA IS SEEN. SEE COMMENT.
+COMMENT:
+This on MASTOVIEWEⱭ
+Criteria
+concurs.
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prinary Noted
+Case is (circle):
+Reviewer al
+QUALIFIED
+Ditorieviewed.
+DISQUALIFIED
+7.1371

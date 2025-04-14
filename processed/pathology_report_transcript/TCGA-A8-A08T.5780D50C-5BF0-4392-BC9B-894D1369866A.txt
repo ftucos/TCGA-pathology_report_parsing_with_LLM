@@ -1,0 +1,27 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, nos 8500/3
+Site: Breast, Nos
+05019
+Diagnosis:
+> 1. Two foci of a moderately differentiated invasive ductal carcinoma
+(tumor diameters: 3 cm and 2 cm) with focal intraductal components and
+circumscribed angioinvasion. No infiltration or ulceration of the skin.
+Tumor classification: NOS, G II, pT2(mult) N1aL1V0M1R0
+1/21/11
+UUID:5780D50C-5BF0-4392-BC9B-894D1369866A
+TCGA-A8-A08T-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Schonots Prinary Noted
+Case is o
+Reviewe
+QUALIFIED
+Date Reviewed'
+سلام
+Redacted
+Yes
+No
+DISQUALIFIED

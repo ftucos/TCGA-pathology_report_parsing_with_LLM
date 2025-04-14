@@ -1,0 +1,32 @@
+?
+:
+ICD-0-3
+Carcinoma, infiltrating lobular, Nos 8520/3
+Path
+Site: breast, MOQ
+050.4
+CQCF Site: breast, was C50.9
+1/25/11
+fu
+Diagnosis:
+1. Moderately differentiated invasive lobular carcinoma with focal in situ spread and
+angioinvasion (tumor diameter 
+3.0 cm).
+Concluding tumor classification: lobular carcinoma, G II, pT2N3a(15/19)L1V0R0.
+UUID:161A2735-C3CF-466D-AE21-C6A2C987BB1E
+TCGA-A8-A0A6-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Duel/
+Synchronous Primar Noted
+Cast (circle
+Review Wits
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+Redacted

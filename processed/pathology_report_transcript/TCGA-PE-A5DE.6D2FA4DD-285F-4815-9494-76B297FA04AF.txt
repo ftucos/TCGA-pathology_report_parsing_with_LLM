@@ -1,0 +1,163 @@
+SPECIMEN:
+SURGICAL PATHOLOGY REPORT
+DOB:
+Sex: F
+UUID:6D2FA4DD-285F-4815-9494-768297FA04AF
+TCGA-PE-A5DE-01A-PR
+Redacted
+Location:
+Date Collected:
+Date Received:
+Physician:
+Copy To:
+Clinical History/Diagnosis: Left breast cancer
+Source of Specimen(s):
+1: Sentinel Nodes-left axilla
+2: left breast lumpectomy
+3: Margin-final medial
+Gross Description:
+Received in three parts.
+ICD-0-3
+Carcinoma Idular
+infiltrating NOS 8520/3
+Site Breast NOS
+Source of Tissue: 1. Labeled # 1, "sentinel node left axilla"
+Touch Preparation Evaluation: 1TP- NO TUMOR SEEN PER
+(VERIFIED).
+71 0/24/13
+Gross Description: Received fresh for intraoperative consultation/touch
+impression in a container labeled "sentinel node left axilla". It consists of a tan to light
+brown rubbery lymph node measuring 1.6 x 1.3 x 1.0 cm. There is a stitch at one end
+marking the bluest portion. The node is sectioned. Touch impression of the bluest
+end was submitted as 1TPA and the tissue is subsequently submitted in 1A.
+Touch impression of the opposite end was submitted as 1TPB and
+subsequently the tissue is submitted in 1B.
+***********
+Source of Tissue: 2. Labeled # 2, "left breast lumpectomy"
+C509
+Gross Description: Received fresh in a container labeled "left breast lumpectomy". It
+consists of a 7.4 x 7.4 x 3.5 cm ovoid rubbery fragment of fibroadipose tissue. There is a
+short stitch marking the superior and a long marking the lateral. The anterior is
+inked blue and the remaining margins are inked black. The specimen is
+sectioned disclosing a large firm tan lesion with moderately defined
+borders measuring 3.8 x 2.6 x 1.9 cm. The lesion occupies an appreciable
+amount of the lumpectomy specimen. Laterally in the tumor there is
+inspissated blood consistent with previous biopsy site changes. The
+lesion comes very close to the medial, superior, and anterior resection
+margins. Also adjacently the breast parenchyma is fibrous and there is a
+0.4 cm blue dome cyst noted. Representative sections are submitted in
+2A-K.
+Criteria
+Www 3/25/15
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+De Reviewed
+Yes.
+No
+DISQUALIFIED
+Designation of Sections: 2A-2C- breast tissue with tumor in relationship
+to anterior margin, 2D-2F- breast tissue with tumor in relationship to
+posterior margin, 2G- additional sections of tumor, no margins are
+represented with biopsy site, 2H-perpendicular sections of superior
+resection margin, 2I- perpendicular sections of medial resection margin
+[Note: specimen 3 presumably supercedes this margin.], 2J- perpendicular
+sections of inferior margin, 2K- perpendicular sections of lateral margin
+*******
+Source of Tissue: 3. Labeled # 3, "final medial margin"
+Gross Description: Received fresh in a container labeled " final medial margin". It
+consists of a fragment of fibroadipose tissue measuring 2.5 x 2.0 x 1.0 cm. There is a
+stitch marking the final margin which is inked black prior to sectioning.
+Sections disclose no obvious residual lesional tissue. Entirely submitted
+in 3A and 3B.
+**********
+Final Diagnosis:
+1. Sentinel lymph node, left axilla, excision:
+- One lymph node with no tumor seen (0/1).
+- Negative immunohistochemical staining for cytokeratin AE1/AE3.
+2. Left breast, lumpectomy:
+Invasive and in situ lobular carcinoma
+- Invasive lobular carcinoma, 3.8 cm in greatest dimension grossly, grade
+II-III.
+- Lobular carcinoma in situ, nuclear grade II-III, comprising
+approximately 5% of the tumor mass.
+- Lymphovascular invasion is not identified.
+- Invasive carcinoma is less than 1mm to the inked closest medial margin
+(see specimen 3 for final medial margin status), and remaining margins
+with no tumor seen.
+- Changes consistent with prior biopsy site seen.
+- Non-neoplastic breast tissue shows fibrocystic changes with
+microcalcifications.
+3. Left breast, final medial margin, excision:
+- Benign breast tissue, no tumor seen.
+Note: Case reviewed with
+diagnosis.
+who concurs with the
+Procedures/Addenda
+Date Ordered:
+Addendum
+Date Complete:
+Date Reported
+Addendum Diagnosis
+Specimen sent tc
+Status:
+By:
+testing.
+Antibody/Tests
+Results
+Prognostic
+Grouping
+DNA INDEX/PLOIDY
+1.59 Aneuploid
+S-Phase
+See Below
+Ki-67 (MIB-1)
+<10%
+Favorable
+for additional
+An accurate S-phase fraction (SPF) value cannot be determined due to DNA
+aneuploid/tetraploidy cell population <20% of total cells analyzed.
+INVASIVE BREAST CANCER TEMPLATE: Excisions and Mastectomies
+Specimen Type
+Excision
+Lymph Node Sampling
+Sentinel lymph node only
+Specimen Size (for excisions less than total mastectomy)
+Greatest dimension: 7.4 cm
+Laterality
+Left
+Tumor Site(s)
+Not specified
+Invasive Component
+Solitary
+Greatest dimension: 3.8 cm (grossly)
+Histologic Type(s)
+Lobular carcinoma in situ
+Invasive lobular
+Invasive Lobular Carcinoma Type
+Classical, singet-ring, and pleomorphic
+Invasion
+Invasion confined to breast parenchyma
+Angiolymphatic Invasion
+Absent
+Microcalcifications Associated with Carcinoma In Situ
+No
+Margins
+Margins uninvolved by invasive carcinoma and in situ carcinoma
+Regional Lymph Nodes
+1 regional lymph node examined
+No regional lymph node metastasis histologically and by
+immunohistochemical staining for cytokeratin AE1/AE3 (N0)
+Ancillary Immunopathology Studies (performed on
+ER
+PR
+Her2-Neu
+Positive
+Positive
+Negative (score 0)
+PTNM: T2 NO Mx

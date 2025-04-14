@@ -1,0 +1,63 @@
+Department of Cancer Pathology
+Date:
+Examination: Histopathological examination
+Internal invoice No.
+Cost of diagnostic procedure
+Patient: XXX
+PESEL: XXX
+Age:
+Gender: F
+Material: Multiple organ resection - right breast with axillary tissues
+Unit in charge: (
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+Examination performed on:
+Results of immunohistochemical examination:
+page 1 / 1
+Examination No.:
+10D-0-3
+carcinona, infiltrating duct, Nos
+Site: breast, NGS
+050.9
+4/12/11
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO. Negative reaction in invasive cancerous cells ( Score = 1+ ).
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Right breast sized 26 x 17 x 7 cm removed along with axillary tissues sized 10 x 14 x 6 cm and a skin flap of 16 x 8 cm. Tumour
+sized 3.2 x 2.5 x 1.9 cm in the upper outer quadrant, located 4.5 cm from the upper boundary, 1.7 cm from the base and 1.2 cm
+from the skin.
+Seven separate pieces with 3 x 2 x 1 cm in total.
+Microscopic description:
+Carcinoma ductale invasivum NHG2 (2 + 3 + 1/15 mitoses/10 HPF - visual area 0.55 mm). Extensive fibrosis in the central part of
+the tumour. Numerous signet ring celi. Mamilla sine laesionibus.
+Glandular tissue showing lesions of the type mastopathia fibrosa et lipomatosis.
+Axillary lymph nodes: Metastases carcinomatosae in lymphonodis (No II/VII).
+Histopathological diagnosis:
+Invasive ductal carcinoma of the right breast!
+Metastases carcinomatosae in lymphonodis axillae (No II/VII). (NHG2; pT2; pNla). Cancer metastases in axillary lymph nodes.
+Compliance validat
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+UUID:D9A8E659-99BC-4784-AC85-E63098BA731D
+TCGA-D8-A1XR-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+Na
+Primary Turner Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/ynchronous Primary Noted
+Case la cistle):
+Reviewer
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+to 4/12/11
+85001

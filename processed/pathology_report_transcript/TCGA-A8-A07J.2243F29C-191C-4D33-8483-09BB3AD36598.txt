@@ -1,0 +1,29 @@
+00
+:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+Site: Breast, UOQ
+050.4
+CQCF Site: Breast, Nos C50.9
+Diagnosis:
+1. Breast segment with a bifocal invasive ductal carcinoma (G II; tumor diameter: 3
+cm and 0.8 cm) with focal intraductal components.
+Tumor classification: NOS, G II, pT2(m) pN1a(1/18) LOVORO.
+UUID:2243F29C-191C-4D33-8483-09B83AD36598
+TCGA-A8-A07]-01A-PR
+Criteria
+Diagnosis Discrep*ncy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIDED
+1/22/10
+p
+Redacted

@@ -1,0 +1,29 @@
+ICD-0-3
+Carcinoms, infiltrating ductal, NOS 8500/3
+Fath
+CQCF
+Site: breast, UOQ
+Site: breast, Nos C50.9
+C50.4
+Diagnosis:
+1. Moderately differentiated invasive ductal carcinoma (tumor diameter: 8 cm).
+Distance to dorsal resection margin less than 0.1 cm.
+Concluding tumor classification for the right breast: NOS, G II, pT3LOVORX.
+1/25/11
+UUID:956F45E5-A8C6-4A4A-9D1F-D31912180584
+TCGA-A8-A06Z-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Qual/Synchronous Primaryoted
+Case is (
+cicle:
+Reviewer fortials
+Yes
+UALIFIED / DISQUALIFIED
+Bate 
+Revised:

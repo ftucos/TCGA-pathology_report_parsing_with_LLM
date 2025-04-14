@@ -1,0 +1,83 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No.:
+PESEL: XXX
+Age:
+Gender: F
+ICD-0-3
+Material: Multiple organ resection - right breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+page 1 / 2
+Carcinoma, infiltrating duct, NOS 8500/3
+Site: breast,
+Nos
+050.9
+for 4/12/
+Examination performed on:
+Results of immunohistochemical examination:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTest™ by DAKO. Positive reaction in invasive carcinoma cells
+(Score = 3+ )
+Compliance validated by:
+Examination performed on:
+Macroscopic description:
+Right breast sized 23 x 18 x 4 cm removed along with axillary tissues sized 12 x 8 x 3.5 cm and a skin flap of 21 x 11 cm. Weight
+700 
+g.
+Tumour sized 4.5 x 3.5 x 3 cm found on the boundary of outer quadrants, located 4.2 cm from the ouer boundary, 0.5 cm from
+the base and 
+1.7 cm from the skin.
+Microscopic description:
+Carcinoma invasivum (partim signet ring cell carcinoma) - NHG2 (3+3+1/7 mitoses/10 HPF - visual area 0.55mm).
+Glandular 
+tissue showing parenchymal atrophy. Axillary lymph nodes:
+Metastases et micrometastases carcinomatosae in lymphonodis (No XIV/XVI). Infiltratio capsulae lymphonodorum et
+telae 
+perinodalis. Emboliae carcinomatosae vasorum.
+Histopathological diagnosis:
+Carcinoma invasivum mammae dextrae.
+Metastases et micrometastases carcinomatosae in lymphonodis axillae (No XIV/XVI). (NHG2; pT2; pN3a). Final
+diagnosis to be given after supplementary tests.
+Examination performed on
+Compliance validated by:
+UUID:449F70F0-DFE1-40F9-879D-43283CFAF525
+TCGA-D8-A1X5-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initial
+QUALIFIED
+Date Reviewed:
+tw
+Yes
+DISQUALIFIED
+4/12/11
+Patient: XXX
+Examination performed or
+Examination: Histopathological examination
+PESEL: XXX
+Examination result/Final Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. NHG2, pT2, pN3a.
+Invasive ductal carcinoma of the right-breast "NHG2, pT2, pN3a.
+Immunophenotype: CK7-, CK 5/6-, GCDFP-15-, E-cadherin+, PAS+
+page 2 / 2
+Examination No.:
+Gender: F
+Compliance validated L,.
+CONTACT YOUR DOCTOR WITH THIS REPORT!

@@ -1,0 +1,65 @@
+Internal invoice No.
+Patient: XXX
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+page 1 / 1
+Value of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Gender: F
+ICD-0-3
+Material: 1. Multiple organ resection - left breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on: '
+carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NoS
+4/12/11
+C50.9
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast..
+Examination performed on:
+Macroscopic description:
+Left breast sized 16.8 x 15.3 x 5.2 cm removed along with axillary tissues sized 10 x 6 x 5 cm and a 16.2 x 9.8 cm skin flap and a
+fragment of the muscle sized 4 x 3 cm. Weight 620 g.
+Tumour sized 3.5 x 3 x 3 cm found in the inner upper quadrant, 1 cm from the inner boundary, 0.2 cm from the base and 0.8 cm
+from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG3 (3+3+3/36 mitoses/10 HPF - visual area: 0.55mm'
+Mamilla sine laesionibus.
+UUID:83DB4F9E-C918-4913-93E8-F18FF22CBA7C
+TCGA-D8-A1XK-01A-PR
+Redacted
+Glandular tissue with lesions of the type mastopathia fibrosa and cystica.
+Invasive lesions 0.1 cm away from the base.
+Axillary lymph nodes:
+Metastases carcinomatosae in lymphonodis (No III/XVIII).
+Histopathological diagnosis:
+Carcinoma invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+Metastases carcinomatosae in lymphonodis axillae (NHG3, pT2, pN1a). Cancer metastases in axillary lymph nodes.
+Compliance validated b
+Examination performed on:
+Results of immunohistochemical examination:
+No estrogen receptors found in neoplastic cell nuclei.
+No progesterone receptors found in neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Negative reaction in invasive carcinoma cells ( Score = 0 ).
+Compliance validated by: 1
+CONTACT YOUR DOCTOR WITH THIS REPORTI
+Scriteria
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Noted
+Case is (clacte
+Reviewer Initials
+QUAMELED
+Date Reviewed:
+Yes
+CISQUALIFIED
+4/12/4

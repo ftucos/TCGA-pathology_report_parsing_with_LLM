@@ -1,0 +1,31 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos
+Site: Breast, Nos
+C50.9
+1/19/11
+8500/3
+Diagnosis:
+Invasive ductal breast carcinoma (malignancy grade II) with angioinvasion and penetration of
+the retromamillary fibromuscular tissue. But no actual infiltration of the skin. Penetration also
+as far as the fascia. However, dye-stained resection margins are free of atypia. In the tumor
+nucleus and the remaining glandular body are multicentric manifestations of an intraductal
+breast carcinoma (grade II). No coarse calcifications. Fibrocystic base structure. Separately
+examined resection margins free of atypia.
+Tumor classification: pT2 (max. diameter 3.8 cm), pN3a (12/17), pM1, R0; G2 (L1, V0); EIC.
+UUID:2F102533-4B6B-4411-9080-3697ED3099EA
+TCGA-A8-A080-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Frimary Nated
+Case is (ctle):
+Review Inn
+QUALIFIED
+Date Reviewed
+Yes
+No
+DISQUALIFIED
+5/31/11

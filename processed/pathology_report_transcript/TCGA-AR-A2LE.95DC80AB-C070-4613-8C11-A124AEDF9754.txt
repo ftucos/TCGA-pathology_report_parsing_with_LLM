@@ -1,0 +1,41 @@
+ICD 0-3
+Carcinoma, infiltrating lobulew, Nus 8520/3
+Site: breast, Nos
+C50.9
+سار
+Final Diagnosis
+Breast, right, excision: Infiltrating lobular carcinoma, Nottingham I (of
+III) 
+forming a 1.6 x 1.5 x 1.3 cm mass (AJCC pT1c). The carcinoma shows
+ductular 
+involvement. No angiolymphatic involvement is present.
+surgical resection margins, including the separately submitted margins,
+are 
+negative for tumor.
+The
+Lymph nodes, right sentinel, excision: Negative for tumor.
+Immunohistochemical cytokeratin stain was performed on the paraffin
+embedded 
+sentinel lymph node tissue and confirms the H&E impression.
+The infiltrating breast carcinoma is positive for estrogen receptor and
+negative for 
+progesterone receptor.
+8/17/11
+UUID:95DC80AB-C070-4613-8C11-A124AEDF9754
+TCGA-AR-A2LE-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA 
+Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (
+circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED DISQUALIFIED
+Date Reviewed: 11.
+w 8/17/11

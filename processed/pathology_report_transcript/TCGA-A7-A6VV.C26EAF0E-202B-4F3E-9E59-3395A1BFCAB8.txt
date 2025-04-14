@@ -1,0 +1,110 @@
+UUID:C26EAFOE-202B-4F3E-9E59-3395A1BFCAB8
+TCGA-A7-A6VV-01A-PR
+ICD-0-3
+Carcinoma, infiltrating duct Nest
+CSCF
+Redacted
+"⑤Breast NOS C50.9
+path
+Final Surgical Pathology Report
+Procedure:
+Diagnosis
+A. Sentinel lymph node, right axilla, biopsy: One negative lymph
+node (0/1).
+B. Breast, right, mastectomy: Invasive ductal carcinoma, grade 3,
+size 4.5 cm in greatest dimension, with ductal carcinoma in-situ,
+grade 3 with necrosis; negative margins of excision.
+C. Breast, left, mastectomy: Focal atypical ductal hyperplasia;
+negative margins of excision.
+D. Lymph nodes, right axilla, regional resection: Four negative
+lymph nodes (0/4).
+Microscopic Description:
+Invasive carcinoma:
+Histologic type:
+Ductal
+Histologic grade: 3
+Overall grade: 9/9
+Architectural score: 3
+Nuclear score: 3
+Mitotic score: 3
+Greatest dimension (PT): Size 4.5 cm in greatest dimension
+Specimen margins: Negative
+Vessel invasion: Not identified
+Nipple (Paget's): Negative
+Invasion of skin or chest wall: Negative
+Ductal carcinoma in situ:
+Histologic pattern:
+Nuclear grade: 3
+Solid, cribriform
+Central necrosis: Present
+% DCIS of total tumor (if mixed): 10%
+Extensive intraductal component (present/absent): Absent
+Specimen margins: Negative
+Calcification:
+Present
+Description of non-tumorous breast: Fibrocystic changes including
+apocrine metaplasia with cyst formation
+Comments: Prior biopsy site identified. Focal atypical ductal
+hyperplasia, with partial involvement of a duct by a cribriform cell
+population, is present within the left breast.
+Distant metastasis (PM): Unknown
+Lymph nodes:
+Number of positive nodes of total: 0 of 5
+Size of largest metastasis: N/A
+Extracapsular extension (present/absent):
+PN: PNO
+Prognostic markers: See previous core biopsy at
+Specimen
+A. Right sentinel node (axillary)
+B. Right breast tumor at 12:00
+C. Left breast tissue
+D. Right axillary content
+N/A
+B Breast, midlene C50.8
+®
+9407/25/13
+Clinical Information
+Right breast, tumor at 12:00, large mass
+Intraoperative Consultation
+^
+One negative lymph node.
++ for carcinoma right breast
+Gross Description
+A. Received unfixed for frozen section, labeled sentinel node right, is
+a lymph node that is fat-replaced and 2 x 1.5 x 1.5 cm, entirely frozen
+in 3 blocks.
+B. Received unfixed for tissue procurement, labeled right breast, is a
+1444 gram right breast that is unoriented and 23 cm medial to lateral,
+There is
+22 cm superior to inferior, and 4.5 cm anterior to posterior.
+an anterior black skin ellipse, 20 x 5 cm with 5 cm areola and 1.5 cm
+nipple. There is a tan-gritty tumor at 12:00, up to 4.5 cm in greatest
+Sections as follows: 1-6
+dimension, and close to the anterior margin.
+continuous tumor, 7/8 tumor, 9 tumor, 10 RUQ random, 11 RLQ random, 12
+LLQ random, 13 LUQ random, 14 nipple, 15 areola
+C. Received unfixed, labeled left breast, is a portion of fibroadipose
+Skin is
+breast tissue and skin that is 818 grams and 26 x 17 x 5 cm.
+Sectioning through the
+darkly pigmented, and without focal lesions.
+breast tissue shows no mass lesions. Representative sections in 8
+blocks.
+D. Received unfixed, labeled right axillary content, is a 9 x 7 x 2 cm
+1 one
+portion of fatty nodal tissue. Lymph nodes are identified:
+node, 2 two nodes, 3 one node.
+Electronically Signed By:
+Citeria
+A 7/13/13
+iagnosis is repa.icy
+rimary Turnor Site Discrepancy
+1. AA Discrepancy
+rior Malignancy History
+Maisy-chronous Primary Noted-
+acet. (circle):
+tevie ver Initials
+Yes
+No
+QUALIFIED/ DISQUALIFIED
+Date Reviewed: 7/1013

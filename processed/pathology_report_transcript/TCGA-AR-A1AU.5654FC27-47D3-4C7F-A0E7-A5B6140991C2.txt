@@ -1,0 +1,48 @@
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site code: breast, Nos
+C50.9
+Final Diagnosis
+Breast, right, total mastectomy: Infiltrating ductal carcinoma, Nottingham grade III (of III),
+[tubules 3/3, nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming multiple (2) masses (central-
+-2.6 x 2.2 x 1.6 cm and upper inner quadrant--0.3 x 0.2 x 0.2 cm) [AJCC pT2]. Ductal carcinoma
+in situ, high nuclear grade, composes less than 5% of the tumor volume. Angiolymphatic
+invasion is absent. The non-neoplastic breast parenchyma shows nonproliferative fibrocytic
+changes and a fibroadenoma (0.3 x 0.2 x 0.2 cm). Biopsy site changes present. The tumor does
+not involve the nipple, overlying skin, or underlying chest wall. All surgical resection margins,
+including the deep margin, are negative for tumor (minimum tumor free margin, 1.4 cm, anterior
+margin, for the central tumor).
+Lymph nodes, right axillary non-sentinel, excision: Multiple (2 of 3) right axillary non-sentinel
+lymph nodes are positive for metastatic carcinoma. One of the positive lymph nodes shows focal
+extracapsular extension.
+Lymph nodes, right axillary sentinel, excision: Multiple (2) right axillary sentinel lymph nodes
+are negative for metastatic carcinoma. Blue dye is identified in right axillary sentinel lymph node
+No. 1. Blue dye is not identified in right axillary sentinel lymph node No. 2.
+Lymph nodes, right high axillary, excision: Multiple (5) right high axillary lymph nodes are
+negative for tumor.
+Lymph nodes, right mid/low axillary, dissection: Multiple (2 of 27) right mid/low axillary lymph
+nodes are positive for metastatic carcinoma [AJCC pN2].
+Residual right breast tissue, excision: Residual breast tissue shows non-proliferative fibrocystic
+changes.
+Breast, left, simple mastectomy: Benign breast parenchyma with proliferative fibrocystic
+changes, including a complex sclerosing lesion. Negative for malignancy.
+Additional left breast tissue, excision: Benign breast parenchyma with non-proliferative
+fibrocystic changes; negative for malignancy.
+UUID:5654FC27-47D3-4C7F-A0E7-A5B6140991C2
+TCGA-AR-A1AU-01A-PR
+Criteria
+Diagnosis Discrepancy
+12/21/10
+Redacted
+Yes
+No
+2
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Frior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Beviewed:
+DISQUALIFIED

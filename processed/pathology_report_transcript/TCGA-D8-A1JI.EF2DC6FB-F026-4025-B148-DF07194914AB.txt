@@ -1,0 +1,68 @@
+Internal invoice No.
+ICD-0-3
+8500/3
+650.9 3/11/4x
+2/11/11
+Carcinoma, infiltrating, ductal, Nos
+Site breast, Nos
+Department of Cancer Pathology
+page 1 / 2
+copy No.
+Date:
+Examination: Histopathological examination
+Cost of diagnostic procedure
+Examination No.:
+Patient: XXX
+PESEL: XXX
+Age:
+Gender: F
+Material: 1. Multiple organ resection - right breast and axillary tissue
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast
+UUID:EF2DC6FB-F026-4025-B148-DF07194914AB
+TCGA-D8-A1JI-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tuiner Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cecle):
+Reviewer is
+QUALIFIED
+Date Reviewed:
+Yes
+DISG JALIFIED
+ho 3/1/11
+Examination performed on
+Macroscopic description:
+Right breast sized 35 x 23 x 9 cm removed along with axillary tissues sized 13 x 8 x 4 cm and a skin flap of 24 x
+17 cm. Weight 1,400 g.
+Tumour sized 1.9 x 1.4 x 1.8 cm in the upper outer quadrant, 6 cm from the upper boundary, 2 cm from the
+base and 1.8 cm from the front surface. Lymph nodes 2.4 cm in length.
+Microscopic description:
+Carcinoma ductale invasívum - NHG1 (2 +3 +1: 2 mitoses/ 10 HPF, visual area diameter 0.57 mm). Glandular
+tissue, outside the tumour, showing lesions of the type mastopathia fibrosa et cystica, hyperplasia ductalis
+simplex (ADH), adenosis sclerosans.
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodis (No II/XXII).
+Infiltratio capsulae lymphonodi et telae perinodalis.
+Emboliae carcinomatosae vasorum.
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae dextrae. Invasive ductal carcinoma of the left breast
+Metastases carcinomatosae in lymphonodis axillae (No II/XXII). Cancer metastases in axillary lymph nodes
+(No II/XXII)
+Invasivo carcinomatosa vasorum. Vascular invasion
+(NHG2, pT1c, pN1a).
+Compliance validated by:
+Results of immunohistochemical examination:
+Estrogen receptors found in 10-75% of neoplastic cell nuclei.
+Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO.
+Negative reaction in invasive carcinoma cells (Score = 1+)
+Compliance validated by:

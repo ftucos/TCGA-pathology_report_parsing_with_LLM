@@ -1,0 +1,136 @@
+TSS ID
+SPECIMENS:
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+B. RIGHT BREAST
+SPECIMEN(S):
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+B. RIGHT BREAST
+GROSS DESCRIPTION:
+A. SENTINEL LYMPH NODE #1 RIGHT AXILLA
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path Site. breast, upper onter quadrant C50.4
+CQCF Site: breast, Nos 050.9
+Received fresh labeled with the patient's name and designated "sentinel LN #1 right axilla" is a 2.2 x 1.5
+x 0.6 cm lymph node. Touch preps are prepared. Lymph node and fibroadipose tissue are entirely
+submitted.
+A1: one lymph node
+A2: fibroadipose tissue with additional possible lymph nodes
+B. RIGHT BREAST
+Received fresh labeled with the patient's name and "right breast" is an oriented (stitch in axillary tail),
+1544g, 35.5 x 26 x 6.2 cm mastectomy with 24 x 14 cm skin ellipse and 1.1 cm everted nipple. Ink code:
+anterior superior-blue, anterior inferior-orange, posterior-black. The specimen is serially sectioned into
+16 slices from medial to lateral with nipple in slice 5 revealing a 4 x 2.2 x 0.7 cm tan, firm, spiculated
+mass, in the upper outer quadrant, slices 6-8, 4.4 cm from the deep margin. The axillary tail is sectioned
+to reveal multiple pink-tan lymph nodes. Tissue is procured. Representatively submitted:
+B1-B2: slice 5, nipple
+B3: slice 7, mass
+B4: slice 7, mass (adjacent tissue to section in B3)
+B5: slice 8, mass with skin
+B6: slice 7, deep margin overlying mass
+B7: slice 8, anterior inferior margin adjacent to mass
+B8: slice 9, upper outer quadrant with deep margin
+B9: slice 9, lower outer quadrant
+B10: slice 4, upper inner quadrant
+B11: slice 5, central
+B12: slice 2, lower inner quadrant
+B13: one lymph node, bisected
+B14: one lymph node
+B15: six possible lymph nodes
+B16: four possible lymph nodes
+B17: four possible lymph nodes
+B18: one lymph node, bisected
+B19: four possible lymph nodes
+DIAGNOSIS:
+A. SENTINEL LYMPH NODE, RIGHT AXILLA, BIOPSY:
+- TWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).
+B. BREAST, RIGHT, MASTECTOMY:
+- INVASIVE DUCTAL CARCINOMA, NOTTINGHAM GRADE 1.
+- 2 CM IN SIZE.
+- MARGINS, FREE OF CARCINOMA.
+- DUCTAL CARCINOMA IN SITU (DCIS), CRIBRIFORM TYPE,
+NUCLEAR GRADE 1, WITH MICROCALCIFICATIONS.
+- NIPPLE, NO TUMOR SEEN.
+- NINE LYMPH NODES, NEGATIVE FOR CARCINOMA (0/9).
+SYNOPTIC REPORT - BREAST
+2/8/11 hr
+UUID:ACE20EC5-2822-4F50-949E-E194C59F0FCD
+TCGA-E2-A1IU-01A-PR
+Redacted
+Specimen Type:
+Needle Localization:
+Laterality:
+Mastectomy
+No
+Right
+Present
+Invasive Tumor:
+Multifocality: No
+WHO CLASSIFICATION
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 2cm
+Tumor Site: Upper outer quadrant
+Margins: Negative
+Tubular Score:
+Nuclear Grade:
+2
+2
+1
+Mitotic Score:
+Modified Scarff Bloom Richardson Grade:
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identified
+Lobular neoplasia:
+None
+1
+Lymph nodes:
+Axillary dissection
+Lymph node status:
+Sentinel lymph node
+Negative 0/11
+Non-neoplastic areas: radial scars
+DCIS present
+Margins uninvolved by DCIS
+DCIS Quantity:
+DCIS Type: Cribriform
+DCIS Location:
+Nuclear grade:
+Necrosis: Absent
+Estimate 15%
+Associated with invasive tumor
+Intermediate
+Location of CA++:
+DCIS
+Benign epithelium
+ER/PR/HER2 Results
+ER: Positive
+PR: Positive
+HER2: Negative by FISH
+Performed on Case:
+Pathological staging (pTN):
+pT 1c NO
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+CLINICAL HISTORY:
+mammogram 8/13-nodular parenchymal enhancement of right breast
+PRE-OPERATIVE DIAGNOSIS:
+Invasive ductal cancer right breast
+INTRA-OPERATIVE CONSULTATION DIAGNOSIS:
+TPA: Sentinel node #1, right axilla - Negative for carcinoma
+Gross Dictation:, M.D.,,
+Microscopic/Diagnostic Dictation: M.D....
+Final Review:, M.D., Pathologist
+Final Review:, M.D., Pathologist,
+Final:, M.D., Pathologist,
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Duai/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Previewed:
+Yes
+No
+DISQUALIF ED

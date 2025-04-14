@@ -1,0 +1,365 @@
+This report is for inquiry only. The authorized report is available in the Department of
+Pathology.
+Patient Information
+Patient Nar
+Account
+Number
+Result Information
+Result Date and
+Result Status
+Edited
+Entry Date
+Result Narrative
+SURGICAL PATHOLOGY REPORT
+Patient Name:
+Path No.:
+THD DOB/Gender:
+(Age:
+F Collected:
+Received:
+Soc. Sec. %:
+Physician(s):
+Female
+y.o.)
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Priman Ncted
+Case is (circle):
+Reviewer h
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+3/3/12
+3/2/12
+Med. Rec. #:
+Reported:
+ICD-0-3
+Client:
+Location:
+Hosp #:
+carcinoma, lobular, infiltrating
+Pre-Operative/Clinical History
+Right breast CA
+Specimen (s) Received
+A: RIGHT BREAST NIPPLE MARGIN (SUTURE
+=
+B: LEFT BREAST, SUTURE = AXILLARY TAIL
+852013
+Site: breast, Nos
+८50.9
+3-30-12 RO
+DUCTS ADJACENT TO NIPPLE)
+C: RIGHT BREAST, STITCH MARKS AXILLARY TAIL
+Gross Description
+Specimen A, received fresh for frozen section labeled right breast nipple margin,
+suture = duct adjacent to nipple, consists of a 2.0 x 1.3 x 0.3 cm portion of
+skin. The specimen is entirely submitted for frozen section in
+Specimen B, received in formalin labeled left breast, suture =
+axillary tail.
+Specimen type:
+Simple mastectomy without axillary tail or
+pectoralis muscle. The anterior aspect is inked yellow, the apparent nipple site
+is inked blue, the posterior/deep margin is inked black and the anterior lateral
+aspect is inked orange for orientation purposes.
+Specimen size/description:
+16.0 cm ML x 11.5 cm SI x 2.7 cm AP, 205 gm.
+Laterality:
+Left.
+Cut surfaces:
+The cut surfaces are comprised of approximately
+UUID:07833A91-F827-4708-AECC-728C708F8E2D
+TCGA-AC-A300-01A-PR
+Redacted
+85% of markedly dense fibrous tissue to 15% of adipose tissue that is
+predominantly at the periphery. A discrete lesion is not grossly identified.
+Detached within the container is a small unremarkable fibroadipose tissue
+fragment that is 4.0 x 2.5 x 0.6 cm.
+Nipple/areolar complex:
+Absent. The apparent nipple site is inked blue.
+Skin:
+Lymph node sampling:
+Absent.
+None identified.
+Representative sections as follows:
+Nipple site (blue), perpendicular section
+Upper outer quadrant (B3 questionable lymph node bisected, inked
+(Bl
+(B2), 3)
+yellow)
+(B4, 5)
+Upper inner quadrant
+(B6, 7)
+Lower outer quadrant
+Lower inner quadrant
+(B8, 9)
+(B10)
+Detached fibroadipose tissue fragment.
+Specimen C, received without fixative labeled right breast, stitch marks axillary
+tail.
+Specimen type:
+Simple mastectomy without axillary tail or
+pectoralis muscle. The anterior aspect is inked yellow, the posterior/deep margin
+is inked black and anterior lateral aspect adjacent to the suture is inked orange
+for orientation purposes.
+Specimen size/description:
+16.5 cm ML x 12.0 cm SI x 2.8 cm AP, 205 gm.
+Laterality:
+Tumor size:
+Right.
+Tumor site:
+apparent nipple site.
+Tumor description:
+1.7 x 1.5 x 1.3 cm.
+12 o' clock position approximately 4.0 cm from the
+Spiculated borders with a tan focally gritty
+rubbery cut surface surrounded by markedly dense fibrous tissue. There is a
+metallic clip centrally within the tumor.
+Deep margin (black):
+0.2 cm.
+Nipple/areolar complex:
+Absent. The apparent nipple site is inked blue.
+Skin:
+Absent.
+Lymph node sampling:
+Not identified.
+Other:
+The remaining cut surfaces are comprised of
+approximately 90% of dense fibrous tissue to 10% of adipose tissue predominantly
+focused at the periphery.
+Representative sections as follows:
+Apparent nipple site (blue), perpendicular section
+Deep margin (black) closest to tumor, perpendicular section
+Tumor
+(C1)
+(C2)
+(C3-6)
+(C7)
+Upper inner quadrant
+(C8)
+Upper outer quadrant
+.Ր.
+(C9)
+(C10)
+Lower inner quadrant
+Lower outer quadrant.
+Total fixation time in formalin: 30.0 hours.
+Intraoperative Consultation
+Specimen A, frozen section diagnosis of "no malignancy seen" is rendered by Dr.
+Microscopic Description
+Sections (AF1) demonstrate benign breast tissue including multiple large ducts.
+Neither atypical epithelial hyperplasia nor malignancy is seen.
+Sections (B1-B10) demonstrate breast parenchyma with benign fibrocystic disease,
+apocrine metaplasia and benign intraductal epithelial hyperplasia. There is a
+benign intramammary lymph node (B3). Neither atypical epithelial hyperplasia nor
+malignancy is seen.
+Sections (C1, C7, C10) demonstrate breast parenchyma with benign fibrocystic
+disease and benign intraductal epithelial hyperplasia.
+Sections (C2) of breast demonstrate invasive lobular carcinoma associated with
+lobular carcinoma in situ. The invasive tumor cells demonstrate negative membrane
+staining for E-cadherin immunostain. The invasive carcinoma to adjacent inked
+deep margin distance (C2) is 1.5 mm.
+Summary of Pathologic Findings
+Breast Carcinoma
+Specimen:
+Procedure:
+Total breast.
+Nipple-sparing total mastectomy.
+Lymph node sampling:
+None with current specimen. Previous right axillary
+sentinel lvmph node biopsies
+Specimen integrity:
+Specimen size:
+Single intact specimen.
+16.0 x 11.5 x 2.7 cm.
+Laterality:
+Right breast.
+Tumor site:
+12 o'clock position.
+Size of invasive component:
+1.7 x 1.5 x 1.3 cm.
+Tumor focality:
+Single focus of invasive carcinoma.
+Macroscopic and microscopic extent of tumor:
+Skin:
+Not present.
+Nipple:
+Not present.
+Skeletal muscle:
+Not present.
+Invasive lobular.
+Histologic type:
+Combined histologic grade:
+Printed by
+Page 3 of 6
+Tubule formation:
+Score 3.
+Nuclear pleomorphism:
+Score 2.
+Mitotic count:
+Score 1 (less than 1 mitoses per 10 hpf, hpf area 0.274 mm2).
+Total Nottingham score:
+Score 6 (grade II).
+Lymph-vascular invasion:
+Absent.
+Ductal carcinoma in situ:
+Absent.
+Extensive intraductal component (EIC):
+Not applicable.
+Extent:
+Not applicable.
+Lobular carcinoma in situ:
+Present.
+Deep margin:
+mm.
+Lymph nodes:
+Not involved. Invasive carcinoma to deep margin distance is 1.5
+No lymph nodes submitted with current specimen. The results of the
+previous right axillary sentinel
+lymph node biopsies
+are given below.
+Number of sentinel nodes examined:
+Total number of nodes examined:
+Number of nodes with macrometastasis:
+Number of nodes with micrometastasis:
+5
+5
+0
+01
+Number of nodes with isolated tumor cells:
+0 (
+•
+Size of largest metastatic deposit:
+Not applicable.
+Extracapsular extension:
+Not applicable.
+Method of evaluation of sentinel lymph nodes:
+Three 80 um interval H&E
+stained sections and two 80 um interval cytokeratin AE1/AE3 immunohistochemical
+stains on all sentinel lymph node blocks.
+TNM stage:
+PTIC PNO (sn) (i-) PMX.
+Ancillary studies (estrogen receptor, progesterone receptor, HER2/neu and
+Performed on this specimen, results pending.
+Ki-67):
+Microcalcification:
+Not identified.
+1
+Diagnosis
+SPECIMEN A, RIGHT BREAST, NIPPLE MARGIN, EXCISIONAL BIOPSY:
+BENIGN BREAST PARENCHYMA.
+NO ATYPICAL EPITHELIAL HYPERPLASIA OR MALIGNANCY SEEN.
+SPECIMEN B, LEFT BREAST, NIPPLE-SPARING TOTAL MASTECTOMY:
+Printed by
+4 of 6
+:
+BENIGN FIBROCYSTIC DISEASE.
+BENIGN INTRADUCTAL EPITHELIAL HYPERPLASIA.
+SPECIMEN C, RIGHT BREAST, NIPPLE-SPARING TOTAL MASTECTOMY:
+INVASIVE LOBUALR CARCINOMA, GRADE II.
+LOBULAR CARCINOMA IN SITU.
+INVASIVE LOBULAR CARCINOMA CLOSESLY APPROACHES DEEP MARGIN (SEE
+DESCRIPTION).
+BENIGN FIBROCYSTIC DISEASE.
+1
+M.D.
+***Electronically Reviewed and Signed Out By
+**
+.
+M.D. on
+Comment
+Positive and negative controls react satisfactorily.
+FDA required disclaimer: These tests were developed and their performance
+characteristics determined by
+They have not been cleared or
+approved by the U.S. Food and Drug Administration. The FDA has determined that
+such clearance or approval is not necessary. These tests are used for clinical
+purposes and should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Improvement Amendments of 1988 (CLIA)
+as qualified to perform high complexity clinical laboratory testing.
+College of American Pathologists (CAP) required information for
+predictive/prognostic markers: 1. Type of specimen fixation and detection
+system: Tissue is fixed in 10% formalin. Indirect biotin-free detection kit is
+used. 2. Clones used: ER (clone 6F11)
+a; PR (clone PGR 636)
+\; HER2 (clone 4B5,
+1; CD117 (polyclonal.
+approved); Ki-67 (clone K3,
+), MSH2
+BC-44,
+728), PMS2 (clone MRQ-28,
+:
+FDA
+p53 (clone D07,
+le clone G219-1129), MLH1 (•
+3. Criteria for positive results:
+MSH6 (clone
+clone G168-
+ER
+and PR: >1% of tumor cells with nuclear staining; HER2: >30% of cells show
+complete membrane staining; p53: >10% of tumor cells with nuclear staining;
+Proteins: complete absence of tumor nuclear staining.
+CPT Code(s)
+A:
+B:
+C:
+Procedures/Addenda
+BREAST PANEL ADDENDUM
+Addendum Diagnosis
+IMMUNOHISTOCHEMICAL ASSAY RESULTS
+Immunohistochemical assays are performed on paraffin embedded sections containing
+the invasive carcinoma and analyzed with
+analysis system. Results are as follows:
+ESTROGEN RECEPTOR:
+PROGESTERONE RECEPTOR:
+computer assisted image
+Positive, 3+ intensity, 99% of cells.
+Positive, 3+ intensity, 78% of cells.
+Printed by
+of 6
+HER-2 OVEREXPRESSION:
+Ki-67:
+Positive, 3+.
+Unfavorable (46%).
+Please see separate report for complete details of
+analysis.
+Ki-67 proliferation index is reported as percent positive with less than or equal
+to 20% representing favorable prognosis category and greater than 20%
+representing unfavorable prognosis category. Her2 positivity requires greater
+than 30% of tumor cells showing complete membrane staining; score of 2+ is
+indeterminate (weak positive) and will be confirmed by FISH. A score of 3+ is
+strong positive. Only the strong positive (3+) Her2 shows strong concordance
+with clinical trial results for Herceptin. Her2 scores of 0 and 1+ (faint
+incomplete staining) are considered negative. Criteria for ER/PR positive result:
+>18 of tumor cells with nuclear staining. Positive and negative controls react
+satisfactorily. Tissue is fixed in 10% formalin. Indirect biotin-free detection
+kit and high pH HIER are used. Antibody clones: Ki-67 (30-9,
+ER (clone
+SP1,
+), PR (clone 1E2,
+FDA approved).
+FDA required disclaimer: The immunohistochemical sṭain(s) is/are used for
+clinical purposes. The FDA has determined that such clearance or approval is not
+necessary. It should not be regarded as investigational or for research. This
+laboratory is regulated under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical testing.
+), Her2 (clone 4B5,
+'
+M.D.
+***Electronically Reviewed and Signed Out By
+Result History
+PATHOLOGY GENERAL ORDER (Orde
+מנ
+Order Providers
+Unknown, Provider
+Original Order
+Additional Information
+View Encounter
+Priority and Order Details
+Collection Information,
+M.D.on
+- Order Result History Report.
+Page 6 of 6

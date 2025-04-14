@@ -1,0 +1,52 @@
+UUID:B50AB6D5-3010-450E-9CCE-E9BFA0202736
+TCGA-E9-ASUP-01A-PR
+Redacted
+Gross Description: There is a quadrant of the breast with tumor up to 3.5 cm in size. In the fatty tissue
+there are lymph nodes without morphological features.
+Microscopic Description: Intraductal papillary adenocarcinoma with invasion, G-2. Examined lymph
+nodes demonstrated lipomatosis.
+Diagnosis Details: Tumor Features: Indeterminate, Tumor Extent: T2 tumor size more than 2cm not
+more than 5 cm, Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+Comments:
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Partial mastectomy
+ICD-0-3
+Adenocarcinoma, papillary infiltrating
+8503/3
+Site. ①Breast Nos
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 0x0 x 3.5 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating papillary adenocarcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+C50.9
+४० 2/19/13
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: Left
+Criteria
+Diagnosis Discrepancy
+0 2/17/13
+Pri.nary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+މ
+2/15/13

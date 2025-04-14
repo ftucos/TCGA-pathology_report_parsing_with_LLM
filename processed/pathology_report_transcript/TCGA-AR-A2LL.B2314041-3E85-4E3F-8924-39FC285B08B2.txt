@@ -1,0 +1,39 @@
+UUID:82314041-3E85-4E3F-8924-39FC285808B2
+TCGA-AR-A2LL-01A-PR
+Redacted
+Final Diagnosis
+Breast, left, simple mastectomy: Infiltrating pleomorphic lobular carcinoma with focal signet
+ring cell features, Nottingham grade II (of III) [tubules 3/3, nuclei 2/3, mitoses 1/3; Nottingham
+score 6/9], forming a mass (9.2 x 4.2 x 3.2 cm) located in the central region of the 
+breast with a
+separate nodule (0.8 x 0.7 x 0.6 cm) located adjacent to the main mass on the inferior aspect
+[AJCC pT3]. Lobular carcinoma in situ is present within and outside the invasive component
+(0.6 cm in greatest dimension). Angiolymphatic invasion is absent. The non-neoplastic breast
+parenchyma shows proliferative fibrocystic changes. Calcifications are present in benign ducts
+and acini. The tumor does not involve the nipple, skin, or underlying chest wall. All surgical
+resection margins, including the deep margin, are negative for tumor (minimum tumor free
+margin, 0.4 cm, deep margin).
+Sentinel lymph nodes; left axillary Nos. 1, 2, 3, and 4; sentinel biopsy: Multiple (4) left axillary
+sentinel lymph nodes without blue dye are negative for metastatic carcinoma [AJCC pN0 (i-)
+(sn)]. Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel
+lymph node tissue and confirms the H&E impression.
+Her-2/Neu has been ordered on paraffin-embedded tissue.
+ICD-0-3
+carcinoma, infiltrating (pleomorphic) lobular 8520/3
+Site: breast, Nos
+050.9
+tu 9/2/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notad,
+Case is (circle):
+Reviewer initials,
+QUALIFIE
+Yes
+No
+DISQUALIFIED,
+Date Reviewed: t
+8/18/11

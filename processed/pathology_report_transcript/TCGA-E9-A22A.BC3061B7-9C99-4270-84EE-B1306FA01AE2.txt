@@ -1,0 +1,45 @@
+ICD-0-3
+carcinoma, infiltrating duct, Nos 8500/3
+Sites brust, Nos
+050.9
+for 4/7/11
+Procurement Date
+Laterality: Right, lower outer quadrant
+Path Report:BREAST TISSUE CHECKLIST
+Specimen type: Radical mastectomy
+Specimen size: Not specified
+Tumor site: Breast
+Tumor size: 2.2 x 1.8 x 1.8 cm
+Grossly evident lesion: Yes
+Histologic type: Infiltrating ductal carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Not specified
+Lymph nodes: 0/2 positive for metastasis (Regional 0/2)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not specified
+Nottingham Histologic Score
+Tubule formation: Not specified
+Nuclear pleomorphism: Not specified
+Mitotic count (25x): Not specified
+Mitotic count (40x): Not specified
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+UUID:BC306187-9C99-4270-84EE-B1306FA01AE2
+TCGA-E9-A22A-01A-PR
+Criteria
+Redacted
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous frimary Noted
+Case is (circle)
+Reviewer Initi
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+top

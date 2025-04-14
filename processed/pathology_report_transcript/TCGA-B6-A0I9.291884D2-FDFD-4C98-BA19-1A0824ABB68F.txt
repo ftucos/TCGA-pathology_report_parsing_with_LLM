@@ -1,0 +1,51 @@
+Patient:
+1C3-003
+carcinoma, duct, infiltrating 8500/3
+Site Code: breast, Nos
+050.9
+AP Surgical Pathology: Final.
+Surg Path
+Acc#
+1/17/11
+CLINICAL HISTORY:
+Probable metastatic breast CA -
+year-old white female presenting
+with left femur fracture ? pathologic, has large 6 cm breast mass in left
+breast. ;
+GROSS EXAMINATION:
+A.
+The
+"Left breast biopsy", in formalin. An irregular fragment of yellow
+fibro-adipose tissue measuring 5 x 2.5 x 2 cm in approximate dimensions.
+specimen has previously been sectioned and a portion submitted for ER-PR
+evaluation. The margins of the specimen were not inked as the surgeon felt
+this was unnecessary. The specimen is sectioned and submitted in toto in
+Blocks Al 
+through A6.
+DIAGNOSIS:
+"LEFT BREAST BIOPSY":
+1. INTRADUCTAL CARCINOMA, SOLID AND COMEDO-TYPES, AND INFILTRATING DUCT
+CARCINOMA (5 CM IN GREATEST DIMENSION), NSABP HISTOLOGIC GRADE 2 OF 3,
+NUCLEAR GRADE MODERATELY DIFFERENTIATED.
+2. VASCULAR INVASION BY CARCINOMA IS IDENTIFIED.
+Verified by:
+(Electronic Signature)
+Date Signed:-
+esult fo
+Yes
+No
+UUID: 291884D2-FDFD-4C98-BA19-1A0824ABB68F
+TCGA-B6-A019-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIFAA Discrepancy
+Prior Malignancy Histo. y
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED ✓ DISQUALIFIED
+Date Reviewed:
+"kml"
+1 of 1

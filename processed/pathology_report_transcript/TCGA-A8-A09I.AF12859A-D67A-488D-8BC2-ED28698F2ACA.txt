@@ -1,0 +1,34 @@
+1
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Path
+Site: breast, LOQ
+050.5
+CQCF
+Site: breast, Nos C50.9
+1/25/11
+Diagnosis
+1. and 2. Poorly differentiated invasive ductal right breast carcinoma measuring up to 4.4 cm
+with a minimum dorsal margin of 2.9 cm in the ablated breast tissue. Circumscribed ductal
+carcinoma in situ (high-grade DCIS with comedo necrosis) in the tumor center, about 0.2 cm
+in diameter. Lipomatous atrophy of the remaining breast tissue. Regular nipple. Regular skin.
+Sixteen right axillary lymph nodes free of metastases (0/16).
+Tumor classification:
+M-8500/3, G 3, pT2, pN0 (0/16), pMX, stage II A.
+UUID:AF12859A-D67A-488D-8BC2-ED28698F2ACA
+TCGA-A8-A091-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (ci)
+Reviewer ial
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+tw
+سلام
+Redacted

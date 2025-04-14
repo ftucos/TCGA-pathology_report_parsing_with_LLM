@@ -1,0 +1,211 @@
+Clinical Diagnosis & History:
+IDC on core biopsy of left breast.
+Specimens Submitted:
+1: SP: Sentinel node #1 level 1 left axilla (fs)
+2: SP: Sentinel node #2 level 1 left axilla (fs)
+3: SP: Sentinel node #233 level 1 left axilla (Es)
+4: SP: Left breast mass
+5: SP: Superior margin left breast
+6: SP: Medial margin left breast
+7: SP: Inferior margin left breast
+8: SP: Lateral margin left breast
+9: SP: Deep margin left breast
+10: SP: Additional suspicious lymph node left axilla
+i
+UUID:D9432167-0F2E-4377-9DB4-EA4E59A6C9B9
+TCGA-A0-A1KT-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+SENTINEL LYMPH NODE #1, LEVEL I, LEFT AXILLA; EXCISION:
+ONE LYMPH NODE SHOWING MICROSCOPIC CLUSTER OF TUMOR CELLS
+(APPROXIMATELY 8 CELLS; < 0.2 MM) WITHIN CAPSULAR LYMPHATIC VESSEL.
+- THE TUMOR IS IDENTIFIED ON CYTOKERATIN STAINS AND CORRESPONDING DEEPER
+LEVEL H&E AND NEGATIVE CONTROL SLIDE.
+2)
+SENTINEL LYMPH NODE #2. LEVEL I, LEFT AXILLA; EXCISION:
+BENIGN LYMPH NODE (0/1).
+ADDITIONAL H&E-STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS (AEL:AE3) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+3
+SENTINEL LYMPH NODE #3. LEVEL I. LEFT AXILLA; EXCISION:
+- BENIGN LYMPH NODE (0/1).
+ADDITIONAL H&E-STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS (AE1:AE3) SHOW NO EVIDENCE OF METASTATIC TUMOR.
+4)
+BREAST, LEFT, MASS; EXCISION:
+INVASIVE DUCTAL CARCINOMA, POORLY DIFFERENTIATED, HISTOLOGIC GRADE
+III/III, NUCLEAR GRADE III/III, MEASURING 1.9 CM MICROSCOPICALLY.
+WITH INTERMEDIATE TO HIGH
+- FOCAL DUCTAL CARCINOMA IN SITU (DCIS), SOLID AND CRIBRIFORM TYPE
+NUCLEAR GRADE AND NECROSIS. THE DCIS CONSTITUTES < 25% OF THE TOTAL
+TUMOR MASS, AND IS PRESENT ADMIXED WITH AND ADJACENT TO THE INVASIVE
+ICD-0-3
+Carcinoma, infiltrating ductal, Nus
+Site: breast, Nos
+850013
+C50.9 Gu
+2/16/11
+** Continued on next page **
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted.
+Case is (circle)
+Reviewer Initials.
+Mi
+ALIFIED
+Date Reviewed: 2
+Yes
+No
+*
+DISQUALIFIED
+Page 3 of 6
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Gross Description:
+Special Stain
+RECUT
+Comment
+1.
+The specimen is received fresh for frozen section consultation, labeled,
+"Sentinel node #1, level 1, left axilla", and consists of one lymph node
+measuring 1.0 x 2.6 × 0.5 cm, which is bisected and entirely submitted.
+Summary of sections:
+FSC - frozen section control (one node)
+2. The specimen is received fresh for frozen section consultation, labeled,
+"Sentinel node #2, level 1, left axilla", and consists of one lymph node
+measuring 1.1x 0.4 x 0.3 Cm, which is entirely submitted.
+Summary of sections:
+FSC -- frozen section control (one node)
+3. The specimen is received fresh for frozen section consultation, labeled,
+"Sentinel node #3, level 1, left axilla", and consists of two possible
+lymph nodes measuring 0.3 × 0.3 × 0.2 cm in aggregate. Entirely submitted.
+Summary of sections:
+FSC -- frozen section control (two possible nodes)
+4).
+The specimen is received unoriented, labeled "Left breast mass и and
+consists of a piece of fibrofatty tissue measuring 6 x 3.8 x 2.5
+The
+specimen is entirely inked black. Serial sectioning reveals a 1.5 x 1 x 1
+cm tan-white firm mass with central hemorrhage. Sectioning through the
+remaining tissue reveals fatty breast parenchyma. The tumor is entirely
+submitted and the remaining tissue is representatively submitted.
+Summary of sections:
+NT tumor and closest tissue edge
+SS
+-
+serial sections of remaining tissue
+** Continued on next page **
+dimension. All identified lymph nodes are submitted.
+Summary of sections:
+BLN - bisected lymph nodes
+Summary of Sections:
+SP: Sentinel node #1 level 1 left axilla (fs)
+Part 1:
+Block
+1
+Sect. Site
+FSC
+PCB
+1
+Part 2: SP: Sentinel node #2 level 1 left axilla (fs)
+Block
+1
+Part 3:
+Block
+1
+Part 4:
+Block
+3
+4
+Part 5:
+Block
+Part 6:
+Block
+4
+Part 7:
+Block
+2
+Part 8:
+Block
+2
+Part 9:
+Block
+Sect. Site
+FSC
+PCs
+1
+SP: Sentinel node #3 level 1 left axilla (fs)
+Sect. Site
+FSC
+SP: Left breast mass
+Sect. Site
+mt
+S$
+PCs
+1
+PCs
+3
+SP: Superior margin left breast
+Sect. Site
+48
+PCS
+SP: Medial margin left breast
+Sect. Site
+55
+PCs
+SP: Inferior margin left breast
+Sect. Site
+$5
+PC
+2
+SP: Lateral margin left breast
+Sect. Site
+$3
+PCS
+2
+SP: Deep margin left breast
+Sect. Site
+PCS
+** Continued on next page **
+Page 5 of 6
+Specimens Submitted:
+1: LEFT BREAST (
+Test Performed:
+FISH for detection of gene amplification
+PROBE(S):
+LSI HER2 SO/ CEP 17 SG DNA probes
+DIAGNOSTIC INTERPRETATION:
+HER2/ CEP 17:
+1.4/ NOT AMPLIFIED
+Her-2/neu gene amplification is NOT detected.
+(cut off ratio:
+1.8
+> 2.2 HER2 gene amplified; < 1.8 HER2 gene not amplified;
+2.2 equivocal)
+LAB NOTES:
+Block #4 (MT3)
+Specimen fixative type: Formalin
+Adequate number of invasive tumor cells present:
+Number of invasive tumor cells counted: 20 + 20
+Yes
+Average number of HER2 probe signals per nucleus: 2.4
+Average number of CEP17 chromosome probe signals per nucleus: 1.7
+Average HER2/CEP 17 ratio: 1.4
+The PathVysion HER2 DNA probe kit (Vysis) is an FDA-approved method for
+assessment of HER2 gene amplification in breast cancer specimens. The HER2
+test results are reported in accordance with the ASCO/CAP guideline
+recommendations for HER2 testing in breast cancer (J Clin Oncol 2007; 25
+(1):118-145).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+Report Electronically Signou unt
+** Continued on next page **

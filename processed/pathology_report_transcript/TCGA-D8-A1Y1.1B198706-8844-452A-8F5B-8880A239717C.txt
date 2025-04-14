@@ -1,0 +1,64 @@
+Department of Cancer Pathology
+Date:
+copy No.
+Internal invoice No.
+Patient: XXX
+Examination: Histopathological examination (cito)
+Cost of diagnostic procedure
+PESEL: XXX
+Age:
+Examination No.:
+Material: Multiple organ resection - left breast and axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+ref. No.
+Material received on:
+Expected time of examination: 5 working days
+Clinical diagnosis:
+Gender: F
+ICD-0-3
+carcinoma infiltrating duct, was 8500/3
+Site: breast, NOS C50.9
+سلم
+nos
+4/12/11
+Examination performed on:
+Macroscopic description:
+Left breast, sized 22 x 18 x 9 cm, removed with axillary tissues sized 10 x 11 x 5 cm and with a skin flap of 23 x 19 cm. Nipple
+retracted, skin resembling orange peel.
+Tumour sized 6.0 x 6.0 x 3.5 found on the border of upper quadrants, located 3.0 cm from the upper boundary, 1.5 cm from the
+base and 0 cm from the skin.
+Lymph nodes 1.8 cm in length.
+Microscopic description:
+Carcinoma ductale invasivum - NHG3 (3 + 2 + 3 / 35 mitoses/10 HPF - visual area 0.55 mm).
+Mamilla sine laesionibus.
+Glandular tissue showing lesions of the type mastopathia fibrosa et cystica.
+AXILLARY LYMPH NODES:
+Metastases carcinomatosae in lymphonodo (No I/XXI).
+Infiltratio capsulae lymphonodi et telae perinodalis.
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+Metastases carcinomatosae in lymphonodo (No I/XXI) (NHG3, pT3, pNla). Cancer metastases in the lymph nodes (No I/XXI)
+UUID:18198706-8844-452A-8F5B-8888A239717C
+TCGA-D8-A1Y1-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Rated
+Case is (circle):
+Reviver Initi
+Yes
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+The 4/12/11
+e 2/2
+Results of immunohistochemical examination:
+Estrogen receptors found in 10-75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with Ventana's Pathway HER-2/neu (4B5) rabbit antibody. Negative reaction in invasive cancerous cells
+(Score=3+).
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!

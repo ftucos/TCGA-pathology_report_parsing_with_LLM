@@ -1,0 +1,207 @@
+Surgica
+Surg Path
+う
+Carcinoma, duct, infiltrating and lubular 85221
+Path: Situ Code: breast, upper onter quadrant C50..
+CQCF: breast, No's C50.4
+1/17/11
+UUID:889D6E80-A656-49FA-9DFA-1674E83877F6
+TCGA-B6-AØRP-01A-PR
+Redacted
+سلا
+CLINICAL HISTORY:
+Biopsy of right and left breast in
+limited dissection of nodes.
+_GROSS EXAMINATION:
+On the right side we only did a
+A. "Left breast and axilla", fresh. Received is a left modified radial
+mastectomy specimen consisting of skin, breast tissue and attached axillary
+tail. 
+The skin ellipse measures 21 x 10.5 cm. The nipple and areola are
+located centrally on this. The nipple is retracted. There is a partially
+healed 
+incision site running circumferentially around the lateral areola from
+approximately the 1:00 to the 4:00 position which measures 4 cm in length. No
+additional skin 
+lesions are noted. The underlying breast tissue measures 23 x
+13 x 7 cm
+. Margins are inked blue, and the specimen is serially sectioned.
+There is a large, grossly apparent tumor in the upper outer quadrant which is
+extremely firm, gray-tan, infiltrates into surrounding breast tissue, and
+measures 
+2.6 x 2.5 x 1.5 cm. This tumor grossly extends to within 1.3 cm of
+the deep surgical margin. This lesion will be designated as "lesion #1."
+Further sectioning demonstrates a healing biopsy site subjacent to the areola,
+located at the 
+junction between upper and lower outer quadrants. In this
+region, the biopsy cavity measures up to 2.3 × 0.3 × 0.2 cm. At the nipple,
+in the region of 
+retraction, there is firm, white tumor; there is also diffuse
+firmness 
+about the biopsy cavity suspicious for residual tumor in an area
+measuring 2.8 cm in greatest dimension. This measures 4.0 cm from the deep
+margin 
+of resection and is distinctly separate from the previously described
+lesion. The 
+second area of abnormality shall be designated as "lesion #2."
+Further sectioning in the left lower outer quadrant reveals a third nodule;
+this is firm
+, gray, infiltrates into surrounding fibrous parenchyma, and
+measures 
+1.0 cm in greatest dimension. It measures 3.5 cm from the deep
+surgical margin, and is distinctly separate from the other two nodules. This
+shall be 
+designated as "lesion #3."
+Sections through the remainder of the breast shows firm fibrous breast
+parenchyma but no additional discrete masses. Sections are submitted as
+follows:
+Al- nipple and areola and incision site with grossly apparent tumor (lesion
+#2).
+A2-A4- sections of biopsy site with surrounding induration (lesion #2).
+A5- tangential 
+sections of margin deep to lesion #2.
+A6-A8- sections through lesion #1 (closest approach of tumor to superior
+margin in 
+A8.).
+A9- tumor #1 approaching superior margin, and tangential sections of deep
+margin.
+A10- fibrous parenchyma between tumor number one and two, grossly free of
+tumor.
+All random sections, upper inner quadrant.
+A12- random sections, upper outer quadrant.
+A13-14 small tumor in lower outer quadrant (lesion #3).
+A15- additional sections, lower outer quadrant.
+A16- lower inner quadrant.
+The attached axillary tail measures 12 x 6 x 3 cm.
+Within this, multiple
+lymph nodes are identified; at least two nodes appear grossly involved with
+tumor.
+Criteria
+☐ Diagnosis Discrepancy
+☐ Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+✓ Prior Malignancy History
+1 Case is (circle):
+Reviewer Initials
+_ Dual/Synchronous Primary Noted
+QUALIFIED
+1 DISQUALIFIED
+Dite peviewed
+1 of 4
+A17- single 3 cm lymph node, grossly positive (a portion of this lymph node is
+submitted to Tissue Bank).
+A18- multiple lower level axillary lymph node candidates.
+A19- single lower level axillary lymph node, bisected.
+A20- single large mid axillary lymph node, bisected.
+A21- multiple mid axillary lymph nodes.
+A22- distal axillary lymph nodes.
+Note: A portion of tumor number one, skin, and grossly positive lymph node
+tissue have all been submitted to the Tissue Bank. Per the surgeon, ER/PR
+analyses have already been performed, and therefore no additional tissue is
+banked for receptor analysis.
+B. "Right breast and axillary contents", fresh. Received is a right mastectomy
+specimen with a 15 x 8.5 cm ellipse of tan skin. The nipple and areola are
+located relatively centrally and somewhat inferiorly; there is no nipple
+retraction. There is a healing peri-areolar incision site running from
+approximately the 10:00 to 1:00 position in the upper outer and portion of
+upper inner quadrant which measures 4.5 cm in length. There is an elevated
+brown skin nodule measuring 1.3 x 1.3 × 0.2 cm located at the lateral tip
+the skin ellipse, which is grossly consistent with a seborrheic keratosis.
+other skin lesions are identified.
+of
+No
+The underlying breast tissue measures 20 x 11 x 3 cm. Sectioning through the
+breast parenchyma after margins are inked reveals dense fibrous parenchyma. In
+the upper breast, at the junction of upper inner and upper outer quadrant,
+there is a healing biopsy cavity which measures 3.5 × 3 × 2 cm; this is
+surrounded by fat necrosis and firm tissue and has a hemorrhagic rim with no
+definite gross residual tumor. The biopsy changes extend to within 2.5 cm of
+the deep margin. No masses or other abnormalities are identified.
+Block Summary:
+B1- sections of seborrheic keratosis.
+B2- nipple and areola, and skin with healing biopsy scar.
+B3- B5- sections of wall of biopsy cavity.
+B6- margins to deep to biopsy site (tangential).
+B7- random sections, upper outer quadrant.
+B8- random sections, upper inner quadrant.
+B9- random sections, lower inner quadrant.
+B10-random sections, lower outer quadrant.
+There is no definite axillary tail attached to the specimen. There is a strip
+of fibrofatty tissue measuring 6 x 2 x 1 cm, in which no lymph nodes are
+grossly identified. Sections of fibrofatty axillary tissue are submitted in
+Blocks 
+B11 and B12.
+MICROSCOPIC EXAMINATION:
+Sectoions of lesion #1 of the left breast show infiltrating duct carcinoma.
+Tumor cells are arranged as tubules and in nests, and infiltrate into
+surrounding fibrous stroma and fat with accompanying desmoplastic response.
+There is 
+a moderate degree of nuclear pleomorphism. Focally, comedo and
+cribriform intraductal carcinoma is present in association with this mass
+(A7), although this intraductal component is minor.
+Sections of lesion #2 of the left breast show tumor which predominantly has
+the 
+appearance of infiltrating lobular carcinoma, with tumor infiltrating in
+linear 
+"indian file" rows. Nuclei are relatively small and bland. There is
+extensive 
+infiltration of areolar smooth muscle and fibrous parenchyma, as
+well as extensive perineural invasion. In several small foci, small tubles of
+neoplastic cells are present. There are several foci of associated
+intraductal carcinoma with cancerization of lobules/ lobular carcinoma in
+situ.
+Sections of lesion #3 of the left breast show a lesion with a papillary
+appearance; in most areas, this appears to be an intraductal process, although
+2 of 4
+in one area an associated component of invasive duct carcinoma is seen.
+Papillomas are present in adjacent breast tissue.
+DIAGNOSIS:
+A. "LEFT BREAST AND AXILLA":
+LEFT BREAST WITH THREE SEPARATE FOCI OF BREAST CARCINOMA.
+CARCINOMA NUMBER ONE (A1-A3):
+INFILTRATING DUCT CARCINOMA (UPPER OUTER
+QUADRANT), 2.6 X 2.5 X 1.5 CM, N.S.A.B.P. NUCLEAR GRADE MODERATELY
+DIFFERENTIATED, HISTOLOGIC GRADE 2/3.
+INTRADUCTAL CARCINOMA COMEDO AND CRIBRIFORM TYPES, COMPRISES LESS
+THAN 5% OF THE TUMOR.
+VASCULAR INVASION IS PRESENT.
+DEEP MARGIN FREE OF CARCINOMA.
+CARCINOMA NUMBER TWO (A6-8): TUBULOLOBUAR CARCINOMA WITH PREDOMINANTLY
+LOBULAR FEATURES (SUBAREOLAR REGION AT JUNCTION BETWEEN UPPER AND LOWER
+OUTER QUADRANTS), IN REGION OF HEALING BIOPSY SITE, 2.8 CM IN GREATEST
+DIMENSION.
+INTRADUCTAL CARCINOMA/ LOBULAR CARCINOMA IN
+SITU IS PRESENT, COMPRISING LESS THAN 1% OF THE TUMOR.
+TUMOR EXTENDS INTO THE LARGE DUCTS AND SOFT TISSUE OF THE NIPPLE.
+DEFINITIVE VASCULAR INVASION IS NOT PRESENT.
+DEEP MARGIN FREE OF CARCINOMA.
+CARCINOMA NUMBER THREE (A13-A14): INFILTRATING DUCT CARCINOMA ARISING
+IN A REGION OF PAPILLARY INTRADUCTAL CARCINOMA (LOWER OUTER QUADRANT),
+1.0 CM IN GREATEST DIMENSION, N.S.A.B.P. NUCLEAR GRADE MODERATELY
+DIFFERENTIATED, HISTOLOGIC GRADE 2/3.
+DEEP MARGIN FREE OF TUMOR.
+NO DEFINITE VASCULAR INVASION IDENTIFIED.
+REMAINDER OF BREAST WITH MULTIFOCAL INTRADUCTAL CARCINOMA (SOLID AND
+CRIBRIFORM TYPES) WITH CANCERIZATION OF LOBULES, LOBULAR CARCINOMA IN
+SITUE, FLORID EPITHELIAL HYPERPLASIA OF USUAL TYPE, INTRADUCTAL
+PAPILLOMA (A13), APOCRINE METAPLASIA, ADENOSIS, DUCT ECTASIA, AND
+MICROCYSTS.
+TWO OF FIFTEEN LEFT AXILLARY LYMPH NODES INVOLVED WITH METASTATIC
+CARCINOMA (2/15). (TUBULOLOBULAR PATTERN)
+SKIN WITH HEALING WOUND AND NO EVIDENCE OF MALIGNANCY.
+B. "RIGHT BREAST AND AXILLARY CONTENTS":
+BREAST WITH HEALING BIOPSY SITE WITH FAT NECROSIS, FOREIGN BODY REACTION,
+AND GRANULATION TISSUE.
+MULTIFOCAL INTRADUCTAL CARCINOMA, SOLID TYPE, WITH CANCERIZATION OF
+LOBULES, INCLUDING REGIONS AROUND BIOPSY CAVITY (B5) AND IN LOWER OUTER
+QUADRANT (B10).
+FOCAL INFILTRATING DUCT CARCINOMA (B2), N.S.A.B.P. NUCLEAR GRADE WELL
+DIFFERENTIATED, HISTOLOGIC GRADE 1/3.
+DEEP MARGIN FREE OF CARCINOMA.
+SKIN
+WITH HEALING WOUND, SEBORRHEIC KERATOSIS, EPIDERMAL INCLUSION CYST,
+AND NO EVIDENCE OF MALIGNANCY.
+REMAINDER OF BREAST WITH FLORID EPITHELIAL HYPERPLASIA OF USUAL TYPE,
+ADENOSIS, AND APOCRINE METAPLASIA.
+NO LYMPH NODES IDENTIFIED IN LIMITED AXILLARY DISSECTION.
+3 of 4

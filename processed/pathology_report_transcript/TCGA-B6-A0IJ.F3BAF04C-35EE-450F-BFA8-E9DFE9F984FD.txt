@@ -1,0 +1,75 @@
+Patient
+Surgical Pathology: Finals
+Surg Path
+ICD-0-3
+Carcinoma, ductul, Nus, infiltrating 8500/3
+Path: Site Code.
+breast upp
+outer quadrent c50.4
+'CQCF. breast NOS C50.9
+1/17/11
+ww
+CLINICAL HISTORY:
+Large carcinoma in right breast.
+GROSS EXAMINATION:
+A. "Right breast and axilla tissue", in formalin. Received is a 30 x 18 x 4 cm
+mastectomy specimen with a 14 x 7.5 x 1.0 cm attached axillary tail. There is
+a 21 x 15 cm skin ellipse. Sectioning the specimen reveals a 5 x 4.5 x 4 cm
+mass 
+in the mid upper outer quadrant consisting of firm, white, hemorrhagic
+tissue. The mass is 2 cm from the deep surgical margin and 1 cm from the skin
+ellipse. The remaining breast tissue appears unremarkable. The deep surgical
+margin is inked blue. The axillary tail was sectioned into the proximal,
+middle
+, and distal portion and lymph node candidates were identified.
+BLOCK SUMMARY:
+Al- section of nipple.
+A2- tumor in surgical margin.
+A3- tumor and skin margin.
+A4- tumor.
+A5- upper outer quadrant.
+A6- upper inner quadrant.
+A7- lower outer quadrant.
+A8- lower inner quadrant.
+A9- proximal region three lymph node candidates.
+A10- mid region two lymph node candidates.
+All mid region two lymph node candidates.
+A12- mid region two lymph node candidates.
+A13- distal region viable candidates.
+A14- distal region four lymph node candidates.
+A15- distal region four lymph node candidates.
+A16- distal region five lymph node candidates.
+A17- distal region one lymph node candidate.
+DIAGNOSIS:
+Dr.
+UUID:F3BAF04C-35EE-450F-BFA8-E9DFE9F984FD
+TCGA-B6-A0IJ-01A-PR
+Redacted
+A. "RIGHT BREAST AND AXILLA TISSUE",
+(MASTECTOMY, AXILLARY DISSECTION):
+INVASIVE DUCTAL CARCINOMA, NSABP HISTOLOGIC GRADE III, CYTOLOGIC GRADE III.
+TUMOR 
+MEASURES 5 CM IN ITS GREATEST DIMENSION.
+TUMOR EXTENDS TO WITHIN 2 CM OF THE DEEP SURGICAL MARGIN.
+27 LYMPH NODES, ALL NEGATIVE FOR MALIGNANCY.
+BENIGN PROLIFERATIVE CHANGES INCLUDE BLUNT DUCT ADENOSIS, INTRADUCTAL
+HYPERPLASIA, AND FIBROSIS.
+OPERATIVE MARGINS FREE OF MALIGNANCY IN SECTIONS OBTAINED.
+COMMENT: No identifiable intraductal carcinoma is seen.
+eBrowser Result for
+Verified by:
+Dat
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer In
+ALIFIED
+Yes
+No
+DISQUALIFIED
+Reviewed:
+1 of 1

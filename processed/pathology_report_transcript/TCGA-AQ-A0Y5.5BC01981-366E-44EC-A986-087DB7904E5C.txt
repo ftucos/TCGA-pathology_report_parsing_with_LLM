@@ -1,0 +1,188 @@
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site: breast, Nos
+Case Number:
+C50.9
+2/18/11
+Collection Date:
+Surgical Pathology Report
+Diagnosis:
+A: Sentinel lymph node #1, right axillary, excision
+- Positive for metastatic adenocarcinoma in one of four lymph nodes (1/4)
+- Size of metastasis: 0.6 cm
+- Extracapsular extension: Present, extensive
+- Intraoperative diagnosis confirmed
+B: Sentinel lymph node #2, right axillary, excision
+- Positive for metastatic adenocarcinoma in one lymph node (1/1) (metastatic focus present on
+frozen slide only)
+- Size of metastasis: 0.1 cm
+· Extracapsular extension: Not identified
+- Intraoperative diagnosis confirmed
+C: Non-sentinel lymph node, right axillary, excision
+- Positive for metastatic adenocarcinoma in one lymph node (1/1)
+- Size of metastasis: 0.6
+- Extracapsular extension: Present, extensive
+- Intraoperative diagnosis confirmed
+D: Sentinel lymph node #3, right axillary, excision
+- Positive for metastatic adenocarcinoma in one lymph node (1/1)
+- Size of metastasis: 0.2
+- Extracapsular extension: Not identified
+- Intraoperative diagnosis confirmed
+E: Breast, right, mastectomy
+Tumor type: Invasive ductal carcinoma
+Nottingham combined histologic grade: 3
+Tubule formation score: 3
+Nuclear pleomorphism score: 3
+UUID:5BC01981-366E-44EC-A986-087DB7904E5C
+TCGA-AQ-A0Y5-01A-PR
+Redacted
+Mitotic count score: 3
+Focality of tumor: Unifocal
+Tumor size (greatest dimension): 2.4 cm (gross measurement)
+Tumor location: Outer half (at interface between upper outer and lower outer quadrants)
+Lymphovascular invasion: Not identified
+Perineural invasion. Present
+Criteria
+Diagnosis Discrepancy
+DQ=ITN
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initi.!s
+QUALIFIED
+Date Revieveu:
+DISQUALIFIED
+f 110/01/10
+In Situ Component: Present, ductal carcinoma in situ
+In Situ Component type/Architecture pattern: Ductal carcinoma in situ, solid and comedo types
+In Situ Component nuclear grade: 2-3
+In Situ Component necrosis: Present
+In Situ Component extent/size: DCIS present admixed with invasive ductal carcinoma, comprising
+approximately 5% of the total tumor volume
+Extensive intraductal component: Absent
+Nipple/skin involvement: Not identified
+Margin status:
+Invasive component: Negative; closest posterior margin 0.4 cm; all other margins more than 1.5
+cm away
+In Situ component: Negative; more than 1.0 cm away from all margins
+Right axillary lymph nodes (none present in this specimen, but the total number includes
+specimens A-D and F):
+Total number with metastasis: 5
+Total number examined: 17 (5/17)
+Size of largest metastasis: 0.6 cm
+Extracapsular extension: Present, extensive
+Microcalcifications: Present, associated with invasive ductal carcinoma
+Other findings: Fibrocystic changes
+AJCC PATHOLOGIC TNM STAGE: pT2 pN2a
+Note: This pathologic stage assessment is based on information available at the time of this
+report, and is subject to change pending clinical review and additional information.
+F: Lymph nodes, right axillary, lymphadenectomy
+- Positive for metastatic adenocarcinoma in 1 of 10 lymph nodes (1/10)
+• Size of metastasis: 0.1 cm
+- Extracapsular extension: Not identified
+Comment:
+For the results of immunohistochemical stains for ER, PR and Her2/neu, please
+refer to the addendum report of the prior specimen
+Intraoperative Consult Diagnosis:
+Frozen section was requested
+FSA1/FSA2: Right axillary sentinel lymph node #1
+- Metastatic carcinoma in one lymph node (1/2); Dr agrees.
+FSB1: Right axillary sentinel lymph node #2
+- Metastatic carcinoma in one lymph node (1/1); Dr agrees.
+FSC1: Right axillary non-sentinel lymph node
+- Metastatic carcinoma in one lymph node (1/1)
+FSD1: Right axillary sentinel lymph node #3
+- At least micrometastatic carcinoma in one lymph node
+Frozen Section Pathologist:
+Clinical History:
+invasive ductal Ca, right breast, Grade 2.
+Gross Description:
+Received are six appropriately labeled containers.
+Container A: Received fresh for frozen section is a 3 × 3 × 2 cm aggregate of multiple tan lymph
+node candidates and adipose tissue. Two larger lymph nodes were isolated, sectioned and frozen
+as FSA1 and FSA2.
+Further examination of the adipose tissue finds four additional lymph node candidates from 5x5
+x 3 mm to 7 x 4 x 4 mm. All lymph node candidates are submitted as is in block A1. Fibrofatty
+tissue is retained in formalin.
+Container B: Received fresh for frozen section is a 1.5 x 1.0 x 0.5 cm fragment of yellow fibrofatty
+tissue within which one lymph node candidate was identified at the time of frozen section. The
+lymph node was serially sectioned and was frozen as FSB1. Fibrofatty tissue is retained in
+formalin.
+Container C: Received fresh for frozen section is a 1.0 x 0.5 x 0.5 cm fragment of pink/yellow
+fibrofatty lymphoid tissue. The fragment was frozen as FSC1, NTR.
+Container D: Received fresh for frozen section is a 1 x 1 x 0.5 cm fragment of yellow lobulated
+fibrofatty lymphoid tissue. The fragment was serially sectioned, was frozen as FSD1, NTR.
+Container E:
+Specimen fixation: formalin
+Time in fixative: approximately 8 hours, 45 mins
+Type of mastectomy: unspecified
+Size of specimen: 880 grams; 22 cm medial to lateral x 25.5 cm superior to inferior x 4 cm
+anterior to posterior
+Orientation of specimen: Per the specimen requisition, a short stitch indicates superior and a long
+stitch indicates lateral.
+At the time of Tissue Procurement triage, the specimen is inked as follows: anterior=blue,
+posterior=black, and lateral=yellow.
+Skin ellipse dimensions: 18.0 x 13.5 cm; The lightly pigmented skin ellipse is remarkable for some
+blue sentinel dye discoloration lateral and slightly inferior to the nipple.
+Nipple/areola: Nipple: 1.0 cm
+Areola: 2.7 cm
+The structures are unremarkable.
+Axillary tail: There is no well delineated axillary tail. The lateral most breast tissue is sectioned,
+however, no lymph node candidates are identified.
+Biopsy site: absent
+Residual tumor: present, A 2.4 x 2.0 x 1.9 cm firm white mass with a somewhat gritty cut surface
+and stellate borders is identified. This mass has no hemorrhagic areas or necrotic areas readily
+identified.
+Location of tumor: roughly located in the midline between the upper outer quadrant and the lower
+outer quadrant
+Distance of mass/biopsy site from surgical margin: The mass is focally 6 mm to the black inked
+posterior margin, 1.5 cm to the skin (anterior margin), 9 cm to the inferior margin, 11 cm to the
+superior margin, at least 4.5 cm to the lateral margin and distant (at least 14 cm) to the medial
+margin.
+Gross involvement of skin or fascia/muscle by tumor: absent
+Description of remainder of breast: The remainder of the mastectomy specimen consists of yellow
+lobulated fibroadipose tissue separated by thin fibrous septae. Much of the breast consists of
+dense white fibrous breast tissue. The breast tissue medial to the mass is intensely stained with a
+blue dye. There are some areas within this firm breast tissue which are firmer than others.
+Other remarkable features: On the superior edge of the tumor a small metal radiographic marker
+is identified.
+Tissue submitted for special investigations: Tumor and normal was taken by Tissue Procurement.
+Digital photograph taken: no
+Block Summary:
+(Inking: anterior=blue, posterior=black, lateral=yellow)
+E1 - nipple
+E2-mass and closest black inked deep margin, perpendicular sections
+E3 perpendicular sections to closest skin margin (no tumor represented)
+E4-E8 additional tumor (E7, E8 one slice, bisected)
+E9-E10 breast tissue immediately surrounding mass
+E11 inner upper quadrant
+-
+E12 inner lower quadrant
+E13 outer upper quadrant
+E14 outer lower quadrant
+-
+E15-E16 lateral breast tissue
+Container F is additionally labeled "right axillary contents." It holds a 12 x 9.5 x 3.0 cm aggregate
+of multiple fragments of yellow lobulated fibroadipose tissue which are palpated for lymph node
+candidates. Multiple lymph node candidates from 4 x 4 x 3 mm to 1.4 x 1.0 x 0.6 cm are
+identified.
+Block summary;
+F1 five lymph node candidates
+-
+F2 two lymph node candidates
+-
+F3 - one lymph node candidate, serially sectioned
+F4 - one lymph node candidate, sectioned
+F5 one lymph node candidate, sectioned
+F6-F7 one lymph node candidate, sectioned
+F8 - one lymph node candidate, sectioned
+F9-one lymph node candidate, sectioned
+Light Microscopy:
+Light microscopic examination is performed.
+Signature
+I have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).

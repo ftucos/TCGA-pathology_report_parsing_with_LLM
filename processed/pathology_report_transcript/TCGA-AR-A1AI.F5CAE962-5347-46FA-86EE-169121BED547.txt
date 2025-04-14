@@ -1,0 +1,31 @@
+ICD-0-3
+Carcinoma, medullary, Nos.
+851013
+Site Code: breast, upper outer quadrant C50.4
+Path
+CQCF Site: breast, Nos c50.9
+Final diagnosis
+Breast, left, simple mastectomy: Medullary carcinoma forming a 4.5 x 2.0 x 2.0 cm well
+circumscribed mass (AJCC p T2) in the upper outer quadrant associated with prior biopsy site.
+The surgical margins are widely negative. Seen with Dr.
+Lymph nodes, left axillary sentinel, excision: Multiple (5) left axillary sentinel lymph nodes are
+negative for tumor. Blue dye is not identified in any of the five left axillary sentinel lymph nodes.
+(AJCC pN0(i-)). Immunohistochemical cytokeratin stain was performed on the paraffin
+embedded sentinel lymph node tissue and confirms the H&E impression.
+12/21/10 lu
+UUID:F5CAE962-5347-46FA-86EE-169121BED547
+TCGA-AR-A1AI-01A-PR
+Redacted
+Yes
+No
+riteria
+iagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Noted
+ase is (circle):
+eviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed T

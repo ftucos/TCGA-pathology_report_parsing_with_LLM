@@ -1,0 +1,75 @@
+Internal invoice No.
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+Cost of diagnostic procedure
+page 1 / 2
+Examination No.:
+PESEL: XXX
+Patient: XXX
+Material:
+Total organ resection - left breast
+Unit in charge:
+Physician in charge:
+Material collected on: (
+Material received on: '
+Expected time of examination: up to 8 working days
+Age:
+Gender: F
+Clinical diagnosis: Bifocal cancer of the left breast. Simple mastectomy.
+Examination performed on:
+Results of immunohistochemical examination:
+Focus marked as R1:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+1C8-0-3
+Carcinoma, infiltrating duct, Nes 85001
+Site: breast, Nos
+050.9
+for 4/13/11
+HER2 protein stained using rabbit antibody Ventana PATHWAY HER-2/neu (4B5). Negative reaction in invasive cancerous cells
+(Score = 1+)
+Focus marked as R2:
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HER2 protein stained using rabbit antibody Ventana PATHWAY HER-2/neu (485). Negative reaction in invasive cancerous cells
+(Score = 1+)
+Compliance valid.
+Examination performed on:
+Macroscopic description:
+Carcinoma ductale bifocale - NHG2 (3+2+1:0 mitoses/ 10 HPF, visual area diameter: 0,55 mm).
+Carcinoma ductale in situ (DCIS) within the tumours (solid and cribrate type with high nuclear atypia, and point and comedo
+necrosis, 10% of the tumour areas).
+Invasio carcinomatosa vasorum.
+In situ lesion of the type cancerisatio lobulorum.
+Mamilla sine laesionibus.
+Glandular tissue showing parenchymal atrophy.
+UUID:845F8FCF-CF3C-4CEF-8673-A57DE626939C
+TCGA-D8-A1XU-01A-PR
+Redacted
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Frior Malignancy History
+Dual/Synchronous Punia Noted
+Case is (circle).
+Reviewer Initials
+QUALIFIED ✓ DISQUALIFIED
+Date Reviewed
+T 4/13/11
+Patient: XXX
+Examination: Histopathological examination
+page 2 / 2
+PESEL: XXX
+Gender: F
+Examination No.:
+Examination performed on:
+Histopathological diagnosis:
+Carcinoma ducale bifocale invasivum et in situ mammae sinistrae. Invasive bifocal ductal carcinoma and carcinoma in situ of the
+left breast (NHG2, pTlc, pNO (SN)). Invasio carcinomatosa vasorum. Vascular invasion.
+Compliance valida:
+CONTACT YOUR DOCTOR WITH THIS REPORT!

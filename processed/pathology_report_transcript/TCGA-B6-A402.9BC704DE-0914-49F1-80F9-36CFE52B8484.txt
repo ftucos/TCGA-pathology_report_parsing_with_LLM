@@ -1,0 +1,67 @@
+Patient:
+AP Surgical Pathology:
+Surg Path
+UUID:98C704DE-0914-49F1-80F9-36CFE5288484
+TCGA-B6-A402-01A-PR
+Redacted
+Iteria
+gnosis Discrepancy
+mary Tumor Site Discrepancy
+PAA Discrepancy
+or Malignancy History
+Jual/Synchronous Primary Noted
+Case is (circ
+Reviewer Intial
+QUALIFIED
+Date Reviewed:
+Page 1 of 2
+Yes
+No.
+DISQUALIFIED
+24/23/12
+CLINICAL HISTORY:
+Palpable 8:00 mass, rule out malignancy.
+If invasive carcinoma, please obtain
+ER, PR, EGFR, HER2/Neu by immunohistochemistry; for all 2+ IHC results please
+do FISH analysis.
+GROSS EXAMINATION:
+A. "USNCB right breast, three cores, 8:00 region", received in formalin is a
+2.1 x 0.2 x 0.1 cm aggregate of fibrofatty needle core tissue fragments are
+submitted entirely in a mesh bag in block A1.
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+DIAGNOSIS:
+A. "USNCB RIGHT BREAST, THREE CORES, 8:00 REGION"
+CORE BIOPSY):
+INVASIVE ADENOCARCINOMA OF THE BREAST.
+HISTOLOGIC TYPE: DUCTAL.
+ICD-0-3
+carcinoma, infiltrating ductal NOS
+Site: breast, Nos
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 3 OF 3.
+TUBULE FORMATION SCORE: 3.
+NUCLEAR PLEOMORPHISM SCORE: 3.
+MITOTIC RATE SCORE: 3.
+IN-SITU CARCINOMA: NOT IDENTIFIED.
+VASCULAR INVASION: ABSENT.
+CALCIFICATION: PRESENT.
+850013
+C50.9
+7-2-121320
+(ULTRASOUND GUIDED NEEDLE
+ESTROGEN/PROGESTERONE RECEPTOR, HER2/NEU, AND EGFR ANALYSIS: PENDING.
+PARAFFIN BLOCK NUMBER: A1.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen (s) and have rendered the above diagnosis (es).
+ADDENDUM 1:
+Electronically signed:
+for results of supplementary
+Please see
+tests.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis (es).
+Performed by:
+Attending MD:
+Ordering MD:
+Electronically signed:

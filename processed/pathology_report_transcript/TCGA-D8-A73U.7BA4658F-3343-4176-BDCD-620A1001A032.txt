@@ -1,0 +1,59 @@
+Patient: XXX
+UUID:7BA4658F-3343-4176-BDCD-620A1001A032
+TCGA-D8-A73U-01A-PR
+Redacted
+Age:
+Gender: F
+Unit in charge:
+Physician in charge:
+Clinical diagnosis (suspicion) Cancer of the left breast
+Date of admission:
+Site
+ICD .3
+Carcinoma, infiltrating lobular
+© Breast NOS.
+852013
+C50.9
+JW 10/15/13
+Examination performed on:
+Material:
+1) Material: Left breast. Method of collection: total organ resection
+Histopathological diagnosis:
+Invasive lobular carcinoma of the left breast (NHG2, pT2). (8520/3T-04030)*
+codes according to ICD-O-3 or SNOMED
+Macroscopic description:
+Left breast, sized 21.2 x 12.3 x 5.4 cm, removed without axillary tissues and with a skin flap of 18.2 x 8.3 cm. Weight:
+436g. Tumour sized 4x2,2x1,6cm found on the boundary of upper quadrants, placed 2.8 cm from the upper boundary,
+1.4cm from the base and 1.0cm from the skin.
+Microscopic description:
+Invasive ductal carcinoma (classical type) - NHG 2 (3+2+1: 0 mitoses/10 HPF - visual area: 0.55mm: 0.55mm). The
+nipple without pathological lesions. Glandular tissue showing parenchyma atrophy.
+Assistant:
+Results of intraoperative examination:
+Examination performed on:
+Pathologist:
+Edited by
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 75% of neoplastic cell
+nuclei. HER2 protein stained with
+HER-2/neu (4B5) Rabbit Monoclonal Antibody.
+Negative reaction in invasive cancerous cells ( Score = 1+)
+The expression of proliferating nuclear antigen Ki 67 in 15 % cellular nuclei.
+Pathologist:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+Assistant:
+Edited by
+w 8/1/13.
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Turnur Site Discrepancy
+HM Discrepancy
+Prior Malignancy his ory
+Dual/Synchronous Primary Noted
+Case i cirA
+Reviewer V
+QUALIFIED
+Date Reviewed:
+DISLIFIED
+8/1/13

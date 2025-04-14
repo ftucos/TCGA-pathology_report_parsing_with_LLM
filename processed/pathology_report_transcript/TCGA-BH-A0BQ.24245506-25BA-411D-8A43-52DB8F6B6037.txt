@@ -1,0 +1,97 @@
+FINAL DIAGNOSIS:
+PART 1: LYMPH NODE, RETROMAMMARY, EXCISION
+-
+NO EVIDENCE OF METASTATIC MAMMARY CARCINOMA IN ONE LYMPH NODE (0/1).
+PART 2: LEET BREAST, TOTAL MASTECTOMY -
+A. INVASIVE DUCTAL CARCINOMA.
+B. NOTTINGHAM GRADE II (TUBULE FORMATION 3, NUCLEAR PLEOMORPHISM 2, MITOTIC ACTIVITY 1;
+TOTAL SCORE 6/9).
+C. INVASIVE TUMOR MEASURES 1.5 CM IN MAXIMUM DIMENSION.
+D. DUCTAL CARCINOMA IN SITU (DCIS), NUCLEAR GRADE 3, SOLID PATTERN WITH MODERATE COMEDO
+NECROSIS; DCIS CONSTITUTES 30% OF THE TOTAL TUMOR MASS AND IS PRESENT ADMIXED AND AWAY
+FROM THE INVASIVE COMPONENT.
+E. NO LYMPHOVASCULAR SPACE INVASION IS IDENTIFIED.
+CASE SYNOPSIS:
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+LATERALITY:
+PROCEDURE:
+LOCATION:
+SIZE OF TUMOR:
+Left
+Segmental
+Not specified
+ICD-0-3
+carcinoma, infiltrating ductal, Nos 8500/3
+Sitas breast, Nos
+3/13/11 her
+050.9
+Maximum dimension invasive component: 1.5 cm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR TYPE (invasive component):
+NOTTINGHAM SCORE:
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+CALCIFICATION:
+TUMOR TYPE, IN SITU:
+No
+Ductal adenocarcinoma, NOS
+Nuclear grade: 2
+Tubule formation: 3
+Mitotic activity score: 1
+Total Nottingham score: 6
+Nottingham grade (1, 2, 3): 2
+No
+Not applicable
+Yes, malignant zones
+Solid
+DCIS admixed and outside of invasive carcinoma component
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+No
+Distance of invasive tumor to closest margin: 5 mm
+SURG MARGINS INVOLVED BY IN SITU COMPONENT:
+No
+Distance of in situ disease to closest margin: 5 mm
+LYMPH NODES POSITIVE:
+LYMPH NODES EXAMINED:
+0
+2
+METHOD(S) OF LYMPH NODE EXAMINATION:
+H/E stain
+No
+NON-NEOPLASTIC BREAST TISSUE: ADH, Other: biopsy site changes
+SENTINEL NODE METASTASIS:
+T STAGE, PATHOLOGIC:
+N STAGE, PATHOLOGIC:
+M STAGE, PATHOLOGIC:
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+Comment:
+pT1c
+pNO
+PMX
+positive
+positive
+2+
+Refer to prior left breast core biopsy specimen,
+documented 
+infiltrating duct carcinoma, nuclear grave 2.
+UUID:24245506-25BA-411D-8A43-52DB8F6B6037
+TCGA-BH-A0BQ-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Syr chronous Primary Nel
+Case is (circle):
+Raviewer Initials
+QUALIS / DISONALIFIED
+Date 
+Peviewed:
+for 3/13/11
+), which
+D

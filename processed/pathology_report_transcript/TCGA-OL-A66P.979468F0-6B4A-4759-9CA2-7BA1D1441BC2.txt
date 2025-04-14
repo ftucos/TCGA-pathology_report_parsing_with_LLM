@@ -1,0 +1,219 @@
+Sample
+UUID:979468F0-6B4A-4759-9CA2-7BA1D1441BC2
+TCGA-OL-A66P-01A-PR
+Redacted
+-
+-
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right axillary sentinel node #1, biopsy:
+ICD-0-3
+850013
+Carcinoma, infiltrating duct NOS
+Site ® Breast NOS C50.9
+One lymph node, negative for metastatic carcinoma (0/1). (H&E and
+cytokeratin AE1/AE3)
+B. Right axillary sentinel node #2, biopsy:
+One lymph node, negative for metastatic carcinoma (0/1). (H&E and
+cytokeratin
+AE1/AE3)
+C. Superior mastectomy flap, excision:
+Benign fibroadipose tissue with focal fat necrosis.
+D. Right breast, simple mastectomy:
+- Two foci of invasive ductal carcinoma, SBR Grade II, see breast
+pathologic parameter.
+- Ductal carcinoma in-situ, intermediate nuclear grade, solid and apocrine
+types.
+-
+- Microscopic focus of atypical ductal hyperplasia.
+- Previous biopsy sites identified.
+- Margins of excision are negative for invasive and in-situ carcinoma.
+- Intraductal papilloma (9 mm) with extensive hyalinization, see comment.
+- Hyalinized 6 mm nodule with osseous metaplasia.
+- Columnar cell change.
+- Fibroadenomatous changes.
+- Apocrine metaplasia.
+- Sclerosing adenosis.
+- Duct ectasia.
+E. Inferior flap, right breast excision:
+- Benign fibroadipose tissue with microscopic focus of breast parenchyma,
+distant from
+the new true margin.
+F. Medial flap, right breast excision:
+- Benign fibroadipose tissue.
+Breast Pathologic Parameters
+1a. Invasive carcinoma: (1 o'clock lesion)
+A. Gross measurement: 2.1 x 1.9 cm
+B. Composite histologic (modified SBR) grade: II
+- Architecture: 3
+N 5/16/13
+- Nuclear grade: 2
+- Mitotic rate: 1
+C. Associated intraductal carcinoma in situ (DCIS):
+- Within main mass (forming less than 5% of tumor volume)
+1b. Invasive carcinoma (12 o'clock lesion): 0.9 x 0.8 cm
+Composite histologic (modified SBR) grade II
+- Architecture: 3
+- Nuclear grade: 2
+- Mitotic rate: 1
+Associated intraductal carcinoma in situ (DCIS): None
+2. Intraductal carcinoma:
+A. Microscopic measurement: Admixed with 1 o'clock lesion
+B. Type: Solid, Apocrine
+C. Nuclear grade: Intermediate
+D. Associated features: None
+3. Excisional biopsy margins: Free of tumor
+- DCIS more than 10 mm from anterior-superior (closest) margin
+- Invasive carcinoma more than 5 mm from anterior-superior (closest) margin
+4. Blood vessel and lymphatic invasion: Suspicious
+5. Nipple: unremarkable
+6. Skin: uninvolved
+7. Skeletal muscle: absent
+8. Axillary lymph nodes: Negative (0/2)
+9. Special studies (ER, PR repeated on mastectomy):
+1 o'clock lesion
+- ER: No expression, 0% of invasive tumor nuclei
+- PR: No expression, 0% of invasive tumor nuclei
+- HER2 antigen (FISH) (biopsy
+1.14)
+Not amplified (ratio:
+: 35%
+- Ki-67 (Performed on previous biopsy
+Special studies (ER, PR repeated on mastectomy):
+12 o'clock lesion
+- ER: No expression, 0% of invasive tumor nuclei
+- PR: No expression, 0% of invasive tumor nuclei
+- HER2 antigen (FISH)(biopsy
+- Ki-67 (Performed on previous biopsy
+: Not amplified (ratio: 1.13)
+): 30%
+10. pTNM (AJCC, 7th edition, 2010): pT2(m), N0(sn), MX
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for breast of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Clinical History:
+The patient is a year-old female with multicentric right breast invasive
+ductal carcinoma undergoing simple mastectomy and sentinel node biopsies.
+mammogram showed a hypoechoic mass at 1:00 in the right breast, 4
+cm from the nipple, measuring 20 mm in maximum diameter. A smaller round
+hypoechoic mass measuring 8 mm in maximum diameter was additionally identified
+at 12:00 in the right breast, 4 cm from the nipple. Clips wereplaced in the
+central aspect of both lesions.
+Comment
+D. Immunohistochemical stains for cytokeratin 5/14 were performed on block D7
+and support intraductal hyperplasia, usual type. Immunohistochemical stains for
+p63 and mycin heavy chain were performed on D10 and support an intraductal
+papilloma. All immunohistochemical controls were appropriate.
+Specimens Received:
+A: Right axillary sentinal
+B: Right axillary sentinal
+node #1
+node #2
+C: Superior mastectomy flap
+D: Right breast
+E: Inferior flap right breast
+F: Medial flap right breast
+Gross Description:
+The specimens are received in six containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, 'right axillary sentinel
+node #1'. Received fresh for intraoperative consultation is a portion of rubbery
+yellow-tan tissue measuring 2.5 x 2.3 x 0.8 cm. The specimen is bisected and
+is 'no tumor'. The
+entirely frozen, and the frozen section diagnosis by Dr.
+frozen section remnants are entirely submitted in A1 FS and A2 FS.
+B. The second container is additionally identified as, 'right axillary sentinel
+node #2'. Received fresh for intraoperative consultation is a portion of
+yellow-tan and blue-tinged tissue measuring 1.5 x 1.0 x 0.8 cm. The specimen is
+bisected and entirely frozen, and the frozen section diagnosis by Dr.
+'no tumor'. The frozen section remnant is entirely submitted in B1 FS.
+is
+C. The third container is additionally identified as, 'superior mastectomy
+flap'. Received fresh and placed in formalin is a 26.5 gram, 10.3 x 4 x 0.9 cm
+portion of lobulated yellow fibroadipose tissue. There is a stitch on one aspect
+of the specimen designating the final anterior margin. The aspect of the
+specimen with the stitch is inked black. The specimen is serially sectioned to
+reveal grossly unremarkable lobulated yellow fibroadipose tissue. Representative
+sections are submitted in C1-C5.
+D. The fourth container is additionally identified as, 'right breast'.
+Received fresh and placed in formalin is a 593.6 g simple mastectomy specimen.
+The specimen is oriented with a double short suture designating the superior
+aspect and a double long suture designating the lateral aspect. The breast
+measures 24.5 cm from medial to lateral, 18 cm from superior to inferior, and
+3.5 cm from anterior to posterior. On the anterior surface is a 21.5 x 13.5 cm
+brown ellipse of skin with a 5.5 x 3.8 cm areola and a 1.2 x 1.1 x 0.5 cm raised
+nipple. The nipple-areolar complex reveals no evidence of ulceration or
+retraction.
+The specimen is inked as follows:
+anterior-superior - blue;
+anterior-inferior - green;
+posterior - black.
+The specimen is serially sectioned from medial to lateral into 20 slices (slice
+1 = medial, nipple in slice 10) to reveal a well-circumscribed lobulated tan
+mass measuring 2.1 x 1.9 x 1.5 cm in the superior aspect of slices 7 and 8. The
+mass is 1.3 cm from the posterior (black) margin, 1.3 cm from the anterior
+superior (blue) margin, and 0.9 cm from the anterior skin. In slice 8, 1.8 cm
+superior to the first mass, is a 0.9 x 0.8 x 0.8 cm rubbery mass that is located
+1 cm from the posterior (black) margin and 0.8 cm from the anterior superior
+(blue) margin. A clip is identified in slice 8 within the second mass. There are
+2 additional nodular areas in the breast. The first measures 0.9 x 0.8 x 0.7 cm
+and is located in the inferior aspect of slice 11, 1.6 cm from the posterior
+(black) margin. The second nodular area measures 0.5 x 0.4 x 0.4 cm and is found
+in the inferior aspect of slice 15, 1 cm from the posterior (black) margin. The
+remainder of the specimen consists of approximately 25% dense gray-white fibrous
+breast parenchyma and 75% lobulatedyellow adipose tissue. No additional masses
+or nodules are grossly identified.
+Block summary:
+D1: mass #1, slice 7
+D2: mass #1, slice 7, including deep margin
+D3: mass #1, slice 8, including closest to anterior superior margin
+D4: masses #1 and #2, slice 8
+D5-D6: mass #2, slice 8, including closest to anterior superior and deep margins
+(submitted in tandem)
+D7: medial to mass #1, slice 6
+D8: inferior to mass #1, slice 8
+D9: lateral to masses #1 and #2, slice 9
+D10: nodular area #1, slice 11
+D11: breast parenchyma between nodular areas #1 and #2, slice 13
+D12: nodular area #2, slice 15
+D13: lateral to nodular area #2, slice 16
+D14: upper-outer quadrant slice 14
+D15: lower-outer quadrant slice 14
+D16: upper-inner quadrant slice 4
+D17: lower-inner quadrant slice 5
+D18: nipple
+D19: skin, slice 8
+E. The fifth container is additionally identified as, 'inferior flap right
+breast stitch marks final anterior margin'. Received fresh and placed in
+formalin is a 6.5 g, 4.7 x 3.2 x 0.6 cm portion of lobulated yellow fibroadipose
+tissue. On one aspect of the specimen is a stitch designating the final anterior
+margin. The aspect of the specimen with the stitch is inked black. The specimen
+is serially sectioned to reveal grossly unremarkable lobulated yellow
+fibroadipose tissue. Representative sections are submitted in E1-E5.
+F. The sixth container is additionally identified as, 'medial flap right breast
+stitch marks final anterior margin'. Received fresh and placed in formalin is a
+3.5 g, 4.7 x 1.4 x 0.7 cm portion of lobulated yellow fibroadipose tissue. There
+is a stitch on one aspect of the specimen designating the final anterior margin.
+The aspect of the specimen with the stitch is inked black. The specimen is
+serially sectioned to reveal grossly unremarkable lobulated yellow fibroadipose
+tissue. The specimen is entirely submitted in F1-F4.
+Tissue fixed for at least 6 hours in 10% NBF and no more than 72 hours.
+MD, PhD
+Intraoperative Consult Diagnosis:
+A1 FS and A2 FS: 'no tumor', by Dr.
+B1 FS: 'no tumor', by Dr.
+Criteria
+4/12/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cycje).
+Reviewer tials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed.

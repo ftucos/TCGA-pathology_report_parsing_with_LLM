@@ -1,0 +1,31 @@
+:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+1/19/11 fur
+Path site: Breast, 40Q C50.4
+CQCF Site: Breast, Nos
+050.9
+ductal
+Diagnosis:
+2. Left excised breast material with a well differentiated invasive ductal breast carcinoma,
+max. 2.2 cm in size, without any visible invasion of the lymph vessels with a minimum
+margin of 3 mm at 6 o'clock. Surrounding lipomatous atrophic glandular tissue, no intraductal
+tumor component.
+Tumor classification:
+M-8500/3, G1, pT2, pL0, pSN0 (0/2), pMX, stage II A, RO.
+UUID:8612388B-3680-4BD8-986C-E7ABE9F92F91
+TCGA-A8-A0A9-01A-PR
+Criteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is circle):
+Reviewers
+QUALIFIED
+Date Reviewed:
+QISQUALIFIED
+Yes
+NOY
+Redacted

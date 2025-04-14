@@ -1,0 +1,186 @@
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Patient:
+Specimen #:
+FMP/SSN:
+DOB/Age/Sex:
+Location:
+(Age:
+) F Race: WHITE
+Taken:
+Received:
+Physician(s):
+Reported:
+SPECIMEN:
+**AMENDED**
+ICD-0-3
+Carcinoma, infiltrating ductal, NOS 85001:
+Site: breast, NOS
+A: WIDE LOCAL EXCISION RIGHT BREAST B: SENT LN #1
+C: SENT LN #232 D: SENT LN #1 (
+F: NONSENT LN #3
+=====
+FINAL DIAGNOSIS:
+E: SENT LN #32 (
+A. BREAST, RIGHT, WIDE LOCAL EXCISION:
+-
+050.9
+1/24/11
+=
+6),
+سا
+===
+INVASIVE DUCTAL CARCINOMA, MODERATELY DIFFERENTIATED
+(BLOOM
+-RICHARDSON: TUBULAR FORMATION-2, NUCLEI-2, MITOSES-2
+1.7 CM, NEGATIVE 
+FOR LYMPHVASCULAR INVASION, MARGINS NEGATIVE.
+FIBROCYSTIC 
+CHANGES TO INCLUDE CYSTS, FIBROSIS, APOCRINE METAPLASIA,
+AND DUCT ECTASIA.
+MULTIFOCAL FAT NECROSIS.
+ER/PR IMMUNOSTAINS ARE STRONGLY POSITIVE
+HER2-NEU OVEREXPRESSION BY FISH: NOT AMPLIFIED (1.2)
+B. LYMPH NODE, NON-SENTINAL #1, BIOPSY:
+TWO LYMPH NODES NEGATIVE FOR MALIGNANCY (0/2).
+C. LYMPH NODE, NON-SENTINAL #2, BIOPSY:
+TWO LYMPH NODES NEGATIVE FOR MALIGNANCY (0/2).
+D. LYMPH NODE, SENTINAL #1
+BIOPSY:
+NEGATIVE FOR MALIGNANCY BY IMMUNOHISTOCHEMICAL STAINS
+E. LYMPH NODE, SENTINAL #2
+BIOPSY:
+NEGATIVE FOR MALIGNANCY BY IMMUNOHISTOCHEMICAL STAINS
+F. LYMPH NODE, NON-SENTINAL #3,
+BIOPSY:
+BENIGN ADIPOSE TISSUE, NO LYMPHOID TISSUE PRESENT.
+PATHOLOGIC STAGING : Tlc NO MX
+COMMENT:
+CYTOKERATIN IS NEGATIVE IN SPECIMEN D AND E.
+UUID:45B4899C-80E6-4AF4-8692-F7EE19D0467A
+TCGA-A2-A04N-01A-PR
+Redacted
+Page 1
+Continued on Next Page
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+Patient:
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+FINAL DIAGNOSIS (continued) :
+** Report Electronically Signed Out
+**
+CLINICAL DIAGNOSIS AND HISTORY:
+Fine
+-year-old white female with 2.5 cm right outer mid breast tumor.
+needle aspiration positive for atypical cells consistent with carcinoma.
+FROZEN SECTION DIAGNOSIS:
+A: RIGHT BREAST
+-
+INFILTRATING DUCTAL CARCINOMA
+in person.
+Results relayed to Dr.
+GROSS DESCRIPTION:
+A. WIDE LOCAL EXCISION RIGHT BREAST received fresh and consists of a piece
+of fatty tissue measuring 9.0 
+x 8.0 x 3.0 cm.
+with 
+sutures by surgeon.
+The specimen is oriented
+Ink code: Red-medial lateral, blue=superior,
+green-inferior, yellow-anterior, black-posterior.
+firm, tan, well-circumscribed mass, 1.7 cm in greatest dimension in the
+Sectioning reveals a
+mid portion of the specimen; 
+the mass is located 0.8 cm from the deep
+margin. A frozen section 
+is prepared (block Al).
+well-
+circumscribed, tan nodule, 0.7 cm in diameter, located 0.5 cm
+There is a second
+superior anterior 
+to the main mass. Sections harvested for breast
+protocol include (1) 
+mass, OCT embedded (2) mass, flash frozen, and
+(3) grossly normal 
+breast from the medial end of the specimen, flash
+frozen (matching paraffin 
+sections=A1 and A2, respectively). Additional
+representative sections are 
+submitted in sequential order from lateral to
+medial in cassettes A3 through 
+A12. First mass in cassettes A1, A5, A6,
+A8, and the second mass in A7, A9
+, A10, and All. 12CF
+B. SENTINEL LYMPH NODE NUMBER ONE "NON-SENTINEL NODULE NUMBER ONE"
+received in formalin 
+and consists of two irregular fragments of tan soft
+tissue with attached yellow adipose 
+tissue measuring 2.0 and 1.7 cm in
+greatest dimension. The fragments 
+are bisected and submitted in their
+entirety in two cassettes
+, one node per cassette. 2C4
+C. SENTINEL LYMPH NODE NUMBER TWO "NON-SENTINEL NODE NUMBER TWO" received
+in formalin and consists 
+of two irregular fragments of yellow, lobular
+adipose tissue measuring 2.5 cm 
+in greatest dimension each.
+are bisected and 
+submitted in their entirety in two cassettes, one
+fragment per cassette. 2C4
+The fragments
+Page 2
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+GROSS DESCRIPTION (continued):
+D.
+SENTINEL LYMPH NODE NUMBER ONE
+received in formalin and consists
+of one ovoid fragment of tan, fibrous tissue with attached yellow adipose
+tissue measuring 2.5 cm in greatest 
+dimension.
+sectioned and 
+submitted in its entirety in two cassettes.
+E. SENTINEL LYMPH NODE NUMBER TWO
+The specimen is serially
+2C4
+received in formalin and consists
+of a fragment of tan soft tissue measuring 2.5 cm in greatest dimension.
+The specimen is trisected and submitted 
+in its entirety in two cassettes.
+2C3
+F. NON-SENTINEL LYMPH NODE NUMBER THREE received in formalin and consists
+of one ovoid fragment of tan soft 
+tissue with adherent yellow adipose
+tissue measuring 1.7 cm in greatest 
+dimension.
+and 
+submitted in its entirety in one cassette.
+The specimen is bisected
+1C2
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary ted
+Case is (circle):
+Reviewrr Initials
+Yes
+No
+☐ DISQUALIFIED
+Date Reviewe
+7
+Page 3
+FOR OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+End of Report

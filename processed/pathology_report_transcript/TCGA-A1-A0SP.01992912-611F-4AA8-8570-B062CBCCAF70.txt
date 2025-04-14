@@ -1,0 +1,248 @@
+Criceria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Puel/Synchronous Pripesty Noted
+Case is (circle):
+Reviewer initials
+ONALIFIED
+Date Reviewed.
+Yes
+No
+DISQUALIFIED
+bw 10/21/11/
+UUID:01992912-611F-4AA8-8570-8062CBCCAF70
+TCGA-
+A1-A0SP-01A-PR
+Redacted
+ICD-0-3
+carcinoma, infiltrating duct, NUS 8500/3
+Site: breast, NOS
+C50.9
+lu 10/21/11
+Final Pathologic Diagnosis:
+A. Left axilla sentinel lymph nodes, dissection: No tumor (0/3).
+B. Right medial breast, excision:
+1. No tumor.
+2. Usual ductal hyperplasia, sclerosing adenosis and calcifications.
+C. Right breast, partial mastectomy:
+1. Invasive ductal carcinoma, 2.2 cm, grade 3; see comment.
+2. Ductal carcinoma in situ, high nuclear grade with necrosis; see comment.
+Note: Breast Tumor Synoptic Comment
+Laterality: Right.
+- Invasive tumor type: Invasive ductal carcinoma.
+- Invasive tumor size: 2.2 cm.
+- Invasive tumor grade (modified Bloom-Richardson):
+Nuclear grade: 3 points.
+Mitotic count: 3 points.
+Tubule/papilla formation: 3 points.
+Total points and overall grade
+- Lymphatic-vascular invasion: None.
+- Skin/nipple: Not sampled.
+=
+- Margins for invasive tumor: Negative.
+-
+9 points = grade 3.
+Deep margin: Negative; (tumor is <0.1 cm away, on slide C7).
+· Medial margin: Negative; (tumor is at least 0.8 cm away).
+-
+-
+->
+· Lateral margin: Negative; (tumor is at least 2.4 cm away).
+"
+-
+· Anterior/superior margin: Negative; (tumor is 0.3 cm away, on slide C5).
+· Anterior/inferior margin: Negative; (tumor is 0.3 cm away, on slide C3).
+Ductal carcinoma in situ (DCIS): Comedo and solid.
+Ductal carcinoma in situ size: DCIS present admixed with invasive cancer.
+-
+Ductal carcinoma in situ nuclear grade: High grade.
+Page 1 of 5
+Surgical Pathology -
+-
+Necrosis in DCIS: Present.
+Working Draft
+-
+-
+· Microcalcifications: Present in DCIS and benign ducts.
+· Resection margins for ductal carcinoma in situ: Negative.
+"
+· Deep margin: Negative; (tumor is 1.5 cm away, on slide C7).
+- Medial margin: Negative.
+- Lateral margin: Negative.
+- Anterior/superior margin: Negative; (tumor is 0.6 cm away, on slide C7).
+· Anterior/inferior margin: Negative.
+Lymph node status: Negative.
+Number of positive lymph nodes: 0.
+- Total number sampled: 3.
+- AJCC/UICC stage: PT2NOMX.
+Select slides (C2, C3, C4) were also reviewed by Dr.
+who concurs with the diagnosis.
+Immunostains for ER/PR and Her2 neu will be performed the results reported in an addendum.
+All margins were oriented, Inked and examined microscopically.
+Intraoperative Consult Diagnosis
+FS1 (A) Right axilla, sentinel lymph node #1, biopsy: Three lymph nodes, no carcinoma. (Dr.
+FS2 (B) Right medial fibrosis, rule out carcinoma, biopsy: Fibrocystic change, calcification, no tumor.
+(Dr.
+Clinical History
+The patient is a
+year-old woman with a history of right breast adenocarcinoma diagnosed by fine
+needle aspiration. She now undergoes right breast partial mastectomy and right sentinel lymph node
+biopsy.
+Gross Description
+The specimen is received fresh in three parts, each labeled with the patient's name and unit number.
+Part A, additionally labeled
+," consists of a single soft irregular piece of red-yellow
+fibrofatty tissue measuring 3 x 2 x 0.5 cm (stitch marks highest count). One candidate lymph node is
+identified at the stitched area; this is inked blue. Additionally, two more lymph node candidates are
+identified. Three lymph node candidates are submitted for frozen section diagnosis 1, and
+subsequently submitted in cassette A1. The remaining fibrofatty tissue is submitted in cassette A2.
+Part B, additionally labeled "
+," consists of a single firm, unoriented, oval piece of
+yellow-pink fibrofatty tissue measuring 2.5 x 1.7 x 0.7 cm. One side of the specimen is inked blue
+and the opposite side is inked green. The specimen is bread-loafed, and two central representative
+sections are submitted for frozen section diagnosis 2, with the frozen section remnant submitted in
+cassette B1. The remaining tissue is submitted in cassettes B2-B3.
+Part C is additionally labeled
+-
+"1
+· SPECIMEN TYPE: Partial mastectomy.
+- SKIN ELLIPSE: Not present.
+- NIPPLE: Not present.
+-
+-
+-
+· ORIENTATION:
+-
+-
+· Long suture: Lateral.
+· Short suture: Superior.
+· INKING (for microscopic evaluation):
+- Black: Deep.
+- Green: Anterior inferior.
+· Blue: Anterior superior.
+SIZE OF SPECIMEN:
+Page 2 of 5
+Surgical Pathology -
+Working Draft
+- Medial-Lateral dimension: 4.3 cm.
+- Superior-Inferior dimension: 4 cm.
+Anterior-Posterior dimension: 1.8 cm.
+->
+- TOTAL NUMBER OF SLICES: Eight.
+-
+First slice (slice #1): Medial margin.
+Last slice (slice #8): Latera margin.
+GROSS PATHOLOGY: The specimen consists of a 22 gm partial mastectomy specimen. A tan-pink,
+irregular, firm mass is noted in the more superior aspect of the specimen, which measures 1.5 × 0.7 x
+0.7 cm. A portion is taken for tissue banking. The mass appears to be present in slices 3-6. The
+mass appears to come within <0.1 cm away from the deep and anterior-superior margins in slice 4.
+The mass comes within 0.2 cm away from the anterior- inferior margin in slice 3. No localization
+needle or specimen mammogram are included in the specimen. Representative sections are submitted
+as follows:
+Cassette C1:
+Cassette C2:
+Cassettes C3-C4:
+Cassettes C5-C6:
+Cassette C7:
+Cassette C8:
+Cassette C9:
+Cassette C10:
+Perpendicular representative sections of medial margin, slice 1.
+Middle slice 2.
+Closest approach to anterior inferior margin, entire slice 3.
+Closest approach to deep and anterior superior margins, entire slice 4.
+Superior slice 5.
+Middle slice 6.
+Inferior slice 8.
+Perpendicular sections of slice 8, lateral margin.
+Fee Codes:
+Pathology Resident
+Addenda
+Addendum.
+Date Ordered:
+Date Complete:
+Date Reported:
+/Patholoalst
+Signed:
+Status: Signed Out
+By:
+Addendum Comment
+An immunohistochemical test for estrogen and progesterone receptors was performed by manual
+morphometry on block C7.
+The test for estrogen receptors is negative. There is no nuclear staining in any of tumor cells.
+Internal positive control is present.
+The test for progesterone receptors is negative. There is no nuclear staining in any of tumor cells.
+Internal positive control is present.
+Result of HER2/neu test: This carcinoma is negative for HER2/neu oncoprotein over-expression.
+An immunohistochemical assay was performed by manual morphometry on block C7 using the CB11
+monoclonal antibody to HER2/neu oncoprotein. The staining intensity of this carcinoma was ✪ on a
+scale of 0-3.
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of
+HER2/neu oncoprotein.
+Those with a staining intensity score of 2 are considered Indeterminate. We and others have observed that many carcinomas wit
+Page 3 of 5
+1
+Surgical Pathology -
+Working Draft
+staining intensity scores of 2 do not show gene amplification. All carcinomas with staining Intensity scores of 2 are therefore
+submitted for FISH testing. The results 
+of the FISH test are Issued directly from the molecular cytogenetics laboratory.
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in
+this category show an excellent 
+correlation between the results of immunohistochemical and FISH testing, and almost always show
+gene amplification.
+The immunonemvidace stain(s) reported above were developed and their performance characteristics determined by the
+They have not been cleared or approved by the U. S. Food and Drug Administration.
+ine FDA has determined that such Clearance or approval is not necessary. These tests are used for clinical purposes. They should
+not 
+be 
+regarded as Investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement
+Amendments of 1988 ("CLIA") as qualified to perform high-complexity clinical testing.
+Other Specimens
+Specimen Class:
+athologist
+Electronically signed out on
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Right Breast, Fine Needle Aspiration
+Final Diagnosis
+Right Breast, Fine Needle Aspiration: Cyst contents; see comment.
+Specimen Class:
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: A: Right breast scar, B: Right breast, partial mastectomy w/o lymph nodes
+Final Diagnosis
+A. Skin, right breast, excision:
+1. Skin with scar and surgical site changes.
+2. No carcinoma.
+B. Right breast, partial mastectomy:
+1. Benign breast tissue.
+2. Surgical site changes.
+3. No carcinoma.
+Specimen Class:
+Status: Signed Out
+Accessioned:
+Signed Out:
+Specimen(s) Received: Right Breast, Fine Needle Aspiration
+Final Diagnosis
+Right Breast, Fine Needle Aspiration: Adenocarcinoma, see comment.
+Specimen Class:
+Status: Signed Out
+Accessioned
+Signed Out:
+Specimen(s) Received: Cervical/Endocervical, Thin Prep Imaged
+Page 4 of 5
+Final Diagnosis
+Surgical Pathology -
+Working Draft
+Cervical/Endocervical, Thin Prep Imaged
+NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY.
+SPECIMEN ADEQUACY:
+Satisfactory for evaluation.
+Transformation zone components are present.
+FND OF REPORT
+Page 5 of 5

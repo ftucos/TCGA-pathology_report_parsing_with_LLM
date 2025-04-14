@@ -1,0 +1,209 @@
+FOR OFFICIAL USE ONLY - PERSONAL DATA PRIVACY ACT OF 1974
+UUID:84CA9DDD-36CA-466E-A74C-C7FB03E7C9E4
+TCGA-A2-A04W-01A-PR
+Redacted
+LOGY REPORT
+Patient:
+Specimen #:
+FMP/SSN:
+DOB/Age/Sex:
+(Age:
+F
+Race: WHITE
+Taken:
+Location:
+Physician(s):
+Received:
+Reported:
+**AMENDED**
+ICD-0-3
+SPECIMEN:
+A: RIGHT BREAST AND AXILLARY CONTENTS
+B: 
+ADDITIONAL RIGHT BREAST TISSUE
+=============
+FINAL DIAGNOSIS:
+Carcinoma, apocrine, infiltrating 8401/3
+Site: breast, NOS C50.9
+1/24/11 fu
+A & B. BREAST, RIGHT, MODIFIED RADICAL MASTECTOMY WITH AXILLARY LYMPH
+NODES, EXCISION:
+TUMOR TYPE: APOCRINE CARCINOMA, INFILTRATING (A2, A3, A14,A15)
+(HISTIOCYTOID SUBTYPE) (SEE 
+COMMENT).
+NOTTINGHAM GRADE: MODERATELY DIFFERENTIATED (G2)
+NOTTINGHAM SCORE: 7/9
+(Tubules= 3, Nuclei= 3, Mitoses= 1; mitotic count 3 per 10 HPF at
+40x power)
+TUMOR SIZE (GREATEST DIMENSION): 4.5 CM (MEASURED GROSSLY; See
+comment).
+TUMOR NECROSIS: ABSENT IN INFILTRATING COMPONENT, PRESENT (COMEDO,
+IN-SITU TYPE) IN DCIS
+MICROCALCIFICATIONS: PRESENT IN STROMA
+VENOUS / LYMPHATIC INVASION: PRESENT (A10, A14)
+MARGINS: NEGATIVE
+-DISTANCE OF TUMOR FROM NEAREST MARGIN IS 1.1 CM, FROM DEEP MARGIN
+(A3).
+INTRADUCTAL COMPONENT: EXTENSIVE
+LYMPH NODES: ONE OF 18 POSITIVE FOR TUMOR BY IHC ONLY (SEE COMMENT).
+NIPPLE INVOLVEMENT: ABSENT
+SKIN INVOLVEMENT: ABSENT
+MULTICENTRICITY: ABSENT
+ESTROGEN RECEPTORS: NEGATIVE (PREVIOUSLY EVALUATED FROM
+PROGESTERONE RECEPTORS: NEGATIVE 
+(PREVIOUSLY EVALUATED FROM
+HER 2 NEU by IHC: POSITIVE (3+) (PREVIOUSLY EVALUATED FROM
+S05-12958)
+PATHOLOGIC STAGE: PT2 NO (i+) MX
+(AJCC Stage II)
+ADDITIONAL PATHOLOGIC CHANGES: CYSTIC CHANGE, SCLEROSING ADENOSIS,
+FIBROADENOMATOID CHANGE, APOCRINE METAPLASIA
+COMMENT:
+COMMENT #2 (
+Page 1
+Continued on Next Page
+FOR OFFICIAL USE ONLY -
+PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+Patient:
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+FINAL DIAGNOSIS (continued) :
+This case is amended to change the lymph node assessment to the above from
+a prior assessment of
+"LYMPH NODES: 18 NEGATIVE FOR TUMOR.", and to change the stage to
+T2 
+NO (i+) from T2 NO. Dr
+lymph nodes 
+on this patient to collaborate with the PET findings of a
+requested 
+additional evaluation 
+of the
+positive node, so the nodes in A10, A11, A12, A19 
+and A20 were evaluated
+with keratin. In 
+A10, the node originally showing 
+pericapsular lymphatic
+involvement, the 
+keratin shows individual cells and 
+one subcapsular
+cluster of tumor cells 
+less than 0.2 mm in diameter
+.
+Dr
+was informed of this change in report today by email.
+ORIGINAL COMMENT:
+The tumor was too large for microscopic measurement,
+measurement is not possible. 
+Some of the DCIS component may have been
+so exact
+included in the gross measurement, but the bulk of 
+tumor is infiltrative
+and represents 
+at least a T2 lesion.
+Slide A10 contains a lymph node with lymphvascular space invasion just
+outside of the capsule. We are interpreting this 
+as a negative node.
+This report was 
+amended
+patient history 
+listing her age incorrected as
+due to a 
+typographical error in the
+pathologic stage was 
+changed from N1 to NO, another typographical error.
+years. Additionally, 
+the
+Report Electronically Signed Out
+**
+12
+CLINICAL DIAGNOSIS AND HISTORY:
+year old female with invasive ductal carcinoma of right breast and
+positive for axillary lymph nodes. Presents for 
+modified radical
+mastectomy
+.
+PRE-OPERATIVE DIAGNOSIS:
+Right breast cancer
+POST-OPERATIVE DIAGNOSIS:
+Right breast cancer
+GROSS DESCRIPTION:
+A. Received fresh consists of a 504 gram right mastectomy specimen single
+stitch medial and double stitch superior. Specimen 
+measures 24 cm superior
+to inferior, 21 cm medial 
+to lateral, and 3 cm anterior 
+to posterior. The
+ightly pigmented skin 
+ellipse measures 12 x 5 cm, 
+centrally located
+Page 2
+Continued on Next Page
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA - PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY
+-
+PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Patient:
+3
+GROSS DESCRIPTION (continued):
+Specimen #:
+everted nipple measuring 1.5 x 1.5 x 1.2 cm with no discharge. No scars
+identified. Superficial upper outer quadrant is inked blue and deep margin
+inked black. Specimen serially sectioned to reveal fairly well
+circumscribed pink firm mass measuring 4.5 x 2.5 x 2.0 cm. The mass shows
+focal hemorrhage and lies within a bed of dense, diffusely nodular,
+focally necrotic fibrous tissue. The mass is located 1 cm from deep margin
+and 0.5 cm from blue superficial margin. Remaining tissue shows scattered
+cysts measuring up to 0.4 cm. Multiple indurated foci are also seen
+within the upper inner quadrant and lower inner quadrant. A 0.7 cm lymph
+node is seen within the upper outer quadrant.
+A separately received portion of axillary tail measures 10 × 3 × 1.0 cm
+and oriented with stitch on high end. Five lymph nodes are identified
+measuring 0.7 to 1.0 cm. The specimen is submitted as follows:
+Al: skin
+A2:
+mass, central
+A3: margin
+A4: lateral mass
+A5: upper outer quadrant
+A6: lower outer quadrant
+A7: lower inner quadrant
+A8: upper inner quadrant
+A9: intramammary lymph node
+A10: two high axillary lymph nodes bisected
+All: two mid axillary lymph nodes bisected
+A12: one low axillary lymph node
+A13: nipple
+A14-A17: upper outer quadrant mass lateral to medial
+A18: high axillary lymph node
+A19: middle axillary lymph node
+A20: low axillary lymph node. 20CF
+B. Received in formalin labeled with patient's name
+designated "RIGHT BREAST TISSUE WITH AXILLARY CONTENTS" consists of a 1.0
+× 1.0 x 0.4 cm piece of red and yellow soft tissue. Specimen submitted
+entirely in one cassette.
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primery Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED:
+te Reviewed:
+w
+Page 3
+FOR OFFICIAL USE ONLY - PERSONAL DATA -
+PRIVACY ACT OF 1974
+End of Report

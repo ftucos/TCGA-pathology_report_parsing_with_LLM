@@ -1,0 +1,25 @@
+Diagnosis:
+ICD-0-3
+Carcinoma, NOS 8010/3
+Path
+Site: Breast, LOQ 050.5 1/19/11 for
+CQCF Site: Breast, NOS
+050.9
+Poorly differentiated invasive carcinoma (tumor diameter: 5.5 cm).
+Concluding tumor classification: NOS, G III, pT3N3aL0V0R0
+UUID:2728DB14-66D5-4E67-8986-63D93DBF509C
+TCGA-A8-A09G-01A-PR
+Redacted
+Criteria
+Diagnosi: Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy history
+Dual/Synchronous i'rimary Noted
+Case is (ircle):{
+Revieve Initals
+QUANFIED
+date reviewed:
+Yes
+No
+DISQUALIFIED

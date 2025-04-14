@@ -1,0 +1,149 @@
+Patient:
+Surgical Pathology
+Surg Path
+ICD-0-3
+Carcinoma, ductal, infiltrating 8500/3
+Path Site Code: breast, upper outer quadrent C50.4
+CQCF: breast Nos.
+050.9
+1/17/4
+UUID:4A86A028-C56D-455E-ASCD-47D8A3485734
+TCGA-B6-A0IM-01A-PR
+Redacted
+CLINICAL HISTORY:
+Not provided.
+GROSS EXAMINATION:
+A. "Right breast mass #1", received fresh labeled with the patient's name and
+record number 
+for frozen section is a 4 x 2.9 x 2.2 cm specimen with a 2 × 2 ×
+1.3 cm tumor. 
+The frozen section remnant is submitted in Al. A2-A4 represent
+full cross 
+sections of the tumor and adjacent tissue.
+B. "Right breast, long lateral short superior", received fresh is a right
+mastectomy specimen weighing 2040 grams. The skin ellipse measures 34.5 x
+17.5 cm, 
+has a 4 cm areola and a 0.9 cm nipple. A suture marks the lateral
+aspect 
+of the specimen. The breast measures 35 x 23 x 6 cm with an 8 x 6.5 x
+1 cm 
+axillary tail. In the upper outer quadrant is a recent sutured surgical
+incision 
+7 cm. The soft tissue margins are inked blue. Sectioning shows a
+recent 
+biopsy cavity approximately 5 cm in diameter deep to the suture. On
+the 
+medial aspect of this biopsy cavity, another tumor is identified. While
+contiguous with the cavity, the bulk of the tumor is more medial. This is felt
+to represent a single "dumbell" shaped tumor rather than two separate tumors.
+Maximal 
+dimensions of this tumor are 5 x 3.5 x 3 cm. This tumor is also
+located in the upper lateral quadrant and is 2 cm from the deep resection
+margin. Further firm tissue suspicious for tumor is identified in the lateral
+aspect of the biopsy cavity and measures 2 cm. Again this is 2 cm from the
+deep resection margin. Measuring from the medially located tumor to the
+lesion present at the lateral aspect of the biopsy cavity the maximum tumor
+diameter 
+is 7 cm. The axilla is sampled from medial to lateral.
+BLOCK SUMMARY:
+B1 lateral aspect of biopsy cavity.
+B2
+-
+B3&B4
+-
+medial aspect of the biopsy cavity.
+tumor in upper outer quadrant
+B5 tissue from lower lateral quadrant.
+tissue, upper inner quadrant.
+B6
+-
+B7 tissue, lower inner quadrant.
+B8&B9
+-
+nipple
+B10&Bll deep margin
+B12 - one lymph node, serially sectioned.
+B13 two lymph nodes, one inked red.
+B14
+-
+three node candidates.
+B15 one lymph node
+B16
+-
+highest node (near suture)
+Criteria
+Diagnosis D.screpancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchrohous Primary toted
+Case is (circle):
+Reviewer A
+Yes
+UALIFIED
+DISQUALIFIED
+w
+Ted: 11311
+INTRA OPERATIVE CONSULTATION:
+A. "Right breast mass (AF1)"
+infiltrating ductal carcinoma present.
+(Dr.
+**REVISED DIAGNOSIS**:
+This report is being revised to correct the specimen "B" site from "left" to
+"right" breast. 
+The remainder of the diagnosis is unchanged.
+A. "RIGHT BREAST MASS", (INCISIONAL BIOPSY):
+INFILTRATE DUCTAL CARCINOMA WITH PROMINENT CRIBRIFORM PATTERN.
+TUMOR SIZE; 2 CM.
+B. "RIGHT BREAST",
+(MASTECTOMY):
+sult for:
+1 of 2
+INFILTRATING CARCINOMA, PRESENT. HISTOLOGIC TYPE, DUCTAL WITH A PROMINENT
+CRIBRIFORM COMPONENT.
+N.S.A.B.P. HISTOLOGIC GRADE 1 OF 3.
+N.S.A.B.P. NUCLEAR GRADE 2 OF 3.
+GROSS TUMOR SIZE; 7 CM. SEE COMMENT.
+INVASION TUMOR SIZE, 7 CM.
+SEE COMMENT.
+LOCATION, UPPER OUTER QUADRANT.
+MULTIFOCAL TUMOR, NO.
+IN-SITU CARCINOMA, ABSENT.
+STATUS OF NON-NEOPLASTIC BREAST TISSUE; SCLEROSING ADENOSIS WITH
+MICROCALCIFICATIONS.
+LYMPHATIC/VASCULAR INVASION ABSENT.
+SURGICAL MARGIN STATUS, NEGATIVE.
+NIPPLE STATUS; PAGET'S DISEASE ABSENT.
+SKIN STATUS; FREE OF TUMOR.
+MUSCLE STATUS; NOT SAMPLED.
+LYMPH NODES STATUS; 9 LYMPH NODES, NO CARCINOMA IDENTIFIED (0/9).
+ESTROGEN/PROGESTERONE AND CELL CYCLE ANALYSIS PENDING, YES.
+METHODOLOGY, FRESH TISSUE.
+RESULTS WILL BE ISSUED IN AN ADDENDUM.
+COMMENT: The tumor size in the mastectomy specimen is 7 cm in greatest
+dimension and the size of the tumor in the incisional biopsy is 2 cm.
+overall 
+tumor size is mostly likely 9 cm in greatest dimension.
+The 
+results of this revision has been discussed with-
+The
+on
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis (es).
+ADDENDUM 1:
+Date
+Tissue was sent to the
+for assay of the estrogen
+and progesterone receptors. The estrogen receptor activity was judged to be
+positive 
+with an estimated FMOL value of 113. The progesterone receptor
+activity was judged 
+as borderline with an estimated FMOL of value of 14.
+Please refer 
+to
+for a complete report.
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) 
+and have rendered the above diagnosis (es).
+?
+2 of 2

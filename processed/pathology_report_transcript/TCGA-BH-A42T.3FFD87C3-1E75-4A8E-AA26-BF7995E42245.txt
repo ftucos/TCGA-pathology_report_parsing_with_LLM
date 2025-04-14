@@ -1,0 +1,164 @@
+FINAL DIAGNOSIS:
+PART 1: SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY -
+ISOLATED TUMOR CELLS IDENTIFIED IN ONE OF ONE LYMPH NODE (1/1) (See comment).
+PART 2: SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY-
+ONE BENIGN LYMPH NODE (0/1).
+PART 3: BREAST, LEFT, TOTAL MASTECTOMY (380.8 GRAMS) -
+A. INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, NOTTINGHAM GRADE II (TUBULE FORMATION 3,
+NUCLEAR PLEOMORPHISM 2, 
+MITOTIC ACTIVITY 2; TOTAL SCORE: 7/9).
+B. THE INVASIVE TUMOR MEASURES 2.8 CM IN GREATEST DIMENSION.
+C. LOBULAR CARCINOMA IN SITU (LCIS), CLASSICAL TYPE, IS ALSO IDENTIFIED IN THE UPPER OUTER
+QUADRANT, LOWER OUTER 
+QUADRANT, AND LOWER INNER QUADRANT, WITH PAGETOID EXTENSION
+INTO DUCTS.
+D. LYMPHOVASCULAR, SPACE INVASION IS IDENTIFIED.
+E. RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA; INVASIVE CARCINOMA IS 0.25 CM FROM THE
+NEAREST POSTERIOR 
+MARGIN.
+F. THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER QUADRANT.
+G. NIPPLE IS NEGATIVE FOR TUMOR.
+H. THE RETICULAR DERMIS OF THE SKIN IS INVOLVED BY INVASIVE CARCINOMA BY DIRECT EXTENSION.
+THE SKIN SHOWS A 
+CAPILLARY HEMANGIOMA.
+1.
+J.
+ATYPICAL LOBULAR HYPERPLASIA.
+K. CALCIFICATIONS ARE ASSOCIATED WITH BENIGN BREAST PARENCHYMA.
+L. THE NON-NEOPLASTIC BREAST SHOWS FIBROCYSTIC CHANG WITH APOCRINE METAPLASIA AND
+DUCTAL EPITHELIAL 
+HYPERPLASIA.
+M. PREVIOUS BIOPSY SITE CHANGES ARE IDENTIFIED.
+N. THE INVASIVE TUMOR CELLS ARE POSITIVE FOR ESTROGEN AND PROGESTERONE RECEPTORS AND
+EQUIVOCAL FOR HER-2, 
+AS PER PREVIOUS PATHOLOGY REPORT
+(see comment).
+COMMENT:
+Part 1: On the AE1/AE3 immunohistochemical stain, rare subcapsular positive cells are identified, which could not be
+identified on H&E stain. Less 
+than 10 scattered positive subcapsular cells are identified.
+Part 3: HER-2 studies will be repeated with an addendum to follow.
+Blocks 1FS1, 1FS2, 2F81, 2782;
+Antibody/Antigen
+AE1/AE3
+Result
+Negative.
+CASE SYNOPSIS:
+LATERALITY:
+PROCEDURE:
+SYNOPTIC-PRIMARY INVASIVE CARCINOMA OF BREAST
+Left
+Simple mastectomy
+LOCATION:
+Upper outer quadrant
+SIZE OF TUMOR:
+Maximum dimension invasive component: 28 mm
+MULTICENTRICITY/MULTIFOCALITY OF INVASIVE FOCI:
+TUMOR TYPE (Invasive component):
+HISTOLOGIC TYPE:
+NOTTINGHAM SCORE:
+No
+Infiltrating lobular carcinoma
+Classical
+Nuclear grade: 2
+Tubule formation: 3
+Mitotic activity score: 2
+Total Nottingham score: 7
+Nottingham grade (1, 2, 3): 2
+Yes
+ANGIOLYMPHATIC INVASION:
+DERMAL LYMPHATIC INVASION:
+No
+CALCIFICATION:
+Yes, benign zones
+TUMOR TYPE, IN SITU:
+LCIS
+ICD-0-3
+carcinoma, lobular,
+infiltrating, Nus
+852013
+Site: breast, Nos
+C50.9
+SURGICAL MARGINS INVOLVED BY INVASIVE COMPONENT:
+9/1112
+RD
+Distance of Invasive tumor to closest margin: 2.5 mm
+No
+"
+PAGET'S DISEASE OF NIPPLE:
+No
+LYMPH NODES POSITIVE:
+1
+LYMPH NODES EXAMINED:
+2
+NON-NEOPLASTIC BREAST TISSUE:
+METHOD(S) OF LYMPH NODE EXAMINATION:
+SKIN INVOLVED (ULCERATION):
+T STAGE, PATHOLOGIC:
+H/E stain, Keratin stain
+No
+ALH, FCD
+pT2
+IN STAGE MODIFIER:
+(sn)
+N STAGE, PATHOLOGIC:
+pNO(i+)
+M STAGE:
+Not applicable
+ESTROGEN RECEPTORS:
+PROGESTERONE RECEPTORS:
+HER2/NEU:
+HER2/NEU (FISH):
+UUID:3FFD87C3-1E75-4A8E-AA26-BF7995E42245
+TCGA-BH-A42T-01A-PR
+Redacted
+positive
+positive
+2+
+Equivocal
+riteria
+iagnosis Discrepancy
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Noted
+ase is (circle):
+eviewer Initials
+my
+QUALIFIES /
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+7/24/12
+8/2/12
+Addendum
+** BREAST TUMOR IMMUNOHISTOLOGY RESULTS**
+HER-2/NEU IMMUNOHISTOCHEMISTRY [NEGATIVE:0,1+; EQUIVOCAL: 2+; POSITIVE: 3+]
+HER-2/NEU
+RESULT
+Equivocal
+2+
+SCORE
+NOTE (for 2+ cases): HER2 FISH is being performed and the results will be subsequently reported in an addendum.
+SPECIAL PROCEDURES:
+FISH (PCL)
+Interpretation
+nuc ish(D17Z1x2-3, ERBB2x2-6)[40]
+Interphase FISH analysis is equivocal for HER-2/NEU gene amplification.
+RESULTS:
+Fluorescence in situ hybridization (FISH) analysis was performed on a formalin-fixed Block 3A (left breast total mastectomy) using
+the DNA probe 
+for the HER-2/NEU gene (
+An adequate number of invasive tumor cells were present and
+evaluated by two independent observers. The ratio of HER-2/NEU signals (ERBB2) to chromosome 17 centromere signals
+(D17Z1) was determined to be 1.93. A ratio of greater than 2.2 is considered to be amplified with ratios of 1.80 to 2.20 in the
+equivocal range; therefore, this specimen is equivocal for HER2/NEU gene amplification. The average number of
+HER-2/NEU signals per cell was 4.25. The average number of signals for the chromosome 17 centromere was 2.20. Concurrent
+positive and negative control specimens showed 
+the expected results.
+This FISH test is performed using a modification of the Vysis FDA approved PathVysion HER-2 DNA Probe Kit (1:2 LSI HER-2/neu
+/ CEP17 probe: T-denhyb-2 buffer). This FISH test was 
+developed and its performance determined by the
+accuracy and precision.
+Pursuant to the requirements of CLIA '88, this laboratory has established and verified the test's

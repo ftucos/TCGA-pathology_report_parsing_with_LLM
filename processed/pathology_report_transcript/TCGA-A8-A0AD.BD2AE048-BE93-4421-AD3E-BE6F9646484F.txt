@@ -1,0 +1,39 @@
+:
+ICD-0-3
+Carcinoma, infiltrating ductal and lobular 8522/3
+Puth
+Site: Breast, 400 050.4
+CQCF
+Site: Breast, Nos
+050.9
+1/19/11
+سد
+Diagnosis:
+5. Invasive breast carcinoma of mixed differentiation with partly ductal and partly lobular
+components (max. diameter 
+1.5 cm, malignancy grade II). No angioinvasion, no coarse
+calcification. Minimum 
+width of ventral safety margin 0.5 cm. Distant fibrolipomatous
+parenchyma of 
+the breast and adjacent skin spindle free of atypia.
+Tumor classification: pT1c (1.5 cm), pN0 sn (n=4), MX, R0; G2 (L0, V0).
+mixed. ducisé
+-
+Tobulus
+UUID: BD2AE048-BE93-4421-AD3E-BE6F9646484F
+TCGA-AB-A0AD-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case (circle):
+Review niti
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+m

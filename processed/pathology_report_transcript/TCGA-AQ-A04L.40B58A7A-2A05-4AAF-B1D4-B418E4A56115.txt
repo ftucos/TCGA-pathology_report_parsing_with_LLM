@@ -1,0 +1,296 @@
+ICS-0-3
+carcenons, infiltrating dusted, Nos
+салатты,
+Site: breast, Nos
+050.9
+850013
+f 2/18/11
+UUID:40B58A7A-2A05-4AAF-B1D4-8418E4A56115
+TCGA-AQ-A04L-01A-PR
+SURGICAL PATHOLOGY
+Tumor identifier
+Redacted
+Yes
+No
+Diagnosis:
+A: Breast, left, mastectomy
+-
+Non-proliferative fibrocystic change
+No atypia or malignancy identified.
+B: Sentinel lymph node #1, removal
+-
+Criteria
+Diagnosis Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+QUALIFIED
+DISQUALIFIED
+Date Reviewed:
+Case &ciri
+Reviewer.
+- One benign lymph node, negative for malignancy.
+C: Sentinel lymph node #2, removal
+One benign lymph node, negative for malignancy.
+D: Breast, right, mastectomy
+Invasive ductal carcinoma, Overall grade 3. The tumor
+size is 2.5 cm.
+No
+lymphovascular space
+invasion is identified. Surgical margins are free of
+invasive carcinoma.
+-
+Tumor estrogen receptor positive, progesterone receptor
+negative.
+- HER2/neu overexpressed (score=3+).
+- Ductal carcinoma in situ, comedo subtype, nuclear grade 3
+with
+necrosis,
+comprising approximately 5% of the tumor. The surgical
+margins are negative
+for
+DCIS.
+Comment:
+Additional levels of the sentinel nodes performed as per
+sentinel lymph
+node
+protocol are all negative for carcinoma.
+Clinical History:
+The patient is a
+-year-old female with right breast
+carcinoma and a left
+breast
+mass who undergoes bilateral mastectomy and sentinel node
+biopsy mapping.
+Gross Description:
+Received are four appropriately containers.
+Container A is additionally labeled "left breast, short
+superior, long
+lateral."
+Specimen fixation: received fresh and placed in formalin
+Type of mastectomy: simple mastectomy
+Size of specimen: 21.5 x 13.5 x 3.5 cm
+Orientation of specimen: a long suture marks the lateral
+aspect while a
+short
+suture marks the superior aspect;
+the superficial margin is marked with blue ink and the deep
+resection margin is marked
+with black ink
+Skin ellipse dimensions: 9.4 x 3.3 x 0.2 cm; no discrete
+lesions or
+abnormalities
+are noted grossly
+Nipple/areola: the slightly retracted nipple measures 1.5
+cm in diameter
+and is
+surrounded by a grossly
+unremarkable areola which measures 3.6 cm
+Axillary tail: not present
+Biopsy site: not identified
+Residual tumor: no tumor is identified grossly
+Location of tumor: not applicable
+Distance of mass/biopsy site from surgical margin: not
+applicable
+Gross involvement of skin of fascia/muscle by tumor: not
+applicable
+Description of remainder of breast: yellow/tan lobulated
+unremarkable
+adipose is
+admixed with focally dense and
+coalescening pale pink/white breast tissue
+without masses or nodules
+appreciated grossly
+Other remarkable features:
+none
+Tissue submitted for special investigations: none
+Al
+-
+A2-A4
+nipple and areola
+-
+representative sections of the lateral most adipose
+tissue or possible
+lymph
+node which are not identified
+grossly
+A5, A6
+A7, A8
+A9, A10
+-
+-
+A11, A12
+representative sections upper/inner quadrant
+representative sections of upper/outer quadrant
+representative sections of lower/outer quadrant
+representative sections of lower/inner quadrant
+is additionally labeled "sentinel lymph node
+-
+Container
+#1" and consists
+of an
+ovoid, pale gray/tan lymph node measuring 1.8 x 0.8 × 0.6
+cm. The lymph
+node is
+bisected and submitted in block Bl.
+Container C is additionally labeled "sentinel lymph node
+#32" and consists
+of an
+ovoid, gray/purple lymph node measuring 6 mm in greatest
+dimension. The lymph
+node
+is bisected and submitted entirely in block Cl.
+Container D is additionally labeled "right breast."
+Specimen fixation: received fresh and placed in formalin
+Type of mastectomy: simple
+Size of specimen: 20.5 x 15.5 x 4.0 cm
+Orientation of specimen: a long suture marks the lateral
+aspect while a
+short
+suture marks the superior aspect;
+the superficial aspect is marked with blue ink and the deep
+resection margin is marked
+with black ink
+Skin ellipse dimensions: 13.8 × 4.2 × 0.2 cm; scars and
+lesions are not
+identified
+grossly, however, the specimen
+at the skin has previously been dyed blue at the time of
+surgery
+Nipple/areola: the grossly unremarkable nipple measures 1.5
+cm in diameter
+and is
+surrounded by an unremarkable
+4.3 cm areola
+Axillary tail: not identified grossly
+Biopsy site: not identified
+Residual tumor: A 2.5 x 2.0 x 1.8 cm indurated, pale
+gray/white,
+previously dyed blue, well
+circumscribed ovoid mass is identified.
+Location of tumor: in the outer half of the specimen, at
+the junction of the
+upper
+and lower halves
+Distance of mass/biopsy site from surgical margin: the mass
+extends to within
+5 mm
+of the deep resection margin,
+is 7.5 cm from the inferior peripheral
+margin, and 8.0
+cm from the superior peripheral margin
+Gross involvement of skin of fascia/muscle by tumor: absent
+Description of remainder of breast: grossly unremarkable,
+yellow/tan
+lobulated
+adipose admixed with focally dense,
+pink/white breast tissue without additional masses
+or nodules identified
+grossly
+Other remarkable features: none
+Tissue submitted for special investigations: a 1.5 x 1.5 x
+0.8 cm fragment of
+tumor
+is submitted to Tissue
+Procurement
+D1 nipple and areola
+D2-D4
+-
+representative sections of the lateral most aspect
+of adipose
+tissue or
+possible lymph nodes which are
+not identified grossly
+D5, D6 - largest dimension of tumor, with closest deep
+resection margin
+D7 additional section of tumor
+D8-D11 representative sections of the four breast
+quadrants,
+upper/inner,
+lower/inner, lower/outer, upper/outer
+respectively
+(ec)
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+Specimen A: The left breast mastectomy specimen (specimen
+A) shows
+non-
+proliferative fibrocystic change. There is no evidence of
+atypia or
+malignancy.
+(Specimen D right breast)
+Presence/absence of invasive carcinoma: present
+Histologic tumor type/subtype: ductal
+Histologic grade:
+Overall grade
+3
+Architectural grade
+-
+3
+Nuclear grade
+Mitotic grade
+-
+3
+3
+Focality of tumor: unifocal
+Tumor size (greatest dimension): 2.5 cm
+Tumor necrosis: focal single cell necrosis is present but
+no geographic
+zones of
+necrosis are identified
+Invasion:
+Lymphatics
+Blood vessels
+-
+not identified
+-
+not identified
+-
+not identified
+-
+not identified
+not identified
+Perineural spaces
+Skin
+-
+Nipple (Paget's disease)
+Fascia/muscle
+Histologic assessment of surgical margins of invasive
+carcinoma:
+negative for
+tumor; tumor extends to within
+approximately 5 mm of the deep margin.
+Other remarkable histologic features: none
+Results of special investigations (Block #D6):
+ER (by immunohistochemistry): positive-(2+,60%)
+PR (by immunohistochemistry): negative
+C-erbB-2 (by immunohistochemistry: 3+ membranous staining
+Presence/absence of carcinoma in situ: present
+Type/subtype of carcinoma in situ: ductal, comedo subtype
+Focality of carcinoma in situ: multifocal
+If DCIS, nuclear grade/presence or absence of necrosis:
+nuclear grade 3
+with
+necrosis
+Relationship of carcinoma in situ to invasive tumor:
+associated with and
+adjacent
+to invasive carcinoma
+Relative amount of carcinoma in situ: 5%
+Presence/absence of extensive intraductal component (EIC):
+absent
+Histologic assessment of surgical margins of carcinoma in
+situ: negative for
+tumor
+Other significant findings: none
+Axillary lymph nodes: adipose tissue from the tail of the
+breast is
+submitted no
+axillary lymph nodes are identified
+Signature:
+I have personally conducted the evaluation of the above
+specimens and have
+rendered the above diagnosis(es).
+Electronically signed out by:
+MD Date:

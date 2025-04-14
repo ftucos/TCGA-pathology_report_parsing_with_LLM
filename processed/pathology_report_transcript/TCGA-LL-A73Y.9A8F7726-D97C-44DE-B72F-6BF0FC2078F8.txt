@@ -1,0 +1,184 @@
+RUN DATE:
+RUN TIME:
+RUN USER:
+PATIENT:
+REG DR:
+SER
+SPEC #:
+CLINICAL INFORMATION:
+Pre-Op Diagnosis:
+Remarks:
+UUID:9A8F7726-D97C-44DE-B72F-6BF0FC2078F8
+TCGA-LL-A73Y-01A-PR
+Redacted
+ACCT #:
+AGE/SX:
+LOC:
+ROOM:
+DOB:
+STATUS:
+BED:
+RECD:
+COLL:
+STATUS:
+TIME IN FORMALIN:
+COLD ISCHEMA TIME:
+Thrs.
+mins.
+Specimen(s): A. Right sentinel node
+PAGE 1
+B. Right breast for tissue banking
+MICROSCOPIC DIAGNOSIS
+A. ONE LYMPH NODE, LYMPHADENECTOMY :
+ICD-0.3
+Carcinoma, infiltrating 2013
+duct NOS
+Sibe & Breast NOS SP.9
+150.9
+MPH NODE RIGHT SENTINEL DE METADES STONED WITH ROUTINE AND PANKERATIN 4258/11/13
+IMMUNOCHEMICAL STAINS
+B. RIGHT BREAST. TOTAL MASTECTOMY:
+INFILTRATING DUCTAL CARCINOMA
+MODIFIED NOTTINGHAM HISTOLOGIC GRADE 3 OF 3: NUCLEAR SCORE 3 OF 3. TUBULAR
+FORMATION SCORE 3 OF 3. MITOTIC SCORE 2 OF 3 (5 MITOTIC FIGURES PER SQUARE
+MILLIMETER)
+NO DUCTAL CARCINOMA IN SITU IDENTIFIED
+INVASIVE TUMOR MEASURES 17 MM
+SURGICAL MARGINS FREE OF TUMOR WITH NEAREST MARGIN 7 MM FROM TUMOR, THE DEEP
+MARGIN
+SEE COMMENT FOR SYNOPTIC REPORT
+COMMENT(S)
+SURGICAL PATHOLOGY CANCER CASE SUMMARY
+PROCEDURE:
+LYMPH NODE SAMPLING:
+SPECIMEN LATERALITY:
+TUMOR SIZE:
+HISTOLOGIC GRADE (NOTTINGHAM
+HISTOLOGIC SCORE):
+TUMOR FOCALITY:
+DUCTAL CARCINOMA IN SITU:
+APPROVED BY COLLEGE OF AMERICAN PATHOLOGISTS
+Total mastectomy
+Sentinel lymph node(s)
+Right
+Greatest dimension of largest focus of invasion:
+17 mm
+Glandular/tubular differentiation:
+score 3
+score 3
+score 2
+Nuclear pleomorphism:
+Mitotic rate:
+Overall grade: grade 3
+Single focus of invasive carcinoma
+No DCIS is present
+** CONTINUED ON NEXT PAGE **
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+PATIENT:
+PAGE 2
+(Continued)
+COMMENT(S)
+MARGINS:
+LYMPH NODES:
+PATHOLOGIC STAGING:
+ANCILLARY STUDIES:
+(Continued)
+Invasive carcinoma:
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 7 mm, deep
+Number of sentinel lymph nodes examined: 1
+Number of lymph nodes with macrometastases:
+Number of lymph nodes with micrometastases:
+Primary tumor: pT1c
+Regional lymph nodes: pNO (i-)
+Distant metastases: Not applicable
+Estrogen receptor:
+Results: negative (<1% of tumor cells with
+nuclear positivity)
+Progesterone receptor:
+Results:
+negative (<1% of tumor cells with
+nuclear positivity)
+HER-2:
+Immunoperoxidase studies:
+Results: negative (score 0)
+0
+0
+GROSS DESCRIPTION:
+The specimen is received in two parts. Both parts are received labeled with the patient's
+name.
+A. Received in formalin, labeled with the patient's name and "right sentinel node" is a 3.5
+x 2.5 x 2.0 cm portion of yellow. lobulated adipose. The adipose is trimmed to have a
+flattened, 2.6 x 2.0 x 0.6 cm nodular, fatty lymph node. The node is sectioned
+perpendicular to the long axis to be entirely submitted per sentinel lymph node protocol
+cassettes A1-A3.
+B. Received fresh for tissue banking, labeled with the patient's name and "right breast" is
+a 962 gram. 23.0 x 20.0 x 4.5 cm fibrofatty breast consistent with simple mastectomy
+specimen. There is a suture designating the region of the axilla and an overlying 12.5 x
+4.5 cm black-brown skin ellipse. The skin ellipse has a central, 5.0 x 4.5 cm areola which
+extends to the skin margins and a central 1.3 cm erect nipple. The deep margin is
+predominantly smooth and intact with a focal, minor, inferior medial area of disruption.
+The deep margin will be inked blue and the breast is serially sectioned to have a diffusely
+fatty parenchyma. The upper inner quadrant has a 1.7 x 1.0 x 0.8 cm tumor mass. The mass
+is 2.5 cm from the superior peripheral margin. The
+is 17 cm from the inferior
+peripheral margin, is approximately 4 cm from the medial peripheral margin and at least
+16.5 cm from the lateral peripheral margin. The tumor comes to within 0.7 cm of the deep
+margin. The remainder of the breast has glistening, yellow adipose with diffuse. delicate
+and focal scant dense-white fibrous tissue. There is a central area of possible fibrocystic
+change. The white fibrous tissue makes up between 15 and 20% of the parenchyma and is more
+pronounced towards the medial aspect of the breast. No additional indurated lesions or
+tumor-like masses are identified. Representative sections are sampled as labeled:
+B1
+B2
+perpendicular section of nipple
+section of tumor adjacent to tumor collected for tissue banking
+** CONTINUED ON NEXT PAGE
+**
+Criteria
+Diagnosis Discrepancy
+w 8/1/13
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circ
+Reviewer in als
+QUALIFIED
+Date Reviewed:
+DISQUFIED
+1/1/13
+RUN DATE:
+RUN TIME:
+RUN USER:
+SPEC #:
+GROSS DESCRIPTION:
+(Continued)
+sections of tumor to deep margin
+B3-B5
+B6
+B7
+B8
+B9
+representative sections of upper outer quadrant
+representative sections of lower outer quadrant
+PAGE 3
+(Continued)
+representative sections of upper inner quadrant (quadrant near tumor)
+representative sections of lower inner quadrant sampled
+INTRAOPERATIVE CONSULTATION:
+B.
+IMMEDIATE GROSS EVALUATION RIGHT BREAST:
+INVASIVE CARCINOMA. PROCESSED FOR TUMOR BANKING
+SURGICAL MARGINS FREE OF TUMOR
+PHOTO DOCUMENTATION
+Image
+Image
+Signed
+(signature on file).
+** END OF REPORT **

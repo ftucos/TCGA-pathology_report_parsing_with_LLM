@@ -1,0 +1,130 @@
+ICD-0-3
+carcinoma, infiltrating duct, NUS 8500/3
+Site: breast, Nos
+050.9
+کسل
+5/24/11
+Criteria
+-
+5/24/11
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed
+Yes
+No
+DISQUALIFIED
+银
+DIAGNOSIS
+(A) SENTINEL LYMPH NODE #1, LEFT AXILLA, BIOPSY:
+One lymph node, free of tumor. (See Comment)
+(B) SENTINEL LYMPH NODE #2, LEFT AXILLA, BIOPSY:
+One lymph node, free of tumor. (See Comment)
+(C) LEFT BREAST, NEEDLE LOCALIZATION SEGMENTAL MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA OF BREAST, MODIFIED BLACK'S NUCLEAR GRADE 3 (POORLY
+DIFFERENTIATED).
+INVASIVE CARCINOMA MEASURES 1.2 CM IN GREATEST DIMENSION.
+Lymphatic/vascular invasion is not identified.
+INTRADUCTAL CARCINOMA (DCIS), MODIFIED BLACK'S NUCLEAR GRADE 3 (POORLY DIFFERENTIATED),
+COMPRISING SOLID TYPE, WITH NECROSIS, COMPRISING <5% OF THE TUMOR AREA.
+INVASIVE CARCINOMA EXTENDS TO WITHIN 5.0 MM OF THE NEAREST DEEP MARGIN.
+All margins are free of tumor.
+(D) LEFT BREAST, SECOND DEEP MARGIN, EXCISION:
+Skeletal muscle, no tumor present.
+(E) LEFT BREAST, SECOND MEDIAL MARGIN, EXCISION:
+No tumor present.
+(F) LEFT BREAST, SECOND SUPERIOR MARGIN, EXCISION:
+No tumor present.
+(G) LEFT BREAST, SECOND INFERIOR MARGIN:
+No tumor present.
+Entire report and diagnosis completed by v
+COMMENT
+UUID:8CF4E53E-924F-4DC6-8748-BC8A1F7D5662
+TCGA-GM-A2DL-
+01A-PR
+Redacted
+Immunohistochemical stains for cytokeratins have been requested on tissue sections from both sentinel lymph nodes. Those
+results will be reported as an addendum. Molecular pathologic assays have been requested on tissue sections from block C1 of
+the primary tumor. Those results will be reported as an addendum. The invasive carcinoma measures 1.2 cm in greatest
+microscopic diameter (slide C1) and focally invades pectoralis muscle, extending to within 5.0 mm of the deep margin (slide C2).
+GROSS DESCRIPTION
+(A) LEFT AXILLA, SENTINEL LYMPH NODE BIOPSY #1, IN VIVO 216, EX VIVO 4 - A 0.8 x 0.6 x 0.4 cm lymph node. The
+specimen is transected and two touch imprints were performed. The remnant of the tissue is submitted in toto in A.
+*TP/DX: NO CARCINOMA IDENTIFIED.
+(B) LEFT AXILLA SENTINEL BIOPSY #2, IN VIVO 416, EX VIVO 887 - A 2.0 x 1.0 x 0.6 cm lymph node with surrounding fat
+tissue. Specimen is bisected and two touch imprints are performed. A remnant of the lymph node is submitted in B1-B2.
+*TP/DX: NO CARCINOMA IDENTIFIED.
+(C) LEFT NEEDLE LOCALIZATION, SEGMENTAL MASTECTOMY - A segmental mastectomy specimen (7.0 x 7.0 x 4.0 cm)
+with a skin ellipse (2.8 x 1.2 cm). The specimen has two clips indicating anterior aspect and one clip indicating the middle aspect.
+The specimen is serially sectioned from medial to lateral. The cut surface shows an ill-defined, white-firm lesion measuring 0.8 x
+16 x 0.6 cm that is 0.7 cm from the deep margin. The remnant of the breast tissue is predominantly composed of fatty tissue.
+INK CODE: Green - inferior; blue - superior; black - deep; yellow - superficial; red - lateral; orange - medial.
+SECTION CODE: C1-C2, tumor in relation to the deep margin; C3, extra section from the tumor; C4-C5, random section
+from the breast including the skin.
+SECOND DEEP MARGIN, CLIP ON TRUE MARGIN - An oriented irregular fragment of skeletal muscle measuring 3.0 x 1.5x
+5 cm. The specimen is oriented as clip on true margin. The true margin is inked in black. The specimen is serially sectioned and
+entirely submitted in D1-D2.
+(E) SECOND MEDIAL MARGIN, CLIP ON TRUE MARGIN - An oriented irregular fragment of adipose tissue measuring 4.0 x 2.0
+x 0.8 cm. The specimen is oriented as clip on true margin. The true margin is inked in black. The specimen is serially sectioned
+and entirely submitted in E1-E4.
+(F) SECOND SUPERIOR MARGIN, CLIP ON TRUE MARGIN - An oriented irregular fragment of adipose tissue measuring 3.5 x
+2.0 x 0.8 cm. The specimen is oriented as clip on true margin. The true margin is inked in black. The specimen is serially
+sectioned and entirely submitted in F1-F3.
+(G) SECOND INFERIOR MARGIN - An oriented irregular fragment of adipose tissue measuring 3.5 x 2.5 x 0.6 cm. The specimen
+is oriented as clip on true margin. The true margin is inked in black. The specimen is serially sectioned and entirely submitted in
+G1-G3.
+CLINICAL HISTORY
+Left breast cancer.
+SNOMED CODES
+T-04050, M-85003, M-85002, T-C4714, M-00110
+"Some tests reported here may have been developed and performance characteristics determined by
+These tests have not been specifically cleared or approved by the U.S. Food and Drug Administration.
+Released by:
+ADDENDUM
+Addendum completed by
+Start of ADDENDUM
+COMMENT
+Immunohistochemical stains for cytokeratin were reviewed on tissue sections from both sentinel lymph nodes and were negative.
+Released by:
+ADDENDUM
+Addendum completed by '
+Start of ADDENDUM #2
+This report is issued to give immunohistochemistry results.
+Immunohistochemical staining is performed on a representative section of INVASIVE DUCTAL CARCINOMA, left breast, block
+C1.
+MARKER
+RESULTS
+% POSITIVE STAINING
+INTENSITY
+Estrogen Receptor
+Positive
+100 %
+N/A
+CC # 52
+Progesterone Receptor
+Positive
+90 %
+N/A
+c-erbB-2 (HER-2/neu)
+overexpression
+Negative
+0 %
+0
+Ki-67
+High (>35%)
+50 %
+N/A
+FOOTNOTE
+Estrogen receptor was assessed by immunohistochemistry using antibody 6F11 (
+Progesterone receptor was assessed by immunohistochemistry using antibody 1A6
+c-erbB-2 (HER-2/neu) was assessed by immunohistochemistry using antibody AB8
+Ki-67 was assessed by immunohistochemistry using antibody MIB1
+Released by:
+;
+i
+------END OF REPORT--

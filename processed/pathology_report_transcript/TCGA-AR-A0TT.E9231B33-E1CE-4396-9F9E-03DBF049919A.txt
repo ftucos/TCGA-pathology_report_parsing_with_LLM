@@ -1,0 +1,29 @@
+UUID:E9231B33-E1CE-4396-9F9E-03DBF049919A
+TCGA-AR-AØTT-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, infiltrating duct, NUS 8500/3
+Site: breast, NOS
+C50-9
+Breast, right, wide local excision: Infiltrating ductal carcinoma, Nottingham grade III (of III) [tubules
+3/3, nuclei 3/3, mitoses 2/3; Nottingham score 8/9], forming a mass (2.3 x 1.9 x 1.8 cm) [AJCC pT2].
+Ductal carcinoma in situ is absent. Angiolymphatic invasion is absent. The non-neoplastic breast
+parenchyma shows nonproliferative fibrocystic changes. All surgical margins are negative for tumor
+(minimum tumor free margin, 0.5 cm, deep margin).
+Lymph nodes, right axillary sentinel Nos. 1A, 1B, 1C, 2A, 2B, and 2C, excision: Multiple (3 of 6) right
+axillary sentinel lymph nodes, all without blue dye, are positive for for metastatic carcinoma.
+Lymph nodes, right axillary, dissection: Multiple (2 of 13) right axillary lymph nodes are positive for
+metastatic carcinoma [AJCC pN2]. Extranodal extension is present.
+Her-2/NEU has been ordered on paraffin-embedded tissue.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIS
+Date Reviewed:
+Yes
+DISQUALIFIED

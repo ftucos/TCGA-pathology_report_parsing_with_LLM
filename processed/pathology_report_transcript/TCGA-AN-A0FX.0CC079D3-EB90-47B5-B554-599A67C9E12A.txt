@@ -1,0 +1,43 @@
+TSS Patient ID:
+Case #:
+DOB:
+Sex: Female Ethnicity (Race):
+UUID:8CC879D3-EB90-47B5-B554-599A67C9E12A
+TCGA-AN
+-ABFX-01A-PR
+Redacted
+Cancer Sample
+Diagnosis: Breast Cancer Histological description: metaplastic carcinoma
+Date of Procurement:
+Anatomic Site: Left Breast Tumor location: Primary
+Tissue Specification: Tumor Specimen Matrix: Tissue Specimen Format: Frozen
+Container: cryomold Type of Procurement: Radical mastectomy Grade: 3
+T Stage: 2 N Stage: 0 M Stage: 0 Treatment: none
+Treatment Details: n/a
+Normal Sample
+Anatomic Site: Blood Sample Type: Normal Type of Procurement: blood draw
+Matrix: Blood Specimen Format: frozen Container: tube
+Date of Procurement:
+Path -
+ICD-0-3
+carcinoma, metaplastic. Nos 8575/3
+Site: breast, NOS
+050.9
+be 10/21/11
+CQCF -
+carcinoma infiltrating ductal, Nos 8500/3
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+my
+DISQUALIFIED
+Date Reviewed:
+In 10/21/11

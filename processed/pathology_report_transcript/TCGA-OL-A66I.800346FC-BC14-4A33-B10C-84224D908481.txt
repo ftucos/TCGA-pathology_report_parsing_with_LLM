@@ -1,0 +1,129 @@
+Sample #
+FINAL PATHOLOGIC DIAGNOSIS
+Lumpectomy and axillary dissection, right breast,
+A. Sentinel lymph node #1, right axilla:
+-Microscopic focus (1 mm) of metastatic carcinoma. See comment.
+B. Right breast lumpectomy:
+-Invasive ductal carcinoma, SBR grade III. See parameters below.
+-No in-situ component.
+-Uninvolved breast parenchyma is unremarkable.
+C. Right axillary contents:
+-Thirteen lymph nodes, no tumor (0/13).
+Breast Pathologic Parameters
+1. Invasive carcinoma:
+A. Gross measurement: 1.9 cm
+B. Composite histologic (modified SBR) grade III
+- Architecture: 3
+- Nuclear grade: 3
+-
+· Mitotic count: 3
+C. Associated ductal carcinoma in situ (DCIS): Not present
+UUID:800346FC-BC14-4A33-810C-84224D908481
+TCGA-OL-A661-01A-PR
+Redacted
+ICD-0-3
+на
+duct
+Carcinoma, infiltrating 2013
+Site ® Breast Nos C509
+9405/16/13
+2. Excisional biopsy margins: Free of tumor
+Invasive carcinoma is 2 mm from closest (inferior) margin
+- Additional margins greater than 2mm away
+3. Blood vessel and lymphatic invasion: Absent
+4. Axillary lymph nodes: Positive for tumor, (1/14)
+- Size of largest metastatic deposit: 1 mm
+- Extranodal extension: Absent
+5. Special studies (see
+☐
+Rare tumor cells (less than 1%) immunoreact with ER and PR
+- Her2/neu antigen (FISH): Negative (ratio = 1.04)
+6. pTNM: pT1c, N1mi, MX
+Clinical History:
+The patient is a year-old female with a history of right breast mass
+undergoing right breast lumpectomy and sentinel node biopsy.
+Comment
+Cytokeratin stains are performed on the sentinel node (blocks A1 and A2).
+However, the microscopic focus of carcinoma is not present on the deeper
+sections used for IHC.
+Specimens Received:
+A: Sentinel Lymph Node Right Breast #1
+B: Right Breast Lumpectomy
+C: Right Axillary Contents
+Gross Description:
+The specimen is received in three containers, each labeled with the patient's
+name and medical record number.
+A. Container A is additionally identified as '1. sentinel lymph node, right
+breast #1.' Received fresh for frozen section diagnosis is a 2.0 x 1.5 x 1.0 cm
+blue-tan, ovoid lymph node candidate. The specimen is bisected and entirely
+frozen in cassettes A1FS-A2FS and read as 'A1FS-A2FS positive for metastatic
+The frozen section remnants are entirely submitted
+tumor < 2 mm' per Dr.
+in cassettes A1FS-A2FS.
+B. Container B is additionally identified as '2. right breast lumpectomy; long
+stitch lateral, short stitch superior.' Received fresh and placed in formalin
+is a 113.8 gm, oriented lumpectomy specimen. The specimen measures 7.2 cm from
+lateral to medial, 11.0 cm from anterior to posterior, and 3.0 cm from superior
+to inferior. The specimen is oriented with a double short suture at superior
+and a double long suture at lateral.
+The specimen is inked as follows:
+superior blue
+inferior black
+anterior green
+posterior red
+The specimen is serially sectioned from lateral to medial into ten slices. The
+central aspect of the specimen, within five slices, is notable for a
+well-circumscribed, centrally spiculated, indurated, otherwise solid, firm,
+white-pink mass. The mass measures 1.9 x 1.7 x 1.7 cm and abuts both the
+inferior (black) and inferior/posterior (red/black) margins, diffusely. The
+second slice from the lateral aspect of the mass shows an identifiable metallic
+clip. The remainder of the specimen is devoid of additional discrete lesions
+and is otherwise composed of soft, yellow tissue (85%) and intermixed,
+glistening and soft, white parenchyma (15%).
+Block summary:
+B1-B2:lateral margin, serially sectioned
+B3-B105: entire specimen from lateral to medial, respectively
+B106-B107: medial margin, serially sectioned
+(Mass in cassettes B27, B28, B36-B39, B54-B57, B74-B77; clip in cassettes
+B36-B39.)
+C. Container C is additionally identified as '3. right axillary contents.'
+Received fresh is a 8.0 x 5.0 x 2.5 cm portion of lobulated, yellow tissue. The
+specimen is dissected for lymph node candidates.
+Block summary:
+C1: five lymph node candidates
+C2: two lymph node candidates
+C3: one lymph node candidate, bisected
+C4: one lymph node candidate, bisected
+C5: three lymph node candidates
+C6: three lymph node candidates
+C7: five lymph node candidates
+C8: one lymph node candidate, bisected
+C9: one lymph node candidate, bisected
+C10: one lymph node candidate, bisected
+C11: two lymph node candidates
+C12: three lymph node candidates
+C13: one lymph node candidate, bisected
+C14: one lymph node candidate, bisected
+C15: one lymph node candidate, bisected
+C16: one lymph node candidate, bisected
+C17-C19: one lymph node candidate, sectioned
+(questionable multiple matted lymph nodes)
+Intraoperative Consult Diagnosis:
+A1FS-A2FS. Sentinel lymph node, right breast #1: Positive for metastatic tumor
+<2 mm.
+Pathologist Sign Out:
+Criteria
+h 4/12/13
+Yes
+No
+Diagnosis Discrepal.cv
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary noted
+Case is (circ
+Reviewer Inals
+QUALIFIED
+Dete Heviewed:
+DISQUALIFIED
+4/11/13

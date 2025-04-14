@@ -1,0 +1,28 @@
+Diagnosis:
+ICD-0-3
+Carcinoma, infiltrating ductal, Nos 8500/3
+Site breast, Nos
+050.9
+1/25/11
+کسل
+1. Breast segment with a poorly differentiated invasive ductal carcinoma (tumor
+diameter: 3 cm) with a focal 
+intraductal component.
+Tumor classification: NOS, G II, pT2LOVORO.
+UUID:5A6E0F10-758E-4DC1-A5C7-57D5DF9B25EF
+TCGA-A8-A09A-01A-PR
+0
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle)a
+Review Initial
+QUALIFIED
+Dat Reviewed:
+Redacted
+Yes
+NOL
+DISQU'ANHED

@@ -1,0 +1,284 @@
+Clinical Diagnosis & History:
+r/o female with left breast IDC
+Specimens Submitted:
+1: SP: Level three left axillary lymph nodes
+2: SP: Level two 
+left axillary lymph nodes.
+3: SP: Lateral left breast skin
+4: SP: Right upper abdominal skin tag
+5: SP: Left breast and level 1 axillary lymph nodes
+UUID:6C202D3E-5670-4863-82A2-9EE7AC385089
+TCGA-A0-A0JB-01A-PR
+Redacted
+DIAGNOSIS:
+1)
+2)
+3)
+4)
+5)
+SOFT TISSUE, LEVEL III LEFT AXILLA; EXCISION:
+- BENIGN FIBROADIPOSE TISSUE.
+- NO LYMPH NODE IDENTIFIED.
+-
+-
+-
+-
+LYMPH NODES, LEVEL II LEFT AXILLA; EXCISION:
+THREE BENIGN 
+LYMPH NODES (0/3).
+SOFT TISSUE, LATERAL LEFT BREAST; EXCISION:
+ONE 
+BENIGN LYMPH NODE (0/1).
+BENIGN FIBROADIPOSE TISSUE.
+SKIN, RIGHT UPPER ABDOMINAL TAG; EXCISION:
+IRRITATED 
+SEBORRHEIC KERATOSIS.
+BREAST AND LEVEL I AXILLARY LYMPH NODES, LEFT; MASTECTOMY:
+INVASIVE DUCTAL CARCINOMA
+, HISTOLOGIC GRADE III/III (SLIGHT OR NO
+TUBULE 
+FORMATION), NUCLEAR GRADE II/III (
+MODERATE VARIATION IN SIZE AND
+SHAPE) WITH AREAS OF LOBULAR GROWTH, 
+MEASURING 11.0 CM IN LARGEST DIMENSION
+GROSSLY.
+-
+DUCTAL CARCINOMA IN SITU (DCIS) IS ALSO IDENTIFIED, SOLID TYPE, WITH
+MODERATE HIGH NUCLEAR GRADE AND EXTENSIVE 
+NECROSIS.
+-
+"
+LOBULAR INVOLVEMENT BY DCIS IS PRESENT.
+THE DCIS CONSTITUTES <= 25% OF THE TOTAL TUMOR MASS, AND IS PRESENT
+ADMIXED WITH AND AWAY FROM THE INVASIVE COMPONENT.
+THE INVASIVE CARCINOMA IS LOCATED IN THE UPPER OUTER QUADRANT, UPPER INNER
+QUADRANT AND LOWER OUTER QUADRANT.
+- THE DCIS IS LOCATED IN THE UPPER OUTER QUADRANT, UPPER INNER QUADRANT AND
+LOWER OUTER QUADRANT.
+1
+** Continued on next page **
+ICD-0-3
+carcinoma, infiltrating
+, infiltrating 
+duct, Nos 8500/3
+Site: breast, NOS C50.4 bus 10/24/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discreparcy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+QUALIFIE
+Case is (circle):
+Reviewer Initials
+Yes
+✓ DISQUALIFIED
+Date Reviewed:
+Le 10/24/11
+Page 2 of 5
+- NO INVOLVEMENT OF THE NIPPLE BY EITHER IN SITU OR INVASIVE CARCINOMA IS
+IDENTIFIED.
+- CALCIFICATIONS ARE PRESENT IN THE IN SITU AND INVASIVE CARCINOMA, AND IN
+BENIGN BREAST PARENCHYMA.
+- EXTENSIVE VASCULAR INVASION IS PRESENT.
+- NO INVOLVEMENT OF THE SURGICAL MARGINS BY EITHER INVASIVE OR IN SITU
+CARCINOMA IS IDENTIFIED.
+-
+-
+NO SKIN INVOLVEMENT BY CARCINOMA IS IDENTIFIED.
+THE ATTACHED SKELETAL MUSCLE IS UNINVOLVED BY CARCINOMA.
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES AND
+PROLIFERATIVE FIBROCYSTIC CHANGES.
+THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+LYMPH NODES IN RELATION TO THE TOTAL NUMBER OF LYMPH NODES EXAMINED): LEVEL
+I: 1/10.
+- THERE IS EXTRANODAL EXTENSION OF CARCINOMA, >2 MM.
+IMMUNOHISTOCHEMICAL STAINS WERE PERFORMED ON FORMALIN-FIXED TISSUE WITH
+THE FOLLOWING RESULTS FOR INVASIVE CARCINOMA (BLOCK 5T5):
+ESTROGEN RECEPTOR (6F11,
+STRONG INTENSITY
+90% NUCLEAR STAINING WITH
+PROGESTERONE RECEPTOR (1E2;
+MODERATE INTENSITY
+HER2 (HERCEPTEST; DAKO):
+INTENSITY OF 0)
+60% NUCLEAR STAINING WITH
+NEGATIVE (STAINING
+CONTROLS ARE SATISFACTORY.
+COMMENT:
+HERCEPTESTTM (DAKO) IS AN FDA-APPROVED METHOD FOR
+ASSESSMENT OF HER2 PROTEIN OVEREXPRESSION IN BREAST CANCER TISSUE ROUTINELY
+PROCESSED FOR HISTOLOGICAL EVALUATION. THE HER2 TEST RESULTS ARE REPORTED IN
+ACCORDANCE WITH THE ASCO/CAP GUIDELINE RECOMMENDATIONS FOR HER2 TESTING IN
+BREAST CANCER (J CLIN ONCOL 2007; 25(1):1-28).
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out ***
+Special Studies:
+Result
+Special Stain
+BR-C
+PR-C
+HER2-C
+IMM RECUT
+NEG CONT
+NEG-HER2
+Gross Description:
+**Continued on next page **
+Comment
+N
+MD
+Page 3 of 5
+D.
+1.) The specimen is received in formalin, labeled "level 3 left axillary
+lymph nodes" and consists of two irregularly shaped fragments of yellow
+lobulated adipose tissue measuring 1.0 x 1.0 x 0.2 cm in aggregate. No
+lymph nodes are identified grossly. The specimen is entirely submitted.
+Summary of sections:
+U-undesignated
+2.)
+The specimen is received in formalin, labeled "level 2 left axillary
+lymph nodes" and consists of one irregularly shaped fragment of yellow
+lobulated adipose tissue measuring 3.5 x 2.5 x 0.3 cm. Three possible lymph
+nodes are identified, ranging from 0.3 cm to 0.5 cm in greatest dimension.
+The lymph nodes are entirely submitted.
+Summary of sections:
+U
+--
+undesignated
+4.D.
+3.) The specimen is received in formalin, labeled "lateral left breast
+skin" and consists of one irregularly shaped fragment of yellow to tan
+fibroadipose tissue measuring 10.3 x 2.9 x 1.4 cm. No skin is identified
+grossly. Serial sectioning reveals a grossly unremarkable fibroadipose
+tissue with a single possible lymph node measuring 0.4 cm in greatest
+dimension. Representative sections are submitted.
+Summary of sections:
+U-undesignated
+..D.
+4.) The specimen is received in formalin, labeled "right upper abdominal
+skin tag" and consists of one polypoid shaped fragment of brown skin
+measuring 0.3 × 0.2 x 0.2 cm. The specimen is entirely submitted.
+Summary of sections:
+U-undesignated
+1.D.
+5.) The specimen is received fresh, labeled "left breast and level 1
+axillary lymph nodes, stitch marks level 1 axillary lymph nodes" and
+consists of a breast with attached axillary tail. The breast measures 22.2
+× 16.0 x 3.5 cm with overlying skin ellipse measuring 16.6 x 7.9 cm.
+Situated eccentrically on the skin surface is an everted nipple measuring
+1.2 x 1.1 x 0.3 cm and areola measuring 4.9 x 4.1 cm. The skin shows no
+scars. A suture demarcates the axillary tail which measures 9.8 x 5.5 x 1.5
+cm. The posterior surface of the breast is inked black and the specimen is
+serially sectioned to reveal an irregularly shaped white-tan firm mass
+** Continued on next page **
+3
+The
+Page 4 of 5
+measuring 11.0 x 6.5 x 4.8 cm, involving upper outer, lower outer and upper
+inner quadrants, located 0.6 cm away from the deep resection margin.
+remaining breast tissue shows predominantly yellow lobulated adipose tissue
+admixed with scant white-tan fibrous soft tissue with no other grossly
+identifiable lesions. The axillary tissue is dissected to reveal multiple
+lymph nodes ranging in size from 0.5 cm to 2.5 cm. The specimen is
+submitted for lymph node dissection. Representative sections of the
+mastectomy specimen and all identified axillary lymph nodes are submitted.
+Tissue submitted for TPS.
+Summary of sections:
+N -
+NB
+-
+S
+D
+-
+-
+T-
+nipple
+nipple base
+skin
+deep margin
+tumor
+UIQ - upper inner quadrant
+LIQ
+-
+UOQ
+-
+LOQ
+LNS
+-
+--
+lower inner quadrant
+upper outer quadrant
+lower outer quadrant
+lymph nodes
+Summary of Sections:
+Part 1:
+Block
+1
+SP: Level three left axillary lymph nodes
+Sect. Site
+U
+PCs
+1
+Part 2:
+Block
+1
+Part 3:
+Block
+1
+Part 4:
+Block
+1
+Part 5:
+Block
+1
+2
+6
+2
+SP: Level two left axillary lymph nodes
+Sect. Site
+U
+PCs
+1
+SP: Lateral left breast skin (sr)
+Sect. Site
+U
+PCs
+1
+SP: Right upper abdominal skin tag
+Sect. Site
+U
+PCs
+1
+SP: Left breast and level 1 axillary lymph nodes
+Sect. Site
+D
+LIQ
+LN
+LOQ
+PCs
+1
+2
+11
+2
+** Continued on next page **
+J
+1
+N
+1
+1
+NB
+1
+I'
+S
+1
+T
+5
+UIQ
+2
+UOQ
+2
+**End of Report **
+и
+Page 5 of 5

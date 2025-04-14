@@ -1,0 +1,64 @@
+Department of Cancer Pathology
+Date:
+copy No.
+Examination: Histopathological examination
+page 1/1
+Internal invoice No.
+Patient: XXX
+Value of diagnostic procedure
+PESEL: XXX
+Examination No.
+Age:
+Gender: F
+Material: Multiple organ resection - left breast $
+1CD-0-3
+Unit in charge:
+Physician in charge:
+Site: breast, Nos
+Material collected on:
+Material received on
+Carcinona, infiltrating duct, was 8500/3
+050.9
+lov 4/12/11
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast.
+PCI: Carcinonia invasivum G3.
+Examination performed on:
+Results of immunohistochemical examination:
+No estrogen receptors detected in neoplastic cell nuclei. Progesterone receptors found in less than 10% of neoplastic cell
+nuclei. HER2 protein stained with Ventana's Pathway HER-2/neu (485) Rabbit Monoclonal Antibody. Negative reaction in
+invasive cancerous cells (Score=1+).
+Compliance validate
+Examination performed on
+Macroscopic description:
+Left breast, sized 26 x 18 x 5 cm, removed along with axillary tissues sized 4 x 1 x 2 cm and a skin flap of 16 x 11 cm. Weight 220
+g. Tumour sized 3.5 x 2.5 x 3.0 cm found in the upper inner quadrant, located 4 cm from the upper edge, 0.5 cm from the base
+and 3.8 cm from the skin.
+Microscopic description:
+Carcinoma ductale invasivum - NHG3 (3+3+2: 9 mitoses/10 HPF - visual area: 0.55mm).
+Mamilla sine laesionibus.
+Glandular tissue showing lesions: mastopathia fibrosa.
+Axillary lymph nodes:
+Lymphonodulitis chronica (No 1).
+Histopathological diagnosis:
+Carcinoma ductale invasivum mammae sinistrae. Invasive ductal carcinoma of the left breast.
+(NHG3, p 12, pNO).
+Compliance validated by:
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+UUID: BD71F606-58BC-4689-8A03-CB25D5BECA96
+TCGA-D8-A1XW-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Pric: Malignancy History
+Dual/Synchronous Primary Neted
+QUALIFIED
+Date Rewed:
+Case is (circle):
+Reviewer als
+DISQUALIFIED
+The 4/12/11

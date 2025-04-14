@@ -1,0 +1,58 @@
+ICD-0-3
+carcinoma infiltrating lobular, Nos
+Site: breast, NoS
+UUID:FAB622C2-3E45-4E72-AA36-9530BB830993
+TCGA-D8-A271-01A-PR
+Redacted
+050.9
+852013
+bw 5/19/11
+Internal invoice No.
+Patient: XXX
+copy No.
+4
+Date:
+Examination: Histopathological examinatior
+Cost of diagnostic procedure
+PESEL: XXX
+Age
+Gender: F
+Material: Multiple organ resection - right breast with axillary tissues
+Unit in charge:
+Physician in charge:
+Material collected on:
+Material received on:
+page 1 / 1
+Examination No.:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepar.cy
+Prior Malignancy History
+Dial/Synchronous Primary Noted
+Case scircle):
+Revidertian
+Yes
+QUALIFIED I
+DISQUALIFIED
+KM / 3/19/1 5/9/11
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the right breast.
+Examination performed on:
+Macroscopic description:
+Right breast sized 19.3 x 14.2 x 5.8 cm removed along with axillary tissues sized 10 x 6 x 3 cm and a skin flap of 16.2 x 6.8 cm.
+Tumour sized 1.7 x 1.2 x 
+1.5 cm on the border of outer quadrants, located 6.3 cm from the upper boundary, 0.3 cm from the
+base and 1.2 cm from the skin.
+Microscopic description:
+Carcinoma lobulare invasivum (classical type) multifocale - NHG2 (3 + 2 +1; 0 mitoses/10 HPF, visual area diameter 0.55 mm).
+Infiltratio carcinomatosa mamillae.
+Parenchymal atrophy showing in the glandular tissue.
+AXILLARY LYMPH NODES
+Metastases carcinomatosae in lymphonodis (NO IV/X).
+Histopathological Diagnosis:
+Carcinoma lobulare invasivum multifocale mammae dextrae. Invasive multifocal lobular carcinoma of the right breast.
+Metastases 
+carcinomatosae in lymphonodis axillae (NO IV/X). Cancer metastases in axillary lymph nodes.
+(NHG2, pTic, pN2a).
+Compliance validated by:

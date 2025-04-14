@@ -1,0 +1,54 @@
+UUID:4C3E3E5B-E24E-447B-A688-68D6EBE15A9F
+TCGA-AR-A5QM-01A-PR
+Redacted
+ICD0-3
+Carcinoma, lobular infiltration
+Site ①Breast, Nos C50.9
+852043
+JW 4/2/13
+Breast, left, wide local excision: Infiltrating lobular carcinoma, Nottingham grade II (of III)
+[tubules 3/3, nuclei 2/3, mitoses 2/3; Nottingham score 7/9], forming a mass (4.7 x 2.2 x 1.5 cm)
+[AJCC PT2]. Lobular carcinoma in situ is present. Biopsy site changes are present.
+Angiolymphatic invasion is not identified. Calcifications are identified in benign ducts. All
+surgical resection margins, after re-excision of the superomedial margin, are negative for tumor
+(minimum tumor free margin, 0.8 cm, deep margin). Multiple (4) left breast intramammary
+lymph nodes are negative for tumor.
+Breast, left "palpable" nodule, excision: A single left breast intramammary lymph node is
+negative for tumor.
+Lymph node, left intramammary sentinel, excision: A single left intramammary sentinel lymph
+node is positive for isolated tumor cells [AJCC pN0 (i+) (sn)]. These isolated tumor cells are
+seen on cytokeratin immunostaining only. Blue dye is identified.
+Lymph nodes, left axillary sentinel, No. 1 and No. 2, biopsy: Multiple (3) left axillary sentinel
+lymph nodes are negative for metastatic carcinoma [AJCC pN0 (i-) (sn)]. Blue dye is not
+identified in any of the three left axillary sentinel lymph nodes.
+Immunohistochemical cytokeratin stain was performed on the paraffin embedded sentinel lymph
+node tissue and confirms the H&E impression.
+Breast, right, wide local excision: Infiltrating ductal carcinoma, Nottingham grade II (of III)
+[tubules 3/3, nuclei 2/3, mitoses 2/3; Nottingham score 7/9], forming a mass (1.4 x 1.0 x 0.9 cm)
+[AJCC pT1c]. Extensive ductal carcinoma in situ, low to intermediate nuclear grade, present
+within (greater than 25%) and outside the invasive component (over an area 1.8 x 0.5 x 0.3 cm)
+which extends anteriorly from the invasive tumor. Angiolymphatic invasion is present. Biopsy
+site changes are present. All surgical resection margins, after re-excision of the anterior/medial
+margin, are negative for tumor (minimum tumor free margin, 0.9 cm, deep margin). A
+radioactive seed is identified.
+Lymph nodes, right axillary, dissection: Multiple (4 of 25) right axillary lymph nodes are
+positive for metastatic breast carcinoma [AJCC pN2]. The largest metastatic focus is a collection
+of matted lymph nodes that measure 3.0 x 1.9 x 1.6 cm.
+Faxitron done.
+Case seen in consultation with
+Synchronous/bilateral cancer in
+® breast.
+Criteria
+Diagnosis Discrepancy
+2/5/17
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous brimary Net
+Case is (circles
+Reviewer inatials BTH
+Ⓑbract
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+Yes
+No

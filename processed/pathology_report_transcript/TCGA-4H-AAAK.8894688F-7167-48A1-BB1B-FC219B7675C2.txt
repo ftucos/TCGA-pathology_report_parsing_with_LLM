@@ -1,0 +1,44 @@
+Age/Sex:
+years / F
+Date:
+UUID:8894688F-7167-48A1-BB1B-FC21987675C2
+TCGA-4H-AAAK-01A-PR
+Redacted
+Procedure: Left radical mastectomy
+Preoperative diagnosis: CARCINOMA OF THE LEFT BREAST
+Postoperative diagnosis: SEE MICROSCOPIC DIAGNOSIS BELOW
+Specimen(s): 1. LEFT BREAST 2. LEFT AXILLARY CONTENTS
+Diagnosis:
+1. LEFT BREAST:
+ICD-6-3
+Carcinoma Rebular infiltrating 5 2013
+Site: ①Breast NOS
+Infiltrating lobular carcinoma grade 2
+Tumor is 2.8 x 3.5 x 3.0 cm in dimensions
+Vascular invasion is not present
+2. LEFT AXILLARY LYMPH NODES:
+C50.9
+5/21/14
+-
+Four (out of fourteen) axillary lymph nodes are positive for metastatic carcinoma
+Gross description:
+1. LEFT BREAST:
+Received fresh, is a left breast measured 30.0 x 27.0 x 9.0 cm in dimensions with an axillary fat,
+en bloc. The firm white-gray tumor 2.8 x 3.5 x 3.0 cm in dimensions is present in the outer
+quadrants.
+2. LEFT AXILLARY CONTENTS:
+Within the axillary fat there are fourteen lymph nodes ranging from 0.2 to 2.0 cm in greatest
+dimension.
+Criteria
+h 1/10/14
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Date Reviewed:

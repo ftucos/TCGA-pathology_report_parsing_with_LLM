@@ -1,0 +1,36 @@
+ICD-0-3
+Carcinoma, lobular, infiltrating 8520/3
+Site Code: breast, NOS
+050.9
+12/21/10 lu
+Final diagnosis
+Breast, right, simple mastectomy: Invasive mammary carcinoma, Nottingham grade II (of III),
+with predominantly lobular features is identified forming multiple (4) masses (ranging in size
+from 0.7 cm to 1.6 cm in greatest dimension) (AJCC pTc) situated in multiple quadrants (lower
+inner quadrant, inferior central, upper outer quadrant, and 12 o'clock position). There is a
+minimal (5%) component of ductal carcinoma in situ, intermediate nuclear grade. No
+angiolymphatic invasion identified. Tumor closely approaches (0.1 cm) the original inferior
+margin. Skin, nipple, and final surgical margins (after re-excision) are negative for tumor.
+Lymph nodes, right axillary sentinel, excision: Multiple (5) right axillary sentinel lymph nodes
+are negative for tumor (AJCCpN0(sn)(i-)). Blue dye is identified in all five right axillary sentinel
+lymph nodes. Immunohistochemical cytokeratin stain was performed on the paraffin embedded
+sentinel lymph node tissue and confirms the H&E impression.
+HER2/neu protein overexpression is negative, score of 1+, according to the interpretation
+guidelines in the FDA-approved HercepTest.
+UUID:F4DBFC71-9CD0-41C3-9F20-77FA0605D4A8
+TCGA-AR-A1AK-01A-PR
+Redacted
+Yes
+No
+iterla
+iagnosis Discrepancy
+rimary Tumor Site Discrepancy
+¡IPAA Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Note
+ase is (circle):
+eviewer r.itials
+QUALIFIED
+my
+DISQUALIFIED
+De Reviewed: TA

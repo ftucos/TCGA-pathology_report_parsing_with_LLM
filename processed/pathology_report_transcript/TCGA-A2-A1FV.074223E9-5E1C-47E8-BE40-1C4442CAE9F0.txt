@@ -1,0 +1,311 @@
+RAFFICIAL USE ONLY - PERSONAL DATA
+PRIVACY ACT OF 1974
+Redacted
+UUID:074223E9-5E1C-47E8-BE40-1C4442CAE9F0
+TCGA-A2-A1FV-01A-PR
+SURGICAL PATHOLOGY REPORT
+Patient:
+FMP/SSN:
+DOB/Age/Sex:
+(Age:
+Race:
+Specimen #:
+Taken:
+Location:
+Physician(s):
+SPECIMEN:
+Received:
+Reported:
+180-0-3
+A: SENTINEL LYMPH NODE #1 B: LEFT AXILLARY TISSUE
+C: LEFT 
+MASTECTOMY D: NEW INFERIOR MARGIN
+Carcinoma, infiltrating lobular, Nos
+Site: breast, NUS C50.9
+852013
+1/25/11
+سلام
+FINAL DIAGNOSIS:
+======
+A. SENTINEL LYMPH NODE #1,
+BIOPSY:
+-
+ONE OF TWO LYMPH NODES WITH ISOLATED TUMOR CELLS (ITC) DETECTED BY
+CYTOKERATIN IMMUNOHISTOCHEMICAL 
+STAINING, refer to part C.
+B. SOFT TISSUE, LEFT AXILLA, EXCISION:
+C.
+-
+-
+BENIGN FIBROADIPOSE AND VASCULAR CONNECTIVE TISSUE WITH NERVE.
+NO EVIDENCE OF LYMPH 
+NODES.
+NEGATIVE FOR MALIGNANCY.
+-
+-
+-
+.P. MASTECTOMY :
+1 TYPE: INVASIVE LOBULAR CARCINOMA.
+HISTOLOGIC GRADE: GRADE 2, MODERATELY DIFFERENTIATED.
+NOTTINGHAM 
+SCORE: 6 (Tubules= 3, Nuclei= 2, Mitoses= 1)
+TIT
+IZE (GREATEST DIMENSION): GREATER THAN 5.0 CM, see comment.
+ITE (QUADRANT): OUTER 
+UPPER AND MID.
+TYPE: INVASIVE LOBULAR CARCINOMA.
+OLCIC GRADE: GRADE 1, WELL DIFFERENTIATED.
+NOTTINGHAM SCORE: 5 (Tubules= 3, Nuclei= 1, Mitoses= 1)
+- TUMOR SIZE (GREATEST DIMENSION): 0.3 CM, measured microscopically.
+TUMOR SITE (QUADRANT): INNER UPPER.
+-
+TUMOR FOCALITY: MULTIFOCAL.
+MICROCALCIFICATIONS: PRESENT; ASSOCIATED WITH INVASIVE AND IN SITU
+TUMOR 
+AND ALSO NON-NEOPLASTIC TISSUE.
+-
+TUMOR NECROSIS: NOT IDENTIFIED.
+-
+-
+LYMPH-VASCULAR INVASION: PRESENT, slide C6.
+-
+MARGINS: NEGATIVE FOR MALIGNANCY.
+DISTANCE OF INVASIVE TUMOR FROM NEAREST MARGIN
+=
+0.5 CM, DEEP.
+IN SITU COMPONENT: LOBULAR CARCINOMA IN SITU (LCIS).
+DISTANCE OF 
+LCIS FROM NEAREST MARGIN = LESS THAN 0.1 CM, DEEP.
+LYMPH 
+NODES: ONE OF TWO 
+NODES WITH ISOLATED TUMOR CELLS.
+NUMBER OF 
+SENTINEL LYMPH NODES EXAMINED: 2
+-
+-
+NUMBER OF LYMPH NODES WITH MACROMETASTASES: 0
+NUMBER OF LYMPH NODES WITH MICROMETASTASES: 0
+NUMBER OF LYMPH NODES WITH ISOLATED TUMOR CELLS: 1
+EXTRANODAL 
+EXTENSION: NOT IDENTIFIED.
+Page 1
+Continued on Next Page
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+FOR OFFICIAL USE ONLY
+PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+Patient:
+FINAL DIAGNOSIS (continued) :
+-
+-
+NIPPLE/ SKIN INVOLVEMENT: NOT IDENTIFIED.
+ANCILLARY STUDIES (performed on core biopsy
+-
+-
+-
+ESTROGEN RECEPTORS: POSITIVE.
+· PROGESTERONE RECEPTORS: POSITIVE.
+HER 2 NEU by IHC: NEGATIVE.
+ADDITIONAL PATHOLOGIC CHANGES:
+-
+PRIOR BIOPSY SITE CAVITY/ CHANGES.
+*** PATHOLOGIC STAGE: pT3 (m) NO (i+) (sn), (AJCC 7th Edition)
+D. SOFT TISSUE, NEW INFERIOR MARGIN, EXCISION:
+-
+FIBROADIPOSE CONNECTIVE TISSUE AND SCATTERED ATROPHIC BREAST
+PARENCHYMA; NEGATIVE FOR MALIGNANCY.
+Comments:
+Macroscopically, two masses were noted within the outer upper and outer
+However, sampling of 
+the
+mid regions, separated by approximately 1.5 
+cm.
+intervening tissue confirms the presence 
+of 
+invasive lobular carcinoma.
+The masses have a similar histologic appearance of 
+invasive lobular
+carcinoma, grade 2. Therefore, the upper 
+outer/mid tumors are best
+A smaller separate 
+tumor
+classified as a single mass and staged as pT3.
+is noted within the inner upper quadrant.
+The prior core biopsy
+) and ancillary studies are reviewed.
+This case received prospective peer review.
+** Report Electronically Signed Out
+**
+CLINICAL DIAGNOSIS AND HISTORY:
+ear-old female with left breast cancer.
+PRE-OPERATIVE DIAGNOSIS:
+Breast cancer.
+POST-OPERATIVE DIAGNOSIS:
+None provided.
+Page 2
+Continued on Next Page
+FOR OFFICIAL USE ONLY PERSONAL DATA
+.
+-
+PRIVACY ACT OF 1974
+FOX OFFICIAL USE ONLY - PERSONAL DATA - PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Patient:
+GROSS DESCRIPTION:
+A:
+Specimen #:
+Received fresh, labelled with the patient's name
+and designated, "Sentinel Node #1" consists of 2.0 x 2.0 x 0.6 cm
+irregular portion of red-yellow 
+soft tissue.
+1.3 x 0.5 
+x 0.4 cm pink-tan lymph node.
+entirely 
+submitted in 2 cassettes.
+Sectioning reveals a single
+The lymph node is bisected and
+B: Received in formalin, labeled with the patient's name
+and designated, "Left Axillary Tissue" consists of two irregular
+shaped 
+fragments of yellow lobular adipose 
+tissue measuring 2.3 and 1.3 cm
+in greatest dimension. Sectioning reveals 
+six possible lymph nodes
+measuring up to 0.2 cm in greatest 
+dimension each.
+entirely submitted 
+in three cassettes as follows:
+The specimen is
+nodes; B2- one 
+possible lymph node, bisected; B3- remaining adipose
+Bl- five possible 
+lymph
+tissue.
+11 consists
+C: Receive fresh, labelled with the patient's name
+and de mated, "Left 
+Mastectomy (Long-Lateral; Short-Superior)
+of
+30 gram mastectomy 
+specimen oriented with a short stitch superior
+and ng 
+st
+lateral. The specimen measures 
+25.0 cm medial to lateral;
+to inferior; and 4.0 cm 
+anterior to posterior.
+ed 
+superficial skin 
+ellipse measures 24.0 x 14.2 cm and
+The
+cm centrally located, 
+everted nipple.
+The 
+deep 
+margin is inked black.
+No discharge is
+Serial sections reveal a 4.0
+21.0 cm
+light"
+× 4
+section
+bloo
+ادتنا
+-
+t
+J
+On
+× 3.0 cr poorly defined mass in the mid-outer breast (mass #1).
+cut surface is firm, 
+pink-white and shows a 0.3 cm
+opsy cavity. The 
+mass comes to within 0.5 cm of the deep
+ber/outer quadrant and 
+lower/outer quadrant fibrous tissue
+mass is markedly dense and 
+nodular. Located in the
+quant
+, adjacent to 
+the superior-medial portion of mass #1,
+is a seco 
+fairly well defined mass measuring 
+0.9 x 0.8 × 0.5 cm.
+mass is located 2.0 cm from the deep margin
+.
+This
+approximately 
+1.5 cm from the first mass. The remainder of the specimen is
+The second mass is located
+composed of lobulated, yellow-tan adipose 
+tissue admixed with a moderate
+amount of otherwise unremarkable fibrous 
+tissue.
+lateral 
+edge of the specimen (at the junction of the deep and superficial
+Located along the
+margins) there is a single 0.4 cm ill-defined 
+induration.
+margin is inked blue. No 
+lymph nodes are identified.
+This lateral
+sections are submitted 
+as follows:
+Representative
+mass; C3- upper/outer quadrant deep margin (to C2); C4- outer mid (OM)
+Cl- skin; C2- upper/outer quadrant
+mass with cavity and deep margin; C5- 
+deep margin, OM; C6- outer mid mass;
+C7-C9 additional outer mid mass; C10-C11- 
+induration along margin; C12-
+upper/inner quadrant; C13- lower/inner 
+quadrant; C14-lower/outer quadrant;
+C15-upper/outer quadrant; C16- nipple; C17- 
+sections of firm areas between
+first and second mass.
+Matched sections of C1, C2, C4, C6-C9 and C12-C15 are submitted in OCT and
+FOR OFFICIAL USE ONLY
+-
+Page 3
+PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+Continued on Next Page
+Patient:
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974
+SURGICAL PATHOLOGY REPORT
+Specimen #:
+GROSS DESCRIPTION (continued) :
+Paraffin per CBCP protocol.
+D: Received in formalin, labeled with the patient's name
+d designated, "New Inferior Margin" consists of an unoriented
+fragment of yellow lobular adipose tissue measuring 14.0 x 6.5 x 3.0 cm.
+The specimen is inked. Serial sectioning reveals a yellow lobular 
+cut
+surface with no well defined lesions or nodules 
+grossly identified and
+scattered areas of dense fibrous tissue. Representative sections are
+submitted in sequential order in six cassettes representing various
+fibrous areas.
+Time in formalin: >80 hours.
+Criteria
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Qual/Synchronous Primary Noted
+Case is (circle): H QUALLED
+Reviewer Initials
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+Page 4
+End of Report
+FOR OFFICIAL USE ONLY - PERSONAL DATA
+-
+PRIVACY ACT OF 1974

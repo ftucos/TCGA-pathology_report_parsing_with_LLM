@@ -1,0 +1,247 @@
+Final Pathologic Diagnosis:
+A. Lymph node, level III, excision:
+No evidence of malignancy (3 lymph nodes).
+B. Breast, right, radical mastectomy:
+Tumor (histologic type):
+Invasive ductal carcinoma.
+2.4 cm
+Final size of invasive tumor:
+Scarff-Bloom-Richardson score:
+Tubular score:
+3
+Nuclear score:
+3
+Mitotic score:
+2
+Total score:
+8
+In-situ component:
+Not identified.
+Type:
+NA
+Percent:
+NA
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+W 4/1/11
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Date Reviewed 121
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site breast, Nos
+050.9
+سل
+6/1/11
+Architectural pattern:
+Nuclear grade:
+NA
+NA
+Comedo necrosis: ΝΑ
+Angiolymphatic invasion:
+Skin and nipple:
+Present.
+Tumor present in the dermis of the skin and nipple.
+Dermal lymphatics:
+Angiolymphatic invasion is present.
+Microcalcifications: Not identified.
+Margins (distance \T\ size of involved area): Tumor is >1 cm from all
+margins.
+Other findings:
+Despite gross impression, microscopically the tumor does not invade the
+muscle 
+or bone.
+Lymph nodes (number positive/total number):
+Ten lymph nodes negative for metastatic tumor (includes lymph nodes from
+part 
+A).
+Size of largest metastasis: NA
+Number with extracapsular extension:
+ER, PR:
+HER2/neu:
+Positive, see case
+Negative, see case
+PT4B, NO, MX
+NA
+UUID:4AABCBD1-DF12-45E1-9307-21D6CB0894A9
+TCGA-GI-A2C8-01A-PR
+Redacted
+The examination of this case material and the preparation of this report were
+performed by the staff 
+pathologist.
+***Electronically Signed
+***
+, M.D.
+'
+M.D.
+'
+Gross Description:
+Received are two fixative filled containers labeled with the patient's name and
+medical record number.
+Part A is additionally labeled "level 3 lymph nodes." The specimen consists of
+three fragments of yellow-tan 
+fibroadipose tissue ranging from 1.1 to 2.2 cm in
+greatest dimension. Six lymph node candidates are identified, ranging from 0.3
+to 1.4 cm.
+A1
+A2
+four lymph nodes entirely submitted;
+two lymph nodes entirely submitted.
+Part B is additionally labeled "right radical mastectomy."
+Specimen type: Radical mastectomy.
+Specimen dimensions: 21.2 x 20.5 x 4.1 cm with a 6.5 x 5.4 x 1.7 cm portion of
+rib and chest wall.
+Skin: A 20.6 x 10.2 cm ellipse of skin including the nipple is present. No
+scar is identified, however, there is significant puckering of the skin inferior
+to the nipple.
+Location of lesion: The location is central.
+Estimated size of lesion: The lesion is approximately 4.8 x 2.9 x 2.9 cm. (for
+final size, see Microscopic Description)
+Appearance of lesion: The tumor is firm and white.
+Distance from closest margin: The tumor appears to abut the inked deep margin.
+Other findings: The tumor appears to involve the included 
+pectoralis muscle.
+Blocks submitted:
+B2
+B1
+nipple;
+tumor to inked deep margin and chest wall muscle;
+tumor to skin and tumor greatest cross section;
+additional representative tumor;
+B3
+B4-5
+B6
+upper inner quadrant;
+B7
+lower inner quadrant;
+B8
+outer lower quadrant;
+B9
+outer upper quadrant;
+B10
+B11
+one axillary tail lymph node bisected, entirely submitted;
+three axillary tail lymph nodes entirely submitted;
+B12
+B13
+three axillary tail lymph nodes entirely submitted;
+chest wall bone closest to tumor after decalcification.
+M.D.
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+1
+Final Pathologic Diagnosis:
+A. Lymph node, level III, excision:
+No evidence of malignancy (3 lymph nodes).
+B. Breast, right, radical mastectomy:
+Tumor (histologic type):
+Invasive ductal carcinoma.
+Final size of invasive tumor: 2.4 cm
+Scarff-Bloom-Richardson score:
+Tubular score:
+Nuclear score:
+3
+Mitotic score:
+Total score:
+In-situ component:
+Type: NA
+Not identified.
+Percent: NA
+Nuclear grade:
+Architectural pattern:
+NA
+NA
+Comedo necrosis: NA
+Angiolymphatic invasion: Present.
+Skin and nipple:
+Tumor present in the dermis of the skin and nipple.
+Dermal lymphatics: Angiolymphatic invasion is present.
+Microcalcifications: Not identified.
+Margins (distance \T\ size of involved area): Tumor is >1 cm from all
+margins.
+Other findings:
+Despite gross impression, microscopically the tumor does not invade the
+muscle 
+or bone.
+Lymph nodes (number positive/total number):
+Ten lymph nodes negative for metastatic tumor (includes lymph nodes from
+part 
+A).
+Size of largest metastasis: NA
+Number with extracapsular extension: NA
+ER, PR:
+HER2/neu:
+Positive, see case
+Negative, see case
+PT4B, NO, MX
+The examination of this case material and the preparation of this report were
+performed by the staff 
+pathologist.
+***Electronically Signed
+M.D.
+'
+M.D.
+'
+Gross Description:
+Received are two fixative filled containers labeled with the patient's name and
+medical record number.
+Part A is additionally labeled "level 3 lymph nodes." The specimen consists of
+three fragments of yellow-
+tan fibroadipose tissue ranging from 1.1 to 2.2 cm in
+greatest dimension. Six lymph node candidates are identified, ranging from 0.3
+to 1.4 cm.
+A1
+A2
+four lymph nodes entirely submitted;
+two lymph nodes entirely submitted.
+Part B is additionally labeled "right radical mastectomy."
+Specimen type: Radical mastectomy.
+Specimen dimensions: 21.2 x 20.5 x 4.1 cm with a 6.5 x 5.4 x 1.7 cm portion of
+rib and chest wall.
+Skin: A 20.6 x 10.2 cm ellipse of skin including the nipple is present. No
+scar is identified, however, there is significant puckering of the skin inferior
+to the nipple.
+Location of lesion: The location is central.
+Estimated size of lesion: The lesion is approximately 4.8 x 2.9 x 2.9 cm. (for
+final size, see Microscopic Description)
+Appearance of lesion: The tumor is firm and white.
+Distance from closest margin: The tumor appears to abut the inked deep margin.
+Other findings: The tumor appears to involve the included 
+pectoralis muscle.
+Blocks submitted:
+B2
+B1
+nipple;
+tumor to inked deep margin and chest wall muscle;
+tumor to skin and tumor greatest cross section;
+additional representative tumor;
+B3
+B4-5
+B6
+upper inner quadrant;
+B7
+lower inner quadrant;
+B8
+outer lower quadrant;
+B9
+outer upper quadrant;
+B10 one axillary tail lymph node bisected, entirely submitted;
+B11
+B12
+three axillary tail lymph nodes entirely submitted;
+three axillary tail lymph nodes entirely submitted;
+B13
+chest wall bone closest to tumor after decalcification.
+M.D.
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+Taken:

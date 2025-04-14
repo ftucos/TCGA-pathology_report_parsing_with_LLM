@@ -1,0 +1,257 @@
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+QUALIFIEDT DISQUALIFIED
+Date Reviewed
+wed 541211
+Final Pathologic Diagnosis:
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+4/1/11
+BASED ON THE PERFORMED GROSS AND MICROSCOPIC EXAMINATION:
+A.
+Breast, right, partial mastectomy:
+Infiltrating ductal carcinoma, Grade III/III.
+- Tubular score = 3.
+- Nuclear score = 3.
+- Mitotic score = 3.
+- Maximum tumor dimension 6 cm.
+No evidence of angiolymphatic invasion.
+- Focal ductal carcinoma in situ.
+- Solid architectural pattern.
+- Focal cancerization of lobules.
+- Nonextensive pattern.
+- Invasive malignancy abutes deep skeletal muscle.
+- Surgical margins negative for malignancy.
+- Stage: T3 NO MX
+(See Note)
+B.
+Lymph nodes, right axillary, resection:
+No evidence of malignancy in a single lymph node.
+C.
+Lymph nodes, sentinel, dissection:
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site: breast, NoS
+050.9
+سال
+4/1/11
+UUID: ADDE6090-5278-42D5-8E89-E0AB630A4C06
+TCGA-GI-A2C9-01A-PR
+Redacted
+No evidence of malignancy by routine microscopic in three lymph nodes.
+Immunohistochemical stains 
+pending.
+The examination of this case material and the preparation of this report were
+performed by the staff pathologist.
+***Electronically Signed
+***
+Note:
+'
+M.D. Ph.D.
+Infiltrating ductal carcinoma is high grade and morphologically identical to
+that seen in a recent previous 
+biopsy (
+). The studies for steroid
+receptors and HER-2/Neu overexpression were performed on the original biopsy and
+will not be repeated, unless otherwise 
+requested.
+Gross Description:
+Three specimen are received fresh and labeled with the patient's name,
+A. Part A labeled "right breast partial mastectomy, black-cephalad,
+purple-medial, blue-lateral
+, brown-caudad". The specimen consists of a 409
+gram, red-yellow fibrofatty (14.0x 
+13.0 x 6.0 cm.). The sutures are present as
+indicated. There is a palpable 
+protruding mass in the posterior aspect of the
+specimen and scant skeletal muscle 
+fibers. The mass protrudes 5 cm. beyond the
+remaining soft tissue plane. It is within 
+3.0 cm. from the caudal, 4.5 cm. to
+the lateral, 5.5 cm. from the 
+medial and 7.0 cm. from the cephalad borders. The
+soft tissue and surrounding adipose 
+tissue are inked black around the lesion.
+The lesion is mobile beneath the 
+adipose tissue. On serial sectioning, there is
+a 6.0 x 4.0 x 3.8 cm. mass. It has 
+fairly well circumscribed borders and a
+modeled grainy cut surface
+. The cut surface is yellow-pink, modeled, red-white
+and has a central area of calcification
+. There is a fleshy pink-red region
+towards the cephalad portion of the tumor. It is within 0.4 cm. from the
+closest soft tissue margin and is slightly adherent to the portion of skeletal
+muscle present. The remaining parenchyma 
+is predominantly yellow and 
+lobular
+with white-pink fibrous streaks. No 
+additional lesions are identified.
+Sections are submitted as follows: "A1-2" soft tissue and tumor; "A3-7"
+representative sections of tumor, lateral, central, 
+cephalad, caudal, 
+central
+respectively; "A8" representative section of uninvolved 
+parenchyma.
+B. Part B is designated "lymph node axillary tissue" and consists of a
+red-yellow lobular portion of fibrofatty tissue, 
+6.5 x 5.5 x 1.6 cm. Three
+possible lymph nodes are identified. They are 
+entirely submitted in "B1 
+and
+"B2" ("B1" two lymph node, "B2" one lymph 
+node).
+C. Part C is designated "sentinel node" and consists of an 8.0 x 2.5 x 1.3 cm.
+portion of yellow-red fibrofatty tissue. Three 
+lymph node candidates are
+identified. They are bisected and entirely submitted 
+in "C1-3".
+MD
+SNOMED Code(s):
+B: M850033 (Infiltrating duct carcinoma, poorly differentiated), P1100
+(Excision, nos), T04000 (Breast, nos), T04010 
+(Female breast, nos), 
+T04020
+(Female Breast, right), M09400 (Surgical margins 
+free of tumor), M85002
+(Intraductal carcinoma, non-infiltrating, nos), 
+T13000 (Skeletal muscle, nos
+)
+C: M09450 (No evidence of malignancy), 
+P1100 (Excision, nos), T08710
+(Axillary lymph node), TY8110 (Right axillary region
+)
+D: M09450 (No evidence of malignancy), T08000 (Lymph node, nos), Code 2
+(Code 2)
+Procedures/Addenda:
+Immunohistochemical
+Date Complete:
+Date Reported:
+Interpretation
+Date Ordered:
+By:
+Status: Signed Out
+Immunohistochemical Stains:
+Immunohistochemical stains are performed for broad spectrum molecular weight
+cytokeratin cocktail on all lymph nodes.
+Diagnosis:
+Lymph nodes, sentinel, excision:
+No evidence of metastatic carcinoma by immunohistochemistry.
+Results-Comments
+{Not Entered}
+Final Pathologic Diagnosis:
+A. Lymph node, level III, excision:
+No evidence of malignancy (3 lymph nodes).
+B. Breast, right, radical mastectomy:
+Tumor (histologic type):
+Invasive ductal carcinoma.
+Final size of invasive tumor:
+Scarff-Bloom-Richardson score:
+Tubular score:
+3
+Nuclear score:
+3
+Mitotic score:
+2
+2.4 cm
+Total score:
+In-situ component: Not identified.
+Type:
+NA
+Percent: NA
+Architectural pattern:
+NA
+Nuclear grade:
+NA
+Comedo necrosis: NA
+Angiolymphatic invasion:
+Present.
+Skin and nipple: Tumor present in the dermis of the skin and nipple.
+Dermal lymphatics:
+Angiolymphatic invasion is present.
+Microcalcifications: Not identified.
+Margins (distance \T\ size of involved area): Tumor is >1 cm from all
+margins.
+Other findings:
+Despite gross impression, microscopically the tumor does not invade the
+muscle 
+or bone.
+Lymph nodes (number positive/total number):
+Ten lymph nodes negative for metastatic tumor (includes lymph nodes from
+part 
+A).
+Size of largest metastasis: NA
+Number with extracapsular extension: NA
+ER, PR:
+HER2/neu:
+Positive, see case
+Negative, see case
+PT4B, NO, MX
+The examination of this case material and the preparation of this report were
+performed by the 
+staff pathologist.
+***Electronically Signed
+'
+M.D.
+, M.D.
+Gross Description:
+Received are two fixative filled containers labeled with the patient's name and
+medical record number.
+Part A is additionally labeled "level 3 lymph nodes." The specimen consists of
+three fragments of 
+yellow-tan fibroadipose tissue ranging from 1.1 to 2.2 cm in
+greatest dimension. Six lymph node candidates are identified, ranging from 0.3
+to 1.4 cm.
+A1
+four lymph nodes entirely submitted;
+A2 two lymph nodes entirely submitted.
+Part B is additionally labeled "right radical mastectomy."
+Specimen type: Radical mastectomy.
+Specimen dimensions: 21.2 x 20.5 x 4.1 cm with a 6.5 x 5.4 x 1.7 cm portion of
+rib and chest wall.
+Skin: A 20.6 x 10.2 cm ellipse of skin including the nipple is present. No
+scar is identified, however, there is significant puckering of the skin inferior
+to the nipple.
+Location of lesion: The location is central.
+Estimated size of lesion: The lesion is approximately 4.8 x 2.9 x 2.9 cm. (for
+final size, see Microscopic Description)
+Appearance of lesion: The tumor is firm and white.
+Distance from closest margin: The tumor appears to abut the inked deep margin.
+Other findings: The tumor appears to involve the included pectoralis 
+muscle.
+Blocks submitted:
+B2
+B1
+nipple;
+tumor to inked deep margin and chest wall muscle;
+tumor to skin and tumor greatest cross section;
+additional representative tumor;
+B3
+B4-5
+B6
+upper inner quadrant;
+B7
+lower inner quadrant;
+B8
+outer lower quadrant;
+B9
+outer upper quadrant;
+B10
+B11
+B12
+B13
+one axillary tail lymph node bisected, entirely submitted;
+three axillary tail lymph nodes entirely submitted;
+three axillary tail lymph nodes entirely submitted;
+chest wall bone closest to tumor after decalcification.
+M.D.
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+Taken:

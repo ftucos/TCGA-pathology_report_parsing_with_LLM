@@ -1,0 +1,115 @@
+UUID:50782829-3586-4A61-A3CE-F105A31EDB42
+TCGA-A7-A13G-01A-PR
+Redacted
+ICD-0-3
+Carcinoma - Infiltrating Duct, Nos
+850013
+Site: breast, Nos C50.9
+Mu
+11/12/10
+SPECIMEN
+A. Left axillary sentinel node
+B. Left breast, silk suture on superior breast
+CLINICAL NOTES
+Left breast cancer.
+-year-old
+female with grade 1 IDC.
+PRE-OP DIAGNOSIS:
+CLINICAL HISTORY:
+POST-OP DIAGNOSIS: Left breast cancer.
+FROZEN SECTION DIAGNOSIS
+A. Lymph node negative for metastatic disease.
+GROSS DESCRIPTION
+A. Part A is received fresh for frozen section labeled
+"left axillary sentinel node". It consists of three
+portions of adipose tissue measuring 2.3 x 2.2 x 1 cm in aggregate.
+Within the fat a single fatty tan lymph node is found measuring 1.7
+x 0.6 x 0.4 cm. The node is bisected and all submitted in one
+block.
+B. Received fresh for tissue procurement labeled "left
+breast" is a 19.5 cm (medial to lateral) x 13.8 cm
+(superior to inferior) x 2 cm (anterior to posterior) diffusely
+cauterized soft, lobulated tan gold-white portion of fibroadipose
+tissue in keeping with breast designated as left per requisition
+slip and container and oriented by a single suture as stated
+previously. There is a 14.5 cm (medial to lateral) × 4.3 cm
+(superior to inferior) wrinkled white skin ellipse with diffuse
+red-purple ecchymosis and a central, slightly flattened, 1.7 x 1.7 x
+0.4 cm nipple along the anterior aspect. The intact deep margin is
+inked black and the specimen is sectioned. There is a moderately
+well circumscribed, 2.8 cm (medial to lateral) x 1.8 cm (superior to
+inferior) x 1.6 cm (anterior to posterior) rubbery tan-white lesion
+at the junction of the lower inner and outer quadrants. The lesion
+focally extends to within 0.6 cm of the inked deep margin and is 1
+cm from the anterior surface (subsequently inked blue). A few
+cylindrical firm tan-white structures in keeping with site of prior
+needle core biopsy are evident. A portion of tumor and a portion of
+normal breast are submitted for tissue procurement as requested.
+The cut surfaces throughout the remainder of the specimen consist
+predominantly of glistening lobulated golden yellow adipose tissue
+with a minimal amount of interspersed delicate tan-white fibrous
+tissue. No additional mass lesion or abnormality is identified.
+Representative sections are submitted in twelve blocks as labeled.
+RS-12.
+BLOCK SUMMARY: 1-3 Tumor to inked deep margin; 4 tumor to
+anterior surface; 5,6 tumor to adjacent parenchyma; 7 - random
+upper outer quadrant;
+8 - upper-inner quadrant; 9 lower inner quadrant; 10 - lower-outer
+quadrant; 11 - junction of the four quadrants; 12 - nipple.
+MICROSCOPIC DESCRIPTION
+A. This single lymph node is examined microscopically in
+its entirety and at multiple levels. It is negative for
+metastatic disease, 0/1.
+B. This simple mastectomy specimen contains a central,
+fairly well demarcated infiltrating low grade ductal
+carcinoma. No definite ductal carcinoma in situ is present.
+Invasive carcinoma:
+Histologic type: Infiltrating ductal carcinoma.
+Histologic grade: Well differentiated
+Overall grade: Elston SBR grade 1
+Architectural score: 1
+Nuclear score: 1-2
+Mitotic score: 1
+Greatest dimension (PT): The tumor measures 2.8 cm., pT2
+Specimen margins: Negative
+Vessel invasion: Negative
+Calcification: Present
+Nipple (Paget's): Negative for Paget's disease.
+Invasion of skin or chest wall:
+Negative.
+Description of non-tumorous breast: Fibrocystic changes are present
+including cysts, apocrine metaplasia, ductal hyperplasia,
+intraductal papillomatosis, rare focus of atypical ductal
+hyperplasia and rare focus of atypical lobular hyperplasia.
+fibroadenoma is also noted.
+A 1 cm.
+Lymph nodes: As per part A, a single lymph node is negative for
+metastatic disease. (pN0)
+Distant metastasis (PM): Cannot be assessed.
+Prognostic markers: Previously performed.
+14, 4x2
+DIAGNOSIS
+A.
+Left axillary sentinel node, excision
+negative for metastatic disease.
+Single lymph node
+B. Left breast, simple mastectomy - Breast with infiltrating ductal
+carcinoma, Elston SBR grade 1. Margins of resection, skin and
+nipple negative for tumor. Fibrocystic changes, rare
+atypical ductal hyperplasia and rare atypical lobular
+hyperplasia also present. A 1 cm. fibroadenoma is noted.
+DIAGNOSIS
+M.D. (Electronic Signature)
+Criteria
+Diagnosis Liscrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Dual Synchronous Phiary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED
+☐ EQUAL DE
+Ute Revieweds

@@ -1,0 +1,346 @@
+Clinical Diagnosis & History:
+female with invasive ductal carcinoma right breast.
+Specimens Submitted:
+1: SP: Sentinel node #1 level one right axilla (fs)
+2: SP: Sentinel node %232 level one right axilla (fs)
+3: SP: Right breast 
+tissue
+4: SP: Medial margin, right breast
+5: SP: Superior margin, right breast
+6: SP: 
+Inferior margin, right breast
+7: SP: Lateral margin, right breast
+8: SP: 
+Posterior margin, right breast
+Redacted
+DIAGNOSIS:
+Summary of findings in this case:
+Invasive lobular carcinoma spans 2.2 cm and does not involve the separately
+submitted margins.
+Sentinel lymph nodes: 1/2.
+Non-sentinel lymph nodes: 0
+Total lymph nodes: 1/2.
+Type of metastasis: ITC
+UUID:03C7A677-C223-47D6-869E-E6C3250B0C08
+TCGA-AO-A038-01A-PR
+1.
+LYMPH NODE SENTINEL #1, LEVEL I, RIGHT AXILLA; EXCISION:
+ONE 
+BENIGN LYMPH NODE (0/1).
+-ADDITIONAL H/E STAINED SECTIONS AND IMMUNOHISTOCHEMICAL STAINS FOR
+CYTOKERATINS 
+(AE1: AB3) SHOW NO EVIDENCE OF 
+METASTATIC TUMOR.
+2.
+LYMPH NODE, SENTINEL #2 LEVEL I RIGHT AXILLA; EXCISION:
+RARE CYTOKERATIN-POSITIVE CELLS (ABOUT 10 CELLS) ARE PRESENT IN 1 OF
+1 LYMPH 
+NODE(S). THESE CELLS ARE NOT IDENTIFIED 
+ON THE CORRESPONDING H/E
+STAINED SECTIONS OR IN THE FROZEN SECTION 
+SLIDE OR IN THE FROZEN SECTION
+CONTROL SLIDE.
+3.
+BREAST, RIGHT; EXCISION:
+INVASIVE LOBULAR CARCINOMA, CLASSICAL TYPE, MEASURING 2.2 CM IN
+LARGEST 
+DIMENSION MICROSCOPICALLY. A 
+NEGATIVE E-CADHERIN STAINING SUPPORTS
+THE MORPHOLOGIC IMPRESSION OF LOBULAR PHENOTYPE.
+EXTENSIVE LOBULAR CARCINOMA IN SITU (LCIS) IS ALSO IDENTIFIED.
+NO CALCIFICATIONS ARE IDENTIFIED IN EITHER THE INVASIVE OR IN SITU
+** Continued on next page **
+ICD-0-3
+carcinoma, infiltrating lobules, Nos 852013
+Site: breast, Nos
+C50.9
+le 10/22/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer Initials
+Yes
+No
+DISQUALIFIED
+QUALIFIED
+Date Reviewed:
+lw
+10/22/11
+Page 2 of 6
+COMPONENT.
+- NO VASCULAR INVASION IS NOTED.
+-
+- SURGICAL MARGINS (SEE PARTS 4-8).
+-
+THE NON-NEOPLASTIC BREAST TISSUE SHOWS BIOPSY SITE CHANGES.
+RESU me
+STAINS (HER2-NEU) ARE AS FOLLOWS:
+HER2
+Negative (1+)
+(1% of invasive tumor cells exhibit complete membranous staining;
+Uniformity of 
+staining: absent;
+Homogeneous, dark circumferential patto
+Comment: Controls are satisfactory.
+- zent)
+* PATHWAY anti-HER-2/neu is an
+FDA-approved rabbit monoclonal primary antibody (clone 4B5) directed against
+the internal domain of the c-
+erbB-2 oncoprotein (HER2) for
+immunohistochemical 
+detection of HER2 protein overexpression in breast
+cancer tissue routinely 
+processed for histologic evaluation. The HER2 test
+results are reported 
+in accordance with the ASCO/CAP guideline
+recommendations 
+for HER2 testing in breast cancer (J Clin Oncol 2007;
+25 (1):118-145).
+4.
+BREAST, RIGHT, MEDIAL MARGIN; EXCISION:
+BREAST TISSUE WITH LOBULAR CARCINOMA IN SITU (LCIS).
+5.
+BREAST, RIGHT, SUPERIOR MARGIN; EXCISION:
+BREAST TISSUE WITH LOBULAR CARCINOMA IN SITU (LCIS).
+6.
+BREAST, RIGHT, INFERIOR MARGIN; EXCISION:
+BREAST TISSUE WITH LOBULAR CARCINOMA IN SITU (LCIS).
+7.
+BREAST, RIGHT, LATERAL MARGIN; EXCISION:
+BREAST TISSUE WITH LOBULAR CARCINOMA IN SITU (LCIS).
+8.
+BREAST, RIGHT, POSTERIOR MARGIN, EXCISION:
+- BENIGN FIBROADIPOSE TISSUE AND SKELETAL MUSCLE.
+Some of the immunohistochemistry and ISH tests were developed and thaim
+performance 
+characteristics were determined by i
+They have not been cleared or approved by the US Food and Drug
+Administration. 
+The FDA has determined that such clearance or approval is
+not necessary. These 
+tests are used for clinical purposes. They should not
+be regarded as 
+investigational or for research. This laboratory is certified
+under the Clinical Laboratory 
+Improvement Amendments of 1988 (CLIA '
+qualified to 
+perform high complexity clinical laboratory testing.
+88) as
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/OR 
+OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+*** Report Electronically Signed Out
+Gross Description:
+** Continued on next page **
+Page 3 of 6
+1) The specimen is received fresh for frozen section consultation labeled
+"sentinel 
+node #1, level 1, right axilla" and consists of a single lymph
+node 
+measuring 0.4 cm in greatest dimension. The lymph node is bisected and
+entirely 
+submitted for frozen section consultation.
+Summary of sections:
+FSC-frozen section control
+2) The specimen is received fresh for frozen section consultation labeled
+"Sentinel 
+node #2, level 1, right axilla" and consists of a single lymph
+node 
+measuring 1.9 cm in greatest dimension, which is bisected and entirely
+submitted for frozen 
+section consultation.
+Summary of sections:
+FSC-frozen section control
+3) The specimen is received fresh, labeled "Right breast tissue" and
+consists of an unoriented, 7.2 x 5.5 x 3.3 cm, piece of fibrofatty breast
+tissue with a needle 
+localization wire. The company specimen radiograph
+displays the 
+needle localization wire in place and a Bar-clip located at
+coordinates: F,
+G-5,6. The specimen is entirely inked black. Serial
+sectioning 
+reveals the Bar-clip situated within a 2.3 x 2.3 x 2.1 cm, poorly
+defined, lobular 
+bordered, fatty infiltrating, pink-white mass with fine
+tan-yellow 
+reticulations, located 0.1 cm from the closest inked resection
+margin. Partially surrounding the mass is a 4.8 x 4.1 x 3.0 cm area of
+moderately dense, focally nodular, tan-white fibrous tissue which is
+separated by scant lobules of yellow-orange adipose. A representative
+section of the 
+tumor is submitted to TPS. Representative sections are
+submitted 
+for permanent.
+Summary of sections:
+MT
+FFT
+T
+-
+RS
+tumor and closest tissue edge
+full face of tumor
+tumor
+representative sections
+4) The specimen is received fresh, labeled "Medial margin, right breast" and
+consists of a piece 
+of fibrofatty breast tissue measuring 3.8 x 2.1 cm, and
+1.0 cm thick. A 
+clip marks the new margin of excision, which is inked black.
+The tissue is 
+serially sectioned and entirely submitted.
+Summary of sections:
+SS - sequential sections
+** Continued on next page **
+5) The specimen is received fresh, labeled "Superior margin, right breast"
+Page 4 of 6
+'and consists of a piece of 
+fibrofatty breast tissue measuring 3.0 x 2.5 cm,
+and 1.0 cm thick. A clip 
+marks the new margin of excision, which is inked
+black. The tissue is 
+serially sectioned and entirely submitted.
+Summary of sections:
+SS - sequential sections
+6) The specimen is received fresh, labeled "Inferior margin, right breast"
+and consists of a piece of 
+fibrofatty breast tissue measuring 2.8 x 1.7 cm,
+and 0.8 cm thick. A clip 
+marks the new margin of excision, which is inked
+black. The tissue is 
+serially sectioned and entirely submitted.
+Summary of sections:
+SS - sequential sections
+7) The specimen is received fresh, labeled "Lateral margin, right breast"
+and consists of a piece 
+of fibrofatty breast tissue measuring 5.1 x 2.1 cm,
+and 1.3 cm thick. A clip 
+marks the new margin of excision, which is inked
+black. The tissue is 
+serially sectioned and entirely submitted.
+Summary of sections:
+SS sequential sections
+8) The specimen is received fresh, labeled "Posterior margin, right breast"
+and consists of a piece of 
+fibrofatty breast tissue measuring 2.3 x 1.7 cm,
+and 0.5 cm thick. A 
+clip marks the new margin of excision, which is inked
+black. The tissue is 
+serially sectioned and entirely submitted.
+Summary of sections:
+SS
+-
+sequential sections
+Summary of Sections:
+Part 1:
+SP: Sentinel node #1 level one right axilla (fs)
+Block
+1
+Sect. Site
+fsc
+PCs
+1
+Part 2:
+Block
+1
+SP: Sentinel node #2 level one right axilla (fs)
+Sect. Site
+fsc
+PCs
+1
+Part 3:
+SP: Right breast tissue
+** Continued on next page
+**
+'Block
+Sect. Site
+PCs
+I'
+FFT
+1
+MT
+1
+3
+RS
+5
+4
+T
+4
+Part 4:
+Block
+5
+Part 5:
+Block
+6
+Part 6:
+Block
+3
+Part 7:
+Block
+6
+Part 8:
+Block
+2
+SP: Medial margin, right breast
+Sect. Site
+SS
+PCs
+8
+SP: Superior margin, right breast
+Sect. Site
+SS
+PCs
+8
+SP: Inferior margin, right breast
+Sect. Site
+SS
+PCS
+7
+SP: Lateral margin, right breast
+Sect. Site
+SS
+PCs
+12
+SP: Posterior margin, right breast
+Sect. Site
+SS
+PCS
+5
+1
+Page 5 of 6
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the 
+intraoperative consultation.
+1)
+FROZEN SECTIONNOSIS: SP: Sentinel node #231 level one right
+axilla (fs): 
+Benign
+1
+PERMANENT DIAGNOSIS: SAME
+2)
+axilla (fs):
+FROZEN SECTION DIAGNOSIS: SP: Sentinel node #32 level one right
+Benign
+PERMANENT DIAGNOSIS: SAMB
+Note: The diagnoses given in this section pertain only to the tissue sample
+examined at the time of the 
+intraoperative consultation.
+1)
+axilla (fs):
+PERMANENT DIAGNOSIS: SAMB
+FROZEN SECTION DIAGNOSIS: SP: Sentinel node #1 level one right
+Benign
+** Continued on next page **
+12)*
+Page 6 of 6
+FROZEN SECTION DIAGNOSIS: SP: Sentinel node #232 level one right
+Benign
+PERMANENT DIAGNOSIS: SAMB
+axilla (fs):
+** End of Report **

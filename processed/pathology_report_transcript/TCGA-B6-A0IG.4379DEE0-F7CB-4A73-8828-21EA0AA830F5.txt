@@ -1,0 +1,100 @@
+Fatient
+Surgical Pathology: Final
+Surg Path
+ICD-0-3
+Carcinoma, duct, Nos
+infiltrating 8500/3
+Path Site Code: breast, uppi mmew
+quadrant C50.2
+1/17/11
+2QCF
+breast, Nos C50.9
+ん
+CLINICAL HISTORY:
+Breast cancer.
+GROSS EXAMINATION:
+A. "Left breast and axilla", received fresh. The specimen is a 22.7 x 11.5 x
+2.5 cm mastectomy specimen. The overlying skin ellipse measures 17.0 x 11.0
+cm, and includes a 5.5 cm areola and 1.0 cm nipple. A well-healed 3.0 cm scar
+is noted just superior to the areola in the upper inner quadrant. The
+specimen includes an axillary tail which measures 11.0 cm x 7.0 cm. The
+margins of the specimen are inked in blue, and the specimen is serially
+sectioned to reveal a 3.5 x 3.5 x 3.0 cm tumor in the upper inner quadrant,
+extending medially to the upper outer quadrant. The tumor is firm,
+tannish-white, with a gritty consistency. It appears to be infiltrating
+adjacent tissue. Tissue has been sent for estrogen and progesterone receptor
+assays. The tumor approaches to 1 cm of the deep margin. It approaches to
+1.0 cm to the lateral margins. The remainder of the breast tissue is composed
+of lobular adipose tissue intermixed with reddish pink fibrous tissue. There
+is an area of dense white fibrous breast tissue in the upper outer quadrant.
+The axillary tail measures 13.5 x 8.0 cm. It is composed of yellow lobular
+adipose tissue. Several nodes are identified grossly. A 3.1 x 1.0 cm node is
+sectioned to reveal a firm 2.0 x 1.0 cm tan-white mass.
+amputated, divided into three sections and searched for
+submitted as described below.
+Block Summary:
+Al- section of skin through nipple and areola.
+A2- section of breast through overlying skin with scar.
+A3- section of deep margin of tumor.
+A4- section of deep margin of tumor.
+A5- section of lateral margin of tumor.
+A6- section of tumor.
+A7- section of tumor.
+A8- section of tumor, with possible biopsy cavity.
+A9- tissue from the upper inner quadrant.
+A10- tissue from the lower inner quadrant.
+All- tissue from lower outer quadrant.
+A12- tissue from upper outer quadrant.
+A13-one grossly positive lymph node, section I.
+A14-one lymph node, sectioned, section I.
+A15- six lymph nodes, section II.
+A16- three lymph nodes, section II.
+A17- one lymph node sectioned, section II.
+A18- three lymph nodes, section III.
+A19- one lymph node, sectioned, section III.
+A20- three lymph nodes, section III.
+The axillary tail is
+lymph nodes which are
+UUID:4379DEE0-F7CB-4A73-8828-21EA0AA830F5
+TCGA-B6-A0IG-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tume: Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy Histo. y
+Dual,'Synchronous Priria Noted
+Case is (circle):
+Reviewer Initials
+KM
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+12
+MICROSCOPIC EXAMINATION:
+The previous biopsy site is located in the center of a large tumor mass
+consisting of infiltrating ductal carcinoma. Positive lymph nodes are
+identified in the axillary tail in the following distribution: low axillary
+tail, 2/2 (one macroscopically positive with extracapsular extension); mid
+axillary tail, 2/8; high axillary tail, 0/6.
+DIAGNOSIS:
+A. "LEFT BREAST AND AXILLA"; MODIFIED RADICAL MASTECTOMY:
+1. RESIDUAL INFILTRATING DUCTAL CARCINOMA, NSABP NUCLEAR GRADE 2/3,
+eBrowser Result for
+1 of 2
+HISTOLOGIC GRADE 3/3.
+2. RESIDUAL TUMOR SIZE 3.5 X 3.5 X 3.0 CM.
+3. FOCAL DUCTAL CARCINOMA IN SITU, COMEDO TYPE.
+4. FOCAL VASCULAR INVASION IS IDENTIFIED.
+5. NIPPLE, NO PAGET'S DISEASE IDENTIFIED.
+6. SKIN WITH HEALING SCAR. NO DERMAL LYMPHATIC INVASION IDENTIFIED.
+7. ALL SURGICAL MARGINS ARE FREE OF TUMOR.
+8. REMAINING BREAST WITH PAPILLARY APOCRINE METAPLASIA, CYSTIC CHANGE, AND
+INTER- AND INTRALOBULAR FIBROSIS.
+9. METASTATIC ADENOCARCINOMA INVOLVING 4 OF 16 TOTAL AXILLARY LYMPH NODES.
+ONE LYMPH NODE IN THE LOW AXILLA IS MACROSCOPICALLY POSITIVE AND
+EXHIBITS EXTRACAPSULAR INVASION BY TUMOR.
+Verified by:
+2 of 2

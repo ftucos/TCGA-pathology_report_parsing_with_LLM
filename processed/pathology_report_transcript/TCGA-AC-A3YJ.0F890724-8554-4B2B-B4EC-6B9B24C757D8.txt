@@ -1,0 +1,83 @@
+DIAGNOSIS:
+Sex:
+D.O.B..
+MRN #:
+Ref Phymal
+Collected:
+Received:
+Reported:
+UUID:0F890724-8554-4B2B-B4EC-689824C757D8
+TCGA-AC-A3Y]-01A-PR
+Redacted
+SPECIME
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+A. Right sentinel lymph nodes, one lymph node:
+No evidence of metastatic carcinoma.
+Confirms frozen section diagnosis and confirmed by negative staining for pancytokeratin.
+B. Right breast mastectomy:
+Multiple areas of invasive papillary carcinoma.
+Largest area size 3 cm.
+Architectural score: 1 of 3.
+Nuclear score: 2 of 3.
+Mitotic score: 1 of 3.
+Total score: 4 of 9 * grade 1.
+ICD-03
+carcinoma, papillary, Nos
+805013
+Sik: breast, Nos (50.9 6-6-12 RD
+Additional areas of in situ and invasive papillary carcinoma located in other quadrants of the breast.
+The largest area of confluent carcinoma measures 0.8 cm.
+No evidence of skin of nipple involvement.
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Overlying skin contains a large seborrheic keratosis.
+Deep margin of excision is free of carcinoma.
+TNM: T2pN0(1-)MX.
+Electronic Signature:
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cile):
+teviewer initials
+QUALIFIED
+_Date Reviewed!
+DISQUALIFIED
+CLINICAL HISTORY:
+CLINICAL INFORMATION
+Preoperative Diagnosis: Right modified radical mastectomy with sentinel node mapping with frozen section. Adenocarcinoma, with papillary subtype.
+(Papillary carcinoma)
+ER positive, PR positive.
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Sentinel node right, count 4600 with frozen section
+B. Right breast tissue 1453 grams
+SPECIMEN DATA
+GROSS DESCRIPTION:
+The specimen is received in two containers labeled with the patient's name +
+A. Container A is received fresh for frozen section, additionally labeled 'right sentinel node' and contains a 2.5 x 2.0 x 1.0 cm aggregate of yellow-tan
+fibrofatty soft tissue. On palpation, a 1.3 cm firm fatty nodule is identified consistent with possible lymph node. The nodule is bisected and entirely
+submitted for frozen section. The residual is entirely resubmitted for permanent section in cassette A labeled
+B. Container B is received with formalin additionally labeled 'right breast tissue' and consists of a 1439.4 gram, 27.5 x 19.0 x 6.5 cm simple mastectomy
+specimen partially surfaced by pink-tan wrinkled skin which bears a central 1.5 x 1.0 x 0.2 cm slightly raised nipple. Orientation is not offered or possible.
+Located 0.7 cm from the skin edge and 7.8 cm from the nipple is a 1.3 x 0.8 x 0.5 cm gray-brown raised skin lesion. Additional skin lesions are not
+identified. The deep margin is inked and the specimen is serially sectioned to reveal a 2.8 x 1.5 x 1.0 cm cystic lesion containing pink-tan friable soft
+tissue, along with a radiographic clip. This lesion resides 4.5 cm from the skin surface and 2.2 cm from the inked deep margin. Multiple additional pink-
+tan rubbery lesions are identified diffusely scattered throughout the specimen and involve all four quadrants. The largest of these remaining lesions is
+3.0 x 1.8 x 1.8 cm and approaches to within 0.4 cm of the inked deep margin. The uninvolved areas are comprised of yellow-tan adipose tissue admixed
+with moderate amounts of interspersed gray-white fibrous tissue. Discrete axillary tail is not present, however, five firm fatty possible lymph nodes are
+identified along one edge of the specimen. These possible lymph nodes range from 1.0 up to 1.4 cm in greatest dimension.
+Also received in the same container are two portions of pink-tan wrinkled skin with yellow-tan subcutaneous fibroadipose tissue. These tissues are 8.0 x
+2.0 x 1.3 cm and 16.0 x 3.0 x 2.0 cm. The cut surfaces are yellow-tan fibrofatty with no discrete lesions. Representative sections are submitted in
+cassettes B1 through 13 labeled
+esignated as follows: 1, nipple; 2, skin lesion, entirely; 3 and 4, radiographically located lesion; 5 and 6,
+largest additional lesion to inked deep margin, perpendicular; 7 through 10, additional representative lesions from all four quadrants; 11, two whole
+possible lymph nodes; 12, two whole possible bisected lymph nodes (one inked): 13. one whole possible bisected lymph node. Additionally, a yellow,
+green and blue cassette are submitted for genomics research each labeled
+INIMA-OPERATIVE CONSULTATION:
+FROZEN SECTION DIAGNOSIS: Part A: No neoplasm identified (0/1) per Dr.
+6/5/12

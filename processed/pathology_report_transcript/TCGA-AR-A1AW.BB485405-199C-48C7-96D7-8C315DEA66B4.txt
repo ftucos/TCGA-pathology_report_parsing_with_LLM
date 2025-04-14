@@ -1,0 +1,33 @@
+Path
+ICD-0-3
+Carcinoma, infiltrating duct, Nos 8500/3
+Site Code: breast, upper inner quadrent C50.2
+CQCF Site: brust, Nos c50.9
+12/21/10
+Final Diagnosis
+Breast, left upper inner quadrant, lumpectomy: Infiltrating ductal carcinoma, with medullary like
+features, Nottingham grade III (of III), [tubules 3/3, nuclei 3/3, mitoses 2/3; Nottingham score
+8/9], forming a 2.7 x 2.5 x 2.0 cm yellow-tan, somewhat circumscribed, sclerotic mass
+[AJCCpT2]. Ductal carcinoma in situ is absent. Angiolymphatic invasion is absent. All surgical
+resection margins, after re-excision of the deep and medial inferior margins, are negative for
+tumor (minimum tumor free margin, 0.8 cm, deep margin).
+Lymph node, left axillary, sentinel biopsy: A single (1) left axillary sentinel lymph node is
+negative for tumor, confirmed by cytokeratin (AE1/AE3) immunostains.
+ER/PR and Her2/neu have been ordered on paraffin-embedded tissue.
+UUID:88485405-1990-48C7-9607-8C315DEA66B4
+TCGA-AR-A1AW-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Duai/Synchronous Primary Noled
+HTALIFIED
+Case is (circle):
+Reviewer Initials
+Yes
+No
+☑
+DISQUALIFIED
+Catw Reviewed:12 12.10.

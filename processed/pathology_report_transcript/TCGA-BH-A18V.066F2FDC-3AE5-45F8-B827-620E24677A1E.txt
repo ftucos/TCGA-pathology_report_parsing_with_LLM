@@ -1,0 +1,76 @@
+ADDENDA:
+Addendum
+Collection Date:
+As requested, ER, PR, and Her2/Neu studies are performed.
+UUID:866F2FDC-3AE5-45F8-B827-620E24677A1E
+TCGA-BH-A18V-06A-PR
+Redacted
+ESTROGEN/PROGESTERONE AND HER-2/NEU REPORT
+Using appropriate positive and negative controls, the test for the presence of these hormone receptor proteins is
+performed by the Immunoperoxidase method, and reported according to the NIH consensus statement on adjuvant
+therapy for breast cancer, of
+A positive ER or PR tumor shows any nuclear immunostaining
+, 
+and is
+semiquantitated as indicated below.
+Result
+Semiquantitative Statement
+ER NEGATIVE Percent cells staining as: (0 100%; 1+ 0%, 2+ 0%, 3+ 0%)
+PR NEGATIVE Percent cells staining as: (0 100%, 1+ 0%, 2+ 0%, 3+ 0%)
+HER-2/NEU DAKO HERCEPTEST: NO STAINING IS OBSERVED OR MEMBRANE STAINING IS OBSERVED IN LESS THAN
+10% OF THE TUMOR CELLS. HER-2/NEU IS INTERPRETED AS NEGATIVE (SCORE 0).
+The Her-2/neu and estrogen/progesterone receptor assays were performed with FDA approved (IVD) methods.
+Comment
+Note that the original breast tumor was negative for ER, PR and Her2/Neu as well.
+FINAL DIAGNOSIS:
+MASS, RIGHT GROIN, EXCISION –
+LYMPH NODE POSITIVE FOR METASTATIC POORLY DIFFERENTIATED CARCINOMA (1/1)(see comment).
+COMMENT:
+Slides from the patient's previous breast carcinoma,*
+¨, were reviewed. Morphologically, the current poorly
+differentiated carcinoma does resemble the patient's prior breast carcinoma. The following Immunostains were
+performed and reported as follows:
+CD45 negative
+PLAP
+-
+negative
+$100 negative
+Melan A
+-
+HMB-45
+CK7
+-
+-
+negative
+negative
+positive
+CK20 negative
+GCDFP (current specimen) - negative.
+GCDFP (previous breast carcinoma, block A8) – scattered weak positive
+The previous Immunostaining pattern is essentially non-contributory to confirming the origin. CK7 positivity combined
+with the negative stain results confirms the neoplasm as a poorly differentiated carcinoma as opposed to a lymphoma or
+melanoma. The negative GCDFP does not exclude the breast as the primary.
+ICD-0-3
+Per original path on tumor specimer:
+carcinoma infiltrating duct. Nos 8500/3
+Site: lymph node, groin €77.4
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+leviewer Initials
+RUALIFIED
+my
+Date Reviewed.
+Yes
+No
+DISQUALIFIED
+Аб пратит
+兼
+✗
+سل
+11/9/11
+}
