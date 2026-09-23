@@ -1,0 +1,401 @@
+Page 1 of 6
+UUID:71F04D3B-0CA3-4CB3-9E94-E082F37C4097
+TCGA-XF-A9T2-01A-PR
+Redacted
+DIAGNOSIS:
+RADICAL CYSTECTOMY, BILATERAL PELVIC LYMPH NODES DISSECTION
+RIGHT DISTAL URETER (A):
+FROZEN SECTION DIAGNOSIS:
+-
+NEGATIVE
+FINAL DIAGNOSIS:
+-
+BENIGN URETER
+NO DYSPLASIA OR CARCINOMA IDENTIFIED
+LEFT DISTAL URETER (B):
+FROZEN SECTION DIAGNOSIS:
+-
+FOCAL HIGH GRADE DYSPLASIA
+FINAL DIAGNOSIS:
+BENIGN URETER ON PERMANENT SECTION
+NO DYSPLASIA OR CARCINOMA IDENTIFIED
+MARGIN #2, LEFT URETER (C):
+FROZEN SECTION DIAGNOSIS:
+NEGATIVE
+FINAL DIAGNOSIS:
+-
+BENIGN URETER
+NO DYSPLASIA OR CARCINOMA IDENTIFIED
+APICAL URETHRAL MARGIN F/S:
+INTRAOPERATIVE FROZEN SECTION DIAGNOSIS:
+NEGATIVE
+FINAL DIAGNOSIS:
+- BENIGN URETHRAL MUCOSA
+-
+ICD 0.3
+ли
+Carcinoma, urothelial NOS
+OLLE
+812013
+Dite at Bladder NOS 267.9
+NO HIGH GRADE DYSPLASIA OR CARCINOMA IDENTIFIED
+BLADDER/PROSTATE (E):
+INTRAOPERATIVE GROSS DIAGNOSIS:
+-
+path
+A ladder, lateral wall 7.2
+J 3/26/14
+TUMOR IDENTIFIED IN LEFT BLADDER WALL INFILTRATING THROUGH MUSCULAR
+PROPRIA TO THE PERIVESICAL SOFT TISSUE
+FINAL DIAGNOSIS:
+BLADDER:
+POORLY DIFFERENTIATED UROTHELIAL CARCINOMA, NUCLEAR GRADE 4/4,
+INFILTRATING THROUGH THE MUSCULARIS PROPRIA INTO PERIVESICAL
+FAT, BUT NOT AT THE INKED MARGINS (SEE COMMENT)
+LYMPHOVASCULAR INVASION IDENTIFIED
+NO UROTHELIAL CARCINOMA IN SITU (FLAT LESION IDENTIFIED) IDENTIFIED
+ALL SURGICAL MARGINS FREE OF MALIGNANCY
+PROSTATE:
+BILATERAL PROSTATIC ADENOCARCINOMA, GLEASON'S SCORE 6 (3+3)
+CONFINED TO THE PROSTATE WITH FOCAL ABUTTING AT THE RIGHT APICAL
+MARGIN (<2%)
+THE REMAINING APICAL AND PERIPHERAL PROSTATIC MARGINS, FREE OF
+MALIGNANCY
+BILATERAL SEMINAL VESICLES AND VASA DIFFERENTIA, FREE OF
+MALIGNANCY
+-
+MULTIFOCAL HIGH GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN II-III)
+PROSTATIC ATROPHY WITH FOCAL CHRONIC INFLAMMATION IDENTIFIED
+RIGHT PARACAVAL LYMPH NODES (F):
+- NO METASTATIC CARCINOMA IDENTIFIED IN 15 LYMPH NODES EXAMINED (0/15)
+RIGHT COMMON ILIAC LYMPH NODES (G):
+Page 2 of 6
+Ordered by
+NO METASTATIC CARCINOMA IDENTIFIED IN SEVEN LYMPH NODES EXAMINED (0/7)
+RIGHT PRESACRAL LYMPH NODES (H):
+NO METASTATIC CARCINOMA IDENTIFIED IN FOUR LYMPH NODES EXAMINED (0/4)
+RIGHT LYMPH NODES OF CLOQUET (I):
+NO METASTATIC CARCINOMA IDENTIFIED IN THREE LYMPH NODES EXAMINED (0/3)
+RIGHT EXTERNAL ILIAC LYMPH NODES (J):
+NO METASTATIC CARCINOMA IDENTIFIED IN 18 LYMPH NODES (0/18)
+RIGHT OBTURATOR/HYPOGASTRIC LYMPH NODES (K):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN SEVEN LYMPH NODES EXAMINED (0/7)
+LEFT PARA AORTIC LYMPH NODES (L):
+NO METASTATIC CARCINOMA IDENTIFIED IN NINE LYMPH NODES EXAMINED (0/9)
+LEFT COMMON ILIAC LYMPH NODES (M):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN 19 LYMPH NODES EXAMINED (0/19)
+LEFT LYMPH NODES OF CLOQUET (N):
+NO METASTATIC CARCINOMA IDENTIFIED IN FIVE LYMPH NODES EXAMINED (0/5)
+LEFT EXTERNAL ILIAC LYMPH NODES (0):
+NO METASTATIC CARCINOMA IDENTIFIED IN 22 LYMPH NODES EXAMINED (0/22)
+LEFT OBTURATOR/HYPOGASTRIC LYMPH NODES (P):
+NO METASTATIC CARCINOMA IDENTIFIED IN 18 LYMPH NODES EXAMINED (0/18)
+LEFT PRE SCIATIC LYMPH NODES (Q):
+NO METASTATIC CARCINOMA IDENTIFIED IN NINE LYMPH NODES EXAMINED (0/9)
+RIGHT PRE SCIATIC LYMPH NODES (R):
+- NO METASTATIC CARCINOMA IDENTIFIED IN FIVE LYMPH NODES EXAMINED (0/5)
+LEFT PROXIMAL URETER (S):
+-
+BENIGN URETER
+NO DYSPLASIA OR CARCINOMA IDENTIFIED
+RIGHT PROXIMAL URETER (T):
+-
+BENIGN URETER
+NO DYSPLASIA OR CARCINOMA IDENTIFIED
+TOTAL LYMPH NODES:
+NO METASTATIC CARCINOMA IDENTIFIED IN 141 LYMPH NODES EXAMINED (0/141)
+AJCC PATHOLOGIC STAGE (5TH EDITION):
+T3bN0MX
+COMMENT:
+Immunohistochemical studies for chromogranin and synaptophysin are negative, which
+indicates there is no neuroendocrine differentiation of the bladder carcinoma. The
+case was discussed with
+SPECIMEN SOURCE:
+A:
+B:
+C:
+D:
+"Right distal ureter"
+"Lt. distal ureter"
+"Margin #2 left ureter"
+"Apical urethral margin-f/s"
+"Bladder/prostate"
+"Rt. para caval L.N."
+"Rt. common iliac L.N."
+"Pre sacral L.N."
+"Rt. external iliac L.N."
+"Rt. obturator/hypogastric L.N."
+"Left para aortic L.N."
+E:
+F:
+G:
+H:
+I:
+"Rt. L.N. of cloquet"
+J:
+K:
+L:
+M:
+N:
+"Lt. L.N. of cloquet"
+0:
+P:
+Q:
+R:
+"Rt. pre sciatic L.N."
+S:
+"Lt. proximal ureter"
+T:
+"Rt. proximal ureter"
+"Lt. common iliac L.N."
+"Lt. external iliac L.N."
+"Lt. obturator/hypogastric L.N."
+"Lt. pre sciatic L.N."
+Page 3 of 6
+CLINICAL INFORMATION:
+Pre-op Dx:
+Post-op Dx:
+Invasive bladder cancer
+Same
+GROSS EXAMINATION:
+A:
+The specimen is received fresh from the O.R. and labeled "Right distal
+ureter". It consists of a segment of ureter measuring 0.2 cm in length x 0.3 cm in
+diameter. The specimen is entirely submitted for frozen section in AFS.
+B:
+The specimen is received fresh from the O.R. and labeled "Lt. distal ureter".
+It consists of a segment of ureter measuring 0.2 cm in length x 0.3 cm in diameter.
+The specimen is entirely submitted for frozen section in BFS.
+C:
+The specimen is received fresh from the O.R. and labeled "Margin #2 left
+ureter". It consists of a segment of ureter measuring 1 cm in length x 0.4 cm in
+diameter. The specimen is oriented by the surgeon and the club is both at the
+distal end. The distal end is kept for permanent and the proximal margin is
+submitted for frozen section in CFS, and the remaining tissue is submitted in one
+cassette.
+D: The specimen is received fresh from the O.R. and labeled "Apical urethral
+margin-f/s". It consists of red-tan soft tissue fragment measuring 2.5 × 0.5 x 0.2
+cm. The specimen is entirely submitted for frozen section in DFS.
+E:
+The specimen is received fresh from the O.R. and labeled "Bladder/prostate".
+It consists of a radical prostatectomy specimen weighing 422 grams and measuring
+overall 25 x 12 x 6 cm. The peritoneum measures 19 x 15 x 0.1 cm. It is
+yellow-pink smooth glistening and unremarkable. The prostate and the lower bladder
+are entirely inked black. Red ink is superimposed on the right side of prostate.
+The prostate measures 5.5 x 4.5 x 4 cm. Opening the prostate anteriorly reveals
+the prostatic urethra to measure 4 cm in length x 3 cm in circumference without
+excavation. The verumontanum measures 0.7 x 0.5 x 0.3 cm and is unremarkable.
+bladder itself measures 6 x 5 x 4 cm. Opening the bladder anteriorly shows an
+exophytic tumor on the left lateral wall which measures 5.5 x 5 x 4 cm. The tumor
+extends grossly through the muscle and abut the inked peritoneal margin. The tumor
+comes within 0.2 cm from the left ureterovesical junction. The attached right
+The
+Page 4 of 6
+Collected:
+Ordered by
+ureter measures 5 cm in length x 0.5 cm in diameter with normal appearing mucosa.
+The attached left ureter measures 4 cm in length x 0.5 cm in diameter with normal
+appearing mucosa. The right seminal vesicle measures 3 x 2 x 0.5, and the left
+seminal vesicle measure 2.5 x 2 x 0.7 cm and are grossly unremarkable. The right
+vas deferens measures 3 cm in length x 0.5 cm in diameter and the left vas deferens
+measures 3.5 cm in length x 0.5 cm in diameter, and are grossly unremarkable.
+Representative sections are submitted in 34 cassettes.
+F: The specimen is received in formalin and labeled "Rt. para caval L.N.". It
+consists of an aggregate of yellow fatty tissue with probable lymph nodes measuring
+3. x 2.5 x 0.5 cm. The specimen is entirely submitted in two cassettes.
+G: The specimen is received in formalin and labeled "Rt. common iliac L.N.", It
+consists of an aggregate of fibrofatty tissue measuring in aggregate 3.5 x 2.5 x 1
+cm. The specimen is entirely submitted in three cassettes.
+H:
+The specimen is received in formalin and labeled "Pre sacral L.N.". It
+consists of fibro tissue fragment measuring 4 × 3 × 2 cm. The specimen is
+entirely submitted in three cassettes.
+I:
+The specimen is received in formalin and labeled "Rt. L.N. of cloquet".
+consists of lymph node with surrounding fat measuring 1.5 x 1 x 0.5 cm. The
+specimen is bisected and entirely submitted in one cassette.
+J:
+It
+The specimen is received in formalin and labeled "Rt. external iliac L.N.". It
+consists of multiple fragments of yellow fatty tissue with lymph nodes measuring in
+aggregate 6.5 x 3.8 x 2.1 cm. The specimen is entirely submitted in six cassettes.
+K: The specimen is received in formalin and labeled "Rt. obturator/hypogastric
+L.N.". It consists of multiple fragments of yellow fatty tissue with lymph nodes
+measuring in aggregate 7 x 5.5 x 2.5 cm. The specimen is entirely submitted in
+seven cassettes.
+น:
+The specimen is received in formalin and labeled "Left para aortic L.N.". It
+consists of multiple fragments of yellow fatty tissue with lymph nodes measuring in
+aggregate 4.5 x 3.5 x 1.5 cm. The specimen is entirely submitted in three
+cassettes.
+M:
+The specimen is received in formalin and labeled "Lt. common iliac L.N.". It
+consists of multiple fragments of yellow fatty tissue with lymph nodes measuring in
+aggregate 6.5 x 4 x 2.5 cm. The specimen is entirely submitted in six cassettes.
+N; The specimen is received in formalin and labeled "Lt. L.N. of cloquet". It
+consists of one lymph node measuring 2 x 1.5 x 1 cm. The lymph node is serially
+sectioned and entirely submitted in two cassettes.
+0: The specimen is received in formalin and labeled "Lt. external iliac L.N.". It
+consists of multiple fragments of yellow fatty tissue with lymph nodes measuring in
+aggregate 6.5 x 4 × 2 cm. The specimen is entirely submitted in six cassettes.
+P:
+The specimen is received in formalin and labeled "Lt. obturator/hypogastric
+L.N.". It consists of multiple fragments of yellow fatty tissue with lymph nodes
+measuring in aggregate 8 × 6 × 3 cm. The specimen is entirely submitted in eight
+cassettes.
+Q: The specimen is received in formalin and labeled "Lt. pre sciatic L.N.". It
+consists of multiple fragments of yellow fatty tissue measuring in aggregate 1.5 x
+1 x 0.5 cm. The specimen is entirely submitted in one cassette.
+R: The specimen is received in formalin and labeled "Rt. pre sciatic L.N.". It
+Page 5 of 6
+Collected
+Ordered by
+consists of multiple fragments of yellow fatty tissue measuring in aggregate 2.5 x
+2 x 1 cm. The specimen is entirely submitted in two cassettes.
+S: The specimen is received in formalin and labeled "Lt. proximal ureter". It
+consists of a segment of ureter measuring 1 cm in length x 0.5 cm in diameter.
+specimen is serially sectioned and entirely submitted in one cassette.
+T: The specimen is received in formalin and labeled "Rt. proximal ureter". It
+consists of a segment of ureter measuring 0.6 cm in length x 0.5 cm in diameter.
+The specimen is serially sectioned and totally submitted in one cassette.
+SECTIONS:
+frozen section, right distal ureter
+frozen section, left distal ureter
+frozen section, margin # 2 left ureter; proximal margin
+remaining tissue
+apical urethral margin
+consecutive section of tumor
+tumor with deep inked margin
+tumor with left ureterovesical junction
+AFS:
+BFS:
+CFS:
+C1:
+DFS:
+E1, 2:
+E3:
+E4:
+E5-7:
+EB-9:
+E10:
+E11:
+E12:
+E13:
+E14:
+E15:
+E16:
+E17, 18:
+E19, 20:
+E21:
+E22:
+E23:
+E24:
+E25:
+E26:
+E27:
+E28:
+E29:
+E30:
+E31:
+junction
+E32:
+E33:
+E34:
+F1-2:
+G1-3:
+H1 3:
+I:
+J1-6:
+K1-7:
+L1-3:
+M1-6:
+N1, 2:
+01-6:
+P1-6:
+Q:
+R1,
+2:
+S:
+tumor with deep inked margin
+consecutive section of tumor
+tumor with deep inked margin
+representative section of left anterior wall
+representative section of dome
+representative section of right anterior wall
+representative section of posterior wall
+right ureterovesical junction
+representative section of trigone
+right apex of prostate
+left apex of prostate
+right anterior distal prostate
+right posterior distal prostate
+left distal prostate
+right anterior mid prostate
+right posterior mid prostate
+left anterior mid prostate
+left posterior mid prostate
+right anterior proximal prostate
+right posterior proximal prostate
+left anterior proximal prostate
+The
+left posterior proximal prostate with left seminal vesicle and prostate
+right seminal vesicle and right vas deferens
+left seminal vesicle and left vas deferens
+fat for probable lymph node
+right para caval lymph node
+right common iliac lymph node
+pre sacral lymph node
+right lymph node of Cloquet, bisected
+right external iliac lymph node
+right obturator/hypogastric lymph node
+left para aortic lymph node
+left common iliac lymph node
+left lymph node of Cloquet
+left external iliac lymph node
+left obturator/hypogastric lymph node
+left pre sciatic lymph node
+right pre sciatic lymph node
+left proximal ureter
+T:
+right proximal ureter
+INTRAOPERATIVE FROZEN CONSULTATION:
+AFS:
+BFS:
+CFS:
+DFS:
+Right distal ureter
+negative
+Left distal ureter
+focal high-grade dysplasia
+Margin #2 left ureter
+negative
+Apical urethral margin
+negative
+INTRAOPERATIVE GROSS CONSULTATION
+Bladder (E):
+tumor identified which involves the muscle and abuts the inked margin
+MICROSCOPIC EXAMINATION:
+A-T.
+See final microscopic diagnosis.
+Page 6 of 6
+Criteria
+/ 3/10/14
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+BICAT
+QUALIFIED
+Prostate
+bloddy
+Prostate
+Date Reviewed:
+Yes
+DISQUALIFIED
+17/2014
+No

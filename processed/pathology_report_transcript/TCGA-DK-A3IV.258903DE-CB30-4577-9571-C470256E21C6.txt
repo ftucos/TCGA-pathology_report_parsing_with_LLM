@@ -1,0 +1,79 @@
+UUID:258903DE-CB30-4577-9571-C470256E21C6
+TCGA-DK-A3IV-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Patient Name:
+Accession #:
+Date of Procedure:
+Med. Rec. #:
+DOB: (Age:
+Gender:
+M
+Location:
+Service:
+Date of Receipt:
+Urology
+Date of Report:
+Ref. Physician:
+Patient Address:
+Account #:
+Billing Type:
+Additional Copy to:
+OUTPATIENT
+Ref. Source:
+Clinical Diagnosis & History:
+Bladder mass
+Specimens Submitted:
+1: Left lateral and anterior wall bladder tumor
+DIAGNOSIS:
+1. Left lateral and anterior wall bladder tumor:
+Invasive urothelial carcinoma, NOS, with focal squamous differentiation
+Tumor Type:
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+Flat (in situ carcinoma)
+Local Invasion:
+Muscularis propria
+Vascular Invasion:
+Not identified
+Path
+ICD-0-3
+0679
+carcinoma, urothelial, Nus 8/20/3
+Site: bladder, wall. Nus
+CQCF: bladder, wall, lateral c67.2
+W 12/7/11
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+***
+Report Electronically Signed Out
+***
+Gross Description:
+1) The specimen is received in Hank's solution, labelled "Left lateral and anterior wall bladder tumor" and consists of multiple
+pieces of irregular tan-brown soft tissue fragments measuring 1.3 X 1.1 X 0.6 cm in aggregate. The specimen is entirely submitted
+in two cassettes. TPS submitted.
+Summary of Sections:
+Part 1: Left lateral and anterior wall bladder tumor
+Block
+2
+Sect. Site
+{not entered}
+PCs
+12
+Page 1 of 1
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+ier Malignancy History
+Sual/Cynchronous Primary dated
+Case is (circle):
+Reviewer Initia's,
+QUALIFIED
+DISQUALIFIED
+☐ Date Reviewed: 177141
+tw 12/2/11
+END OF REPORT

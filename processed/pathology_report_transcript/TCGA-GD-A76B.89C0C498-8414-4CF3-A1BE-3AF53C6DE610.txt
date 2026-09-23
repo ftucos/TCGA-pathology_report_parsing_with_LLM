@@ -1,0 +1,236 @@
+UUID:89C0C498-8414-4CF3-A1BE-3AF53C6DE610
+TCGA-GD-A76B-01A-PR
+Redacted
+ICD-O-3
+Carcinoma, urothelial NOS
+Site
+выск
+812013
+Bladder NOS C67.9
+pata
+Bladder, overlapping leatin
+Carterior/posterior walls)
+8238/22/13
+C67.8
+Operative Procedure:
+Radical cystectomy with urinary diversion, ileal loop.
+Pre-Operative Diagnosis:
+Bladder CA
+Specimen Received:
+A: Right distal ureter (FS)
+B: Left distal ureter (FS)
+C: Right ovary
+D: Bladder, fallopian tube, vagina and left ovary
+E: Right lower pelvic lymph nodes
+F: Left upper pelvic lymph nodes
+G: Left lower pelvic lymph nodes
+Final Pathologic Diagnosis:
+A. Ureter, right distal, biopsy for frozen section diagnosis:
+Segment of ureter, negative for malignancy
+Frozen section diagnosis confirmed
+B. Ureter, left distal, biopsy for frozen section diagnosis:
+Segment of ureter, negative for malignancy
+Frozen section diagnosis confirmed
+C. Ovary and fallopian tube, right, salpingoophorectomy:
+Ovary with no significant pathologic change
+Fallopian tube with Walthard cell rests
+D. Urinary bladder, radical cystectomy:
+Tumor histologic type:
+Variant histology (%):
+Tumor size:
+Urothelial carcinoma
+Not identified
+2.4 x 1.2 cm (largest anterior wall mass
+3.3 cm
+Additional dimensions:
+predominantly papillary)
+Grade (WHO 2004):
+High
+Tumor configuration:
+Papillary (anterior wall mass) and focal residual
+invasive carcinoma (posterior wall mass)
+Associated epithelial lesions:
+Microscopic tumor extension:
+(see Note)
+Urothelial dysplasia
+Tumor focally invades deep muscularis propria
+Lymph-vascular invasion:
+Not identified
+Margins
+Urethral:
+Free of neoplasm
+Ureteral:
+Free of neoplasm (frozen section diagnoses
+confirmed)
+Paravesical soft tissue:
+Other (specify):
+Free of neoplasm
+Not applicable
+Pseudosarcomatous myofibroblastic
+Additional pathologic findings:
+proliferation, consistent with previous transurethral
+resection site reaction involving posterior wall with focal residual invasive
+carcinoma
+Grossly inconspicuous microscopic focus of invasive
+urothelial carcinoma involving the
+right lateral
+wall
+Paravesical fat necrosis
+None
+Paravesical lymph nodes:
+All lymph nodes:
+O positive of 22 lymph nodes (all parts)
+Size of largest lymph node metastasis: Not applicable
+Extranodal extension (location): Not applicable
+Pathologic stage (2010)
+pT2b pN0 pM-not applicable
+Ovary and fallopian tube, left, salpingoophorectomy:
+No significant pathologic change
+Vaginal mucosal, partial resection:
+No significant pathologic change
+E. Lymph nodes (9), right lower pelvic, regional resection:
+Nine lymph nodes with no pathologic change (0/9)
+F. Lymph nodes (12), left upper pelvic, regional resection:
+Twelve lymph nodes with no pathologic change (0/12)
+G. Lymph node (1), left lower pelvic, regional resection:
+One lymph node with no pathologic change (0/1, specimen submitted entirely
+for microscopic examination)
+The examination of this case material and the preparation of this report were
+performed by the staff pathologist.
+Note:
+The anterior wall mass is predominantly papillary without invasion. The
+posterior wall mass is composed predominantly of a pseudosarcomatous
+myofibroblastic proliferation that extends deep into the muscularis propria,
+likely the result of the previous transurethral resection. Nests of atypical
+cells are present deep in this myofibroblastic proliferation. In order to
+confirm the epithelial nature of these cells and distinguish them from the
+reactive process, immunohistochemical staining is performed. Immunohistochemical
+stains highlight numerous nests of invasive urothelial carcinoma cells, most of
+which were light microscopically inconspicuous (positive for p63 and cytokeratin
+cocktail). The tumor is negative for GATA3, which is relatively specific but not
+entirely sensitive for urothelial carcinoma. Controls stain appropriately.
+Multiple additional sections of this area are also examined, revealing similar
+findings.
+Intraoperative Consult Diagnosis:
+FSA: Right distal ureter:
+Negative for malignancy.
+FSB: Left distal ureter:
+Negative for malignancy.
+F/S TAT:
+Gross Description:
+A. Received without fixative labeled and "right distal
+ureter" is a 0.5 x 0.4 cm tan, tubular soft tissue with minimal adherent fat,
+submitted in toto for frozen section microscopy, now in cassette A.
+B. Received without fixative labeled and "left distal
+ureter" is a 0.5 x 0.5 cm tan, tubular soft tissue with minimal adherent fat,
+submitted in toto for frozen section microscopy, now in cassette B.
+C. Received in formalin, labeled and "right ovary" is a 5.0
+× 0.4 cm purple-pink, fimbriated fallopian tube with attached 3.0 x 0.9 x 0.9 cm
+tan, lobulated intact ovary. The fallopian tube on sectioning contains a
+pinpoint lumen. The ovary on sectioning is tan, heterogeneous with a 0.3 cm
+smooth walled uniloculated cyst. Representative sections are submitted in one
+cassette.
+D. Received in formalin, labeled and "bladder, fallopian
+tube, left ovary, vagina" is a 5.0 x 4.2 x 3.8 cm urinary bladder with attached
+bilateral segments of distal ureter (each 1.5 × 0.4 cm), 2.9 x 1.0 cm urethra,
+4.8 x 4.8 cm tan-pink, wrinkled irregular anterior wall of vagina and a moderate
+amount of attached fat. Involving the anterior wall of the bladder is a 3.3 x
+2.4 x 1.2 cm tan-pink, irregular, papillary appearing, well delineated mass that
+comes to within 2.7 cm from the urethral margin. This mass on sectioning is
+tan-pink, soft, friable with no definite invasion, coming to within 0.9 cm from
+the inked soft tissue margin. On the posterior wall of the bladder is a 3.2 x
+1.7 cm tan-pink, irregular ulcerated, well delineated mass that comes to within
+5.5 cm from the urethral margin. This mass on sectioning, the uninvolved bladder
+mucosa is tan-pink and wrinkled. No involvement of the vaginal mucosa is
+present. No lymph nodes are identified in the attached fat.
+Received in the same container is a 3.8 x 0.5 cm purple-pink, fimbriated
+fallopian tube with attached 2.0 x 0.9 x 0.9 cm tan, lobulated intact ovary. The
+fallopian tube on sectioning contains a pinpoint lumen. The ovary on sectioning
+is tan and heterogeneous with no discrete lesions.
+Representative sections are submitted as follows:
+D1
+D2
+D3
+D4
+D5-8
+urethral margin taken en face;
+right lateral vaginal mucosal margin taken en face;
+left lateral vaginal mucosal margin taken en face;
+superior vaginal mucosal margin taken en face;
+mass anterior wall of bladder to inked soft tissue margin;
+D9mass posterior wall of bladder to inked soft tissue margin;
+D10-11 mass posterior wall of bladder;
+vaginal wall;
+uninvolved right lateral wall of bladder;
+uninvolved left lateral wall of bladder;
+D12
+D13
+D14
+D15
+uninvolved dome of bladder;
+D16
+trigone;
+D17
+D18-19
+D20-21
+D22-29
+ovary and fallopian tube;
+perivesicular fat for possible lymph node capture;
+peri dome fat for possible lymph node capture.
+remainder of posterior wall mass
+E. Received in formalin, labeled and "right lower pelvic
+lymph nodes" is a 6.9 x 4.3 x 1.8 cm aggregate of tan, lobulated irregular fatty
+tissue. Sectioning reveals multiple tan-pink, rubbery lymph nodes up to 3.5 x
+2.0 x 1.0 cm.
+Representative sections are submitted as follows:
+multiple whole lymph nodes;
+one whole lymph node bisected;
+one whole lymph node bisected;
+E1
+E2
+E3
+E4
+E5
+one whole lymph node bisected;
+one whole lymph node bisected;
+E6
+one whole lymph node trisected;
+E7-9
+one whole lymph node step sectioned.
+F. Received in formalin, labeled and "left upper pelvic
+lymph nodes" is a 5.7 x 5.4 x 2.8 cm aggregate of tan, lobulated irregular fatty
+tissue. Sectioning reveals multiple tan-pink, rubbery lymph nodes up to 4.8 x
+1.4 x 1.0 cm.
+Representative sections are submitted as follows:
+F1-2 multiple whole lymph nodes;
+F3 one whole lymph node bisected;
+F4-5
+F6-11
+one whole lymph node bisected;
+one whole lymph node step sectioned.
+G. Received in formalin, labeled and "left lower pelvic
+lymph nodes" is a 4.2 x 3.7 x 1.8 cm aggregate of tan, lobulated irregular fatty
+tissue. Sectioning reveals a tan, lobulated cut surface with no discrete lymph
+nodes. The specimen is entirely submitted in eight cassettes.
+Please note, allfat is placed in a clearing fixative prior to searching for
+lymph nodes.
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+END OF REPORT
+Taken:
+DOB:
+(Age: Gender: F
+Yes'
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+8/9/13
+QUALIFIE ✓ DEQUARFIED
+Cate Reviewad

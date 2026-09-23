@@ -1,0 +1,32 @@
+UUID:F2410C77-1B33-47AA-A820-8A0E637234FC
+TCGA-G2-AA3B-01A-PR
+Redacted
+DIAGNOSIS
+(A) BLADDER TUMOR:
+UROTHELIAL CARCINOMA, HIGH GRADE (GRADE 3), EXTENSIVELY INVASIVE
+INTO LAMINA PROPRIA AND MUSCULARIS MUCOSAE.
+Muscularis propria present with no definitive evidence of tumor invasion
+into muscularis propria.
+GROSS DESCRIPTION
+ICD-0.3
+Carcinoma, urothelial Nos 8/20/3
+Site: Bladder Nos C67.9
+8131/17/14
+(A) BLADDER TUMOR - Received is a 6.3 x 5.0 x 1.8 cm aggregate of pink-
+tan, soft, rubbery tissue fragments. Entirely submitted in A1-A5.
+CLINICAL HISTORY
+Bladder cancer.
+Criteria
+w 12/31113
+Yes
+Na
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED,
+Date Reviewed: 12/21/13

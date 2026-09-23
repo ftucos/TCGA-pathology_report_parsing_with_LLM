@@ -1,0 +1,247 @@
+UUID:F61654B9-A305-4089-97FE-A22B9EE1375D
+TCGA-K4-A5RI-01A-PR
+Encounter
+Number
+Time Collected
+Time Reported
+Ordering Provider
+Status
+Final
+Redacted
+Gender
+F
+Date Of
+Birth
+COPY ONLY DO NOT FILE
+SURGICAL PATHOLOGY
+Page 1 of 6
+Results
+Source of Specimen
+A. LEFT PELVIC LYMPH NODES- FS-
+B. LEFT PELVIC LYMPH NODES-NFS-
+C. RIGHT PELVIC LYMPH NODES-FS-
+D. RIGHT PELVIC LYMPH NODES-NES-
+E. APPENDIX-
+F. LEFT URETER MARGIN-FS-
+G. RIGHT URETER MARGIN-FS-
+ICD-0-3
+Carcinoma, urothelial Nos 8120/3 Final
+Site: bladder, posterior will 067.4
+H. BLADDER, UTERUS, BILATERAL FALLOPIAN TUBES SEE WORKSHEET-
+FINAL DIAGNOSIS:
+A. LEFT PELVIC LYMPH NODES- FS-
+Prepare
+THREE FATTY LYMPH NODES, NO MALIGNANCY SEEN.
+B. LEFT PELVIC LYMPH NODES-NFS-
+SEE PART "A".
+C. RIGHT PELVIC LYMPH NODES-FS-
+TWO FATTY LYMPH NODES, NO MALIGNANCY SEEN.
+D. RIGHT PELVIC LYMPH NODES-NES-
+SEE PART "C".
+3. APPENDIX-
+VERMIFORM APPENDIX WITH NO DIAGNOSTIC ABNORMALITY SEEN.
+F. LEFT URETER MARGIN-FS-
+NO CARCINOMA SEEN.
+G. RIGHT URETER MARGIN-ES-
+NO CARCINOMA SEEN.
+11. BLADDER, UTERUS, BILATERAL FALLOPIAN TUBES SEE WORKSHEET-
+INVASIVE CARCINOMA, HIGH GRADE.
+بسلا
+2/17/13
+Prepar
+TUMOR SITE: POSTERIOR, URINARY BLADDER.
+HISTOLOGIC TYPE: UROTHELIAL.
+SQUAMOUS DIFFERENTIATION: NOT PRESENT.
+GLANDULAR DIFFERENTIATION: IS PRESENT, EXTENSIVE.
+TUMOR SIZE: 3.0 CM.
+HISTOLOGIC GRADE: 3/3.
+TUMOR INVADES PERIVESICAL SOFT TISSUE, MICROSCOPICALLY.
+SPECIMEN TYPE: ANTERIOR EXENTERATION: RADICAL CYSTECTOMY, TOTAL
+HYSTERECTOMY AND BILATERAL SALPINGOOPHORECTOMY, ANTERIOR
+VAGINECTOMY.
+TNM STAGE: pT3a, pNO, pMX.
+LYMPH NODE (S) INCLUDED IN ALL PARTS: NUMBER INVOLVED: 0
+NUMBER EXAMINED: 5
+LYMPHATIC (SMALL VESSEL) INVASION: IS PRESENT.
+PERINEURAL INVASION: PRESENT, EXTENSIVE.
+ASSOCIATED EPITHELIAL LESIONS:
+EXTENSIVE SURFACE ULCERATION.
+MODERATE UROTHELIAL DYSPLASIA FOCALLY SEEN.
+NO TUMOR SEEN AT URETERAL AND URETHRAL MARGINS.
+PERIVESICAL SOFT TISSUE MARGIN: NEGATIVE FOR TUMOR.
+VAGINA, UTERUS AND CERVIX: NEGATIVE FOR MALIGNANCY.
+OTHER BENIGN FINDINGS:
+ATROPHIC ENDOMETRIUM.
+INTRAMURAL LEIOMYOMATA.
+ATROPHIC OVARIES WITH FOCAL ENDOSALPINGIOSIS.
+PARATUBAL CYSTS.
+Signature
+Page 2 of 6
+>
+>
+Signed Others
+Frozen Section
+A. RIGHT URETER MARGIN: NO CARCINOMA.
+LEFT URETER MARGIN: NO CARCINOMA.
+RIGHT AND LEFT FELVIC LYMPH NODES: FATTY LYMPH NODES ON BOTH
+SIDES, REPRESENTATIVE SECTIONS TAKEN FOR FS.
+RIGHT PELVIC LYMPH NODES: 2 FATTY LYMPH NODES. NO TUMOR SEEN
+(0/2).
+LEFT PELVIC LYMPH NODES: 3 FATTY LYMPH NODES.
+(0/3).
+Frozen section performed by
+NO TUMOR SEEN
+Case Clinical Information
+BLADDER CANCER
+Gross Description
+A. Received in formalin labeled with the patient's name and
+"left pelvic lymph nodes FS" are three fatty, yellow-tan tissue
+fragments measuring up to 2 x 1.2 x 0.2 cm thick. The entire
+specimen is submitted in Al.
+B. Received in formalin labeled with the patient's name and
+"left pelvic lymph nodes NFS" are multiple fragments of finely
+divided fat, measuring 3 × 3 × 3 cm in compact aggregate.
+Residual induration is submitted in B1-B3.
+C. Received in formalin labeled with the patient's name and
+"right pelvic lymph nodes FS" are two elongated, fatty, pink-tan
+Lissues measuring 2 x 1.1 x 0.2 cm thick. The entire specimen
+is submitted in C1.
+D. Received in formalin labeled with the patient's name and
+"right pelvic lymph nodes NFS" are multiple fragments of finely
+divided fat, measuring 3 x 3 x 3 cm in compact aggregate.
+Residual induration is submitted in D1-D3.
+F. Received in formalin labeled with the patient's name and
+"appendix" is a grossly unremarkable vermiform appendix with
+attached periappendiccal fat measuring 7 × 0.4 cm thick, with
+the surgical margin revealing a staple closure. The appendiceal
+lumen is pinpoint. A shave of the resection margin adjacent to
+Prepared:
+Page 3 of 6
+Page 4 of 6
+the staple closure and entire appendiceal tip is submitted in
+El.
+F. Received in formalin labeled with the patient's name and
+"left ureter FS" is yellow tan, soft tissue measuring 1 x 1 x
+0.2 cm. Totally submitted in F1.
+G. Received in formalin labeled with the patient's name and
+"right ureter FS" is yellow-tan, soft tissue measuring 9 × 6 × 1
+mm thick. The specimen is submitted totally in Gl.
+H. Received in formalin labeled with the patient's name and
+"uterus, bilateral tubes and ovaries, bladder, anterior vaginal
+wall" is a specimen so designated, measuring overall 13 cm
+superior to inferior, 10 cm right to left, 8 cm anterior to
+posterior. The uterus and cervix measure 7 cm superior to
+inferior, 4.5 cm right to left, 2.2 cm anterior to posterior.
+Unremarkable right and left fallopian tubes, measuring 6.5 × 0.6
+and 6 x 0.5 cm with unremarkable, atrophic appearing right and
+left ovaries measuring 2 x 1.5 x 0.6 and 2 x 1.5 × 0.6 cm in
+greatest dimensions. The included portion of anterior vaginal
+wall is continuous with the perineal and distal urethral mucosa,
+it measures up to 5 cm in width superiorly and appears
+unremarkable. The cervix is 3 cm in diameter with a 1.2 cm
+linear os. The specimen previously has been inked blue on the
+left, black on the right, and the bladder cavity is exposed.
+The bladder wall appears indurated with a diminished bladder
+cavity measuring 2.5 cm right to left, superior to inferior, 2
+cm anterior to posterior. The posterior superior aspect of the
+bladder is replaced by an area of ulceration and induration,
+measuring 3 x 3 cm. Section code: Hl distal urethra; H2=shaved
+entire left vaginal resection margin; H3-shaved entire right
+vaginal resection margin; H4-left cross sections mid urethra;
+H5 right mid urethral cross sections; H6-half left ovary;
+H7 left fallopian tube; H8-half of right ovary; H9=right
+fallopian tube; H10-posterior cervix; Hll-anterior cervix;
+H12-H13 anterior posterior uterine wall, including thin
+endometrium and two fibroid-like nodules with uterine cavity
+measuring 1.2 cm in width, 2 cm in length; H14-H18-extensive
+sampling of bladder tumor, which measures up to 2 cm thick,
+deeply penetrating posterior bladder fat. H19-H20 tumor to
+inked left posterior soft tissue margin. The included stubs of
+ureter are deeply retracted and are not sampled at this time due
+to their presence in parts F1 and G1
+Physicians
+ว
+Procedure
+A. AA ROUTINE H&E X1 BLOCK
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK. 1
+Prepared
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK.2
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK.3
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK
+H&E X1
+D. AA ROUTINE H&E X1 BLOCK.1
+H&E X1
+D. AA ROUTINE H&E X1 BLOCK. 2
+H&F X1
+D. AA ROUTINE H&E X1 BLOCK.3
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK
+H&E X1
+G. AA ROUTINE H&E X1 BLOCK
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.1
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.2
+H&E X1 A RECUTS
+H. AA ROUTINE H&E X1 BLOCK.3
+H&E X1 A RECUTS
+H. AA ROUTINE H&E X1 BLOCK.4
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK. 5
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK. 6
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.7
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.8
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK. 9
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.10
+H&E X1 A RECUTS
+H. AA ROUTINE H&E X1 BLOCK.11
+P&E X1
+11. AA ROUTINE H&E X1 BLOCK.12
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.13
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.14
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.15
+Prepared f
+Page 5 of 6
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.16
+H&E X1
+II. AA ROUTINE H&E X1 BLOCK.17
+H&E X1
+H. AA ROUTINE I&E X1 BLOCK.18
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.19
+H&E X1
+H. AA ROUTINE H&E X1 BLOCK.20
+H&E X1
+Prepared
+Page 6 of 6
+Criteria
+w 7/6/13
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPFA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Neu
+Cise's (circle):
+Revi-wer Innial
+Willo
+QUALIFIFI
+Date Reviewed:
+DISQUALIFIED
+12/13
+)
+No!

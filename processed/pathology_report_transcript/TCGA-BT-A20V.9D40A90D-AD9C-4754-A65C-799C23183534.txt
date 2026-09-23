@@ -1,0 +1,146 @@
+No
+UUID:9D48A90D-AD9C-4754-A65C-799C23183534
+TCGA-BT-A20V-01A-PR
+Redacted
+PATIENT HISTORY:
+-year-old woman with a large bladder tumor.
+The patient is a
+PRE-OP DIAGNOSIS:
+POST-OP DIAGNOSIS:
+PROCEDURE:
+Bladder carcinoma.
+Same.
+Cystectomy, hysterectomy, and bilateral salpingo-Oophorectomy.
+FINAL DIAGNOSIS:
+-
+PART 1: RIGHT DISTAL URETERAL SHAVE MARGIN, BIOPSY -
+A. UROTHELIAL MUCOSA WITH FOCAL DYSPLASIA (see comment).
+B. NO 
+INVASIVE CARCINOMA SEEN.
+PART 2: LEFT DISTAL URETERAL SHAVE MARGIN, BIOPSY -
+A. BENIGN SEGMENT OF FALLOPIAN TUBE.
+B. NO URETER PRESENT.
+C. NO EVIDENCE OF MALIGNANCY.
+PART 3: FINAL URETHRAL MARGIN, BIOPSY -
+Rection Date: ___
+ICD-0-3
+Carcinoma, urothelial 8/20/3
+Site: bladder, lateral wall C67.2
+lu 4/7/11
+A. INVASIVE UROTHELIAL CARCINOMA, EXTENDING TO APPROXIMATELY 2 mm FROM THE URETHRAL RADIAL
+RESECTION MARGIN.
+B. FLAT UROTHELIAL CARCINOMA IN-SITU, EXTENDING TO LESS THAN 1 mm FROM THE URETHRAL RADIAL
+RESECTION MARGIN.
+PART 4: URINARY BLADDER, UTERUS, CERVIX, BILATERAL OVARIES AND BILATERAL FALLOPIAN
+TUBES, RADICAL CYSTECTOMY, HYSTERECTOMY, AND BILATERAL SALPINGO-OOPHORECTOMY -
+URINARY BLADDER:
+1.
+2.
+3.
+4.
+5.
+INVASIVE UROTHELIAL CARCINOMA, HIGH-GRADE (2004 WHO/SUP), 5.0 CM, INVOLVING THE BLADDER NECK
+AND THE POSTERIOR, RIGHT LATERAL AND LEFT 
+LATERAL WALLS OF THE BLADDER. CARCINOMA
+EXTENDS INTO THE RIGHT AND LEFT 
+URETERAL ORIFICES (SLIDES 4B AND 4C).
+UROTHELIAL CARCINOMA PENETRATES THROUGH THE DETRUSOR MUSCLE AND EXTENDS INTO THE
+PERIVESICAL ADIPOSE TISSUE (SLIDES 
+4G, 4H, AND 4J) AND INTO THE UTERUS (SLIDES 4L, 4W, 4X, 4Y, AND
+4Z).
+MULTIFOCAL LYMPHOVASCULAR INVASION IS IDENTIFIED (SLIDES 4B, 4X, 4Y, AND 4Z).
+PERINEURAL INVASION IS IDENTIFIED (SLIDE 4J).
+SURROUNDING BLADDER MUCOSA WITH MULTIFOCAL PAPILLARY UROTHELIAL CARCINOMA, FOCALLY
+HIGH-GRADE, INVOLVING THE POSTERIOR BLADDER WALL (SLIDES 4L AND 4M).
+6. ALL FINAL SURGICAL RESECTION MARGINS ARE FREE OF NEOPLASIA, BUT INVASIVE CARCINOMA AND
+CARCINOMA IN-SITU ARE CLOSE TO THE 
+FINAL URETHRAL MARGIN (see part 3).
+7. TNM PATHOLOGIC STAGE: T4a N2 MX (see synoptic and part 5).
+UTERUS, CERVIX, BILATERAL OVARIES, AND FALLOPIAN TUBES:
+1. INVASIVE UROTHELIAL CARCINOMA EXTENSIVELY INVOLVING ECTOCERVIX AND ENDOCERVIX,
+MYOMETRIUM, AND ENDOMETRIUM.
+FOCAL ENDOMETRIAL CYSTIC ATROPHY.
+2.
+3.
+TWO LEIOMYOMAS, 1.5 AND 1.2 CM (SLIDES 4X AND 4Y).
+4.
+5.
+BENIGN BILATERAL OVARIES WITH MULTIPLE CORPORA ALBICANTIA.
+BENIGN 
+BILATERAL FALLOPIAN TUBES.
+PART 5: LYMPH NODES, RIGHT PELVIC, LYMPH NODE DISSECTION -
+A. METASTATIC CARCINOMA IN TWO OF THREE LYMPH NODES (2/3).
+B. LARGEST METASTATIC FOCUS MEASURES 1.2 cm IN A HISTOLOGIC SECTION (SLIDE 5B).
+C. FOCAL EXTRACAPSULAR EXTENSION IS NOTED (SLIDE 5C).
+PART 6: LEFT DISTAL URETERAL SHAVE MARGIN, BIOPSY -
+A. MICROSCOPIC FOCUS OF DETACHED DYSPLASTIC UROTHELIUM IS PRESENT AT THE SHAVE URETERAL
+RESECTION MARGIN.
+B. MICROSCOPIC FOCUS OF INVASIVE UROTHELIAL CARCINOMA IS PRESENTIN THE URETERAL MUSCULARIS
+PROPRIA AND PERIURETERAL SOFT TISSUE CLOSE 
+TO BUT NOT INVOLVING THE ACTUAL URETERAL
+RESECTION MARGIN (see comment).
+COMMENT:
+Part 1 (right distal ureteral margin): The focus of urothelial dysplasia is represented only on the original frozen section
+slides. On the permanent section, the ureter is represented as a 
+complete cross-section with no dysplasia represented.
+Part 6 (left distal 
+ureteral margin): On the original frozen section slides, there was a small detached fragment of
+dysplastic urothelium, with no invasive urothelial 
+carcinoma present. However, on the permanent sections representing
+deeper levels into the tissue, small foci of invasive urothelial carcinoma 
+are present in the muscularis propria of the
+ureter and within the pertureteral soft tissue. Therefore, invasive 
+carcinoma is close to the true margin and detached
+dysplastic urothelium is at the true margin.
+CASE SYNOPSIS:
+SYNOPTIC DATA - PRIMARY URINARY BLADDER TUMORS
+SPECIMEN TYPE:
+TUMOR SITE:
+TUMOR SIZE:
+HISTOLOGIC TYPE:
+Radical cystectomy
+Right lateral wall, teft lateral wall, Anterior wall, Posterior wall
+Greatest dimension: 5.0 cm
+Additional dimensions: 4.2 X 2.2 cm
+Urothelial (transitional cell) carcinoma
+ASSOCIATED EPITHELIAL LESIONS: None identified
+HISTOLOGIC GRADE:
+Urothelial carcinoma - High-grade
+TUMOR CONFIGURATION:
+PATHOLOGIC STAGING (pTNM):
+Papillary, Solid/nodule, Ulcerated
+PT4a..>
+pN2
+Number of nodes examined: 3
+Number of nodes involved: 2
+MARGINS:
+PMX
+Margins uninvolved by invasive carcinoma
+Distance of tumor from closest margin: 1 mm
+Margin: left ureter (see comment)
+Margin(s) uninvolved by carcinoma in situ
+VENOUS/LYMPHATIC (LARGE/SMALL) VESSEL INVASION (V/L):
+DIRECT EXTENSION OF INVASIVE TUMOR: Perivesical fat
+Uterus and adnexae
+Ureter: Right and left
+ADDITIONAL PATHOLOGIC FINDINGS:
+Comment:
+Present
+Urothelial dysplasia (low-grade intraurothelial neoplasia)
+Inflammation/regenerative changes
+Other: Carcinoma in situ
+There is a microscopic detached fragment of dysplastic urothelium at the left ureteral
+resection margin.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Maligna.icy history
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Daty Reviewed:
+Yes
+No
+DISQUALIFIED

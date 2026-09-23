@@ -1,0 +1,351 @@
+UUID: FF69B05C-B041-4CBA-A481-66AB2510A4AC
+TCGA-GU-AATQ-01A-PR
+Redacted
+Results
+Patient Information
+Patient Name
+MRN
+Result Information
+Status
+Edited
+Entry Date
+Component Results
+Component
+Surgical Pathology
+BIOPSY OR SURGICAL SPECIMEN (Order
+Provider Status
+Reviewed
+Sex
+DOB
+Patient Name
+Med Rec #:
+Accession #:
+FINAL PATHOLOGICAL DIAGNOSIS
+ICD03
+Lab
+Carcinoma, urothelial NOS 812013
+Site Bladder wall, NOS C.67.9
+A. Left distal ureter, radical cystoprostatectomy:
+JJ 4/30/14
+- Unremarkable urothelium; no high grade dysplasia or carcinoma identified ·
+- Frozen section diagnosis is confirmed
+B. Right distal ureter, radical cystoprostatectomy:
+- Unremarkable urothelium; no high grade dysplasia or carcinoma identified
+- Frozen section diagnosis is confirmed
+C. Bladder and prostate, radical cystoprostatectomy:
+Per TSS, Aquamous differentiation
+- Invasive urothelial carcinoma with squamous differentiation, high grade
+- Tumor invades perivesical tissue macroscopically (pT3b)
+- All surgical resection margins free of tumor
+Prostate with benign prostatic hyperplasia; no invasive carcinoma identified
+See CAP template below for full report
+See comment
+D. Right Iliac lymph nodes, lymph node dissection:
+"
+Five benign lymph nodes identified, all negative for metastatic carcinoma
+(0/5)
+E. Right obturator lymph nodes, lymph node dissection:
+- Three benign lymph nodes identified, all negative for metastatic carcinoma
+(0/3)
+F. Left iliac lymph nodes, lymph node dissection:
+- Three benign lymph nodes identified, all negative for metastatic carcinoma
+(0/3)
+G. Left obturator lymph nodes, lymph node dissection:
+- Ten benign lymph nodes identified, all negative for metastatic carcinoma
+(0/10)
+CAP Cancer Template
+Specimen:
+is 40-50% .
+Page 1 of 7
+Bladder
+Other (specify): Prostate
+Procedure:
+Radical cystoprostatectomy
+Tumor Site:
+Left lateral wall
+Anterior wall
+Posterior wall
+Right ureteral orifice
+Tumor Size:
+Greatest dimension: 4.5 cm
+Histologic Type:
+Urothelial (transitional cell) carcinoma with squamous differentiation
+Associated Epithelial Lesions:
+None identified
+Histologic Grade:
+Urothelial Carcinoma (WHO 2004/ISUP):
+High-grade
+Tumor Configuration:
+Solid/nodule
+Flat
+Ulcerated
+Microscopic Tumor Extension:
+Invades perivesical tissue macroscopically (extravesical mass)
+Margins:
+Margins uninvolved by invasive carcinoma
+Distance of invasive carcinoma from closest margin: 0.5 mm
+Specify margin: Posterior soft tissue margin
+Lymph-Vascular Invasion:
+Indeterminate
+Pathologic Staging (pTNM):
+TNM Descriptors:
+m (multiple primary tumors)
+Primary Tumor (PT):
+pT3b: Macroscopically (extravesicular mass)
+Regional Lymph Nodes (PN):
+pNO: No lymph node metastasis
+Specify: Number examined: 21
+Number involved (any size): 0
+Distant Metastasis (PM):
+Not applicable
+Additional Pathologic Findings:
+Urothelial dysplasia
+Inflammation/regenerative changes
+Page 2 of 7
+Ancillary Studies:
+None performed at this time; blocks C13 and C14 will be held for future studies
+if necessary.
+The above pathology diagnosis incorporates data elements as outlined in the CAP
+Cancer Protocols and Checklists which are based on the AJCC/UICC TNM, 7th
+edition.
+DIAGNOSIS COMMENT
+Selected slides were reviewed at the
+opinion.
+on
+Pand the diagnoses represent a consensus
+***Electronically Signed Out By
+CLINICAL HISTORY
+Bladder tumor
+Radical cystectomy/ prostatectomy with lleal conduit
+SPECIMEN(S) RECEIVED
+A: Left distal ureter
+B: Right distal ureter
+C: Bladder and prostate
+D: Right iliac lymph nodes
+E: Right obturator lymph nodes
+F: Left illac lymph nodes
+G: Left obturator lymph nodes
+GROSS DESCRIPTION
+Specimen A is received fresh for frozen section labeled with the patient's name
+and designated "left distal ureter". The specimen consists of a segment of
+ureter measuring 0.5 cm in diameter x 0.3 cm in length.
+Section key:
+A1 specimen is completely submitted for frozen section
+Specimen B is received fresh for frozen section labeled with the patient's name
+and designated "right distal ureter". The specimen consists of a segment of
+ureter measuring 0.4 cm in diameter x 0.3 cm in length.
+Section key:
+B1 specimen is completely submitted for frozen section
+Specimen C
+Type of specimen: Urinary bladder, ureter stumps, prostate, seminal vesicles
+The patient's name and case number on the specimen container match the
+accompanying paperwork and cassettes.
+Procedure: Radical cystoprostatectomy
+Fixative: Received fresh and later placed in formalin
+Dimensions:
+Bladder: Superior to inferior 7.5 cm, right to left 6.0 cm, anterior to
+posterior 3.5 cm
+Right ureter stump: 1.0 cm in length and 0.5 cm in diameter; left 2.5 cm in
+length and 0.5 cm in diameter
+Prostate: Apex to base 3.8 cm, anterior to posterior 3.2 cm, right to left 5.0
+cm
+Description of findings:
+Page 3 of 7
+Tumor: Three distinct separate tumors are identified. The largest tumor
+occupies the left lateral wall and extends to include portions of both the
+anterior and posterior wall. In some areas, the tumor appears to abut the inked
+posterior 
+bladder surface. This tumor measures 4.5 x 3.6 cm. The central
+portion of the tumor is rough, hemorrhagic, and somewhat shaggy and has a
+somewhat 
+necrotic appearance. The necrosis involves 80% of the surface of the
+tumor. 
+There are tan-gray, nodular, viable areas at the peripheral margin of
+the tumor
+. On section, this tumor can be seen to deeply invade the bladder wall
+and 
+appears to have extended through the full thickness to involve the adjacent
+perivesicular 
+adipose tissue. The second tumor occupies a portion of the
+posterior 
+wall and extends laterally to surround the right ureteral orifice.
+This tumor 
+measures 2.5 x 2.0 cm. The tumor is largely exophytic extending 0.9
+cm above the lining 
+of the bladder wall. The third tumor occupies a portion of
+the Inferior anterior 
+bladder wall and measures 1.7 x 1.5 cm and rises 0.6 cm
+above the lining of the bladder wall. The lumen of the bladder contains a large
+volume of form friable 
+blood clot. The clot measures 7.0 x 7.0 x 2.5 cm.
+Uninvolved mucosa: The involved mucosa has a normal tan-gray appearance with no
+additional lesions 
+noted. Sectioning through the prostate reveals a normal
+tan
+-gray, 
+lobulated, spongy cut surface.
+Prostate, seminal vesicles and vasa deferentia:
+Ink code:
+Anterior: blue
+Posterior: black
+Right side: orange
+Left side: blue
+Section key:
+C1 en face urethral resection margins
+C2 largest tumor of left lateral wall, anterior surface
+C3 C8 largest tumor of left lateral wall and posterior surface
+C9, C10 second tumor of right lateral wall
+C11, C12 third tumor anterior wall
+C13 left ureteral orifice
+C14 right ureteral orifice
+C15 right lateral wall
+C16 section of dome
+C17 C19 right prostate submitted distal to proximal
+C20 C22 left prostate submitted distal to proximal
+C23 right seminal vesicle and vas deferens
+C24 left seminal vesicle and vas deferens
+Specimen D is received in formalin labeled with the patient's name and
+designated 
+"right illac lymph node". The specimen consists of an aggregate of
+yellow, fatty 
+tissue measuring 5.0 x 4.3 x 2.5 cm. Multiple lymph nodes are
+identified ranging 
+in size from 0.5 cm up to 2.1 cm in greatest dimension.
+Section key: The 
+lymph nodes are entirely submitted as follows:
+D1, D2 largest lymph node trisected
+D3 two lymph nodes, bisected, one marked with ink
+D4 two lymph nodes, bisected, one marked with ink
+Specimen E is received in formalin labeled with the patient's name and
+designated "right obturator lymph node". The specimen consists of an aggregate
+of yellow, fatty tissue measuring 5.5 x 3.8 x 2.0 cm. Three lymph nodes are
+identified ranging from 0.8 cm up to 3.5 cm in greatest dimension.
+Section key: The lymph nodes are entirely submitted as follows:
+E1 E3 largest lymph node trisected
+E4, E5 one lymph node, bisected
+E6 one single lymph node
+Specimen F is received in formalin labeled with the patient's name and
+designated "
+left illac lymph node". The specimen consists of an aggregate of
+yellow, fatty tissue 
+measuring 3.5 x 2.5 x 1.5 cm. Three lymph nodes are
+Page 4 of 7
+identified ranging in size from 0.5 cm up to 1.5 cm in greatest dimension.
+Section key:
+F1 lymph nodes are completely submitted
+Specimen G is received in formalin labeled with the patient's name and
+designated "left obturator lymph node". The specimen consists of an aggregate
+of yellow, fatty tissue measuring 4.5 x 4.0 x 2.3 cm. Multiple lymph nodes are
+identified ranging from 0.2 cm up to 3.0 cm in greatest dimension.
+Section key: Lymph nodes are completely submitted as follows:
+G1, G2 largest lymph node bisected
+G3 two lymph nodes, bisected, one marked with blue ink
+G4, G5 multiple single lymph nodes
+MICROSCOPIC DESCRIPTION
+The stain quality is acceptable.
+A-G. The microscopic findings are reflected in the diagnoses rendered.
+INTRAOPERATIVE CONSULT DIAGNOSIS
+Time in:
+Time out:
+AFS1, Left distal ureter: "Negative for malignancy"
+BFS1, Right distal ureter: "Negative for malignancy"
+Conveyed to
+by
+on
+Interpretation performed at:
+Results
+Anatomic Pathology Report - Scan on
+Result History
+BIOPSY OR SURGICAL SPECIMEN
+Reviewed by List
+Transcription
+Type
+ID
+Author
+Anatomic Pathology Report
+Signed by
+Document Text
+Display only: Transcription (¨
+Collection Information
+Date and Time
+Lab Information
+Order Result History Report.
+Accession #
+Page 5 of 7
+Status:
+This order is currently not shared in
+BIOPSY OR SURGICAL SPECIMEN
+Order
+Patient Information
+Patient Name
+MRN
+Sex
+DOB
+Visit Information
+Date
+Time
+Department
+Urology
+Provider
+Admission Information
+Attending Provider
+Admitting Provider
+Admission Type
+Admission Date/Time
+Discharge Date
+Hospital Service
+Auth/Cert Status
+Service Area
+Unit
+Room/Bed
+Admission Status
+Date and Time
+Ordering
+Order
+Order Name
+BIOPSY OR SURGICAL SPECIMEN
+Discharge Information
+Authorizing
+Discharge Provider
+Date/Time
+(none)
+(none)
+Disposition
+(none)
+Order Providers
+Authorizing Provider
+Results
+Anatomic Pathology Report - Scan
+Collection Information
+Date and Time
+Priority and Order Details
+Unknown Status (No Confirmation
+Status)
+Department
+Urology
+Code
+Order Number
+Encounter Provider
+Accession #
+Destination
+(none)
+Page 6 of 7
+Priority
+Routine
+Class
+Criteria
+fw 2/13/14
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is (circle):
+Reviewer Initials
+QUALISED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+2014
+✓

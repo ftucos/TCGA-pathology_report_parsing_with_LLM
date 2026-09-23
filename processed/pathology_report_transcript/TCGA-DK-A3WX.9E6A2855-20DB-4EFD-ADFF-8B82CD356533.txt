@@ -1,0 +1,125 @@
+UUID:9E6A2855-20DB-4EFD-ADFF-8882CD356533
+TCGA-DK-A3WX-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+DOB: (Age:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+SURGICAL PATHOLOGY REPORT
+Location:
+Service:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+History of bladder cancer.
+Specimens Submitted:
+1: Left lateral bladder wall, TURBT
+2: Depth of tumor, TURBT
+3: Base of tumor, TURBT
+1CD-0-3
+carcinoma, urothelial, Nos
+812013
+Site: bladder, wall, lateral
+067.2
+DIAGNOSIS:
+1. Left lateral bladder wall, TURBT:
+Part # 1
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+with extensive necrosis
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+No in situ carcinoma
+Local Invasion:
+Vascular Invasion:
+Muscularis propria
+Not identified
+2. Depth of tumor, TURBT:
+Part # 2
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+with focal squamous differentiation
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+No in situ carcinoma
+Local Invasion:
+Muscularis propria
+Vascular Invasion:
+Not identified
+3. Base of tumor, TURBT:
+Page 1 of 3
+Criteria
+Yes
+5-23.12
+ко
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 51512
+5/17/12
+SURGICAL PATHOLOGY REPORT
+Part # 3
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+No in situ carcinoma
+Local Invasion:
+Vascular Invasion:
+Muscularis propria
+Not identified
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+***
+Report Electronically Signed Out ***
+Gross Description:
+1)
+2)
+3)
+The specimen is received in Hank's solution, labeled "Left lateral bladder wall", and consists of multiple piece(s) of
+irregular tan-brown soft tissue fragment measuring 15x0.5x0.2cm. The specimen entirely submitted in 5 cassettes.
+taken.
+The specimen is received in Hank's solution, labeled "Depth of tumor", and consists of multiple piece(s) of irregular
+tan-brown soft tissue fragment measuring 13x0.5x0.4cm. The specimen entirely submitted in 1 cassettes.
+The specimen is received in formalin, labeled "Base of tumor", and consists of 2 piece(s) of irregular tan-brown soft
+tissue fragment measuring 12x0.5x0.5cm. The specimen entirely submitted in 1 cassette.
+Summary of Sections:
+Part 1: Left lateral bladder wall, TURBT
+Block
+5
+Sect. Site
+PCs
+{not entered}
+27
+Part 2: Depth of tumor, TURBT
+Block
+1
+Sect. Site
+PCs
+{not entered}
+5
+Part 3: Base of tumor, TURBT
+Block
+1
+Sect. Site
+{not entered}
+PCs
+2
+Page 2 of 3

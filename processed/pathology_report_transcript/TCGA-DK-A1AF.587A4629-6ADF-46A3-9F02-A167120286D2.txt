@@ -1,0 +1,304 @@
+ICD.0.3
+Carcinoma, urothelial, NOS 8120/3
+Site Code: bladdw, Nos
+067.9
+Patient Name:
+Med. Rec #.
+DOB:
+Gender:
+Ref. Physician:
+Patient Address:
+SURGICAL PATHOLOGY REPORT
+Accession #:
+Date of Procedure:
+Location:
+Service:
+Urology
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Ref. Source:
+INPATIENT
+12/30/10
+سر
+Clinical Diagnosis & History:
+Bladder cancer T2 disease.
+Specimens Submitted:
+1: SP: Bladder, urethra, uterus, ovaries, fallopian tubes, perivesicle nodes and anterior vaginal wall; radical cystectomy, total
+hysterectomy with bilateral salpingo-oophorectomy
+2: SP: Lymph nodes, right pelvic; dissection
+3: SP: Lymph nodes, left pelvic; dissection
+4: SP: Ureter, distal, right; resection
+5: SP: Ureter, right; resection
+DIAGNOSIS:
+1. SP: Bladder, urethra, uterus, ovaries, fallopian tubes, perivesicle nodes and anterior vaginal wall; radical cystectomy,
+total hysterectomy with bilateral salpingo-oophorectomy:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Right ureter uninvolved
+Left ureter uninvolved
+Urethra uninvolved
+Vascular Invasion:
+Identified
+Perineural Invasion:
+Not identified
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Mucosa:
+UUID:587A4629-6ADF-46A3-9F82-A167128286D2
+TCGA-DK-A1AF-01A-PR
+Page 1 of 5
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Redacted
+Yes
+No
+QUALIFIED / DISQUALIFIED
+DUTE Reviewed: 72/390.
+Exhibiting ulceration
+Exhibiting foreign body reaction
+Female Genital Organs:
+Show no pathologic abnormalities
+Perivesical Lymph Nodes:
+Not identified
+SURGICAL PATHOLOGY REPORT
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+2. SP: Lymph nodes, right pelvic; dissection:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 6
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 1.1cm.
+Size of the largest metastatic focus: 0.5 cm.
+Extranodal extension is identified
+3. SP: Lymph nodes, left pelvic; dissection:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 8
+Number of lymph nodes with metastatic disease: 3
+Size of the largest lymph node involved by tumor: 1.2cm.
+Size of the largest metastatic focus: 1.2 cm.
+Extranodal extension is identified
+4. Ureter, distal, right; resection:
+-
+Partially denuded urothelium with mild to moderate urothelial atypia
+5. SP: Ureter, right; resection:
+- Segment of benign ureter
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Special Studies:
+Result Speci
+RECUT
+Gross Description:
+***
+Report Electronically Signed Out ***
+al Stain
+Comment
+1. The specimen is received fresh labeled, "Bladder, uterus, cervix, urethra, bilateral tubes and ovaries, anterior vaginal wall,
+perivesical lymph nodes". It consists of a cystohysterectomy with bilateral salpingo-oophorectomy specimen measuring 20 cm
+from superior to inferior, 10 cm laterally and 5.0 cm from anterior to posterior. The uterus measures 6.5 cm superior to inferior, 5.5
+cm from cornu to cornu, and 3.0 from anterior to posterior. There is a subserosal calcified nodule at the fundus of the uterus
+measuring 1.1 cm in greatest dimension. The right ovary measures 2.3 x 1.5 x 1.5 cm. There is an adherent clear thin walled cyst
+measuring 4.2 x 3.8 x 2.5 cm. The right fallopian tube measures 7 cm in length with a normal fimbriated end and a pinpoint lumen.
+Page 2 of 5
+SURGICAL PATHOLOGY REPORT
+The left ovary measures 2.5 x 1.8 x 1.5 cm. The left fallopian tube measures 7.5 cm in length with a normal fimbriated end and a
+pinpoint lumen. The right aspect of the bladder is inked green and the left aspect of bladder is inked blue. The uterus is inked
+black posteriorly. The cervix measures 2 cm in length. The ectocervix measures 4.5 cm in diameter. The bladder is opened along
+the anterior midline to reveal an oval, ulcerated, fungating lesion measuring 2.0 x 1.5 cm in the trigone area and the posterior wall.
+The lesion appears to be involving the both ureteral orifices. Both ureters are probed and appear blocked. The lesion is sectioned
+and revealed that the lesion is invading deeply into the muscularis layer. Extension to the inked fat is grossly not identified. The
+remaining bladder mucosa is pink and edematous. Discrete perivesical lymph nodes are grossly not identified. The entire lesion is
+submitted and the representative sections from the rest of the bladder are submitted. TPS is submitted. Photographs are taken.
+Summary of sections:
+RUM - right ureter margin
+LUM - left ureter margin
+UTHM urethral margin
+L - lesion
+LUO-left ureter orifice
+RUO-right ureter orifice
+LP - left posterior wall
+LA left anterior wall
+RP - right posterior wall
+RA - right anterior wall
+DOM - dome
+F perivesical fat
+AC - anterior cervix
+PC - posterior cervix
+AEM - anterior endometrium
+PEM - posterior endometrium
+RO-right ovary and cyst
+RT - right tube
+LO left ovary
+LT - left tube
+VCM-vaginal cuff margin
+2.) The specimen is received in formalin, labeled "Right pelvic lymph nodes" and consists of a 3.8 x 3.0 x 1.0 cm aggregate of
+lobulated, focally hemorrhagic, yellow adipose, which is sectioned to reveal seven, firm, tan-pink lymph nodes, ranging from 0.3 to
+2.2 cm, in greatest dimension. The larger lymph nodes are bisected and all lymph nodes are entirely submitted.
+Summary of sections:
+LN- lymph nodes
+BLN - bisected lymph nodes
+3.) The specimen is received in formalin, labeled "Left pelvic lymph nodes" and consists of a 5.3 x 3.8 x 1.5 cm aggregate of
+lobulated, focally hemorrhagic, yellow adipose, which is sectioned to reveal nine, firm, tan-pink lymph nodes, ranging from 0.3 to
+2.0 cm, in greatest dimension. The larger lymph nodes are bisected and all lymph nodes are entirely submitted.
+Summary of sections:
+LN- lymph nodes
+BLN - bisected lymph nodes
+4.) The specimen is received in formalin, labeled "Right distal ureter" and consists of an unoriented, 0.3 cm length and 0.6 cm in
+diameter portion of ureter, which is submitted in toto.
+Summary of sections:
+RDU - right distal ureter
+Page 3 of 5
+SURGICAL PATHOLOGY REPORT
+5.) The specimen is received in formalin, labeled "Right ureter, clip and is proximal margin" and consists of an oriented, 2.3 cm in
+length and 0.4 cm in diameter portion of ureter surrounded by a 0.4 cm 
+thick adipose tissue. A clip marks the proximal margin,
+which is inked in blue and the opposite margin is inked in black. The specimen 
+is serially sectioned from the proximal margin 
+to the
+opposite margin and is entirely submitted in sequential order.
+Summary of sections:
+PM proximal margin
+-
+SS - sequential sections
+OM-opposite margin
+Summary of Sections:
+Part 1: SP: Bladder, urethra, uterus, ovaries, fallopian tubes, perivesicle nodes and anterior vaginal wall; radical
+cystectomy, total hysterectomy with bilateral salpingo-oophorectomy
+Block
+Sect. Site
+PCs
+1
+AC
+1
+1
+AEM
+1
+1
+DOM
+1
+1
+F
+1
+5
+L
+5
+LA
+1
+LO
+1
+LP
+1
+LT
+1
+1
+lum
+1
+1
+PC
+1
+1
+PEM
+1
+1
+RA
+1
+1
+RO
+1
+1
+RP
+1
+1
+RT
+1
+rum
+1
+RUM 2
+1
+1
+1
+1
+RUO
+1
+uthm
+1
+VCM
+1
+Part 2: SP: Lymph nodes, right pelvic; dissection
+Block
+3
+1
+Sect. Site
+BLN
+LN
+PCs
+6
+4
+Part 3: SP: Lymph nodes, left pelvic; dissection
+Block
+7
+1
+Sect. Site
+PCs
+BLN
+14
+LN
+2
+Part 4: SP: Ureter, distal, right; resection
+Block
+1
+Sect. Site
+RDU
+PCs
+1
+Part 5: SP: Ureter, right; resection
+Page 4 of 5
+SURGICAL PATHOLOGY REPORT
+PCs
+Block
+Sect. Site
+1
+OM
+1
+1
+PM
+1
+1
+SS
+3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Riewed:
+Yes
+No
+DISQUALIFIED
+Page 5 of 5
+END OF REPORT

@@ -1,0 +1,303 @@
+UUID:7BC5ECDC-33EB-42AA-AD88-71185A483309
+TCGA-DK-AA75-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+SURGICAL PATHOLOGY REPORT
+DOB: (Age
+Location:
+Gender:
+M
+Service: Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+Muscle invasive TCC.
+Specimens Submitted:
+1: Bladder, prostate, seminal vesicles, peri- vesicle node; radical prostatectomy
+2: Ureter, left distal; excision
+3: Ureter, right distal; excision
+4: Ureter, right distal, #2; excision
+DIAGNOSIS:
+1. Bladder, prostate, seminal vesicles, peri- vesicle node; radical prostatectomy:
+a.
+Tumor Type:
+Urothelial carcinoma with mixed histologic features, including: predominantely micropapillary with focal NOS
+components
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Papillary and flat
+with focal micropapillary features
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+In situ carcinoma is also multifocal and extensive
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Perivesical involvement is extensive
+Ureters uninvolved
+Pw TSS, TCGA tumor =
+pure
+wrothelial
+ICD-03
+Carcinoma, urothelial NOS
+812013
+Site, Bladder, anterior wall
+0673
+834/30/14
+Urethra uninvolved
+Right ureteral orifice involved by in situ carcinoma
+Vascular Invasion:
+Identified
+Lymphovascular invasion is extensive
+Perineural Invasion:
+Identified
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Mucosa:
+Prostate:
+Unremarkable
+Other Please see part b
+Seminal Vesicles:
+Not involved
+Perivesical Lymph Nodes:
+Page 1 of 5
+SURGICAL PATHOLOGY REPORT
+Metastatic carcinoma present in 4/6 nodes
+Extracapsular extension is present
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+PRO (No involvement of prostate)
+b.
+Tumor Type:
+Gleason's Grade:
+Adenocarcinoma
+Primary Gleason grade:3
+Secondary Gleason grade:4
+Total Gleason score:7
+Tumor Location:
+Involves Right anterior
+The focus of carcinoma is minute
+Vascular Invasion:
+Not Identified
+Perineural Invasion:
+Identified
+Tumor Multicentricity:
+Not identifed
+High Grade Prostatic Intraepithelial Neoplasia:
+Capsule:
+Identified
+Seminal Vesicles:
+Tumor confined to prostate
+Not involved
+Bladder Neck:
+Not Involved
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Prostate:
+Exhibits nodular hyperplasia
+Staging (AJCC 1997):
+pT2a (confined to the prostate & capsule, involving one lobe)
+2. Ureter, left distal; excision:
+- Benign segment of ureter
+3. Ureter, right distal; excision:
+- Benign segment of ureter
+4. Ureter, right distal, #2; excision:
+- Benign segment of ureter
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Page 2 of 5
+Gross Description:
+SURGICAL PATHOLOGY REPORT
+***
+Report Electronically Signed Out ***
+1) The specimen is received fresh, labeled "Bladder, prostate, seminal vesicles, peri-vesicles node". It consists of a cystectomy
+specimen measuring 12.0 cm from superior to inferior, 10.0 cm laterally and 6.0 cm from anterior to posterior. The bladder
+measures 8.0 x 8.0 x 4.0 cm, the prostate measures 4.0 x 4.0 x 4.0 cm, the right seminal vesicle measures 4.5 x 2.5 x 0.5 cm, the
+right vas deferens measures 8.0 cm in length x 0.2 cm in diameter, the left seminal vesicle measures 4.5 x 1.5 × 0.6 cm, and the
+left vas deferens measures 7.8 cm in length x 0.2 cm in diameter. The anterior aspect of the bladder is inked blue and the
+posterior black. The prostatic urethral margin is shaved and submitted. The bladder is opened along the anterior midline to reveal
+a white-tan papillary mass measuring 4.5 x 4.0 cm which is grossly involving the left and right anterior wall and grossly appears to
+extend to the dome. The mass lies 5.5 cm from the left ureteral orifice and 5.3 cm from the right ureteral orifice. Both ureters are
+probed patent measuring up to 0.2 cm in maximum diameter. The lesion is sectioned to reveal a white firm cut surface and
+extending to a depth of 4.2 cm. The mass is 0.2 cm from the inked fat. There is a scar noted on the left posterior wall measuring
+1.5 x 0.3 cm, located 3.0 cm from the left ureteral orifice and 4.5 cm from the right ureteral orifice. In addition, there is a white-tan
+firm scarred area noted on the right posterior wall measuring 0.5 x 0.3 cm, located 3.5 cm from the left ureteral orifice and 1.5 cm
+from the right ureteral orifice. The posterior bladder mucosa is red-brown, congested with ill-defined areas of nodularity. Discrete
+perivesical lymph nodes are grossly identified. The prostate is serially sectioned to reveal a diffuse firm parenchyma with a
+white-tan whorled appearance. There are several white nodules noted ranging from 0.2 to 0.6 cm in diameter and multiple cysts
+ranging from 0.1 to 0.2 cm in diameter. Representative sections are submitted including three sections from each prostatic
+quadrant and transition zone. TPS is submitted.
+Summary of sections:
+UM-urethral margin
+RUM - right ureter margin
+LUM - left ureter margin
+RUO right ureter orifice
+-
+LUO left ureter orifice
+AWL1-2 - full face section of anterior wall lesion with deepest invasion
+WM - full face section of anterior wall lesion with deepest invasion, whole mount
+LPL - left posterior wall lesion
+RPL right posterior wall lesion
+LPW-left posterior wall
+LAW - left anterior wall
+RPW-right posterior wall
+RAW-right anterior wall
+TRI - trigone
+DOM - dome
+APWS - additional sections of posterior wall
+F-peri-vesical fat
+RSV right seminal vesicle
+LSV - left seminal vesicle
+RAP right apex prostate
+LAP left apex prostate
+RAM right anterior mid prostate
+-
+RPM right posterior mid prostate
+LAM left anterior mid prostate
+LPM left posterior mid prostate
+RAB right anterior base prostate
+RPB right posterior base prostate
+LAB left anterior base prostate
+LPB left posterior base prostate
+LN- whole lymph nodes
+BLN - bisected lymph nodes (one lymph node per cassette)
+TLNtrisected lymph node
+Page 3 of 5
+SURGICAL PATHOLOGY REPORT
+2) The specimen is received in formalin, labeled, "Left distal ureter, clip is on proximal margin", and consists of a tan tubular piece
+of tissue measuring 3.5 cm in length x 0.3 cm in diameter with surrounding yellow fatty tissue averaging 0.5 cm in thickness. There
+is an attached clip on the proximal margin. The proximal margin is inked red and the distal margin is inked black. The tissue is
+serially sectioned and entirely submitted.
+Summary of sections:
+E-ends (red-proximal margin; black-distal margin)
+M-middle
+3) The specimen is received in formalin, labeled, “Right distal ureter, clip is on proximal margin", and consists of a tan tubular piece
+of tissue measuring 1.2 cm in length x 0.3 cm in diameter with surrounding yellow fatty tissue averaging 0.5 cm in thickness. There
+is an attached clip on the proximal margin. The proximal margin is inked red and the distal margin is inked black. The tissue is
+serially sectioned and entirely submitted.
+Summary of sections:
+E - ends (red-proximal margin; black-distal margin)
+M - middle
+4) The specimen is received in formalin, labeled, "Right distal ureter #2, clip is on high proximal margin", and consists of a tan
+tubular piece of tissue measuring 1.5 cm in length x 0.3 cm in diameter with surrounding yellow fatty tissue averaging 0.3 cm in
+thickness. There is an attached clip on the high proximal margin. The high proximal margin is inked red and the distal margin is
+inked black. The tissue is serially sectioned and entirely submitted.
+Summary of sections:
+E-ends (red-high proximal margin; black-distal margin)
+M - middle
+Summary of Sections:
+Part 1: Bladder, prostate, seminal vesicles, peri- vesicle node; radical prostatectomy
+Blocks Block Designation
+PCs
+3
+APWS
+56632-22-1226TTTT-221-221-
+AWL1
+AWL2
+BLN
+DOM
+F
+LAB
+LAM
+LAP
+LAW
+LN
+LPB
+-36862222--226-7--222--2277
+LPL
+LPM
+1
+LPW
+1
+LSV
+1
+LUM
+1
+LUO
+RAB
+RAM
+RAP
+1
+RAW
+1
+RPB
+RPL
+RPM
+1
+RPW
+1
+Page 4 of 5
+1
+RSV
+1
+RUM
+1
+RUO
+1
+TLN
+1
+TRI
+1
+UM
+1
+WM
+3
+1123-1
+1
+1
+Part 2: Ureter, left distal; excision
+Blocks Block Designation PCs
+1
+2
+E
+M
+2
+8
+Part 3: Ureter, right distal; excision
+Blocks Block Designation
+1
+1
+E
+M
+PCs
+2
+2
+SURGICAL PATHOLOGY REPORT
+Part 4: Ureter, right distal, #2; excision
+1
+1
+BEM
+Blocks Block Designation
+PCs
+2
+3
+Page 5 of 5
+No
+Criteria
+Aw 2/13/14
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer initials
+Prostate
+QUALIRED
+Yes
+DISQUALIFIED
+11/23/13
+Date Reviewed:
+END OF REPORT

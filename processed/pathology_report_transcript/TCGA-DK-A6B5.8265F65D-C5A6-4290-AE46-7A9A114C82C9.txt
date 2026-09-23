@@ -1,0 +1,460 @@
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+UUID:8265F65D-C5A6-4290-AE46-7A9A114C82C9
+TCGA-DK-A6B5-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Accession #:
+Date of Procedure:
+(Age
+M
+Location:
+Service:
+Date of Receipt:
+Urology
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+INPATIENT
+Clinical Diagnosis & History:
+ear old male with recurrent T1HG, Tis despite BCG.
+Specimens Submitted:
+1: Left distal ureter; excision
+2: Lymph nodes, left pelvic; dissection
+3: Left ureter #2; excision
+4: Right ureter; excision
+5: Bladder, prostate, seminal vesicles, urethra; cystoprostatectomy
+6: Lymph nodes, right common iliac; dissection
+7: Lymph nodes, right pelvic; dissection
+8: Lymph nodes, right hypo gastric; dissection
+9: Lymph nodes, left common iliac; dissection
+10: Lymph node, left pelvic # 2; biopsy
+11: Lymph node, left hypo gastric; biopsy
+12: Right vas deferens; excision
+13: Left vas deferens; excision
+ICD-0-3
+Carcinoma, urothelial
+8126/3
+Site cock Bladder, anterior wall
+C67.3
+pa Bladder, NOS C67.9
+W 6/18/13
+DIAGNOSIS:
+1. Left distal ureter; excision:
+- Urothelial carcinoma in situ.
+2. Lymph nodes, left pelvic; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 5
+3. Left ureter #2; excision:
+- Urothelial carcinoma in situ, best seen on actual frozen section.
+4. Right ureter; excision:
+- Benign segment of ureter.
+5. Bladder, prostate, seminal vesicles, urethra; cystoprostatectomy:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+An inverted non-invasive component is also present but CIS predominates
+Page 1 of 8
+SURGICAL PATHOLOGY REPORT
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Multiple foci of invasive disease are present but the lesion in the left anterior wall is the most invasive, extending
+into perivesicle fat
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+* Right ureter uninvolved
+✓ Left ureter involved
+Urethra uninvolved
+•
+The intramural right ureter contains carcinoma
+1. Vascular Invasion:
+Identified
+LVI is multifocal
+Perineural invasión::
+Identified
+Surgical Margins:
+Tumor present at left ureteral margin
+See specimen number 3 for true left ureteral margin
+Non-Neoplastic Mucosa:
+Prostate:
+Exhibiting chronic cystitis
+Exhibiting granulomatous cystitis
+Exhibiting foreign body reaction
+Exhibiting proliferative cystitis (Brunn's nests, cystitis cystica, cystitis glandularis)
+Nodular hyperplasia
+Other The prostatic urethral is involved by urothelial carcinoma with underlying focal superficial stroma invasion
+Seminal Vesicles:
+Not involved
+Perivesical Lymph Nodes:
+Metastatic carcinoma present in 2 of 3 nodes
+The Pathologic Stage is (AJCC 2002):
+Comment:
+pT3 (Invasion of perivesicle soft tissue)
+PR1 (Prostatic stromal invasion)
+The nodal metastases consist of isolated cells or small clusters of cells present within the peripheral sinus
+without evidence of extranodal extension
+6. Lymph nodes, right common iliac; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 8
+7. Lymph nodes, right pelvic; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 8
+Page 2 of 8
+SURGICAL PATHOLOGY REPORT
+Necrotizing granulomatous inflammation consistent with BCG treatment
+8. Lymph nodes, right hypo gastric; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 4
+9. Lymph nodes, left common iliac; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 10
+10. Lymph node, left pelvic # 2; biopsy:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 2
+11. Lymph node, left hypo gastric; biopsy:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+12. Right vas deferens; excision:
+- Benign segment of vas deferens
+13. Left vas deferens; excision:
+- Benign segment of vas deferens
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND 
+APPROVED THIS REPORT.
+Gross Description:
+***
+* Report Electronically Signed Out
+***
+1)The specimen is received fresh, labeled “Left distal ureter". It consists of a 0.3 × 0.3 × 0.2 cm segment of ureter. Entirely frozen.
+Summary of sections
+FSC- frozen section control
+2)The specimen is received fresh, labeled “Left pelvic lymph nodes". It consists of five lymph nodes ranging from 0.3 to 2.5 cm.
+Entirely frozen.
+Summary of sections
+FSCA- frozen section control, one lymph node, bissected
+FSCB-frozen section control, one lymph node, bissected
+FSCC-frozen section control, three lymph nodes
+Page 3 of 8
+SURGICAL PATHOLOGY REPORT
+3)The specimen is received fresh, labeled “Left ureter #2". It consists of a 0.3 x 0.3 cm fragment of mucosa with attched 0.4 cm
+adipose tissue. The mucosa is entirely frozen.
+Summary of sections
+FSC- frozen section control
+4)The specimen is received fresh, labeled "Right ureter". It consists of a 0.5 x 0.4 x 0.3 cm segment of ureter. Entirely frozen.
+Summary of sections
+FSC-frozen section control
+5. The specimen is received fresh labeled, " Cystoprostatectomy". It consists of a bladder or prostate and seminal vesicle
+specimen measuring 13 cm from superior to inferior, 13.5 Cm laterally and 5.5 cm from anterior to posterior. The specimen is
+inked as follows: The right side is inked green and the left side is inked blue. The prostatic urethral margin is shaved and submitted
+for frozen section. The bladder measures 9.5 x 9.3 x 4.5 and is opened along the anterior midline to reveal an irregular ulcerating
+The lesion is situated 1 cm from the left orifice
+lesion measuring 2 x 1.5 cm which is grossly situated within the left anterior wall
+and 3 cm from the right. Both ureters are probe patent measuring up to 0.2 cm in maximum diameter. The lesion is sectioned to
+reveal possible extension into muscularis. Extension to the inked fat is grossly not identified. A second irregular ulcerating lesion
+The
+measuring 2.6 X 1.5 cm is seen 2.7 cm from the first tumor and grossly situated within the right anterior / lateral wall
+lesion is present within 0.3 cm from the right orifice and 2.5 Cm from the left. Both ureters are probe patent measuring up to
+0.2 cm in maximum diameter. The lesion is sectioned and appears limited to lamina propria. Extension to the inked fat is grossly
+not identified. A third tan polypoid nodule is present at the dome of the bladder measuring 0.9 x 0.9 cm and 4.5 cm from the first
+lesion. A fourth possible lesion is identified also in the dome about 1 cm from the nodule. The remaining bladder mucosa is
+grossly unremarkable. Discrete perivesical lymph nodes are grossly not identified. The prostate measures 3.5 x 2.5 x 2 cm and
+is serially sectioned to reveal unremarkable fibromuscular tissue. Representative section of the specimen, including entire lesions
+are submitted including two sections from each prostatic quadrant and transition zone. TPS is submitted. The specimen is
+submitted for lymph node dissection and all possible lymph nodes are submitted.
+Summary of sections:
+FSC - frozen control (urethral margin)
+RUM-right ureter margin
+LUM left ureter margin
+L1 lesion in left anterior wall
+L2- lesion in right anterior/lateral wall
+N-nodule in dome
+L4-fourth possible lesion
+RUO right ureter orifice
+LUO left ureter orifice
+LP
+left posterior wall
+RP right posterior wall (right and left anterior walls are almost entirely submitted with lesions)
+-
+TRI -- trigone
+DOM - dome
+F- perivesical fat
+RSV - right seminal vesicle
+LSV - left seminal vesicle
+RAP right apex prostate
+-
+LAP left apex prostate
+RAM - right anterior mid prostate
+RPM right posterior mid prostate
+LAM left anterior mid prostate
+LPM - left posterior mid prostate
+RAB right anterior base prostate
+RPB right posterior base prostate
+Page 4 of 8
+LAB left anterior base prostate
+LPB left posterior base prostate
+SURGICAL PATHOLOGY REPORT
+6). The specimen is received fresh, labeled "Right common iliac lymph node" and consists of two tan firm lymph nodes measuring
+1.3 x 0.8 x 0.3 and 1.5 x 0.8 x 0.4 cm. The lymph nodes are bisected and entirely submitted.
+Summary of sections:
+BLN - lymph nodes
+PLN--possible lymph nodes
+7). The specimen is received fresh, labeled "Right pelvic lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.3 to 3.1 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+BLN - bisected lymph node
+S1--serially sectioned lymph node
+S2--serially sectioned lymph node
+8). The specimen is received fresh, labeled "Right hypogastric lymph node" and consists of multiple pink tan firm lymph nodes
+ranging from 0.2 to 0.4 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+PLB--possible lymph node
+9). The specimen is received fresh, labeled "Left common iliac lymph nodes" and consists of multiple pink tan firm lymph nodes
+ranging from 0.2 to 2.2 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN-lymph nodes
+BLN - bisected lymph nodes
+10). The specimen is received fresh, labeled "Left pelvic lymph node #2" and consists of a firm tan lymph node measuring 3.5 x
+2.0 x 1.0 cm. The lymph node is serially sectioned and entirely submitted.
+Summary of sections:
+SL-serially sectioned lymph node
+PLN--possible lymph nodes
+11). The specimen is received fresh, labeled "Left hypogastric node" and consists of a firm tan lymph node measuring 0.6 x 0.5 x
+0.3 cm. The lymph node is entirely submitted.
+Summary of sections:
+LN- lymph node
+Page 5 of 8
+SURGICAL PATHOLOGY REPORT
+12). The specimen is received in formalin, labeled, "right vas deferens" and consists of two cylindrical portions of tan-white soft
+tissue averaging 2.5 x 0.4 cm. Sectioning reveals tan-white, pinpoint lumens. The specimen is entirely submitted.
+Summary of sections:
+U -- undesignated
+13). The specimen is received in formalin, labeled, "left vas deferens" and consists of a single cylindrical portion of tan-white soft
+tissue averaging 5 x 0.3 cm with attached tan-purple, membranous tissue. Sectioning reveals a tan-white, pinpoint lumen. The
+specimen is entirely submitted.
+Summary of sections:
+U -- undesignated
+Summary of Sections:
+Part 1: Left distal ureter; excision
+Block
+1
+Sect. Site
+fsc
+PCs
+1
+Part 2: Lymph nodes, left pelvic; dissection
+Block
+1
+1
+1
+Sect. Site
+PCs
+fsca
+fscb
+1
+fscc
+1
+Part 3: Left ureter #2; excision
+Block
+1
+Sect. Site
+fsc
+PCs
+Part 4: Right ureter; excision
+Block
+1
+Sect. Site
+fsc
+PCs
+1
+Part 5: Bladder, prostate, seminal vesicles, urethra; cystoprostatectomy
+Block
+1
+Sect. Site
+PCs
+BLN
+2
+DOM
+1
+F
+1
+1
+fsc
+1
+-542.
+L1
+5
+1
+1
+LAM
+1
+LAP
+1
+LN
+1
+LP
+1
+LPB
+L2
+L4
+LAB
+4211-4--
+Page 6 of 8
+SURGICAL PATHOLOGY REPORT
+1
+LPM
+1
+LSV
+1
+LUM
+1
+LUO
+1
+2
+N
+2
+1
+RAB
+1
+1
+RAM
+1
+RAP
+1
+RP
+1
+1
+RPB
+1
+1
+RPM
+1
+1
+RSV
+RUM
+1
+1
+RUO
+1
+1
+TRI
+Part 6: Lymph nodes, right common iliac; dissection
+Block
+2
+1
+Sect. Site
+BLN
+PLN
+PCs
+4
+3
+Part 7: Lymph nodes, right pelvic; dissection
+Block
+1
+233
+Sect. Site
+BLN
+LN
+S1
+S2
+PCs
+.2566
+Part 8: Lymph nodes, right hypo gastric; dissection
+Block
+1
+1
+Sect. Site
+LN
+PLN
+PCs
+4
+1
+Part 9: Lymph nodes, left common iliac; dissection
+Block
+1
+3
+1
+Sect. Site
+BLN
+LN
+PLN
+PCs
+281
+Part 10: Lymph node, left pelvic #2; biopsy
+Block
+1
+4
+Sect. Site
+PLN
+SL
+PCs
+2
+8
+Part 11: Lymph node, left hypo gastric; biopsy
+Block
+1
+Sect. Site
+LN
+Part 12: Right vas deferens; excision
+Block
+3
+Sect. Site
+U
+Part 13: Left vas deferens; excision
+PCs
+PCs
+30
+Page 7 of 8
+Block
+3
+SURGICAL PATHOLOGY REPORT
+PCs
+Sect. Site
+U
+15
+Intraoperative Consultation:
+1. Frozen section diagnosis: Left distal ureter (fs): Carcinoma in situ
+Permanent diagnosis: same
+2. Frozen section diagnosis: Left pelvic lymph nodes (fs): Benign lymph nodes (0/5) (
+Permanent diagnosis: same
+3. Frozen section diagnosis: Left ureter #2 (fs): Carcinoma in situ
+Permanent diagnosis: same
+4. Frozen section diagnosis: Right ureter (fs): Benign
+Permanent diagnosis: same
+5. Frozen section diagnosis: Bladder, prostate, seminal vesicles urethra (fs): Benign urethral margin
+Permanent diagnosis: same
+Page 8 of 8
+Criteria
+w 5/5/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary noted
+Case is (circle):
+QUALIFIED
+DISQUALIFIED
+Reviewer Initials BTH Date Reviewed: 4/26 13
+END OF REPORT

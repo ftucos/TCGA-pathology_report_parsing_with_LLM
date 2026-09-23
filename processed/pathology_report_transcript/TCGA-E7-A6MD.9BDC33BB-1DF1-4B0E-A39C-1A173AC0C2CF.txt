@@ -1,0 +1,69 @@
+Patient ID:
+Surgical Date:
+UUID:9BDC33BB-1DF1-4B0E-A39C-1A173AC8C2CF
+TCGA-E7-A6MD-01A-PR
+Redacted
+Gross Description: 1.Piece of cystoprostatectomy presenting the urinary bladder with a whitish,
+ulcerated and necrosed multifocal tumoral proliferation, with invasive aspect and intramural evolution.
+Histopathological aspect of infiltrative urothelial cell carcinoma, with high malignant potential,
+moderately poorly differentiated, G2/G3, with areas of neuroendocrine differentiation, intramural
+evolution and invasion of the entire bladder wall, up to the perivesical fat tissue and the prostate, with
+necrosis and ulceration; stpT4. Numerous intravascular tumoral emboli.
+2.Right iliac commune tissue with eight (8) lymph nodes with a maximum diameter of 1.0 cm, the
+biggest of them with metastasis of the urothelial cell carcinoma, G2/G3, the rest with reactive aspect
+and sinus congestion (1+).
+3.Left iliac extern, intern and obturator tissue with six (6) lymph nodes with dimensions of 0.8 cm; two
+of them with metastasis of the urothelial cell carcinoma, G2/G3, the rest with reactive aspect and sclero-
+lipomatous dystrophy (2+).
+4.-5. Resection samples with preserved histological aspect.
+Microscopic Description:
+Diagnosis Details: CONCLUSION: Infiltrative urothelial cell carcinoma of the bladder, with high malignant
+potential, moderately/ poorly differentiated, G2/G3, with areas of neuroendocrine differentiation,
+stpT4, pN2, pMx (stage IV).
+Comments:
+ICD-0-3
+Careena, urothelial NOS
+bath
+812013
+8/2013
+Carcinoma, transitional cell NOS
+C67.3
+Site COLF
+Anterior wally bladder
+path Bladder NOS (67.9
+408667.9
+Per TSS, specific site is bledow, wall,
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Radical cystectomy
+Tumor site: Bladder
+Tumor size: Not specified
+Tumor features: Ulcerated
+Histologic type: Transitional cell carcinoma
+Histologic grade: Poorly differentiated
+anterior.
+Все
+9137/3/13
+Tumor extent: Invades to prostate
+Lymph nodes: 3/14 positive for metastasis (Iliac commune and left side nodes 3/14)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Criteria
+Diagnosis Discrepancy
+A 7/1/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Meted
+Case is circle):
+QUALIFIED
+Review In
+Yes
+No
+"
+/ DISQUALIFIED
+Date Bviewed:
+7/1/13

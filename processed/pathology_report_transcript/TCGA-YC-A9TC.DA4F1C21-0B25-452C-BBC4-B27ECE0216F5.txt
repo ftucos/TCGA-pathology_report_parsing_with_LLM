@@ -1,0 +1,85 @@
+UUID:DA4F1C21-0B25-452C-BBC4-B27ECE0216F5
+TCGA-YC-A9TC-01A-PR
+Redacted
+Research Gross Description
+-year-old male, bladder TURB
+Research Dx
+Bladder tumor, transurethral resection:
+Urothelial carcinoma with extensive squamous differentiation. See case summary and comment.
+CASE SUMMARY FOR URINARY BLADDER BIOPSY AND TRANSURETHRAL RESECTION OF
+BLADDER TUMOR (TURBT):
+Procedure: TURBT
+Tumor type: Invasive carcinoma
+Histologic type: Urothelial carcinoma with extensive squamous differentiation
+Associated epithelial lesions: None identified
+Histologic grade (WHO/ISUP): High grade
+Tumor configuration: Solid and papillary
+Adequacy of material for determining muscularis propria invasion: Muscularis propria present
+Lymph-vascular invasion: Present
+Microscopic tumor extension: Tumor invades muscularis propria
+Additional pathologic findings: Keratinizing squamous metaplasia, extensive necrosis and
+calcification
+AJCC Staging (7th edition): At least pT2 pNX pM:Not applicable
+Research QC
+Original Tumor T1:
+90% tumor nuclei 1/3 squamous, 2/3 poorly differentiated; 0% necrosis;
+10% normal stroma
+Re-review/Revised:
+80% tumor nuclei 1/3 squamous, 2/3 poorly differentiated; 10% necrosis;
+10% normal stroma
+Normal:
+na
+Research Specimen
+Specimen Process Time
+Blood draw time:
+Plasma frozen time:
+ICD-0.3
+Carcinoma, urothelial Nos
+812013
+Site ladder NOS.
+0679
+11/17/14
+Serum frozen time
+Buffy coat frozen time:
+Tissue:
+Cold ischemia start time:
+Formalin fixation start time:
+Frozen start time:
+Total cold ischemia time: 22 minutes
+Formalin fixation stop time:
+Total formalin fixation time: The specimen has spent greater than 6 and fewer than 72 hours in formalin.
+Specimen Weight
+1
+Specimen Size
+Plasma x 3
+Serum x 2
+Buffy coat x 1
+Cryovials x 1
+Normal x 0
+-
+Tumor x 1 1. 475 mg
+Metastatic x 0
+FFPE × 1
+Normal x 0
+Tumor x 1
+Metastatic x0
+Study
+Patient Consent
+Yes
+Yes
+No
+77
+i-
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+1/8/14
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+2

@@ -1,0 +1,434 @@
+UUID:FFC32668-B801-48EB-BBAC-0E624AEED12D
+TCGA-DK-A6AW-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+Gender:
+DOB:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+SURGICAL PATHOLOGY REPORT
+(Age:
+Location:
+M
+Service: Urology
+Clinical Diagnosis & History:
+Bladder carcinoma.
+Specimens Submitted:
+1: SP: Right pelvic lymph nodes, excision (fs)
+2: SP: Perivesical tissue, excision
+3: SP: Right pelvic lymph nodes, excision
+4: SP: Left pelvic lymph nodes, excision
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+INPATIENT
+812013
+Carcinoma, urothelial vos
+Site cose Bladder trigone C67.0
+path Bladder, ureteric orgic
+92 6/18/13
+5: SP: Bladder, prostate, seminal vesicles, urethra, perivesical tissue and lymph nodes, radical cystoprostatectomy
+6: SP: Left pelvic lymph nodes, excision
+7: SP: Right pelvic lymph nodes, excision
+8: SP: Left vas deferens, excision
+9: SP: Lipoma of left spermatic cord
+10: SP: Right vas deferens, excision
+11: SP: Urachus, excision
+12: SP: Distal right ureter, excision
+DIAGNOSIS:
+1. SP: Right pelvic lymph nodes, excision (fs):
+Lymph Nodes:
+Not involved
+Number of nodes examined:7
+C6%6
+2. SP: Perivesical tissue, excision:
+- Benign fibroadipose tissue.
+3. SP: Right pelvic lymph nodes, excision:
+Lymph Nodes:
+Not involved
+Number of nodes examined:3
+4. SP: Left pelvic lymph nodes, excision:
+Lymph Nodes:
+Not involved
+Number of nodes examined:2
+5. SP: Bladder, prostate, seminal vesicles, urethra, perivesical tissue and lymph nodes, radical cystoprostatectomy:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Page 1 of 7
+SURGICAL PATHOLOGY REPORT
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Not identified
+Bladder Local Invasion:
+Superficial half of muscularis propria
+Extravesical Tumor Extension:
+Ureters uninvolved.
+Vascular Invasion:
+Not identified
+Not identified
+Rerineural Invasion:
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Mucosa:
+Prostate:
+Exhibiting granulomatous cystitis
+Nodular hyperplasia
+Seminal Vesicles:
+Not involved
+Perivesical Lymph Nodes:
+Not identified
+The Pathologic Stage is (AJCC 2002):
+pT2a (Invades superficial half of muscularis propria)
+PRO (No involvement of prostate)
+6. SP: Left pelvic lymph nodes, excision:
+Lymph Nodes:
+Number of nodes examined:13
+Number of metastatic nodes:0
+7. SP: Right pelvic lymph nodes, excision:
+Lymph Nodes:
+Number of nodes examined:2
+Number of metastatic nodes:0
+8. Left vas deferens, excision:
+- Benign vas deferens.
+9. Lipoma of left spermatic cord; excision:
+- Benign fibroadipose tissue.
+10. Right vas deferens, excision:
+- Benign vas deferens.
+Page 2 of 7
+11. Urachus; excision:
+- Benign fibroadipose tissue.
+12. Distal right ureter; excision:
+- Benign ureter.
+SURGICAL PATHOLOGY REPORT
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND 
+APPROVED THIS REPORT.
+Gross Description:
+☐
+*** Report Electronically Signed Out
+1) The specimen is received fresh for intraoperative consultation, labeled "right pelvic lymph nodes" and consists of two pink tan
+fatty lymph nodes (1.5 and 6.5 cm in greatest dimension) which are bisected and submitted for frozen section (FSA: one lymph
+node; FSB-FSD: one trisected lymph node). Possible smaller lymph nodes (0.5-0.8 cm) are identified and submitted for paraffin
+sections.
+Summary of sections:
+FSCA frozen section control
+FSCB frozen section control
+FSCC frozen section control
+FSCD frozen section control
+LN-lymph nodes
+2). The specimen is received fresh, labeled "perivesical tissue, fresh and sterile" and consists of a single ovoid portion of pink-tan
+to yellow-tan, lobulated fibroadipose tissue measuring 7 x 4 x 1.2 cm with no lymph nodes grossly identified. Representative
+sections are submitted.
+Summary of sections:
+U- - undesignated
+3). The specimen is received fresh, labeled "right pelvic lymph nodes, fresh and sterile" and consists of three pink tan firm lymph
+nodes ranging from 1 to 3.7 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph node
+TLNtrisected lymph node
+QLN - quadrisected lymph node
+4). The specimen is received fresh, labeled "left pelvic lymph nodes, fresh and sterile" and consists of two pink tan firm lymph
+nodes measuring 1.9 and 2.9 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN - lymph node
+BLN -- bisected lymph node
+Page 3 of 7
+SURGICAL PATHOLOGY REPORT
+5) The specimen is received fresh labeled, "Bladder, prostate, seminal vesicles, urethra, perivesical tissue and lymph nodes". It
+consists of a cystoprostatectomy specimen measuring 18.5 cm from superior to inferior, 7.5 cm laterally and 5.0 cm from anterior to
+posterior. The left prostate is inked blue and the right prostate is inked green and the remainder of the specimen is inked
+magenta. The prostatic urethral margin is shaved and submitted. The bladder is opened along the anterior midline to reveal two
+polypoid tumors measuring 2.5 x 1.9 x 1.2 cm (t1) and 1.4 x 1.3 x 0.8 cm (t2). T1 is grossly situated adjacent to the opening of the
+prostatic urethra, 0.6 cm from the right ureter. T2 is grossly situated on the left side and is partially occluding the left ureteral orifice.
+Both ureters are probe patent measuring 0.6 (right) and 1.1 cm (left) in maximum diameter. The lesion is sectioned to reveal no
+invasion beyond the base of the polyp. Extension to the inked fat is grossly not identified. The remaining bladder mucosa is
+ulceration and congestion at the trigone. Discrete perivesical lymph nodes are grossly not identified. The prostate is serially
+sectioned to reveal multiple BPH nodules. Representative sections are submitted including two sections from each prostatic
+quadrant and transition zone. TPS is submitted.
+Summary of sections:
+UTHM -- urethral margin
+RUM-- right ureter margin
+LUM left ureter margin
+T1RUO right ureter orifice
+T2LUO- entire T2 and entire left ureteral orifice
+LP - left posterior wall
+LA -- left anterior wall
+RP -
+right posterior wall
+RA-- right anterior wall
+TRI-
+trigone
+DOM- dome
+F - perivesical fat
+RSV - right seminal vesicle
+LSV - left seminal vesicle
+RAP -- right apex prostate
+LAP -- left apex prostate
+RAM -- right anterior mid prostate
+RPM right posterior mid prostate
+LAM - left anterior mid prostate
+LPM - left posterior mid prostate
+RAB -- right anterior base prostate
+RPB right posterior base prostate
+LAB -- left anterior base prostate
+LPB -- left posterior base prostate
+6). The specimen is received fresh, labeled "left pelvic lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.3 to 3.9 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+BLN-- bisected lymph nodes
+7). The specimen is received fresh, labeled "right pelvic lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.3 to 0.5 cm in greatest dimension. All identified lymph nodes are submitted. (The entire specimen is submitted)
+Summary of sections:
+LN- lymph nodes
+BLN- bisected lymph nodes
+Page 4 of 7
+SURGICAL PATHOLOGY REPORT
+8). The specimen is received in formalin, labeled "Left vas deferens" and consists of an unoriented segment of pink-tan tubular
+tissue measuring 8.7 cm in length and 0.3 cm in maximum diameter, with scant yellow-tan soft tissue attached. On cut section, a
+pinpoint lumen is identified. No discrete abnormalities are grossly noted. Representative sections of the specimen are submitted.
+Summary of sections:
+E - ends
+C - center
+9). The specimen is received in formalin, labeled "Lipoma of left spermatic cord" and consists of a formed mass of yellow-tan
+lobulated soft tissue measuring 6.2 x 3 x 0.9 cm. The external surface covered by a thin transparent membrane. Sectioning
+reveals yellow-tan lobulated and grossly unremarkable soft tissue. Representative sections are submitted.
+Summary of sections:
+U-undesignated
+10). The specimen is received in formalin, labeled "Right vas deferens" and consists of an unoriented segment of pink-tan tubular
+tissue measuring 4.7 cm in length and 0.3 cm in maximum diameter, with scant yellow-tan soft tissue attached. On cut section, a
+pinpoint lumen is identified. No discrete abnormalities are grossly noted. Representative sections of the specimen are submitted.
+Summary of sections:
+E - ends
+C - center
+11). The specimen is received in formalin, labeled "Urachus" and consists of a piece of focally hemorrhagic fatty tissue measuring
+7.5 x 2.8 x 1.0 cm. Sectioning reveals no definitive urachus. The specimen is serially sectioned from end to end and is entirely
+submitted.
+Summary of sections:
+SS serial sections
+12). The specimen is received in formalin, labeled "Distal right ureter" and consists of a segment of ureter measuring 2.9 cm in
+length and 0.5 cm in maximum diameter, with attached adipose tissue. A clip is identified at one end, which marks the proximal
+margin and is inked black. The specimen is serially sectioned to reveal a patent stellate lumen with no abnormalities grossly
+noted. The specimen is serially sectioned from the unclipped to clipped end, and is entirely submitted.
+Summary of sections:
+C-clipped end, margin
+SS-serial sections clipped to opposite unclipped end
+OE - opposite unclipped end
+Summary of Sections:
+Part 1: SP: Right pelvic lymph nodes, excision (fs)
+Block
+1
+1
+1
+1
+1
+Sect. Site
+PCs
+fsca
+1
+fscb
+1
+fscc
+1
+fscd
+1
+In
+Part 2: SP: Perivesical tissue, excision
+Block
+Sect. Site
+PCs
+Page 5 of 7
+2
+U
+SURGICAL PATHOLOGY REPORT
+20
+20
+Part 3: SP: Right pelvic lymph nodes, excision
+Block
+1
+4
+3
+Sect. Site
+LN
+QLN
+TLN
+PCs
+1
+4
+Part 4: SP: Left pelvic lymph nodes, excision
+Block
+2
+1
+Sect. Site
+BLN
+LN
+PCs
+2
+1
+Part 5: SP: Bladder, prostate, seminal vesicles, urethra, perivesical tissue and lymph nodes, radical cystoprostatectomy
+Block
+Sect. Site
+1
+dom
+PCs
+1
+1
+f
+1
+1
+la
+1
+1
+lab
+1
+1
+lam
+1
+1
+lap
+1
+1
+Ip
+1
+1
+Ipb
+1
+1
+Ipm
+1
+1
+lsv
+1
+1
+lum
+1
+ra
+rab
+1
+1
+ram
+1
+1
+rap
+1
+1
+гр
+1
+1
+rpb
+1
+1
+rpm
+1
+1
+rsv
+1
+1
+rum
+1
+5
+t1ruo
+t2luo
+1
+1
+tri
+uthm
+5517
+Part 6: SP: Left pelvic lymph nodes, excision
+Block
+1443
+Sect. Site
+bin
+Ign
+In
+PCs
+4
+4
+3
+Part 7: SP: Right pelvic lymph nodes, excision
+Block
+1
+Sect. Site
+bln
+In
+Part 8: SP: Left vas deferens, excision
+Block
+1
+Sect. Site
+с
+PCs
+1
+PCs
+1
+Page 6 of 7
+SURGICAL PATHOLOGY REPORT
+1
+e
+1
+Part 9: SP: Lipoma of left spermatic cord
+Block
+3
+Sect. Site
+SS
+PCs
+3
+Part 10: SP: Right vas deferens, excision
+Block
+1
+1
+Sect. Site
+PCs
+C
+e
+1
+1
+Part 11: SP: Urachus, excision
+Block
+6
+Sect. Site
+S$
+PCs
+6
+Part 12: SP: Distal right ureter, excision
+Block
+1
+1
+1
+Sect. Site
+C
+oe
+SS
+PCs
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperative consultation.
+FROZEN SECTION DIAGNOSIS: SP: RIGHT PELVIC LYMPH NODES (FS): NEGATIVE LYMPH NODES
+PERMANENT DIAGNOSIS: SAME.
+1A-D.
+Page 7 of 7
+Criteria
+,MD
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History p. I blew
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALIFIED
+ކ
+DISQUALIFIED
+Reviewer initials 6TH Date Reviewed: 4/76/13
+5/5/13
+END OF REPORT

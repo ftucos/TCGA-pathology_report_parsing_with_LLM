@@ -1,0 +1,51 @@
+UUID:9AF70357-D696-4AEB-B338-7A711A39DAE5
+TCGA-ZF-A9RE-01A-PR
+Redacted
+Specimen Comments
+SPECIMEN
+Bladder tumour.
+CLINICAL DETAILS
+Samples taken for research. Persistent G3 pT2 TCC.
+MACROSCOPY
+18g of firm and friable tissue chippings.
+MICROSCOPY
+Grade:
+Growth pattern:
+Type:
+3 poorly differentiated.
+Mixed papillary and solid.
+Transitional cell carcinoma.
+Muscularis propria present:
+Stromal invasion:
+Vascular channel invasion:
+Background urothelium:
+urothelium.
+Summary:
+Yes.
+Invasion of muscularis propria (at least).
+No definite lymphovascular invasion.
+Carcinoma in situ is present in flat
+Transitional cell carcinoma G3 pT2 (at
+least).
+Pathologists -
+COCE
+ICD-0-3
+Carcinoma, urothelial Nos 8120/3
+PCarcinoma, transitional cell NOS 8120/3
+Site: Bladder Nos. 067.9
+435/2/14
+Criteria
+Diagnosis Discrepancy
+hu 3/21/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+DISQUALIFIED
+Date Reviewed: 11/24/14
+No
+4

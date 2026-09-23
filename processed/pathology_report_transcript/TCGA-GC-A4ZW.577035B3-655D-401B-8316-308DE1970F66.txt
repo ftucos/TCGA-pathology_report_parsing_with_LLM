@@ -1,0 +1,242 @@
+Report for
+TEST: Surgical Pathology
+Collected Date & Time:
+Result Name
+Surgical Pathology
+UUID:577035B3-655D-401B-8316-308DE1970F66
+TCGA-GC-A4ZW-01A-PR
+Redacted
+Results
+Units
+Reference Range
+SURGICAL P
+SURGICAL PATHOLOGY REPORT
+Patient Name:
+Accession #
+Med. Rec. %:
+Billing Type:
+Location:
+Service:
+Gender: M..
+Billing
+Taken
+Physician(s):
+Specimen(s) Received
+A: Distal right ureter
+B: Distal left ureter
+C: Bladder and prostate
+D: Right pelvic lymph nodes
+E: Left pelvic lymph nodes
+Pathologic Diagnosis
+Distal right ureter (A):
+Reported:
+10D-0-3
+carcinoma, urothelial, Nos 8120/3
+Sitk: bladdw, NOS C67.9
+Ureter segment, negative for dysplasia and malignancy.
+Distal left ureter (B):
+Benign ureter segment, negative for dysplasia and
+malignancy.
+Bladder and prostate, radical cystoprostatectomy (C):
+Invasive high-grade urothelial carcinoma (4.5 cm)
+invading through detrusor muscle into perivesical adipose tissue.
+Benign margins of surgical resection.
+Negative for lymphovascular and perineural invasion.
+Lymph nodes (5), no tumor present.
+Prostate with scattered microscopic foci of high-grade
+prostatic intraepithelial neoplasia; negative for involvement by
+transitional cell carcinoma.
+Unremarkable seminal vesicles, negative for involvement by
+urothelial carcinoma.
+Right pelvic lymph node (D):
+Lymph node (1), no tumor present.
+Left pelvic lymph nodes (E):
+Lymph nodes (4), no tumor present.
+SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST: BLADDER,
+RADICAL CYSTECTOMY
+Specimen:
+Procedure:
+Tumor Site:
+Bladder, prostate, bilateral seminal vesicles
+Radical cystoprostatectomy
+Left anterior and posterolateral wall
+Tumor Size: 4.5 cm
+Histologic Type: Urothelial (transitional cell) carcinoma
+Associated Epithelial Lesions: Papillary urothelial neoplasm
+سل
+11/4/12
+high-grade
+Histologic Grade:
+WHO high-grade
+Tumor Configuration: Papillary for noninvasive elements and
+infiltrative for invasive elements
+Microscopic Tumor Extension:
+Margins: Uninvolved by invasive carcinoma
+Lymph-Vascular Invasion:
+Perivesical fat
+Not identified
+None
+Additional Pathologic Findings:
+PATHOLOGIC STAGE: pT3a, pNO, pмX
+NOTE: Information on pathology stage and the operative procedure
+is transmitted to this Institution's Cancer Registry 
+as required
+Pathology 
+stage
+for accreditation by the Commission on Cancer.
+is based solely upon the current tissue specimen being evaluated
+Pathology stage 
+is
+and does not incorporate other relevant data
+.
+only a component to be considered in determining the clinical
+stage and should not be confused with nor 
+substituted for it.
+The exact operative procedure is available in the 
+surgeon's
+operative report.
+Primary Pabbologist:
+lectronically signed out
+Clinical History
+Bladder cancer.
+Intraoperative Consultation
+A. Distal right ureter: Negative for carcinoma. (Microscopic
+evaluation).
+B. Distal left ureter: Negative for carcinoma. (Microscopic
+evaluation).
+D. Right pelvic lymph node:
+evaluation).
+E. Left pelvic lymph node:
+evaluation).
+Benign lymph node. (Microscopic
+Negative for carcinoma. (Microscopic
+Gross Description
+A. Received fresh for frozen section labeled "distal right
+ureter" is a 0.5 x 0.3 × 0.1 cm segment of ureter. The specimen
+is inked yellow and entirely submitted in cassette Al-
+FS.
+B. Received fresh for frozen section labeled "
+distal 
+left
+ureter" is a 0.5 x 0.4 x 0.1 cm segment of ureter. The specimen
+is inked black and entirely submitted in cassette B1-FS.
+C.
+Received in formalin and labeled "bladder and prostate" is a
+469 g, cystoprostatectomy specimen (15.0 × 13.0 x 6.0 cm). 
+The
+specimen comes with an abundant amount of 
+perivesicular adipose
+tissue attached. The cystoprostatectomy specimen consists 
+of a
+bladder (6.5 x 5.5 x 5.0 cm) with attached right and left ureter
+(1.0 cm in length). There is a prostate (5.0 cm from
+left-to-right, 3.5 cm from anterior-to-posterior, 3.3 cm from
+apex-to-bladder-neck-margin) with attached right 
+seminal 
+vesicle
+(3.0 x 1.5 x 0.5 cm), right vas deferens (12.0 x 0.5 
+x 0.2 cm),
+left seminal vesicle (3.5 x 2.5 x 0.6 cm), left vas deferens 
+(
+3.0
+x 0.3 x 0.2 cm). The right side of the specimen is inked blue;
+the left side of the specimen is inked black.
+In the left anterior and posterior lateral wall of the bladder,
+there is a 4.5 x 2.5 x 0.9 cm pink-tan polypoid mass. This lesion
+extends across the midline into the right anterior and 
+posterior
+bladder and extends towards the bladder-prostate junction
+. The
+Page 2 of 4
+mass'
+cut surface is white-tan, firm and extends into the
+perivesicular fat. The mass at the posterior bladder, comes to
+within 0.5 cm to the perivesicular fat margin (inked black) and
+on the anterior bladder is 1.0 cm from the perivesicular fat
+margin (inked black). The lesion is 2.5 cm from the nearest
+peritonealized surface. The ureteral orifices are patent. There
+are no other discrete masses or suspicious areas grossly
+identified. The remainder of the mucosa is tan, glistening and
+pliable.
+The prostate has a white-tan cut surface with no discrete nodules
+or masses grossly identified. There are 5 lymph nodes dissected
+out ranging from 0.3 to 1.1 cm in greatest dimension.
+-
+-
+-
+-
+left
+right
+Also received in the container is a 38 cm in length and 0.8 cm in
+diameter, brown-tan rubber tubing consistent with a catheter.
+Sections are submitted as follows: C1 - right trigone, C2
+trigone, C3 posterior bladder-prostate transition, C4
+anterior bladder-prostate transition, C5-9 mass in left lateral
+posterior wall, C10 mass and lateral anterior wall, Cll
+lateral wall, C12 posterior wall, C13 - anterior wall, C14 -
+dome, C15 right seminal vesicle insertion point and
+cross-sections through right seminal vesicle and vas deferens,
+C16 left seminal vesicle insertion point and cross-section
+through left seminal vesicle and vas deferens, C17-18
+anterior apex perpendicularly cut, C19-20
+perpendicularly cut, C21 - right anterior prostate, C22
+anterior prostate, C23-25 right posterior prostate, C26-28
+-
+-
+left posterior prostate, C29
+1.1 cm in greatest dimension.
+-
+-
+left apex
+-
+right
+-
+left
+5 lymph nodes ranging from 0.3 to
+D. Received fresh for frozen section labeled "right pelvic lymph
+node" is a single lymph node measuring 4.0 cm in greatest
+dimension. The lymph node is serially sectioned and entirely
+submitted in cassette D1-FS and D2-FS.
+E. Received fresh for frozen section labeled "left pelvic lymph
+nodes" are 4 lymph nodes ranging from 1.3 to 5.5 cm in greatest
+dimension. Sections are submitted as follows: El-FS and E2-FS
+contains one lymph node (5.5 cm) inked blue and serially
+sectioned, E3-FS - two lymph nodes, one inked yellow, one inked
+black, E4-FS and E5-FS one lymph node (5.0 cm) inked orange and
+bisected.
+:
+Microscopic Description
+Microscopic examination has been performed on all slides.
+pathologic diagnosis encompasses the essential microscopic
+findings of this case.
+The
+Interpretation perfo
+If immunohistochemistry or in situ hybridization was used the
+following applies:
+This test
+characteristic determined by
+ance
+B. It
+has not been cleared or approved by the U. S. Food and Drug
+Administration (FDA). The FDA does not require this test to go
+through premarket FDA review. This test is used for clinical
+purposes. It should not be regarded as investigational or for
+research. 
+This laboratory is certified under the Clinical
+Laboratory Improvement Amendments (CLIA) as qualified to perform
+high complexity clinical laboratory testing. All special stains
+Page 3 of 4
+used have adequate controls.
+Page 4 of 4
+Criteria
+Diagnosic Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is cicle:
+Reviewe
+QUALIFIED
+Date viewed:
+DISQUALIFIED
+11/2/12

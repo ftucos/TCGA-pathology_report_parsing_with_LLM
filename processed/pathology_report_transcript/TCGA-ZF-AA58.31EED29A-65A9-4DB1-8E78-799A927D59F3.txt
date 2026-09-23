@@ -1,0 +1,71 @@
+UUID:31EED29A-65A9-4DB1-8E78-799A927D59F3
+TCGA-ZF-AA58-01A-PR
+Redacted
+Specimen Comments
+SPECIMEN
+1 - Bladder, uterus, tubes, ovaries, cervix.
+2 Left external iliac.
+3 Left obturator.
+4 Right obturator.
+5 - Right ureteric resection margin.
+CLINICAL DETAILS
+CLOCE
+ICD0.3
+Carcinoma, urothelial NOS 8120/3
+bath
+arcinoma, transitional cell Nos 812013
+Site Bladder wall C67.9
+JJ 4/30/14
+Muscle invasive bladder cancer. Cystectomy. Specimen is bladder, ovaries,
+uterus. Palpable right obturator nodes ? mets.
+MACROSCOPY
+1 - Specimen comprises bladder, uterus, both tubes and ovaries. Bladder
+measures 95 mm supero-inferiorly x 65 mm medio-lateral and 30 mm anterior-
+posterior. On opening, the bladder shows a grey/white ulcerated tumour on
+posterior and right lateral walls measuring 25 mm x 20 mm x 10 mm. The tumour
+is seen infiltrating into the muscle.
+Uterus 60 mm supero-inferiorly x 35 mm medio-lateral and 50 mm anterior-
+posterior. On slicing, it is unremarkable. Right tube 35 x 4 mm, right ovary
+20 x 8 mm. Left tube 45 x 3 mm, left ovary 18 x 10 mm.
+2 - Fatty piece of tissue measuring 40 x 22 x 10 mm, containing two lymph nodes,
+the larger measures 15 mm.
+3 - Fatty piece of tissue measuring 40 x 20 x 10 mm. Slicing shows multiple
+nodes, the largest 15 mm diameter.
+4 - Fatty piece of tissue measuring 70 x 35 x 20 mm. Multiple lymph nodes
+identified, the largest is probably an involved node measuring 25 mm.
+5- Tubular piece of tissue measuring 7 x 6 mm.
+MICROSCOPY
+Pur JSS
+03, squamous
+1 - This bladder shows a Grade 3, poorly differentiated transitional cell
+carcinoma. The tumour is solid with no papillary areas and is composed of
+pleomorphic cells. It infiltrates into the muscularis propria and focally
+through it into the fat (pT3a). The background epithelium shows squamous
+metaplasia, but no dysplasia or carcinoma-in-situ is identified. There is no
+vascular invasion. The urethral and right ureteric resection margins do not
+show any evidence of malignancy. The cervix is unremarkable. The endometrium
+shows cystic atrophy. The myometrium, both tubes and ovaries are unremarkable.
+No evidence of metastatic tumour is identified.
+2 - One out of two lymph nodes shows metastatic transitional cell carcinoma.
+3 Three lymph nodes without metastatic deposits identified.
+4 - One out of six lymph nodes shows metastatic transitional cell carcinoma.
+5- The right ureteric margin does not show any evidence of malignancy.
+SUMMARY
+Cystectomy transitional cell carcinoma G3 pT3a, N2.
+Ref:
+Pathologists -
+Criteria
+Diagnosis Discrepancy
+/ 3/21/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+St Date Reviewed:
+Yes
+No
+DISQUALIFIED,
+2014

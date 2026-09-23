@@ -1,0 +1,263 @@
+Results Viewer
+UUID:57743D2E-0677-40AD-A1EE-430EFF8F3F2A
+TCGA-K4-A3WS-01A-PR
+Redacted
+Name
+Encounter Number
+COPY ONLY DO NOT FILE
+Time Collected
+Time Reported
+Ordering Provider
+Status
+SURGICAL PATHOLOGY
+Time Received
+Order Number
+Results
+Source of Specimen
+A. EFT DISTAL URETER FS-
+B. RIGHT DISTAL URETER FS-
+C.
+LEFT PELVIC LYMPH NODES-
+D. RIGHT PELVIC LYMPH NODES-
+ICD-O-3
+carcinoma, urothelial, Nos
+Site: bladder, NOS
+812013
+067.9
+5-11-72
+Ro
+E. BLADDER, PROSTATE, SEMINAL VESICLES AND VAS DEFERENS-
+FINAL DIAGNOSTS:
+A. LEFT DISTAL URETER FS-
+SEGMENT OF URETER WITH NO TUMOR SEEN.
+B. RIGHT DISTAL URETER FS-
+SEGMENT OF URETER WITH NO TUMOR SEEN.
+C. LEFT FELVIC LYMPH NODES -
+THREE LYMPH NODE WITH NO TUMOR SEEN (0/3).
+D. RIGHT PELVIC LYMPH NODES-
+TWO LYMPH NODE WITH NO TUMOR SEEN (0/2).
+E. BLADDER, PROSTATE, SEMINAL VESICLES AND VAS DEFERENS-
+TRANSITIONAL CELL CARCINOMA OF URINARY BLADDER (see synoptic
+report #1 below).
+ADENOCARCINOMA OF PROSTATE (see synoptic report #2 below).
+ONE PERICYSTIC LYMPH NODE WITH NO TUMOR SEEN
+Prepar
+SYNOPTIC REPORT #1:
+INVARTVE CARCINOMA, HIGH GRADE
+MOR JIE: LEFT LATERAL, POSTERIOR, TRIGONE AREAS OF URINARY
+BLADDER
+Criteria
+Diagnosis Discrepancy
+Page 1 of 6
+Final
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Notestate
+Case is (circle):
+Reviewer initials
+QUALIFIED ✓ DISQUALIFIED
+Pate reviewed:
+3/9/12
+12
+Results Viewer
+Pr
+HISTOLOGIC TYPE: UROTHELIAL
+SQUAMOUS DIFFERENTIATION:
+GLANDULAR DIFFERENTIATION:
+NOT FOUND
+NOT FOUND
+TUMOR SIZE: GROSSLY 2 CM MASS
+HISTOLOGIC GRADE: 2-3/3
+EXTRAVESICULAR MASS: FOCAL MICROSCOPICALLY PRESENT
+SPECIMEN TYPE: RADICAL CYSTOPROSTATECTOMY
+TNM STAGE: pT3a, pNO, pMX.
+(23a: microscopically; T3b, macroscopically)
+(N1, single pelvic node; N2, multiple pelvic nodes; N3, common
+iliac nede}
+LYMPH NODE (S) INCLUDED IN ALL PARTS: NUMBER INVOLVED :
+NUMBER EXAMINED: 6
+LYMPHATIC (SMALL VESSEL) INVASION:
+0
+FOCALLY SUSPECTED
+PATCHY AREAS OF TRANSITIONAL
+ASSOCIATED EPITHELIAL LESIONS:
+CELL CARCINOMA IN SITU IDENTIFIED
+NO TUMOR SEEN AT SPECIMEN MARGINS
+SYNOPTIC REPORT #2:
+ADENOCARCINOMA OF PROSTATE
+NO EXTRAPROSTATIC EXTENSION SEEN
+TUMOR SITE: BILATERAL
+SEMEN TYPE: RADICAL CYSTOPROSTATECTOMY
+SIZE: 4 x 3.5 3.5 CM
+GLEASON SCORE (PRIMARY + SECONDARY PATTERN): 34 = 7/10
+SEVERITY IN EXTENT OF TUMOR:
+3 / 5
+(1: <51; 2: 5-15%; 3: 15-30%; 4: 30-50%; 5: > 50% tissue
+involvement)
+Page 2 of 6
+Results Viewer.
+TNM STAGE: pT2c, pNO, PMX.
+LYMPHATIC SMALL VESSEL) INVASION:
+PERINEUPAL INVASION: NOT FOUND
+NO TUMOR SEEN IN SEMINAL VESICLES
+NO TUMOR SEEN AT SPECIMEN MARGINS
+1
+Signed Others
+Frozen Suction
+A. LEFT DISTAL URETER- NO TUMOR SEEN.
+RIGHT DISTAL URETER- NO TUMOR SEEN.
+Case Clinical Information
+BLADDER
+CANCER
+NOT FOUND
+Gross Description
+A. Received in formalin labeled with the patient's name and
+"'eft distal ureter-FS" is a 0.4 cm frozen section tissue
+remnant. Wrapped and entirely submitted in A1.
+B. Received in formalin labeled with the patient's name and
+"right distal ureter-FS" is a 0.4 cm frozen section tissue
+oman. Wrapped and entirely submitted in Bl.
+C. Received in formalin labeled with the patient's name and
+"Left pelvic lymph nodes" are three nodules of tan fatty tissue
+grossly consistent with lymphoid tissue. The specimens range in
+size from 2 cm down to 1 cm. The excess fat is trimmed. ALL
+nodes are submitted as follows: Cl= one lymph node, bisected;
+02-02= one lymph node cach.
+D. Received in formalin labeled with the patient's name and
+"right pelvic lymph nodes" are three nodular fragments of tan
+fatty tissue consistent with lymphoid tissue ranging in size
+from 2 cm nown to 0.8 cm. The excess fat is trimmed and all
+Page 3 of 6
+Results Viewer
+threepossible nodes are submitted as follows: D1= one lymph node
+that has been bisected; D2-D3= one lymph node each.
+5. Received in formalin labeled with the patient's name and
+"bladder, prostate, seminal vesicles and vas deferens" is a
+radical cystectomy specimen with attached prostate and attached
+associated tat. Overall dimensions of the specimen measure le x
+4 x 3.5 x 3.5 cm
+9 x 5 cm thick. The attached prostate measures
+and has a shaggy capsule. The left and right uroters are
+embedded in the fat and these margins have been previously taken
+The left seminal vesicle
+for frozen section evaluation.
+measures 3 x 1 x 1 cm.
+The
+The left vas deferens measures 6 cm in
+Length. The right seminal vesicle measures 3.5 x 1 x 1 cm.
+The bladder is
+right was deferens measures 7 cm in length.
+opened anteriorly and in the left posterolateral aspect, the
+bladder mucosa reveals a tan/brown ulcerated lesion measuring 2
+x 1.5 × 0.5 cm. The remainder of the bladder mucosa has a tan
+edematous/retracted appearance. No additional lesions are
+identified. The cut surface of the mass has a smooth tan/pink
+indurated appearance. Grossly, this appears to have invaded
+into the muscularis. The remainder of the right lateral wall
+The right lateral
+has a fibrous appearance and is unremarkable.
+wall is sectioned to reveal an unremarkable tan/pink tissue.
+The cut suface of the prostate has a firm, focally nodular
+Representative sections
+parenchyma and is grossly unremarkable.
+of the specimen are submitted as follows: El-E2= prostatic
+urethral margin, left and right sides respectively; E3-E4- full
+thickness cross sections demonstrating mass left posterior wall;
+E5 E8 full thickness cross sections of mass left lateral wall;
+E9 left trigone; E10= right trigone; Ell-E12= right posterior
+wall; E13-E14- right lateral wall; E15- right dome; E16= left
+dome; E17-E21- representative sections of upper, mid and lower
+prostate left side; E22-E24- representative full thickness
+sections or upper, mid and lower prostate 1/3 of prostate right
+side; E25= representative section of bladder tumor for research;
+E26 representative section of normal bladder for research; E27=
+representative section of tumor, prostate, for research; E28-
+representative section of normal tissue, prostate, for
+research.
+P
+!
+Procedure
+A. AA ROUTINE H&E XI BLOCK
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK. 1
+Prepared fo
+'M
+Page 4 of o
+Results Viewer -
+C. AA ROUTINE HSE X1 BLOCK.2
+H&E X1
+3. AA ROUTINE HSE X1 BLOCK.3
+H&E X1
+D. AA ROUTINE SE X1 BLOCK, 1
+H&M X1
+D. AA ROUTINE HSE X1 BLOCK.2
+H&R XI
+D. AA ROUTINE HISE X1 BLOCK.3
+H&E AL
+E. AA ROUTINE H&E XI BLOCK.1
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK.2
+H&R X1
+E. AA KOUTINE H&E X1 BLOCK. 3
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK. 1
+H* X1
+E. AA ROUTINE HSE X BLOCK.5
+H&E X1 AA RECUT
+E. AA ROUTINE H&E X1 BLOCK.6
+H&E XL
+E. AA ROUTINE H&E XI BLOCK.7
+H&E XI AA RECUT
+E. AA ROUTINE H&E X1 BLOCK.8
+GOOD COMPLETE SECTIONS
+H&E X1 AA RECUT
+E. AA ROUTINE H&E X1 BLOCK.9
+H&B XI
+E. AA ROUTINE H&E X1 BLOCK.10
+H&E XI
+E. AA ROUTINE HSE X1 BLOCK.11
+H&E X1
+E. AA ROUTINE HSE X1 BLOCK.12
+H&E XI
+E. AA ROUTINE H&E X1 BLOCK.13
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.14
+H&E X1
+E. AA POOTINE H&E KI BLOCK.15
+H&E X1
+8. AA ROUTINE H&E X1 BLOCK.16
+H&E Y1
+E. AA ROUTINE HE X1 BLOCK.17
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK. 18
+H&F 31
+E. AA POUTINE H&E X1 BLOCK. 19
+Prepared fr
+Page 5 of 6
+Results Viewer
+H&E XI
+E. AA ROUTINE H&E X1 BLOCK.20
+E. A POUTINE H&E XI BLOCK.21
+H81
+E. AA ROUTINE H&E X1 BLOCK.22
+H&E XI
+E. AA ROUTINE H&E X1 BLOCK.23
+PLEASE PLACE THE SECTION ON THE SLIDESO THAT I CAN SEE ALL OF IT
+H&E X AA RECUT
+E. AA ROUTINE H&E X1 BLOCK.24
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK.25
+H&E XI
+B. AA ROUTINE H&E X1 BLOCK.26
+H&E X1
+8. AA ROUTINE H&E X1 BLOCK.27
+H&K XL
+E. AA ROUTINE H&E X1 BLOCK.28
+H&E X1
+Prepare
+Page 6956

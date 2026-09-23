@@ -1,0 +1,281 @@
+UUID: FE31B934-2AE5-4CA6-981D-DF7C0F9E1677
+TCGA-DK-A3IL-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+SURGICAL PATHOLOGY REPORT
+DOB: (Age:
+Gender:
+F
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+Bladder carcinoma, T2.
+Specimens Submitted:
+1: Right distal pelvic lymph nodes
+2: Left distal pelvic lymph nodes
+3: Bladder, uterus, fallopian tubes and ovary, inter vaginal wall, perivesicle tissue
+4: Right ureteral stent
+5: Left distal ureter
+6: Right distal ureter
+DIAGNOSIS:
+1. Right distal pelvic lymph nodes:
+Part # 1
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 3
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 1.2cm.
+Size of the largest metastatic focus: 1.2 cm.
+Extranodal extension is not identified
+2. Left distal pelvic lymph nodes:
+Part # 2
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+ICD-0-3
+INPATIENT
+Path
+carcinoma, wrothelial, NOS 8/20/3
+Site: bladder, was C6.7.9
+CQCF: bladder, well, lateral
+0672
+لسلام
+12/7/11
+3. Bladder, uterus, fallopian tubes and ovary, inter vaginal wall, perivesicle tissue:
+Part # 3
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials,
+QUALIFIED/
+DISQUALIFIED
+Date Reviewed: 6
+w 12/7/11
+Page 1 of 4
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Ureters uninvolved
+Urethra uninvolved
+SURGICAL PATHOLOGY REPORT
+Vascular Invasion:
+Identified
+Perineural Invasion:
+Not identified
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Mucosa:
+Exhibiting ulceration
+Exhibiting foreign body reaction
+Female Genital Organs:
+The right ovary shows stromal hyperplasia
+The left ovary shows stromal hyperplasia
+Remaining genital organs are unremarkable
+Perivesical Lymph Nodes:
+Not involved 0/1
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+4. Right ureteral stent:
+-
+- Gross diagnosis only.
+5. Left distal ureter; excision:
+- Segment of benign ureter.
+6. Right distal ureter; excision:
+Segment of ureter with mild to moderate urothelial atypia; no carcinoma is identified.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Gross Description:
+***
+Report Electronically Signed Out
+***
+1). The specimen is received fresh, labeled "Right distal pelvic lymph nodes" and consists of three pink tan firm lymph nodes
+ranging from 1.5 x 0.8 cm up to 6 x 2.5 cm in greatest dimension. Half of the two smaller lymph nodes are submitted to TPS. All
+remaining identified lymph nodes are submitted.
+Summary of sections:
+RLN -remaining halves of two smaller lymph nodes
+LLN - largest lymph node
+2). The specimen is received fresh, labeled "Left pelvic lymph nodes " and consists of a single lymph node measuring 5.5 x 2 x 0.8
+cm. The lymph node is entirely submitted.
+Summary of sections:
+LN- lymph node
+Page 2 of 4
+SURGICAL PATHOLOGY REPORT
+3). The specimen is received fresh, labeled "bladder, uterus, fallopian tubes and ovaries, vagina wall, perivesical tissue". It consists
+of a 7 x 5 x 3 cm bladder with attached uterus in continuity with the cervix (6.8 X 3.3 x 2.4 cm), right ovary (1.8 x 1.3 x 0.6), left
+ovary (1.7 x 1.2 x 0.6cm), right fallopian tube (4.3 cm in length x 0.5 cm in average diameter) and left fallopian tube (4.7 cm in
+length x 0.5 cm in average diameter) and vaginal cuff (3.6 x 2.1 x 0.5 cm). The distal urethra and the vaginal cuff margin are
+shaved and submitted. The ureteric stumps measure 0.8 (right) and 0.2 (left) cm in length. The left is inked blue and the right is
+inked green. The bladder is opened anteriorly to reveal an ulcerated firm lesion measuring 3.3 x 3 cm. The lesion is located in the
+right lateral wall, right posterior wall, right trigone. It extends to the right urethra but does not extend to the margin. The right
+ureteral orifice is located within the lesion. The left ureteric orifice is located 0.9 cm from the lesion. On sectioning, the tumor
+extends 0.8 cm to the perivesical fat but not to the inked surface. The remaining bladder mucosa is unremarkable. The uterus,
+ovaries and fallopian tubes are unremarkable. Tissue is submitted for Representative sections are submitted.
+Summary of sections:
+UTHM distal urethra
+RUM - right ureter margin
+LUM left ureter margin
+L - lesion
+LM lesion and adjacent mucosa
+RUO right ureteric orifice
+LUO-left ureteric orifice
+LP- left posterior wall
+LA left anterior wall
+RP-right posterior wall
+RA right anterior wall
+TRI - trigone
+DOME - dome
+EMM endomyometrium
+CX - cervix
+DVM distal vaginal margin
+RTO right tube and ovary
+LTO left tube and ovary
+4). The specimen is received fresh labeled, "Right ureteral stent" and consists of an elongated tubular blue stent measuring 25 x
+0.2 cm. The specimen is photographed. Gross only.
+5). The specimen is received in formalin labeled "Left distal ureter, unclipped mark is the margin." It consists of a segment of
+ureter measuring 2.7 cm in length and 0.6 cm in diameter. There is a clip on one end of the specimen. The specimen is serially
+sectioned from the tip with the clip to the non-clipped end and submitted entirely.
+Summary of sections:
+TC-tip with clip
+SS-serial sections from clipped to non-clipped end
+TWC-Tip without clip
+6). The specimen is received in formalin labeled "Right distal ureter, unclipped mark is the margin." It consists of a segment of
+ureter measuring 2.4 cm in length and 0.6 cm in diameter. There is a clip on one end of the specimen. The specimen is serially
+sectioned from the tip with the clip to the non-clipped end and submitted entirely.
+Summary of sections:
+TC-tip with clip
+SS-serial sections from clipped to non-clipped end
+TWC-Tip without clip
+Summary of Sections:
+Part 1: Right distal pelvic lymph nodes
+Page 3 of 4
+Block
+51
+SURGICAL PATHOLOGY REPORT
+Sect. Site
+PCs
+LLN
+RLN
+5
+1
+Part 2: Left distal pelvic lymph nodes
+Block
+10
+5
+Sect. Site
+LN
+PCs
+5
+Part 3: Bladder, uterus, fallopian tubes and ovary, inter vaginal wall, perivesicle tissue
+Block
+Sect. Site
+PCs
+1
+CX
+1
+1
+DOME
+1
+1
+DVM
+1
+1
+EMM
+1
+3
+L
+3
+1
+LA
+1
+2
+LM
+2
+1
+LN
+5
+1
+LP
+1
+1
+LTO
+1
+1
+LUM
+1
+LUO
+1
+1
+RA
+1
+1
+RP
+1
+RTO
+1
+RUM
+1
+1
+RUO
+1
+1
+TRI
+1
+1
+UTHM
+1
+Part 4: Right ureteral stent
+Part 5: Left distal ureter
+Block
+Sect. Site
+PCs
+1
+SS
+1
+tc
+1
+1
+twc
+1
+Part 6: Right distal ureter
+Block
+1
+1
+1
+Sect. Site
+PCs
+SS
+1
+tc
+1
+twc
+1
+Page 4 of 4
+END OF REPORT

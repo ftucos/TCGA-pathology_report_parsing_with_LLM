@@ -1,0 +1,190 @@
+UUID:F2B10F1A-5A97-4FAE-8DF5-153FFBDE2C35
+TCGA-FT-A61P-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, urothelial 8120/3
+Site Bladder, lateral posterior wall
+Bladder wall No. 8 $67.9
+JW 6/10/13
+0679
+*** FINAL REPORT ***
+SURGICAL PATHOLOGY REPORT
+AGE/SEX: /M
+RECEIVED:
+SPECIMEN ID:
+COLLECTED:
+A. URETER-LEFT DISTAL URETER FS, B. URETER - RT DISTAL URETER FS,
+C. URETHRA - MEMBRANE OF THE URETHRA,
+D. LYMPH NODE - EXTERNAL ILIAC LYMPH NODE LEFT SIDE #1,
+E. LYMPH NODE - INTERNEL ILIAC LYMPH NODE LEFT SIDE,
+F. LYMPH NODE - COMMON ILIAC LYMPH NODE LEFT SIDE,
+G. LYMPH NODE - EXTERNAL ILIAC LYMPH NODE LEFT SIDE #2,
+H. LYMPH NODE - LEFT OBTURATOR LYMPH NODE,
+I. LYMPH NODE - RIGHT EXTERNAL ILIAC LYMPH NODE, J. PROSTATE - BLADDER AND
+PROSTATE,
+K. LYMPH NODE - OBTURATOR LYMPH NODE RIGHT SIDE,
+L. LYMPH NODE - INTERNAL ILIAC LYMPH NODE
+A. LEFT DISTAL URETER:
+Segment of ureter, negative for carcinoma in situ; negative for invasive carcinoma.
+B. RIGHT DISTAL URETER:
+Segment of ureter, negative for carcinoma in situ; negative for invasive carcinoma.
+C. MEMBRANE OF THE URETHRA:
+Urethral mucosa with focal chronic inflammation, negative for carcinoma.
+D. EXTERNAL ILIAC LYMPH NODE LEFT SIDE #1"
+Four lymph nodes, negative for carcinoma (0/4).
+E. INTERNAL ILIAC LYMPH NODE LEFT SIDE:
+Two lymph nodes, negative for carcinoma (0/2).
+F. COMMON ILIAC LYMPH NODE LEFT SIDE:
+One lymph node, negative for carcinoma (0/1).
+G. EXTERNAL ILIAC LYMPH NODE LEFT SIDE #2:
+METASTATIC CARCINOMA to one lymph node, (1/1).
+Tumor deposit measures 1.2 cm in greatest dimension.
+Negative for extranodal extension.
+H. LEFT OBTURATOR LYMPH NODE:
+METASTATIC CARCINOMA to one of three lymph nodes (1/3).
+Tumor deposit measures 1.4 cm in greatest dimension.
+Negative for extranodal extension.
+I. RIGHT EXTERNAL ILIAC LYMPH NODE:
+One lymph node, negative for carcinoma (0/1).
+J. BLADDER AND PROSTATE, RADICAL CYSTOPROSTATECTOMY:
+URINARY BLADDER:
+INVASIVE HIGH GRADE UROTHELIAL CARCINOMA, 3.0 cm in greatest dimension.
+Tumor invades through the muscularis propria into perivesical adipose tissue.
+Surgical resection margins, negative for tumor.
+PROSTATE:
+Benign prostatic tissue.
+AJCC classification (7th edition): pT3b, pN2, pMn/a
+See Surgical Pathology Cancer Case Summary
+K. OBTURATOR LYMPH NODE RIGHT SIDE:
+One lymph node, negative for carcinoma (0/1).
+L. INTERNAL ILIAC LYMPH NODE:
+One lymph node, negative for carcinoma (0/1).
+Surgical Pathology Cancer Case Summary:
+Specimen Type: Bladder and prostate
+Procedure: Radical cystoprostatectomy
+Tumor Site: Left lateral wall
+Posterior wall
+Tumor Size: Greatest dimension: 3.0 cm
+Histologic Type: Urothelial carcinoma
+Histologic Grade (WHO 2004/ISUP; WHO 1973):
+High-Grade (WHO 2004/ISUP; WHO 1973 grade 3 of 3)
+Microscopic Tumor Extension: Perivesical fat
+Margins:Margin uninvolved by invasive carcinoma
+Distance of invasive carcinoma from closest margin: 0.9 cm
+Specify margin: Deep margin
+Lymph-Vascular Invasive: Not identified
+Pathologic Staging (pTNM):
+Primary Tumor (pT): pT3b: Tumor invades perivesical tissue
+Regional Lymph Nodes (pN): pN2 Multiple regional lymph node metastasis in the true pelvis
+(hypogastric,obturator, external iliac or presacral lymph node metastasis)
+Number examined; 14
+Number involved: 2
+Distant Metastasis (PM): Not applicable
+Dictated by: XXX
+CLINICAL HISTORY
+PRE-OP DX: Not provided
+PROCEDURE: Radical cystectomy
+RELEVANT CLINICAL HX: Bladder cancer
+GROSS DESCRIPTION:
+A. Received fresh and labeled "Left distal ureter" is a fragment of ureter with lumen
+that measures 0.3 x 0.3 x 0.2 cm. Submitted in toto for frozen section.
+B. Received fresh and labeled "Right distal ureter" is a fragment of ureter with lumen
+that measures 0.3 x 0.3 x 0.2 cm. Submitted in toto for frozen section.
+C. Received in formalin and labeled "Membrane of the urethra" is a fragment of gray/tan
+tissue that measures 1.6 x 0.9 x 0.8 cm and it is friable. Submitted in toto in two
+cassettes.
+D. Received in formalin and labeled "External iliac lymph node left side #1" is a
+fragment of fibroadipose tissue that measures 4.4 x 3.5 x 0.6 cm. Five possible lymph
+nodes were identified. The largest one measures 1.7 cm in greatest dimension. Sections
+submitted as follows:
+1 One lymph node bisected submitted in toto
+2 One lymph node in toto
+3 Three lymph nodes in toto
+E. Received in formalin and labeled "Internal iliac lymph node left side" is a fragment
+of fibroadipose tissue that measures 3.4 x 2.5 x 0.5 cm. No lymph nodes are grossly
+identified. Specimen submitted in three cassettes.
+F. Received in formalin and labeled "Common iliac lymph node left side" are three
+fragments of fibroadipose tissue that measures in aggregate 2.7 x 2.0 x 0.7 cm. Two
+possible lymph nodes were grossly identified. The largest one measures 1.4 cm in
+greatest dimension. Sections submitted as follows:
+lOne possible lymph node
+2 One possible lymph node
+G. Received in formalin and labeled "External iliac lymph node left side #2" is a
+fragment of fibroadipose tissue that measures 3.1 x 1.4 x 1.0 cm. One lymph node was
+grossly identified measuring 1.9 x 1.3 x 1.0 cm. Submitted in toto in two cassettes.
+H. Received in formalin and labeled "Left obturator lymph node" are multiple fragments of
+fibroadipose tissue that measures in aggregate 6.2 x 2.5 x 1.2 cm. Three possibl
+elymph nodes are grossly identified. The largest one measures 3.0 cm in greatest
+dimension. Sections submitted as follows:
+1-4 Representative sections of largest lymph node
+5 One lymph node bisected in toto
+6 One lymph node bisected in toto
+I. Received in formalin and labeled" "Right external iliac lymph node" is a fragment of
+fibroadipose tissue that measures 3.6 x 2.0 x 1.5 cm. One possible lymph node is
+identified measuring 2.4 cm in greatest dimension. Sections submitted as follows:
+1&2 One lymph node bisected in toto
+J. Received in formalin and labeled "Bladder and prostate" is a radical
+cystoprostatectomy specimen containing bladder (10.0 x 8.5 x 4.0 cm), prostate (5.5 x
+4.0 x 3.0 cm), right ureter (0.2 cm in length x 0.2 cm in diameter) and left ureter
+(0.2 cm in length x 0.2 cm in diameter). The outer surface of the bladder is smooth
+with yellow and perivesicle soft tissue attached and it is inked in black. The bladder
+is opened anteriorly through the urethra and the incision is extended to the dome. A
+(3.0 x 2.5 x 1.0 cm) tan pink mass is located in the posterior left lateral wall of
+the bladder. The mass is ulcerated and firm. The mass is extending into the
+perivesicle soft tissue and is at 0.2 cm away from the deep margin (inked black).
+The mass is 1.0 cm away from the left ureteral orifice and 3.0 cm away from the right
+ureteral orifice. The prostate is inked on its outer surface and serially sectioned
+through the posterior surface perpendicular to prostatic urethra. The parenchyma is
+white and yellow, no lesion is grossly identified. The right side of the prostate is
+inked in green and the left side is inked in black. The right seminal vesicle measures
+2.7 x 1.5 x 1.0 cm and the left seminal vesicle measures 3.0 x 1.5 x 1.0 cm. The right
+vas deferens measures 10.5 x 0.2cm and the left vas deferens measures 8.5 x 0.2 cm.
+Perivesical soft tissue is thinly sectioned and no lymph nodes are identified.
+Sections submitted as follows:
+Cassette#1: Left uretheral orifice in relation to tumor
+Cassette #2: Right uretheral orifice in relation to bladder
+Cassette #3-4: Deepest extent of tumor invasion including deep margin
+Cassette#5-6: Additional sections of tumor with deep margin
+Cassette #7-8: Tumor with adjacent bladder mucosa
+Cassette #9: Right lateral bladder wall
+Cassette#10: Left ureter
+Cassette#11: Right ureter
+Cassette#12: Anterior bladder wall
+Cassette #13: Right apex
+Cassette#14: Left apex
+Cassette#15: Right prostate
+Cassette#16: Left prostate
+Cassette#17: Right prostate with seminal vesicle
+Cassette #18-20: Left prostate with seminal vesicle and bladder mucosa
+Cassette#21: Left seminal vesicle
+Cassette#22: Right seminal vesicle
+K. Received in formalin and labeled "Obturator lymph node right side" is a fragment of
+fibroadipose tissue that measures 7.1 x 3.0 x 1.2 cm. One possible lymph node was
+grossly identified that measures 4.0 cm in greatest dimension. Sections submitted as
+follows:
+1&2 One lymph node bisected submitted in toto
+L. Received in formalin and labeled "Internal iliac lymph node" is a fragment of
+fibroadipose tissue that measures 3.9 x 3.0 x 1.5 cm. Three possible lymph nodes are
+identified. The largest one measures 1.5 cm in greatest dimension. Sections submitted
+as follows:
+1 One lymph node bisected submitted in toto
+2 Two lymph nodes submitted in toto
+OPERATING ROOM CONSULT
+AFS. LEFT DISTAL URETER:
+Negative for carcinoma and/or dysplasia.
+BFS. RIGHT DISTAL URETER:
+Negative for carcinoma and/or dysplasia.
+Criteria
+And 4/9/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumer Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Priniary Noted-
+Case is (circle):
+Reviewernitas Mc
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

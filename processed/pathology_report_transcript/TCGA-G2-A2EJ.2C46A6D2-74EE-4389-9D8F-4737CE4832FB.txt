@@ -1,0 +1,35 @@
+PATHOLOGY REPORT
+Redacted
+UUID:2C46A6D2-74EE-4389-9D8F-4737CE4832FB
+TCGA-G2-A2E]-01A-PR
+A) BLADDER TUMOR:
+ICB-0-3
+carcinoma, urothelial, Nos 8120/3
+Site: bladder, NOS
+UROTHELIAL CARCINOMA WITH EXTENSIVE SQUAMOUS
+DIFFERENTIATION, HIGH GRADE (GRADE 3),
+INVASIVE INTO MUSCULARIS PROPRIA.
+No lymphovascular invasion evident.
+0679
+يسلر
+5/31/41
+GROSS DESCRIPTION
+(A) BLADDER TUMOR - Multiple fragments of white-tan soft tissue (4.0 x 4.0 x 2.5 cm in
+aggregate). About 75% of specimen submitted in A1-A10.
+CLINICAL HISTORY
+Bladder carcinoma.
+Criteria
+Lagnosis Discrepancy
+Primary Tuiner Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+QUALIFI
+T 5/31/11
+wed:
+Yes
+No
+DISQUALIFIED
+27-11

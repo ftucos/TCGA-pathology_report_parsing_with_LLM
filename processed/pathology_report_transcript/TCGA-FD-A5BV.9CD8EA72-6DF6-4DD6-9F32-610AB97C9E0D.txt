@@ -1,0 +1,184 @@
+UUID:9CD8EA72-6DF6-4DD6-9F32-610AB97C9E0D
+TCGA-FD-A5BV-01A-PR
+Gender: Female
+Race: White
+Pathology Report:
+Redacted
+ICD-0-3
+Carcinoma, Urothelial NOS
+812013
+Path Site: Bladder, lateral Wall,
+posterior Walland Trigone
+0678
+CQCF Site: Bladder, Trigone C67.0
+70012/24/12
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right pelvic lymph node; dissection:
+-
+Seventeen lymph nodes, no tumor (0/17).
+B. Left pelvic lymph node; dissection:
+- Eight lymph nodes, no tumor (0/8).
+C. Urinary bladder; robotic-assisted laparoscopic cystectomy:
+- Invasive high grade urothelial carcinoma invading thru the bladder wall
+and into the perivesical tissue, see pathologic parameters.
+D. Uterus, cervix, bilateral fallopian tubes and ovaries; total
+abdominal hysterectomy and bilateral salpingo-oophorectomy:
+- Uterus with atrophic endometrium, no tumor.
+- Bilateral ovaries with age related changes, no tumor.
+- Bilateral fallopian tubes, no tumor.
+- Cervix, no tumor.
+E. Vermiform appendix; appendectomy:
+- Appendix, no tumor.
+F. Left distal ureter; excision:
+- Portion of ureter, no tumor.
+G. Right distal ureter; excision:
+- Portion of ureter, no tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Invasive urothelial carcinoma.
+2. Grade of tumor: High grade.
+3. Depth of invasion: Extravesicular soft tissue (macroscopic).
+4. Tumor distribution: Solitary, 6.0 cm, mass at left lateral wall, trigone and
+posterior wall with focal extensions to dome and right lateral wall.
+5. Ureteral margins: Negative for tumor.
+6. Distal urethral margin: Negative for tumor.
+7. Soft tissue margin or serosa: Negative for tumor.
+8. Lymph nodes: Negative for tumor (0/25).
+9. pTNM: pT3b,N0,MX.
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+XX
+[] MD
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [], MD
+Electronically Signed Out by [], MD
+Clinical History:
+Patient is a
+year-old female with invasive high-grade urothelial carcinoma of
+the bladder undergoing robotic assisted laparoscopic cystectomy.
+Specimens Received:
+A: Right pelvic lymph node
+B: Left pelvic lymph node
+C: Bladder
+D: Uterus, cervix, and fallopian tubes
+E: Appendix
+F: Left distal ureter
+G: Right distal ureter
+Gross Description:
+The specimens are received in seven containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, "1. Right pelvic lymph
+node". Received fresh and placed in formalin is a 5.5 x 4.5 x 1.5 cm aggregate
+of lobulated yellow fibrofatty tissue. The specimen is dissected for lymph
+nodes to reveal 17 apparent lymph nodes ranging from 0.5-1.5 cm in greatest
+dimension. All apparent lymph nodes are submitted as follows:
+A1: 4 candidate lymph nodes
+A2: 4 candidate lymph nodes
+A3: 4 candidate lymph nodes
+A4: 5 candidate lymph nodes
+B. The second container is additionally identified as, "2. Left pelvic lymph
+node". Received fresh and placed in formalin is a 4 x 4 by 2.5 cm aggregate of
+lobulated yellow fibrofatty tissue. The specimen is dissected for lymph nodes
+to reveal 9 apparent lymph nodes ranging from 0.4-1.8 cm in greatest dimension.
+All apparent lymph nodes are submitted as follows:
+B1: One candidate lymph node, bisected
+B2: 4 candidate lymph nodes
+B3: 4 candidate lymph nodes
+C. The third container is additionally identified as, "3. Bladder ". Received
+fresh and place in formalin is a 214.8 g cystectomy and urethrectomy specimen
+with overall measurements of 13 x 9.5 x 4.5 cm. The bladder measures 7 x 6.5 x
+4 cm. The right ureteral stump measures 2.4 cm in length by 0.5 cm in diameter,
+and the left measures 1.2 cm in length by 0.8 cm in diameter, and each
+demonstrates an intact patent lumen, although the left ureter demonstrates
+resistance to probing. The attached urethra measures 4.6 cm in length by 0.7 cm
+in diameter with a 7.5 x 2.5 cm portion of tan-pink skin anteriorly and tan-pink
+vaginal mucosa posteriorly. The serosal surface shows yellow lobulated
+fibroadipose tissue with focal cautery artifact. The bladder is inked blue on
+the right half and black on the left half. The specimen is opened anteriorly to
+reveal a 6 x 5.2 cm area of induration with partially ulcerated and heaped up,
+hemorrhagic mucosa involving the entire left lateral wall, posterior wall, and
+trigone and surrounding both right and left ureters. On cut section, the
+induration extends through the muscularis propria and into the perivesical
+adipose tissue, where it abuts the deep margin. The surrounding bladder mucosa
+is granular and pink-tan with a uniform 1 cm wall thickness. Bilateral ureteral
+orifices, adjacent to the trigone, are identified and probe patent, although the
+left ureter demonstrates resistance to probing. The urethral mucosa is tan-pink
+and glistening, with no lesions. Photographs are taken.
+Representative sections are submitted as follows:
+C1: Left ureter resection margin
+C2: Right ureter resection margin
+C3: Distal urethral margin
+C4-C6: Representative sections of urethra, full thickness to anterior
+vaginal wall
+C7-C8: Induration, posterior wall, tandem sections, with closest
+approach to deep margin (C8)
+C9: Induration, posterior wall
+C10: Induration, left lateral wall
+C11: Induration, trigone
+C12: Uninvolved bladder mucosa bladder dome
+C13: Uninvolved bladder mucosa anterior wall
+C14: Uninvolved bladder mucosa right lateral wall
+D. The fourth container is additionally identified as, "4. Uterus, cervix,
+tubes". Received fresh and placed in formalin is a 42.9 gm hysterectomy specimen
+with attached bilateral adnexa. The uterus measures 3.2 cm from fundus to lower
+uterine segment by 3.2 cm from cornu to cornu by 2.3 cm from anterior to
+posterior. The serosal surface is red-tan and glistening. The cervical face is
+pink-tan, glistening and measures 2 x 1.9 cm with a 1 cm slitlike os. The
+anterior surface is inked black and the posterior surface is inked blue. The
+specimen is opened revealing a 2.7 cm endocervical canal lined with tan-pink
+mucosa a triangular endometrial cavity measuring 0.7 cm from cornu to cornu by
+1.2 cm in length and lined with tan-pink, endometrium measuring 0.1 cm in
+thickness. The specimen is sectioned reveal pink-tan myometrium which is up to
+0.7 cm in greatest thickness.
+The left adnexa structure consists of an 8 cm long and 0.4 cm diameter
+fimbriated fallopian tube. The serosa is pink-red and glistening. The specimen
+is serially sectioned revealing a pinpoint lumen and a 0.2 cm wall thickness.
+The attached white-tan, cribriform ovary measures 2 x 1.6 x 0.8 cm and is
+sectioned to revealed fibrotic, white-tan, ovarian stroma.
+The right adnexa structure consists of a 6 cm long and 0.5 cm diameter
+fimbriated fallopian tube. The serosa is pink-red and glistening. The specimen
+is serially sectioned revealing a pinpoint lumen and a 0.2 cm wall thickness.
+The attached white-tan, cribriform ovary measures 2.3 x 1.5 x 0.7 cm and is
+sectioned to revealed fibrotic, white-tan ovarian stroma.
+Representative sections are submitted as follows:
+D1: Anterior cervix
+D2: Posterior cervix
+D3: Anterior endomyometrium
+D4: Posterior endomyometrium
+D5-D6: Sections of left ovary and fallopian tube
+D7: Section of right ovary and fallopian tube
+E. The fifth container is additionally identified as, "5. Appendix". Received
+fresh and placed in formalin is a 7 cm in length by 0.6 cm in external diameter
+vermiform appendix. The resection margin is inked blue. The serosal surface is
+tan-pink and smooth. The specimen is serially sectioned to reveal a wall
+thickness of 0.1 cm. The lumen is patent with soft tan-brown material.
+Representative sections of the body, resection margin, and longitudinal
+appendiceal tip are submitted in E1.
+F. The sixth container is additionally identified as, "6. Left distal ureter".
+Received fresh and placed in formalin is a tan, soft portion of ureter measuring
+0.5 cm in length by 0.5 cm in diameter. The specimen is oriented with a stitch
+on the non-margin side. The margin is inked black and the specimen is bisected
+and entirely submitted as F1.
+G. The seventh container is additionally identified as, "7. Right distal
+ureter". Received fresh and placed in formalin is a soft, tan portion of ureter
+measuring 2.5 cm in length by 0.6 cm in diameter. The specimen is oriented with
+a stitch on the non-margin side. The margin is inked black and the specimen is
+serially sectioned and entirely submitted as Gl.
+XX
+[], MD
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is cicle):
+Reviewad/initi
+12/18/12
+QUALIFIED
+Yes
+/ DISCUTED
+Date viewed: 81
+No

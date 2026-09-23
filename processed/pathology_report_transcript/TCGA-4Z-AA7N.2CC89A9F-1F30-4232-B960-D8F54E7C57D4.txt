@@ -1,0 +1,110 @@
+UUID:2CC89A9F-1F30-4232-8960-D8F54E7C57D4
+TCGA-4Z-AA7N-01A-PR
+Collect date:
+(MM/DD/YYYY)
+Redacted
+ICDC-3
+Carrinoma, urothelial NOS
+CECE
+812013
+Sute
+Bladder, Cateral wall
+path
+0672
+Bladder, wall NOS
+0679
+W 3/18/14
+PATHOLOGY REPORT:
+PRIMARY SITE: Bladder
+Product of cystoprostatectomy:
+High-grade urothelial carcinoma infiltrating the wall up to adipose tissue with surgical
+margins of the ureters and bladder wall free of neoplasia.
+Presence of angiolymphatic and perineural infiltrations.
+Prostate showing nodular hyperplasia, free of neoplasia.
+Right and left seminal vesicles free of neoplasia.
+Right and left vas deferens free of neoplasia.
+Right side margin (separately):
+Absence of neoplasia.
+Right pelvic lymph nodes:
+Absence of neoplasia: (0/13)
+Left pelvic lymph nodes:
+Absence of neoplasia: (0/10)
+Per TSS, Stage
+15
+pT3.
+Yes
+No
+1/24/14 سال
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+DISQUALINGO
+TCGA Pathologic Diagnosis Discrepancy Form
+14.00
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+Tissue Source Site (TSS):
+Completed By (Interviewer Name on OpenClinica):
+Diagnosis Information
+#
+1
+Data Element
+Pathologic Diagnosis
+Provided on Initial
+Pathology Report
+Histologic features of
+the sample provided
+2
+for TCGA, as reflected
+on the CQCF.
+TSS Identifier:
+Entry Alternatives
+High grade urothelial carcinoma infiltrating the
+wall up to adipose tissue.
+High grade urothelial carcinoma of the bladder
+with invasion of the subserosal fat (pT3).
+This is an aggressive tumor with multiple lymph
+vascular emboli.
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for
+3
+the discrepancy
+between the pathology
+Case reviewed by
+report and the TCGA
+Case Quality Control
+Form.
+request from BCR.
+TSS Unique Patient Identifier:
+Completed Date
+Working Instructions
+Provide the diagnosis/ histologic subtype(s) documented on
+the initial pathology report for this case. If the histology for
+this case is mixed, provide all listed subtypes.
+Provide the histologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+Provide a reason describing why the diagnosis on the initial
+pathology report for this case is not consistent with the
+diagnosis selected on the TCGA Case Quality Control Form.
+based on
+4
+Name of TSS Reviewing
+Pathologist or
+Biorepository Director
+Provide the name of the pathologist who reviewed this case
+for TCGA.
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+TSS Reviewing Pathologist or Biorepository Director
+Date
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+Principal Investigator signature
+Date

@@ -1,0 +1,292 @@
+ICD-0-3
+carcinoma, papillary. Transitional cell 8130/3
+Site: bladder NOS C67.9
+سار
+UUID:F8FF65C1-F032-4CED-A0EA-FFDBA1E25DC2
+TCGA-CF-A27C-01A-PR
+Redacted
+5/26/11
+Fax.
+cal Case Report
+……ction of Cancerous Tissue)
+IRB APPROVED
+Form Revised
+Informed Consent
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Casei
+Reviewer i
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+Tw5/24/17/5/11
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Signature
+Clinical Information
+Date of Birth (mm/dd/yyyy)
+Gender
+Male
+□ Female
+Height
+Im
+m70
+Weight
+59kg
+GENERAL INFORMATION
+Marital Status
+☐ Single □ Married
+☐ Divorced
+Date
+Race
+Temperature
+□ Widow
+Blood Pressure
+Heart Rate
+1218
+HISTORY OF PRESENT ILLNESS
+Chief Complaints: Lower abdominal pain; fever; blood in
+Symptoms:
+Clinical Findings:
+weight loss
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory
+the
+ичто
+✓ 60-70 Symptomatic, in bed less than 50% of day
+□ 40-50 Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+□ 20-30 Bed Ridden
+Drug
+Dose
+Route
+Frequency
+1
+Date (mm/dd/yyyy)
+To
+Το 1
+To
+1
+To
+1
+To
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+ID#:
+Diagnosis Date
+Treatment
+Status
+OB/GYN HISTORY
+Menopausal Status
+Date of First Menses
+Pre-menopausal
+Peri-Menopausal
+Date of Last Menses
+# of Pregnancies
+# of Live Births
+□ Post-menopausal
+Birth Control: ☐ Condom ☐ Oral Contraceptive
+□ IUD
+☐ Other:
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Environmental Hazards:
+Current Status
+TYPE
+Smoking History
+Packs/day
+Duration
+When Quit
+☐ YES ✓ NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+✓ YES
+□ NO
+I drink
+Duration
+20 (yrs)
+When Quit
+months
+Drug Use
+agon
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES ☑ NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Test
+HIV
+Hep B
+Result
+Date
+Test
+☐ Negative ☐ Positive:
+☑ Negative ☐ Positive:
+Hep C
+☑Negative ☐ Positive:
+☐ Negative ☐ Positive:
+AFP
+Other:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+DIAGNOSTIC STUDIES
+Study
+Ultrasound
+X-Ray
+Results
+Date
+A
+A tumout was found in
+in the
+Uzinany
+bladder
+CT
+Endoscopy
+MRI
+Biopsy
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+Gary Bladder Cancer
+Location of Suspected Involved Lymph Nodes
+Location of Suspected Distant Metastasis
+Clinical Staging
+Date of Diagnosis
+T3 No
+Mo
+Stage:
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Resection of total Uhinary Bladder
+Date of Procedure
+Organ
+HeimRy bladder
+Primary Tumor
+Detailed Location
+mima
+Size
+1 × 1.
+cm
+Extension of Tumor
+Lymph Nodes
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Location of Lymph Nodes
+# of Lymph Nodes
+Organ
+Distant Metastasis
+Detailed Location
+Surgical Staging
+Iz
+No
+Mo
+Stage:
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+3
+Size
+Date (mm/dd/yyyy)
+Το
+Το
+To
+To
+To
+Collected by:
+Preserved by:
+Diseased
+Frozen
+Pathology Form
+Specimen Information
+Date:
+ime:
+Date:
+Time:
+SPECIMEN TYPE (# of samples provided)
+Paraffin Block
+Blood/Serum/Plasma
+Slide
+Normal
+Diseased
+02
+02
+Normal
+02
+Diseased
+Normal
+Diseased
+02
+Normal
+02
+Time to Formalin
+Time to LN2
+min
+min
+min
+QQ
+Time to LN2
+Organ
+urinary bladder
+Location
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+Extension of Tumor
+115 x 1 x 1 cm
+Lymph Nodes
+Distance to NAT
+5
+cm
+# Examined
+# Metastasized
+Organ
+Distant Metastasis
+Detailed Location
+Size
+Pathological Staging
+PT 3
+No
+Notes:
+Mo
+4
+Stage: III

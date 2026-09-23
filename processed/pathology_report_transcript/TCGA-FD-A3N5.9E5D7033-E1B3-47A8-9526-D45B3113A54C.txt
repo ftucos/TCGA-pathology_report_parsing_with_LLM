@@ -1,0 +1,179 @@
+Sample #
+Gender: Male
+DOB:
+Race: Unknown
+Report Date:
+Pathology Report:
+UUID:9E5D7033-E1B3-47A8-9526-D45B3113A54C
+TCGA-FD-A3N5-01A-PR
+Redacted
+Criteria
+1/2/12
+Diagnosis Discrepancy
+Primary Tunior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primanoted
+Case is circle):
+Reviewer In
+Yes
+No
+QUALIFIED
+DISQUALIFIED
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right pelvic lymph nodes; dissection:
+-
+- Nine lymph nodes, no tumor present (0/9)
+B. Left pelvic lymph nodes; dissection:
+.
+ICS-0 3
+Carcinoma, urothelial, Nos 8/20/3
+Path Site: bladder NOS
+CQCE
+0479
+bladdw, posterior wall C67.4
+A 1/2/12
+· Seven lymph nodes, no tumor present (0/7). (See comment).
+C. Bladder, prostate, seminal vesicles, vas deferens; cystoprostatectomy:
+- Urothelial carcinoma, high grade, with extensive squamous differentiation
+and
+keratin production, invasive into muscularis propria.
+-
+- No lymphovascular invasion present.- Margins of resection (soft tissue,
+prostatic urethra, right and left ureter),
+-
+no tumor present.
+· Extensive chronic lymphoplasmacytic inflammatory response and follicular
+hyperplasia
+in the extravesical adipose tissue.
+- See pathologic parameters and comment.
+- Prostate with high grade prostatic intraepithelial neoplasia (PIN).
+- Bilateral seminal vesicles and vasa deferentia, no tumor present.
+D. Urethral margin; resection:
+- Segment of prostatic urethra, no tumor present
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type:
+differentiation
+2. Grade of tumor:
+3. Depth of invasion:
+4. Tumor distribution:
+Urothelial carcinoma with extensive squamous
+High grade
+Muscularis propria, outer half
+Solitary, 7.0 x 3.5 x 3.0 cm
+Involving right wall, anterior wall, posterior wall and dome
+5. Ureteral margins:
+7. Soft tissue margin:
+8. Lymph nodes:
+9. pTNM:
+Effective
+Negative6. Distal urethral margin: Negative
+Negative
+Sixteen lymph nodes, no tumor present (0/16)
+PT2b, NO, MX
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+Comment
+Part B5: The sections show a lymph node with fibrosis and plasmacytic
+infiltrate. The immunohistochemical stain Cam5.2 is positive in rare dendritic
+cells.
+Part C: The majority of tumor shows extensive squamous differentiation with
+keratin production (99%).
+XXX
+[] M.D
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [] M.D., Ph.D.
+Electronically Signed Out by () M.D
+Clinical History:
+The patient is a
+year-old male with bladder cancer who undergoes
+prostatectomy and ileal conduit.
+Specimens Received:
+A: Right pelvic lymphnodes
+B: Left pelvic lymphnodes
+C: Bladder, prostate, seminal vesicles, vas deferens
+D: Urethral margin
+Gross Description:
+The specimen is received in four containers, each labeled with the patient's
+name and medical record number.
+A. The first container is additionally designated "1. right pelvic lymph
+nodes". Received fresh and placed in formalin is a 5.0 x 4.0 x 3.0 cm aggregate
+of fibrofatty tissue which is dissected to reveal multiple tentative lymph nodes
+range in size from 0.5 to 2.5 cm. The lymph nodes are entirely submitted as
+follows:
+A1-A5:
+A6:
+one node, bisected in each cassette
+four lymph nodes
+B. The second container is additionally designated "2. left pelvic lymph
+nodes". Received fresh and placed in formalin is a 6.5 x 4.5 x 2.0 cm aggregate
+of fibrofatty tissue which is dissected to reveal multiple tentative lymph nodes
+range in size from 0.5 to 3.0 cm. The lymph nodes are entirely submitted as
+follows:
+B1-B2:
+largest node, bisected
+one lymph node, bisected
+B3:
+B4:
+one lymph node, bisected
+B5:
+B6:
+four lymph nodes between sponges
+adjacent fibrous tissue.
+C. The third container is additionally designated "3. bladder, prostate,
+seminal vesicles, vas deferens". Received fresh and placed in formalin is a 303
+gram, 14.5 x 9.5 x 3.0 cm cystoprostatectomy specimen with attached mesenteric
+fat. The bladder measures 9.0 x 8.0 x 3.0 cm. The right ureteral stump
+measures 0.5 cm and the left 0.3 cm. Both demonstrate patent lumina. The
+prostate measures 4.5 x 4.3 x 4.0 cm. The right seminal vesicle measures 4.5 x
+3.5 x 2.0 cm. The right vas deferens measures 8.5 x 1.0 cm. The left seminal
+vesicles measures 4.0 x 3.0 x 1.5 cm. The left vas deferens measures 4.5 x 1.0
+cm. The right half of the prostate and bladder is inked blue and the left half
+is inked black. The prostate is opened anteriorly along the urethra and
+continues superiorly through the bladder in a Y-shaped incision. The prostate
+is serially sectioned from apex to base to reveal a firm white 0.6 cm nodule
+grossly abutting the black inked margin. The remainder of the prostate is
+unremarkable. The seminal vesicles are markedly dilated and filled with a
+yellow-green gelatinous fluid. The bladder demonstrates a 7.0 x 3.5 x 3.0 cm
+fungating friable yellow-tan mass grossly involving the right wall, anterior
+wall, posterior wall and the dome of the bladder. Serially sectioning reveals
+tumor invasion into the muscularis propria to a depth of 3.0 cm extending to
+within 0.5 cm of the inked margin. The remainder of the bladder mucosa is
+tan-brown, edematous and glistening with a uniform 0.3 cm wall thickness. The
+bilateral ureteral orifices are identified and probe patent. Representative
+sections are submitted as follows:
+C1:
+C2:
+urethral margin
+right ureteral margin, between sponges
+left ureteral margin, between sponges
+prostatic apical margin
+representative prostate
+seminal vesicles and vasa deferentia
+mass from inferior to superior
+right ureteral orifice
+C3:
+C4:
+C5-C11:
+C12:
+C13-C18:
+C19:
+C20:
+left ureteral orifice
+C21:
+dome
+C22:
+C23:
+anterior wall
+posterior wall
+C24:
+left wall
+C25:
+trigone
+D. The fourth container is additionally designated "4. urethral margin".
+Received fresh and placed in formalin is an unremarkable-oriented 1.5 x 1.0 x
+0.5 cm portion of tissue which is focally cauterized. The specimen is serially
+sectioned and entirely submitted in cassette D1.
+XXX
+[], M.D.

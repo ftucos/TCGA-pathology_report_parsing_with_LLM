@@ -1,0 +1,406 @@
+SURGICAL PATHOLOGY REPORT
+Page 1 of 6
+UUID:43F485E6-346F-483A-826F-6960F00025C9
+TCGA-XF-AAN5-01A-PR
+Redacted
+DIAGNOSIS:
+ANTERIOR PELVIC EXENTERATION WITH BILATERAL PELVIC LYMPH NODE DISSECTION AND
+URINARY DIVERSION:
+RIGHT DISTAL URETER (AFS):
+FROZEN SECTION DIAGNOSIS:
+-
+NO HIGH GRADE ATYPIA OR TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+-
+BENIGN URETER EXHIBITING CHRONIC INFLAMMATION AND ASSOCIATED REACTIVE
+CHANGES
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+LEFT DISTAL URETER (BFS):
+FROZEN SECTION DIAGNOSIS:
+-
+NO HIGH GRADE ATYPIA OR TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+-
+-
+BENIGN URETER
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+URETHRAL MARGIN (CFS):
+FROZEN SECTION DIAGNOSIS:
+-
+NO HIGH GRADE ATYPIA OR TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+ICD-0-3
+812013
+Carcinoma, urothelial NOS
+Site: Bladder NOS.
+0679
+03/26/14
+BENIGN URETHRAL MUCOSA WITH SQUAMOUS METAPLASIA, CHRONIC INFLAMMATION
+AND ASSOCIATED REACTIVE CHANGES
+-
+NO DYSPLASIA OR MALIGNANCY IDENTIFIED
+BLADDER, UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES (D):
+BLADDER:
+30% squamais, per TSS.
+INVASIVE POORLY DIFFERENTIATED UROTHELIAL CARCINOMA WITH FOCAL SQUAMOID
+FEATURES (6 × 3 × 2 CM), GRADES 3 & 4/4, EXTENDING GROSSLY AND
+MICROSCOPICALLY THROUGH RIGHT BLADDER WALL INTO PERIVESICAL SOFT TISSUE
+AND INVOLVING RIGHT URETEROVESICAL JUNCTION AND INTRAMURAL URETER WITH
+RESULTING OBSTRUCTION (INDWELLING RIGHT URETERAL STENT)
+SINGLE FOCUS OF VASCULAR INVASION IDENTIFIED
+ADJACENT MUCOSA EXHIBITING UROTHELIAL CARCINOMA IN SITU (FLAT LESION)
+RANDOM BLADDER MUCOSA INCLUDING TRIGONE AND BLADDER NECK SHOWING
+SQUAMOUS METAPLASIA WITHOUT EVIDENCE OF UROTHELIAL DYSPLASIA OR
+CARCINOMA IN SITU (FLAT LESION)
+RESECTION MARGINS, FREE OF UROTHELIAL DYSPLASIA AND MALIGNANCY
+UTERUS WITH CERVIX:
+CERVIX, BENIGN SQUAMOUS AND ENDOCERVICAL MUCOSA
+ENDOMETRIUM, ATROPHY
+MYOMETRIUM, NO SIGNIFICANT HISTOPATHOLOGIC CHANGE
+SEROSA, NO SIGNIFICANT HISTOPATHOLOGIC CHANGE
+NO ATYPIA, DYSPLASIA OR MALIGNANCY IDENTIFIED
+BILATERAL FALLOPIAN TUBES AND OVARIES:
+OVARIES, ATROPHY AND BENIGN PHYSIOLOGIC CHANGES
+FALLOPIAN TUBES, SIMPLE PARATUBAL CYST ON LEFT WITH NO OTHER SIGNIFICANT
+HISTOPATHOLOGIC CHANGE
+NO ATYPIA OR MALIGNANCY IDENTIFIED
+LEFT PROXIMAL URETER (E):
+BENIGN URETER
+-
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+SURGICAL PATHOLOGY REPORT
+RIGHT PROXIMAL URETER (F):
+-
+BENIGN URETER EXHIBITING CHRONIC INFLAMMATION AND ASSOCIATED REACTIVE
+CHANGES
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+LEFT EXTERNAL ILIAC LYMPH NODES (G):
+NO MALIGNANCY IDENTIFIED IN SIX LYMPH NODES EXAMINED (0/6)
+RIGHT PRE-SCIATIC LYMPH NODES (H):
+-
+NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE EXAMINED (0/1) [ENTIRELY
+SUBMITTED]
+LEFT PRE-SCIATIC LYMPH NODES (I):
+NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE EXAMINED (0/1) [ENTIRELY
+SUBMITTED]
+PRE-SACRAL LYMPH NODES (J):
+-
+NO MALIGNANCY IDENTIFIED IN FOUR LYMPH NODES EXAMINED (0/4)
+LEFT OBTURATOR HYPOGASTRIC LYMPH NODES (K):
+-
+NO MALIGNANCY IDENTIFIED IN NINE LYMPH NODES EXAMINED (0/9)
+LEFT PARA-AORTIC LYMPH NODES (L):
+NO MALIGNANCY IDENTIFIED IN SIX LYMPH NODES EXAMINED (0/6)
+LEFT COMMON ILIAC LYMPH NODES (M):
+-
+NO MALIGNANCY IDENTIFIED IN NINE LYMPH NODES EXAMINED (0/9)
+HIGHEST INTER-AORTIC CAVAL LYMPH NODES, ORIGIN OF INFERIOR MESENTERY (N) :
+[ENTIRELY
+-
+NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE EXAMINED (0/1)
+SUBMITTED]
+RIGHT PARA CAVAL LYMPH NODES (0) :
+NO MALIGNANCY IDENTIFIED IN SIX LYMPH NODES EXAMINED (0/6)
+RIGHT COMMON ILIAC LYMPH NODES (P):
+-
+NO MALIGNANCY IDENTIFIED IN SEVEN LYMPH NODES EXAMINED (0/7)
+RIGHT LYMPH NODE OF CLOQUET (Q):
+NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE EXAMINED (0/1)
+RIGHT EXTERNAL LYMPH ILIAC LYMPH NODES (R):
+NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE EXAMINED (0/1) [ENTIRELY
+SUBMITTED]
+RIGHT OBTURATOR/HYPOGASTRIC LYMPH NODES (S):
+-
+NO MALIGNANCY IDENTIFIED IN 13 LYMPH NODES EXAMINED (0/13)
+LEFT LYMPH NODE OF CLOQUET (T):
+-
+NO MALIGNANCY IDENTIFIED IN ONE LYMPH NODE EXAMINED (0/1)
+LYMPH NODE SUMMARY: NO MALIGNANCY IDENTIFIED IN TOTAL OF 66 LYMPH NODES
+EXAMINED (0/66)
+PATHOLOGIC TNM STAGE: pTis,
+T3bN0MX
+Electronically signed by
+Verified:
+Page 2 of 6
+SURGICAL PATHOLOGY REPORT
+Page 3 of 6
+COMMENT:
+Representative sections of invasive carcinoma are submitted for P53 assay by
+immunohistology, results of which will be issued in an addendum.
+SPECIMEN SOURCE:
+A: "Right distal ureter F/S"
+B: "Left distal ureter F/S"
+C: "Urethral margin-f/s"
+D: "Bladder, uterus, cervix, bilateral fallopian tubes and ov
+E: "Left proximal ureter"
+F: "Right proximal ureter"
+G: "Left external iliac lymph nodes"
+H: "Right pre-sciatic lymph nodes"
+I: "Left pre-sciatic lymph nodes"
+J: "Pre-sacral lymph nodes"
+K: "Left obturator hypogastric lymph nodes"
+L: "Left para-aortic lymph nodes"
+M: "Left common iliac lymph nodes"
+N: "Highest inter-aortic caval LN, origin of inferior mesente
+O: "Right para caval LN"
+P: "Right common iliac LN"
+Q: "Right lymph node of cloquet"
+R: "Right external iliac lymph nodes"
+S: "Right obturator/hypogastric lymph nodes"
+T: "Left lymph nodes of cloquet"
+CLINICAL INFORMATION:
+Pre-op Dx:
+Bladder cancer
+GROSS EXAMINATION:
+A: The specimen is received fresh from the O.R. and labeled "Right distal ureter
+F/S". It consists of one segment of ureter measuring 0.4 cm in length x 0.5 cm in
+diameter. The specimen is entirely submitted for frozen section diagnosis in AFS.
+B:
+The specimen is received fresh from the O.R. and labeled "Left distal ureter
+F/S". It consists of one segment of ureter measuring 0.5 cm in length x 0.3 cm in
+diameter. The specimen is entirely submitted for frozen section diagnosis in BFS.
+C:
+The specimen is received fresh from the O.R. and labeled "Urethral margin-f/s".
+It consists of one piece of irregularly shaped tan tissue measuring 2 x 0.6 x 0.4
+The specimen is entirely submitted for frozen section diagnosis in CFS.
+cm.
+D: The specimen is received fresh from the O.R. and labeled "Bladder, uterus,
+cervix, bilateral fallopian tubes and ovaries". The entire specimen measures 21.5
+× 13 × 5 cm. Peritoneum on the posterior surface measures 20 x 11 x less 0.1 cm
+and is smooth, glistening and mobile, being uninvolved by tumor. The bladder
+itself measures 8 x 6.5 x 4 cm. A palpable mass is present on the right side.
+This area of the outside of the bladder is inked black and the bladder is opened
+through the urethra and anterior bladder wall. The opened bladder shows an
+exophytic and ulcerated tumor 6 x 3 x 2 cm on the right lateral wall that involves
+the right ureterovesical junction. It comes within 1 cm of the urethral margin.
+Tumor extends through the bladder wall into the perivesical soft tissue to a depth
+of 2 cm. A ureteral stent protrudes from the right ureteral orifice. It is
+removed and the ureter is opened. The right attached ureter measures 7 cm in
+length x 1.5 cm in circumference in its more proximal aspect but narrows to less
+than 2-3 mm in its intramural segment where it is surrounding by tumor. The left
+UVJ is identified and is patent. It is opened to reveal the left attached ureter
+measuring 4.5 cm in length x 0.6 cm in circumference. The ureteral mucosa is
+SLIDEIA ALDA THAL ICY REPOR
+ollected
+Ordered by
+Page 4 of 6
+The
+unremarkable. The uninvolved bladder wall is 0.8 cm in thickness. No other lesions
+or masses are identified on the bladder mucosa. The uterus with cervix measures 5.5
+x 3.5 x 2.5 cm. The external os of the cervix is 0.8 cm in diameter. The exocervix
+measures 2.5 cm in diameter. The mucosa is grossly normal. The uterus is pear
+shaped and symmetrical and the serosa is smooth. The uterus is then bivalved.
+endocervical canal measures 2 cm in length x 0.3 cm in diameter. The endocervical
+mucosa is unremarkable. The uterine wall measures 1.1 cm in thickness. The
+endometrium is 1 mm in thickness. The myometrium is 1 cm in thickness. The
+endometrium, myometrium and serosal are normal. The right fallopian tube measures
+4 cm in length x 0.4 to 0.5 cm in diameter. The right ovary measures 1.3 x 0.8 ×
+0.5 cm and is grossly unremarkable. The left fallopian tube measures 5 cm in
+length x 0.3 to 0.5 cm in diameter with a 1 mm simple paratubal cyst. The right
+ovary measures 1.2 x 0.6 x 0.5 cm and is grossly unremarkable. Representative
+sections are submitted in 18 cassettes.
+E: The specimen is received in formalin and labeled "Left proximal ureter". It
+consists of one segment of ureter measuring 1 cm in length x 0.4 cm in diameter.
+The specimen is entirely submitted in one cassette.
+F: The specimen is received in formalin and labeled "Right proximal ureter".
+consists of one segment of ureter measuring 1 x 0.4 × 0.4 cm. The specimen is
+entirely submitted in one cassette.
+It
+G: The specimen is received in formalin and labeled "Left external iliac lymph
+nodes". It consists of multiple pieces of irregularly shaped fibroadipose tissue
+measuring in aggregate 2.5 x 2.5 x 1.5 cm. Multiple possible lymph nodes are
+identified measuring from 0.4 to 1 cm in dimension. The specimen is entirely
+submitted in three cassettes.
+H: The specimen is received in formalin and labeled "Right pre-sciatic lymph
+nodes". It consists of multiple pieces of irregularly shaped fibroadipose tissue
+measuring in aggregate 1.5 x 1.5 x 1 cm. Multiple possible lymph nodes are
+identified measuring from 0.1 to 0.4 cm in dimension. The specimen is entirely
+submitted in one cassette.
+I ; The specimen is received in formalin and labeled "Left pre-sciatic lymph
+nodes". It consists of multiple pieces of irregularly shaped fibroadipose tissue
+measuring in aggregate 2 x 2 x 1 cm. Multiple possible lymph nodes are identified
+measuring from 0.1 to 0.5 cm in dimension. The specimen is entirely submitted in
+one cassette.
+J:
+The specimen is received in formalin and labeled "Pre-sacral lymph nodes". It
+consists of multiple pieces of irregularly shaped fibroadipose tissue measuring in
+aggregate 3 x 3.5 x 1.5 cm. Multiple possible lymph nodes are identified measuring
+from 0.1 to 0.3 cm in dimension. The specimen is entirely submitted in six
+cassettes.
+K:
+The specimen is received in formalin and labeled "Left obturator hypogastric
+lymph nodes". It consists of multiple pieces of irregularly shaped fibroadipose
+tissue measuring in aggregate 5 x 5 x 2 cm. Multiple possible lymph nodes are
+identified measuring from 0.1 to 3 cm in dimension. The specimen is entirely
+submitted in six cassettes.
+L:
+The specimen is received in formalin and labeled "Left para-aortic lymph
+nodes". It consists of one piece of irregularly shaped fibroadipose tissue
+measuring 2.5 x 2 x 2 cm. One lymph node is identified measuring 2 x 2 x 2 cm.
+The specimen is entirely submitted in six cassettes.
+M: The specimen is received in formalin and labeled "Left common iliac lymph
+nodes". It consists of multiple pieces of irregularly shaped fibroadipose tissue
+SURGICAL PATHOLOGY REPORT
+Page 5 of 6
+Multiple possible lymph nodes are identified
+The specimen is entirely submitted in
+measuring in aggregate 4 × 3 × 2 cm.
+measuring from 0.2 to 3 cm in dimension.
+seven cassettes.
+N:
+The specimen is received in formalin and labeled "Highest inter-aortic caval
+LN, origin of inferior mesentery". It consists of one piece of irregularly shaped
+fibroadipose tissue measuring 1 x 0.5 x 0.4 cm. No obvious lymph nodes are
+identified.
+0:
+The specimen is entirely submitted in one cassette.
+The specimen is received in formalin and labeled "Right para caval LN". It
+consists of one piece of irregularly shaped fibroadipose tissue measuring 4 x 4 x
+1.5 cm. Multiple possible lymph nodes are identified measuring 0.2 to 2 cm in
+dimension. The specimen is entirely submitted in five cassettes.
+P: The specimen is received in formalin and labeled "Right common iliac LN". It
+consists of multiple pieces of fibroadipose tissue measuring in aggregate 5 × 2 × 1
+cm. Multiple possible lymph nodes are identified measuring from 0.5 to 5 cm in
+dimension. The specimen is entirely submitted in seven cassettes.
+Q:
+The specimen is received in formalin and labeled "Right lymph node of cloquet".
+It consists of one piece of irregularly shaped fibroadipose tissue measuring 2 x
+1.5 x 1 cm. One lymph node is identified measuring 2 x 1 x 0.5 cm. The specimen
+is entirely submitted in one cassette.
+R: The specimen is received in formalin and labeled "Right external iliac lymph
+nodes" It consists of multiple pieces of irregularly shaped fibroadipose tissue
+measuring in aggregate 2 x 2 x 1 cm. Multiple possible lymph nodes are identified
+measuring from 0.2 to 1 cm in dimension. The specimen is entirely submitted in two
+cassettes.
+S:
+The specimen is received in formalin and labeled "Right obturator/hypogastric
+lymph nodes". It consists of multiple pieces of irregularly shaped fibroadipose
+tissue measuring in aggregate 5 x 5 x 2.5 cm. Multiple possible lymph nodes are
+identified measuring from 0.2 to 1.8 cm in dimension. The specimen is entirely
+submitted in ten cassettes.
+T:
+The specimen is received in formalin and labeled "Left lymph nodes of cloquet".
+It consists of one piece of irregularly shaped fibroadipose tissue measuring 2 x
+1.5 x 1 cm. Multiple possible lymph nodes are identified measuring 0.4 to 1.5 cm
+in dimension. The specimen is entirely submitted in one cassette.
+SECTIONS:
+frozen section, right distal ureter
+frozen section, left distal ureter
+frozen section, urethral margin
+bladder, uterus, cervix, bilateral fallopian tubes and ovaries; right
+ureterovesical junction
+left ureterovesical junction
+trigone and bladder neck
+bladder neck
+anterior bladder wall
+AFS:
+BFS:
+CFS:
+D1:
+D2:
+D3:
+D4:
+D5:
+D6-9:
+D10:
+D11:
+dome of bladder
+D12:
+D13:
+D14:
+D15:
+D16:
+D17:
+right lateral bladder wall/lesion
+posterior bladder wall
+left lateral bladder wall
+anterior cervix
+posterior cervix
+anterior uterus
+posterior uterus
+right ovary and right fallopian tube
+i
+SURGICAL PATHOLOGY REPORT"
+Page 6 of 6
+Collected
+Ordered
+D18:
+E:
+F:
+G1-3:
+H:
+I:
+J1-6:
+K1-3:
+K4-6:
+L1-6:
+M1-7:
+N:
+01-5:
+P1-7:
+left ovary and left fallopian tube
+left proximal ureter
+right proximal ureter
+left external iliac lymph nodes
+right pre-sciatic lymph nodes
+left pre-sciatic lymph nodes
+pre-sacral lymph nodes
+left obturator hypogastric lymph nodes; one lymph node each cassette
+remainder of tissue
+left para-aortic lymph nodes; sixth cassette containing one lymph node
+left common iliac lymph nodes
+highest inter-aortic caval lymph nodes, origin of inferior mesentery
+right para caval lymph nodes
+cassette
+Q:
+R1, 2:
+S1-10:
+T:
+right common iliac lymph nodes; P2-7 containing one lymph node each
+right lymph node of Cloquet; one lymph
+right external iliac lymph nodes
+right obturator/hypogastric lymph nodes; $ 5,6 containing one lymph node
+left lymph nodes of Cloquet
+INTRAOPERATIVE FROZEN CONSULTATION:
+AFS:
+BFS:
+CFS:
+-
+Right distal ureter
+no high-grade atypia or tumor identified
+Left distal ureter
+no high-grade atypia or tumor identified
+Urethral margin
+no high-grade atypia or tumor identified
+MICROSCOPIC EXAMINATION:
+AFS-CFS: See final microscopic-diagnosis.
+D:
+Sections of the bladder taken from the right lateral wall show a poorly
+differentiated invasive urothelial carcinoma (D1,6-9) extending through the entire
+bladder wall into perivesical fat (D6,8,9). The tumor involves the right
+ureterovesical junction (D1) where it extends into the intramural portion of the
+right ureter and extends through the wall into périureteral and perivesical fat.
+The invasive tumor has an adjacent focus of urothelial carcinoma in situ (flat
+lesion) [D9]. While no lymphatic space invasion is seen, there is a focus of
+vascular invasion noted (D8). The peripheral inked perivesical margin is free of
+malignancy. Additional random sections of the bladder including the trigone and
+bladder neck show foci of squamous metaplasia but no urothelial dysplasia or
+urothelial carcinoma in situ. All final resection margins are free of both
+urothelial dysplasia and invasive carcinoma.
+E-T:
+See final microscopic-diagnosis.
+Criteria
+Two 1/21/14
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+Date Reviewed:
+DISQUALIFIED
+16/2014
+No

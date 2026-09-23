@@ -1,0 +1,64 @@
+Reporting pathologist(s):
+CONSULTANT.
+Sample
+Received
+HISTOLOGY
+HISTOLOGY
+SPECIMEN
+A. Bladder tumour.
+B. Base of tumour.
+CLINICAL DETAILS
+(TYPE UNSPECIFIED) Collected
+New invasive tumour - TURT.
+MACROSCOPY
+A. 5 g of firm tissue chippings.
+CGCF
+ICD0.3
+Carcinoma), urothelial NOS 8120/3
+ран
+10 Carcinoma, transitional cell NOS
+Site. Bladder NOS C67.9
+B. 2 pieces of tissue the larger measuring 12 mm.
+MICROSCOPY
+A.
+Grade:
+3 poorly differentiated with focal nested pattern.
+Growth pattern:
+Mixed papillary and solid.
+Type:
+Transitional cell carcinoma.
+Muscularis propria present:
+Present.
+Stromal invasion:
+Invasion of muscularis propria (pT2).
+Vascular channel invasion:
+Not identified.
+Background urothelium:
+Flat urothelium is present which is not dysplastic.
+SUMMARY
+Bladder; Transitional cell carcinoma G3 pT2.
+B.
+JJ 5/2/14
+UUID:1B5918AB-3C48-405C-BE7F-348E3907060C
+TCGA-ZF-A9R3-01A-PR
+812013
+Redacted
+Two fragments of muscularis propria both of which are extensively
+infiltrated by high grade urothelial carcinoma.
+SUMMARY
+Base of tumour; Extensive infiltration by urothelial carcinoma.
+Criteria
+Diagnosis Discrepancy
+A 1/10/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+14
+No

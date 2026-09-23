@@ -1,0 +1,36 @@
+UUID:87FC68D0-114F-4840-836C-53B2A8A18CEC
+TCGA-ES-A4TZ-01A-PR
+Redacted
+SPECIMEN(S):
+A. BLADDER TUMOR
+CLINICAL HISTORY:
+None provided
+PRE-OPERATIVE DIAGNOSIS:
+Bladder tumor
+ICD-0-3
+carcinoma, urothelial, NOS 8/20/3
+Path. Sita: bladde, Nos C67.9
+bladder, wall NOS
+6679
+GROSS DESCRIPTION:
+A. BLADDER TUMOR
+سلام
+10/10/12
+Received fresh labeled with the patient's identification and 'bladder tumor' is a 6g 4.3 x 2.6 x 1.2
+cm aggregate of tan pink soft tissue. A portion of the specimen is submitted for tissue
+procurement. The remainder of the specimen is submitted in A1-A2.
+DIAGNOSIS:
+A. BLADDER, TUMOR, TRANSURETHRAL RESECTION:
+- INVASIVE UROTHELIAL CELL CARCINOMA, HIGH GRADE.
+- INVADING INTO THE MUSCULARIS PROPRIA
+- PERINEURAL INVASION IS PRESENT
+Yes
+Diverepancy
+Tumor Site Discrepancy
+y History Non-INVASIVE Bl
+spary Noted
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+fr
+10/10/12

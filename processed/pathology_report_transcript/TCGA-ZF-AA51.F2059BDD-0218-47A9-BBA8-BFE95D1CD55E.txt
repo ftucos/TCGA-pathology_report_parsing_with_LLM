@@ -1,0 +1,47 @@
+Histopathology Histopathology
+Specimen Comments
+SPECIMEN
+Bladder tumour
+CLINICAL DETAILS
+UUID:F2059BDD-0218-47A9-BBA8-BFE95D1CD55E
+Redacted
+TCGA-ZF-AA51-01A-PR
+New TCC bladder. Solid looking. ?Muscle invasion. TURT done.
+MACROSCOPY
+7g of firm and friable tissue chippings.
+MICROSCOPY
+Grade
+3 Poorly differentiated
+Growth pattern
+Туре
+Mixed papillary and solid
+Transitional cell carcinoma
+Muscularis propria present Yes
+Stromal invasion Invasion of muscularis propria
+Vascular channel invasion Not identified
+Background urothelium No flat urothelium is identified
+Ref:
+Summary
+Pathologists -
+Transitional cell carcinoma G3pT2
+with
+LICE
+ICD0.3
+Carcinoma, urothelial NOS 8/2013
+"Carcinomas, transitional cell NOS 8/20/3
+Site: Bladder NOS C67.9
+NW 4/30/14
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+w 1/9/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

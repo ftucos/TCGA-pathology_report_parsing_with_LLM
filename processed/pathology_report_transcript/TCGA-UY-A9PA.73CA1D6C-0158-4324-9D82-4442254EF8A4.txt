@@ -1,0 +1,196 @@
+UUID:73CA1D6C-0158-4324-9D82-4442254EF8A4
+TCGA-UY-A9PA-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Patient Name.
+Med. Rec.#:
+DOB:
+Soc. Sec. #:
+Physician(s):
+Visit #:
+Sex:
+Location:
+Male
+FINAL PATHOLOGIC DIAGNOSIS
+Accession #:
+Service Date:
+Received:
+Client:
+ICD0.3
+Carne dested NO581203
+Site Kladder, latual wall
+0672
+31582014
+A. Left ureter, biopsy: Ureter with no significant pathologic abnormality; no tumor
+identified.
+B. Right ureter, biopsy: Ureter with no significant pathologic abnormality; no tumor
+identified.
+C. Bladder and prostate, radical cystoprostatectomy:
+1. Invasive high-grade urothelial carcinoma, 3.0 cm, invading perivesicular fat,
+negative margins; see comment.
+2. Extensive carcinoma in situ extending to bladder dome.
+3. Prostate with no significant pathologic abnormality, no prostatic or urothelial
+carcinoma identified.
+4. Bilateral seminal vesicles with no significant pathologic abnormality.
+5. Bilateral ureters with no significant pathologic abnormality.
+D. Bladder, "more," excision: Fibrofatty tissue; no tumor identified.
+E. Right pelvic lymph nodes, dissection: No tumor identified in thirteen lymph nodes
+(0/13).
+F. Left pelvic lymph nodes, dissection: No tumor identified in eight lymph nodes
+(0/8); see comment.
+G. Meckel's diverticulum, excision: Small bowel mucosa with focal gastric
+heterotopia; no tumor identified.
+H. Left ureter, "final," excision: Ureter with no significant pathologic abnormality.
+Page 1 of 4
+I. Right ureter, "final," excision: Ureter with no significant pathologic abnormality.
+COMMENT:
+The urothelial carcinoma does not invade the prostate. No prostatic adenocarcinoma is identified, and
+no high grade prostatic intraepithelial neoplasia is seen.
+An immunohistochemical stain for keratin was performed on slide F1, and is negative, ruling against
+metastatic carcinoma.
+Bladder Tumor Synoptic Comment
+- Tumor type: Urothelial (transitional cell) carcinoma.
+· Tumor grade: High grade.
+-
+Tumor size: 3.0 cm.
+->
+› Extent of tumor in bladder: Invasion through muscularis propria into perivesical tissue.
+- Lymphatic/vascular invasion: None.
+"
+-
+· Epithelial abnormalities in bladder: Carcinoma in situ.
+- Extension of tumor into adjacent organs: None.
+- Margins: Negative (invasive tumor is 0.3 cm from margin).
+- Right ureter margin: Negative.
+- Left ureter margin: Negative.
+- Perivesical margin: Negative (invasive tumor is 0.3 cm from margin).
+- Lymph node status: Negative.
+- Total number of nodes examined: 21.
+- Total number of positive nodes: 0.
+- Other pathologic findings in bladder: None.
+- AJCC/UICC stage: pT3aNOMX.
+Specimen(s) Received
+A:Left ureter, biopsy (FS)
+B:Right ureter, biopsy (FS)
+C:Bladder (FS)
+D:More bladder specimen (fresh)
+E:Right pelvic lymph node
+F:Left pelvic lymph node
+G:Meckel's "diverticle"
+H:Final left ureter
+I:Final right ureter
+Intraoperative Diagnosis
+FS1 (A) Left ureter, biopsy: No carcinoma. (Dr.
+FS2 (B) Right ureter, biopsy: No carcinoma. (Dr.
+FS3 (C) Urethral margin, biopsy: No carcinoma. (Dr.
+Clinical History
+The patient is at
+cystoprostatectomy.
+Gross Description
+-year-old man with urothelial carcinoma who now undergoes radical
+The specimen is received in nine parts, each labeled with the patient's name and medical record
+number. Parts A and B are received fresh for frozen section diagnosis. Parts D-I are received in
+Page 2 of 4
+formalin.
+Part A, additionally labeled "1 - left ureter," consists of one soft, irregular, unoriented, white-pink-red,
+irregular tissue fragment that is 0.7 x 0.5 x 0.2 cm. The entire specimen is frozen for frozen section
+diagnosis 1, and subsequently submitted in cassette A1.
+Part B, additionally labeled "2 - right ureter," consists of one soft, irregular, unoriented, white-pink-red,
+irregular tissue fragment that is 1.2 x 0.6 x 0.3 cm. The entire specimen is frozen for frozen section
+diagnosis 2, and subsequently submitted in cassette B1.
+Part C is received fresh additionally labeled "bladder," and consists of a 288-gram bladder and prostate
+measuring 13.5 x 11 x 4.5 cm. The urethral margin is submitted for frozen section diagnosis #3. The
+bladder mucosa shows a 3 x 2 cm, pink-tan, papillary mass that is on the left wall and extends from the
+trigone to the left dome. The tumor extends into the muscualris propia 2cm, and appears to abut but
+not involve the serosal surface. The mass does not appear to involve the perivesicular fat. The mass is
+2 cm from the prostate. The remaining bladder mucosa is tan-pink, folded and unremarkable. The
+attached prostate measures 4 x 3 x 3 cm, and on cut section, contains white-tan, whorled, grossly
+unremarkable prostate parenchyma. The attached seminal vesicles each measure 3 × 2 × 2 cm appear
+grossly unremarkable. The perivesicular fat is removed, and lymph nodes are thoroughly searched for,
+however, and no lymph nodes are found. Cassettes are submitted as follows:
+Frozen section 3 frozen section remnant.
+Cassette C1:
+Cassettes C2-C5:
+Cassette C6:
+Cassettes C7-C8:
+Cassette C9:
+Cassette C10:
+Cassette C11:
+Cassettes C12-C13:
+Full thickness sections showind deepest extent of invasion.
+Relationship of mass to adjacent bladder mucosa.
+Consecutive sections showing relationship of the mass to the prostate.
+Right bladder dome.
+Right bladder wall.
+Right inferior bladder wall.
+Prostate apex after removal of the urethral margin.
+Cassettes C14-C15: Mid-portions of the prostate.
+Cassette C16:
+Cassette C17:
+Left prostate base with seminal vesicles.
+Right prostate base with seminal vesicles.
+Part D, labeled "#4 - more bladder specimen," consists of a single soft, irregular piece of fat measuring
+3 x 2.5 x 0.3 cm. One portion of this fatty tissue has a stitch attached, and this stitch may be a
+retraction aid. Nonetheless, the area is inked black. The stitch is removed. This stitched area has a
+fibrous, beefy appearance and consistency. The specimen is entirely submitted with the firm fibrous
+tissue in cassette D1 and the remaining fatty tissue in cassette D2.
+Part E, additionally labeled "5 - right pelvic LN," consists of multiple tan-brown-yellow fatty tissue
+fragments measuring 5.5 x 4 x 1.5 cm in aggregate. The specimen is trimmed and extensively
+searched for lymph nodes. Multiple candidate lymph nodes are found and the entire specimen is
+submitted as follows:
+Cassette E1:
+Cassette E2:
+Cassettes E3-E4:
+Four intact nodes.
+Largest intact nodet
+Remainder of specimen
+Part F, additionally labeled "6 - left pelvic LN," consists of multiple soft, tan-yellow, fatty tissue
+fragments measuring 5 x 4 x 1.5 cm in aggregate. The specimen is trimmed and extensively searched
+for lymph nodes. Multiple candidate lymph nodes are found and the entire specimen is submitted as
+follows:
+Cassette F1:
+Cassette F2:
+Cassette F3:
+Four intact nodes.
+Three intact nodes.
+Remaining fat
+Part G, additionally labeled "7 - Meckel's diverticle [sic]," consists of one firm, pink-tan, unoriented
+tissue fragment measuring 1.7 x 0.8 x 0.8 cm. On one end, the specimen reveals a lumen that
+measures 0.2 cm in diameter with a pink-tan ring. The specimen is inked blue, then longitudinally
+transected reveal soft and firm, pink-tan homogeneous tissue. No lesions are noted. The entire
+Page 3 of 4
+specimen is submitted in cassette G1.
+Part H, additionally labeled "8 - final left ureter," consists of one soft, tan-light brown tissue fragment
+oriented by a black suture and metal staple on one end, measuring 1 x 0.7 x 0.4 cm. The suture and
+the staple line are removed, and the underlying area is inked blue. The specimen is cross-sectioned and
+entirely submitted in cassette H1.
+Part I, additionally labeled "9 - final right ureter," consists of one soft, tan-brown tissue fragment
+oriented by a tan suture and a metal staple on one end measuring 1.1 × 0.8 × 0.4 cm. The suture and
+the staple are removed and the underlying area is inked blue. The specimen is cross-sectioned and
+entirely submitted in cassette I1. (✓
+The immunoperoxidase stain(s) reported above were developed and their performance characteristics determined by the
+They have not been cleared or approved by the U. S. Food and Drug Administration.
+The FDA has determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They
+should not be regarded as investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement
+Amendments of 1988 ("CLIA") as qualified to perform high-complexity clinical testing.
+Diagnosis based on gross and microscopic examinations. Final diagnosis made by attending pathologist
+following review of all pathology slides.
+Pathology Resident
+/Pathologist
+Electronically signed out on
+Criteria
+Diagnosis Discrepancy
+ho 1/6/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+ed: 12/24/2013
+✓
+Page 4 of 4

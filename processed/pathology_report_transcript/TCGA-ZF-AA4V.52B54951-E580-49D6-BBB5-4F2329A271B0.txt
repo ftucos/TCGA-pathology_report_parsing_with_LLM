@@ -1,0 +1,89 @@
+UUID:52B54951-E580-49D6-BBB5-4F2329A271B0
+TCGA-ZF-AA4V-01A-PR
+Redacted
+Histopathology Histopathology
+Specimen Comments
+SPECIMEN
+1. Right external iliac node anterior.
+2. Right external iliac node common.
+3. Right external iliac node posterior.
+4. Right internal iliac.
+5. Right obturator.
+6. Left external iliac anterior.
+7. Left external iliac posterior.
+8. Left obturator node.
+9. Left common iliac.
+10. Left ureteric margin.
+11. Right ureteric margin.
+12. Cystectomy + lymphadenectomy
+CLINICAL DETAILS
+CSCE
+ICD-03
+Carcinoma, urothelial Nos 812013
+noth
+reinoma, tranational all NOSS
+812013
+Site: Bladder NOS C67.9
+JW 4/30/14
+Radical cystectomy for invasive bladder cancer + lymphadenectomy. G3 T2 at
+MACROSCOPY
+1. Fatty tissue measuring 45x30x5 mm. No lymph node identified.
+2. Fatty tissue measuring 100x20x20 mm.
+3. Fatty tissue measuring 30x25x15 mm.
+4. Fatty tissue measuring 40x35x25 mm.
+5. Fatty tissue measuring 65x35x20 mm.
+6. Fatty tissue measuring 50x25x15 mm.
+7. Fatty tissue measuring 80x20x15 mm.
+8. Fatty tissue measuring 70x30x20 mm.
+9. Fatty tissue measuring 35x25x20 mm.
+10. Tissue measuring 9 mm max.
+11. Tissue measuring up to 10 mm.
+12. Specimen overall measures 115 mm superior-inferior x 120 mm medial-lateral
+x 55 mm anterior-posterior. Bladder measures 95 mm superior-inferior x 60 mm
+medial-lateral x 50 mm anterior-posterior. Prostate measures up to 45 mm. At
+the dome of the bladder on the anterior surface, there is a solid exophytic mass
+measuring 45 mm in dimension and up to 20 mm in depth.
+MICROSCOPY
+1. Right external iliac anterior - no lymph nodes identified.
+2. Right external iliac common
+evidence of metastasis.
+-
+two lymph nodes identified, showing no
+3. Right external iliac posterior - three lymph nodes identified, showing no
+evidence of metastasis.
+4. Right internal iliac - two lymph nodes identified, showing no evidence of
+metastasis.
+5. Right obturator - three lymph nodes identified, showing no evidence of
+metastasis.
+6. Left external iliac anterior - two lymph nodes identified, showing no
+evidence of metastasis.
+7. Left external iliac posterior - three lymph nodes identified, showing no
+evidence of metastasis.
+8. Left obturator node - three lymph nodes identified, showing no evidence of
+metastasis.
+9. Left common iliac - 2 lymph nodes identified, showing no evidence of
+metastasis.
+10&11. Left and right ureteric margins are normal, with no evidence of
+dysplasia or malignancy.
+12. Sections show a poorly differentiated, grade 3 transitional cell carcinoma
+of the bladder. It invades the entire depth of the muscularis propria and
+infiltrates perivesical fat. It has a 'pushing' rather than infiltrative growth
+pattern, with a moderate lymphocytic response. The circumferential and urethral
+margins are clear. Adjacent urothelium shows no evidence of dysplasia.
+Representative sections of prostate show no significant abnormality.
+SUMMARY
+Transitional cell carcinoma of the bladder G3 pT3 pN0 pMx.
+Ref:
+Pathologists -
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+u 1/9/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+■ Reviewer Initials
+QUALIFIED / DISQUALIFIED

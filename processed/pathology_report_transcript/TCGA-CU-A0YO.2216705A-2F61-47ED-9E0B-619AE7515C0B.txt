@@ -1,0 +1,124 @@
+Case Number:
+Surgical Pathology Report
+Diagnosis:
+A: Bladder and prostate, cystoprostatectomy
+Collection Date:
+ICD-0-3
+carcinon, wrothelial NOS 8120/3
+Site bladder, NOS
+067.9
+2/18/11
+Bladder primary:
+Tumor histologic type: urothelial carcinoma
+سا
+Tumor histology grade (WHO): high grade
+Depth of invasion: through muscularis propria into perivesical fat (A11, A26)
+Focality of tumor: unifocal
+Angiolymphatic invasion: lymphatic invasion present (eg. A10)
+Intraepithelial abnormality: not identified
+Ureters: not involved, but uretero-vesicular junctions involved bilaterally
+Surgical margins:
+Ureter, left: negative
+Ureter, right: negative
+Urethra: positive for prostatic adenocarcinoma (A1, 2 mm diameter) negative for urothelial carcinoma
+Paravesicular soft tissue: negative, but close (1 mm to serosal surface (A12)
+Other significant findings: prostate adenocarcinoma, see below
+Lymph nodes: separately submitted, see specimens B and C
+Diagnoses of other organs: see below
+AJCC stage (bladder): pT3a pN2 pMx
+Prostate primary:
+Tumor histologic type: adenocarcinoma
+Grade: Gleason score 3+3
+Location: unilateral right, estimated more than d of the right lobe involved
+Vascular invasion: not identified
+Extracapsular extension: not identified
+Surgical margins: right distal urethral margin involved (A1)
+AJCC stage: pT2b pN0 pMx
+B: Lymph nodes, right pelvic, dissection
+UUID:2216705A-2F61-47ED-9E0B-619AE7515C0B
+TCGA-CU-A0YO-01A-PR
+Redacted
+- Metastatic urothelial carcinoma (7/10), largest metastasis 1.4 cm diameter, without extracapsular
+extension.
+No metastatic prostatic adenocarcinoma identified.
+C: Lymph nodes, left pelvic, dissection
+Criteria
+Yes
+No
+NO
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Primary Noted
+Casc
+Reveeritia
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+10/10/10
+-
+- Metastatic urothelial carcinoma (1/3), 2 mm diameter, without extracapsular extension.
+No metastatic prostatic adenocarcinoma identified.
+Clinical History:
+Gross Description:
+Received are three appropriately labeled containers.
+Container A:
+Specimen fixation: formalin
+Type of specimen(s) received: cystectomy
+Size of urinary bladder: 13.8 x 11.2 x 4.5 cm overall; The bladder is approximately 8.7 x 0.2 x 4.5 cm.
+Orientation: Inking: right prostate-blue, left prostate=black, apex=yellow, posterior peritoneal surface
+overlying bladder=green.
+Tumor size: 4.5 x 1.9 cm
+Tumor location: The tumor encompasses the majority of the bladder. The superior/posterior peritoneal
+surface is firm and lobulated (inked green).
+Other mucosal lesions: The trigone is diffusely erythematous.
+Gross description of other organs or structures: A 2.5 x 2.0 x 0.5 cm questionable prostate, The gross
+appearance is not consistent with prostate. However, the requisition is labeled "bladder and prostate." No
+seminal vesicles or vasa differentia are grossly identified.
+Digital photograph taken: no
+Tissue submitted for special investigation: yes; Tumor was submitted for Tissue Procurement
+Block Summary: (Inking: right prostate=blue, left prostate=black, apex=yellow,
+superior/posterior peritoneal surface of the bladder=green)
+A1 right distal urethral margin
+-
+A2 left distal urethral margin
+A3 right ureter margin
+A4 - left ureter margin
+A5 right ureter margin, next cross section
+•
+A6 left ureter margin, next cross section
+A7 - right ureterovesicular junction
+A8 - left ureterovesicular junction
+A9 - tan mass with respect to green inked peritoneum
+A10 mass, posterior/dome
+A11-A14 uninvolved trigone
+A15 uninvolved right lateral wall
+A16 uninvolved left lateral wall
+A17,A18 - perpendicular sections of presumed prostate (just inferior to the trigone to the surface of the
+psecimen0
+-
+A19 perpendicular section of the presumed right side of the prostate
+A20 perpendicular section of the presumed left side of the prostate
+A21-A24 remainder of right lobe of prostate
+A25-A30 remainder of left lobe of prostate
+Container B is additionally labeled "right pelvic lymph nodes." It holds a 5.5 x 4.0 x 1.0 cm fragment of yellow
+lobulated adipose tissue which is dissected for lymph nodes. Lymph node candidates are grossly identified
+ranging from 0.4 cm to 4.1 cm in greatest dimension. Sections are submitted as follows:
+Block summary:
+B1,B2 largest lymph node, bisected
+B3-B4 one lymph node candidate, bisected
+B5 one lymph node candidate, bisected
+B6 four lymph node candidates
+Container C is additionally labeled "left pelvic lymph nodes." It holds a 6 × 2 × 1.2 cm fragment of yellow
+lobulated adipose tissue which is dissected for lymph nodes. Four lymph node candidates are gross
+identified ranging from 0.5 cm to 4 cm in greatest dimension. Sections are submitted as follows:
+C1,C2 - largest lymph node candidate, serially sectioned
+C3 two lymph node candidates
+Light Microscopy:
+Light microscopic examination is performed
+Urothelial carcinoma extends into perivesicle fat in A11, A12, and A26.
+Prostatic adenocarcinoma is identified in the R lobe in blocks A1, A19, A22, and A23. called with the
+unexpected prostatic ACa data
+Signature
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).

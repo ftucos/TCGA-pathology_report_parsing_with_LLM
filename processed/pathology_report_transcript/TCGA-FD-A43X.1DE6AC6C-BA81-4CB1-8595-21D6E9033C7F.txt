@@ -1,0 +1,163 @@
+Redacted
+UUID:1DE6AC6C-BA81-4CB1-8595-21D6E9033C7F
+TCGA-FD-A43X-01A-PR
+Gender: Male
+DOB:
+Race: White
+Report Date:
+Pathology Report:
+leD-0-3
+carcinoma, papillary wrathliad 8130/3
+CQCF site bladder wall, posterior c67.4
+Path
+bladder, Nos
+067.9
+نکار
+9/24/17
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Left pelvic lymph nodes:
+- Eight lymph nodes (0/8), no tumor.
+B. Right pelvic lymph nodes:
+- Twenty lymph nodes (0/20), no tumor.
+C. Bladder, prostate, seminal vesicles, vas deferens:
+- Papillary urothelial carcinoma of the bladder.
+- One lymph node (0/1), no tumor.
+- Prostatic hyperplasia, no tumor.
+- Seminal vesicles and vas deferens, no tumor.
+- Focal chronic and granulomatous inflammation consistent with treatment
+effect.
+D. Distal right ureter:
+-
+· Ureteral segment, no tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type:
+Papillary urothelial carcinoma
+2. Grade of tumor:
+High grade
+3. Depth of invasion:
+Lamina propria
+Muscularis propria: Inner half with focus of lymphovascular invasion (C25)
+4. Tumor distribution:
+Multifocal (confluent), 8.5 cm largest size
+Dome
+Right lateral wall
+Left lateral wall
+Trigone
+Anterior wall
+Posterior wall
+5. Ureteral margins:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima Ncted
+Case is cicle:
+Reviewer
+QUALIFIED
+Date Reviewed:
+Yes
+No
+☑
+DISQUALIFIED
+✗
+8/20112
+01/06/8
+Negative
+6. Distal urethral margin:
+Negative
+7. Soft tissue margin or serosa:
+Negative
+8. Lymph nodes:
+0/28
+9. pTNM:
+ypT2a, NO, MX
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+XXX
+[] M.D.
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [] MD
+Electronically Signed Out by [], M.D.
+Clinical History:
+The patient is an -year-old male with high grade urothelial carcinoma of the
+bladder undergoing cystoprostatectomy.
+Specimens Received:
+A: Left pelvic lymph nodes
+B: Right pelvic lymph nodes
+C: Bladder, prostate, seminal vesicles, vas deferens
+D: Distal right ureter
+Gross Description:
+The specimen is received in four containers each labeled with the patient's name
+and medical record number.
+A. The first container is additionally identified as, "1. Left pelvic lymph
+nodes". Received fresh and placed in formalin is a 4.5 x 2.5 x 1.5 cm aggregate
+of lobulated yellow fibrofatty tissue. The specimen is dissected for lymph
+nodes to reveal 8 apparent lymph nodes ranging from 0.5-3.5 cm in greatest
+dimension. All apparent lymph nodes are submitted as follows:
+A1: 1 candidate lymph node, serially sectioned
+A2: 3 candidate lymph nodes
+A3: 3 candidate lymph nodes
+A4: 1 candidate lymph node, bisected
+B. The second container is additionally identified as, "2. Right pelvic lymph
+nodes". Received fresh and placed in formalin is a 6.5 x 4.0 x 1.5 cm aggregate
+of lobulated yellow fibrofatty tissue. The specimen is dissected for lymph
+nodes to reveal 20 apparent lymph nodes ranging from 0.3-3.0 cm in greatest
+dimension. All apparent lymph nodes are submitted as follows:
+B1: 6 lymph node candidates
+B2: 4 lymph node candidates
+B3: 4 lymph node candidates
+B4: 1 lymph node candidate, bisected
+B5: 1 lymph node candidate, bisected
+B6: 1 lymph node candidate, bisected
+B7: 3 lymph node candidates
+C. The third container is additionally identified as, "3. Bladder, prostate,
+seminal vesicles, vas deferens". Received fresh and placed in formalin is an
+18.0 x 11.5 x 7.5 cm cystoprostatectomy specimen with attached mesenteric fat.
+The bladder measures 8.5 x 8.5 x 7.0 cm. The right ureteral stump measures 0.5
+cm and the left 1.0 cm, and both demonstrate patent lumina. The prostate
+measures 4.8 x 4.0 x 3.6 cm. The right seminal vesicle measures 3.0 x 2.5 x 0.6
+cm and the right vas deferens 3.0 cm. The left seminal vesicle measures 3.0 x
+2.2 x 0.6 cm and the left vas deferens 7.0 cm. The right half of the prostate is
+inked blue and the left half is inked black, and the outside of the bladder is
+inked black. The prostate is opened anteriorly along the urethra and continued
+superiorly through the bladder in a Y-shaped incision. The prostate is serially
+sectioned from apex to base to reveal bulging, yellow to tan parenchyma with a
+0.4 x 0.3 x 0.3 cm area of induration located on the right prostate
+posterolaterally. The bladder mass extends near the base of the prostate. The
+bladder demonstrates a fungating, focally friable, tan-pink mass involving the
+entire surface of the bladder. Serial sectioning reveals partial tumor invasion
+into bladder wall to a depth of 1.5 cm, abutting the inked margin in multiple
+locations of the anterior and posterior bladder. There is no normal mucosa
+present. The bladder wall thickness is 0.5 cm in areas not grossly involved by
+the mass. The bilateral ureteral orifices are identified and probe patent.
+Photographs are taken. Representative sections are submitted as follows:
+C1: Distal urethral margin
+C2: Right ureter margin
+C3: Left ureter margin
+C4: Prostate apex, serially sectioned
+C5: Representative sections of right vas deferens and seminal vesicle
+C6: Representative sections of left vas deferens and seminal vesicle
+C7: Representative section of right prostate through verumontanum
+C8: Representative section of left prostate through verumontanum
+C9-C10: Representative sections of right prostate above verumontanum in
+region of induration
+C11-C12: Representative sections of left prostate above verumontanum
+C13: Right prostate in region of bladder tumor invasion
+C14: Left prostate in region of bladder tumor invasion
+C15: Representative section of mass in anterior bladder
+C16: Representative section of mass in anterior bladder in region
+abutting inked margin
+C17-C18: Representative sections of mass in anterior bladder
+C19-C21: Representative sections of mass in dome of bladder
+C22-C25: Representative sections of mass in posterior bladder
+D. The fourth container is additionally identified as, "4. Distal right ureter".
+Received fresh and placed in formalin is an unoriented 2.5 cm in length and 0.4
+cm in diameter tan, rubbery, tube-like structure with attached adipose tissue.
+There is a long suture at one end of the specimen and this end is inked black.
+The specimen is serially sectioned and submitted as follows:
+D1: Margins
+D2: Central sections
+[], MD

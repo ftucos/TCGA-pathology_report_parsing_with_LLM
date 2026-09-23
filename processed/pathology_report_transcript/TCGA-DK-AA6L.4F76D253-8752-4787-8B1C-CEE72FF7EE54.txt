@@ -1,0 +1,389 @@
+UUID:4F76D253-8752-4787-881C-CEE72FF7EE54
+TCGA-DK-AA6L-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+SURGICAL PATHOLOGY REPORT
+DOB: (Age:
+Gender:
+M
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+year old male with CT1C Gleason 3+3=6, PSA 4.02 and T2 bladder carcinoma for partial cystectomy and open radical
+retropubic prostatectomy, bilateral lymph node dissection.
+Specimens Submitted:
+1: SP: Dome of bladder, urachus; partial cystectomy (fs)
+2: SP: Right pelvic lymph nodes; dissection
+3: SP: Right common iliac lymph nodes; dissection
+4: SP: Left pelvic lymph nodes; dissection
+5: SP: Bladder margin; biopsy (fs)
+6: SP: Bladder and prostate and seminal vesicles; prostatectomy and completion cystectomy
+7: SP: Right vas deferens; excision
+8: SP: Left vas deferens; excision
+9: SP: Soft tissue, cord; excision
+DIAGNOSIS:
+1. SP: Dome of bladder, urachus; partial cystectomy (fs):
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+In situ component not identified
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Not identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+See Part 6
+Vascular Invasion:
+Not identified
+Perineural Invasion:
+Not identified
+Surgical Margins:
+ICDO.3
+Caranoma, urothelial Nos 812013
+Sete ladder dome C671
+path ladder NOS C679
+4/20/14
+Right anterior bladder margin positive, Right and left posterior bladder margins negative.
+Page 1 of 7
+Non-Neoplastic Mucosa:
+Exhibiting ulceration
+SURGICAL PATHOLOGY REPORT
+Prostate:
+Extensively denuded urothelium
+Other See Prostate template
+Seminal Vesicles:
+Other See prostate template
+Perivesical Lymph Nodes:
+LN Not involved see comment
+The Pathologic Stage is (AJCC 2002):
+Comment:
+cells
+pT3 (Invasion of perivesicle soft tissue)
+PRO (No involvement of prostate)
+Rare cytokeratin positive cells are noted in one lymph node; it is difficult to ascertain the exact nature of these
+Some of the immunohistochemistry and ISH tests were developed and their performance characteristics were determined by the
+Department of Pathology. They have not been cleared or approved by the US Food and Drug Administration. The FDA has
+determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should not be
+regarded as investigational or for research. This laboratory is certified under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA '88) as qualified to perform high complexity clinical laboratory testing.
+2. SP: Right pelvic lymph nodes; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 10
+3. SP: Right common iliac lymph nodes; dissection:
+Lymph Node Dissection:
+Benign fibroadipose tissue
+The specimen is entirely submitted.
+4. SP: Left pelvic lymph nodes; dissection:
+Lymph Node Dissection:
+Benign lymph nodes
+Metastatic Urothelial carcinoma
+Number of lymph nodes examined: 8
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 0.9cm.
+Size of the largest metastatic focus: 0.8 cm.
+Extranodal extension is not identified
+5. SP: Bladder, margin; Partial resection (fs):
+-Prominently denuded bladder urothelium with reactive atypia
+-No carcinoma seen
+6. SP: Bladder and prostate and seminal vesicles; prostatectomy and completion cystectomy:
+Tumor Type:
+Adenocarcinoma
+Gleason's Grade:
+Primary Gleason grade:3
+Page 2 of 7
+SURGICAL PATHOLOGY REPORT
+Secondary Gleason grade:3
+Total Gleason score:6
+Tumor Location:
+Involves Right anterior
+Involves Left anterior
+Dominant tumor mass located in: Right and left anterior, apex to mid
+Vascular Invasion:
+Not Identified
+Perineural Invasion:
+Identified
+Tumor Multicentricity:
+Multicentric foci of invasive carcinoma are present
+High Grade Prostatic Intraepithelial Neoplasia:
+Capsule:
+Identified
+Tumor invades into, but not beyond prostate capsule
+Seminal Vesicles:
+Not involved
+Bladder Neck:
+Not Involved
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Prostate:
+fast bacilli
+Exhibits nodular hyperplasia
+Necrotizing granulomas in prostate consistent with history of prior BCG therapy, AFB stain is negative for acid
+Staging (AJCC 1997):
+pT2b (confined to the prostate & capsule, involving both lobes)
+Portion of urinary bladder with reactive urothelial atypia
+- Benign ureters
+No carcinoma is present
+7. SP: Right vas deferens; Excision:
+-Benign portion of vas deferens
+8. SP: Left vas deferens; Excision:
+-Benign portion of vas deferens
+9. SP: Soft tissue, cord; Excision:
+-Mature adipose tissue, consistent with lipoma
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+***
+Report Electronically Signed Out ***
+Page 3 of 7
+Gross Description:
+SURGICAL PATHOLOGY REPORT
+1.) The specimen is received fresh for frozen consultation, labeled "Dome of bladder and urachus, black stitch marks posterior wall
+and white stitch marks right wall". It consists of an irregular portion of the dome of bladder, urachus and surrounding fibrofatty
+tissue measuring 18.0 cm from superior to inferior, 7.8 cm laterally and 5.9 cm from anterior to posterior. The bladder measures
+6.0 x 5.5 x 2.6 cm. The bladder resection margins are inked as follows: right posterior – black, right lateral -green, right
+anterior-red, left anterior - black, left posterior-orange. Representative resection margins (approximately 50%) are shaved and
+submitted for frozen diagnosis. The residual bladder resection margins are submitted for routine processing. The bladder is opened
+along the median umbilical ligament to reveal a 5.6 x 5.2 x 2.6 cm white firm mass which grossly involves the entire bladder. The
+tumor invades perivesicular fat but does not reach the soft tissue resection margin grossly. No ureters and orifices are identified.
+Only a rim (0.3cm) of smooth bladder mucosa is present grossly. The specimen is photographed. TPS is submitted.
+Summary of sections:
+FSCA- left posterior margin
+FSCB- right posterior margin
+FSCC-right anterior margin
+RLM-residual right lateral margin
+RPM
+residual right posterior margin
+LPM residual left posterior margin
+LAM residual left anterior margin
+T - tumor
+RM- rim of smooth mucosa
+LN- possible lymph nodes
+2). The specimen is received fresh, labeled "right pelvic lymph node (fresh and sterile)" and consists of multiple pink tan firm lymph
+nodes ranging from 0.9 to 3.5 cm in greatest dimension. All identified lymph nodes are submitted in nine cassettes.
+Summary of sections:
+LN-lymph nodes
+QLN-quadrisected lymph node
+3). The specimen is received fresh, labeled "right common iliac lymph nodes, fresh and sterile" and consists of a 4 x 4 x 1 cm
+aggregate of yellow-tan to red-pink, lobulated fibroadipose tissue with no lymph nodes identified. The specimen is entirely
+submitted in three cassettes.
+Summary of sections:
+U - undesignated
+4). The specimen is received fresh, labeled "left pelvic lymph nodes, fresh and sterile" and consists of six pink tan firm lymph nodes
+ranging from 1.5 to 4.3 cm in greatest dimension. All identified lymph nodes are submitted in eight cassettes.
+Summary of sections:
+LN- lymph nodes
+QLN-quadrisected lymph node
+Page 4 of 7
+SURGICAL PATHOLOGY REPORT
+5). The specimen is received fresh for frozen section consultation, labeled "Bladder margin" and consists of a 4.2 x 1.8 x 0.9cm
+portion of pink white bladder mucosa and soft tissue. The margin is submitted for frozen section consultation, the remaining tissue
+is entirely submitted for routine processing.
+Summary of sections:
+FSC frozen section control
+U - undesignated
+6). The specimen is received fresh, labeled “Bladder and Prostate, seminal vesicles”.
+It consists of a partial cystectomy with attached prostate and seminal vesicles.
+The total weight of the prostate is 47.5 grams.
+The prostate measures 4 cm from apex to base, 4.5 cm transversely,
+and 4 cm from anterior to posterior.
+The external surface of the prostate is smooth.
+The prostate is inked (right=green, left=blue) and fixed in formalin overnight.
+The prostate is serially cut from apex to base at approximately 3-4 mm intervals.
+The prostate is entirely submitted.
+Summary of Sections:
+RA-right apical margin
+LA-left apical margin
+BN-bladder neck margin
+RSV-right seminal vesicle
+LSV-left seminal vesicle
+A--serial sections of prostate (apex to base)
+The completion cystectomy measures 6 x 1.5 cm. There is a line of sutures measuring 6 cm in length. The bladder mucosa is red
+and no gross lesions are identified. Possible ureters are identified on the right and left side of the bladder, measuring 0.2 cm in
+length and 0.2 cm in diameter. On the left side of the bladder is a tubular structure measuring 2.0 cm in length, likely representing
+the vas deferens. The bladder mucosa is pink and edematous. Representative sections are submitted of the bladder.
+RB right bladder
+LB
+-
+left bladder
+V - probable left vas deferens
+RU - right ureter margin, en face
+RUO right ureteral orifice
+LU - left ureter
+LUO
+left ureteral orifice
+7.) The specimen is received in formalin, labeled "Right vas deferens" and consists of a 7.4 cm in length and 0.3 cm in diameter
+of rubbery, tan-white cylindrical tissue, partially surrounded by adipose tissue, consistent with vas deferens. No lesions are
+identified grossly. A representative section is submitted.
+Summary of sections:
+RVD right vas deferens
+-
+8.) The specimen is received in formalin, labeled "Left vas deferens" and consists of a 6.0 cm in length and 0.3 cm in diameter of
+rubbery, tan-white cylindrical tissue, partially surrounded by adipose tissue, consistent with vas deferens. No lesions are identified
+grossly. A representative section is submitted.
+Summary of sections:
+LVD -- left vas deferens
+Page 5 of 7
+SURGICAL PATHOLOGY REPORT
+9.) The specimen is received in formalin, labeled "Lipoma of the cord" and consists of a 15.4 x 5.8 x 1.5 cm fragment of focally
+hemorrhagic adipose tissue, partially surrounded by a thin translucent membranous which is sectioned to reveal no grossly
+identifiable lesions. A representative section is submitted.
+Summary of sections:
+L - lipoma
+Summary of Sections:
+Part 1: SP: Dome of bladder, urachus; partial cystectomy (fs)
+Blocks Block Designation
+PCs
+1
+1
+FSCA
+FSCB
+1
+FSCC
+1
+LAM
+3
+LN
+3
+1
+LPM
+1
+1
+RLM
+1
+1
+RM
+1
+1
+5
+RPM
+T
+1
+5
+Part 2: SP: Right pelvic lymph nodes; dissection
+Blocks Block Designation
+PCs
+54
+LN
+QLN
+8
+4
+Part 3: SP: Right common iliac lymph nodes; dissection
+Blocks Block Designation
+3
+U
+PCs
+30
+Part 4: SP: Left pelvic lymph nodes; dissection
+Blocks Block Designation
+4
+4
+LN
+QLN
+PCs
+5
+4
+Part 5: SP: Bladder margin; biopsy (fs)
+Blocks Block Designation
+1
+5
+fsc
+น
+PCs
+2
+Part 6: SP: Bladder and prostate and seminal vesicles; prostatectomy and completion cystectomy
+Blocks Block Designation
+PCs
+1
+A
+1
+B
+1
+1
+1
+1
+1
+1222
+1
+1
+1
+LB
+LU
+LUO
+1
+1
+2
+222
+Page 6 of 7
+SURGICAL PATHOLOGY REPORT
+1213-
+RA
+RB
+RU
+RUO
+V
+1213-
+Part 7: SP: Right vas deferens; excision
+Blocks Block Designation PCs
+RVD
+Part 8: SP: Left vas deferens; excision
+Blocks Block Designation
+1
+LVD
+PCs
+Part 9: SP: Soft tissue, cord; excision
+Blocks Block Designation
+1
+L
+PCs
+1
+Special Studies:
+Result
+Intraoperative Consultation:
+Special Stain
+AE1:AE3
+NEG CONT
+IMM RECUT
+AFB CO+/-
+Comment
+1.
+SP: DOME OF BLADDER, URACHUS (FS): RIGHT ANTERIOR MARGIN – SMALL FOCUS OF ATYPICAL EPITHELIAL
+CELLS IN LAMINA PROPRIA, SUSPICIOUS FOR UROTHELIAL CARCINOMA. SECTIONS OF THE LEFT POSTERIOR
+AND RIGHT POSTERIOR MARGINS ARE BENIGN ()
+PERMANENT DIAGNOSIS: SAME
+5. SP: BLADDER MARGIN (FS): NEGATIVE FOR CARCINOMA ()
+PERMANENT DIAGNOSIS: SAME
+Page 7 of 7
+BCG > 90 day
+to procurement.
+Criteria
+Diagnosis Discrepancy
+fw 2/6/14
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Rulbladdy
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+END OF REPORT

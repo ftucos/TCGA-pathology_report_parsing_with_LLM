@@ -1,0 +1,156 @@
+UUID:16450945-2661-4167-84D2-9469077B4CDD
+TCGA-CU-A5W6-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, urothelial Nos
+8/2013
+Site Bladder NOS
+Diagnosis:
+A: Bladder and prostate, cystoprostatectomy
+Procedure: Cystoprostatectomy
+Tumor histologic type: Invasive urothelial carcinoma
+067.9
+763/18/13
+Tumor histologic grade (WHO classification): High grade
+Microscopic tumor size (greatest dimension): 3.4 cm (mass A),
+1.2 cm (mass B)
+Microscopic extent of invasion: Tumor invades through the
+muscularis propria
+Tumor site/focality of tumor: Multifocal; tumor involves the
+right lateral wall of the bladder, left lateral wall and dome of
+bladder.
+Angiolymphatic space invasion: Present
+Associated epithelial lesions: Present. Urothelial dysplasia is
+present in the left UVJ, carcinoma in situ is present within
+prostatic ducts (A16).
+Ureters: No tumor identified
+Histologic assessment of surgical margins:
+Ureter, left: Negative
+Ureter, right: Negative
+Urethra: Negative
+Paravesicular soft tissue: Negative
+Other significant findings: Biopsy site changes, granulomas in
+prostatic urethra consistent with prior biopsy
+Lymph nodes: Eight lymph nodes negative for carcinoma (0/8)
+Diagnoses of other organs or structures: Prostate glands focally
+involved with urothelial carcinoma in situ, no prostatic stromal
+invasion identified
+AJCC Pathologic TNM Stage: pT3 pN0
+NOTE: This pathologic stage assessment is based on information
+available at the time of this report, and is subject to change
+pending clinical review and additional information.
+B: Lymph nodes, left pelvic, regional node dissection
+Two lymph nodes negative for carcinoma (0/2)
+C: Lymph nodes, right pelvic, regional node dissection
+-
+Six lymph nodes negative for carcinoma (0/6)
+Clinical History:
+-year-old male with bladder cancer.
+Gross Description:
+Received are three appropriately labeled containers.
+Container A:
+Specimen fixation: formalin
+Type of specimen(s) received: cystoprostatectomy
+Size of overall specimen: The bladder measures 6.0 x 5.8 × 3.8
+cm and the prostate measures 4.7 x 4.2 x 3.0 cm.
+Orientation: The right perivesicular tissue and right prostate
+is inked blue, and left perivesicular tissue and left prostate
+is inked black. The distal urethral margin is inked yellow.
+Tumor size: Mass A measures 3.4 x 2.2 x 1.2 cm. Mass B measures
+1.2 x 1.1 x 0.3 cm.
+Tumor description: Both Mass A and Mass B consists of yellow/tan
+ulcerating and slightly necrotic appearing masses.
+Tumor location: Mass A is located in the left lateral wall and
+extends to the dome of the bladder. Mass B is located in the
+right lateral part of the bladder wall.
+Distance of tumor to margins: Mass A is 4.1 cm from the distal
+urethral margin, 1.3 cm away from the left distal ureter margin,
+and 5.2 cm from the right distal ureter margin. Mass A is 0.3 cm
+from the black inked soft tissue margin. Mass B is 4.2 cm from
+the distal urethral margin, 3.1 cm from the right distal
+ureteral margin, and 5.1 cm from the left distal ureteral
+margin. Mass B is 2.4 cm from the blue inked soft tissue margin.
+Other mucosal lesions: none identified
+Description of other organs or structures: The prostate consists
+of tan/white fibrous tissue with no masses or lesions identified
+grossly.
+Digital photograph taken: not taken
+Tissue submitted for special investigation: Tumor and normal
+were given to Tissue Procurement.
+Block Summary:
+A1
+A2
+A3
+A4
+-
+-
+-
+distal urethral margin, en face
+distal right ureteral margin, en face
+distal left ureteral margin, en face
+right vas deferens margin
+A5 left vas deferens margin
+A6
+-
+right ureterovesicular junction
+A7
+-
+-
+left ureterovesicular junction
+trigone
+A8
+A9 representative full thickness section of Mass A with black
+inked soft tissue margin
+A10,A11
+-
+additional sections of Mass A
+A12, A13 representative sections of Mass B including blue inked
+soft tissue margin
+A14,A15 sections of uninvolved bladder
+A16,A17
+A18,A19
+-
+representative sections of right posterior prostate
+representative sections of left posterior prostate
+"
+Container B is additionally labeled "left pelvic lymph nodes.
+It holds an aggregate of yellow/tan fibrofatty tissue measuring
+5.5 x 2.2 x 0.5 cm. The tissue is dissected for lymph node
+candidates and two lymph nodes are identified with largest
+diameters of 0.3 and 3.5 cm respectively.
+Block Summary:
+B1, B2
+-
+one lymph node candidate, bisected
+B3 one lymph node candidate
+B4
+-
+remaining tissue,
+Container C is additionally labeled "right pelvic lymph nodes."
+It holds an aggregate of yellow/tan fibrofatty tissue measuring
+4.5 x 2.1 x 1.0 cm. The tissue is dissected for lymph node
+candidates, and three lymph node candidates are identified
+ranging in largest diameter from 0.3 to 2.8 cm.
+Block summary:
+C1
+-
+C2,C3
+two lymph node candidates
+one lymph node candidate, bisected
+C4 - remaining tissue,
+Criteria
+w 2/23/13
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALITED
+Date Reviewed:
+DISQUALIFIED
+2/14/13
+No
+✓

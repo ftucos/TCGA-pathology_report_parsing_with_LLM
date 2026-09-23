@@ -1,0 +1,256 @@
+Patient Name:
+Med. Rec.#:
+DOB:
+Soc. Sec. #:
+Physician(s):
+UUID:9521187B-B7A8-48F8-860A-57A28664BD26
+TCGA-UY-A9PF-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Visit #:
+Sex:
+Location:
+Male
+Accession #:
+Service Dates
+Received:
+Client:
+FINAL PATHOLOGIC DIAGNOSIS
+A. Ureter, left, biopsy: No carcinoma.
+B. Ureter, right, biopsy: No carcinoma.
+ICD 0.5
+Carcinoma, mothelial papillary
+8130/3
+0672
+Site Bladder, lateral wall
+) 03/31/14
+C. Bladder and prostate, cystoprostatectomy:
+- Urinary bladder:
+1. High-grade urothelial carcinoma with micropapillary features, invading
+through muscularis propria into perivesicular adipose tissue.
+2. Mucosal ulceration with granulomatous inflammation and calcification.
+3. No carcinoma in one perivesicular lymph node (0/1).
+-
+Prostate: No carcinoma.
+Seminal Vesicles: No carcinoma.
+D. Lymph nodes, right pelvic, excision: Metastatic carcinoma in one of nine
+lymph nodes (1/9).
+E. Urethra, final margin, biopsy: No carcinoma.
+F. Lymph nodes, left pelvic, excision: Metastatic carcinoma in three of seven
+lymph nodes (3/7).
+G. Ureter, left, biopsy: No carcinoma.
+H. Ureter, right, biopsy: No carcinoma.
+COMMENT:
+Page 1 of 5
+Bladder Tumor Synoptic Comment
+- Tumor type: Urothelial carcinoma with micropapillary features and focal squamous and glandular
+differentiation.
+- Tumor grade: High grade.
+- Tumor size: 4.2 x 1.7 x 1.6 cm.
+5%
+<5%
+Per TSS.
+- Extent of tumor in bladder: Invasion through muscularis propria into perivesical tissue.
+- Lymphatic/vascular invasion: Present in lymphatics.
+- Epithelial abnormalities in bladder: Carcinoma in situ.
+· Extension of tumor into adjacent organs: None.
+- Margins:
+-
+Urethral margin: Negative (invasive tumor is greater than 1 cm from margin; dysplasia/CIS is
+greater than 1 cm from margin). Final urethral margin specimen (part E) is negative for carcinoma.
+- Right ureter margin: Negative (invasive tumor is greater than 3.1 cm from margin; dysplasia/CIS
+is greater than 3.1 cm from margin). Final right ureter margin specimen (part H) is negative for
+carcinoma.
+-
+Left ureter margin: Negative (invasive tumor is greater than 0.8 cm from margin; dysplasia/CIS is
+greater than 0.8 cm from margin). Final left ureter margin specimen (part G) is negative for carcinoma.
+Perivesical margin: Negative (invasive tumor is 0.2 cm from margin (left lateral, slide C4;
+dysplasia/CIS is greater than 1 cm from margin).
+-
+- Lymph node status: Positive
+-
+-
+- total number of positive nodes: 4.
+- total number of nodes examined: 17.
+- Size of largest metastasis in node: 0.8 cm.
+- Extranodal extension: None.
+Other pathologic findings in bladder: Granulomatous inflammation, ulcer, calcifications.
+AJCC/UICC stage: pT3aN2.
+Level sections were obtained and evaluated to confirm the diagnosis.
+Specimen(s) Received
+A:Ureter, biopsy (FS)
+B:Ureter, biopsy (FS)
+C:Bladder and prostate (FS on urethral apex)
+D:Lymph node, right pelvic
+E:Final urethral margin
+F:Lymph node, left pelvic
+G:Distal left ureter
+H:Distal right ureter
+Intraoperative Diagnosis
+FS1 (A) Left ureter, biopsy: No carcinoma.
+FS2 (B) Right ureter, biopsy: No carcinoma.
+FS3 (C) Urethral margin on bladder and prostate, biopsy: No carcinoma.
+Clinical History
+The patient is al
+has high-grade, T2
+He is
+-year-old man who, per the electronic medical record
+transitional cell carcinoma diagnosed on transurethral resection of bladder tumor on
+now undergoing a radical cystoprostatectomy and bilateral pelvic lymph node dissection.
+Gross Description
+The specimen is received in eight parts, each labeled with the patient's name and medical record
+Page 2 of 5
+number. Parts A-C are received fresh. Parts D-H are all received in formalin.
+Part A, labeled "left ureter," consists of a single soft, irregular piece of off-white/pink tissue (0.4 x 0.4 x
+0.2 cm). The entire specimen is frozen for frozen section diagnosis 1 and subsequently submitted in
+cassette A1.
+Part B, labeled "right ureter," consists of a single soft, irregular piece of off-white pink tissue (0.4 × 0.4
+x 0.2 cm). The entire specimen is frozen for frozen section diagnosis 2 and subsequently submitted in
+cassette B1.
+Part C is labeled "bladder and prostate," and consists of a cystoprostatectomy specimen (664 gm; 11.3
+cm from right to left x 6.8 cm from anterior to posterior x 23 cm from superior to inferior).
+GROSS PATHOLOGIC FINDINGS: There is a soft, tan-pink, friable, papillary lesion (1.6 cm from right to
+left x 4.2 cm from superior to inferior x 1.7 cm deep) apparently extending into the perivesicular fat.
+The lesion is centered above the left trigone area, abutting the left ureteral orifice, and extends
+superiorly up the left lateral wall to 1.1 cm below the dome of the bladder. The muscular invasion
+appears to extend from the left lateral to the right lateral wall just past the midline, and in the right
+lateral wall involving a portion of the muscle that is 3.5 × 1 × 0.8 cm, and not extending into the fat of
+the right lateral bladder wall. The main lesion is 1 cm from the urethral orifice, 0.8 cm from the left
+ureteral orifice, 3.1 cm from the right ureteral orifice, and 0.9 cm at the closest approach to the
+perivesicular fat margin (left, blue); 0.5 cm from the right external perivesicular margin the right lateral
+wall portion of the lesion. The lesion does not involve the ureteral orifice. The surrounding bladder
+mucosa is pink, smooth, boggy, and edematous with punctate hemorrhages in the trigone area. The
+attached prostate is pink-tan and lobular with nodules ranging from 0.5-0.8 cm in greatest dimension,
+mostly in the anterior portion of the gland.
+The ureters are not attached. The attached perivesicular and periprostatic fat is carefully searched for
+lymph nodes.
+ORIENTED BY: Anatomic landmarks.
+INTRAOPERATIVE EVALUATION: Frozen section of left ureter, en face (frozen section 1), submitted as
+A1. Frozen section of right ureter margin, en face (frozen section 2), submitted as B1. Frozen section
+of bladder and prostate at apex (frozen section 3), submitted as C1.
+INKING:
+-
+· Anterior right surface: Green.
+Anterior left surface: Blue.
+Posterior surface: Black.
+GROSS PHOTOGRAPHS: Yes.
+CASSETTES: Representative sections are submitted as follows:
+Bladder and prostate frozen section remnant.
+Lesion, left lateral bladder wall, deepest extent of invasion, including deep margin (blue),
+bisected (bisected surface is black).
+Lesion, left lateral bladder wall, representative section (1.8 cm from ureteral orifice).
+Lesion, left lateral bladder wall, with approach to left ureteral orifice.
+Lesion, right lateral bladder wall, closest approach to deep perivesicular margin (black).
+Lesion, with closest approach to deep black margin (0.8 cm).
+C1:
+C2-C3:
+C4:
+C5:
+C6:
+Lesion, left lateral bladder wall, with approach to bladder dome.
+C7:
+Lesion, left lateral bladder wall, with approach to normal mucosa laterally.
+C8:
+C9:
+C10:
+C11:
+C12-C13:
+C14:
+C15:
+C16:
+Right lateral bladder wall, apparently normal.
+C17:
+C18:
+Left ureteral margin, en face.
+Right ureteral margin, en face.
+Uninvolved right ureteral orifice, bisected (perpendicular section).
+Lesion with approach to left ureter, and deep margin (perpendicular section).
+Bladder dome, apparently normal.
+Lesion, posterior bladder wall.
+Lesion, left lateral bladder wall, with closest approach to urethral orifice (perpendicular
+Page 3 of 5
+C19:
+C20:
+C21:
+C22:
+C23:
+C24:
+C25:
+C26:
+C27-C28:
+C29-C30:
+C31:
+C32:
+section).
+Lesion, left lateral bladder wall, closest approach to prostate (parallel section).
+Prostate, prostatic urethral margin, en face.
+Prostate, right anterior and posterior apical one-third of gland.
+Prostate, right anterior and posterior middle third of gland.
+Prostate, right anterior and posterior base of gland.
+Prostate, left anterior and posterior apical one-third of gland.
+Prostate, left anterior and posterior middle third of gland.
+Prostate, left anterior and posterior base of gland.
+Candidate lymph nodes, right perivesicular fat.
+Candidate lymph nodes, left perivesicular fat.
+Seminal vesicle, left, representative section.
+Seminal vesicle, right, representative section..
+Part D is additionally labeled "right pelvic lymph nodes," and consists of multiple soft to firm, irregular,
+unoriented, tan-yellow/brown, fibrofatty tissue fragments (8.5 x 8 x 4 cm in aggregate). Multiple
+candidate lymph nodes (0.6-5.4 cm in greatest dimension) are found. The largest candidate lymph
+node has mostly pink-white tissue mixed with homogeneous, yellow parenchyma. The second-largest
+candidate lymph node (3.5 cm in greatest dimension) has pink-yellow/red parenchyma. The remaining
+candidate lymph nodes are left intact. Representative sections (but all candidate lymph nodes) are
+submitted in cassettes as follows:
+D1-D4:
+D5-D7:
+D8:
+D9:
+Largest candidate lymph node.
+Second-largest candidate lymph node.
+Two intact candidate lymph nodes.
+Four intact candidate lymph nodes.
+Part E is additionally labeled "final urethral margin," and consists of a single soft to firm, slightly ovoid,
+unoriented, tan-white/pink tissue fragment (1.5 x 0.8 x 0.5 cm). There is an off-centered lumen
+(internal luminal diameter is 0.2 cm) that is patent and present. The margin is inked blue. The entire
+specimen is submitted in cassette E1.
+Part F is additionally labeled "left pelvic lymph node," and consists of multiple soft to firm, irregular,
+unoriented, tan-yellow/brown, fibrofatty tissue fragments (7.5 x 7.5 x 2.8 cm in aggregate). Multiple
+candidate lymph nodes (0.3 cm to 8 cm in greatest dimension) are found. The largest candidate lymph
+node has firm, pink, surrounded by yellow, parenchyma. The second-largest candidate lymph node (1.6
+cm in greatest dimension) has firm, white-pink parenchyma. The remaining candidate lymph nodes are
+left intact. Representative sections (but all candidate lymph nodes) are submitted in cassettes as
+follows:
+F1-F6:
+F7:
+F8:
+F9:
+Largest candidate lymph node.
+Second-largest candidate lymph node.
+Three intact candidate lymph nodes.
+Four intact candidate lymph nodes.
+Part G is additionally labeled "distal left ureter," and consists of a single unoriented, tubular, tan-brown
+tissue fragment (1.2 cm in length x 0.4 cm in diameter). The lumen is patent (0.2 cm internal luminal
+diameter). One-half of the tissue is inked blue and the other half is inked black. The entire specimen is
+submitted in cassette G1.
+Part H is additionally labeled "distal right ureter," and consists of a single unoriented, tubular,
+tan-brown tissue fragment (2.6 cm in length x 1.5 cm in diameter). The lumen is patent (0.2 cm
+internal luminal diameter). One-half is inked blue with the other half Inked black. The entire specimen
+is submitted in cassettes H1 and H2.
+Diagnosis based on gross and microscopic examinations. Final diagnosis made by attending pathologist
+following review of all pathology slides.
+Pathology Resident
+Electronically
+Criteria
+Diagnosis Discrepancy
+/ 1/22/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+QUALIFIES
+Reviewer Initials
+Yes
+No
+DISQUALIFIED
+Date Reviewed 224/2013

@@ -1,0 +1,119 @@
+Reporting pathologist(s):
+CONSULTANT.
+Sample
+(TYPE UNSPECIFIED) Collected
+Received
+HISTOLOGY
+HISTOLOGY
+SPECIMEN
+A-Bladder & prostate.
+B Peri-bladder nodes.
+-
+C - Right external iliac node.
+D Right anterior obturator node.
+-
+E-Right posterior obturator node.
+FLeft external iliac node.
+G-Left anterior obturator node.
+H-Left posterior obturator node.
+I - Left ureteric margin.
+J - Right ureteric margin.
+CLINICAL DETAILS
+ICD-0.3
+Carcinoma), derothelial NOS 8/20/3
+Suite: Bladder NOS C67.9
+JW 5/2/14
+UUID:D0951273-E0D2-4B6F-8033-4745A2AAD74E
+TCGA-ZF-A9R1-01A-PR
+Redacted
+Radical cystoprostatectomy for G3 pT2 TCC diagnosed at
+MACROSCOPY
+Verified by TSS - PTs on bx only -
+PT3 proven on resection.
+A - Cystoprostatectomy specimen with bladder approximately 50 mm in
+diameter, attached adipose tissue 112 mm x 60 mm. Prostate measuring
+35 mm supero-inferiorly x 45 mm lateral x 28 mm anterior-posterior.
+Opened for research sampling.
+The right side of the bladder has an indurated and ulcerated area
+measuring 20 mm maximum with associated pale firm tumour extending
+into adjacent adipose tissue and coming close to the anterior and
+right surgical margin (blue ink). Elsewhere bladder mucosa appears
+normal.
+The prostate shows a minor degree of nodular hyperplasia.
+=
+Blocks: Alurthra RM; A2 = left side prostate; A4,5,6 & 7 =
+composite slices of tumour; A8 = tumour; A9 & A10= right side bladder
+(composite); A11 = apex; A12 = anterior and left; A13 = bladder neck.
+B-Adipose tissue 60 mm, containing ? 3 LNs. Two of them are dense
+and white with tumour, max size 9 mm.
+1 LN per cassette.
+C - Two pieces of adipose tissue, together measuring 65 mm, containing
+a LN.
+Blocks: C1 & C2 = 1 LN.
+D - Fatty tissue measuring 40 mm, containing 1 large and 1 small LN.
+Blocks: D1 = small LN; D2 & D3 & D4 = large LN.
+E- Fatty tissue measuring 60 mm, containing ? 2 LNS.
+F-Fatty tissue measuring 50 mm, containing 2 LNS.
+Blocks: F11 LN; F2 & F3 = 1 LN.
+=
+G - Fatty tissue measuring 60 mm, containing 2 LNS.
+H-Fatty tissue measuring 40 mm, containing 2 LNs.
+I - 5 mm length of ureter.
+J-9 mm length of ureter.
+MICROSCOPY
+A - Bladder and prostate: Sections from the macroscopically
+identified lesion confirm a poorly differentiated predominantly solid
+urothelial carcinoma extending with discohesive clusters the entire
+thickness of the bladder wall into the perivesical fat. The tumour
+extends to less than 1 mm of the circumferential surgical resection
+margin on the right side which is composed of compressed soft tissue.
+There is no lymphocytic infiltrate at the tumour host interface.
+Sections away from the main tumour mass contain foreign body-type
+multinucleated giant cell aggregates in the lamina propria indicative
+of site of previous biopsy.
+Lymphovascular invasion is noted.
+There is no perineural invasion.
+The adjacent urothelium does not show evidence of dysplasia or
+carcinoma in situ. There is tumour and ulceration.
+Sections of the prostate confirm high grade PIN but there is no
+evidence of microacinar adenocarcinoma. Some of the acinar structures
+contain a chronic inflammatory cell infiltrate with an occasional
+giant cell and is most likely to represent reaction to BCG. The
+urothelium included does not show any evidence of dysplasia, carcinoma
+in situ or a papillary urothelial carcinoma.
+The urethral surgical margin is within morphologically normal limits.
+B - Peri-bladder nodes: Two lymph nodes, both with metastatic
+urothelial carcinoma. One node shows extracapsular extension.
+C - Right external iliac node: One lymph node without metastatic
+carcinoma.
+D Right anterior obturator nodes: Two lymph nodes with florid sinus
+hyperplasia. No metastatic carcinoma.
+E-Right posterior obturator nodes: Two nodes without metastatic
+carcinoma.
+F-Left external iliac nodes: Two lymph nodes with sinus
+hyperplasia. No metastatic carcinoma.
+G - Left anterior obturator nodes: Two lymph nodes with no metastatic
+carcinoma.
+H-Left posterior obturator nodes: Two lymph nodes with no
+metastatic carcinoma.
+I - Left ureteric margin: This is morphologically normal ureter.
+J - Right ureteric margin: This is morphologically normal ureter.
+SUMMARY (Parts A - J)
+Poorly differentiated ulcerated urothelial carcinoma pT3b pN1 R0 (but
+close circumferential margin on the right side).
+Criteria
+Nw 1/30/14
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+✓
+рта рох м
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+394

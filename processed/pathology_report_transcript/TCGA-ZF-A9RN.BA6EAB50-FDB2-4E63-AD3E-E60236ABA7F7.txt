@@ -1,0 +1,104 @@
+UUID:BA6EAB50-FDB2-4E63-AD3E-E60236ABA7F7
+TCGA-ZF-A9RN-01A-PR
+SPECIMEN
+Redacted
+1 Bladder, uterus, ovaries and cervix.
+2 Left ureteric resection margin
+3 Right ureteric resection margin
+CLINICAL DETAILS
+Cystectomy for bladder cancer.
+MACROSCOPY
+CSCE
+ICD03
+Carcinoma, urothelial Nos
+8/20/3
+Pe Carcinomas transitional cell NOS
+& equamous cell (8070/3 Code to highest 8:120/3
+Sate: Bladder, posterior wall
+W 5/2/14
+1 - Radical cystectomy specimen with attached uterus, ovaries and anterior
+vaginal wall.
+The bladder is approximately 90 mm diameter and has associated adipose tissue
+around it. On the attached peritoneal surface there is an irregular
+haemorrhagic mass approximately 15 mm diameter, suggesting extension of tumour.
+Opening the bladder reveals a fungating mass arising from the posterior wall and
+with extensive surface necrosis. The tumour is approximately 70 mm diameter and
+is attached by a broad base. In addition, the background mucosa has a 20 mm
+separate mass and also two further 4 mm flattish nodules. Section through the
+mass shows extension through the bladder wall to come close to the peritoneal
+surface. Overall tumour thickness is approximately 40 mm. Away from the main
+and smaller tumour nodules the bladder mucosa appears normal, though there is
+marked trabeculation of the bladder. The urethra measures 25 mm and has normal
+surface mucosa, but there is 5 mm nodule between the midpoint of the urethra and
+the anterior vaginal wall.
+The uterus measures 60 mm supero-inferiorly, and there is no apparent
+abnormality of cervix, endometrium or myometrium. The left ovary measures 20
+mm, the right 18 mm, and both show senile atrophy with no further abnormality of
+them or of the fallopian tubes.
+2 This is 5 mm of ureter.
+-
+3- This is 9 mm of ureter.
+Block designation:
+Specimen 1
+A = tumour peritoneum
+J = background mucosa anterior
+B = haemorrhagic area on peritoneum K = background mucosa
+C = tumour and adjacent normal
+=
+D-E composite full depth of tumour
+F
+=
+tumour & background mucosa
+==
+L urethra midpoint
+G = tumour left lateral with invasion of fat
+M = urethra margin
+N = cervix
+0 = endometrium
+H=20 mm separate nodule tumour P = left ovary and tube
+I = 5 mm nodules of tumour
+MICROSCOPY
+Q=right ovary and tube
+1 - The tumour is composed of extensive sheets of undifferentiated carcinoma
+cells with small areas of necrosis. In addition, some areas show squamous
+differentiation with keratinisation. These features would be consistent with
+transitional cell carcinoma, grade 3, with squamous differentiation. Similar
+tumour is seen in the main mass and in the separate nodules.
+0674
+Per TSS, 10%
+The tumour invades right through the bladder wall to reach adipose tissue, and
+there is also extravesical lymphovascular invasion. The haemorrhagic tissue on
+the peritoneal surface is further tumour. In general the tumour seems 2 or 3 mm
+clear of the peritoneal surface, but this peritoneal deposit of tumour suggests
+there may be a focus with invasion, or local lymphatic spread to the surface.
+Squamous
+In addition, there is a nodule of tumour in the septum between midpoint urethra
+and anterior vaginal wall.
+Two tiny lymph nodes in perivesical adipose tissue show reactive changes without
+tumour. The usual regional lymph nodes have not been supplied.
+Away from the tumour, the bladder epithelium is either normal, or shows a minor
+degree of glandular differentiation. The urethra mucosa and resection margin is
+normal.
+The uterus shows no histological abnormality apart from atrophy, and the same
+applies to the ovaries.
+2&3 These samples show normal ureters.
+-
+SUMMARY
+Radical cystectomy with hysterectomy; transitional cell carcinoma of bladder,
+WHO 1973 Grade 3, pT3b, pNx with positive peritoneal surface.
+Pathologists -
+Criteria
+/ 3/21/14
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted -
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+11014
+No

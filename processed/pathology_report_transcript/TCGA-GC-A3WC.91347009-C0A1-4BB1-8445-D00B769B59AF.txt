@@ -1,0 +1,88 @@
+Sex:
+D.O.B.:
+UUID:91347009-C0A1-4BB1-8445-0008769859AF
+TCGA-GC-A3WC-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+DIAGNOSIS:
+A. Right ureter, excision:
+Complete cross section of benign ureter, no tumor identified.
+Intraoperative consultation corroborated.
+8. Left ureter, excision:
+Complete cross section of benign ureter, no tumor identified.
+Intraoperative consultation corroborated.
+C. Bladder, pelvic lymph nodes; cystectomy:
+Tumor Characteristics:
+1. Histologic type: Urothelial carcinoma.
+2. Histologic grade: Poorly-differentiated.
+3. Tumor size: 5.3 x 2.2 x 0.5 cm.
+IPAA Discrepancy
+ritería
+Yes
+No
+cagnosis Discrepancy
+rimary Tumor Site Discrepancy
+rior Malignancy History
+ual/Synchronous Primary Noted
+ase is (circle):
+eviewer Intials
+QUALIFIED
+Reviewed
+DISQUALIFIED
+4. Microscopic tumor extension: Tumor invades completely through the muscularis propria into the surrounding adipose tissue.
+5. Lymphovascular space invasion: Present.
+Surgical Margins:
+1. Surgical margins including left and right ureter, urethra, and deep soft tissue are negative for tumor.
+Lymph Node Status:
+1. Total number of lymph nodes examined: 2
+2. Total number of lymph nodes containing metastatic carcinoma: 0 (0/2).
+Other:
+1. Focal urothelial dysplasia present.
+2. pTNM stage: pT3, NO.
+CLINICAL HISTORY:
+Preoperative Diagnosis: None given
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Right ureter with frozen section
+B. Left ureter with frozen section
+C. Bladder and pelvic lymph nodes
+GROSS DESCRIPTION:
+Electronic Signature:
+CLINICAL INFORMATION
+ICD-0-3
+Carcinoma, urothelial, NOS
+Site: bladder, NOS
+812013
+06719
+5·1-12
+RD
+SPECIMEN DATA
+The specimen is received in three containers labeled with the patient's name,
+Container A is additionally labeled "right ureter" and contains a 0.4 cm in length by 0.4 cm diameter cylindrical portion of pink-tan soft tissue consistent
+with ureter. The specimen is entirely submitted for frozen section. The residual wrapped in tissue paper and entirely resubmitted for permanent section
+in cassette A labeled
+Container B is additionally labeled "left ureter, clip on distal end" and contains a 0.4 cm in length by 0.4 cm diameter, pink-tan cylindrical soft tissue with
+adherent fibroadipose tissue. A clip is present at one end and denotes distal. The specimen is entirely submitted for frozen section with the residual
+wrapped in tissue paper and entirely resubmitted for permanent section in cassette B labeled
+Container C is additionally labeled "Bladder and pelvic lymph nodes" and contains a cystectomy specimen having overall dimensions of 10.0 x 7.0 x 4.5
+cm. The specimen is comprised of bladder (6.0 x 6.0 x 4.0 cm), right ureter (4.5 cm in length by 0.3 cm in diameter), left ureter (5.5 cm in length by 0.3
+cm), associated pericystic fat, and portion of vaginal mucosa (6.0 x 3.0 cm). The vaginal mucosa is purple-pink, glistening and erythematous with no
+discrete lesions. The urethral margin is inked, amputated and radially sectioned to reveal a 5.3 x 2.2 x 0.5 cm, pink-tan, fungating, friable and ulcerated
+mass involving the right lateral wall. This mass approaches to within 4.0 cm of the urethral margin and to within 0.6 cm of the right ureteral orifice.
+Additionally, this mass resides 2.5 cm from the left ureteral orifice. On section, this mass invades 1.8 cm through the detrusor muscle and approaching
+to within 0.2 cm of the inked deep margin. The remainder of the mucosa is pink-tan and glistening with no additional lesions. On section and palpation,
+no lymph nodes are identified within the perivesicular fat.
+Also received in the same container is a 4.5 x 3.0 x 1.0 cm aggregate of yellow-tan fibrofatty soft tissue. On palpation, two firm fatty possible lymph
+designated
+nodes are identified, 1.0 and 2.0 cm in greatest dimension. Representative sections are submitted in cassettes C1-14 labeled
+as follows: C1-2 urethral margin, perpendicular; C3 mass to inked deep margin and right ureteral orifice; 4-6 mass to inked deep margin; / mass to
+normal appearing mucosa; 8 trigone to include vaginal mucosa; 9 posterior bladder wall; 10 bladder dome; 11 anterior bladder wall; 12 left ureteral
+orifice: 13 one whole possible lymph node: 14 one whole possible bisected lymph node. Additionally, a yellow, green and blue cassette are submitted
+for genomics research, each labeled
+IKA-OPERATIVE CONSULTATION:
+FROZEN SECTION DIAGNOSIS: FSA: Negative per
+esults were communicated to
+alter commirning patient identity.
+FROZEN SECTION DIAGNOSIS: FSB: Negative per Dr.

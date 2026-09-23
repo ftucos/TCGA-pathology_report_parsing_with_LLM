@@ -1,0 +1,65 @@
+UUID:C14C42D1-6359-4625-90E1-B3E43646DB64
+TCGA-4Z-AA7M-01A-PR
+Redacted
+Collect date:
+(MM/DD/YYYY)
+ICD-0-3
+Carcinoma, transitional cell NOS
+CELF
+Sate: Bladder, lateral wall
+path
+C672
+Bladder NOS 67.9
+PATHOLOGY REPORT:
+7103/18/14
+PRIMARY SITE: Bladder
+1 - "Bladder + prostate":
+High-grade urothelial carcinoma of the bladder characterized as follows:
+Measure of neoplasia in its major axis: 6.2 cm
+Ulcerated and infiltrative neoplasia affecting all layers of the bladder and perivisceral
+fat.
+Prostate, seminal vesicles, vas deferens, ureters and urethra free of neoplastic
+involvement.
+. Neural infiltration not observed.
+Lymphatic vascular invasion not detected.
+Sanguineous vascular invasion not detected.
+. Surgical margins free of neoplastic involvement.
+Ulcerated granulomatous cystitis.
+Acinar adenocarcinoma of the prostate associated, characterized as follows:
+Measure of neoplasia in its major axis: 0.5 cm
+Located between the base and left mid-zone.
+Gleson score 6 (3+3).
+Neural infiltration not observed.
+. Lymphatic vascular invasion not detected.
+. Sanguineous vascular invasion not detected.
+. Surgical margins free of neoplastic involvement.
+Lymph nodes free of neoplastic involvement (0/3)
+-
+2 "Right pelvic lymphadenectomy":
+Free of neoplastic involvement (0/6).
+3 "Left pelvic lymphadenectomy":
+Lymph nodes free of neoplastic involvement (0/19)
+PATHOLOGICAL STAGING
+Topography
+Bladder, NOS
+Morphology
+Transitional cell carcinoma, NOS
+Stage
+pT3 pN0
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronos Primary Noted
+Case is (Circle):
+Reviewer Initials
+1/24/14
+No Fx
+frostute
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 1/2/14
+ކ

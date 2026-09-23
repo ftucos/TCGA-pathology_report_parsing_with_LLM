@@ -1,0 +1,382 @@
+UUID:4BB6EAAF-643A-43F8-A54C-0103A45AD684
+TCGA-DK-A3IK-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT (
+Patient Name:
+Med. Rec. #:
+DOB: (Age:
+Gender:
+M
+Location:
+Service:
+Private Outpatient
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Ref. Physician:
+Account #:
+Patient Address:
+Billing Type:
+Additional Copy to:
+OUTPATIENT
+Ref. Source:
+Clinical Diagnosis & History:
+Bladder cancer
+Specimens Submitted:
+1: Right commom iliac lymph nodes (fs)
+2: Left pelvic lymph nodes #1 (fs)
+3: Left pelvic lymph nodes # 2
+4: Bladder, prostate seminal vesicles
+5: Left common iliac lymph node
+6: Right vas deferens
+7: Left vas deferens
+8: Right common iliac lymph nodes
+9: Right pelvic lymph nodes
+10: Pre-sacral lymph node
+11: Right ureter, excision
+DIAGNOSIS:
+1. Right commom iliac lymph nodes (fs):
+Part # 1
+Lymph Node Dissection:
+ICD-0-3
+Carcinoma, wrothelial, Nos 8120/3
+Path Site: bladder, wall, posterior €67.4
+Number of lymph nodes examined: 2
+CQCF:
+bladder, wall, lateral 067.2
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 0.9cm.
+Size of the largest metastatic focus: 0.9 cm.
+Extranodal extension is identified
+2. Left pelvic lymph nodes #1 (fs):
+Part # 2
+Lymph Node Dissection:
+Number of lymph nodes examined: 2
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 1cm.
+Size of the largest metastatic focus: 1 cm.
+Extranodal extension is identified
+3. Left pelvic lymph nodes #2:
+Part # 3
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 6
+4. Bladder, prostate seminal vesicles:
+Part # 4
+Tumor Type:
+Urothelial carcinoma with squamous differentiation
+نسل
+12/8/11
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIC
+Date Reviewed:
+DISQUALIFIED
+/w 12/8/11
+Invasive urothelial carcinoma, NOS, with clear cell and squamoid features
+Histologic Grade:
+Page 1 of 6
+High grade
+SURGICAL PATHOLOGY REPORT
+Pattern of growth of the Non-Invasive component:
+Papillary and flat
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Urethra involved
+Periurethral prostatic ducts involved
+Vascular Invasion:
+Identified (extensive)
+Perineural Invasion:
+Identified
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Mucosa:
+Prostate:
+Exhibiting chronic cystitis
+Exhibiting ulceration
+Other high grade prostatic intraepithelial neoplasia (PIN)
+Seminal Vesicles:
+Not involved
+Perivesical Lymph Nodes:
+Not identified
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+PRis (Involvement of urethra or prostatic ducts without stromal invasion)
+5. Left common iliac lymph node:
+Part # 5
+Lymph Node Dissection:
+Number of lymph nodes examined: 1
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 0.6cm.
+Size of the largest metastatic focus: 0.6 cm.
+Extranodal extension is not identified
+6. Right vas deferens, excision:
+Benign vas deferens
+7. Left vas deferens, excision:
+Benign vas deferens
+8. Right common iliac lymph nodes:
+Part # 8
+Lymph Node Dissection:
+Number of lymph nodes examined: 3
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 1.7cm.
+Size of the largest metastatic focus : 0.8 cm.
+Extranodal extension is not identified
+9. Right pelvic lymph nodes:
+Part # 9
+Lymph Node Dissection:
+Number of lymph nodes examined: 12
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 0.5cm.
+Size of the largest metastatic focus: 0.5 cm.
+Page 2 of 6
+SURGICAL PATHOLOGY REPORT
+Extranodal extension is not identified
+10. Pre-sacral lymph node:
+Part # 10
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+11. Right ureter, excision:
+Benign ureter
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+***
+Report Electronically Signed Out
+***
+Gross Description:
+1). The specimen is received fresh for frozen section, labeled "Right common iliac lymph nodes" and consists of two pink tan firm
+lymph nodes averaging 1.0 cm in greatest dimension. The lymph nodes are bisected and submitted.
+Summary of sections: FSC--frozen section control, PLN--possible lymph node
+2). The specimen is received fresh for frozen section consultation, labeled "Left pelvic lymph nodes #1" and consists of a 2cm
+lymph node. The specimen is representatively submitted for frozen section, the remaining is given to TPS protocol. Multiple
+lymphoid fragments are identified on the container measuring 2.5 x 1.4 x 0.5 cm in aggregate, entirely submitted for permanent
+section. Summary of sections: FSC - frozen section control, RT - remaining tissue
+3). The specimen is received in formalin, labeled "Left pelvic lymph node #2" and consists of six pink tan firm, fatty lymph nodes
+ranging from 1 to 2 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections: LN - lymph nodes, BLN - bisected lymph node
+4). The specimen is received fresh labeled, “bladder, prostate, seminal vesicles ". It consists of a bladder measuring 6 cm from
+superior to inferior, 8 cm laterally and 9 cm from anterior to posterior and a prostate measuring 3 cm from superior to inferior, 3 cm
+laterally and 2 cm from anterior to posterior. The anterior aspect of the bladder is inked black and the posterior blue. The prostatic
+urethral margin is shaved and submitted. The bladder is opened along the anterior midline to reveal an ulcerated discoid lesion
+measuring 8 x 6 cm which is grossly situated within the left posterior wall and extended to the left anterior wall. The lesion involves
+the left and right ureteral orifices. Both ureters are probe patent, measuring up to 0.2 cm in maximum diameter. The lesion is
+sectioned to reveal it extends to the fat. The remaining bladder mucosa is thickened and edematous. Discrete perivesical lymph
+nodes are grossly not identified. The prostate is serially sectioned to reveal white nodular cut surfaces. Representative sections are
+submitted including two sections from each prostatic quadrant and transition zone. TPS is submitted.
+Summary of sections: UTHM - urethral margin, RUM - right ureter margin, LUM - left ureter margin, L - lesion
+RUO right ureter orifice, LUO - left ureter orifice, LP - left posterior wall, LA - left anterior wall, RP - right posterior wall
+RA - right anterior wall, TRI - trigone, DOM - dome, F - perivesical fat, RSV - right seminal vesicle, LSV - left seminal vesicle
+RAP-right apex prostate, LAP - left apex prostate, RPM- right posterior mid prostate, RAM - right anterior mid prostate
+LAM - left anterior mid prostate, LPM - left posterior mid prostate, RAB - right anterior base prostate
+RPB right posterior base prostate, LAB - left anterior base prostate, LPB - left posterior base prostate
+ADD
+additional sections of the prostate
+5). The specimen is received in formalin, labeled "Left common iliac lymph nodes" and consists of two pink tan firm, fatty lymph
+nodes measuring 0.7 and 0.8 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections: LN - lymph node, BLN - bisected lymph node
+6). The specimen is received in formalin, labeled "Right vas deferens" and consists of a tubular piece of tan elastic tissue,
+measuring 6.5 cm in length and 0.4 cm in average diameter. Representatively submitted.
+Summary of sections: BE - both ends, RS - representative sections
+Page 3 of 6
+SURGICAL PATHOLOGY REPORT
+7). The specimen is received in formalin, labeled "Left vas deferens" and consists of a tubular piece of tan elastic tissue, measuring
+4.5 cm in length and 0.3 cm in average diameter. Representatively submitted.
+Summary of sections: BE - both ends, RS - representative sections
+8). The specimen is received in formalin, labeled "Right common iliac lymph nodes" and consists of three pink tan firm lymph
+nodes ranging from 0.6 to 1.6 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections: LN - lymph nodes, BLN - bisected lymph node
+9). The specimen is received in formalin, labeled "right pelvic lymph nodes" and consists of multiple pink tan, fatty lymph nodes
+ranging from 0.3 to 1.6 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections: LN - lymph nodes, BLN - bisected lymph nodes
+10). The specimen is received in formalin, labeled "Presacral lymph nodes" and consists of six pink tan firm, fatty lymph nodes
+ranging from 1 to 7 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections: LN - lymph nodes, TLN - trisected lymph node
+11). The specimen is received in formalin, labeled "Right ureter" and consists of an unoriented tubular piece of tan elastic tissue,
+with attached small amount of fat measuring 3.5 cm in length. There is a dilated end which measure 0.8 cm in diameter, the
+opposite end measures 0.6 cm. Representatively submitted.
+Summary of sections: DE - dilated end, OE - opposite end, RS - representative sections
+Summary of Sections:
+Part 1: Right commom iliac lymph nodes (fs)
+Block
+1
+1
+1
+Sect. Site
+PCs
+{not entered}
+FSC
+1
+PLN
+Part 2: Left pelvic lymph nodes #1 (fs)
+Block
+1
+1
+Sect. Site
+FSC
+RT
+Part 3: Left pelvic lymph nodes # 2
+Block
+1
+3
+PCs
+Sect. Site
+PCs
+BLN
+LN
+4
+Part 4: Bladder, prostate seminal vesicles
+Block
+Sect. Site
+6
+ADD
+1
+DOM
+1
+F
+8
+L
+LA
+1
+LAB
+1
+LAM
+LAP
+LP
+LPB
+LPM
+1
+LSV
+1
+LUM
+1
+LUO
+PCs
+oooooo
+Page 4 of 6
+1
+RA
+1
+1
+RAB
+RAM
+1
+RAP
+1
+RP
+1
+RPB
+1
+RPM
+RSV
+1
+1
+1
+RUM
+RUO
+TRI
+UTHM
+SURGICAL PATHOLOGY REPORT
+0
+0
+0
+0
+0
+0
+oooo O O O O O
+Part 5: Left common iliac lymph node
+Block
+1
+1
+Sect. Site
+PCs
+BLN
+2
+LN
+1
+Part 6: Right vas deferens
+Block
+1
+1
+Sect. Site
+PCs
+BE
+1
+RS
+1
+Part 7: Left vas deferens
+Block
+1
+1
+Sect. Site
+BE
+2
+RS
+4
+AND
+PCs
+Part 8: Right common iliac lymph nodes
+Block
+1
+1
+Sect. Site
+BLN
+LN
+Part 9: Right pelvic lymph nodes
+Block
+25
+PCs
+22
+Sect. Site
+BLN
+LN
+PCs
+4
+14
+Part 10: Pre-sacral lymph node
+Block
+22
+Sect. Site
+LN
+PCs
+4
+TLN
+Part 11: Right ureter, excision
+Block
+1
+1
+1
+Sect. Site
+PCs
+DE
+1
+OE
+1
+--
+RS
+4
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperative
+consultation.
+Page 5 of 6
+SURGICAL PATHOLOGY REPORT
+1. Frozen section diagnosis: Right commom iliac lymph nodes (fs): Metastatic carcinoma (
+Permanent diagnosis: Same
+2. Frozen section diagnosis: Left pelvic lymph nodes #1(fs): Metastatic carcinoma.
+Permanent diagnosis: Same
+Page 6 of 6
+END OF REPORT

@@ -1,0 +1,38 @@
+ICD-0-3
+Carcinoma, urothelial, NOS 8/20/3
+Site: bladder, NOS
+0679
+1/28/11
+سل
+Diagnosis
+1. Cystoprostatectomy preparation with a moderately differentiated, solid urothelial
+carcinoma of squamous epithelial differentiation mainly in the right trigone, with penetration
+of all parietal layers and 
+macroscopic infiltration of the perivesical fatty tissue. Three tumor-
+free lymph nodes
+. Deep resection margins, including urethra, ureters and vas deferens, are
+tumor-free (compare 
+frozen section, admission no. ---). Foci of moderate dysplasia of the
+remaining bladder 
+urothelium.
+Comment:
+Tumor classification of the bladder carcinoma: pT3b, pN0 (0/9), L0, V0, R0, G2; maximum
+tumor size 2.5 cm.
+Redacted
+UUID:8410F811-09E4-4089-B3CF-5A6F3DE628BD
+TCGA-C4-A0F1-01A
+-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is circle).|
+Revers
+QUALIFIED
+Lite Reviewed:
+Yes
+No
+DISQUALIFIED
+5/2/10

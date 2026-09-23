@@ -1,0 +1,353 @@
+Results
+Patient Info
+Patient Name
+Results
+UUID:C6248F9C-58D2-4F68-9D45-838F38DCCA53
+TCGA-GV-A3QK-01B-PR
+Spe
+Sub
+Sex
+Female
+Encounter Date:
+SURGICAL PATHOLOGY (Order)
+DOB
+ICD-0-3
+Redacted
+Carcinoma, urothelial, NOS
+812013
+)
+Site: bladder, NOS
+067.9
+1-512 не
+FINAL DIAGNOSIS
+1. Right colon, segment of terminal ileum and appendix, colectomy (A)
+Single focus of metastatic urothelial carcinoma present within subserosal
+lymphovascular space.
+Segment of colon with mild crypt architectural distortion and submucosal
+fibrosis, consistent with prior biopsy site changes; no evidence of
+residual dysplasia or adenocarcinoma.
+Hyperplastic polyp.
+Submucosal lipoma.
+Appendix and small bowel with no specific diagnostic alteration.
+-Thirty-three pericolonic lymph nodes, negative for carcinoma (0/33).
+-
+2.
+See comment.
+Right distal ureter, excision (B)
+for urothelial dysplasia/carcinoma.
+-
+Benign portion of ureter, negative
+3. Left distal ureter, excision (C) Benign portion of ureter, negative
+for urothelial dysplasia/carcinoma.
+4. Urethral margin, excision (D)
+urothelial dysplasia/carcinoma.
+-
+Benign urethral tissue, negative for
+5. Urinary bladder, uterus, cervix, and vagina, anterior exenteration
+Bladder with invasive high grade papillary urothelial carcinoma,
+-
+extending through the perivesical fat and into the stroma of the endocervix
+and lower uterine segment myometrium, as well as into the vaginal submucosa
+(see 
+comment).
+-Lymphvascular invasion is identified.
+-Perineural invasion is identified.
+-Carcinoma extends to the inked posterior serosal surface of the bladder.
+-Vaginal margin is negative for carcinoma.
+-Ureteral and urethral margins are negative for carcinoma.
+-Urothelial carcinoma in situ is identified in the bladder mucosa.
+-Unremarkable uterine cervical mucosa.
+-Inactive endometrium.
+6. Urethral margin #2, excision (F) Benign portion of urethra, negative
+for 
+urothelial dysplasia/carcinoma.
+7. Lymph nodes, right pelvic, excision (G)
+for carcinoma (0/14).
+-
+Fourteen lymph nodes negative
+8.
+Lymph nodes, left pelvic, excision (H)
+Metastatic urothelial
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumo Site Discrepany
+HIPAA Discrepancy
+Prior ideignancy History
+Dual/Synchronous Pilmus fated
+Case is (circi
+Reviews Initial
+me
+UALIFIE
+DISQUALIFIED
+6
+Page 1 of 5
+:
+A
+Encounter Dates
+carcinoma involving five of twenty-three lymph nodes (5/23).
+Extranodal extension is 
+identified.
+COMMENT
+1. (A) The entire previous biopsy site and colonic tissue adjacent to it
+were submitted for histologic evaluation
+. There is no evidence of residual
+dysplasia or invasive adenocarcinoma 
+in this specimen. Slides from part A
+of this case were reviewed with Dr.
+5.
+Procedure:
+Anterior exenteration
+Tumor Size (greatest dimension): 5.0 cm
+Histologic Type:
+Urothelial carcinoma
+Associated Epithelial Lesions:
+Urothelial carcinoma in situ
+Histologic grade:
+Urothelial Carcinoma (WHO
+):
+High-grade
+Microscopic Tumor Extension:
+Perivesical fat
+Myometrium
+Endocervical stroma
+Vaginal submucosa
+Margins:
+Margins uninvolved by invasive carcinoma.
+posterior serosal surface of the bladder.
+Carcinoma extends to the inked
+Ureteral margins, urethral margin, and vaginal margin negative for
+carcinoma.
+Lymphovascular Invasion :
+Present
+Pathologic Stage (TNM) :
+Number lymph nodes examined: 37
+Number lymph nodes involved (any size): 5
+Primary Tumor (PT)
+рт4а
+Regional Lymph Nodes (PN)
+pN2
+Distant Metastasis (PM):
+Slides from the cystectomy specimen were reviewed at the
+with Drs.
+and
+Page 2 of 5
+........... _
+M.D.
+(Electronic Signature)
+SPECIMEN SUBMITTED
+A: RIGHT COLECTOMY
+B: RIGHT DISTAL URETER
+C: LEFT DISTAL URETER
+D: URETHRAL MARGIN
+E: BLADDER, UTERUS AND CERVIX
+F: URETHRAL MARGIN #2
+G: RIGHT PELVIC LYMPH NODES
+H: LEFT PELVIC LYMPH NODES
+Encounter Date:
+CLINICAL DATA
+BLADDER CA
+INTRAOPERATIVE CONSULT DIAGNOSIS
+B. Negative for carcinoma (Dr.
+C. Mostly denuded epithelium, negative for carcinoma (Dr.
+D. Negative for carcinoma, however, no epithelium identified (Dr.
+F. Negative for carcinoma (Dr.
+GROSS DESCRIPTION
+A. Received fresh labeled "right colon" is a 14.5 cm segment of right colon
+with an attached 9 cm segment of 
+terminal ileum. An appendix is identified.
+The serosal surface is smooth 
+and glistening. The wall of the colon
+averages 0.3 cm in thickness. 
+The wall of the terminal ileum averages 0.2
+cm in thickness. The mucosa of 
+the colon demonstrates a brown-yellow
+submucosal nodule measuring 1.3 
+x 1.3 cm located 5.4 cm from the distal
+margin. Sectioning reveals a 
+yellow homogenous cut surface.
+invade the underlying 
+wall. Multiple soft white polyps are identified
+It does 
+not.
+ranging in size from 0.1 to 
+0.4 cm. All appear superficial. In the
+ascending colon, there is 
+an irregular red slightly depressed area
+resembling a possible biopsy 
+site measuring 0.8 x 0.2 cm located 14 cm from
+the distal margin. It is superficial 
+and does not invade into the
+underlying wall. The 
+remaining mucosa is unremarkable. No firm mass lesions
+are identified. The mucosa of the 
+terminal ileum is unremarkable. The
+attached appendix 
+measures 4.7 cm in length and 0.9 cm in diameter. The
+lumen is dilated to 0.2 cm and 
+contains fecal material. No perforations or
+ulcerations are seen. Sectioning 
+through the surrounding fibroadipose
+tissue reveals multiple ovoid 
+tan firm nodules resembling lymph nodes.
+Representative sections are submitted 
+as follows:
+margin blue, distal margin orange), A2-A3 submucosal nodule totally
+Al margins (
+proximal
+submitted, A3 biopsy site 
+totally submitted, A4-A5 polyps totally
+submitted, A6 appendix, A7 
+ileocecal valve, A8 small bowel, A9-A17 lymph
+nodes.
+B. Received fresh at the frozen desk labeled "right distal ureter" is a 0.3
+cm in diameter, 0.2 cm in length 
+luminal tan-pink soft tissue fragment.
+The specimen is totally 
+submitted for frozen section in one cassette
+labeled Bl.
+Page 3 of 5
+Encounter Date:
+C. Received fresh at the frozen desk labeled "left distal ureter" is a 0.3
+cm in diameter, 0.2 cm in 
+length tan-pink luminal soft tissue fragment. The
+specimen is totally submitted for frozen 
+section in one cassette labeled
+C1.
+D. Received fresh at the frozen desk labeled "urethral margin" is a 2 × 0.6
+× 0.3 cm red-tan mucosal lined soft 
+tissue fragment. The specimen is
+totally submitted for frozen 
+section in one cassette labeled D1.
+E. Received in formalin is a specimen consisting of a urinary bladder,
+bilateral ureters, uterus, attached 
+cervix, and portion of vagina. The
+bladder measures 6.0 x 4.5 x 4.2 cm. 
+The external surface of the bladder is
+covered by a smooth serosal 
+lining at the dome and fibroadipose tissue at
+the remaining portion. After the 
+bladder is opened, a tan fungating mass is
+identified in the right anterior 
+bladder wall extending to the left and
+right trigone region measuring 5.0 
+x 3.1 x 1.2 cm. Upon multiple cross
+sections there does appear to be 
+gross extension beyond the bladder wall
+extending to within 0.2 cm of the soft 
+tissue margin. Also, identified on
+the left bladder wall is an ulcerated 
+indurated area of mucosa measuring
+4.2 x 3.0 cm. This area of this 
+bladder wall extends posteriorly and is
+associated with a thickened bladder 
+wall measuring up to 2.0 cm. The
+bladder wall grossly appears 
+to be involved by a mass which extends beyond
+the bladder wall, approaching the 
+soft tissue margin. The right ureter
+measures 5.0 cm and is unremarkable. The 
+left ureter measures 6.0 cm and is
+also unremarkable. The uterus 
+measures 6.0 x 3.5 x 3.5 cm, and weighs 53.2
+grams. A section of vaginal cuff 
+and vagina are present measuring 5.0 x 1.2
+cm. The vaginal mucosa is unremarkable. 
+The ectocervix is unremarkable. The
+endocervical canal measures 1.8 
+cm in length. Polyps are not present. The
+endometrial canal measures 4.2 cm in 
+length and 2.0 cm in greatest width.
+The endometrium measures 0.1 cm in 
+thickness and has a tan, smooth and
+glistening appearance. 
+The myometrium measures 1.5 cm in thickness and is
+unremarkable. Representative 
+sections are submitted as follows:
+additional section right 
+ureter, E2 additional section left ureter, E3
+posterior bladder wall with 
+right ureter orifice and small portion of
+possible mass, E4-E7 right bladder 
+wall with mass with extension beyond
+bladder wall with soft tissue 
+margin, E8 anterior bladder wall, E9 left
+bladder wall with mass near ureter
+, E10-E12 left bladder wall with mass and
+soft tissue margin, E13 left trigone 
+region with mass, E14 left trigone
+region with mass and portion of 
+vaginal mucosa, E15 right trigone region
+with mass, E16 anterior bladder 
+wall, E17-E18 posterior bladder wall with
+mass, E19-E20 anterior cervix, E21 
+posterior cervix, E22 anterior uterine
+wall, E23 posterior uterine wall.
+El
+are two
+F. Received fresh at the frozen desk labeled "urethral margin #2"
+fragments of red-pink soft 
+tissue measuring 1.1 x 0.6 x 0.5 cm. The
+specimen is totally submitted 
+for frozen section in one cassette labeled
+F1.
+G. Received in formalin labeled "right pelvic lymph nodes"
+yellow-tan segments of 
+nodular adipose tissue aggregating to 5.8 x 4.3 x
+are multiple
+1.7 cm. Palpation reveals three 
+tan, firm nodules resembling lymph nodes
+ranging in size from 1.2 to 1.8 
+cm in greatest dimension. Additionally a
+fragmented matted segment of nodular 
+tissue is present measuring 4.4 × 4.0
+Page 4 of 5
+}
+Encounter Date:
+cm. The nodules are totally submitted as follows: G1 two nodules, G2 one
+nodule bisected
+, totally submitted, G3-G7 fragmented matted segment totally
+submitted.
+H. Received in formalin labeled "left pelvic lymph nodes" are multiple
+yellow-tan 
+segments of nodular adipose tissue aggregating to 7 x 5 x 1.5
+cm. Palpation reveals 
+14 tan, firm nodules resembling lymph nodes ranging
+in size from 0.2 
+to 2.4 cm in greatest dimension. Additionally one
+fragmented matted 
+segment is also received in the same container measuring
+5.5 x 2.0 cm. The 
+nodules are totally submitted as follows: H1 four
+nodules, H2 four 
+nodules, H3 four nodules, H4 one nodule, H5 one nodule,
+H6-H10 
+fragmented matted segment sectioned and totally submitted.
+Patient ID #:
+DOB:
+(Age:
+Date of Report:
+Date of Procedure:
+Date of Receipt:
+Submitted by:
+Additional Physician(s):
+Location:
+Test performed by:
+Lab and Collection
+SURGICAL PATHOLOGY (Order:
+Result History
+SURGICAL PATHOLOGY (Order#
+Result Information
+Result Date and Time
+MyChart Status:
+This result is currently not released to
+Display Full Result Report
+Status
+Final result
+Lab and Collection Information
+Order Result History Report.
+Display Order Report
+Provider Status
+Reviewed
+Page 5 of 5

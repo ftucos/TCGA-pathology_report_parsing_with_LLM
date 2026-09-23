@@ -1,0 +1,45 @@
+UUID:5D5A2A97-F2B3-4EBE-BD57-C035D1710874
+TCGA-4Z-AA89-01A-PR
+Redacted
+Collect date:
+(MM/DD/YYYY)
+PRIMARY SITE: Bladder
+ICD-0-3
+Caremoma, with
+CECF
+katta
+Kelial papillary
+8/30/3
+Site: Bladder trigone C67.0
+"Bladder NOS C67.9
+913/18/14
+PATHOLOGY REPORT:
+.
+1 - "Cistoprostatectomy":
+High grade pappilary urothelial carcinoma infiltrating all the wall until the prostate.
+Left ureteral margin with focal urothelial carcinoma in situ
+Right ureteral margin uninvolved by neoplasia
+Right and left seminal vesicles uninvolved by neoplasia.
+Right and left vas deferens uninvolved by neoplasia.
+2- Left obturator lymph nodes
+Absence of neoplasia (0/3)
+3- Left iliac lymph nodes
+Absence of neoplasia (0/2)
+4- Right obturator lymph nodes
+Absence of neoplasia (0/2)
+5- Right iliac lymph nodes
+Absence of neoplasia (0/3)
+Criteria
+Diagnosis Discrepancy
+12/20/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History.
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIFO 1
+Date Reviewed:
+Yes
+No
+x

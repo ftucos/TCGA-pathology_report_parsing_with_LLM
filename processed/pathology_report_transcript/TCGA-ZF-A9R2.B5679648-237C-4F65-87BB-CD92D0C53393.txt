@@ -1,0 +1,144 @@
+Histopathology
+UUID:B5679648-237C-4F65-87BB-CD92D0C53393
+TCGA-ZF-A9R2-01A-PR
+Redacted
+Specimen Comments
+SPECIMEN
+A.
+Distal right ureteric resection margin
+B.
+Right obturator node
+C.
+Left obturator node
+D.
+Right external iliac
+E.
+Right obturator node (2)
+F.
+Right internal iliac
+G.
+Left external iliac node
+H.
+Left obturator node (2)
+I.
+Left ureteric resection margin
+J.
+IQD-0.3
+Carcinoma, urothelial porpillary 8/30/3
+Site: Bladder NOS 1679
+5/2/14
+K.
+Proximal right ureteric resection margin
+Bladder and prostate
+CLINICAL DETAILS
+MIBC with bilateral hydronephrosis and lymph nodes.
+MACROSCOPY
+A.
+Cystoprostatectomy.
+Cream coloured tissue measuring up to 6 mm in maximum dimension.
+Fatty tissue measuring 53 x 20 x 14 mm, containing one lymph node
+measuring 25 mm.
+B.
+C.
+Fatty tissue measuring 37 x 27 x 10 mm, containing one lymph node
+measuring up to 13 mm.
+D.
+Fatty tissue measuring 45 x 22 x 15 mm, containing one lymph node
+measuring up to 40 mm.
+E.
+Fatty tissue measuring 47 x 35 x 15 mm, containing one lymph node
+measuring up to 27 mm.
+F.
+Fatty tissue measuring 38 x 32 x 12 mm, containing one lymph node
+measuring up to 10 mm.
+G. Two pieces of fatty tissue measuring 28 and 24 mm respectively.
+nodes are identified measuring 8 and 14 mm.
+H.
+Fatty tissue measuring 50 x 35 x 12 mm, containing one lymph node
+measuring up to 40 mm.
+I.
+J.
+K.
+Grey tissue measuring 8 mm.
+Grey tissue measuring 10 mm in maximum dimension.
+Two lymph
+Radical cystoprostatectomy measuring 95 mm superior inferior x 87 mm
+transverse x 80 mm anterior posterior. The prostate measures 30 mm superior
+inferior x 38 mm transverse x 32 mm anterior posterior. The bladder measures 85
+There is
+mm superior inferior x 75 mm transverse x 62 mm anterior posterior.
+peritoneum measuring up to 60 mm to the dome of the bladder.
+Within the bladder there is extensive tumour covering the left and right lateral
+walls, anterior and posterior wall and the dome. The tumour appears to invade
+through the bladder wall at the left lateral side.
+There are no peritoneal nodules of tumour. No lymph nodes are identified.
+1 = Urethral resection margin, 2 = Left lobe prostate, 3 = Right lobe prostate,
+4 = Trigone, 5 = Dome, 6 = Posterior wall, 7 = Left lateral wall ? extraneural
+extension, 8 = Anterior ? extraneural extension, 9 = Right lateral wall, 10-12 =
+Tumour
+MICROSCOPY
+This is normal urothelial mucosa.
+A.
+B.
+C.
+D.
+E.
+This is one lymph node, without neoplasia.
+This is one lymph node, without neoplasia.
+This is one lymph node, without neoplasia.
+This is one lymph node, without neoplasia.
+F.
+This is connective tissue, no lymph node is identified.
+G.
+H.
+This is one lymph node. No neoplasia is identified.
+I.
+These are two lymph nodes. No neoplasia is identified.
+This is urothelial mucosa. There is no evidence of neoplasia or
+dysplasia.
+J.
+This is ureteric tissue, which is denuded of epithelium.
+No evidence of
+neoplasia is
+K.
+identified.
+This is bladder and prostate. Anteriorly within the bladder, there is a
+urothelial carcinoma showing papillary and invasive areas. The tumour is mostly
+moderately differentiated but there is a focus of poorly differentiated tumour
+which shows extension into the outer 1/3 of the muscularis. Lymphovascular
+invasion is seen. The circumferential resection margin is clear of tumour.
+The prostate and and urethral resection margins are normal.
+Summary:
+Radical cystoprostatectomy with pelvic lymph nodes
+High grade urothelial carcinoma of the bladder.
+TNM (7th Edition 2009): pT2b, PNO, RO
+Ref:
+Pathologists
+-
+-
+Update 3/21/14
+their
+Patient was contacted by TSS and
+Verified they recend surging - only for
+prior malignancy. Ok to ship.
+Subsequent information indicates
+pt. had unknown treatment 
+for
+prior malignancy. Not shipped-
+3/19/14'
+Criteria
+Diagnosis Discrepancy
+/ 1/10/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+will annotate at BG
+Yes
+No
+DISQUALI ED
+QUANY014

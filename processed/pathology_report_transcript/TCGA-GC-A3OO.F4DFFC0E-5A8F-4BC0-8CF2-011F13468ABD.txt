@@ -1,0 +1,110 @@
+Surg Path Final Report
+*
+Final Report *
+100-0-3
+carcinoma, wrothelial, NOS 8120/3
+Site: bladder, wall, Nos
+0679
+Result Type:
+Result Date:
+Result Status:
+Result Title:
+Verified By:
+Encounter info:
+Surg Path Final Report
+Auth (Verified)
+Surgical Pathology Final Report
+سنا
+2/2/12
+Redacted
+UUID:F4DFFCOE-5A8F-4BC0-8CF2-011F13468ABD
+TCGA-GC-A300-01A
+-PR
+Final Diagnosis (Verified)
+Left ureter margin, biopsy with frozen section:
+No tumor seen.
+Right ureter margin, biopsy with frozen section:
+No tumor seen.
+Left pelvic lymph nodes, excision:
+Three (3) benign lymph nodes with no evidence of metastatic neoplasm.
+Right pelvic lymph nodes, excision:
+Three (3) benign lymph nodes with no evidence of metastatic neoplasm.
+Urinary bladder and prostate, resection:
+Invasive high-grade urothelial carcinoma of urinary bladder.
+Tumor is present on the right bladder wall and measures 1.6 cm in diameter.
+Tumor invades deeply into muscularis propria and is focally present at the border
+between muscularis propria and underlying perivesical fat.
+No evidence of lymphovascular invasion.
+Negative perivesical soft tissue margin.
+Benign prostatic tissue.
+Negative seminal vesicles and vasa deferentia.
+AJCC pathologic stage: T2b, NO.
+Appendix, resection:
+Negative incidental appendix.
+Criteria
+Diagnosis Discrepancy
+N 2/2/12
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials.
+QUALIFIED
+Date Reviewed:
+Yes
+No
+✗
+女
+DISQUALIFIED
+1/31/12
+Surg Path Final Report
+* Final Report *
+Comment: Additional tissue from the urethral margin will be submitted for microscopic
+evaluation and reported in an addendum report..
+Signature Line
+(Electronically signed by)
+Verified on:
+1
+Frozen Section Diagnosis (Verified)
+FSA Left ureter - negative for dysplasia.,
+FSB Right ureter - negative for dysplasia..
+Clinical Information (Verified)
+Bladder cancer.
+Performing Lab (Verified)
+Testing performed at
+Gross Description (Verified)
+"FSA." All frozen section control tissue is submitted in "FSA."
+"FSB." All frozen section control tissue is submitted in "FSB."
+"Left pelvic lymph node." The specimen consists of a 6.5 x 5.5 x 3 cm aggregate of yellow-tan fatty tissue. On examination, 3 possible lymph
+nodes are identified. These range in size from 4-9 cm. "C1-C3," fragments, representative
+.
+"Right pelvic lymph node package." The specimen consists of a 6.5 x 6 x 1.5 cm aggregate of yellow-tan fatty tissue. On examination, 3
+possible lymph nodes are identified. These range in size from 1.7 -3.5 cm. "D1-D3," fragments, 
+representative.
+"Bladder and prostate." The specimen consists of a 14 x 14 x 6.5 cm bladder and prostate with attached soft fatty tissue. The specimen has
+dalan the anterior aenert The posterior anex maroin will be 
+inked orange and the remaining prostate will be inked
+Surg Path Final Report
+* Final Report *
+dome of the bladder is a 1.6 x 1.6 cm red-brown ulcerated mass. The soft tissue margin will be inked black. This mass does grossly appear
+to extend into but not beyond the bladder wall. This comes to within 1.5 cm from the inked soft tissue margin. The remaining bladder
+mucosa has a blue-gray edematous appearance.
+The attached prostate measures 5.5 x 4 x 2.5 cm and will be inked black. On sectioning, the cut surface has a pale tan, slightly nodular
+appearance. There are 2 clear fluid-filled cystic spaces. The largest of these is 0.6 cm. No definite tumor is grossly appreciated within the
+prostate. "E1," left apex; "E2," right apex; "E3," left ureteral orifice; "E4," right ureteral orifice; "E5-E7," mass right side bladder; "E8," trigone;
+"E9," left side bladder; "E10," dome of bladder; "E11," left seminal vesicle and vas deferens; "E12," right seminal vesicle and vas deferens;
+"E13," left anterior prostate; "E14," left posterior prostate; "E15," right anterior prostate; "E16," right posterior prostate. Note: Please see
+attached drawing.
+"Portion of appendix." The specimen consists of a 1.2 x 0.6 cm distal tip of the appendix. What remains of the serosa has a blue-gray
+appearance and is slightly hemorrhagic and focally charred. On sectioning, the lumen is filled with a small amount of fecal material. A
+definite fecalith is not identified. "F1," distal tip; "F2," margins, all.
+Also received are
+project cassette labeled
+Signature Line
+Completed Action List:
+*
+*Order by.
+* VERIFY by
+* Order by
+ind

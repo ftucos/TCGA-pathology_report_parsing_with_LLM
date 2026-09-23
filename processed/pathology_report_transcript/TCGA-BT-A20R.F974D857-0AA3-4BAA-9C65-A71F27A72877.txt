@@ -1,0 +1,102 @@
+PATIENT HISTORY:
+Bladder cancer.
+PRE-OP DIAGNOSIS:
+PROCEDURE:
+POST-OP DIAGNOSIS:
+Bladder cancer.
+Same.
+Cystectomy.
+FINAL DIAGNOSIS:
+ICD-0-3
+Carcinoma, wrothelial 8120/3
+Site: bladder, trigone €67.0
+kw 4/7/11
+PART 1: URETERAL MARGIN, RIGHT, RADICAL CYSTECTOMY -
+A. BENIGN URETER.
+B. NO EVIDENCE OF IN-SITU OR INVASIVE CARCINOMA.
+PART 2: URETERAL MARGIN, LEFT, RADICAL CYSTECTOMY -
+A. FOCAL UROTHELIAL ATYPIA (See comment).
+B. NO EVIDENCE OF IN-SITU OR INVASIVE CARCINOMA.
+UUID:F974D857-0AA3-4BAA-9C65-A71F27A72877
+TCGA-BT-A20R-01A-PR
+Redacted
+PART 3: BLADDER, URETHRA, AND VAGINAL CUFF, RADICAL CYSTECTOMY -
+A. UROTHELIAL CARCINOMA, INVASIVE, WHOЛSUP HIGH GRADE, WITH MICROPAPILLARY FEATURES.
+B. 
+CARCINOMA IS AT LEAST 5.0 CM IN GREATEST DIMENSION.
+C. TUMOR INVADES THROUGH THE DETRUSOR MUSCLE AND EXTENSIVELY INVOLVES PERIVESICULAR
+ADIPOSE 
+TISSUE.
+D. CARCINOMA IS PRESENT AT THE PERIVESICAL ADIPOSE TISSUE (ADVENTITIAL) RESECTION MARGIN AT
+THE POSTERIOR 
+ASPECT AND DOME OF BLADDER (Blocks 31, 3J AND 3P).
+E. FOCAL CARCINOMA IN-SITU OF BOTH URETERS IS PRESENT; URETERIC RESECTION MARGINS ARE
+F.
+- FREE OF IN-SITU OR INVASIVE MALIGNANCY.
+THE URETHRAL MARGIN IS FREE OF IN-SITU OR INVASIVE MALIGNANCY.
+G. EXTENSIVE ANGIOLYMPHATIC INVASION IS IDENTIFIED.
+H. FOCAL PERINEURAL INVASION IS IDENTIFIED.
+1.
+THE VAGINAL WALL IS FREE OF TUMOR.
+J. PATHOLOGIC STAGE: pTNM = pT3h MM Mx.
+K. INCIDENTAL BENIGN LEIOMYOMA (0.8 CM.) IN PERIVESICLE ADIPOSE TISSUE.
+PART 4: LYMPH NODES, RIGHT PELVIC, EXCISION -
+METASTATIC UROTHELIAL CARCINOMA IN ONE OF TWO LYMPH NODES EXAMINED (1/2).
+PART 5: LYMPH NODES, LEFT PELVIC, EXCISION-
+METASTATIC UROTHELIAL CARCINOMA IN SIX OF SEVEN LYMPH NODES EXAMINED (6/7).
+COMMENT:
+Part 2: The permanent section of the left ureteral resection margin shows mild urothelial atypia, which, at most,
+represents 
+low grade intraurothelial neoplasia (dysplasia). There is no evidence of carcinoma in situ or invasive
+carcinoma at the 
+margin.
+Part 3: A section of the bladder wall with adjacent vaginal wall (block 3C) shows tumor infiltrating between smooth
+muscle bundles, which 
+are felt to represent the outer bundles of detrusor muscle, rather than vaginal wall smooth
+muscle. Vaginal wall 
+involvement by tumor is therefore not evident.
+MICROSCOPIC:
+SYNOPTIC DATA - PRIMARY URINARY BLADDER TUMORS
+SPECIMEN TYPE:
+Radical cystectomy
+Trigone, Left lateral wall, Posterior wall, Dome
+Greatest dimension: 5.0 cm
+Additional dimensions: 4.5 and 1.4 cm
+Urothelial (transitional cell) carcinoma with variant histology: micropapillary
+ASSOCIATED EPITHELIAL LESIONS: None identified
+Urothelial carcinoma - High-grade
+TUMOR SITE:
+TUMOR SIZE:
+HISTOLOGIC TYPE:
+HISTOLOGIC GRADE:
+TUMOR CONFIGURATION:
+Flat, Ulcerated
+PATHOLOGIC STAGING (pTNM):
+(pT3b
+PN1
+Number of nodes examined: 9
+PMX
+MARGINS:
+Margin(s) involved by invasive carcinoma
+Margin(s): Adventitial/ perivesicular soft tissue
+VENOUS/LYMPHATIC (LARGE/SMALL) VESSEL INVASION (V/L):
+DIRECT 
+EXTENSION OF INVASIVE TUMOR:
+Perivesical fat
+Present
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (irr'e):
+Reviewer Initia.s
+QUALIFI
+DISQUALIFIED
+Date Reviewed: 1
+4/7/14
+K
+2

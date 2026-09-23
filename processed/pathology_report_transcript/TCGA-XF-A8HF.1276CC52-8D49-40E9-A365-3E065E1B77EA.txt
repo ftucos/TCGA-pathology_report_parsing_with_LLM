@@ -1,0 +1,319 @@
+Collected
+Ordered by
+Page 1 of 5
+REPORT
+UUID:1276CC52-8D49-40E9-A365-3E065E1B77EA
+TCGA-XF-A8HF-01A-PR
+Redacted
+CLINICAL DIAGNOSIS:
+Bladder cancer
+FINAL DIAGNOSIS:
+RADICAL CYSTECTOMY WITH URINARY DIVERSION TO SKIN GT PLACEMENT:
+RIGHT URETER (A):
+FROZEN SECTION DIAGNOSIS:
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+-
+BENIGN URETER
+-
+NO HIGH UROTHELIAL ATYPIA OR TUMOR IDENTIFIED
+(B):
+ICD 0.3
+812013
+Carcinoma, transitional cell Nos
+Suite Bladder NaS (67.9
+LEFT URETER
+FROZEN SECTION DIAGNOSIS:
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+-
+BENIGN URETER
+NO HIGH GRADE UROTHELIAL ATYPIA OR TUMOR IDENTIFIED
+PROSTATE AND BLADDER (C):
+PROSTATE:
+-
+-
+Jo 1/23/14
+BILATERAL PROSTATIC ADENOCARCINOMA, GLEASON'S SCORE 7 (3+4), EXTENDS
+INTO THE PROSTATIC CAPSULE BUT NOT THROUGH IT
+ALL MARGINS ARE FREE OF TUMOR
+PERINEURAL INVASION IDENTIFIED
+NO LYMPHOVASCULAR SPACE INVASION IDENTIFIED
+BILATERAL SEMINAL VESICLES AND VASA DEFERENTIA, FREE OF TUMOR
+HIGH GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN III)
+BLADDER:
+-
+-
+INVASIVE POORLY DIFFERENTIATED TRANSITIONAL CELL CARCINOMA
+(3.0 X 2.2 X 1.0 CM), GRADE 4/4, EXTENDING THROUGH THE LEFT POSTERIOR
+BLADDER WALL INTO PERIVESICAL TISSUE MICROSCOPICALLY
+NO LYMPHOVASCULAR TUMOR INVASION IDENTIFIED
+EXTENSIVE TUMOR NECROSIS LOCATED ADJACENT TO FUNGATING MASS LESION
+NO IN SITU CARCINOMA (FLAT LESION) IDENTIFIED
+MARGINS OF RESECTION, FREE OF UROTHELIAL ATYPIA AND TUMOR
+LEFT LYMPH NODE CLOQUET (D):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+LEFT OBTURATOR LYMPH NODES (E):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN FOUR LYMPH NODES (0/4)
+LEFT HYPOGASTRIC LYMPH NODES (F):
+NO METASTATIC CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)
+PRESACRAL LYMPH NODES (G):
+NO METASTATIC CARCINOMA IDENTIFIED IN TWO LYMPH NODES (0/2)
+LEFT COMMON ILIAC LYMPH NODES (H):
+NO METASTATIC CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)
+RIGHT LYMPH NODE OF CLOQUET (I):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+RIGHT OBTURATOR LYMPH NODE (J):
+SURGICAL PATHOLOGY REPORT
+Collected
+Ordered by
+NO METASTATIC CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+RIGHT EXTERNAL ILIAC LYMPH NODE (K) :
+NO METASTATIC CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+RIGHT HYPOGASTRIC LYMPH NODE (L):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+RIGHT COMMON ILIAC LYMPH NODE (M):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN THREE LYMPH NODE (0/3)
+LEFT PROXIMAL URETER (N):
+-
+BENIGN URETER
+NO UROTHELIAL ATYPIA OR TUMOR IDENTIFIED
+RIGHT PROXIMAL URETER (0):
+BENIGN URETER
+-
+NO UROTHELIAL ATYPIA OR TUMOR IDENTIFIED
+PATHOLOGIC TNM STAGE: Bladder cancer -pT3aNOMX
+INTRAOPERATIVE DIAGNOSIS:
+FROZEN SECTION DIAGNOSIS:
+AFS: Right ureter:
+no tumor identified
+BFS:
+Left ureter:
+no tumor identified
+Prostate cancer-pT2cNOMX
+Page 2 of 5
+GROSS DESCRIPTION:
+A:
+It
+Entirely
+The specimen is received fresh from the O.R. and labeled "Right ureter."
+consists of a segment of pink-tan ureter measuring 0.7 x 0.5 x 0.1 cm.
+submitted for frozen section in cassette AFS.
+B: The specimen is received fresh from the O.R. and labeled "Left ureter." It
+consists of a segment of ureter measuring 0.7 x 0.7 x 0.4 cm. Entirely submitted
+for frozen section in cassette BFS.
+C:
+cm.
+The specimen is received fresh from the O.R. and labeled "Prostate, Bladder."
+It consists of a bladder with associated prostate measuring overall 17 x 14 x 4.5
+cm. The peritoneum measures 13 x 11 x 0.5 cm. The bladder measures 6.5 x 4 × 3
+Opening of the prostate and the bladder anteriorly reveals a pink-tan,
+fungating mass measuring 3 x 2.2 x 1 cm, located at the mid to left bladder, near
+the trigone region. The tumor grossly invades the muscularis propria into the
+pericystic adipose tissue, and is 2.5 cm from the black inked surgical margin.
+There is a green-yellow necrotic ulcerative region measuring 4 x 2 x 0.3 cm
+adjacent to the mass lesion. The remainder of the bladder mucosa shows focal
+erythematous, edematous area. The wall of the bladder measures 1.1 cm in
+thickness. The right ureter measures 4 cm in length by 0.5 cm in diameter and
+appear to be dilated. The left uretermeasures 2 cm in length by 0.5 cm in
+diameter. The prostate measures 5 x 4 x 4 cm. The prostatic urethra measures 3 cm
+in length by 2 cm in circumference. The verumontanum measures 1.8 × 0.3 × 0.1 cm.
+The right vas deferens measures 4.5 cm in length by 0.6 cm in diamter, and the left
+vas deferens measures 2.5 cm in length by 0.5 cm in diameter. The right seminal
+vesicle measures 3 x 1.5 x 0.7 cm, and the left seminal vesicle measures 3 x 2 x
+REPORT
+Page 3 of 5
+#PED FASTER
+0.5 cm. Sectioning of the prostate reveals pink-tan, nodular cut surface.
+Representative sections are submitted in a total of 24 cassettes.
+D:
+The specimen is received in formalin and labeled "Lymph node of cloquet, left.'
+It consists of a fragment of yellow-tan tissue measuring 2 x 1.2 x 0.8 cm. One
+lymph node measuring 0.8 cm in greatest dimension is identified. This lymph node
+is bisected and the specimen is entirely submitted in one cassette.
+E: The specimen is received in formalin and labeled "Obturator lymph node left."
+It consists of multiple fragments of yellow-tan, soft tissue measuring 6 × 4 × 2 cm
+in aggregate. Multiple lymph nodes are identified with the largest one measuring
+2.8 cm in greatest dimension. The largest lymph node is bisected and the specimen
+is entirely submitted in three cassettes.
+F:
+The specimen is received in formalin and labeled "Hypogastric lymph node left."
+It consists of a fragment of yellow-tan, soft tissue measuring 5 x 2 x 0.8 cm.
+One lymph node is identified measuring 3 cm in greatest dimension.
+is bisected and the specimen is entirely submitted in one cassette.
+The lymph node
+Two
+G: The specimen is received in formalin and labeled "Presacral lymph node." It
+consists of a fragment of pink-tan, soft tissue measuring 2 x 1 x 0.5 cm.
+lymph nodes are identified with the largest one measuring 0.7 cm in greatest
+dimension. Entirely submitted in one cassette.
+H: The specimen is received in formalin and labeled "Left common iliac lymph
+node." It consists of a fragment of pink-tan, soft tissue measuring 2.2 x 1 x 0.5
+cm. The specimen is entirely submitted in one cassette.
+Two
+I:
+The specimen is received in formalin and labeled "Right cloquet lymph node."
+It consists of a fragment of yellow-tan, soft tissue measuring 3 x 2 x 1 cm.
+possible lymph nodes are identified with the largest one measuring 1.8 cm in
+greatest dimension. The lymph nodes are bisected and the specimen is entirely
+submitted in one cassette.
+J:
+The specimen is received in formalin and labeled "Right obturator lymph nodes."
+It consists of multiple fragments of yellow-tan soft tissue measuring 7 x 5 x 1 cm
+in aggregate. One lymph nodes is identified which measures 3 cm in greatest
+dimension. The specimen is entirely submitted in three cassettes.
+K: The specimen is received in formalin and labeled "Right external iliac lymph
+node. " It consists of a fragment of yellow-tan soft tissue measuring 3 × 1.5 x 0.5
+cm. One lymph node is identified measuring 2.5 cm in greatest dimension. The
+lymph node is bisected and the specimen is entirely submitted in one cassette.
+L: The specimen is received in formalin and labeled "Right hypogastric lymph
+node. " It consists of a fragment of yellow-tan soft tissue measuring 2 x 1 x 0.5
+cm. The specimen is entirely submitted in one cassette.
+M:
+The specimen is received in formalin and labeled "Right common iliac lymph
+node.' It consists of a fragment of yellow-tan soft tissue meausring 2 × 1 × 1 cm.
+One lymph node is identified which measures 0.9 cm in greatest dimension. The
+lymph node is bisected and the specimen is entirely submitted in one cassette.
+N: The specimen is received in formalin and labeled "Left proximal ureter." It
+consists of a segment of ureter measuring 1.5 cm in length by 0.5 cm in diameter.
+Two metallic clips closest to the proximal margin are identified. The proximal
+margin is submitted in one cassette.
+0:
+It
+The specimen is received in formalin and labeled "Right proximal ureter."
+consists of a segment of ureter measuring 1.6 cm in length by 0.7 cm in diameter.
+Colle
+Page 4 of 5
+nd h
+Two metallic clips are located closest to the proximal margin. The proximal margin
+is submitted in one cassette.
+SECTIONS:
+AFS:
+BFS:
+C1:
+C2,3:
+C4:
+C5:
+C6-10:
+C11:
+C12:
+C13:
+frozen section, right ureter
+frozen section, left ureter
+right ureter, distal margin
+prostate apex
+right vas deferens and seminal vesicle
+left vas deferens and seminal vesicle
+mass lesion
+left lateral
+left dome
+right dome
+C14:
+right lateral
+C15:
+C16:
+C17:
+C18:
+C19:
+C20:
+C21:
+C22:
+C23:
+C24:
+D:
+El:
+E2,3:
+F:
+G:
+H:
+I :
+J1:
+J2,3:
+K:
+L:
+M:
+N:
+0:
+right trigone
+right ureteral distal margin
+right distal prostate
+left distal prostate
+right midprostate
+left midprostate
+right midprostate, serially sectioned
+left midprostate, serially sectioned
+right proximal prostate
+left proximal prostate
+lymph node of Cloquet, left
+one lymph node, bisected
+possible lymph nodes
+hypogastric lymph node, left
+presacral lymph node
+left common iliac lymph node
+right lymph node of Cloquet
+one lymph node, bisected
+possible lymph nodes
+right external iliac lymph node
+right hypogastric lymph node
+right common iliac lymph node
+left proximal ureter
+right proximal ureter
+MICROSCOPIC DESCRIPTION:
+A-B: See final microscopic-diagnosis.
+C: Sections of the fungating seen grossly on the left posterior trigone region of
+bladder corresponding histologically to a poorly differentiated invasive
+transitional cell carcinoma, grade 4/4 (C6-10). The neoplastic cells have high N/C
+ratios with large pleomorphic nuclei and are arranged in solid sheets.
+The
+cytoplasm shows clear cell change. There is focal squamous metaplasia present as
+well as frequent mitosis. A moderate inflammatory response to the tumor is noted.
+The tumor extends through the muscularis propria. The radial inked resection
+margins are free of tumor. No associated transitional cell carcinoma in situ
+identified. No definitive lymphovascular space invasion is seen.
+Sections of the prostate show extensive neoplastic process involving the right
+and left lobes from distal to proximal (C17-20,24). The tumor is characterized
+predominantly by irregularly shaped and variably sized malignant glands that
+randomly infiltrate the stroma. A small component of the tumor show malignant
+gland fusion. The neoplastic cells are medium to large with high nuclear to
+cytoplasmic ratios, vesicular chromatin and prominent nucleoli. The prostatic
+Page 5 of 5
+Collected
+Ordered by
+No
+capsule is free of tumor. There are multifocal areas of perineural invasion.
+lymphovascular space invasion identified. Bilateral seminal vesicles and vasa
+deferentia are free of tumor. Apical margin is free of tumor. In addition to
+invasive carcinoma, the prostatic parenchyma shows high grade prostatic
+intraepithelial neoplasia (PIN III) characterized by hyperplastic glands lined by
+stratified layers of enlarged cells with large nuclei and prominent nucleoli.
+D-O: See final microscopic-diagnosis.
+Signed by:
+ELECTRONIC SIGNATURE
+POST-OPERATIVE DIAGNOSIS:
+Same
+PRE-OPERATIVE DIAGNOSIS:
+Bladder TCC
+ORDERING PHSYCIAN:
+Ordering Physician:
+Criteria
+• 10/29/13
+Diagnosis Disr re,ancy
+Primary Tun.or Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+Prostate
+KATE | D.SGUAL
+Date Reviewed:
+Yes
+7
+DISQUALIFIED
+No.
+10/21/2013

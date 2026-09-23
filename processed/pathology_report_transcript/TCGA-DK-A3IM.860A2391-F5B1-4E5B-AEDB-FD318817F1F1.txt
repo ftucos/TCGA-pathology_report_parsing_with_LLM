@@ -1,0 +1,285 @@
+UUID:860A2391-F5B1-4E5B-AEDB-FD318817F1F1
+TCGA-DK-A3IM-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+SURGICAL PATHOLOGY REPORT (
+DOB: (Age:
+Gender:
+M
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+INPATIENT
+Clinical Diagnosis & History:
+year old male with bladder diverticulum with high grade tumor.
+Specimens Submitted:
+1: Soft tissue bladder margin (fs)
+2: Bladder diverticulum, urachus, perivesicle tissue, lymph nodes, upper portion of bladder, distal right ureter
+3: Right vas deferens
+4: Right pelvic lymph nodes
+5: Perivesical fat
+6: Piece of omentum
+7: Periureteral tissue
+8: Perivesical tissue
+DIAGNOSIS:
+1. Soft tissue, bladder margin; excision (fs):
+- Benign fibroadipose tissue.
+2. Bladder diverticulum, urachus, perivesicle tissue, lymph nodes, upper portion of bladder, distal right ureter:
+Tumor Type:
+Urothelial carcinoma with mixed histologic features, including: urothelial carcinoma NOS, keratinizing
+squamous and small cell/neuroendocrine involving a bladder diverticulum
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Papillary and flat
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Right ureter uninvolved
+Left ureter uninvolved
+Urethra uninvolved
+Vascular Invasion:
+Identified
+Perineural Invasion:
+ICD-0-3
+carcinoma wrathelial, Keratinizing, Nos and
+8071/3
+(Code to highest)
+Site bladder, Nos C67.9
+small cell, neuroendocrine
+804113
+tw
+12/12/11
+Yes
+310
+Criteria
+Diagnesi Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Diseny
+Prior Malignarly History
+Qual, Synchronous Primary Ned
+Case! (cir.le):
+Reviewer Initials
+QUALIFIED T DISQUALIFIED
+-Date Reviewed: 12/7/1
+W 12/29/11
+Page 1 of 5
+identified
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Mucosa:
+Exhibiting chronic cystitis
+Exhibiting denudation
+Prostate:
+Not identified
+Seminal Vesicles:
+Not identified
+SURGICAL PATHOLOGY REPORT
+Perivesical Lymph Nodes:
+Not identified
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+3. Vas deferens, right; resection:
+- Benign vas deferens.
+4. Right pelvic lymph nodes:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 8
+5. Soft tissue, perivesical fat; excision:
+- Benign fibroadipose tissue.
+6. Omentum; resection:
+- Benign adipose tissue.
+7.
+Soft tissue, periureteral tissue; excision:
+- Benign fibrovascular and adipose tissue.
+8. Soft tissue, perivesical tissue; excision:
+- Benign fibroadipose tissue.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Special Studies:
+Result
+***
+Report Electronically Signed Out ***
+Special Stain
+SYN
+CHR
+AE1:AE3
+TTF-1
+6
+Page 2 of 5
+Comment
+Gross Description:
+SURGICAL PATHOLOGY REPORT
+RECUT
+IMM RECUT
+NEG CONT
+1. The specimen is received fresh for frozen section consultation, labeled, "Soft tissue bladder margin (fs)" and consists of a
+fragment of soft pink and yellow tissue (1.5x 0.6x 0.3 cm). The specimen is entirely frozen and submitted in one cassette.
+Summary of sections:
+FSC frozen section control
+2). The specimen is received fresh labeled "Urachus, perivesicular tissue lymph nodes, upper portion of bladder, bladder
+diverticulum, distal right ureter" and consists of a portion of bladder, diverticulum, portion of ureter, and perivesicular tissue. The
+portion of bladder is received opened with a dusky purple-pink but otherwise unremarkable mucosa measuring 8.6 x 7.5 cm with
+underlying perivesicular tissue measuring 11.0 x 9.5 x 1.5 cm. The attached closed pouch like diverticulum measures 7.2 x 6.0 x
+3.0 cm and is attached by a 1.8 x 0.5cm piece of the opened bladder mucosa. The anterior wall of the diverticulum displays a
+1.8 x 1.5 cm transmural defect of a possible urachus, the tissue surrounding the defect is inked orange, the remaining anterior
+aspect is inked black.
+The posterior surface of both the diverticulum and bladder perivesicular tissue are inked blue. The right
+aspect of the diverticulum has an adhered segment of ureter measuring 3.0 cm in length by 0.5 cm in diameter. The ureter has
+one clip and an opposing opened end. The diverticulum is opened to reveal a yellow-brown fungating papillary friable tumor
+measuring 4.7 x 4.3 x 1.5 cm, 4.1 cm from the transmural defect and 1.0 cm from the attached bladder mucosa. There is a
+second adjacent raised papillary nodule measuring 2.5 x 2.2 x 0.9 cm, 0.2 cm from the fungating tumor, 2.0 cm from the
+transmural defects, and 5.6 cm from the attached bladder mucosa. Upon sectioning the two tumor nodules join and there is
+papillary extension to a depth of 1.8cm. The remaining bladder diverticulum mucosa is yellow and smooth. The tumor is 1.0
+cm from the attached ureter and the ureter is grossly uninvolved with the tumor. Both of the ureter margins are shaved and
+submitted en face. Perpendicular sections of the bladder mucosa margins are submitted ner clock face with 12 o'clock arbitrarily
+designated in pathology by the diverticulum attachment site. Gross photos are taken. is taken. Representative sections
+are submitted.
+Summary of sections:
+BM3 - bladder margin 3 o'clock
+BM6-lateral margin 6 o'clock (opposite the diverticulum attachment site)
+BM9 bladder margin 9 o'clock
+-
+-
+TB diverticulum tumor to attached portion of bladder
+TN - diverticulum tumor to smaller nodule
+ND - smaller nodule to transmural defect
+TU
+tumor to ureter
+UC ureter margin (clipped end)
+UO - ureter margin (opened end)
+DIV additional representative sections of diverticulum
+BL additional representative sections of bladder
+F tumor to greatest depth of invasion
+3.The specimen is received in formalin, labeled "right vas deferens," and consists of a segment of vas deferens that measures 3.1x
+0.6 x 0.4 cm. The specimen is serially sectioned and entirely submitted.
+Summary of sections:
+U undesignated
+Page 3 of 5
+SURGICAL PATHOLOGY REPORT
+4.The specimen is received in formalin, labeled "right pelvic lymph nodes," and consists of multiple lymph nodes that measure up
+to 2.2 cm in greatest dimension. The specimen is entirely submitted.
+Summary of sections:
+BLN bisected lymph node
+LN- lymph nodes
+5.The specimen is received in formalin, labeled "perivesical fat," and consists of a piece of fibrofatty tissue that measures 5.8 x 4.2
+× 1.5 cm. The specimen is serially sectioned to reveal yellow, homogeneous cut surfaces. Representative sections are
+submitted.
+Summary of sections:
+U -- undesignated
+6.The specimen is received in formalin, labeled "piece of omentum," and consists of a piece of fibrofatty tissue that measures 7.9 x
+3.2 x 2.8 cm. The specimen is serially sectioned to reveal yellow, homogenous cut surfaces. Representative sections are
+submitted.
+Summary of sections:
+U -- undesignated
+7.The specimen is received in formalin, labeled "perivesical tissue" and consists of a piece of fibrofatty tissue that measures 2.3 x
+1.8 × 0.4 cm. The specimen is entirely submitted.
+Summary of sections:
+U - undesignated
+8.The specimen is received in formalin, labeled "periureteral tissue" and consists of a piece of fibrofatty tissue that measures 0.5
+x 0.4 x 0.4 cm. The specimen is entirely submitted.
+Summary of sections:
+U -- undesignated
+Summary of Sections:
+Part 1: Soft tissue bladder margin (fs)
+Block
+1
+Sect. Site
+FSC
+PCs
+1
+Part 2: Bladder diverticulum, urachus, perivesicle tissue, lymph nodes, upper portion of bladder, distal right ureter
+Block
+2117221-432-7
+Sect. Site
+BL
+BM3
+PCs
+2
+1
+BM6
+1
+BM9
+1
+DIV
+2
+F
+ND
+T
+TB
+TN
+TU
+2
+UC
+UO
+2114321-
+2
+Page 4 of 5
+Part 3: Right vas deferens
+Block
+1
+SURGICAL PATHOLOGY REPORT
+Sect. Site
+U
+2
+ថ្មីៗ
+PCs
+Part 4: Right pelvic lymph nodes
+Block
+22
+Sect. Site
+BLN
+LN
+PCs
+..
+3
+3
+Part 5: Perivesical fat
+Block
+1
+Sect. Site
+U
+2
+ថ្មីៗ
+PCs
+Part 6: Piece of omentum
+Block
+1
+Sect. Site
+U
+PCs
+2
+Part 7: Periureteral tissue
+Block
+1
+Sect. Site
+U
+PCs
+2
+Part 8: Perivesical tissue
+Block
+Sect. Site
+PCs
+2
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperative
+consultation.
+1. Frozen section diagnosis: Soft tissue bladder margin (fs): Benign fibroadipose tissue (
+Permanent diagnosis: SAME
+Page 5 of 5
+END OF REPORT

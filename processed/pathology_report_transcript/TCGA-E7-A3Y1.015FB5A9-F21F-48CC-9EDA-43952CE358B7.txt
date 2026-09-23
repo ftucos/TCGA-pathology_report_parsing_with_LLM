@@ -1,0 +1,41 @@
+UUID:015FB5A9-F21F-48CC-9EDA-43952CE35887
+TCGA-E7-A3Y1-01A-PR
+Procurement Date
+Redacted
+Laterality:Tumor Features: Unknown, Tumor Extent: Superficial muscle
+(inner half), Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+Path Report:BLADDER TISSUE CHECKLIST
+Specimen type: Excision of tumor
+Tumor site: Bladder
+Tumor size: 3 x 2.5 x 5 cm
+Tumor features: Papillary
+Histologic type: Transitional cell carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Superficial muscle (inner half)
+Lymph nodes: Not specified
+Lymphatic invasion: Not specified
+Venous invasion: Absent
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+ICD-0-3
+carcinoma, urothelial, Nos
+Site: bladder, Nos
+067.9
+812013
+6/4112
+RD
+riteria
+Diagnosis Discrepancy
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Prima Noted
+ase (gircle):
+Reviewers
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED

@@ -1,0 +1,355 @@
+UUID:40F557A8-987A-422A-B28B-A11F2119EE3F
+TCGA-DK-A212-01A-PR
+Redacted
+PATHOLOGY REPORT
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Type:
+Additional Copy to:
+Patient Name:
+Med. Rec. #.
+DOB:
+Gender:
+F
+Location:
+Service: Urology
+Ref. Physician:
+Patient Address:
+Billing
+Ref. Source:
+Clinical Diagnosis & History:
+Bladder carcinoma.
+Specimens Submitted:
+1: SP: Right ureter; segemental excision
+2: SP: Left ureter, segmental excisior
+3: SP: Lymph nodes, right comon iliac; dissection
+4: SP: Lymph nodes, right pelvic; dissection
+5: SP: Lymph nodes, left common iliac; dissection
+6: SP: Lymph nodes, left pelvic; dissection
+7: SP: Bladder, uterus, bilateral tubes and ovaries, cervix; resection
+8: SP: Left ureter #2; segmental excision
+DIAGNOSIS:
+1.
+SP: Right ureter; excision
+- Benign segment of ureter.
+2.
+SP: Left ureter, excision
+-
+Segment of ureter with urothelial carcinoma in situ.
+3. SP: Lymph nodes, right comon iliac; dissection:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 4
+Number of lymph nodes with metastatic disease: 4
+Size of the largest lymph node involved by tumor: 1.7cm.
+Size of the largest metastatic focus: 1.2 cm.
+Extranodal extension is identified
+4. SP: Lymph nodes, right pelvic; dissection:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 10
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 1.7cm.
+Size of the largest metastatic focus: 1.6 cm.
+Extranodal extension is identified
+5. SP: Lymph nodes, left common iliac; dissection:
+Lymph Node Dissection:
+Page 1 of 6
+ICD-0-3
+INPATIENT
+Carcinoma, wrothelial, Nos
+812013
+Site: bladder, NUS
+0679
+Criteria
+Diagnosis Discrepancy
+لسلام
+6/24/11
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cfr. 1e):
+Reviewer Initials
+UALIFICA
+DISQUALIFIED
+Date Reviewed: M
+f 6/24/11.
+SURGICAL PATHOLOGY REPORT
+Benign lymph nodes
+Number of lymph nodes examined: 6
+6. SP: Lymph nodes, left pelvic; dissection:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 12
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 1.6cm.
+Size of the largest metastatic focus: 1.4 cm.
+Extranodal extension is identified
+7. SP: Bladder, uterus, bilateral tubes and ovaries, cervix; resection:
+Tumor Type:
+Urothelial carcinoma with mixed histologic features, includi ng: NOS, squamous and sarcomatoid features
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+CIS is extensive
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Not identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Right ureter involved
+Left ureter involved
+Urethra involved
+Vascular Invasion:
+Identified
+Perineural Invasion:
+Identified
+Surgical Margins:
+Tumor present at left ureteral margin
+Non-Neoplastic Mucosa:
+Exhibiting chronic cystitis
+Female Genital Organs:
+The vagina shows no pathologic abnormalities
+The endometrium shows atrophy
+The myometrium shows leimyomata
+Remaining genital organs are unremarkable
+Perivesical Lymph Nodes:
+LN Not involved 3
+Metastatic carcinoma present in 5 nodes
+Page 2 of 6
+8.
+SURGICAL PATHOLOGY REPORT
+Extracapsular extension is present
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+-
+SP: Left ureter #2; excision:
+· Urothelial carcinoma in situ.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT
+.
+Report Electronically Signed Out *** 1
+Gross Description:
+Olca
+1) The specimen received fresh, labeled “right ureter" and consists of 0.7x0.6x0.3 cm tan pink issue fragment. At the center, a
+ureter with 0.3 cm lumen is seen. Entirely submited for frozen section.
+Summay of sections:
+FSC-frozen section control
+Olca
+2)The specimen received fresh, labeled “left ureter" and consists of 1.2x0.5x0.3 cm tan pink issue fragment. At the center, a ureter
+with 
+0.4 
+cm lumen is seen. Entirely submited for frozen section.
+Summay of sections:
+FSC-frozen section control
+3.) The specimen is received fresh, labeled "Right common iliac lymph node" and consists of a 4.6 x 2.5 x 0.9 cm aggregate of
+adipose tissue
+, which is sectioned to reveal four, firm, ovoid, tan-pink lymph nodes, ranging from 0.6 to 2.1 cm greatest dimension.
+All 
+four 
+lymph nodes are bisected and entirely submitted.
+Summary of sections:
+BLN - bisected lymph nodes
+4. The specimen is received fresh, labeled "right pelvic lymph nodes" is a 7.0 x 4.0 x 1.7 cm aggregate of fibroadipose soft tissue
+with multiple 
+embedded lymph nodes measuring from 0.5 x 3.0 cm greatest dimension. One of the lymph nodes measuring 1.7
+cm in 
+greatest dimension has a firm cut surface. One half of this lymph node is submitted to the TPS. All identified lymph nodes
+are submitted.
+Summary of sections:
+FLN- one half of the 1.7 cm firm lymph node
+MLN1- one multisected lymph node
+MLN2-one multisected lymph node
+BLN-bisected lymph node
+LN-lymph nodes
+5. The specimen is received fresh, labeled "Left common iliac lymph nodes" and consists of a 3.1 x 1.2 x 0.4 cm aggregate of
+adipose tissue, 
+which is sectioned to reveal six, firm, irregular to ovoid, tan-pink lymph nodes, ranging from 0.4 to 1.0 cm in
+greatest 
+dimension. The largest lymph node is bisected and all lymph nodes are entirely submitted.
+Page 3 of 6
+SURGICAL PATHOLOGY REPORT
+Summary of sections:
+LN- lymph nodes
+BLN - bisected lymph node
+6. The specimen is received fresh, labeled "Left pelvic lymph nodes" and consists of an 8.1 x 4.3 x 1.1 cm aggregate of adipose
+tissue, which is sectioned to reveal 12, firm, irregular to ovoid, tan-pink lymph nodes, ranging from 0.7 to 1.7 cm in greatest
+dimension. All 12 lymph nodes are bisected and entirely submitted.
+Summary of sections:
+BLN - bisected lymph nodes
+7. The specimen is received fresh, labeled "Bladder, uterus, bilateral ovaries and tubes, cervix". It consist of a 503.0 g, Bladder,
+uterus, bilateral ovaries and tubes, cervix measuring 16.0 cm from superior to inferior, 10.5 cm laterally and 6.5 cm from anterior to
+posterior. The bladder measures 6.0 x 5.0 x 2.0 cm, the uterus measures 12.0 x 7.0 x 4.5 cm, the right ovary measures 2.5 x 1.5 x
+1.3 cm, the previously ligated right fallopian tube stumps collectively measure 5.0 cm, the left ovary measures 1.8 x 1.5 x 1.0 cm,
+and the previously ligated left fallopian tube stumps collectively measure 4.5 x 0.3 cm. The portion of vaginal cuff measures 3.0 x
+2.0 x 1.8 cm. The distal urethra and the vaginal cuff margin are shaved and submitted. The right ureteric stump measure 4.8 cm in
+length and 0.5 cm in average diameter and shows no gross lesion, the left ureter stump measures 4.5 cm in length and 0.4 cm in
+average diameter and shows no gross lesions. The specimen is inked as left - black, right-blue and the bladder is opened
+anteriorly to reveal a previously incised, 6.0 x 2.0 x 2.0 cm poorly defined, ulcerated lesion, located at the trigone, circumferentially
+engulfing both ureteral orifices, occupying a portion of the right posterior wall and slightly encroaching on the left posterior wall. On
+sectioning, the tumor extends to a depth of 1.7 cm, and 2.0 cm to extend into the perivesical fat grossly. The remaining bladder
+mucosa is congested and tan-purple. The uterus is bivalved to reveal an 8.0 x 6.0 x 0.2 cm triangular endometrial cavity containing
+a 0.1 cm thick, flat, tan-pink glistening mucosa, devoid of a grossly identifiable lesion. The trabeculated tan-pink myometrium varies
+from 0.7 to 1.0 cm in thickness and has multiple, rubbery, whorled, homogenous white whorled nodules, ranging from 0.7 to 5.9 cm
+in greatest 
+dimension. The ovaries and fallopian tubes show no gross lesions. The remaining specimen is submitted for lymph
+node dissection and any identified lymph nodes are submitted. Tissue has previously been submitted for
+(including right trigone orifice). Gross photographs are taken. Representative sections are submitted.
+Summary of sections:
+UTHM urethral margin
+RUM-right ureter margin
+LUM -left ureter margin
+L -lesion, (full thickness cut in half x2)
+RUO-right ureteric orifice with tumor
+LUO -left ureteric orifice with tumor
+LP-left posterior wall with tumor
+LA -left anterior wall
+RP-right posterior wall with tumor
+RA-right anterior wall
+TRI -trigone with tumor
+DOME -dome
+F -perivesical fat with tumor
+EMM-endomyometrium
+CX-cervix
+DVM -distal vaginal margin, shave
+RT - right tube
+RO-right ovary
+LT - left tube
+LO-left ovary
+BLN-bisected lymph node
+PLN-possible lymph nodes
+by Dr.
+8. The specimen is received in formalin labeled "left ureter" is a 1.1 cm in length by 0.4 cm in average diameter segment of an
+unoriented tubular 
+structure with surrounding fat. The specimen is serially sectioned and entirely submitted.
+Summary of sections:
+U- undesignated
+Summary of Sections:
+Page 4 of 6
+SURGICAL PATHOLOGY REPORT
+Part 1: SP: Right ureter; segemental excision (fs)
+Block
+1
+Sect. Site
+fsc
+PCs
+Part 2: SP: Left ureter, segmental excision (fs)
+Block
+1
+Sect. Site
+fsc
+PCs
+1
+Part 3: SP: Lymph nodes, right comon iliac; dissection
+Block
+4
+Sect. Site
+BLN
+PCs
+8
+Part 4: SP: Lymph nodes, right pelvic; dissection
+Block
+Sect. Site
+PCs
+3
+bln
+3
+1
+fln
+1
+1
+In
+1
+2
+2
+min1
+min2
+22
+Part 5: SP: Lymph nodes, left common iliac; dissection
+Block
+Sect. Site
+BLN
+LN
+PCs
+2
+5
+Part 6: SP: Lymph nodes, left pelvic; dissection
+Block
+12
+Sect. Site
+BLN
+PCs
+24
+Part 7: SP: Bladder, uterus, bilateral tubes and ovaries, cervix; resection
+Block
+1
+2112-5-----5113111227
+Sect. Site
+BLN
+CX
+DOME
+DVM
+PCs
+2
+12193
+EMM
+F
+1
+L
+5
+LA
+1
+LO
+1
+LP
+1
+LT
+6
+LUM
+1
+LUO
+1
+PLN
+14
+RA
+RO
+1
+RP
+3
+RT
+6
+RUM
+RUO
+TRI
+UTH
+UTHM
+1722-
+Page 5 of 6
+SURGICAL PATHOLOGY REPORT
+Part 8: SP: Left ureter #2; segmental excision
+Block
+1
+Sect. Site
+u
+PCs
+1
+Intraoperative Consultation:
+1.
+SP: Right ureter
+Benign.
+Permanent diagnosis: Same.
+2.
+SP: Left ureter
+• Carcinoma in situ.
+Permanent diagnosis: Same.
+Page 6 of 6
+END OF REPORT

@@ -1,0 +1,192 @@
+UUID:04E024F2-1D17-446A-868D-DCC2C2564103
+TCGA-FD-A3SR-01A-PR
+Redacted
+Gender: Male
+DOB: 1
+Race:
+Report Date:
+Pathology Report:
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Left pelvic lymph nodes; dissection:
+ICD-0-3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initia
+Date Reviewed:
+w 4
+/2/18
+carcinoma, unthelial, Nos
+Site:
+- Metastatic urothelial carcinoma in two of six lymph nodes (2/6).
+- The largest tumor focus measures 1.0 cm.
+- No extranodal extension present
+B. Ureter, left distal; excision:
+- Segment of ureter with high-grade urothelial carcinoma involving
+periureteral fibroadipose tissue
+C. Lymph nodes, right pelvis; dissection:
+- Metastatic urothelial carcinoma in one of ten lymph nodes (1/10)
+- Tumor focus measures 0.2 cm.
+- No extranodal extension present
+- Separate fragments of high-grade urothelial carcinoma invading
+fibromuscular tissue.
+D. Bladder, prostate, vas deferens; radical cystoprostatectomy:
+- Urothelial carcinoma of the urinary bladder, high grade, transmurally
+invasive
+into perivesical and periprostatic soft tissue and bilateral seminal
+vesicles.
+812013
+path: bladder, Nos
+:bla.
+667.9
+CQCF: bladder, wall,
+posterior
+- Extensive urothelial carcinoma in situ (flat urothelial carcinoma) in the
+urinary bladder.
+- Extensive lymphovascular invasion.
+- Soft tissue margin of resection (posterior wall) positive for carcinoma
+- Left ureter with high-grade urothelial carcinoma involving periureteral
+fibroadipose tissue.
+- Margins of resection (prostatic urethra and right ureter), no tumor
+present.
+067.4
+4-9-12 RD
+-
+See pathologic parameters.
+Prostatic adenocarcinoma, Gleason score 6 (3+3).
+- Tumor confined to the prostate gland.
+- No extraprostatic extension present.
+- Margins of resection, no tumor present.
+- Seminal versicles and vasa deferentia, no prostatic adenocarcinoma
+present.
+- High-grade prostatic intraepithelial neoplasia (PIN).
+- See pathologic parameters.
+E. Periureteral tissue, left; excision:
+- High grade urothelial carcinoma involving fibroadipose tissue.
+F. Periureteral tissue, right; excision:
+- High grade urothelial carcinoma involving fibroadipose tissue.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Flat urothelial carcinoma
+2. Grade of tumor: High grade
+3. Depth of invasion: Seminal vesicles, perivesical and periprostatic soft
+tissue
+4. Tumor distribution: Solitary (3.5 cm), involving dome, right lateral and
+posterior walls
+5. Ureteral margins: Positive (left periureteral fibroadipose tissue)
+6. Distal urethral margin: Negative
+7. Soft tissue margin: Positive
+8. Lymph nodes: Metastatic urothelial carcinoma in four of sixteen lymph nodes
+(4/16)
+9. pTNM: pT4aN2MX
+Radical Prostatectomy Pathologic Parameters
+1. Gleason Score: 6 (3+3)
+2. Perineural Invasion: Absent
+3. Tumor Location: Peripheral zone - Left
+4. Tumor Volume Estimate: Less than 1%
+5. High-grade P.I.N.: Multifocal
+6. Seminal Vesicles: Negative for prostatic adenocarcinoma
+7. Extraprostatic extension: Absent
+8. Peripheral Margin: Negative
+9. Distal (apical) Margin: Negative
+10. Proximal (basilar) Margin: Negative
+11. Regional Lymph Nodes (right and left): Negative for prostatic
+adenocarcinoma
+12. pTNM: pT2aN0MX
+Effective
+this Checklist utilizes the
+edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+XXX
+[] M.D
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [] M.D.
+Electronically Signed Out by [], M.D
+Clinical History:
+The patient is a
+cystoprostatectomy.
+ear old male with bladder cancer undergoing radical
+Specimens Received:
+A: Lymph nodes left
+B: Distal left ureter
+C: Lymph node pelvic right
+D: Bladder, prostate, vas deferens
+E: Peri ureteral tissue
+F: Peri ureteral right
+Gross Description:
+Received are six containers, each labeled with the patient's name and medical
+record number.
+A. Container A is further designated "1. Lymph nodes left." Received fresh and
+placed in formalin are multiple fragments of rubbery, yellow-tan fragments of
+fibrofatty tissue measuring 4.5 x 4 x 0.8 cm. A number of lymph node candidates
+are identified, the largest measuring 1.7 cm.
+Block Summary:
+Al: one lymph node bisected
+A2: two lymph nodes
+A3: one lymph node
+A4: one lymph node
+A5: one lymph node bisected
+B. Container B is further designated "2. Distal left ureter." Received fresh
+and placed in formalin is a triangle fragment of rubbery, tan-brown tissue
+measuring 1.2 x 2.1 x 0.4 cm. There is a stitch indicating the non-margin side.
+Opposite to the stitch is a luminal structure consistent with ureter. This non
+stitch end is shaved off thinly and submitted in cassette B1.
+C. Container C is further designated "3. Lymph node pelvic right." Received
+fresh and placed in formalin is an aggregate of yellow-tan, lobulated,
+fibroadipose tissue measuring 6.5 x 4.5 x 1 cm. A number of lymph node
+candidates are identified, the largest measuring 1.2 cm.
+Block Summary:
+C1: one lymph node bisected
+C2: four lymph nodes
+C3: four lymph nodes
+C4: one lymph node
+C5: one lymph node bisected
+D. Container D is further designated "4. Bladder, prostate, vas deferens."
+Received fresh and placed in formalin is a 386.3 grams cystoprostatectomy
+specimen that overall measures 16 x 10.5 x 4.5 cm. There is a bladder measuring
+8 x 9 x 4 cm, right ureter measuring 3 x 0.4 cm, left ureter measuring 4.5 x 0.5
+cm and prostate measuring 4.5 x 4.3 x 4 cm. The outer surface of the bladder is
+inked black. The left side of the prostate is also inked black and the right
+side of the prostate is inked blue. The specimen is opened by a Y shaped
+incision to reveal a right posterolateral eroded lesion near the dome measuring
+3.5 x 1.8 cm. The lesion has foci of white-tan fibrotic tissue around it and
+extending from the areas of erythema. No other lesions or masses are identified
+within the bladder. There are two additional segments of vas deferens measuring
+4.5 and 5.2 cm long. The specimen is serially sectioned from distal urethral
+margin to the bladder dome. The prostate contains discrete yellow-tan nodules
+with unremarkable parenchyma. The bladder is serially sectioned to reveal the
+lesion extending to a maximum depth of 1.4 cm that focally abuts the deep
+margin.
+Block Summary:
+D1: urethral margin
+D2: left ureter margin
+D3: right ureter margin
+D4-D8: representative sections of right side of prostate
+D9-D13: representative sections of left side of prostate
+D14: right seminal vesicle and vas deferens
+D15: left seminal vesicle and vas deferens
+D16: section from bladder dome
+D17: anterior wall
+D18: posterior wall
+D19: right wall
+D20: left wall
+D21: section from trigone
+D22-D32: multiple sections of the lesion and surrounding erythematous tissue
+with D28-D30 sections from deepest invasion
+E. Container E is further designated "5. Peri ureteral tissue." Received fresh
+and placed in formalin is a fragment of tan-brown to rubbery tissue measuring
+1.8 x 0.6 x 0.2 cm submitted entirely in cassette El.
+F. Container F is further designated "6. Peri ureteral right." Received fresh
+and placed in formalin is a fragment of tan-brown, rubbery fragment of tissue
+covered by a scant amount of yellow-tan adipose tissue. The specimen measures
+0.8 x 0.6 x 0.3 cm and submitted entirely in cassette F1.
+XXX
+[], M.D.

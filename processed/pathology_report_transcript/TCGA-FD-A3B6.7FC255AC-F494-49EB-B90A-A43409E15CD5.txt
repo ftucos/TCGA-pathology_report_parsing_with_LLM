@@ -1,0 +1,203 @@
+UUID:7FC255AC-F494-49EB-B90A-A43409E15CD5
+TCGA-FD-A3B6-01A-PR
+Redacted
+Criteria
+Yes
+No
+Pathology Report:
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A.
+B.
+Right pelvic lymph nodes; dissection:
+Five lymph nodes, no tumor (0/5).
+-
+Left pelvic lymph nodes, dissection:
+Ten lymph nodes, no tumor (0/10).
+-
+C. Left distal ureter; excision:
+Segment of ureter, no tumor.
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Sync'ronous Primary Noted
+Case (circle):
+Reviewer Int
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+10/21/11
+D. Bladder, prostate, seminal vesicles, and vas deferens, cystoproctatectomy:
+Invasive high grade papillary urothelial carcinoma with poorly
+differentiated pleomorphic areas and focal glandular differentiation, see
+pathologic parameters.
+E.
+Adenocarcinoma of the prostate, see pathologic parameters.
+Right distal ureter; excision:
+Segment of ureter, no tumor.
+Urothelial carcinoma Pathologic Parameters
+1. Tumor type: Invasive papillary urothelial carcinoma with poorly
+differentiated pleomorphic areas and focal glandular differentiation.
+2. Grade of tumor: High grade.
+3. Depth of invasion: Muscularis propria, outer half.
+4.
+Tumor distribution:
+and posterior wall.
+5.
+6.
+221
+Multifocal (4.1 cm largest size) at right lateral wall
+Ureteral margins: Negative for tumor.
+Distal urethral margin: Negative for tumor.
+7. Soft tissue margin or serosa: Negative for tumor.
+Lymph nodes: Negative for tumor (0/15).
+8.
+9. PTNM: pT2b, NO, MX
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Radical Prostatectomy Pathologic Parameters
+Gleason Score: 3+3=6.
+120-0-3
+carcinoma papillary
+1.
+2.
+Perineural Invasion: Present.
+wrothelial
+813013
+3.
+4.
+Tumor Location: Peripheral zone
+Tumor Volume Estimate: 5%.
+-
+right and left. Path-Site: bladder, wall, No: C67.9
+5.
+High-grade P.I.N.: Multifocal
+CQCF: bladder wall, posterior
+7.
+8.
+Seminal vesicles: Negative for tumor.
+Extraprostatic extension: Absent.
+Peripheral Margin: Negative for tumor.
+0674
+سا
+9. Distal (apical) Margin: Negative for tumor.
+10. Proximal (basilar) Margin: Negative for tumor.
+11. Regional Lymph Nodes: Negative for tumor (0/15).
+12. pTNM: PT2C, NO, MX.
+Effective.
+:) this Checklist utilizes the 7th edition TNM staging
+心
+Page 1
+10/21/4
+system for prostatectomy of the American Joint Committee on Cancer (AJCC) and
+the International Union Against Cancer (UICC).
+XX
+[], MD
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, ( ), M.D., Ph.D.
+Electronically signed out by [], MD
+clinical History:
+The patient is a -year-old male with invasive high grade papillary urothelial
+carcinoma undergoing cystoprostatectomy.
+Specimens Received:
+A: Right pelvic lymph nodes
+B: Left pelvic lymph nodes
+C: Left distal ureter
+D: Bladder, prostate, seminal vesicles, and vas deferens
+E: Right distal ureter
+Gross Description:
+The specimens are received in 5 containers, each labeled the patient's name and
+medical record number.
+Part A. is further designated "1. Right pelvic lymph nodes". It is a 4.5 by 2 x
+2 centimeter aggregate of lobulated yellow tan tissue. Dissection for lymph
+nodes reveals multiple lymph node candidates ranging from 0.8-4.5 cm in greatest
+diameter. Specimen is entirely submitted as follows:
+A1 and A2:
+A3 and A4:
+A5-A8:
+2 lymph node candidates each
+1 lymph node candidate, bisected
+One lymph node candidate, sectioned
+Part B. is further designated "2. Left pelvic lymph nodes". Received fresh and
+placed in formalin is a 5 × 3 × 2 cm aggregate of lobulated yellow-tan
+fibroadipose tissue. Sectioning for lymph nodes reveals multiple lymph node
+candidates ranging from 0.6-3.2 cm in greatest diameter. The lymph nodes are
+entirely submitted as follows:
+B1:
+B2:
+B3:
+B4:
+3 lymph node candidates
+4 lymph node candidates
+1 lymph node candidate, sectioned
+One lymph node candidate, sectioned
+B5-B6: One lymph node candidate, bisected
+B7-B8:
+one lymph node candidate, bisected
+Part C. is further designated "3. Left distal ureter". Received fresh and placed
+in formalin is an unoriented portion of ureter which is 0.9 cm long and 0.4 cm
+in diameter. The specimen is bisected and entirely submitted in c1.
+Part D. is further designated "4. Bladder, prostate, seminal vesicles, vas
+deferens". Received fresh and placed in formalin is a 338.5 g, 18.9 x 9.1 x 3.0
+cm cystoprostatectomy specimen consisting of a 9.5 x 8.5 x 3.3 cm bladder with
+attached mesenteric fat and a 5.5 x 5.5 × 3.7 cm prostate. The right seminal
+vesicles measure 3.5 x 1.1 x 1.0 cm and right vas deferens measures 8 cm. The
+left seminal vesicles measures 3.5 x 1.2 x 0.5 cm and left vas deferens measures
+6 cm. The right ureteral stump measures 1.4 cm, the left measures 2.3 cm, and
+both demonstrate intact, patent lumens.
+The right half of the prostate and bladder is inked blue and the left half is
+inked black. The bladder and prostate are opened anteriorly along the urethra.
+The prostate is surrounded by a thin, intact membranous capsule and sectioning
+demonstrates rubbery, pink-tan, peri-urethral nodularity with with a 0.8 cm area
+of induration on the right side in the third and fourth slices from the apex.
+Page 2
+There is a 0.4 cm area of induration on the left in the seventh slice from apex.
+The opened bladder reveals a 4.1 x 2.5 x 1.0 cm red-brown, hemorrhagic,
+papillary, friable mass located in the right posterior wall extending laterally.
+On cut section, the mass extends into into the muscularis propria and into the
+perivesicular fat. There is a 2.2 x 1.1 x 2 cm area of firm white-tan induration
+the perivesicular fat from the posterior to the dome. It comes within 0.1 cm of
+the inked margin. The mucosa surrounding the mass is wrinkled pink-tan and
+grossly unremarkable with a uniform 0.7 cm wall thickness. Bilateral ureteral
+orifices, adjacent to the trigone, are identified and probe patent.
+Representative sections are submitted as follows:
+D1:
+D2:
+D3:
+D4-D5:
+D6-D9:
+D10:
+D11:
+D12:
+D13-D14:
+D15:
+D16 -D28:
+D29-D36:
+D37:
+D38:
+D39-43:
+Distal prostatic urethral margin (apex)
+Right ureter resection margin
+Left ureter resection margin
+Apical prostate margin
+Bladder mass/Ulceration in posterior wall
+Uninvolved bladder mucosa bladder dome
+Uninvolved bladder mucosa anterior wall
+Uninvolved bladder mucosa left
+Right wall, bisected
+Trigone
+Representative right lobe of prostate from apex to base
+Representative left lobe of prostate submitted from apex to base
+Right vas deferens and seminal vesicles
+Left seminal vesicle and vas deferens
+Remainder of large polypoid mass
+Part E is further designated "5. Right distal ureter". Received fresh and placed
+in formalin is a 2.4 cm long by 0.4 portion of ureter. There is a clear stitch
+at one end which is not designated. The end opposite the stitch is inked blue.
+Each end of the ureter is shaved and submitted in El.
+XX
+[ ] M.D.
+Page 3

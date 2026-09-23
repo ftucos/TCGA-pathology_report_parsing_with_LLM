@@ -1,0 +1,68 @@
+UUID:85DADBA7-A561-4282-8405-9906A8D3678E
+Specimen ID
+Lab Name
+Histopathology
+Specimen Type
+Histopathology
+TCGA-ZF-AA52-01A-PR
+Redacted
+SPECIMEN
+Bladder and prostate.
+CLINICAL DETAILS
+Invasive bladder cancer.
+Specimen Comments
+Extensive desmoplastic reaction ?tumour.
+MACROSCOPY
+The
+Cystoprostatectomy weighing 375 g. The prostate measures 25x43x32 mm.
+bladder measures 55x70x65 mm. There is a ulcerated tumour at the posterior
+bladder wall. It measures 50 mm x 30 mm with a thickness of 23 mm with invasion
+of the bladder wall, but not obviously beyond into perivesical tissue.
+The
+tumour is close to the seminal vesicles and the posterior resection margin.
+MICROSCOPY
+The
+The bladder contains an ulcerated poorly-differentiated micropapillary
+transitional cell carcinoma with lymphovascular and perineural invasion.
+surface shows multinucleated giant cells amidst the granulation tissue. The
+tumour is confined to the posterior bladder wall. The tumour infiltrates beyond
+the muscularis propria of the posterior bladder wall with microscopic invasion
+of vesical fat and is 2 mm away from the deep posterior margin. The tumour has
+an accompanying fibrous response and abuts but does not invade the seminal
+vesicles or prostate. Two separate deposits of tumour are seen distant from the
+main mass, near the anterior wall.
+The flat urothelium is not dysplastic.
+See also
+for further information: both of the ureteric resections
+show no evidence of malignancy.
+The prostate shows hyperplasia and no evidence of prostatic adenocarcinoma nor
+invasion by the bladder tumour.
+SUMMARY
+The features are those of a grade 3 transitional cell carcinoma of
+micropapillary type, pT3a Nx Mx.
+Ref:
+Pathologists
+کنان
+ICD-03
+Carcinoma, urothelial NOS 8120/3
+pap
+Carcinoma, transitional cell, micro-
+papillary 813113
+Site: Bladder, posterior wall C67.4
+JN 4/30/14
+Criteria
+N 1/30/14
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initiais
+QUALIFIE
+Date Reviewed:
+DISQUALINED
+12/14
+✓

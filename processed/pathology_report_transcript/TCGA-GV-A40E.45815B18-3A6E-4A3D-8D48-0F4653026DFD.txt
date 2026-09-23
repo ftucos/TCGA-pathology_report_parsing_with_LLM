@@ -1,0 +1,100 @@
+Results
+Patient Info
+Sav
+Patient Name
+Results
+Specimen #:
+Submitting Physician:
+SURGIC
+UUID:45815B18-3A6E-4A3D-8D48-0F4653026DFD
+TCGA-GV-A40E-01A-PR
+Redacted
+DOB
+FINAL DIAGNOSIS
+1. Urinary bladder, TURB Invasive poorly differentiated urothelial
+carcinoma 
+with focal squamous differentiation.
+-
+Tumor invades muscularis propria (detrusor muscle).
+COMMENT
+Procedure: TURBT
+Histologic Type: Urothelial (transitional cell) carcinoma with squamous
+differentiation
+Associated Epithelial Lesions: None identified
+Histologic Grade (Urothelial Carcinoma (WHO
+Adenocarcinoma and Squamous Cell Carcinoma: N/A
+Tumor Configuration: Solid/nodule
+)): High-grade
+Adequacy of Material for Determining Muscularis Propria Invasion:
+Muscularis propria 
+(detrusor muscle) present
+Lymph-Vascular Invasion: Indeterminate
+Microscopic Extent of Tumor: Tumor invades muscularis propria (detrusor
+muscle)
+Additional Pathologic Findings:
+-
+Cautery artifact
+-
+Necrosis
+(Electronic Signature)
+SPECIMEN SUBMITTED
+A: BLADDER TUMOR
+CLINICAL DATA
+BLADDER CA
+ICD-0-3
+Carcinoma, urothelial, NOS
+812013
+Site: bladder, NOS
+067.9
+7-5-12
+RD
+GROSS DESCRIPTION
+A. Received fresh labeled "bladder tumor" are multiple fragments of
+tan-pink 
+rubbery soft tissue aggregating to 4.6 x 3.4 x 1.8 cm, and
+weighing 8.1 
+grams. The specimen is totally submitted in formalin in
+cassettes A1-A6.
+Criteria
+Clagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (chicle):
+Reviewe initials
+Mb
+QUALIFIE
+Date Reviewed:
+Yes
+DISQUALIFIED
+No
+619-12 120/12
+Patient ID #:
+DOB:
+Date of Report:
+(Age:
+1
+Date of Procedure:
+Date of Receipt:
+Submitted by:
+Location: 1
+Test performed by:
+Lab and Collection
+SURGICAL PATHOLOGY (Order:
+Result History
+SURGICAL PATHOLOGY (Orde
+Result Information
+Result Date and Time
+MyChart Status:
+This result is currently released to
+Display Full Result Report
+Status
+Final result
+Encounter Date:
+Lab and Collection Information
+Order Result History Report.
+Display Order Report
+Provider Status
+Reviewed
+Page 2 of 2

@@ -1,0 +1,122 @@
+UUID:6ED3ACF0-57B3-4E7C-92DF-EA92499CA9CD
+TCGA-DK-AA6W-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #•
+SURGICAL PATHOLOGY REPORT
+* Addendum *
+Accession #:
+Location:
+DOB: (Age:
+Gender:
+M
+Service: Urology
+Ref. Physician: .
+Patient Address:
+Ref. Source:
+Clinical Diagnosis & History:
+Hx HGT1 + CIS, s/p BCG; now with (+) cytology
+Specimens Submitted:
+1: Left lateral bladder wall
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+DIAGNOSIS:
+1. Left lateral bladder wall:
+Tumor Type:
+Invasive urothelial carcinoma with focal glandular and basaloid/squamoid features
+Histologic Grade:
+High grade
+Per TSS, TCGA tumor is pure urothelial
+Pattern of growth of the non-invasive component:
+No in situ carcinoma
+Local Invasion:
+Muscularis propria
+Vascular Invasion:
+Not identified
+ICD.O.3
+Car, urothelial NOS 812013
+Site. Bladder, lateral wall C67.2
+JJ 4/30/14
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Procedures/Addenda:
+Addendum
+***
+Report Electronically Signed Out*
+Date Ordered:
+Date Complete:
+Date Reported:
+***
+Status: Signed Out
+Addendum Diagnosis
+1. Left lateral bladder wall:
+The tumor has mixed histologic features. By immunostains, staining heterogeneity was present in the following markers: CK7,
+CK20, GATA3, HMWK (34be12), p63/4A4 and CD117. Strong staining with p16 and focal synaptophysin was present. The tumor
+was negative for chromogranin, PAX8, racemase, calponin, ERG and S100. There were focal areas of faint PSA and PSMA
+labeling, which might suggest prostatic differentiation, but their true significance is not clear as the tumor is showing more
+convincing differentiation along the urothelial phenotype. This case was discussed at the
+Some of the immunohistochemistry and ISH tests were developed and their performance characteristics were determined by the Department of Pathology. They have not been cleared or approved
+by the US Food and Drug Administration. The FDA has determined that such clearance or approval is not necessary. These tests are used for clinical purposes. They should not be regarded as
+investigational or for research. This laboratory is certified under Clinical Laboratory Improvement Amendments of 1988 (CLIA '88) as qualified to perform high complexity clinical laboratory testing.
+Page 1 of 2
+SURGICAL PATHOLOGY REPORT
+***
+Report Electronically Signed Out ***
+Signed out by
+Gross Description:
+1) The specimen is received in
+labeled "left lateral bladder wall", and consists of multiple pieces of tan soft tissue
+measuring 2.5 x 2.5 x 1.5 cm in aggregate. The specimen is entirely submitted in three cassettes. Summary of sections:
+Summary of Sections:
+Part 1: Left lateral bladder wall
+Blocks Block Designation
+PCs
+3
+27
+Special Studies:
+Result
+Special Stain
+CK7
+Comment
+4A4/P63
+CK20
+34BE12
+PSA
+PSMA
+P16.
+SYN
+CHR
+PAX8.
+VIMEN
+IMM RECUT
+NEGATIVE.
+RACEMASE
+ERG.
+HPV III FAMILY
+CD117
+$100
+CALP
+PSA
+Page 2 of 2
+BCG > 90 days
+to tumor
+procurement.
+Criteria
+Diagnosis Discrepancy
+two
+w 2/13/14 Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History bladd
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: BU15
+END OF REPORT
+No

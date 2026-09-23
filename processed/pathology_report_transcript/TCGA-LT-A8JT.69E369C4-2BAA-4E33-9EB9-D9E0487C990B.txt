@@ -1,0 +1,162 @@
+Patient:
+Med. Record. No.:
+Age:
+Date of Birth:
+Sex:
+F
+Submitted by:
+Report also to:
+DIAGNOSIS:
+SPECIMEN
+Pathology Report
+UUID:69E369C4-2BAA-4E33-9EB9-D9E0487C990B
+TCGA-LT-A8JT-01A-PR
+Redacted
+Pathology #:
+Date of Procedure:
+Date Received:
+ICD-O-3
+Carcinoma, utelial
+papillary
+813013
+Site Bladder NOS C679
+Bladder wall NOS C629
+31/29/14
+Urinary bladder, cystectomy
+bath
+TUMOR
+Histologic type:
+Urothelial (transitional cell) carcinoma
+Histologic grade:
+High grade
+Tumor size (greatest dimension):
+2.2cm
+Tumor configuration:
+Papillary
+Tumor location:
+right and left walls
+Extent of invasion:
+Invasion into muscularis propria (detrusor muscle)
+(inner half)
+Direct invasion of other organs/structures:
+Venous/lymphatic invasion: Absent
+None identified
+Associated epithelial lesions: None identified
+MARGINS
+All margins negative for malignancy
+Nearest margin: Perivesical soft tissue margin
+Distance to nearest margin: 5cm
+Comment: Right and left ureter margins (specimens A and B) are benign
+LYMPH NODES
+All sampled lymph nodes are benign
+Total number of nodes evaluated:
+Comment:
+Lymph node dissections include:
+C right obturator (5 benign nodes)
+D right paracaval (1 benign node)
+38
+E right common iliac (adipose only, no lymphoid tissue)
+F - left external iliac (8 benign nodes)
+G left obturator (7 benign nodes)
+H - right external iliac (3 benign nodes)
+1 - left common iliac (3 benign nodes)
+J - left para-aortic (2 benign nodes)
+K - perivesical (5 benign nodes)
+Pathology Report
+Page 1 of 3
+Patient:
+L-sacral (4 benign nodes)
+STAGING (AJCC)
+Primary Tumor:
+Lymph Nodes:
+pT2a
+PNO
+Cannot be assessed
+Distant Metastasis:
+MRN:
+CLINICAL INFORMATION:
+Bladder cancer
+SPECIMEN(S) RECEIVED:
+A. Right distal ureter
+B. Left distal ureter
+C. Right obturator
+D. Right paracaval
+E. Right common iliac
+F. Left external iliac
+G. Left obturator
+H. Right external iliac lymph nodes
+1. Left common iliac
+J. Left para-aortic
+K. Bladder
+L. Sacral nodes
+GROSS DESCRIPTION:
+A. Received fresh is a segment of ureter measuring 8 mm in diameter x 5 mm in thickness. Entirely submitted for
+frozen section. The frozen section remnant is submitted for permanent sections in A1.
+FROZEN SECTION DIAGNOSIS: Benign ureter margin. Reported to
+by
+intraoperatively at
+B. Received fresh is a segment of ureter measuring 8 mm in diameter x 5 mm in length. Entirely submitted for
+frozen section. The frozen section remnant is submitted for permanent sections in B1.
+FROZEN SECTION DIAGNOSIS: Benign ureter margin. Reported to
+y
+intraoperatively at
+C. Received in formalin is an 8.0 x 4.2 x 2.0 cm irregular piece of adipose tissue containing multiple partially
+fat-replaced lymph nodes ranging from several millimeters up to 4.8 x 2.0 x 1.2 cm. Sections: C1 - multiple small
+nodes, intact; C2 1- one lymph node; C3-C8 - one lymph node.
+D. Received in formalin is a 4.5 x 2.0 x 0.9 cm piece of adipose tissue containing a single 3.0 x 1.0 x 0.6 cm lymph
+node. The node is sectioned and entirely submitted in D1 and D2.
+E. Received in formalin is a 2.5 x 2.5 x 0.9 cm aggregate of adipose tissue containing several prominent vessels.
+No distinct lymph nodes are identified. Entirely submitted in E1 and E2.
+F. Received in formalin is a 4.5 x 4.0 x 1.5 cm aggregate of adipose tissue containing multiple lymph nodes
+ranging from several millimeters up to 2.2 x 1.4 x 0.8 cm. Sections: F1 - two smallest nodes, intact; F2 - one
+lymph node; F3 - one lymph node; F4 - one lymph node; F5 - -one lymph node; F6 – one lymph node; F7 - one
+lymph node.
+-
+G. Received in formalin is a 5.0 x 3.5 x 1.5 cm aggregate of adipose tissue containing multiple lymph nodes
+ranging from several millimeters up to 4.3 x 1.5 x 0.7 cm. Sections: G1,G2 - smallest nodes, intact; G3-G5 -
+largest lymph node.
+H. Received in formalin is a 3.7 x 3.0 x 0.9 cm aggregate of adipose tissue containing several small lymph nodes
+measuring up to 0.7 x 0.6 x 0.4 cm. All nodular tissue is submitted in H1.
+I. Received in formalin is a 3.5 x 3.3 × 1.0 cm aggregate of adipose tissue containing several lymph nodes ranging
+from 0.7 x 0.5 x 0.2 cm up to 1.3 x 1.2 x 0.8 cm. Sections: 11 - smallest nodes, intact; 12 – one lymph node,
+bisected.
+Pathology Report
+Page 2 of 3
+Patient:
+MRN:
+J. Received in formalin is a 2.5 x 2.2 x 0.5 cm aggregate of adipose tissue containing two probable lymph nodes
+measuring 0.3 x 0.2 x 0.2 cm and 0.9 x 0.8 x 0.3 cm. Submitted intact in J1.
+K. Received fresh is a radical cystectomy specimen with 10.0 x 6.5 x 5.2 cm bladder surrounded by perivesical
+adipose tissue ranging from 0.7 to 3.2 cm in thickness. The urethra measures 5.0 cm in length x 1.7 cm in
+diameter. Overlying the posterior surface of the urethra is a strip of vaginal mucosa measuring 8.0 cm in length x
+3.5 cm in width. The opened bladder displays a 4.0 x 2.5 cm ulcer on the right side. Multifocal residual papillary
+tumor is noted adjacent to the ulcer. Sections reveal fibrosis and hemorrhage of the bowel wall with no
+macroscopic tumor invasion. On the left anterior surface, in the region of the trigone, is a 2.2 x 2.2 x 1.1 cm
+circumscribed, papillary mass with only superficial invasion into the mucosa. On the posterior surface is a 0.7 x
+0.7x 0.1 cm small red papillary focus. The remaining bladder mucosa is faintly bosselated and pink. Sectioning
+through the perivesical adipose tissue reveals 4 probable lymph nodes. Tumor and normal tissue are obtained for
+the (
+per protocol. Sections: K1 - right posterior bladder; K2 – right lateral; K3 – right
+anterior; K4 - mid anterior; K5, K6 - papillary mass, left anterior; K7 - small papillary lesion, posterior; K8 - bladder
+dome; K9, K10 - right and left urethral margin and K11 - lymph nodes. A mapping diagram is utilized.
+L. Received in formalin is a 2.5 x 1.7 x 0.9 cm aggregate of adipose tissue containing several 0.2 to 0.6 cm lymph
+nodes. All nodular tissue is submitted in L1.
+Slides were microscopically examined by the pathologist.
+Evaluation performed by
+“Electronically signed
+C
+Pathology Report
+Criteria
+w 8/2/13
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary
+Case is (circie):
+Reviewer Initials"
+QUALIFIER / DISQUALIFIED
+Date Reviewed: 2013
+Page 3 of 3

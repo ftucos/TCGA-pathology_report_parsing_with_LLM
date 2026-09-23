@@ -1,0 +1,96 @@
+UUID:0E633883-3C48-4D53-87BF-EFE0BDF73DED
+TCGA-YC-A89H-01A-PR
+Redacted
+Research Gross Description
+year-old female, bladder cancer, not previously treated
+Research Dx
+Invasive high grade urothelial carcinoma.
+ICDO-3
+Carcinoma), urothelial NOS
+8/2013
+°C67.9
+Suite Bladdar NOS,
+JN 11/22/13
+ههه
+CASE SUMMARY FOR URINARY BLADDER BIOPSY AND TRANSURETHRAL RESECTION OF
+BLADDER TUMOR (TURBT):
+50% squamous, per TSS.
+Все
+Histologic type: Urothelial carcinoma with squamous differentiation
+Associated epithelial lesions: None identified
+Histologic grade (WHO/ISUP): High grade
+Tumor configuration: Indeterminate
+Adequacy of material for determining muscularis propria invasion: Muscularis propria identified
+Lymphovascular invasion: Not identified
+Microscopic extent of tumor: Tumor invades muscularis propria.
+Additional pathologic findings: None identified
+AJCC Staging (7th edition): pT2 pNX pM:Not applicable
+Research QC
+Tumor 1:
+50% tumor nuclei
+0% necrosis
+50% normal
+this is very cauterized
+T2
+75% tumor nuclei
+5% necrosis
+20% normal
+50% squamous differentiation
+T3
+there are 2 pieces, one is 50% tumor/50% normal; the other is entirely nonneoplastic
+% tumor nuclei
+% necrosis
+_ % normal
+T4
+30% tumor nuclei
+0% necrosis
+70% normal
+Normal:
+na
+Research Specimen
+Specimen Process Time
+Blood draw time:
+1
+Plasma frozen time
+Serum frozen time:
+Buffy coat frozen time:
+Tissue:
+Cold ischemia start time:
+Formalin fixation start time:
+Frozen start time
+Total cold ischemia time
+Formalin fixation stop time:
+Total formalin fixation time:
+Specimen Weight
+Tumor x 41. 480 mg 2. 430 mg 3. 440 mg 4. 490 mg
+Specimen Size
+Plasma x 3
+Serum x 2
+Buffy coat x 1
+Cryovials x 4
+Normal x 0
+Tumor x 41. 480 mg 2. 430 mg 3. 440 mg 4. 490 mg
+Metastatic x0
+FFPE x 4
+Normal x 0
+Tumor x 4
+Metastatic x0
+Study
+Patient Consent
+Yes
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Pier Malignancy Histor
+Gual/Synchronous Primary rated
+Case is (circle):
+Reviewer Initials
+QUALLED
+10/24/15
+Yes
+Date Reviewed:
+DISCH 150
+2713
+No
+2

@@ -1,0 +1,62 @@
+UUID:07E6E6FB-7E6B-4439-937A-9D479EFC7515
+TCGA-4Z-AA7W-01A-PR
+Collect date:
+ICD-0-3
+Carcinoma, wrotkilial NOS
+CACE
+Redacted
+Bath
+8/2013
+arcinoma, transitional cell Nos
+Site: Bladder lateral wall
+path
+Bladder NOS,
+C67.2
+PATHOLOGY REPORT:
+C67.9
+A 3/18/14
+(MM/DD/YYYY)
+PRIMARY SITE: Bladder
+1 "Left Ureter."
+-
+Absence of neoplasia.
+2 "Right Ureter."
+-
+Absence of neoplasia
+3- "Bladder + prostate ".
+-
+Bladder:
+- Urothelial high grade carcinoma.
+-
+Size: 3.0 x 2.0 x 1.5 cm
+· Invasion reaching the muscular layer of the bladder.
+- Angiolymphatic and perineural invasions: not detected.
+Prostate presenting miofibroepitelial hyperplasia.
+- Surgical margins uninvolved by neoplasia.
+4- "Left lymphadenectomy."
+-
+· Presence of 10 lymph nodes uninvolved by neoplasia (0/10).
+5 "Right lymphadenectomy."
+-
+· Presence of 6 lymph nodes uninvolved by neoplasia (0/6).
+Topography: bladder, NOS
+Morphology: transitional cell carcinoma, NOS
+Staging: pT2b pNO
+Criteria
+Correct
+Date Confirmed
+Diagnosis Discrepancy
+1/24/14
+12/20/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted.
+Case is (circle):
+Reviewer Initials
+Yes
+No
+✓
+✓
+Date Reviewed: 1/24/14
+QUALIFIED DISQUALIFIED

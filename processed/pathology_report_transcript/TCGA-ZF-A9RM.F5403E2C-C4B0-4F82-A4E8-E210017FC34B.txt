@@ -1,0 +1,54 @@
+SPECIMEN
+Bladder tumour
+CLINICAL DETAILS
+New bladder tumour
+? high grade
+Part solid part papillary
+Adjacent to but not involving RUO
+MACROSCOPY
+8g of soft friable tissue chippings
+MICROSCOPY
+Grade:
+06CE
+Rath
+ICD-03
+Carcinoma, urothelial Nos 8120/3
+"Carcinoma, transitional cell NOS 812013
+Suite: Bladder NOS C67.9
+до
+7 5/2/14
+UUID:F5403E2C-C4B0-4F82-A4E8-E210017FC34B
+Redacted
+3 poorly differentiated (there is also a grade 2 papillary component)
+Growth pattern:
+Mixed papillary and solid
+Type:
+Transitional cell carcinoma
+Muscularis propria:
+Present
+Stromal invasion:
+TCGA-ZF-A9RM-01A-PR
+Invasion of muscularis propria (pT2), (probable, with bulky lamina propria
+invasion)
+Vascular channel invasion:
+Not identified
+Background urothelium:
+Carcinoma in-situ is present in flat urothelium
+SUMMARY
+Bladder; Transitional Cell Carcinoma G3 pT2
+Pathologists -
+DR
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+1/10/14
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED

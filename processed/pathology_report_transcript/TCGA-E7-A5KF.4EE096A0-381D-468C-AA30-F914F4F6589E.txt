@@ -1,0 +1,45 @@
+UUID:4EE096A0-381D-468C-AA30-F914F4F6589E
+TCGA-E7-A5KF-01A-PR
+Redacted
+Gross Description: In bladder, there are an invasive and protruded tumor, ill - margins with 2.5x2x2cm
+in size, soft and gray surface.
+Microscopic Description: Transitional cells are hyperplastic. Tumor cells arrange to form pappillary or
+trabeculae one by one. Tumor cells have moderate and eosinophilic cytoplasm. Nuclei are enlarged and
+varriability in shape and size, fairly irregular nuclear membranes, nucleoli and abnormal chromatin
+patterns. Mitoses are present. Tumor invades in superficial muscularis propria.
+Diagnosis Details: Infiltrating urothelial carcinoma, low-grade, infiltrating superficial muscularis propria
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Cystectomy
+Tumor site: Bladder
+Tumor size: 2.5 x 2 x 2 cm
+Tumor features: None specified
+Histologic type: Transitional cell carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Superficial muscle (inner half)
+Lymph nodes: Not specified
+Lymphatic invasion: Absent
+Venous invasion: Not specified
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+ICD-6-3
+Carcinoma, transitional
+Cell NOS 8/2013
+Site: Bladder NOS C67.9
+J 2/1/13
+Criteria
+Diagnosis Discrepancy
+for 1/31/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (drcle):
+Reviewer itials
+QUALIFIED
+ewed:
+Yes
+DISQUALIFIED
+1/31/13

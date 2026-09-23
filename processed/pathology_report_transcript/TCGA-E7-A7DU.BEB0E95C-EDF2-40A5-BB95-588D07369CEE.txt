@@ -1,0 +1,67 @@
+TSS Patient ID:
+UUID: BEBOE95C-EDF2-40A5-BB95-588D07369CEE
+TCGA-E7-A7DU-01A-PR
+Redacted
+Surgical Date:
+Gross Description: 1. Bladder tumor fragments endoscopy recovered with histologic aspect of papillary
+urothelial carcinoma well/moderate differentiated G1/G2 (low-grade), areas of squamous metaplasia,
+ulcerated, nectrotic, stpT1 (at least).
+2. Piece of cystoprostatectomy presenting the urinary bladder with a vegetative tumoral proliferation,
+developed on trigone, retro-trigone and left wall level, with intramural evolution, peri-OUS, large
+implanting base and invasive in the whole wall.
+Histopathological aspect of infiltrative urothelial cell carcinoma, well/moderately differentiated, G1/G2
+(low-grade), with areas of squamous metaplasia, ulcerated, necrotic, intramural evolution and invasion
+of the entire bladder wall; stpT3. Prostate and seminal vesicles with histological structure preserved.
+3.Right ilio-obturator group of 8 (eight) lymph nodes of maximum 1.3 cm in dimensions, with reactive
+aspect, congestion and sclera-lipomatous dystrophy
+4. Left ilio-obturator group of 6 (six) lymph nodes of maximum 1.5 cm with reactive aspect, congestion
+and sclero-lipomatous dystrophy.
+5-6. left and right ureter with preserved histological aspect.
+Microscopic Description:
+Diagnosis Details: CONCLUSION:
+Papillary urothelial cell carcinoma of the bladder, well/moderate differentiated, G1/G2, (low-grade) with
+areas of squamous metaplasia, stpT3, pNo, pMx (stage III).
+CSCF
+ICD-0.3
+Caremima, urothelial NOS
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+patt
+Specimen type: Cystectomy
+Tumor site: Bladder
+cell
+812013
+Manational
+"Carmona, papillary 8130/3
+Site Bladder, trigone,
+2670
+Tumor size: 4x4 cm
+Tumor features: Ulcerated
+Histologic type: Transitional cell carcinoma, papillary
+Histologic grade: Moderately to well differentiated
+Это
+- 9/4/13
+Tumor extent: Perivesical tissue (microscopic)
+Lymph nodes: 0/14 positive for metastasis (Regional 0/14)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (cie)
+Reviewer
+8/21/13
+QUALIFIED
+Date viewed:
+Yes
+DISQUALIFIED
+No
+✓
+8/2/153

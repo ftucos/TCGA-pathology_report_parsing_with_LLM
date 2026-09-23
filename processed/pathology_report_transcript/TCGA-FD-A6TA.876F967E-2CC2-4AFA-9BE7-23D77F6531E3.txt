@@ -1,0 +1,283 @@
+ICD-0-3
+Carcinoma papillary
+urothelial 813013
+Site natural wall & Wads
+Sample #
+Gender: Male
+DOB:
+Race: white
+Report Date:
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right pelvic lymph nodes:
+-
+8067.2
+path,
+Bladder NOS
+067.9
+One of seven lymph nodes with metastatic urothelial carcinoma (1/7;
+non-frozen node).
+-
+B.
+C.
+D.
+E.
+One focus of urothelial carcinoma in perinodal fibroadipose tissue.
+Left 
+pelvic lymph nodes:
+-
+One lymph node with metastatic urothelial carcinoma (1/1).
+Right pelvic lymph nodes:
+Two of five lymph nodes with metastatic urothelial carcinoma (2/5).
+Left 
+pelvic 
+lymph nodes:
+Two of fourteen lymph nodes with metastatic urothelial carcinoma (2/14).
+Bladder, prostate, cystoprostatectomy:
+Papillary urothelial carcinoma, high-grade, invasive of extravesicular
+soft tissue.
+Prostatic adenocarcinoma.
+See parameters below
+F. Right distal ureter:
+Ureter, no evidence of tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Papillary urothelial carcinoma
+2.
+Grade of tumor: High grade
+UUID:876F967E-2CC2-4AFA-9BE7-23D77F6531E3
+TCGA-FD-A6TA-01A-PR
+Redacted
+3. Depth of invasion: Extravesicular soft adipose tissue (A5, E15)
+Tumor 
+distribution:
+4.
+Multifocal, 6 x 3 x 2 cm largest size
+dome
+right lateral wall
+left lateral wall
+trigone
+anterior wall
+posterior wall
+Extensive vascular invasion
+5.
+Ureteral Margins: Negative
+6. Distal urethral margin: Negative
+7. Lymph nodes: Six of 27 (6/27) lymph nodes with metastatic carcinoma
+8. pTNM: pT3b
+, N2, MX
+Radical Prostatectomy Pathologic Parameters
+1. Gleason Score: 3+3
+2. Perineural Invasion:
+3. Tumor Location:
+Absent
+right and left
+Peripheral zone
+4. Tumor Volume Estimate: 20%
+5. High-grade P.I.N.: Focal
+6. Seminal vesicles: Negative for tumor
+7. Fibromuscular Capsule: Tumor confined to the prostate.
+8. Peripheral Margin: Negative for tumor
+9. Distal (apical) Margin: Negative for tumor
+10. Proximal (basilar) Margin: Negative for tumor
+11.
+12.
+Regional Lymph Nodes (right and left): Negative for tumor
+pTNM: pT2c, NO, MX
+Page 1
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident or Fellow.
+Electronically signed out by
+Clinical History:
+The patient is a
+year-old male with history of bladder cancer who undergoes
+radical cystectomy and ONB.
+Specimens Received:
+A: Right pelvic lymph node
+B: Left Pelvic Lymph Node
+C: Rt. Pelvic Lymph Node
+D: Left pelvic lymph node
+E: Bladder, prostate, vas deferense
+F: Right Distal Ureter
+Gross Description:
+Received are six containers bearing the patient's name and medical record
+number.
+A.
+The first container is additionally labeled "right pelvic lymph node".
+Received fresh for intraoperative diagnosis is a 4 x 4 x 2 cm aggregate of
+yellow, lobulated fibroadipose tissue. The firmest 
+lymph node is frozen 
+and
+read as "lymph node, no tumor" by Dr. ( ). 
+Additionally identified are seven
+lymph nodes ranging in size from 0.3-2.0 cm in greatest 
+dimension.
+Representative sections are submitted as 
+follows:
+A1FS:
+frozen section remnant
+four lymph nodes
+one lymph node
+A2:
+A3:
+A4:
+A5:
+one lymph node
+B.
+one matted lymph node, quadrisected
+The second container is additionally labeled "left pelvic lymph node".
+Received fresh for intraoperative diagnosis is a 1.5 cm yellow
+-tan nodule
+It is bisected
+, frozen and read as
+grossly consistent with lymph node.
+metastatic urothelial carcinoma" by Dr. ( ). It is entirely submitted in
+cassette B1FS.
+c. The third container is additionally labeled "right pelvic lymph node".
+Received fresh is a 5 × 3 × 1 cm aggregate of yellow, 
+lobulated 
+fibroadipose
+tissue. Identified are five lymph node candidates ranging in 
+size from 
+0.5-2.0
+cm in greatest dimension. Representative sections 
+are submitted as follows:
+c1:
+two lymph nodes
+C2:
+C3:
+D.
+two lymph nodes
+one lymph node
+The fourth container is additionally labeled "left pelvic lymph node".
+Received fresh and placed in formalin is a 6 x 4 × 1 cm aggregate of yellow,
+lobulated fibroadipose tissue. Identified are 15 lymph node candidates ranging
+in size from 0.2-2.5 cm in greatest dimension. Representative 
+sections are
+submitted as follows:
+D1:
+D2:
+D3:
+four lymph nodes
+two lymph nodes
+three lymph nodes
+D4:
+three lymph nodes
+D5:
+one lymph node, bisected
+D6:
+one lymph node, bisected
+Page 2
+D7:
+one lymph node, bisected
+E. The fifth container is additionally labeled "bladder, prostate, vas
+deferens". 
+Received fresh and placed in formalin is a 14 x 5.9 x 4 cm
+cystoprostatectomy specimen 
+with attached mesenteric fat.
+5 x 4 x 3.5 cm.
+The prostate measures
+The left seminal vesicle measures 2.5 x 1 cm and the left vas
+deferens 2.5 x 0.5 cm. The right seminal vesicle measures 4 x 1.5 cm and the
+right vas deferens 3 
+× 0.5 cm. The right half of the prostate is inked blue and
+the left half is inked 
+black. The bladder measures 6 x 6 x 8 cm. The right and
+left ureteral 
+stumps measure 2 x 0.4 cm and 2.4 x 0.6 cm, respectively. The
+anterior and posterior surfaces of 
+the bladder are inked black. The bladder is
+opened 
+anteriorly along the urethra using a Y-shaped incision and reveals
+tan-brown, glistening, wrinkled mucosa over the dome. The remainder of the
+bladder 
+demonstrates a firm, white-tan, poorly circumscribed, irregularly
+shaped, granular, friable mass. It is grossly based on the anterior wall but
+extends around the lateral walls to the posterior wall in an almost
+circumferential manner. It measures 6 x 3 x 2 cm. There are also two 0.3-0.5
+cm, 
+circular, raised, white-tan plaques on the dome. The prostate and bladder
+are 
+serially sectioned. The largest mass grossly invades through the right and
+left lateral walls 
+of the bladder to a maximum depth of 2.1 cm. It is apparent
+at the inked margins of the right and left 
+lateral walls. The mass also invades
+through the posterior 
+wall, inferiorly at the trigone to a depth of 0.7 cm, 1 cm
+away from the 
+nearest black inked margin. Multiple phleboliths are identified.
+Also received is a 6 x 4 x 3 cm aggregate of yellow, lobulated fibroadipose
+tissue that is 
+detached from the main specimen. Identified is one firm nodule
+measuring 2 cm 
+in greatest dimension. It is bisected to reveal a nodular,
+well-
+circumscribed, white-yellow mass. Representative sections are submitted as
+follows:
+E1:
+E2:
+E3:
+E5:
+E6:
+E7:
+E8:
+E9:
+E10:
+E11:
+distal urethral margin
+left ureteral_margin
+right ureteral margin E4:
+small plaque and adjacent normal dome
+larger plaque and adjacent normal dome
+normal anterior wall and normal posterior wall, posterior inked black
+trigone, 
+posterior wall
+left lateral/anterior wall
+right lateral/anterior wall
+left wall and prostate
+E12, E13:
+E14:
+E15, E16:
+E17, E18:
+E19
+right wall and prostate
+representative prostate
+representative bilateral seminal vesicles and vasa deferentia
+extravesicular nodule bisected
+left ureteral margin candidates
+left ureteral margin candidate
+Please note E8 is decalcified due to calcific vessels.
+photographs are taken.
+Please note gross
+F. The sixth container is additionally labeled "right distal ureter stitch on
+non-margin side". Received 
+fresh and placed in formalin is a 0.5 cm tubular
+structure with 
+an external diameter of 0.4 cm and a pinpoint lumen. A stitch is
+identified at the non-margin 
+side. The margin side is removed and submitted
+face down in 
+cassette Fl. The remainder is serially sectioned and entirely
+submitted in cassette 
+F2.
+Intraoperative Consult Diagnosis:
+A1FS.
+B1FS.
+Right pelvic lymph node: Lymph node, no tumor.
+Left pelvic lymph node: Metastatic urothelial carcinoma.
+Page 3
+hi 7/10/12
+Yes
+flo
+Diteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+1IPAA Discrepar.cy
+nior Malignancy! History
+Jual/Schronou. Primary Noted Prostate ✓
+Case is (circle)
+Reviewer Initials
+QUALIFIED
+Date viewed:
+DISQUALIFIED
+ג

@@ -1,0 +1,120 @@
+UUID:F93869FD-9F81-4BB1-B0A4-489E5293C31F
+TCGA-E7-A97P-01A-PR
+Redacted
+TSS Patient ID:
+Surgical Date:
+Gross Description: In bladder, it is invasive and protruded masse, ill - margins with 5x4x4cm in size,
+soft and gray surface.
+Microscopic Description: Tumor cells are hyperplastic to form nest or groups or cords or tubules. Tumor
+cells have moderate and eosinophilic or clear cytoplasm. Nuclei are very enlarged and varriability in
+shape and size, irregular nuclear membranes, nucleoli and abnormal chromatin patterns. Mitoses are
+present. Tumor invades in muscle propria or nerves.
+Diagnosis Details: Infiltrating urothelial carcinoma, high-grade, infiltrating muscularis propria
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Cystectomy
+Tumor site: Bladder
+(Per TSS, site is bladdw well.)
+Tumor size: 5 x 4 x 4 cm
+Tumor features: None specified
+CELE
+Histologic type: Transitional cell carcinoma
+Histologic grade: Poorly differentiated
+path
+Tumor extent: Muscularis propria
+ICD0-3
+Carcinoma, urothelial NOS
+812013
+Carcinoma, transitional all NOS
+8/2013
+0679
+Date Bladder wall NOS
+4/7/14
+Lymph nodes: Not specified
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: No
+Additional pathologic findings: Extracapsular extension: present, focal
+Comments: None
+Tumor site determined by TSS to be
+bladder wall. Se dx discrepancy
+Criteria
+Tw 1/6/14
+вил
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (tircle):
+Reviewer
+вост
+Yes
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+Nof
+✓
++
+✓
+TCGA Pathologic Diagnosis Discrepancy Form
+V4.00
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+Tissue Source Site (TSS):
+Completed By (Interviewer Name o
+Diagnosis Information
+_TSS Identifier: _
+#
+1
+Data Element
+Pathologic Diagnosis
+Provided on Initial
+Pathology Report
+Histologic features of
+the sample provided
+2
+for TCGA, as reflected
+on the CQCF.
+Entry Alternatives
+Transitional cell
+carcinoma
+_ TSS Unique Patient Identifier:
+_Completed Date:
+Working Instructions
+Provide the diagnosis/ histologic subtype(s) documented on
+the initial pathology report for this case. If the histology for
+this case is mixed, provide all listed subtypes.
+Provide the histologic features selected on the TCGA Case
+Muscle invasive Quality Control Form completed for this case.
+|Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for
+3
+the discrepancy
+Specific location of
+Provide a reason describing why the diagnosis on the initial
+pathology report for this case is not consistent with the
+diagnosis selected on the TCGA Case Quality Control Form.
+between the pathology tumor within the bladder
+report and the TCGA
+Case Quality Control
+Form.
+was not given in path
+veport, but was given
+on CQCF with the tumor
+laring located on the
+wall of the bladder.
+Pathologist or
+Name of TSS Reviewing
+4
+Biorepository Director
+Provide the name of the pathologist who reviewed this case
+for TCGA.
+I acknowledge that the above information provided k.. · my institution is true and correct and has been quality controlled.
+TSS Reviewing Pathologist or Biorepository Director
+Date
+I acknowledge that the above information provided by my Institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+Principal Investigator Signature
+Date

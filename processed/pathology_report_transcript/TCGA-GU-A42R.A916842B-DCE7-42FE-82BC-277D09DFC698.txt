@@ -1,0 +1,223 @@
+Results
+Patient Information
+Patient Name
+Result Information
+Status
+Edited
+Entry Date
+Component Results
+Component
+Surgical Pathology
+MRN
+BIOPSY OR SURGICAL SPECIMEN
+Provider Status
+Reviewed
+Patient Name:
+MR#:
+Specimen #
+Procedure/Addenda
+Image Analysis
+Date Ordered:
+Status: Signed Out
+Date Complete:
+4.
+Date Reported:
+Sex
+DOB
+Lab
+Interpretation
+Prognostic markers performed on block A3
+BLADDER CANCER RECURRENCE SCORE
+p21 by IHC and IMAGE QUANTITATION:
+Unaltered
+Percent Positive Average: 63%
+Staining Intensity Grade: 2
+HistoScore: 6
+p21 altered range (<10%)
+p27 by IHC and IMAGE QUANTITATION:
+Altered
+Percent Positive Average: 20%
+Staining Intensity Grade: 1
+HistoScore: 4
+p27 altered range (<30%)
+p53 by IHC and IMAGE QUANTITATION:
+Unaltered
+Percent Positive Average:4 %
+Staining Intensity Grade: 2
+HistoScore: 4
+p53 altered range (>=10%)
+Ki-67 by IHC and Image QUANTITATION:
+Altered
+ICD-0-3
+carcinoma, urothelial, NOS
+812013
+Site: bladder, wall, Nos
+8/27112
+ко
+0679
+UUID:A916842B-DCE7-42FE-82BC-277D09DFC698
+TCGA-GU-A42R-01A-PR
+Criteria
+Diapnosis Discrepancy
+Primary Tum.or Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prinary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+MG
+Dain eviewed
+DISQUALIFIED
+Redacted
+17-15012
+Page 1 of 5
+Percent Positive Average: 23%
+Staining Intensity Grade: 2
+HistoScore: 5
+Ki-67 altered range (>10%)
+Cyclin E by IHC and IMAGE QUANTITATION:
+Unaltered
+Percent Positive Average: 43%
+Staining Intensity Grade: 1
+HistoScore: 5
+Cyclin E altered range (<30%)
+INTERPRETATION:
+Prognostic Significance: Favorable
+2 Biomarker(s) altered
+Range: Favorable < = 2 altered biomarkers
+Unfavorable > 2 altered biomarkers
+Comment:
+In the above tumor profile the number of altered biomarkers improves the
+predictive accuracy for patients with PTa-T3 NO Bladder Cancer. Greater than 2
+altered biomarkers are associated with increased risk of recurrence.
+data).
+Note:
+Staining intensity based on 0 (neg) to 3+ (highest)
+Percent Positive Average: Percentage of tumor cells staining.
+HistoScore = Percentage of tumor cells staining (Scale 0-5) + Intensity
+(Scale 0-3).
+These tests were performed IHC in conjunction with automated image
+analysis. The performance characteristics of the above tests have been
+determined in the
+While some antibodies have not been
+approved by the FDA, clearance / approval is not mandated. These antibodies
+are well documented and clinically accepted prognostic indicators.
+These tests should not be regarded as part of research investigations. Known
+positive and negative control tissue show appropriate staining.
+The above tumor bio-markers were performed per reflex protocol.
+The system used for image quantitation is the
+The method used for antigen retrieval is heat induced
+epitope retrieval.
+College of American Pathologists (CAP) required information for
+predictive/prognostic markers. Type of specimen fixation and detection system:
+polymer detection kits are used on formalin-fixed paraffin-embedded sections.
+Dawn of F
+Clones user: p21 (SX118); p27(SX53G8); p53 (DO-7); Ki-67 (MIB-1); Cyclin E
+(HE12)
+Prognostic markers performed at
+Results-Comments
+{Not Entered}
+Final Diagnosis
+Bladder, right wall tumor, transurethral resection (TURBT):
+- Invasive papillary urothelial carcinoma, high grade
+- Tumor invades muscularis propria
+- See CAP template below for further details
+- See note
+Procedure: TURBT
+Histologic Type: Urothelial (transitional cell) carcinoma
+Associated Epithelial Lesions: None identified
+Histologic Grade (WHO
+SUP): High-grade
+Tumor Configuration: Papillary
+Adequacy of Material for Determining Muscularis Propria Invasion:
+Muscularis propria (detrusor muscle) present
+Lymph-Vascular Invasion:
+Not identified
+Microscopic Extent of Tumor:
+Tumor invades muscularis propria (detrusor muscle)
+The above pathology diagnosis incorporates data elements as outlined in the CAP
+Cancer Protocols and Checklists which are based on the AJCC/UICC TNM, 7th
+edition.
+Note
+Prognostic markers will be ordered on block A3. Results will be reported
+separately.
+This case was reviewed at the
+Clinical History
+Dono 3 of 5
+Bladder cancer
+TURBT
+Source:
+A: Bladder tumor
+Gross Description
+Received in formalin labeled with the patient's name and "bladder tumor right
+wall" is a 3.5 × 3 × 2 cm aggregate of soft pink-tan and firm brown tissue
+fragments. The brown tissue fragments are composed primarily of clotted blood.
+Section key:
+A1-A9 - entirely submitted (primarily blood clot in cassettes in A5-A9)
+Microscopic Description
+The stain quality is acceptable.
+The microscopic findings are reflected in the diagnosis rendered.
+***Electronically Signed Out By
+Result History
+BIOPSY OR SURGICAL SPECIMEN
+Result Notes
+Notes Recorded by
+· Order Result History Report.
+Collection Information
+Specimen Source
+Other
+Date and Time
+Accession #
+Lab Information
+Reviewed by List
+Done 1 of 5
+Status:
+This order is currently not shared in
+Order
+Patient Information
+Patient Name
+Visit Information
+Date
+Biopsy or Surgical Specimen
+MRN
+Sex
+DOB
+Time
+Department
+Provider
+Visit #
+FIN #
+Order Information
+Order Date and Time
+Ordering User
+Order thi
+Order Name
+Biopsy or Surgical Specimen
+Order Details
+Frequency
+Duration
+ONE TIME ORDER TASK 1 Occurrence
+Order Providers
+Authorizing Provider
+Original Order
+Ordered On
+Collection Information
+Specimen Source
+Other
+Date and Time
+Ordered By
+Priority
+Routine
+Department
+Code
+Order Number
+Encounter Provider
+Reprint Requisition
+Reprint Requisition
+BIOPSY OR SURGICAL SPECIMEN)
+;
+Order Class
+Nurse Collect
+Accession #
+Page 5 of 5

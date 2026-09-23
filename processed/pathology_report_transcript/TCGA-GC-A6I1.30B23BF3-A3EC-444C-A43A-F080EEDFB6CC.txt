@@ -1,0 +1,127 @@
+Sex: Female
+D.O.B.:
+MRN #:
+Ref Phy
+SPECIMEN INE
+Collected:
+Received:
+Reported:
+SURGICAL PATHOLOGY REPORT
+DIAGNOSIS
+UUID:30B23BF3-A3EC-444C-A43A-F080EEDFB6CC
+TCGA-GC-A611-01A-PR
+PHYSICIAN INFORMATION
+Redacted
+DIAGNOSIS:
+A. Ureter, right, biopsy:
+No neoplastic process identified.
+B. Ureter, left, biopsy:
+No neoplastic process identified.
+ICD-0-3
+Carcinoma, urothelial NOS
+C. Urinary bladder, uterus, cervix, right ovary, cystectomy with hysterectomy and right salpingo-Oophorectomy:
+Poorly differentiated invasive urothelial carcinoma.
+Tumor Characteristics:
+1. Histologic type: Urothelial (transitional) carcinoma.
+2. Histologic grade: Poorly differentiated (G3).
+3. Tumor size: 7.5 cm. in greatest dimension.
+812013
+Site Bladder Nos
+6/12/13
+C67.9
+4. Microscopic tumor extension: Tumor shows invasion of the muscularis propria with full thickness of the bladder wall involvement; no diagnostic tumor
+identified within the perivesicle adipose tissue.
+5. Lymphovascular space invasion: Not identified.
+Surgical Margins:
+Tumor not identified within sections of the right ureter (specimen A), left ureter (specimen B), urethra or inked peritoneal surface.
+Other:
+1. Extensive acute and chronic inflammation with areas of foreign body giant cell reaction within the perivesicle fibroadipose tissue.
+Uterus-
+Endometrium- Atrophic pattern; benign endometrial polyp.
+Uterine cervix- Benign mucinous cysts with no neoplastic process identified.
+Myometrium- Leiomyomas.
+Uterine serosa- Serosal fibrous adhesions.
+Right ovary-
+Multiple serous cysts.
+Serosal fibrous adhesions.
+Right fallopian tube-
+Benign fallopian tube with paratubal cysts.
+Lymph node-
+No neoplastic process identified in one lymph node.
+See specimen D for results of additional separately submitted lymph nodes labeled pelvic lymph nodes.
+AJCC cancer staging for cancer of the urinary bladder- pTNM stage: T2bN0.
+D. Lymph nodes, pelvic, excision:
+No metastatic neoplasm identified in seven lymph nodes.
+Electronic Signature:
+COMMENTS:
+Histologic sections confirm the presence of an invasive poorly differentiated urothelial carcinoma. The neoplasm shows full thickness invasion of the
+bladder wall including full thickness of the muscularis propria. The tumor does not definitely involve the perivesicle fibroadipose tissue. There is extensive
+acute and chronic inflammation and foreign body giant cell reaction in areas of the perivesicle fibroadipose tissue. Given that tumor is not clearly identified
+microscopically within the perivesicle tissue, the neoplasm is assigned an AJCC pathologic staging of T2b. This has been reviewed with Dr
+is in agreement.
+CLINICAL HISTORY:
+Preoperative Diagnosis: Bladder carcinoma
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+SPECIMENS:
+A. Right ureter, clip on distal end with frozen section
+B. Left ureter, with frozen section
+C. Bladder, uterus, cervix, right ovary
+D. Pelvic lymph nodes
+CLINICAL INFORMATION
+SPECIMEND
+GROSS DESCRIPTION:
+The specimen is received in four containers labeled with the patient's nam
+A. Container A is received fresh for frozen section additionally labeled 'right ureter, clip at distal end' and contains a 0.5 cm in length x 0.5 cm in diameter
+cylindrical portion of yellow-tan soft tissue bearing a clip at the distal end. A representative section is submitted for frozen section with residual entirely
+resubmitted for permanent section in cassette A1 labelec
+B. Container B is received fresh for frozen section additionally labeled 'left ureter and contains a 0.6 cm in length x 0.7 cm in diameter yellow-tan
+cylindrical soft tissue, which also bears a clip at one end. Representative section is submitted for frozen section with the residual entirely resubmitted for
+permanent section in cassette B1 labeled
+C. Container C is received with formalin additionally labeled 'uterus, cervix, right ovary and bladder and contains an anterior exenteration specimen
+comprised of bladder (8.0 x 7.0 x 6.0 cm), urethra (3.0 cm in length x 1.0 cm in diameter), anterior vaginal wall (6.5 x 4.5 cm), right ureter (5.0 cm in
+length x 0.4 cm in diameter), left ureter (4.5 cm in length x 0.5 cm), uterine cervix (2.0 cm in length x 4.3 x 3.2 cm), uterine corpus (4.5 cm in length x 4.0
+x 2.5 cm), right adnexal complex (4.5 x 3.0 x 2.0 cm), and attached perivesicular fat. A left uterine adnexal complex is not present. The soft tissue
+margins are inked. The bladder is opened to reveal a 7.5 x 6.5 x 1.5 cm yellow-tan fungating and friable mass that involves the anterior, right and left
+lateral bladder walls, as well as the bladder dome. This mass approaches to within 0.1 cm of the right ureteral orifice, 1.5 cm of the left ureteral orifice
+and 7.0 cm from the urethral margin. Normal appearing pink-tan focally erythematous but glistening bladder mucosa is present near the trigone. On
+section, this mass extends into the detrusor muscle and approaches to within 0.1 cm of the inked deep margin, as well as to within 0.1 cm of the inked
+deep peritonealized surface. This mass does not involve the uterine wall. The endocervical canal is yellow-tan cystic and mucoid with the usual folds.
+The triangular endometrium is pink-tan and glistening with an average thickness of 0.1 cm. The posterior aspect is remarkable for 1.0 x 1.0 x 0.5 cm
+pink-tan polypoid lesion. On section, no areas of invasion are identified. The surrounding myometrium is pink-tan and fibrous with an average thickness
+of 1.0 cm. Within the myometrium on the posterior aspect is a 0.7 cm well delineated intramural nodule which features a yellow-tan diffusely calcified cut
+surface. Sections through the right adnexal complex reveals a 3.5 cm in length x 0.5 cm in diameter segment of fimbriated fallopian tube. The yellow-tan
+lobulated right ovary is 2.5 x 2.0 x 1.5 cm. Sectioning reveals a yellow-tan fibrous cut surface with a central multiloculated, cystic corpus albicans.
+On section and palpation, two firm fatty possible lymph nodes are identified within the associated fat. They are 0.2 and 0.4 cm in greatest dimension.
+Representative sections are submitted in cassettes C1 through 19 labeled
+signated as follows: 1, urethral margin, en face; 2, trigone
+to include vaginal wall; 3, right ureteral orifice to include mass; 4, left ureteral orifice; 5, right lateral bladder wall to include mass and inked deep margin,
+perpendicular, 6, left lateral bladder wall to include mass and inked deep margin, perpendicular; 7 and 8, anterior bladder wall to include mass and inked
+deep margin, perpendicular; 9 and 10, bladder dome to include mass and inked peritonealized surface, perpendicular, 11, dome to include mass and
+adjacent normal appearing bladder mucosa; 12, posterior bladder wall to include mass and anterior endoectocervix; 13, posterior endoectocervix; 14,
+anterior endomyometrium; 15, posterior endomyometrium to include polypoid lesion; 16, posterior endomyometrium to include remainder of polypoid
+lesion and calcified nodule (submitted after decalcification); 17, right fallopian tube; 18. right ovary: 19. two whole possible lymph nodes. Additionally, a
+yellow, green and blue cassette are submitted for genomics research each labeled
+D. Container D is additionally labeled 'left and right pelvic lymph nodes' and contains a 6.0 x 4.5 x 3.0 cm aggregate of yellow-tan lobulated fibrofatty soft
+tissue. On palpation, seven firm fatty possible lumnh nodes neaentified ranging from 0.4 up to 2.3 cm in greatest dimension. They are entirely
+submitted in cassettes D1 through 4 labeled
+nated as follows: D1, three whole possible lymph nodes; D2, two whole possible
+bisected lymph nodes (one inked); D3 and 4, one whole possible bisected lymph node in each cassette.
+INTRA-OPERATIVE CONSULTATION:
+FROZEN SECTION DIAGNOSES:
+Part A: No tumor identified on frozen section.
+Part B: No tumor identified on frozen section.
+Criteria
+سل
+w 6/10/13.
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+PA Discrepancy-
+Prior Malignancy History,
+nual/Synchronous Primary Noted
+Case (cle)
+Peview
+QUALIFIED / DISQUALIFIED
+Date Reviewed:

@@ -1,0 +1,57 @@
+UUID:2363E39A-F372-406C-B41B-E2260D50611D
+TCGA-E7-A541-01A-PR
+Redacted
+Gross Description: Piece of radical cystectomy with a whitish, solid, and vegetative tumor developed at
+the level of the right hemibladder
+Microscopic Description: Histological aspect: urothelial carcinoma, G3, poorly differentiated, with
+alveolar and papillary pattern, unevenly invasive into the chorion and into the deep and superficial
+musculature, but without surpassing it; with an important inflammatory infiltrate arranged as lymphoid
+aggregates, which limits the tumoral invasion hotbeds; the urethral lining with preserved architecture to
+the level of the surgical segment; prostate with small tumoral hotbeds of acinar adenocarcinoma with
+infiltrative glandular pattern at the level of one of the lobes; seminal vesicles - morphologically
+undamaged.
+2. Group of four lymph nodes without tumoral metastases.
+3. Lymph nodes with reactive lymphoid hyperplasia, without tumoral metastases.
+4. Two small histotypic lymph nodes.
+5. Small segment of ureter with slightly dilated lumen.
+6. Small segment of ureter with dilated lumen and non-specific inflammatory infiltrate diffusely
+distributed into the chorion.
+Diagnosis Details: CONCLUSION: 1. Invasive urothelial carcinoma of the bladder, poorly differentiated,
+G3, pT2b pNo pMx.
+2. Acinar adenocarcinoma of the prostate, histological score Gleason 6 (3+3), pT2a pNx pMx.
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Radical cystectomy
+Tumor site: Bladder
+Tumor size: Not specified
+Tumor features: Papillary
+Histologic type: Papillary transitional cell carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Muscularis propria
+ICD-0- 3
+carcinona, papillary transitional cell 8130/3
+Site: bladder NOS C47.9
+سال
+11/20/12
+Lymph nodes: 0/7 positive for metastasis (Left and right ilio-obturator 0/7)
+Lymphatic invasion: Present
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: The path report doesn't specify the tumor size. For bladder cancer the T
+grade is given by the level of tumor extension in through the wall not the tumor size. So, tumor size is
+not relevant for the pathologist and he/she doesn't always record its dimensions.
+Comments: Wall, anterior
+Criteria
+0 11/20/12
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dhal/Synchronous Primary noted
+Pevicilias
+QUALIFIED
+Taustate
+☐ is Reviewed:
+Yes
+DISQUALIFIED

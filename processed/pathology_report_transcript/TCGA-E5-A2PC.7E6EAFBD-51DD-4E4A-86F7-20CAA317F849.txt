@@ -1,0 +1,248 @@
+TSS
+UUID:7E6EAFBD-51DD-4E4A-86F7-20CAA317F849
+TCGA-E5-A2PC-01A-PR
+Redacted
+SPECIMENS:
+A. LEFT URETER
+B. RIGHT URETER
+C. BLADDER, TUBES, OVARIES, VAGINAL WALL
+D. LEFT URETERAL FINAL MARGIN
+E. RIGHT URETERAL FINAL MARGIN
+F. LEFT COMMON ILIAC LYMPH NODES
+G. LEFT OBTURATOR LYMPH NODES
+H. LEFT ILIAC ARTERY LYMPH NODES
+1. LEFT ILIAC VEIN LYMPH NODES
+J. RIGHT ILIAC VEIN LYMPH NODES
+K. RIGHT ILIAC ARTERY LYMPH NODES
+L. RIGHT OBTURATOR LYMPH NODES
+M. RIGHT COMMON ILIAC LYMPH NODES
+SPECIMEN(S):
+A. LEFT URETER
+B. RIGHT URETER
+C. BLADDER, TUBES, OVARIES, VAGINAL WALL
+D. LEFT URETERAL FINAL MARGIN
+E. RIGHT URETERAL FINAL MARGIN
+F. LEFT COMMON ILIAC LYMPH NODES
+G. LEFT OBTURATOR LYMPH NODES
+H. LEFT ILIAC ARTERY LYMPH NODES
+1. LEFT ILIAC VEIN LYMPH NODES
+J. RIGHT ILIAC VEIN LYMPH NODES
+K. RIGHT ILIAC ARTERY LYMPH NODES
+L. RIGHT OBTURATOR LYMPH NODES
+M. RIGHT COMMON ILIAC LYMPH NODES
+GROSS DESCRIPTION:
+A. LEFT URETER
+ICD-0-3
+Carcinoma, wothelial, NOS 8/20/3
+Site: bladder, wall, lateral C67.2
+Nr 8/2414
+Received fresh for frozen section is a tan pink tubular segment of ureter 0.3cm in length and 0.4cm in
+diameter. Toto FSA
+B. RIGHT URETER
+Received fresh for frozen section is a tan pink tubular segment of ureter 0.5cm in length and 0.4cm in
+diameter. Toto FSB
+C. BLADDER, TUBES, OVARIES AND VAGINAL WALL
+Received fresh in a matching container and subsequently fixed in formalin is a cystectomy and bilateral
+salpingo-oophorectomy 
+specimen measuring overall 14.5 x 10.5 x 6.1 cm, including the urinary bladder
+(7 x 6 x 1.5 cm) and peri-cystic 
+fatty tissue. The posterior fatty margin is inked black and the anterior
+surface blue. A 
+portion of tan smooth vaginal wall is demonstrated measuring 4 x 3cm. The urinary
+bladder is opened from the 
+anterior aspect to reveal a fungating mass present on the right posterior
+lateral wall of the bladder 
+with surface hemorrhage and ulceration, measuring 4.6 x 3.0 x 1.1 cm. The
+tumor is 2.5 cm from the 
+closest urethral margin. The tumor appears to invade into the muscularis
+propria but not in the 
+perivesicular fat. The tumor involves right ureter orifice but grossly does not
+appear to involve the 
+right ureter. The remainder of the bladder mucosa is pink-tan and focally
+edematous. No other 
+lesions are identified. The attached right fallopian tube is 5 cm long x 0.3 cm in
+diameter, with a paratubal 
+cyst 1.5 x 0.9 x 0.9 cm. The right ovary is 2 x 1.5 x 0.5 cm, The left fallopian
+tube is 4.2 cm long x 0.4 
+cm in diameter with fimbriated end. The left ovary is 2 x 1 x 1 cm. The
+posterior aspect 
+of the uterus is covered with pink-tan smooth vaginal mucosa (6.4 x 3.2 cm). Careful
+palpation and 
+dissection of perivesicle tissue reveals three possible lymph nodes. Representative
+sections are submitted as follows:
+C1: urethral margin and right ureteral margin
+C2: left ureter margin and tumor with respect to posterior neck region
+C3: tumor with posterior bladder wall
+C4: representative section of tumor
+C5: tumor and posterior bladder wall
+C6: tumor with adjacent right ureter
+C7: tumor and adjacent dome
+C8: sections from anterior bladder wall
+C9: trigone area into the left ureter
+TSS:
+C10: left lateral bladder wall
+C11: bladder neck
+C12: right tube and ovary
+C13: left tube and ovary
+C14: three presumed lymph nodes for microscopic examination
+C15-C16: Vaginal tissue
+D. LEFT URETER FINAL MARGIN
+Received in formalin within a white clip is a tubular piece of tan tissue measuring 0.4 cm in length and
+0.7 cm in diameter. The lumen is 0.4 cm. After removal of the clip, tissue 
+is submitted entirely in
+cassette D1.
+E. RIGHT URETER FINAL MARGIN
+Received in formalin within a white surgical clip is a tubular piece of tan tissue measuring 0.6 cm in
+length and 0.7 cm in diameter. The lumen is 0.3 cm. After removal 
+of clip, the tissue is submitted
+entirely in cassette E1.
+F. LEFT COMMON ILIAC LYMPH NODE
+Received in formalin is a piece of yellow-tan soft tissue measuring 2.4 x 2.4 x 0.9 cm. One lymph node
+is identified measuring 2.4 cm. It is bisected and has a variegated yellow-brown cut surface. Specimen
+is submitted entirely as follows:
+F1: lymph node
+F2: remainder of soft tissue
+G. LEFT OBTURATOR LYMPH NODE
+Received in formalin are pieces of yellow-tan soft tissue in aggregate measuring 3.5 x 2.5 x 0.8 cm.
+Four lymph nodes identified ranging in size from 0.7 to 2 cm. Specimen is submitted entirely as follows:
+G1: 3 lymph nodes
+G2: 1 lymph node
+G3: remainder of soft tissue
+H. LEFT ILIAC ARTERY LYMPH NODE
+Received in formalin of an aggregate yellow-tan soft tissue measuring 2.5 x 2.3 x 0.9 cm. Three lymph
+nodes identified ranging in size from 0.4 to 1.6 cm. Specimen is submitted 
+entirely as follows:
+H1: lymph nodes
+H2: remainder of soft tissue
+1. LEFT ILIAC VEIN LYMPH NODE
+Received in formalin is a piece of yellow-tan soft tissue measuring 1.5 x 1 x 0.2 cm. No distinct lymph
+node is identified. Specimen is submitted entirely in cassette 11.
+J. RIGHT ILIAC VEIN LYMPH NODE
+Received in formalin are pieces of yellow-tan soft tissue in aggregate measuring 3.3 x 2.5 x 0.8 cm. No
+distinct lymph node is identified. Specimen is submitted entirely in cassettes 
+J1-J2.
+K. RIGHT ILIAC ARTERY LYMPH NODE
+Received in formalin are pieces of yellow-tan soft tissue in aggregate measuring 3.2 x 2.6 x 0.6 cm.
+Three lymph nodes identified ranging in size from 1.2 to 2.5 cm. Specimen 
+is submitted entirely as
+follows:
+K1: 2 lymph nodes
+K2: 1 lymph node
+K3: remainder of soft tissue
+L. RIGHT OBTURATOR LYMPH NODE
+Received in formalin is a piece of yellow-tan soft tissue measuring 4.4 x 3.2 x 1.3 cm. Two lymph
+nodes identified measuring 2.5 and 2.7 cm. The one lymph node is bisected and has a hemorrhagic
+core. The specimen is submitted entirely as follows:
+L1-L2: 1 lymph node each
+L3: remainder of soft tissue
+M. RIGHT COMMON ILIAC LYMPH NODE
+Received in formalin is an aggregate of yellow-tan soft tissue measuring 4.4 x 4.2 x 1.2 cm. Four lymph
+nodes are identified ranging in size from 1.2 to 1.8 cm. Specimen is 
+submitted entirely as follows:
+M1: 3 lymph nodes
+M2: 1 lymph node
+M3: remainder of soft tissue
+DIAGNOSIS:
+A. LEFT URETER MARGIN, EXCISION:
+- BENIGN UROTHELIUM AND STROMA, NEGATIVE FOR TUMOR
+B. RIGHT URETER MARGIN, EXCISION:
+TSS:
+BENIGN UROTHELIUM AND STROMA, NEGATIVE FOR TUMOR
+C. BLADDER, TUBES, OVARIES AND VAGINAL WALL, CYSTECTOMY AND BILATERAL
+SALPINGO-
+OOPHORECTOMY:
+-
+HIGH-GRADE UROTHELIAL CARCINOMA, TUMOR SIZE 4.6 X 3.0 X 1.1 CM, INVADING INTO
+MUSCULARIS PROPRIA 
+OF RIGHT POSTERIOR LATERAL WALL OF URINARY BLADDER
+- BILATERAL URETERAL MARGIN AND URETHRAL MARGIN, NEGATIVE FOR TUMOR
+- FOLLICULAR CYSTITIS AND PAPILLARY UROTHELIAL HYPERPLASIA IN
+BLADDER TISSUE
+ONE LYMPH NODE IN PERIVESICAL ADIPOSE TISSUE, NEGATIVE FOR
+- ATTACHED PORTION OF VAGINA AND MARGIN, NEGATIVE FOR TUMOR
+BILATERAL OVARY SHOWING EPITHELIAL INCLUSION CYSTS, NEGATIVE
+TUMOR
+- BILATERAL FALLOPIAN TUBE WITH PARATUBAL CYSTS
+D. LEFT URETER FINAL MARGIN, EXCISION:
+- BENIGN UROTHELIUM AND STROMA, NEGATIVE FOR TUMOR
+E. RIGHT URETER FINAL MARGIN, EXCISION:
+-
+·BENIGN UROTHELIUM AND STROMA, NEGATIVE FOR TUMOR
+F. LEFT COMMON ILIAC LYMPH NODES, EXCISION:
+-
+TWO LYMPH NODES, NEGATIVE FOR TUMOR (0/2)
+G. LEFT OBTURATOR LYMPH NODES, EXCISION:
+- FIVE LYMPH NODES, NEGATIVE FOR TUMOR (0/5)
+H. LEFT ILIAC ARTERY LYMPH NODES, EXCISION:
+-
+- SIX LYMPH NODES, NEGATIVE FOR TUMOR (0/6)
+1. LEFT ILIAC VEIN LYMPH NODES, EXCISION:
+-
+- BENIGN ADIPOSE TISSUE, NO LYMPH NODES ARE IDENTIFIED
+J. RIGHT ILIAC VEIN LYMPH NODE, EXCISION:
+-
+BENIGN ADIPOSE TISSUE, NO LYMPH NODES ARE IDENTIFIED
+K. RIGHT ILIAC ARTERY LYMPH NODES, EXCISION:
+SURROUNDING
+TUMOR (0/1)
+FOR
+THREE LYMPH NODES, NEGATIVE FOR TUMOR (0/3)
+METASTATIC UROTHELIAL CARCINOMA PRESENT IN ONE OUT OF SIX
+LYMPH NODES
+L. RIGHT OBTURATOR LYMPH NODES, EXCISION:
+(1/6)
+M. RIGHT COMMON ILIAC LYMPH NODES, EXCISION:
+- FIVE LYMPH NODES, NEGATIVE FOR TUMOR (0/5)
+SYNOPTIC REPORT - URINARY BLADDER, URETER AND RENAL PELVIS
+Specimen Type:
+Total cystectomy with bilateral salpingo-oophorectomy and portion of vaginal wall
+Tumor Site: Right lateral 
+wall
+Posterior wall
+Tumor Size: Greatest dimension:
+Additional dimensions:
+WHO Classification
+4.6cm
+3cm x 1.1cm
+Infiltrating urothelial carcinoma 8120/3
+High Grade
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L): Indeterminate
+Perineural Invasion: Absent
+Direct Extension of Invasive Tumor:
+Lymph nodes:
+None identified
+Positive 1/28
+Margins of Resection: Free
+TSS:
+Additional Pathologic Findings: Inflammation/regenerative changes
+Positive 70% Low Intensity
+p53 stain result:
+Pathological Staging (pTNM): T 2b N 1 MX
+CLINICAL HISTORY:
+None provided
+PRE-OPERATIVE DIAGNOSIS:
+Bladder Cancer
+INTRAOPERATIVE CONSULTATION:
+FSA-FSB: No tumor seen. Diagnosis called to Dr. at
+Gross Dictation: ., Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist,
+Final Review:., Pathologist,
+Microscopic/Diagnostic Dictation: Pathologist
+Final Review:., Pathologist,
+Final Review:., Pathologist.
+Final:., Pathologist,
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+DISQUALINED
+Date Reviewed: DAY
+w 8/24/4
+by Dr.

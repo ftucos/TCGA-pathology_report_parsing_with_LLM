@@ -1,0 +1,127 @@
+Final Surgical Pathology Report
+ICD-0.3
+Carcinonia, wothelial 8/20/3
+Site Bladder, pirteror wall
+0674
+الله
+4/12/13
+UUID:DDA3DBFA-0ECA-4D47-8E8D-5C33F6E4D448
+TCGA-BL-ASZZ-
+01A-PR
+Procedure:
+Diagnosis
+A. Ureteral margin, right, excision:
+Negative for tumor.
+B.. Ureteral margin, left, excision:
+Negative for tumor.
+C. Bladder, excision:
+Invasive high grade urothelial carcinoma (see tumor characteristics in
+the microscopic description).
+D. Lymph nodes, left pelvic, excision:
+Two lymph nodes negative for metastatic carcinoma (0/2).
+E.
+Lymph nodes, right pelvic, excision:
+Two lymph nodes negative for metastatic carcinoma (0/2).
+Microscopic Description:
+Histologic type: Urothelial carcinoma
+Histologic grade: High grade
+Tumor size: 4 cm
+Primary tumor (PT): Tumor invades into the vaginal wall, pT4a.
+Margins of resection: The distal urethral margin shows high-grade
+papillary urothelial carcinoma with no invasion. The ureteral margins
+are negative. The outer soft tissue margins of the specimen are
+negative.
+Vascular invasion: Present
+Regional lymph nodes (pN): ΕΝΟ
+Distant metastasis (pM): PMX
+Other findings: Other areas of urothelial atypia with severe atypia and
+focal papillary urothelial carcinoma are present.
+The tumor shows extensive necrosis. Immunohistochemical stains with
+the neural markers synaptophysin, chromogranin and CD 56 are performed.
+The synaptophysin and chromogranin are negative. CD 56 is focally
+positive suggestive of focal neuroendocrine differentiation within the
+tumor.
+[A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature. They have not
+been cleared or approved by the FDA.]
+Specimen
+A Right ureteral margin
+B. Left ureteral margin
+Bladder
+C.
+D.
+Left pelvic node
+E. Right pelvic node
+Clinical Information
+Bladder cancer
+Redacted
+Intraoperative Consultation
+A) Ureteral margin, right, excision:
+B) Ureteral margin, left, excision:
+Negative for tumor.
+Negative for tumor.
+Gross Description
+A. Received fresh labeled "right ureteral margin" is a stapled tissue
+specimen that measures 1.2 cm in diameter and 0.3 cm in wall thickness.
+AFS1
+The tissue is cut away from the staple and entirely frozen.
+B. Received fresh labeled "left ureteral margin" is doughnut shaped
+specimen that measures 0.3 × 0.3 x 0.2 cm in dimension. Entirely
+frozen.
+C. Received fresh labeled "bladder" is a 6.5 x 6.5 x 4.8 cm symmetrical
+bladder with attached 2.5 cm urethra, a copious amount of pericystic
+The
+adipose tissue and bilateral ureters averaging 2.5 cm in length.
+A 4.5 x 3.5
+ureters and urethra are probe patent to the bladder lumen.
+cm portion of wrinkled tan-pink vaginal mucosa is present along the
+posterior aspect. The right half of the specimen is inked blue and the
+left half is inked black. On opening, there is a 4.0 x 3.8 cm
+papilliferous, twisting tan-white to chalky yellow-white tumor mass
+occupying the right lateral posterior wall. The tumor surrounds the
+ureteral orifice. On sectioning, the tumor has a maximal thickness of
+2.5 cm, grossly extending to within 0.4 cm of the inked surface of the
+specimen. A portion of tumor and a portion of normal mucosa are
+submitted for tissue procurement as requested. The tumor involving the
+The
+posterior wall extends to within uro-0.2 cm of the vaginal mucosa.
+remaining bladder mucosa is glistening tan-pink to tan-red with normal
+folds and the wall averages 0.9 cm in thickness. An area of tan-red
+edematous mucosa is noted just superior to the tumor along the
+posterior wall. No additional mass lesion or abnormality is noted.
+Summary: 1 - urethral margin en face, 2- right ureteral orifice, 3 -
+left ureteral orifice, 4 and 5 - right lateral wall, 6 through 8
+tumor to posterior vaginal mucosa, 9 - bladder to urethra, 10 - left
+lateral wall including area of edema, 11 - Dome/posterior wall, 12 -
+anterior wall
+་་
+D. Received fresh labeled left pelvic node" is a 5.5 x 4.3 x 2.0 cm
+portion of soft, lobulated tan gold adipose tissue. Two rubbery
+tan-pink-gold tissues in keeping with lymph nodes measuring up to 5.4
+cm in greatest dimension are recovered. The lymphoid tissues are
+entirely submitted.
+-
+Summary: 1 - 1 bisected lymph node, 2 through 4 largest lymph node
+E. Received fresh labeled "right pelvic node" is a 4.9 x 3.4 x 1.0 cm
+portion of soft, lobulated tan gold adipose tissue. Two slightly
+rubbery tan-pink-gold tissues in keeping with lymph nodes measuring up
+to 3.5 cm are recovered.
+Summary: 1 - 1 bisected lymph node, 2 and 3 - bisected larger lymph
+node
+Yes
+No
+Criteria
+10 3/15/13
+Diagnosis Discrepancy
+Primary Tun.or Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History Melanome
+Dual/Synchronous, Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+☑
+7

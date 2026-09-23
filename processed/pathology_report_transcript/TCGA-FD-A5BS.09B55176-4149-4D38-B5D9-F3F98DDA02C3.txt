@@ -1,0 +1,200 @@
+UUID:09B55176-4149-4D38-B5D9-F3F98DDA02C3
+TCGA-FD-A5BS-01A-PR
+Redacted
+Gender: Male
+Race: Unknown
+Pathology Report:
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A.
+ICD.0.3
+Carcinoma, urothelial Nos.
+812013
+Path Site. Bladder, lateral and
+Posterior Wall 
+C67.8
+CSCF Site. Bladder, posterior Wall
+067.4
+94012/24/12
+Bladder, prostate, seminal vessicles and vasa deferentia;
+cystoprostatectomy:
+Invasive high-grade urothelial carcinoma consistent with
+lymphoepithelioma-like carcinoma (see parameters below).
+Prostatic adenocarcinoma (see parameters below).
+-
+-
+B.
+C.
+Bladder diverticulum.
+Right pelvic lymph nodes; dissection:
+No carcinoma in fifteen lymph nodes (0/15).
+Left pelvic lymph nodes; dissection:
+No carcinoma in eight lymph nodes (0/8).
+Urothelial Carcinoma Pathologic Parameters
+808213
+1. Tumor type: Lymphoepithelioma-like carcinoma
+2. Grade of tumor: High-grade
+3. Depth of invasion: Perivesicular adipose
+4. Tumor distribution: Solitary, 4.5 cm in greatest dimension involving left
+lateral wall 
+and posterior wall
+5. Ureteral margins: Negative
+6. Distal urethral margin: Negative
+7. Soft tissue margin or serosa: Negative
+8. Lymphovascular invasion: Absent
+8. Lymph nodes: No carcinoma in twenty-three lymph nodes (0/23)
+9. pTNM: T3b, NO, MX
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Radical Prostatectomy Pathologic Parameters
+Gleason Score: 3+3
+Perineural Invasion:
+Absent
+Tumor Location: Peripheral zone
+Tumor Volume Estimate: 1%
+1.
+2.
+3.
+4.
+5.
+6. Seminal vesicles:
+7.
+8.
+Peripheral Margin:
+High-grade P.I.N.:
+-
+Right
+Absent
+Negative for tumor
+Negative for tumor
+Extraprostatic extension: Absent
+9. Distal (apical) Margin: Negative for tumor
+10. Proximal (basilar) Margin: Negative for tumor
+11. Regional Lymph Nodes (right and left):
+12. pTNM: pT2a NO
+Effective
+Negative for tumor
+this Checklist utilizes the 7th edition TNM staging
+system for prostatectomy of the American Joint Committee on Cancer (AJCC) and
+the International Union Against Cancer (UICC).
+XX
+[ ] M.D.
+Page 1
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, (), M.D.
+Electronically signed out by [], M.D.
+Clinical History:
+The patient is a -year-old male with high-grade bladder cancer with.
+lymphoepithelioma-like features undergoing cystoprostatectomy was neobladder.
+Specimens Received:
+A: Bladder, prostate, seminal vesicles and vasa deferentia
+B: Right pelvic lymph nodes
+C: Left pelvic lymph nodes
+Gross Description:
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, "prostate, bladder".
+Received fresh is a 20 x 10.5 x 4.5 cm cystoprostatectomy specimen consisting of
+a 11 x 8 x 3 cm bladder with attached mesenteric fat and a 5.5 x 3.5 x 3.5 cm
+prostate. The right seminal vesicles measure 3.5 × 2 × 0.7 cm and right vas
+deferens measures 14.5 x 0.3 x 0.8 cm. The left seminal vesicles measures 1.7 x
+1.6 x 0.9 cm and left vas deferens measures 3.5 cm. Both seminal vesicles were
+received disrupted. The right ureteral stump measures 0.7 cm, the left measures
+2.5 cm, and both demonstrate intact, patent lumens this diameter ranging from
+0.4-0.5 cm. The urethral margin was submitted for intraoperative diagnosis and
+read by Dr. () as "urethral margin, negative for tumor". The remnant of
+frozen specimen is submitted in cassette Al FS.
+The right half of the prostate and bladder is inked blue and the left half is
+inked black. The bladder and prostate are opened anteriorly along the urethra.
+Apex and lateral aspects of prostate are disrupted and sutured back together.
+The prostate is surrounded by a thin, intact membranous capsule and sectioning
+demonstrates rubbery, pink-tan, peri-urethral nodularity with bright yellow
+irregularly-shaped areas scattered in periureteral area and peripheral zone and
+ranging in size from 0.1-0.5 cm in greatest dimension.
+The opened bladder reveals a 4.5 x 3.5 cm area of shaggy, hemorrhagic mucosal
+ulceration located in left posterolateral wall. On cut section, the mass
+extends into perivesical fat and is 0.4 cm from the deep margin. The ulcerated
+area is 1.7 cm from the left ureter orifice and more than 5 cm from the distal
+urethral margin. Adjacent to the ulcerated area is a 3.7 x 2.4 x 2.0 cm
+diverticulum located in the posterior wall and extending to the dome. Bladder
+wall in the area of diverticula ranges from 0.2-0.4 cm. Gross photographs are
+taken. The surrounding bladder mucosa is edematous, red-pink with variable wall
+thickness ranging from 0.4-1.0 cm. Bilateral ureteral orifices, adjacent to the
+trigone, are identified and probe patent. There are two separate detached blood
+vessels measuring 2.3 and 7.5 cm in length and 0.4 cm in diameter.
+perivesical fat is dissected and no apparent lymph nodes are identified.
+Representative sections are submitted as follows:
+A2:
+A3:
+A4:
+A5-A10:
+A11:
+A12:
+A13:
+A14:
+A15-A17:
+vesicles
+Right ureter resection margin
+Left ureter resection margin
+Distal prostatic urethral margin (apex)
+Bladder mass/ulceration
+Bladder diverticulum
+Uninvolved bladder mucosa bladder dome
+The
+Uninvolved bladder mucosa anterior wall
+Uninvolved bladder mucosa posterior wall
+Representative right lobe of prostate from apex to base, seminal
+A18-A20: Representative left lobe of prostate submitted from apex to base,
+seminal vesicles
+Page 2
+B. The second container is additionally identified as, "right pelvic lymph
+nodes". Received fresh and placed in formalin is an aggregate of fibroadipose
+tissue measuring 5.8 x 5.2 x 2.2 cm. The tissue is dissected to reveal several
+apparent lymph nodes ranging in size from 0.5-1.9 cm.
+Block summary:
+B1:
+B2:
+B3:
+B4:
+B5:
+B6:
+One bisected lymph node
+One bisected lymph node
+2 lymph nodes
+3 lymph nodes
+3 lymph nodes
+5 lymph node candidates
+C. The third container is additionally identified as, "left pelvic nodes".
+Received fresh and placed in formalin is an aggregate of fibroadipose tissue
+measuring 6.0 x 4.7 x 2.3 cm. The tissue is bisected to reveal several apparent
+lymph nodes ranging in size from 0.3-3.8 cm. Some lymph nodes are matted and
+firm. Block summary:
+One sectioned lymph node
+C1-C2:
+C3-C4:
+C5:
+C6:
+XXXX
+One sectioned lymph node in each cassette
+3 lymph nodes
+6 lymph node candidates
+[], MD,
+PhD
+Page 3
+Criteria
+hut 12/18/17
+Yes.
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted Prostate
+Case is (circ
+Reviewer Inials 41
+UALIFIE 7 DISQUALIFIED
+Date Reviewed:
+✓
+12/18/12

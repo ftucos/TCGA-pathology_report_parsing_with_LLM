@@ -1,0 +1,98 @@
+ICD-0-3
+Carcinoma, urothelial 8120/3
+Site: bladder, trigone Cuzo hi
+PATIENT HISTORY:
+Clinical history is not given.
+PRE-OP DIAGNOSIS:
+POST-OP DIAGNOSIS:
+PROCEDURE:
+ADDENDA:
+Addendum
+Bladder cancer.
+Same.
+Cystoprostatectomy / neobladder construction.
+for 41714
+Collection DATA:
+Multiple additional deeper levels were evaluated from the right distal ureteral margin (part 4). These deeper sections show
+fibrovascular, neural and adipose tissue. No lining urothelial is seen. No evidence of urothelial carcinoma nor urothelial
+carcinoma in situ (CIS) are seen.
+'
+This completes my current evaluation of this case. The diagnoses rendered earlier remain unchanged. Thank you for
+involving us in the care of this patient.
+FINAL DIAGNOSIS:
+PART 1:
+LYMPH NODES, RIGHT PELVIC, EXCISION -
+A.
+METASTATIC CARCINOMA IN ONE OF ELEVEN LYMPH NODES (1/11).
+B. NO EXTRACAPSULAR EXTENSION PRESENT.
+PART 2:
+LYMPH NODES, LEFT PELVIC, EXCISION
+-
+A. METASTATIC CARCINOMA IN THREE OF TWELVE LYMPH NODES (3/12).
+B. EXTRACAPSULAR EXTENSION PRESENT.
+PART 3:
+BLADDER, PROSTATE AND BILATERAL SEMINAL VESICLES, RADICAL CYSTOPROSTATECTOMY
+-
+A. INVASIVE UROTHELIAL CARCINOMA (3.3 CM), HIGH GRADE (WHO/ISUP), GRADE 3 OF 4 (ASH).
+B. THE CARCINOMA EXTENDS INTO THE PERIVESICAL ADIPOSE TISSUE.
+C. THE INKED PERIVESICAL SOFT TISSUE SURGICAL MARGIN IS INVOLVED VERY FOCALLY IN THE LEFT TRIGONE/
+LEFT LATERAL WALL REGION OF THE BLADDER (SLIDE 3C).
+D. METASTATIC ADENOCARCINOMA IN ONE OF ONE LEFT PERIVESICAL LYMPH NODES (1/1).
+E. NO CARCINOMA IN SITU (CIS) IDENTIFIED.
+F.
+ANGIOLYMPHATIC INVASION IDENTIFIED.
+G. TNM PATHOLOGIC STAGING = T3b N2 MX.
+H. TNM HISTOPATHOLOGIC GRADE = G3.
+1.
+BENIGN PROSTATIC TISSUE WITH FOCAL CHRONIC INFLAMMATION.
+PART 4:
+URETER, RIGHT DISTAL, BIOPSY -
+A. BENIGN FIBROADIPOSE TISSUE.
+B. NO TUMOR PRESENT.
+MICROSCOPIC:
+SYNOPTIC DATA - PRIMARY URINARY BLADDER TUMORS
+UUID:E686B42F-3A8C-4181-836E-79D4443DC0CD
+TCGA-BT
+-A200-01A-PR
+Redacted
+SPECIMEN TYPE:
+TUMOR SITE:
+Radical cystoprostatectomy
+Trigone, Left lateral wall
+TUMOR SIZE:
+HISTOLOGIC TYPE:
+HISTOLOGIC GRADE:
+TUMOR CONFIGURATION:
+Greatest dimension: 3.3 cm
+Urothelial (transitional cell) carcinoma
+ASSOCIATED EPITHELIAL LESIONS: None identified
+Urothelial carcinoma - High-grade
+Solid/nodule, Ulcerated
+PATHOLOGIC STAGING (pTNM):
+pT3b
+pN2
+Number of nodes examined: 23
+Number of nodes involved: 4
+PMX
+MARGINS:
+Margin(s) involved by invasive carcinoma
+Margin(s): left utereal
+VENOUS/LYMPHATIC (LARGE/SMALL) VESSEL INVASION (V/L):
+Present
+DIRECT EXTENSION OF INVASIVE TUMOR:
+ADDITIONAL PATHOLOGIC FINDINGS:
+Perivesical fat
+Inflammation/regenerative changes
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchroncus Primary Noted
+Case is (cirria):
+Reviewer Initials
+QUALIFIE / DISQUALIFIED
+Reviewed:
+tw 4/7/46

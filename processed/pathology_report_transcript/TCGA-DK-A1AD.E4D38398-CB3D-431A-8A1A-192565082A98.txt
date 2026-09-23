@@ -1,0 +1,283 @@
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+105-0-3
+Carcinoma, urothelial, NOS 8120/3
+Site Code: bladder, Nos
+067.9
+SURGICAL PATHOLOGY REPORT
+M
+Location:
+Service:
+Urology
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+¨sical Diagnosis & History:
+male with invasive bladder cancer, for cystectomy.
+Specimens Submitted:
+1: SP: Bladder, prostate, seminal vesicles, urachus, perivesical nodes, urethra (
+2: SP: Rt. vas deferens (1
+3: SP: Lt. vas deferens ()
+4: SP: Lt. pelvic lymph nodes i
+5: SP: Rt. pelvic lymph nodes
+6: SP: Rt. hypogastric lymph nuaes
+7: SP: Lt. distal ureter (1)
+8: SP: Rt. distal ureter (
+INPATIENT
+12/30/10
+DIAGNOSIS:
+1)
+PROSTATE, SEMINAL VESICLES, URACHUS, PERIVESICAL NODES AND URETHRA; RESECTION:
+- INVASIVE UROTHELIAL CARCINOMA, HIGH GRADE, SPANS 4.0 CM IN GREATEST DIMENSION.
+-INVASIVE CARCINOMA SHOWS FOCAL GLANDULAR FEATURES.
+-
+2)
+-
+3)
+- THE PATTERN OF GROWTH IS NODULAR.
+THE TUMOR INVADES INTO THE PERIVESICAL SOFT TISSUES (pT3b).
+- EXTENSIVE IN-SITU CARCINOMA IS ALSO PRESENT.
+- CARCINOMA IN-SITU EXTENDS ALONG THE PROSTATIC URETHRA.
+- NO VASCULAR INVASION IS IDENTIFIED.
+- PERINEURIAL INVASION IS PRESENT.
+- EXAMINED SURGICAL MARGINS ARE FREE OF CARCINOMA (SEE ALSO PART #8).
+- THE NON-NEOPLASTIC MUCOSA SHOWS CHRONIC CYSTITIS.
+- THE PROSTATE SHOWS NODULAR HYPERPLASIA AND FOCAL HIGH GRADE PROSTATIC INTRAEPITHELIAL
+NEOPLASIA (PIN).
+- THE SEMINAL VESICLES ARE UNREMARKABLE.
+- THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF
+METASTATIC NODES IN RELATION TO THE TOTAL NUMBER OF NODES
+EXAMINED): PERIVESICAL LYMPH NODES-THREE BENIGN LYMPH NODES (0/3).
+RIGHT VAS DEFERENS; BIOPSY:
+BENIGN VAS DEFERENS.
+LEFT VAS DEFERENS; BIOPSY:
+BENIGN FIBROMUSCULAR AND VASCULAR TISSUE.
+UUID:E4D38398-CB3D-431A-8A1A-192565082A98
+TCGA-DK-A1AD-01A-PR
+Redacted
+4)
+LYMPH NODE, LEFT PELVIC; EXCISION:
+BENIGN ADIPOSE AND VASCULAR TISSUE.
+5)
+LYMPH NODES, RIGHT PELVIC; EXCISION:
+6)
+- METASTATIC UROTHELIAL CARCINOMA IN ONE OF SEVEN LYMPH NODES (1/7).
+LYMPH NODES, RIGHT HYPOGASTRIC; EXCISION:
+METASTATIC UROTHELIAL CARCINOMA IN ONE OF FOUR LYMPH NODES (1/4).
+Page 1 of 4
+Criteria
+Diagnosis Discrepancy
+Prinary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Frinary Noted
+Case is circle):
+Reviewer initials
+Aut
+Yes
+No
+QUALIFIED
+DISQUALIFIED
+Dave Reviewed:
+7)
+SURGICAL PATHOLOGY REPORT
+DISTAL URETER, LEFT; BIOPSY:
+8)
+- BENIGN URETER. THERE IS NO EVIDENCE OF MALIGNANCY.
+DISTAL URETER, RIGHT; BIOPSY:
+BENIGN URETER. THERE IS NO EVIDENCE OF MALIGNANCY.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Special Studies:
+Result Speci
+RECUT
+Gross Description:
+***
+Report Electronically Signed Out ***
+al Stain
+Comment
+1)
+The specimen is received fresh, labeled “Bladder, prostate, seminal vesicles, urachus, perivesical nodes, urethra". It
+consists of a 6.0 x 5.5 x 4.7 cm bladder with a 4.5 x 3.5 x 2.0 cm attached prostate. The specimen is opened anteriorly to reveal a
+4.0 x 3.0 x 2.5 cm tan-white, infiltrative tumor, present in the right-inferior aspect of the bladder. The surface of the lesion is
+ulcerated. The lesion is 1.8 cm from the urethral resection margin. Additionally, there is a 1.2 x 1.0 cm ulcerated area present in
+the junction of bladder and urethral mucosa. The mucosal surface of the dome, left aspect of the bladder is grossly without lesions.
+The perivesical adipose tissue is grossly unremarkable. The left ureter is opened to reveal tan-pink, smooth mucosal surfaces.
+The right side ureter is possibly obliterated by the tumor and is grossly not identified. The prostate is cut to reveal tan, soft cut
+surfaces. No additional tumor is grossly seen. Multiple possible lymph nodes are identified in the perivesical adipose tissue. The
+specimen is photographed and TPS is sampled. Representative sections are submitted.
+The prostate weighs 68 grams. The prostate measures 3.8 cm from apex to base, 4.0 cm transversely, and 3.2 cm from anterior to
+posterior. The right and left seminal vesicles measure 4.0 x 2.3 cm and 4.0 x 2.0 cm, respectively. The external surface of the
+prostate is smooth. The prostate is inked (right - green; left - blue) and fixed in formalin overnight. The prostate is serially
+sectioned from apex to base at approximately 3 mm intervals. The prostate is entirely submitted.
+Summary of Sections:
+UR - urethral area
+LUR - left ureter
+TUR- tumor to urethra
+T
+- tumor
+B
+- random sections of bladder
+RA
+right apical margin
+LA - left apical margin
+BN bladder neck margin
+RSV-right seminal vesicle
+LSV - left seminal vesicle
+A-G - serial sections of prostate (apex to base)
+PLN Possible lymph nodes
+2)
+The specimen is received in formalin, labeled "Right vas deferens". It consists of a tubular shaped fragment of vas
+deferens surrounded by adipose tissue, measuring 3 cm in length and 0.3 cm in diameter. Representative sections are submitted.
+Summary of sections:
+U - undesignated
+Page 2 of 4
+SURGICAL PATHOLOGY REPORT
+3)
+The specimen is received in formalin, labeled "Left vas deferens". It consists of a tubular shaped fragment of vas
+deferens measuring 3 cm in length and 0.3 cm in diameter. Representative sections are submitted.
+Summary of sections:
+U undesignated
+4)
+-
+The specimen is received in formalin, labeled "Left pelvic lymph nodes". It consists of multiple fragments of adipose
+tissue measuring in aggregate 3 × 2 × 0.6 cm. Entirely submitted for all of the possible lymph nodes.
+Summary of sections:
+U undesignated
+5)
+The specimen is received in formalin, labeled "Right pelvic lymph nodes". It consists of multiple pieces of adipose tissue
+measuring in aggregate 6 x 4 x 1 cm. Multiple lymph nodes are identified ranging from 0.5 up to 2 cm in greatest dimension. The
+largest lymph node is bisected. The nodes are entirely submitted.
+Summary of sections:
+LN- lymph nodes
+6)
+The specimen is received in formalin, labeled "Right hypogastric lymph nodes". It consists of two lymph nodes ranging
+from 1 up to 1.5 cm in greatest dimension. The nodes are entirely submitted.
+Summary of sections:
+LN- lymph nodes
+7)
+The specimen is received in formalin, labeled "Left distal ureter". It consists of a fragment of unremarkable ureter
+surrounded by adipose tissue. The ureter measures 1.5 cm in length and 0.2 cm in diameter. Representative sections are
+submitted.
+Summary of sections:
+LU - left ureter
+8)
+The specimen is received in formalin, labeled "Right distal ureter". It consists of a fragment of unremarkable ureter
+surrounded by adipose tissue. The ureter measures 2 cm in length and 0.3 cm in diameter. Representative sections are submitted.
+Summary of sections:
+RU - right ureter
+Summary of Sections:
+Part 1: SP: Bladder, prostate, seminal vesicles, urachus, perivesical nodes, urethra (am)
+Block
+3
+1
+1
+1
+Sect. Site
+A
+B
+BN
+PCs
+1
+3
+1
+1
+1
+1
+1
+1
+1
+LA
+1
+1
+LSV
+1
+LUR
+1
+Page 3 of 4
+51151
+1
+SURGICAL PATHOLOGY REPORT
+PLN
+RA
+RSV
+T
+5115.
+5
+TUR
+UR
+1
+Part 2: SP: Rt. vas deferens (pjm)
+Block
+1
+Sect. Site
+U
+PCs
+3
+Part 3: SP: Lt. vas deferens (pjm)
+Block
+1
+Sect. Site
+U
+PCs
+3
+Part 4: SP: Lt. pelvic lymph nodes (pjm)
+Block
+2
+Sect. Site
+PCs
+4
+Part 5: SP: Rt. pelvic lymph nodes (pjm)
+Block
+2
+1
+Sect. Site
+PCs
+BLN
+2
+LN
+3
+Part 6: SP: Rt. hypogastric lymph nodes (pjm)
+Block
+↑
+Sect. Site
+LN
+PCs
+3
+Part 7: SP: Lt. distal ureter (pjm)
+Block
+Sect. Site
+LU
+PCs
+3
+Part 8: SP: Rt. distal ureter (pjm)
+Block
+1
+Sect. Site
+RU
+PCs
+3
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Frior Malignancy History
+Dual/Synchronous Primary Noted
+Cuse is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+Page 4 of 4
+END OF REPORT

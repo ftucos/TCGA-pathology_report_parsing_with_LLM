@@ -1,0 +1,260 @@
+UUID:0D074A99-0D21-4430-B82F-28E56A0D4242
+TCGA-FD-A5BX-01A-PR
+Redacted
+Gender: Male
+Race: White
+Pathology Report:
+ICD-0-3
+PATH: Carcinoma w/osteoclast-like
+Giant Cells 8035/3
+COCF: Carcinoma, Urothelial NOS 8120/3
+Path Site: Bladder, posterion and lateral Wall
+067.8
+CGCF Site: Bladder, posterior Wall C67.4
+8012/24/12
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Left pelvic lymph node; lymphadenectomy:
+- Eight lymph nodes, no tumor (0/8).
+B. Urinary bladder, prostate, left and right vas deferens;
+cystoprostatectomy:
+- Bladder with invasive osteoclast-like giant cells rich poorly
+differentiated urothelial carcinoma, invading thru the muscularis propria and
+into the perivesical soft tissue, see pathologic parameters and comment.
+- Tumor shows multifocal lymphovascular invasion and spread within the
+bladder wall to perivesical soft tissues.
+- Posterior bladder and right ureter margins, positive for tumor.
+- Prostate with incidental prostatic adenocarcinoma, see pathologic parameters.
+C. Right pelvic lymph nodes; lymphadenectomy:
+- Soft tissue deposits of metastatic osteoclasts-like giant cell rich
+urothelial carcinoma, see comment.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Invasive poorly differentiated osteoclast-like giant cells rich
+urothelial carcinoma, see comment.
+2. Grade of tumor: High grade.
+3. Depth of invasion: Extravesicular soft tissue (macroscopic).
+4. Tumor distribution: Large mass (4.0 cm) at inferior posterior and right
+lateral wall, and with multiple small tumor foci in bladder wall at anterior,
+posterior, right lateral and trigonal walls; additional free-floating/detached
+tumor fragments that measured 11 cm and 3.2 cm.
+5. Ureteral margins: Right ureter, positive for tumor.
+6. Distal urethral margin: Negative for tumor.
+7. Soft tissue margin or serosa: Positive for tumor (multifocal).
+8. Lymph nodes: Soft tissue deposits of urothelial carcinoma at right pelvic
+lymph node area.
+9. pTNM: pT3b, N1, MX, R1, see comment.
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Radical Prostatectomy Pathologic Parameters
+1. Gleason Score: 3+3=6.
+2. Perineural Invasion: Absent.
+3. Tumor Location: Peripheral zone - left (slide B10).
+4. Tumor Volume Estimate: 5%.
+5. High-grade P.I.N.: Multifocal.
+6. Seminal Vesicles: Negative for tumor.
+7. Extraprostatic Extension: Absent.
+8. Peripheral Margin: Negative for tumor.
+9. Distal (apical) Margin: Negative for tumor.
+10. Proximal (basilar) Margin: Negative for tumor.
+11. Regional Lymph Nodes (right and left): Negative for prostate carcinoma
+(0/8).
+12. pTNM: pT2a,N0,MX.
+Effective
+is Checklist utilizes the 7th edition TNM staging
+system for prostatectomy of the American Joint Committee on Cancer (AJCC) and
+the International Union Against Cancer (UICC).
+Comment
+The bladder tumor has a very unusual morphology in that it shows dense solid
+growth of predominantly epithelioid cells with focal spindling and few loose
+myxoid areas. The epithelioid tumor cells are high grade, have modest
+amphophilic cytoplasm and with brisk mitotic activity. In addition, numerous
+osteoclast-like giant cells are distributed all throughout the tumor. Foci of
+tumor necrosis are also present.
+Immunohistochemical stains performed show that the tumor cells are nuclear
+positive for GATA3 and with rare nuclear positivity for p63. Keratin Cam5.2, CK7
+and CK20 are negative. The positivity for GATA3 and p63 are supportive for
+urothelial carcinoma. Controls appropriate.
+Rare occurrence of osteoclast-like giant cells rich carcinoma, similar to the
+current case, has been reported in the urinary tract. The few cases previously
+reported showed an aggressive biologic behavior, see reference.
+On part C, the right lymphadenectomy specimen shows large soft tissue deposits
+of carcinoma, which may represent overgrowths from a lymph nodal tumor
+metastasis. No normal lymph node tissue however is identified. Of note, right
+pelvic lymphadenectomy was performed previously (together with ureterectomy,
+which was negative for tumor. Nodal status for the current bladder tumor
+is most consistent with N1.
+Reference:
+1. Baydar D, Amin MB, Epstein JI. Osteoclast-rich undifferentiated carcinomas of
+the urinary tract. Mod Pathol. 2006;19:161-71.
+XX
+[] MD
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [] MD
+Electronically Signed Out by () MD
+Clinical History:
+Patient is an
+year-old male with high-grade urothelial carcinoma undergoing
+radical cystectomy, prostatectomy, and lymph node dissection.
+Specimens Received:
+A: Left pelvic lymph node
+B: Bladder, prostate, left and right vas differens
+C: Right pelvic lymph node
+Gross Description:
+The specimens are received in three containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, "Left pelvic lymph node".
+Received in formalin is an aggregate of yellow-tan, soft, and lobulated tissue
+fragments ranging in size from 1.1-1.4 cm in greatest dimension. The specimen is
+dissected to reveal 10 lymph node candidates ranging in size from 0.3-1.3 cm in
+greatest dimension. The specimen is submitted as follows:
+A1: 3 lymph node candidates
+A2: 2 lymph node candidates
+A3: 2 lymph node candidates
+A4: 2 lymph node candidates
+A5: 1 lymph node candidate
+A6: 1 lymph node candidate
+B. The second container is additionally identified as, "bladder, prostate, left
+and right vas deferens". Received fresh and placed in formalin is a 250 g, 12.5
+x 7 x 6 cm cystoprostatectomy specimen consisting of a 8.5 x 6.5 x 3 cm bladder
+with attached mesenteric fat and a detached 3.2 x 2 x 1.7 cm probable tumor (or
+prostate). The right seminal vesicles and right vas deferens are not clearly
+identified and a structure resembling the right seminal vesicles measure 1.5 x
+1.5 x 0.4 cm and there is no identifiable right vas deferens structure. The
+left vas deferens is not clearly identified and the left seminal vesicles
+measures 2.5x 1.5 x 0.4 cm and a structure resembling the left vas deferens
+measures 3 x 0.4 cm. The right ureteral stump measures 0.6 x 0.4 cm end
+demonstrates an intact, patent lumen. The left ureteral stump is absent and the
+left ureteral resection margin is taken where the ureter enters the bladder and
+is submitted as B3.
+The right half of prostate and bladder is inked blue and the left half is inked
+black. The bladder and prostate are opened anteriorly along the urethra. The
+fragments of the outer surface of the tumor fragment are white-brown and shaggy.
+Sectioning demonstrates a diffuse, homogenous, ill-defined, firm, white-tan.
+The opened bladder reveals a 1.8 x 1.2 x 0.3 cm raised, soft, red-pink lesion on
+the anterior wall designated as lesion #1, a 4 x 1.8 x 0.3 cm raised, soft,
+red-pink lesion on the inferior posterior wall and right inferior lateral wall
+designated as lesion #2, a 2.5 x 2.5 cm left posterior wall hemorrhage, and a
+1.4 x 1 x 0.2 cm raised, soft, red-pink lesion on the mid left lateral wall
+designated as lesion #3. There is also an aggregate of firm, white-tan tumor
+fragments, free floating within the bladder lumen and measuring 11 x 5 x 3 cm.
+On cut section, lesion #1 extends into the muscularis propria and grossly into
+the perivesical tissue and is close to the deep margin. On cut section, lesion
+#2 does not extend beyond the mucosa, and lesion #3 does not extend beyond the
+mucosa and is 1.0 cm from the deep margin.
+There is a 0.6 x 0.5 x 0.5 cm rubbery, white-tan, mass which is in the muscle
+layer of the left lateral anterior wall and extending into the perivesicular
+adipose tissue.
+The surrounding bladder mucosa is edematous, wrinkled, congested, pink-tan with
+a uniform 0.1-0.2 cm wall thickness. Bilateral ureteral orifices, adjacent to
+the trigone, are identified and probe patent.
+Representative sections are submitted as follows:
+B1: Right ureter resection margin
+B2: Distal prostatic urethral margin
+B3: Left ureter resection margin (insertion into the bladder
+B4-B10: Representative right and left of probable tumor (rule out prostate)
+B11-B13 Lesion #1 (closest to deep margin B13)
+B14-B16 Lesion #3 (closest to deep margin B16)
+B17-B19: Lesion #2
+B20: Uninvolved bladder mucosa bladder dome
+B21: Uninvolved bladder mucosa anterior wall
+B22: Uninvolved bladder mucosa posterior wall
+B23: Uninvolved bladder mucosa trigone
+B24: Uninvolved bladder mucosa right lateral wall
+B25: Uninvolved bladder mucosa left lateral wall
+B26: Possible tumor deposit 0.3 cm from deep margin
+B27: Representative vas deferens and seminal vesicles
+B28-B30: Representative free floating tumor fragments
+B31-32: Additional free floating tumor fragments
+B33-B38: Additional possible prostate
+B39-B44: Additional free floating tumor fragments
+C. The third container is additionally identified as, "Right pelvic lymph
+node". Received in formalin is an aggregate of yellow-tan, soft, and lobulated
+fiber adipose tissue fragments ranging in size from 1-1.5 cm. The specimen is
+dissected to reveal for lymph node candidates ranging from 0.5-1.5 cm in
+greatest dimension. The lymph node candidates are submitted as follows:
+C1-C3: 1 lymph node candidate, bisected (each cassette)
+C4: 1 lymph node candidate
+XXX
+[ ] MD
+See Tss's Ax Discrepancy Form Stating this
+is writhelial manoma.
+DQ for histology par BER head pathologist.
+Criteria
+fon 12/20/12
+Diagnosis Discrepancy Discrepancy Form
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History Drefer/bladder
+Dual/Synchronous Primary Noted estate
+Case (circle):
+Rewe
+Yes
+No
+QUALIFIED ✓ DISQUALIFIED
+Date Reviewed: __
+9/2/20/12
+TCGA Pathologic Diagnosis Discrepancy Form
+V4.00
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+Tissue Source Site (TSS)
+Completed By (Interviewer Name on OpenClinica): _
+Diagnosis Information
+_TSS Identifier:
+TSS Unique Patient Identifier: .
+_Completed Date:
+#
+Data Element
+1
+Pathologic Diagnosis
+Provided on Initial
+Pathology Report
+Histologic features of
+the sample provided
+2
+for TCGA, as reflected
+Entry Alternatives
+Invasive perorly differentiated
+osteoclast-like
+giant cells rich
+Urothelial carcinoma
+muscle invasive urothelial carcinoma
+Working Instructions
+Provide the diagnosis/ histologic subtype(s) documented on
+the initial pathology report for this case. If the histology for
+this case is mixed, provide all listed subtypes.
+Provide the histologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+on the CQCF.
+Discrepancy between Pathology Report and Case Quality Control Form
+3
+Provide the reason for
+the discrepancy
+between the pathology
+report and the TCGA
+Case Quality Control
+Form.
+The tumos is all
+Musele invasive urothelial
+carcinoma, high grade,
+with Morphologically
+variant features.
+Provide a reason describing why the diagnosis on the initial
+pathology report for this case is not consistent with the
+diagnosis selected on the TCGA Case Quality Control Form.
+Name of TSS Reviewing
+4
+Pathologist or
+Biorepository Director
+Provide the name of the pathologist who reviewed this case
+for TCGA.
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+TSS Reviewing logs or Biorepository Director
+Date
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+Principal Investigator Signature ✓
+Date

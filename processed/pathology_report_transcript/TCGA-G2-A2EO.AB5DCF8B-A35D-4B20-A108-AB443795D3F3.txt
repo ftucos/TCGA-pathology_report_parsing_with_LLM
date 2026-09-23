@@ -1,0 +1,121 @@
+UUID:ABSDCF8B-A35D-4B20-A108-AB443795D3F3
+TCGA-G2-A2E0-01A-PR
+DIAGNOSIS
+Redacted
+Pathology Review
+ICD-0-3
+Carcinoma, urothelial, NOS 8120/3
+Site: bladder, anteriorwall C67.3
+(A) LEFT VAS:
+Segment of vas deferens, no tumor present.
+(B) LEFT URETER:
+Segment of ureter with mild reactive atypia, no tumor present.
+(C) RIGHT VAS:
+Segment of vas deferens, no tumor present.
+(D) RIGHT URETER:
+Segment of ureter, no tumor present.
+(E) BLADDER, PROSTATE AND SEMINAL VESICLES:
+Bladder: UROTHELIAL CARCINOMA, NONPAPILLARY TYPE, GRADE 3.
+TRANSMURAL INVASION OF BLADDER WALL WITH FOCAL
+EXTENSION INTO PERIVESICAL ADIPOSE
+TISSUE.
+UROTHELIAL CARCINOMA IN SITU IN A BACKGROUND OF
+NEOPLASIA.
+DIFFUSE LOW GRADE INTRAUROTHELIAL
+Serosal and resection margins, free of tumor.
+Prostate: Prostate with microcystic adenomatous change. No evidence of
+malignancy.
+(F) RIGHT COMMON ILIAC LYMPH NODES:
+Fibroadipose tissue, no lymph node or tumor present.
+(G) RIGHT EXTERNAL ILIAC LYMPH NODE:
+Four lymph nodes, no tumor present (0/4).
+(H) RIGHT OBTURATOR LYMPH NODE:
+Seven lymph nodes, no tumor present (0/7).
+(I) LEFT COMMON ILIAC:
+Five lymph nodes, no tumor present (0/5).
+(J) LEFT EXTERNAL ILIAC:
+Two lymph nodes, no tumor present (0/2).
+(K) LEFT OBTURATOR:
+Ten lymph nodes, no tumor present (0/10).
+(L) LEFT URETER, FINAL MARGIN:
+Wall of ureter, no tumor present.
+(M) RIGHT URETER, FINAL MARGIN:
+Wall of ureter, no tumor present.
+GROSS DESCRIPTION
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prima.y Noted
+Case is (circle):
+Reviewer initials
+/ 11/1/11
+QUALIFIED
+Date Review
+6/1/11
+Yes
+No
+DISQUALIFILD
+(A) LEFT VAS - A white-tan portion of vas deferens measuring 5 cm in length x 0.3 cm
+in diameter. A lumen is present on the cut surfaces. Specimen is representatively
+submitted in A.
+(B) LEFT URETER -A segment of ureter 0.8 cm long and 0.1 cm in diameter with
+surrounding fibroadipose tissue. The resection margin is inked by the surgeon and entire
+specimen is submitted for frozen in block B (ink side down, en face).
+*FS/DX: BENIGN URETER.
+(C) RIGHT VAS - A segment white-tan vas deferens measuring 5.5 cm in length x 0.3
+cm in diameter. A pinpoint lumen is visible in the cut surfaces. Specimen is
+representatively submitted in C.
+(D) RIGHT URETER - A segment of ureter (1.0 x 0.7 cm). The margin, designated by
+the surgeon with ink, is reinked blue and submitted en face for frozen section in D.
+*FS/DX: BENIGN URETER.
+(E) BLADDER, PROSTATE AND SEMINAL VESICLES - A cystoprostatectomy
+measuring overall (14 x 7.5 x 7 cm). The specimen is opened longitudinally through the
+superior wall to reveal a fungating tumor (9 x 7 x 2.5 cm) involving the near entire
+anterior bladder wall and dome. The tumor appears to invade the muscular wall of the
+bladder but does not extend into the perivesical adipose tissue.
+The remaining bladder mucosa shows hemorrhage, especially in the trigone, and
+is other unremarkable.
+INK CODE: Black - outer surface of anterior wall.
+SECTION CODE: E1-E48, bladder with tumor; E49-E57, prostate; E58, E59,
+urethra, en face.
+-
+(F) RIGHT COMMON ILIAC LYMPH NODES – A single red tan piece of tissue
+measuring 2.4 x 1.5 x 1 cm. Three potential lymph nodes are palpated, ranging in size
+from 0.4 to 0.6 cm in greatest dimension. No tumor is seen grossly. Specimen is entirely
+submitted.
+SECTION CODE: F1, three potential lymph nodes; F2, remainder of specimen.
+(G) RIGHT EXTERNAL ILIAC LYMPH NODE - Multiple red tan pieces of adipose
+tissue measuring 4.9 x 4 x 1 cm in aggregate. Five possible lymph nodes are found,
+ranging in size from 0.5 to 3.7 cm in greatest dimension. No tumor is seen grossly.
+Specimen is entirely submitted.
+SECTION CODE: G1, three potential lymph nodes; G2, G3, single lymph node;
+G4, G5, single lymph node.
+(H) RIGHT OBTURATOR LYMPH NODE – Multiple red tan pieces of adipose tissue
+measuring 5 x 2.5 x 2 cm in aggregate. Seven potential lymph nodes are found, ranging
+in size from 0.4 to 2.6 cm in greatest dimensions. No tumor is seen grossly.
+SECTION CODE: H1, four potential lymph nodes; H2, one potential lymph
+node; H3, one potential lymph node; H4, H5, single lymph node, sectioned.
+(I) LEFT COMMON ILIAC - Received is a 3.5 x 3.0 x 1.0 cm portion of fibroadipose
+tissue, which yields multiple possible lymph nodes, ranging from 0.6 cm to 1.5 x 0.8 x
+0.6 cm. The lymph nodes are submitted entirely.
+SECTION CODE: 11, three lymph nodes; 12, two lymph nodes.
+(J) LEFT EXTERNAL ILIAC - Received is a 5.0 x 4.2 x 1.0 cm portion of fibroadipose
+tissue which yields two possible lymph nodes, measuring 2.0 x 0.8 x 0.5 cm and 3.0 x 1.5
+x 0.5 cm. Both lymph nodes are submitted entirely.
+SECTION CODE: J1, one lymph node; J2, J3, one lymph node, serially
+sectioned.
+(K) LEFT OBTURATOR - Multiple fibroadipose tissue fragments (6.5 x 4.0 x 1.0 cm).
+Eleven possible lymph nodes, ranging from 0.5 to 2.5 cm in greatest dimension are
+identified and are submitted in toto.
+SECTION CODE: K1, four lymph nodes; K2, three lymph nodes; K3, one lymph
+node, bisected; K4, one lymph node, bisected; K5, one lymph node, bisected; K6, one
+lymph node, bisected.
+-
+(L) LEFT URETER FINAL MARGIN – A segment of ureter (1.7 x 0.6 cm). The true
+margin. designated by the surgeon with ink, is reinked blue and submitted en face in L.
+(M) RIGHT URETER FINAL MARGIN -- A segment of ureter (0.8 x 0.8 cm). The
+margin, designated by the surgeon with ink, is reinked blue and submitted en face in M.
+CLINICAL HISTORY
+None given.

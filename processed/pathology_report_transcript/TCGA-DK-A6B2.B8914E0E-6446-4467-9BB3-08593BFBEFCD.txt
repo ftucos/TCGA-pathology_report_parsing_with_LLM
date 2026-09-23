@@ -1,0 +1,306 @@
+UUID:B8914E0E-6446-4467-9BB3-08593BFBEFCD
+TCGA-DK-A6B2-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+Gender:
+DOB:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+SURGICAL PATHOLOGY REPORT
+(Age:
+Location:
+M
+Service: Urology
+Clinical Diagnosis & History:
+T2 UCB.
+Specimens Submitted:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+C4CF
+INPATIENT
+ICD-O-3
+812013
+Carcinona, urothelial NOS
+Site " Bladder, preterior wall
++ Bladder, NOS $67.9
+1: Bladder, prostate, seminal vesicles, peri-vesicle lymph nodes, radical cystoprostatectomy
+2: Right distal pelvic lymph nodes, resection
+3: Left distal pelvic lymph nodes, resection
+4: Right distal ureter, excision
+5: Left distal ureter, excision
+path
+C67.4
+JW 6/18/13
+DIAGNOSIS:
+1. Bladder, prostate, seminal vesicles, peri-vesicle lymph nodes, radical cystoprostatectomy:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Right ureter involved
+Left ureter involved
+Urethra involved
+Periurethral prostatic ducts involved
+Prostatic stroma involved
+Vascular Invasion:
+Identified
+extensive
+Perineural Invasion:
+Identified
+Surgical Margins:
+Tumor present at right ureteral margin
+Tumor present at left ureteral margin
+Tumor present at urethral margin
+For actual ureteral margins, please see parts 4 and 5
+Non-Neoplastic Mucosa:
+Prostate:
+Exhibiting ulceration
+Other Extensively involved by urothelial carcinoma
+Seminal Vesicles:
+Other Involved by invasive urothelial carcinoma, bilateral
+Page 1 of 5
+SURGICAL PATHOLOGY REPORT
+Perivesical Lymph Nodes:
+Not identified
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+PR2 (Periprostatic or periseminal vesicle soft tissue invasion)
+2. Right distal pelvic lymph nodes, resection:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 2
+Number of lymph nodes with metastatic disease: 1
+☐ Size of the largest lymph node involved by tumor: 1.8cm.
+Size of the largest metastatic focus: 0.9 cm.
+Extranodal extension is identified
+Left distal pelvic lymph nodes, resection:
+Lymph Node Dissection:
+Benign fibroadipose tissue
+4. Right distal ureter:
+- Urothelial carcinoma in situ
+- Resection margin involved by carcinoma in situ
+5. Left distal ureter:
+- Urothelial carcinoma in situ
+- Resection margin involved by carcinoma in situ
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Gross Description:
+*** Report Electronically Signed Out ***
+1). The specimen is received fresh labeled, "Bladder, prostate, seminal vesicles, peri-vesicle lymph node". It consists of a bladder
+with attached prostate and adnexa measuring 19.0 cm from superior to inferior, 11.0 cm laterally and 5.0 cm from anterior to
+posterior. The anterior aspect of the bladder is inked blue and the posterior black. The prostatic urethral margin is shaved and
+submitted. The bladder is opened along the anterior midline to reveal hemorrhagic, ulcerated, indurated, necrotic tumor measuring
+5.0 x 4.8 x 1.8 cm which is grossly situated within the left and right posterior walls. The tumor grossly involves both the left and
+right ureteral orifices. Both ureters are probed patent measuring up to 0.2 cm in maximum diameter. The lesion is sectioned to
+reveal white-pink cut surface with invades the underlying fat. Possible extension to the inked fat is grossly identified. The remaining
+bladder mucosa is pink-tan with the normal folds. Two ovoid lesions measuring 0.6 x 0.4 cm are identified at the dome and right
+posterior wall. Discrete perivesical lymph nodes are grossly not identified. The prostate is serially sectioned to reveal white-tan
+prostatic parenchyma with multiple yellow foci and white fluid filled cysts identified. A gold thread-like material is identified within
+the prostate. Representative sections are submitted sections from each prostatic quadrant and transition zone. TPS is submitted,
+gross photograph taken.
+Summary of sections:
+UTHM urethral margin
+RUM - right ureter margin
+LUM - left ureter margin
+Page 2 of 5
+T- tumor
+DL-dome lesion
+WL--wall lesion
+-
+RUO right ureter orifice
+LUO left ureter orifice
+LP - left posterior wall
+LA left anterior wall
+RP - right posterior wall
+RA right anterior wall
+TRI -- trigone
+DOM - dome
+F perivesical fat
+-
+RSV right seminal vesicle
+LSV - left seminal vesicle
+RAP right apex prostate
+LAP left apex prostate
+RAM right anterior mid prostate
+RPM right posterior mid prostate
+LAM left anterior mid prostate
+LPM - left posterior mid prostate
+RAB right anterior base prostate
+RPB right posterior base prostate
+-
+LAB left anterior base prostate
+LPB left posterior base prostate
+SURGICAL PATHOLOGY REPORT
+2). The specimen is received in formalin, labeled "Right distal pelvic lymph nodes" and consists of three pink tan firm, fatty lymph
+nodes ranging from 1.5 to 3.2 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph node
+BL1 bisected lymph node #1
+BL2 bisected lymph node #2
+3). The specimen is received in formalin, labeled "Left distal pelvic lymph nodes" and consists of a portion of yellow tan adipose
+tissue measuring 4 x 1 x 1 cm. No palpable lymph node is identified. Entirely submitted.
+Summary of sections:
+U undesignated
+4) The specimen is received in formalin, labeled "right distal ureter- unclipped end is margin" and consists of a gray-tan segment of
+ureter measuring 0.7 cm in length and 0.4 cm in diameter. A clip is present at one end which is inked black. The opposite end,
+identified as the margin, is inked blue. The specimen is serially sectioned and totally submitted.
+Summary of sections:
+Mmargin (blue ink)
+SS serial sections
+5) The specimen is received in formalin, labeled "left distal ureter- unclipped end is margin" and consists of a gray-tan segment of
+ureter measuring 2.3 cm in length and 0.4 cm in diameter. A clip is present at one end which is inked black. The opposite end,
+identified as the margin, is inked blue. The specimen is serially sectioned and totally submitted.
+Summary of sections:
+Page 3 of 5
+SURGICAL PATHOLOGY REPORT
+M-margin (blue ink)
+SS serial sections
+Summary of Sections:
+Part 1: Bladder, prostate, seminal vesicles, peri-vesicle lymph nodes, radical cystoprostatectomy
+Block
+Sect. Site
+PCs
+DL
+DOM
+1
+F
+1
+1
+LA
+1
+LAB
+1
+1
+LAM
+1
+1
+P22-2---
+LAP
+1
+1
+LP
+2
+1
+LPB
+1
+LPM
+1
+1
+LSV
+1
+1
+LUM
+1
+LUO
+1
+1
+RA
+2
+1
+RAB
+1
+1
+RAM
+1
+1
+RAP
+1
+1
+RP
+2
+1
+RPB
+1
+1
+RPM
+1
+1
+RSV
+1
+RUM
+1
+1
+RUO
+1
+7
+T
+7
+1
+TRI
+2
+1
+UTHM
+1
+1
+WL
+2
+Part 2: Right distal pelvic lymph nodes, resection
+Block
+1221
+Sect. Site
+PCs
+BL1
+2
+BL2
+LN
+2
+1
+Part 3: Left distal pelvic lymph nodes, resection
+Block
+3
+Sect. Site
+U
+Part 4: Right distal ureter, excision
+Block
+1
+1
+PCs
+3
+Sect. Site
+PCs
+M
+1
+SS
+Part 5: Left distal ureter, excision
+Block
+Sect. Site
+M
+PCs
+1
+Page 4 of 5
+2
+SS
+SURGICAL PATHOLOGY REPORT
+4
+Page 5 of 5
+Yes
+No
+Criteria.
+Diagnosis Discrepancy
+hi 5/5/13.
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual Synchronous Primary Notad
+ase is (circle):
+eviewer Initials
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+J3
+END OF REPORT

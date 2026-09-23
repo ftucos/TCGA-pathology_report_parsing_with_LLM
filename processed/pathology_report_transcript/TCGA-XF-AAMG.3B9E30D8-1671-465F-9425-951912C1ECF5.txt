@@ -1,0 +1,376 @@
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+Document Type:
+*Date -
+- 
+Date of Service:
+Document Status:
+Document Title:
+Encounter info:
+Contributor System:
+UUID:3B9E30D8-1671-465F-9425-951912C1ECF5
+Redacted
+TCGA-XF-AAMG-01A-PR
+* Final Report *
+IGD 0.3
+Carcinoma urothelial Nos
+Site: Bladder NOS
+812013
+ORDERING PHSYCIAN:
+Ordering Physician:
+PRE-OPERATIVE DIAGNOSIS:
+Prostate cancer
+MICROSCOPIC DESCRIPTION:
+A-E: See final microscopic-diagnosis.
+0679
+03/26/14
+F: Sections of the bladder and prostate show a poorly differentiated, invasive urothelial carcinoma. The tumor
+cells grow in trabeculae and display a high nuclear to cytoplasmic ratio and a high mitotic rate. Nuclear
+pleomorphism is moderate and nuclear irregularities are present. The chromatin is coarsely clumped with areas
+of irregular clearing with moderate to sparse eosinophilic cytoplasm. Cell borders are indistinct. Tumor cells deep
+invade the prostatic parenchyma approaching to within 0.1 cm of the inked prostatic capsular radial margin (F17).
+G-V: See final microscopic-diagnosis.
+Signature Line
+Signed by:
+ELECTRONIC SIGNATURE
+GROSS DESCRIPTION:
+A: The specimen is received fresh from the O.R. and labeled "Right uretheral margin" (sic). It consists of a 0.3
+cm length of ureter 0.5 cm in diameter. Entirely submitted in one cassette for frozen section.
+B: The specimen is received fresh from the O.R. and labeled "Left uretheral margin" (sic). It consists of a 0.3 cm
+length of ureter 0.2 cm in diameter. Entirely submitted in one cassette for frozen section.
+C: The specimen is received fresh from the O.R. and labeled "Peritoneal mass." It consists of a 3 × 3 × 0.7 cm,
+greasy, yellow to off white tissue fragment. Cut section reveals a lobular, green-yellow architecture with fine, white
+Printed by:
+Printed on:
+Page 1 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+streaks. Submitted in two cassettes, one cassette for frozen and two cassettes for permanent.
+D: The specimen is received fresh from the O.R. and labeled "Inferior urethral margin." It consists of a 0.4 × 0.4 x
+0.2 cm, tan tissue fragment. Entirely submitted for frozen section.
+E: The specimen is received fresh from the O.R. and labeled "Posterior urethral margin." It consists of a 1 × 0.5 x
+0.4 cm, tan tissue fragment. Entirely submitted for frozen section.
+F: The specimen is received fresh from the O.R. and labeled "Bladder & prostate." It consists of a 20 x 13.5 x 5.5
+cm cystoprostatectomy specimen. The peritoneum measures 17 x 12 cm and is grossly uninvolved. The bladder
+measures 5 x 5 x 3 cm. The prostate measures approximately 23 x 3 x 3 cm to palpation but is firmly attached to
+a 5 x 4 x 3 cm, palpable mass at the neck of the bladder. The specimen is opened along its anterior surface to
+reveal the following: A 5 x 4 x 3 cm, lobulated, exophytic mass that is located in the portion of the bladder inferior
+margin. A portion of the mass detached from the specimen upon opening. The surface of the mass displays
+stellate ulceration and necrosis. The mass is located at the interface between the bladder and the prostate. Serial
+section reveals a flat demarcation between the mass and the prostate. The cut surface of the mass is firm and
+white-tan and displays an interface with the prostate parenchyma. The prostatic parenchyma is not lobulated;
+however, fine, protruding, yellow-white, punctate areas are present in the right lobe of the prostate. The prostatic
+urethra measures 1.5 cm in length and is grossly involved. The verumontanum is excavated. The uninvolved
+bladder mucosa is purple and edematous. No other lesions are noted. The uninvolved wall is 0.6 cm in
+thickness. The maximum depth of invasion is 1.1 cm. The bladder wall thickness in the area of invasion cannot
+be measured as it occurs in the bladder neck. Representative sections are submitted in 25 cassettes (see
+summary).
+G: The specimen is received fresh from the O.R. and labeled "Posterior urethral margin."
+It consists of a 1.4 x 0.5 x 0.3 cm, tan tissue fragment. Entirely submitted for frozen section.
+H: The specimen is received fresh from the O.R. and labeled "Anterior urethral margin." It consists of a 1.4 x 1 x
+0.6 cm, tan tissue fragment. Entirely submitted for frozen section.
+I: The specimen is received fresh from the O.R. and labeled "Lateral urethral margin." It consists of a 0.5 x 0.4 x
+0.3 cm tissue fragment and a 0.7 x 0.4 x 0.3 cm tissue fragment. Entirely submitted for frozen section.
+J: The specimen is received in formalin and labelled "Right common iliac lymph nodes." It consists of a 2.2 × 2 ×
+0.7 cm aggregate of greasy, yellow tissue fragments. Entirely submitted in one cassette.
+K: The specimen is received in formalin and labeled "Right obturator lymph nodes." It consists of 7 x 3.5 x 1.4 cm
+of greasy, yellow tissue. Entirely submitted in five cassttes.
+L: The specimen is received in formalin and labeled "Right internal iliac lymph nodes." It consists of 5 x 4 x 1 cm
+of greasy, yellow tissue fragments. Entirely submitted in three cassettes.
+Printed by:
+Printed on:
+Page 2 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+M: The specimen is received in formalin and labeled "Presacral lymph nodes." It consists of a 4 × 3 × 1.5 cm of
+greasy, yellow tissue. Entirely submitted in one cassette.
+N: The specimen is received in formalin and labeled "Left obturator lymph nodes." It consists of a 5 × 2 × 0.8 cm
+of greasy, yellow tissue fragment. Entirely submitted in three cassettes.
+O: The specimen is received in formalin and labeled "Left external iliac lymph nodes." It consists of 5 x 5 x 1 cm
+of greasy, yellow tissue. Submitted in in three cassettes.
+P: The specimen is received in formalin and labeled "Right hypogastric lymph nodes." It consists of a 1.5 x 0.8 x
+0.5 cm, purple-tan tissue fragment. Entirely submitted in one cassette.
+Q: The specimen is received in formalin and labeled "Obturator vessel". It consists of a 1.5 x 1.2 × 0.5 cm of
+portion of vascular tissue. Entirely submitted in a single cassette.
+R: The specimen is received in formalin and labeled "Left common iliac lymph nodes." It consists of a 1.5 x 1.5 x
+0.5 cm, greasy, yellow tissue fragment. Entirely submitted in one cassette.
+S: The specimen is received in formalin and labeled "Left presciatic lymph nodes." It consists of a 2 x 0.7 × 0.3
+cm, greasy, yellow tissue fragment. Entirely submitted in one cassette.
+T: The specimen is received in formalin and labeled "Appendix." It consists of a vermiform appendix measuring
+4.8 cm in length and 0.5 cm in diameter. The serosal surface is unremarkable with the exception of creeping fat
+reaction located from the tip to 1 cm proximal to the tip. Representative sections in one cassette.
+U: The specimen is received in formalin and labeled "Left proximal ureter." It consists of a 0.7 cm length of
+ureter, 0.5 cm in diameter. Entirely submitted in one cassette.
+V: The specimen is received in formalin and labeled "Right proximal ureter." It conists of a 1.5 cm disrupted
+length of ureter, 0.4 cm in diameter. Entirely submitted in one cassette.
+SECTIONS:
+AFS:
+BFS:
+CFS:
+C1,2:
+DFS:
+EFS:
+F1:
+F2:
+frozen section, right ureteral margin all embedded
+frozen section, left ureteral margin all embedded
+frozen section, peritoneal mass
+peritoneal mass
+frozen section, inferior urethral margin all embedded
+frozen section, posterior urethral margin all embedded
+uninvolved bladder mucosa
+left ureterovesical junction
+Printed by:
+Printed on:
+Page 3 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+Final Report *
+right ureter
+additional section of uninvolved bladder mucosa
+right distal prostate with tumor
+left distal prostate
+right mid anterior prostate with tumor
+right mid posterior prostate
+left mid anterior prostate with tumor
+left mid posterior prostate
+right proximal prostate arranged anterior to posterior
+left proximal prostate arranged anterior to posterior
+right seminal vesicle
+F3:
+right ureterovesical junction
+F4:
+left ureter
+F5:
+F6:
+F7,8:
+F9:
+F10,11:
+F12:
+F13-16:
+F17:
+F18-20:
+F21-23:
+F24;
+F25:
+GFS:
+HFS:
+IFS:
+J:
+K1,2:
+K3-5:
+L1-3:
+M:
+N1,2:
+N3:
+remaining tissue
+0:
+P:
+left proximal posterior prostate
+frozen section, posterior urethral margin all embedded
+frozen section, anterior urethral margin all embedded
+frozen section, lateral urethral margin all embedded
+right common iliac lymph nodes all embedded
+single, palpable, right common iliac lymph node, multiple sections
+remaining tissue
+right internal iliac lymph nodes all embedded
+presacral lymph nodes all embedded
+single left obturator lymph node
+left external iliac lymph nodes
+right hypogastric lymph nodes all embedded
+obturator vessel all embedded
+left common iliac lymph nodes all embedded
+left presciatic lymph nodes all embedded
+appendix
+left proximal ureter all embedded
+right proximal ureter all embedded
+INTRAOPERATIVE DIAGNOSIS:
+FROZEN SECTION DIAGNOSIS:
+AFS: Right ureteral margin:
+-
+no carcinoma in situ identified
+Printed by:
+Printed on:
+Page 4 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+BFS:
+CFS:
+-
+DFS:
+EFS:
+-
+Left ureteral margin:
+no carcinoma in situ identified
+Peritoneal mass:
+fat necrosis
+Inferior urethral margin:
+focus of carcinoma in situ in gland duct
+Posterior urethral margin:
+- carcinoma in situ in periurethral glands
+GFS:
+-
+HFS:
+Posterior urethral margin:
+no carcinoma in situ
+Anterior urethral margin:
+carcinoma in situ in periurethral glands
+IFS: Lateral urethral margin:
+- no carcinoma in situ
+DIAGNOSIS COMMENT:
+On specimen D, the frozen section shows a focus of carcinoma in situ in a gland. This is not present on the
+permanent section.
+There is a low grade papillary urothelial carcinoma in the region of the bladder neck and mid region of the bladder.
+A morphologically distinct high grade tumor arises in the bladder neck and prostatic urethra. This is a high grade
+tumor that invades the prostate and bladder neck. The low grade tumor is noninvasive.
+FINAL DIAGNOSIS:
+-
+RADICAL CYSTOPROSTATECTOMY, BILATERAL PELVIC LYMPH NODE DISSECTION, APPENDECTOMY:
+RIGHT URETERAL MARGIN (A):
+FROZEN SECTION DIAGNOSIS:
+NO CARCINOMA IN SITU IDENTIFIED
+FINAL DIAGNOSIS:
+NO HIGH GRADE UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+LEFT URETERAL MARGIN (B):
+Printed by:
+Printed on:
+Page 5 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+FROZEN SECTION DIAGNOSIS:
+NO CARCINOMA IN SITU IDENTIFIED
+FINAL DIAGNOSIS:
+-
+NO HIGH GRADE UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+PERITONEAL MASS (C):
+FROZEN SECTION DIAGNOSIS:
+-
+FAT NECROSIS
+FINAL DIAGNOSIS:
+INFARCTED APPENDICES EPIPLOICAE
+INFERIOR URETHRAL MARGIN (D):
+FROZEN SECTION DIAGNOSIS:
+FOCUS OF CARCINOMA IN SITU IN GLAND DUCT
+FINAL DIAGNOSIS:
+- UROTHELIAL CARCINOMA IN SITU IN A GLAND DUCT (SEE COMMENT)
+POSTERIOR URETHRAL MARGIN (E):
+FROZEN SECTION DIAGNOSIS:
+CARCINOMA IN SITU IN PERIURETHRAL GLANDS
+FINAL DIAGNOSIS:
+UROTHELIAL CARCINOMA IDENTIFIED
+BLADDER AND PROSTATE (F):
+BLADDER:
+-
+-
+-
+-
+INVASIVE UROTHELIAL CARCINOMA, GRADE 4/4, WITH EXTENSION INTO PROSTATIC
+DUCTS, GLANDS, AND STROMA
+· URETERS AND PROSTATIC RADIAL MARGIN, FREE OF TUMOR
+PAPILLARY UROTHELIAL CARCINOMA, GRADE 2/4 (SEE COMMENT)
+EJACULATORY DUCT AND SEMINAL VESICLE INVOLVEMENT IDENTIFIED
+NO EXTENSION INTO PERIPROSTATIC SOFT TISSUE IDENTIFIED
+TUMOR PRESENT WITHIN LYMPHOVASCULAR SPACES
+- THE NON-NEOPLASTIC PROSTATE SHOWS BENIGN GLANDULAR AND STROMAL
+-
+-
+HYPERPLASIA
+NO HIGH GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA OR PROSTATIC
+ADENOCARCINOMA IDENTIFIED
+- NO TUMOR SEEN IN TWO PERIVESICAL LYMPH NODES
+POSTERIOR URETHRAL MARGIN (G):
+FROZEN SECTION DIAGNOSIS:
+Printed by:
+Printed on:
+Page 6 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+-
+-
+NO CARCINOMA IN SITU IDENTIFIED
+FINAL DIAGNOSIS:
+NO HIGH GRADE UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+ANTERIOR URETHRAL MARGIN (H):
+FROZEN SECTION DIAGNOSIS:
+-
+CARCINOMA IN SITU IN PERIURETHRAL GLANDS
+FINAL DIAGNOSIS:
+- UROTHELIAL CARCINOMA IN SITU IN PERIURETHRAL GLANDS
+-
+LATERAL URETHRAL MARGIN (I):
+FROZEN SECTION DIAGNOSIS:
+NO CARCINOMA IN SITU
+FINAL DIAGNOSIS:
+-
+NO HIGH GRADE UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+RIGHT COMMON ILIAC LYMPH NODES (J):
+-
+NO EVIDENCE OF MALIGNANCY IN THREE LYMPH NODES EXAMINED (0/3)
+RIGHT OBTURATOR LYMPH NODES (K):
+NO EVIDENCE OF MALIGNANCY IN FOUR LYMPH NODES EXAMINED (0/4)
+RIGHT INTERNAL ILIAC LYMPH NODES (L)
+NO EVIDENCE OF MALIGNANCY IN NINE LYMPH NODES EXAMINED (0/9)
+PRESACRAL LYMPH NODES (M):
+NO EVIDENCE OF MALIGNANCY IN 12 LYMPH NODES EXAMINED (0/12)
+LEFT OBTURATOR LYMPH NODES (N):
+- NO EVIDENCE OF MALIGNANCY IN FOUR LYMPH NODES EXAMINED (0/4)
+LEFT EXTERNAL ILIAC LYMPH NODES (O):
+-
+NO EVIDENCE OF MALIGNANCY IN FOUR LYMPH NODES EXAMINED (0/4)
+RIGHT HYPOGASTRIC LYMPH NODES (P):
+NO EVIDENCE OF MALIGNANCY IN TEN LYMPH NODES EXAMINED (0/10)
+OBTURATOR VESSEL (Q):
+-
+NO SIGNIFICANT PATHOLOGIC CHANGE
+-
+NO EVIDENCE OF MALIGNANCY
+Printed by:
+Printed on:
+Page 7 of 8
+(Continued)
+HX SURGICAL PATHOLOGY REPORT
+* Final Report *
+LEFT COMMON ILIAC LYMPH NODE (R):
+NO EVIDENCE OF MALIGNANCY IN ONE LYMPH NODE (0/1)
+LEFT PRESCIATIC LYMPH NODES (S):
+-
+NO EVIDENCE OF MALIGNANCY IN TWO LYMPH NODES EXAMINED (0/2)
+APPENDIX (T):
+-
+"
+DISTAL LUMINAL OBLITERATION
+NO FURTHER SIGNIFICANT PATHOLOGIC CHANGE
+LEFT PROXIMAL URETER (U):
+- BENIGN URETER WALL, NO MUCOSA
+- NO EVIDENCE OF MALIGNANCY
+RIGHT PROXIMAL URETER (V):
+-
+BENIGN URETER
+-
+NO EVIDENCE OF MALIGNANCY
+PATHOLOGIC TNM STAGE: pT4aNOMX [NO TUMOR SEEN IN 51 LYMPH NODES (0/51)]
+Completed Action List:
+Printed by:
+Printed on:
+Page 8 of 8
+(End of Report)
+Criteria
+Diagnosis Discrepancy
+1/0 1/21/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+Date Reviewed:
+DISQUALIFIED
++16/201
+No

@@ -1,0 +1,141 @@
+UUID:9945C51F-169C-48D5-81FC-9BFEA1C276C6
+TCGA-YC-A856-01A-PR
+Redacted
+Research Gross Description
+-year-old male with bladder cancer
+Research Dx
+A. Right pelvic lymph nodes, right pelvic lymph node dissection:
+One benign lymph node (0/1).
+B. Left distal ureter:
+Negative for tumor.
+C. Right obturator lymph nodes:
+Three benign lymph nodes (0/3).
+ICD-0.3
+Carcinoma, papillary writhelial
+Site. Bladder Nos
+D. Left pelvic lymph nodes, left pelvic lymph node dissection:
+Eight benign lymph nodes (0/8).
+E. Bladder and prostate:
+813013
+067.9
+0 1/17/14
+✓ Papillary urothelial carcinoma, muscle invasive, high grade (see case summary).
+Prostatic adenocarcinoma (see case summary).
+F. Left common iliac lymph nodes:
+Four benign lymph nodes (0/4).
+G. Left ureteral margin:
+Negative for tumor.
+H. Urethral margin:
+Negative for tumor.
+I. Left distal ureter #3:
+Negative for tumor.
+CASE SUMMARY FOR URINARY BLADDER (CYSTECTOMY, PARTIAL, TOTAL OR RADICAL;
+ANTERIOR EXENTERATION):
+Specimen: Bladder
+Procedure: Radical cystoprostatectomy
+Tumor site: First focus of tumor involves right wall, left wall, posterior wall and trigone and second
+focus of tumor involves anterior wall
+Tumor size: First focus of tumor measures 5.7 cm and the second focus of tumor measures 2 cm
+Histologic type: Urothelial (transitional) carcinoma
+Associated epithelial lesions: Not identified
+Histologic grade (WHO 2004/ISUP): High grade
+Tumor configuration: Papillary
+Microscopic tumor extension: Tumor invades superficial muscularis propria (inner half)
+Margins: Negative
+Lymphovascular Invasion: A focal area suspicious for lymphovascular invasion
+Pathologic staging (pTNM):
+Primary tumor: pT2a (tumor invades superficial muscularis propria (inner half)
+Regional lymph nodes: Negative
+Number examined: 16
+Number involved: 0
+Distant metastasis: Not applicable (per clinical)
+Additional pathologic findings: Not identified
+1
+AJCC Staging (7th edition): pT2a, pN0, pM: Not applicable (per clinical)
+CASE SUMMARY FOR PROSTATE GLAND (RADICAL PROSTATECTOMY):
+Prostate size:
+Weight: Unknown
+Dimensions: 4.5 x 3.6 x 2.5 cm
+Lymph node sampling: Bilateral pelvic lymph node dissection
+Histologic type: Acinar adenocarcinoma
+Histologic grade:
+Gleason grade: 3+3 = 6
+Tumor quantitation:
+Proportion (percent) involved by tumor: less than 20%(multifocal on right side and unifocal left
+side)
+Tumor size (dominant nodule, if present): Not applicable
+Extraprostatic extension: Focal extra prostatic extension on the left side involving an area
+measuring 2 mm in length
+Seminal vesicle invasion: Not identified
+Margins: Negative
+Treatment effect on carcinoma: Not identified
+Lymphovascular invasion: Not identified
+Perineural invasion: Present
+Pathologic staging (pTNM):
+Primary tumor: pT3 (extraprostatic extension)
+Regional lymph nodes: pNO (no regional lymph node metastasis)
+Number involved: 0
+Number examined: 16
+Distant metastasis: pM: Not applicable (per clinical)
+Additional pathologic findings: Not identified
+AJCC Staging (7th edition) pT3, pNO, pM: Not applicable (per clinical)
+Research QC
+Tumor T1:
+50% tumor nuclei (high grade urothelial carcinoma)
+0% necrosis
+50% normal (subepithelial connective tissue and muscularis propria)
+Tumor T2:
+50% tumor nuclei (high grade urothelial carcinoma)
+0% necrosis
+50% normal (subepithelial connective tissue and muscularis propria)
+Normal N1:
+100% bladder wall
+Research Specimen
+Specimen Process Time
+Blood draw time:
+Plasma frozen time:
+Serum frozen time:
+2
+Buffy coat frozen time:
+Tissue:
+Cold ischemia start time:
+Formalin fixation start time:
+Frozen start time:
+Total cold ischemia time: 18 minutes
+Formalin fixation stop time:
+Total formalin fixation time: Greater than 6 and less than 72 hours
+Specimen Weight
+Normal
+1-214 mg, 2-352 mg
+Tumor
+1-230 mg, 2-225 mg_
+Specimen Size
+Plasma x 3
+Serum x 1
+Buffy coat x 1
+Cryovials x 4-bladder
+Normal x 2
+Tumor x 2
+Metastatic x 0
+FFPE x 4
+Normal x 2
+Tumor x 2
+Metastatic x0
+Study
+Patient Consent
+Yes
+Criteria
+/ 11/26/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Prostate
+Yes
+DISQUALIFIED
+Date Reviewed: 27
+No

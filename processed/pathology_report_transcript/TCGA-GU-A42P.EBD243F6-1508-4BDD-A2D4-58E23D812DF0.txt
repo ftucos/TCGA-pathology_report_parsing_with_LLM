@@ -1,0 +1,389 @@
+Results
+Patient Information
+Patient Name
+Result Information
+Status
+Final result{
+Entry Date
+Component Results
+Component
+Surgical Pathology
+Patient Name
+UUID: EBD243F6-1508-4BDD-A2D4-58E23D812DF0
+TCGA-GU-A42P-01A-PR
+BIOPSY OR S
+Sex
+DOB
+Provider Status
+Reviewed
+Lab
+Redacted
+MR#
+Specime
+Final Diagnosis
+A. Right ureter, biopsy:
+-Segment of benign ureter, negative for tumor
+-Frozen section diagnosis confirmed
+B. Left ureter, biopsy:
+-Segment of benign ureter, negative for tumor
+-Frozen section diagnosis confirmed
+C. Left external and internal lymph nodes, resection:
+-Benign fibrovascular tissue, negative for tumor
+-No lymph nodes identified
+D. Left internal and external iliac lymph node, resection:
+ICD-0-3
+Carcinoma, urothelial, NOS
+812013
+site: bladder, wall, Nus
+8-27-12
+RD
+-Single lymph node with metastatic urothelial carcinoma, 1.8 cm largest diameter
+(1/1)
+E. Left internal and external iliac lymph nodes, resection:
+-Eight benign lymph nodes and fibroadipose tissue, negative for tumor (0/8)
+F. Left obturator lymph node, resection:
+-Three benign lymph nodes and fibroadipose tissue, negative for tumor (0/3)
+G. Left common iliac lymph, resection:
+-One benign lymph nodes and fibroadipose tissue, negative for tumor (0/1)
+H. Right internal and external iliac node, resection:
+-One benign lymph nodes and fibroadipose tissue, negative for tumor (0/1)
+1. Right obturator lymph node, resection:
+-Benign fibroadipose tissue, negative for tumor
+-No lymph nodes identified
+J. Urinary bladder and prostate, radical cystoprostatectomy:
+-Invasive high grade urothelial carcinoma with glandular, micropapillary and
+sarcomatoid differentiation, 4.0 cm. involving bladder diverticulum
+-Tumor invades into perivesicle tissue (pT3a)
+867.9
+see TCGA Pathologic Diagnosis Discrepancy
+Criteria
+Diagnosis Discrepancy
+Primary Tutor Site Discrepancy
+PA Discrepancy
+Frior Malignancy History
+Dual/Synchronous Primary Noto
+se is frin lel:
+Reviewer Initials
+Ma
+QUALIFIED
+Date Reviewed:
+From
+Yes
+DISQUALIFIED
+$8.2012
+Page 1 of 8
+No
+سل
+8/20/12
+-Surgical resection margins are negative for tumor
+-Incidental prostatic adenocarcinoma, Gleason grade 3+3=6, organ confined (pT2a)
+and negative surgical margins
+-See CAP cancer template for further details
+Specimen
+Bladder and prostate
+Procedure
+Radical cystoprostatectomy
+Tumor Site
+Left lateral wall with involvement of diverticulum and extension to posterior
+wall, right lateral, anterior walls and prostatic urethra
+Tumor Size
+Greatest dimension: 4.0 cm
+Additional dimensions: 4.0 x 3.0 cm
+Histologic Type
+Urothelial (transitional cell) carcinoma with glandular, micropapillary and
+sarcomatoid differentiation
+Associated Epithelial Lesions
+None identified
+Histologic Grade
+High grade
+Tumor Configuration
+Ulcerated
+Microscopic Tumor Extension
+Perivesical fat
+Margins
+Margins uninvolved by invasive carcinoma
+Lymph-Vascular Invasion
+Present, extensive
+Pathologic Staging (pTNM)
+Primary Tumor (PT)
+pT3a: Tumor invades perivesicle fat, microscopic
+Regional Lymph Nodes (pN)
+pN1: Single regional lymph node metastasis in the true pelvis (hypogastric,
+obturator, external iliac or presacral lymph node)
+Specify: Number examined: 14 (see specimens C through I)
+Number involved (any size): 1
+Distant Metastasis (PM)
+Not applicable
+Additional Pathologic Findings
+Evidence of previous biopsy
+Incidental adenocarcinoma of prostate (see CAP template below)
+Ancillary Studies:
+Block J18 has been sent for ancillary studies, see separate report
+Page 2 of 8
+CAP cancer template for prostate cancer:
+Procedure
+Radical cystoprostatectomy
+Prostate Size
+Weight: Not applicable (part of bigger specimen)
+Size: 3.7 x 5.3 x 1.3 cm
+Lymph Node Sampling
+Pelvic lymph node dissection (see specimens C through I)
+Histologic Type
+Adenocarcinoma (acinar, not otherwise specified)
+Histologic Grade
+Gleason Pattern
+Primary Pattern: Grade 3
+Secondary Pattern: Grade 3
+Tertiary Pattern: Not applicable
+Total Gleason Score: 6
+Tumor Quantitation
+Proportion (percentage) of prostate involved by tumor: 1%
+Extraprostatic Extension
+Not identified
+Seminal Vesicle Invasion
+Not identified
+Margins
+Margins uninvolved by invasive carcinoma
+Treatment Effect on Carcinoma:
+Not identified
+Lymph-Vascular Invasion
+Not identified
+Perineural Invasion
+Not identified
+Pathologic Staging (pTNM)
+Primary Tumor (PT)
+pT2a: Unilateral, involving one-half of 1 side or less (left side)
+Regional Lymph Nodes (pN)
+PNO: No regional lymph node metastasis
+Specify: Number examined: 14 (see specimens C through I)
+Number involved: 0
+Distant Metastasis (PM)
+Not applicable
+Additional Pathologic Findings:
+High grade prostate intraepithelial neoplasm
+Ancillary Studies:
+Block J28 can be sent for ancillary studies if needed.
+K. Appendix, appendectomy:
+Benign appendix without significant histopathologic abnormality
+Page 3 of 8
+L. Left obturator, resection:
+-Benign fibroadipose tissue, negative for tumor
+-No lymph nodes identified
+The above pathology diagnosis incorporates data elements as outlined in the CAP
+Cancer Protocols and Checklists which are based on the AJCC/UICC TNM, 7th
+edition.
+Clinical History
+Bladder cancer.
+Radical cystectomy, lymph node dissection, ileal neobladder, possible ileal
+conduit, all other indicated procedures.
+Source:
+A: Right ureter
+B: Left ureter
+C: Left external and internal Lymph node
+D: Left internal and external iliac Lymph node
+E: Left internal and external iliac lymph nodes
+F: Left obturator lymph nodes
+G: Left common iliac lymph nodes
+H: Right internal and external iliac lymph nodes
+I: Right obturator lymph nodes
+J: Bladder and prostate
+K: Appendix
+L: Left obturator
+Gross Description
+Specimen A, received fresh labeled with the patient's name and designated 'right
+ureter, silk suture distal end' is a tubular segment of tissue 1.2 cm in length
+and 0.5 cm in diameter. The proximal margin is submitted for frozen section
+diagnosis as A1.
+Specimen B, received fresh labeled with the patient's name and designated 'left
+ureter, chromic stitch distal end' is a tubular segment of tissue 1.3 cm in
+length and 0.5 cm in diameter. The proximal margin is submitted for frozen
+section diagnosis as B1.
+Specimen C, received fresh labeled with the patient's name and designated 'left
+external and internal lymph nodes' is a 4.5 x 1.0 x 0.4 cm portion of adipose
+tissue. There is a 1.0 x 0.8 x 0.6 cm with a possible 1.0 x 0.8 x 0.6 cm lymph
+node. The node is submitted entirely for frozen section as C1.
+Specimen D, received fresh labeled with the patient's name and designated 'left
+internal and external iliac lymph node' is a 1.8 x 1.5 x 1.2 cm tan node. The
+cut surface is tan slightly bulging firm parenchyma. A section is submitted for
+frozen section diagnosis.
+Section key: The specimen is submitted entirely as follows:
+D1 frozen section
+-
+D2 remainder of nodule
+-
+Page 4 of 8
+Specimen E, received in formalin labeled with the patient's name and designated
+'left internal and external iliac lymph node' is 3.3 x 3.5 x 1.0 cm of
+fragmented fibrofatty tissue. There are seven possible nodes, 0.5 cm-1.0 cm.
+The nodes are submitted entirely as follows:
+E1 four whole nodes
+-
+E2 - two nodes, one inked blue and each bisected
+E3 one node, bisected
+Specimen F, received in formalin labeled with the patient's name and designated
+'left obturator lymph node' is 3.3 x 3.0 x 1.0 cm of fragmented fibrofatty
+tissue. There are three possible nodes, 0.5cm-1.5 x 0.8 x 0.5 cm. The nodes
+are submitted entirely as follows:
+F1 two nodes, one inked blue and each bisected
+-
+F2 - one node, bisected
+Specimen G, received in formalin labeled with the patient's name and designated
+'left common iliac lymph node' is a 2.0 x 1.0 x 1.0 cm portion of adipose
+tissue. There is a 1.2 × 0.8 x 0.8 cm tan node. The node is bisected and
+submitted entirely as G1.
+Specimen H, received in formalin labeled with the patient's name and designated
+'right internal and external iliac lymph node' is 4.0 x 3.0 x 1.0 cm of
+fibrofatty tissue. Sectioning into this specimen shows approximately one-half
+of the specimen as muscle fibers. There is one possible node, 2.0 x 0.6 x 0.4
+cm. The node and representative muscle with fibrous tissue submitted as
+follows:
+H1 one node, bisected
+H2 muscle with white fibrous tissue
+-
+Specimen I, received in formalin labeled with the patient's name and designated
+'right obturator lymph node' is 1.8 x 1.5 x 0.8 cm of fibrofatty tissue and
+muscle. A discrete lymph node is not identified. The specimen is submitted
+entirely as 11.
+Specimen J:
+Type of specimen: Urinary bladder, ureter stumps, prostate, and seminal vesicles
+The patient's name and case number on the specimen container match the
+accompanying paperwork and cassettes.
+Procedure: Radical cystoprostatectomy
+Fixative: Formalin
+Dimensions: Bladder 4.3 cm dome to neck x 4.2 cm left to right x 3.5 cm anterior
+to posterior; ureter stumps, right 3.5 cm in length and 0.4 cm in diameter; left
+ureter 3.8 cm in length and 0.4 cm in diameter; prostate 3.7 cm apex to base,
+5.3 cm left to right, 1.3 cm anterior to posterior
+Description of findings:
+Tumor: There is an ulcerated, focally fluffy tan to brown mass, 4.0 cm dome to
+neck x 4.0 cm left to right x 3.0 cm anterior to posterior. The mass is on the
+posterior wall extending into the anterior, right and left wall. There is a
+diverticulum in the left bladder extending to a depth of 2.0 cm, with mass
+invading into the wall and to within 0.2 cm of the perivesicular adipose tissue
+(J17-J18).
+Involvement of important adjacencies: The tumor possible invades into the
+perivesicular adipose tissue, with no other structures involved.
+Uninvolved mucosa: Tan and focally edematous in the right dome.
+Prostate, seminal vesicles and vasa deferentia: The prostate is sectioned apex
+to base into six slabs. The parenchyma is tan, with pale foci and no discrete
+mass.
+Ink code:
+Right prostate-orange
+Left prostate - blue
+Anterior bladder - green
+Page 5 of 8
+Posterior bladder - black
+Section key:
+J1 urethral margin
+J2 bladder neck right
+J3 bladder neck left
+J4 right uretal orifice, blue ink on ureter
+-
+J5 left uretal orifice, blue ink on ureter
+->
+J6-J8 - tumor posterior wall, each full thickness section
+J9-J10 tumor right wall, each full thickness section
+J12-J13 tumor left diverticulum, each full thickness sections
+-
+J14-J15 tumor left wall, full thickness sections
+J16 tumor left diverticulum
+J17-J18 tumor left diverticulum to within 0.2 cm of perivesicular adipose
+tissue
+J19-J20 tumor anterior wall
+J21 - prostate right seminal vesicle - prostatic interface, vas deferens
+J22 - slab 1, apex prostate
+J23 slab 3, right posterior prostate
+J24 slab 6, right posterior prostate
+J25 prostate left seminal vesicle - prostatic interface, vas deferens
+-
+J26 - slab 1, left apex prostate
+J27 - slab 2, left posterior prostate
+J28 - slab 6, left posterior prostate
+Specimen K, received in formalin labeled with the patient's name and designated
+'appendix' is a vermiform appendix with mesoappendix. The appendix is 7.7 cm in
+length and 0.5 cm in diameter. The mesoappendix is 9.0 x 2.4 x 0.8 cm. The
+appendiceal serosa is tan, smooth and glistening. The lumen ranges from 0.1 cm
+to 0.2 cm and is filled with brown fecal material. At the distal tip there is a
+pocket of fecal material, with unremarkable mucosa. Representative sections are
+submitted, with the proximal margin inked blue as K1.
+Specimen L, received in formalin labeled with the patient's name and designated
+'left obturator' is a 2.3 x 1.5 x 0.6 cm portion of fibrofatty tissue with
+muscle, with multiple staples and sutures. The specimen is vascular without a
+discrete mass or lymph node. The specimen is submitted entirely as [1.
+Microscopic Description
+The H and E stain quality is acceptable.
+A-J. The microscopic findings are reflected in the diagnoses rendered.
+Intraoperative Diagnosis
+Time in:
+Time out:
+A1-FS, Right ureter: Negative for carcinoma or high grade dysplasia.
+Time in:
+ime out:
+B1-FS, Left ureter: Negative for carcinoma or high grade dysplasia.
+Time in:
+me out:
+C1-FS, Left external and internal lymph node, peripheral nerves and
+fibrovascular tissue with inflammation, negative for carcinoma.
+Time in:
+Time out:
+D1-FS, Left internal and external iliac lymph node: Positive for metastatic
+carcinoma.
+All Reported to
+Page 6 of 8
+***Electronically Signed Out***
+Result History
+BIOPSY OR SURGICAL SPECIMEN
+Collection Information
+Specimen Source
+Date and Time
+Accession #
+Other
+Lab Information
+Reviewed by List
+. Status:
+This order is currently not shared in "
+Order
+Patient Information
+Patient Name
+Visit Information
+Date
+Biopsy or Surgical Specimen
+Sex
+DOB
+Time
+Department
+Provider
+Visit #
+FIN #
+Order Information
+Order Date and Time
+Ordering User
+Order
+Order Name
+Biopsy or Surgical Specimen
+Order Details
+Frequency
+Duration
+ONE TIME ORDER TASK 1 Occurrence
+Order Providers
+Authorizing Provider
+Priority
+Routine
+Department
+Code
+Order Number
+Encounter Provider
+Order Class
+Nurse Collect
+Page 7 of 8
+Original Order
+Ordered On
+Collection Information
+Specimen Source
+Other
+Date and Time
+Reprint Requisition
+Reprint Requisition ‹
+Ordered By
+Accession #
+Page 8 of 8

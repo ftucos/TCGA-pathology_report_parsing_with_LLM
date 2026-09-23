@@ -1,0 +1,223 @@
+UUID:5A6AB084-683E-4C9F-9DD6-E055376EF290
+TCGA-UY-A78K-01A-PR
+Redacted
+B. Left ureteral margin (FS)
+SOURCE:
+A. Right ureteral margin (FS)
+C.
+Left pelvic lymph nodes
+D.
+Bladder, resection, partial or total
+E. Anterior peri-vesicular fat
+ICD-0-3
+Carcinoma, urothelial
+papellary 8/30/3
+Site Bladder NOS
+F. Superior common iliac artery lymph nodes (FS)
+Additional left pelvic nodes
+0679
+JW 8/20/13
+G.
+H.
+Left common iliac lymph nodes
+I.
+J.
+K.
+Right pelvic lymph nodes
+Final left ureteral margin
+Final right ureteral margin
+DIAGNOSIS:
+A.
+Right ureteral margin, excision:
+evidence of dysplasia or carcinoma.
+B.
+Left ureteral margin, excision:
+evidence of dysplasia or carcinoma.
+C.
+Sections of ureter with no
+Sections of ureter with no
+Left pelvic lymph nodes, excision: Urothelial carcinoma,
+metastatic to one regional lymph node, with extracapsular extension
+(1/1).
+D.
+Bladder, prostate and seminal vesicles, radical
+cystoprostatectomy:
+Bladder:
+-Invasive urothelial carcinoma, high grade (WHO grade
+3/3), 0.4 cm in diameter.
+-Ureteral and urethral margins negative for tumor.
+-Polypoid cystitis.
+-Non specific granulomatous inflammation.
+See comment.
+Prostate:
+-Urothelial carcinoma, metastatic.
+-Benign nodular hyperplasia.
+-Chronic inflammation.
+Seminal vesicles: No evidence of carcinoma.
+E.
+tissue.
+F.
+Anterior perivesicular fat, excision: Mature fibroadipose
+Superior common iliac artery lymph nodes, excision: Urothelial
+carcinoma metastatic to two of two regional lymph nodes (2/2).
+G.
+Left pelvic lymph nodes, excision: Thirteen regional lymph nodes
+with no evidence of metastatic carcinoma (0/13)
+H.
+Left common iliac lymph nodes, excision: Urothelial carcinoma
+metastatic to three of five regional lymph nodes (3/5).
+I.
+Right pelvic lymph nodes, excision: Urothelial carcinoma
+metastatic to three of nine regional lymph nodes (3/9).
+J.
+Final left ureteral margin, excision: Ureter with no evidence of
+dysplasia or carcinoma.
+K.
+Final right ureteral margin, excision:
+high grade, no carcinoma identified.
+Urothelial dysplasia,
+CLINICAL DATA:
+The patient is a
+-year-old man with invasive high grade bladder cancer
+diagnosed on biopsy. He undergoes radical prostatectomy and cystectomy, with
+biopsies for frozen section.
+GROSS DESCRIPTION:
+The specimen is received in eleven parts, each labeled with the patient's name
+and medical record number.
+Part A is received fresh and is additionally labeled "#2 right ureteral
+margin." It consists of one soft, pink-tan, irregular, unoriented tissue
+fragment, measuring 0.6 x 0.6 x 0.4 cm, that is inked at one end. The specimen
+is entirely submitted for frozen section diagnosis as FS1, with the frozen
+section remnant submitted in cassette Al.
+Part B is received fresh and is additionally labeled "#3 left ureteral margin."
+It consists of one soft, pink-tan, irregular, unoriented tissue fragment,
+measuring 1.3 x 0.8 x 0.5 cm, that is inked at one end. The specimen is
+entirely submitted for frozen section diagnosis as FS2, with the frozen section
+remnant submitted in cassette Bl.
+"T
+Part C is received in formalin and is additionally labeled "#1. Left pelvic
+lymph nodes. It consists of a single piece of yellow-red, fibrofatty soft
+tissue, measuring 3 x 1 x 0.5 cm. The specimen is bisected and entirely
+submitted in cassettes C1 and C2.
+Part D, additionally labeled "#4 bladder," consists of a radical
+cystoprostatectomy, including bladder, ureters, prostate and seminal vesicles.
+The bladder measures 18 x 12 x 4.5 cm, the wall averages 2.5 cm in thickness.
+The bladder mucosa is pale tan and shows two ulcerations, one in the trigone
+and one in the dome measuring, respectively, 1.5 and 1 cm in diameter, the
+bladder wall underlying these areas is indurated and dusky. The surrounding
+uninvolved mucosa is mostly polypoid. Grossly no tumors are identified in the
+mucosa and bladder wall. The ureters are patent. The prostate measures 4.5 x 4
+x 2.5 cm, the cut surface reveals nodularity of both lobes, no tumor is
+identified grossly. The right ureter measures 8.5 cm in length and 0.5 cm in
+diameter. The left ureter measures 10 cmin length and 0.3 cm in diameter. The
+urethra measures 4.5 cm in length. The right seminal vesicle measures 1 cm x
+0.5 cm in average diameter. The left seminal vesicle measures 2 cm x 0.5 cm in
+average diameter. The posterior surface of the specimen is inked black,
+anterior-right is inked green, and anterior-left is inked blue. Representative
+sections are submitted as follows: Cassette D1:
+Left ureteral margin,
+inked yellow. Cassette D2:
+Right ureteral margin, inked yellow.
+Cassettes D3-D4: Urethral margin from base of prostate. Cassette D5-9:
+Left prostate. Cassette D11:
+Right prostate.
+Left
+Trigone. Cassette D10:
+prostate plus seminal vesicle. Cassette D12:
+Cassette D13:
+Right prostate plus seminal vesicle. Cassettes D14-D17:
+Trigone ulceration. Cassette
+Nodular area of right
+Cassettes D26-28:
+Potential lymph nodes. Cassettes D18-21:
+Dome ulceration.
+Note: urethra is included in D27-28, which contain a bisected
+D22-24
+prostate.
+piece.
+Part E is additionally labeled "#5 anterior peri-vesical fat." It consists of
+two pieces of yellow-red fibrofatty tissue, measuring 1 x 0.5 x 0.2 cm in
+aggregate. The specimen is entirely submitted in cassette El.
+Part F is received fresh and is additionally labeled "#8 superior common iliac
+artery lymph nodes." It consists of two soft, pink-tan, irregular, unoriented
+tissue fragments, measuring 4.0 × 2.0 x 0.6 cm in aggregate. A representative
+section is submitted for frozen section diagnosis as FS3. with the frozen
+section remnant submitted in cassette Fl. The remainder of the specimen is
+serially sectioned and submitted in cassette F2.
+Part G, additionally labeled "6 - additional left pelvic lymph nodes," consists
+4.0 x 2.5
+of multiple red-yellow fragments of soft, fatty tissue, measuring
+-
+× 0.5 cm in aggregate. The largest portion measures 7.0 x 3.0 x 0.5 cm.
+This latter specimen is cut into thirds. The small fragments are submitted as
+cassettes G1-G3, and the largest fragment cut into thirds is submitted as
+cassettes G4-G6.
+-
+It
+Part H is additionally labeled "7 left common iliac lymph nodes."
+consists of three portions of red-yellow, fibrofatty tissue, measuring 1.5 ×
+0.5 x 0.5 cm in aggregate. The specimen is submitted in toto in cassette H1.
+Part I, additionally labeled "9 right pelvic lymph nodes," consists of
+multiple fragments of red-yellow, fibrofatty tissue, measuring 6.0 x 4.0 x 0.9
+cm in aggregate. The specimen is submitted in toto in cassettes Il-15.
+Part J, additionally labeled "10 - final left ureteral margin," consists of a
+single portion of red-yellow, tubular tissue, measuring 4.0 x 0.8 cm in
+diameter, with a staple. The staple is removed, and a cross section from the
+stapled end is submitted as cassette Jl. A cross sections from the unstapled
+side is submitted in cassette J2.
+Part K, additionally labeled "11 final right ureteral margin," consists of
+two pieces of red-yellow, fibrofatty tissue, measuring 2.0 x 2.0 x 0.5 cm in
+aggregate, with an attached staple. The staple is removed, and the adjacent
+cross section is submitted in cassette Kl. A representative cross section of
+the unstapled portion as well as a sample of white-yellow soft tissue are
+submitted in cassette K2.
+COMMENTS:
+Tumor type:
+Bladder Tumor Synoptic Comment 1.
+Urothelial carcinoma, papillary
+with squamoid features. 2. Tumor grade: Grade 3/3 (2003 WHO
+classification). 3. Tumor size: 0.4 cm (D8). 4. Extent of tumor in
+bladder: 0.4 cm focus of invasive tumor in outer half of the muscularis
+5.
+propria (D8).
+Lymphatic/vascular invasion:
+6.
+Not present.
+Epithelial
+abnormalities in bladder: Polypoid cystitis and nonspecific granulomatous
+inflammation (post transurethral resection of bladder tumor) see note below.
+7. Extension of tumor into organs adjacent to bladder: Prostate. 8.
+Surgical margins: Urethral margin: Negative. Right ureter margin: High grade
+urothelial dysplasia. Left ureter margin: Negative. Perivesical margin:
+Negative. 9. Lymph nodes:
+Nine of 30 lymph nodes contain metastatic tumor
+(9/30); the largest metastatic deposit measures 2.0 cm in greatest dimension
+(C2) ;
+there is focal extranodal tumor growth (C1).
+11. AJCC/UICC stage: PT2bN2MX.
+The bladder mucosa, submucosa and muscularis propria of the dome and trigone
+show an intense nonspecific granulomatous inflammatory reaction with foreign
+body giant cells and focal necrotizing palisading granulomas (CB). These
+findings are consistent with the patient's recent history of transurethral
+resection of his bladder tumor, at these sites. The bladder mucosa is
+otherwise benign with polypoid type chronic inflammation and focal hyperplasia,
+with no residual carcinoma or dysplasia. There is a microscopic focus of high
+grade urothelial carcinoma located in the outer half of the muscularis propria
+of the trigone. A 0.3 cm focus of high grade urothelial carcinoma is present
+in the periurethral prostate.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+w 8/9/13 YO
+Yes
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initals
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+No
+☑
+.9.2013

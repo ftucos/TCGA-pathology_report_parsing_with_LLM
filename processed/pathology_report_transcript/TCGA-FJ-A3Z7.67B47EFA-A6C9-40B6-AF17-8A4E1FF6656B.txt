@@ -1,0 +1,478 @@
+Pathology Consultation Report
+CASE:
+DOCTOR:
+DATE OF SERVICE:
+Final
+UUID:67B47EFA-A6C9-4086-AF17-8A4E1FF6656B
+TCGA-FJ-A3Z7-01A-PR
+Redacted
+ANATOMIC PATHOLOGY DIAGNOSIS:
+A - Ureter, right, distal, segmental resection
+Focal low grade dysplasia
+B -
+Ureter, left, distal, resection
+- No pathologic diagnosis
+C - Apical urethral surgical margin, resection
+· Urothelial with reactive atypia
+D - Urinary bladder, radical cystectomy
+E
+Urothelial carcinoma of the urinary bladder (transitional carcinoma)
+High grade (grade 3/3)
+Solid pattern
+- 7 cm
+Invasion into the inner half of the muscular propria
+Multifocal lymphovascular invasion
+ICD-0-3
+Carcinoma, kothelial, Nos 8120/3
+Site: bladder,
+All surgical margins (right and left ureteral, urethral and soft
+tissue margins)
+free of tumor involvement
+Carcinoma in situ/high dysplasia, multifocal, involving urothelium
+Brunner's nest with high grade dysplasia/carcinoma in situ
+Granulomatous inflammation of the mucosa
+Reactive changes of the mucosa
+Right ureter, high grade dysplasia/carcinoma in situ
+Left ureter, high grade dysplasia/carcinoma in situ
+Prostate, pending microscopic examination
+One out ten lymph nodes with microscopic metastatic carcinoma
+Left pelvic lymph nodes, dissection
+F
+→
+Right pelvic lymph nodes, dissection
+NOS
+0479
+سل
+9/28/12
+Two out of eleven lymph nodes with metastatic carcinoma
+G - Left common iliac lymph nodes, excision
+Eleven lymph nodes without carcinoma
+H - Right common iliac lymph nodes, dissection
+Six lymph nodes without metastatic carcinoma
+I - Presacral lymph nodes, resection
+riteria
+Diagnosis Discrepancy
+Yes
+No
+rimary Tumor Site Discrepancy
+HIPAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Noted
+Case is (circle):
+Reviewer initials
+QUALIFIER
+Date Reviewed:
+DISQUALIFIED
+Page 1 of 11
+سل
+3/27/12
+Six lymph nodes without metastatic carcinoma
+J -
+Para-aortic lymph nodes, excision
+Two lymph nodes without metastatic carcinoma
+K - Precaval lymph node, excision
+One lymph node without metastatic carcinoma
+L - Discarded segment of bowel, segmental resection
+Small bowel wall without diagnostic alteration
+M - Proximal margin, left ureter, excision
+No pathologic diagnosis
+N - Distal right ureter, segmental resection
+Focal low grade dysplasia
+PATHOLOGIST:
+I have reviewed this material and confirm the report. Released by
+electronic signature on:
+MATERIAL:
+A. Right distal ureter; B. Left distal ureter: C. Apical margin. D.
+Urinary bladder
+E. Left pelvic lymph nodes. F. Right pelvic lymph nodes. G. Left
+common iliac lymph nodes. H. Right common iliac lymph nodes. I.
+Pre-sacral lymph nodes. J. Para-aortic lymph nodes. K. Pre-caval
+lymph nodes
+. 
+L. Discarded segment of small bowel.
+M. Proximal margin of left ureter. N. Distal right ureter. 0.
+Prostate.
+INTRAOPERATIVE DIAGNOSIS:
+FROZEN SECTION DIAGNOSIS
+AFS
+BFS
+Right distal ureter excision
+Lower grade dysplasia versus high grade dysplasia, suggest
+additional 
+resection
+(Reported to
+Left distal ureter excision
+Page 2 of 11
+NAME
+CFS
+No dysplasia
+No carcinoma
+(Reported to
+Atypical urethral margin, biopsy
+No dysplasia
+No carcinoma
+(Reported to
+HISTORY:
+with bladder cancer.
+GROSS:
+A-Received fresh labeled as right distal ureter is a
+unoriented segment of ureter (0.2 x 0.2 x 0.2 cm).
+for frozen section in AFS.
+can pink
+Entirely submitted
+B-Received fresh labeled as left distal ureter is a tan pink unoriented
+segment of ureter (0.3 x 0.3 x 0.2 cm). Entirely submitted for frozen
+section in BFS.
+)
+C-Received fresh labeled apical ureteral margin is a tan-pink,
+unoriented, irregular piece of tissue measuring 1x0.5x0.3cm.
+submitted for frozen section in CFS.
+Entirely
+D. A radical cystoprostatectomy specimen consisting of a urinary
+bladder (9.0 x 7.0 x 2.0 cm when opened); a prostate gland; and
+attached perivesical adipose tissue (overall measurements: 15.0 x 6.0 x
+4.0 cm).
+Located in the anterior, posterior, right, and left walls of the
+urinary bladder, there is a nodular firm lesion (7.0 x 4.5 cm).
+Sections through the lesion exhibit a firm white lesio that extends to
+a depth of 2.0cm into the muscularis and adipose tissue. The ureters
+are not identified in the specimen. The remainder of the urinary
+bladder mucosa is edematous and red. The specimen is sequentially
+sectioned inferior portion to the dome, and representative sections are
+submitted in thirty-five cassettes: D1-D35.
+Ink code: Blue - anterior
+Black - posterior
+Red - right
+Orange left
+Section code:
+D1 Anterior right bladder wall
+D2
+Posterior bladder wall
+D3
+Posterior bladder wall
+04
+Anterior left bladder wall
+DS
+Anterior right bladder wall
+D6
+Right bladder wall
+Page 3 of 11
+07
+Left bladder wall
+D8
+Right anterior bladder wall
+09
+Right posterior bladder wall
+D10 Left posterior bladder wall
+D11 Right posterior bladder wall (possible ureter)
+D12 Left posterior bladder wall (possible ureter)
+D13 Left anterior bladder wall
+D14 Right posterior bladder wall
+D15 Left posterior bladder wall
+016 Posterior central bladder wall
+D17 Posterior central bladder wall
+D18 Posterior right bladder wall
+D19 Left posterior bladder wall
+D20 Posterior central bladder wall
+D21 Left anterior edematous area
+D22 Posterior central bladder wall
+D23 Anterior left bladder wall
+D24 Right posterior bladder wall
+025 Right posterior bladder wall
+D26 Left posterior bladder wall
+D27 Right posterior bladder wall
+D28 Left anterior and posterior bladder wall
+D29 Deepest right posterior portion of lesion
+D30 Left posterior bladder wall
+D31 Representative section of dome
+D32 Representative section, dome
+D33 Representative section of dome
+D34 Possible lymph node
+D35 Possible lymph nodes
+E-Received in formalin, labeled "left pelvic lymph nodes", are multiple
+pieces of tan-yellow fibroadipose tissue, aggregating to 9.5 x 5.5 ×
+2.5 cm in size. Twelve possible lymph nodes, ranging in size from 0.5
+× 0.3 × 0.2 cm to 3.0 x 2.0 x 1.7 cm in size are dissected. The cut
+surfaces of all the above lymph nodes are tan-brown with interspersed
+fatty areas. No discrete lesion is identified, grossly.
+The lymph nodes are submitted as follows:
+E6-E8
+E1-ES single lymph node, serially sectioned, submitted entirely
+single lymph node, serially sectioned, submitted entirely
+two lymph nodes, submitted entirely
+59
+Ell
+510 two possible lymph nodes, submitted entirely
+two possible lymph nodes, submitted entirely
+E12 four possible lymph nodes, submitted entirely
+F-Received in formalin, labeled "right pelvic lymph nodes", are
+multiple pieces of fibroadipose tissue, aggregating to 8.5 x 6.0 x 2.5
+cm in size. Eleven possible lymph nodes, ranging in diameter from 0.5
+× 0.5 × 0.2 cm to 3.0 x 2.4 x 2.0 cm in size are dissected. The cut
+surface of the lymph nodes is tan-pink with interspersed fatty areas.
+The lymph nodes are submitted as follows:
+Fl-F3 single lymph node, serially sectioned, submitted entirely
+Page 4 of 11
+F4-F5
+F6 F8
+63°
+single lymph node, serially sectioned, submitted entirely
+single lymph nod, serially sectioned, submitted entirely
+two lymph nodes submitted entirely
+F10 four possible lymph nodes, submitted entirely
+F11 single lymph node, submitted entirely
+G-Received in formalin labeled as "left common iliac lymph nodes" are
+multiple fragments of tan-yellow lobulated fibroadipose tissue (5.5 x
+4.0 × 0.9 cm). The specimen is predominantly yellow lobulated adipose
+tissue with streaks of tan fibrosis and multiple possible lymph nodes.
+The specimen is serially sectioned and multiple possible lymph nodes
+are identified ranging in size from 0.4 x 0.3 x 0.2 cm up to 1.1 x 1.0
+x 0.5 cm. Multiple lymph nodes are submitted entirely in five
+cassettes, G1-G5.
+Section Code:
+Gl
+G2
+G3
+G4
+G5
+one lymph node, bisected
+four possible lymph nodes
+two possible lymph nodes
+two possible lymph nodes
+two possible lymph nodes
+H-Received in formalin labeled "right common iliac lymph nodes" is a
+specimen of fibrofatty tissue (5.4 x 2.4 x 1.0 cm), The external
+surface of the tissue is primarily yellow lobulated adipose tissue.
+The specimen is serially sectioned and multiple possible lymph nodes
+are identified ranging in size from (0.5 x 0.3 x 0.3 cm up to 2.0 x 0.8
+× 0.6 cm). Representative sections are submitted in four cassettes,
+H1-H4.
+Section Code:
+H1
+H2
+H3
+H4
+two possible lymph nodes, submitted entirely
+one possible lymph node, submitted entirely
+two possible lymph nodes, submitted entirely
+one lymph node, bisected, submitted entirely
+I-Received in formalin labeled, as "pre-sacral lymph nodes" is a 4.0 x
+3.0 x 0.5 cm irregular portion of adipose tissue. The specimen is
+serially sectioned and six lymph nodes are identified ranging in size
+from 0.4 to 1.3 cm.
+Section Code:
+I l
+I2
+I3
+one lymph node
+two lymph nodes
+three lymph nodes
+J-Received in formalin labeled, as "para-aortic lymph nodes" are two
+tan-pink lymph nodes measuring 0.8 and 1.0 cm in greatest dimension
+each.
+Section Code:
+J1
+one lymph node, trisected
+Page 5 of 11
+J2
+one lymph node, trisected.
+K-Received in formalin labeled, as "pre-caval lymph nodes" are two
+lymph nodes measuring 2.0 and 3.0 cm.
+Section Code:
+Kl
+K2
+one lymph node
+one lymph node
+L-Received in formalin, labeled "discarded segment of bowel", is a
+segment of bowel (4.4 x 2.5 x 1.6 cm). The specimen is not oriented.
+The specimen is stapled closed and has a tan-pink serosal surface with
+attached mesenteric adipose tissue. The specimen is opened and the
+mucosa is green-brown with normal mucosal folds. There are no polyps,
+ulcers, or grossly identifiable lesions. Representative sections are
+submitted in three cassettes, labeled L1-L3.
+M-Received in formalin, labeled "proximal margin, left ureter", ia a
+ureter with attached tissue (2.3 x 2.0 x 0.6 cm). The external surface
+of the tissue is yellow-pink, soft, and lobulated. One staple is
+attached to the specimen. A ureter is identified and serially
+sectioned. Cut surface is without lesions or masses.
+sections are submitted in two cassettes, labeled M1-M2.
+Section Code:
+Representative
+M1-M2 proximal margin of left ureter, submitted entirely on end
+N-Received in formalin, labeled "distal right ureter", is a ureter
+specimen with attached tissue (2.3 x 1.1 x 0.5 cm). The external
+surface of the tissue is tan-pink with attached lobulated adipose
+tissue. One staple is identified on the specimen. The specimen is
+serially sectioned and no masses or lesions are identified grossly. The
+specimen is submitted entirely in cassettes N1-N2.
+Section Code:
+N1 N2
+distal right ureter, serially sectioned. submitted entirely
+MICROSCOPIC:
+A - Sections show cross sections of ureter with low grade dysplasia
+involving the urothelium, Obvious high grade dysplasia or invasive
+carcinoma is not identified.
+9 - Sections show cross sections of ureter without dysplastic changes.
+C - Sections show urothelial together with underlying muscle. There is
+reactive atypia of the urothelium. Dysplasia is not identified.
+KARL Vane by clam ş
+Page 6 of 11
+D - Sections show urothelial carcinoma, high grade (transitional cell
+carcinoma grade 3/3). The tumor shows a solid growth pattern. There
+is minimal papillary formation. The tumor invades into the inner half
+of the muscularis propria. There are many areas of lymphovascular
+invasion within the tumor mass, at the tumor advancing edge and away
+from the main tumor mass. There is no obvious perineural invasion.
+The surgical margins (right and left ureral, urethral and soft tissue
+margins) are free of tumor involvement.
+The urothelium adjacent to the invasive carcinoma show high grade
+dysplasia/carcinoma in situ.
+The urothelium away from the main tumor shows several changes including
+reactive atypia, low grade dysplasia, high grade dysplasia/carcinoma in
+situ. Brunner's nests with high grade dysplasia/ carcinoma in situ are
+present. Several areas of the urothelium are lost. The mucosa shows
+a few granulomas with multinucleated giant cells. There is also
+fibrosis, acute and chronic inflammation of the mucosal portion not
+involved by tumor tissue.
+Sections of the right and left ureters show focal areas of high grade
+dysplasia/carcinoma in situ.
+E - Sections show ten lymph nodes. One of them show a microscopic
+focus of metastatic transitional cell carcinoma.
+F - Sections show eleven lymph nodes, two of them show metastatic
+carcinoma. The maximum size of the metastases are about 3 mm in lymph
+hodes meauring up to 3.5 mm and 6 mm, respectively.
+G - Sections show eleven lymph nodes without metastatic carcinoma.
+H - Sections show six lymph nodes without metastatic carcinoma.
+I - Sections show six lymph nodes without metastatic carcinoma.
+J - Sections show two lymph nodes without metastatic carcinoma.
+K - Sections show one lymph node without metastatic carcinoma
+4
+- Sections show terminal ileal wall with no diagnostics alteration.
+M - Sections show cross sections of ureter with no dysplasia or
+carcinoma invasive.
+N - Sections show cross section of ureter with focal low grade
+dysplasia. High grade dysplasia or carcinoma is not identified.
+Page 7 of 11
+TUMOR SYNOPTIC REPORT AND STAGING:
+Specimen:
+Procedure:
+ph nodes
+Radical cystectomy with nodal dissection
+Tumor size:
+7 cm
+Histologic type: Urothelial carcinoma, high grade (transition cell
+carcinoma grade 3/3)
+Associated epithelial Lesion: Multifocal high grade dysplasia/
+carcinoma in situ
+Histologic grade:
+High grade
+Microscopic tumor extension: Involvement of the inner half of the
+muscularis
+Margin status:
+Lymphovascular invasion
+Primary tumor: T2a
+Lymph node
+Distant Metastasis: MO
+Stage grouping: Stage IV
+Site of distant metastases
+Negative
+None
+Multifocal lymphovascular invasion
+N2
+Page 1 of 1
+SURGICAL PATHOLOGY
+DICTATED BY:
+This report was verified electronically.
+Page 8 of 11
+DATE OF DISCHARGE:
+DOCTOR:
+DATE OF SERVICE:
+Pathology Consultation Report
+Supplemental
+CASE:
+REASON FOR ADDENDUM:
+Addendum issued to repot findings of gross and microscopic examination
+of prostate following formalin fixation and whole-mount processing.
+ANATOMIC PATHOLOGY DIAGNOSIS:
+Prostate, radical cystoprostatectomy
+Focal invasive urothelial carcinoma into prostatic stroma
+Extensive urothelial carcinoma in-situ involving prostate, with
+prostatic duct and acinar involvement
+Urothelial carcinoma in situ involving ejaculatory duct and
+seminal vesicle
+No lymphovascular invasion seen
+- No prostate adenocarcinoma
+Margins negative for urothelial carcinoma
+PATHOLOGIST:
+I have reviewed this material and confirm the report. Released by
+electronic signature on:
+MATERIAL:
+O. Prostate.
+i
+HISTORY:
+with bladder cancer.
+GROSS :
+O. Received in formalin and labeled prostate is a prostate with
+attached bilateral seminal vesicles which together weigh 94g. The
+prostate itself weighs 64g, and measures 4.5cm inferior to superior;
+6.0cm transversely; and 6.0cm anterior to posterior.
+Page 9 of 11
+Following formalin fixation, the prostate margins are inked: the right
+side 
+in black, the left side in blue. Cut surfaces of nonsurgical
+margins are inked as orange.
+The apical margin is removed and submitted in a cone-like fashion. The
+remainder of the gland is sectioned bilaterally in the sagittal plane
+along either side of the prostatic urethra. Cut surfaces are smooth
+pink to tan glistening, with areas of large nodularity and cystic
+structures. The apex orifice is irregular and dilated to 1.0cm in
+greatest dimension. The prostatic urethra is hemorrhagic, with focal
+areas of necrosis.
+The seminal vesicles have gray-white, semitranslucent walls of normal
+thickness.
+Section code:
+P1-4 Apex margin
+P Whole-mount prostate, sagittal plane, left side
+P6
+Whole-mount prostate, sagittal plane, right side
+P7-13
+Sequential sections of prostate, apex to base, left side
+P14-21 Sequential sections prostate, apex to base, right side
+Representative sections of left seminal vesicles
+P22
+P23 Representative section, right seminal vesicles
+MICROSCOPIC:
+Sections of prostate show extensive urothelial carcinoma in-situ
+nvolving almost entire prostate. There are ductal as well as acinar
+involvement. Focal stromal invasive carcinoma is seen. In addition, CIS
+involving ejaculatory duct and seminal vesicle is also noted. No
+lymphovascular invasion is identified. There is no prostate
+adenocaricnoma. All margins are negative for tumor.
+COMMENT:
+Intradepartmental consultation:
+(P5 and P6)
+TUMOR SYNOPTIC REPORT AND STAGING:
+Specimen (include all): Urinary bladder, prostate, extended pelvic
+lymph node dissection specimens
+Procedure type: Radical cystoprostatectomy and extended PLND
+Tumor size: 7 cm
+Histologic type: Invasive urothelial carcinoma
+Associated epithelial lesions: CIS
+Histologic grade (low or high): High grade
+Microscopic tumor extension: Tumor invades bladder muscularis propria
+and 
+prostate stroma
+Page 10 of 11
+Margin status: Negative
+Lymphovascular invasion:
+Primary tumor (PT): PT4a
+Lymph node (pN): pN2
+Yes
+Distant metastasis (M): CMO
+Stage grouping: IV
+Sites of distant metastasis: Unknown
+Page 1 of 1
+SURGICAL PATHOLOGY
+DICTATED BY:
+This report was verified electronically.
+Page 11 of 11

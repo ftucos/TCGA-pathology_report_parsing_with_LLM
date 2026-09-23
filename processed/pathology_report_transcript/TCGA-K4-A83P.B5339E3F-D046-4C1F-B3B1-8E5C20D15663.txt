@@ -1,0 +1,235 @@
+UUID:B5339E3F-D046-4C1F-B3B1-8E5C20D15663
+TCGA-K4-A83P-01A-PR
+Redacted
+MRN
+Name
+Encounter Number
+Time Collected
+Time Reported
+Ordering Provider
+Status
+Results
+Gender
+Date Of Birth
+RED NOT FILE
+SURGICAL PATHOLOGY
+Time Received
+Order Number
+Prepa
+Page 1 of 5
+Source of Specimen
+A. LEFT PELVIC LYMPH NODES-
+B. RIGHT PELVIC LYMPH NODES-
+C. LEFT DISTAL URETER FS-
+D. RIGHT DISTAL URETER FS-
+E. NEUROVASCULAR BUNDLE FS-
+ICD03
+Final
+Carcinoma, urothelial NOS 812013
+Site Bladder NOS C67.9
+JW 11/24/13
+F. BLADDER PROSTATE SEMINAL VESICLES AND DISTAL URETERS NFS-
+FINAL DIAGNOSIS:
+A. LEFT PELVIC LYMPH NODES-
+SIX LYMPH NODES, NEGATIVE FOR TUMOR.
+B. RIGHT PELVIC LYMPH NODES-
+SIX LYMPH NODES, NEGATIVE FOR TUMOR.
+C. LEFT DISTAL URETER FS-
+URETER WITH CHRONIC INFLAMMATION, NEGATIVE FOR TUMOR.
+D. RIGHT DISTAL URETER FS-
+FIBROFATTY TISSUE AND URETER, NEGATIVE FOR TUMOR.
+E. NEUROVASCULAR BUNDLE FS-
+CAUTERIZED AND CRUSHED ATYPICAL CELLS, CONSISTENT WITH
+PERINEURAL INVASION BY CARCINOMA.
+F. BLADDER PROSTATE SEMINAL VESICLES AND DISTAL URETERS NFS-
+INVASIVE CARCINOMA, HIGH GRADE.
+TUMOR SITE: URINARY BLADDER AND PROSTATE.
+HISTOLOGIC TYPE: UROTHELIAL.
+SQUAMOUS DIFFERENTIATION:
+IS PRESENT. Per TSS, Aquamous differention = 5%
+GLANDULAR DIFFERENTIATION:
+IS PRESENT.
+TUMOR SIZE: AT LEAST 5 CM.
+HISTOLOGIC GRADE: 3/3.
+EXTRAVESICULAR AND EXTRAPROSTATIC MASSES: MACROSCOPICALLY
+PRESENT.
+DIRECT INVASION OF PROSTATIC STROMA:
+EXTENSIVELY PRESENT.
+INVASION OF SEMINAL VESICLES AND VASA: PRESENT.
+SPECIMEN TYPE: RADICAL CYSTECTOMY AND PROSTATECTOMY.
+ONE OF THREE PERIVESICAL LYMPH NODES IS INVOLVED BY THE TUMOR.
+TNM STAGE: PT4a, pN1, PMX.
+LYMPH NODE(S) INCLUDED IN ALL PARTS:
+NUMBER EXAMINED:
+NUMBER INVOLVED : 1
+15
+LYMPHATIC (SMALL VESSEL) INVASION:
+PERINEURAL INVASION: PRESENT.
+PRESENT.
+ASSOCIATED EPITHELIAL LESIONS: UROTHELIAL DYSPLASIA AND
+CARCINOMA IN SITU PRESENT IN URINARY BLADDER AND PROSTATE.
+THE TUMOR EXTENDS TO THE MARGINS OF OF THE EXTRAVESICAL AND
+EXTRAPROSTATIC SOFT TISSUE.
+NO TUMOR SEEN AT RESECTION MARGINS OF URETERS AND URETHRA.
+Prepa
+Signed Others
+Frozen Section
+A. RIGHT AND LEFT URETERS- NO TUMOR SEEN.
+NEUROVASCULAR BUNDLES- HIGHLY ATYPICAL CELLS SUSPICIOUS FOR
+CARCINOMA, DEFER TO PERMANENT SECTIONS.
+Frozen section performed
+Page 2 of 5
+Case Clinical Information
+TCC OF BLADDER INVADING PROSTATE
+Gross Description
+A. Received in formalin labeled with the patient's name and
+"left pelvic lymph nodes" are multiple fibrofatty tissues
+measuring 3.5 x 3.5 x 3 cm in compact aggregate.
+A dominant
+A second area of
+area of induration is bisected in Al.
+induration is bisected in A2. Four smaller areas of induration
+submitted in A3.
+B. Received in formalin labeled with the patient's name and
+"right pelvic lymph nodes" are pieces of fibroadipose tissue
+A dominant area of
+measuring 3 × 3 × 2 cm in compact aggregate.
+induration submitted in B1-B2. The remaining nodular lesions
+are submitted in B3.
+C. Received in formalin labeled with the patient's name and
+"left distal ureter-FS" is a yellow-tan tissue measuring 3 × 3 ×
+1 mm. The specimen is totally submitted in C1.
+D. Received in formalin labeled with the patient's name and
+"right distal ureter-FS" is a yellow-tan tissue measuring 4 x 1
+× 0.5 mm. Totally submitted in D1.
+E. Received in formalin labeled with the patient's name and
+"neurovascular bundle-FS" is a yellow-tan tissue measuring 5 × 4
+x 2 mm thick. Totally submitted in El.
+The
+F. Received in formalin labeled with the patient's name and
+"bladder, prostate, seminal vesicles and distal ureters-NFS" is
+a specimen so designated measuring 13 cm superior to inferior,
+12 cm right to left and 8 cm anterior to posterior.
+included prostate measures 5 cm superior to inferior, 5 cm right
+to left and 5.5 cm anterior to posterior. The bladder cavity is
+contracted measuring 2.5 cm superior to inferior, 2.5 cm right
+The bladder wall
+to left and 2.5 cm anterior to posterior.
+appears indurated with a conspicuous palpable indurated midline
+The right and
+projection superiorly measuring 3 x 2 x 1.5 cm.
+left vas deferens project along the posterior bladder wall for 4
+The right and left
+cm on the right and 2.5 cm on the left.
+seminal vesicle area is effaced by pronounced induration
+continuous with the bladder wall. The right and left ureter
+Section code: Fl= left vas
+stubs appear deeply retracted.
+resection margin; F2= right vas resection margin; F3= shave
+distal prostatic resection margin; F4-F6= mid posterior
+prostate; F7-F9= posterior superior prostate; F10-F13= left
+seminal vesicle in continuity with prostate and posterior
+surgical margin; F14-F17= right seminal vesicle continuous with
+Page 3 of 5
+prostate and inked posterior margin; F18-F19= sections of
+previously described tumor projecting from superior aspect of
+bladder; F20- left anterior prostate; F21-F23= left lateral
+bladder wall extensively sampled inferior to superior; F24=
+right anterior superior prostate; F25-F30= right lateral bladder
+wall extensively sampled inferior to superior.
+Procedure
+A. AA ROUTINE H&E X1 BLOCK.1
+H&E X1
+A. AA ROUTINE H&E X1 BLOCK.2
+H&E X1
+A. AA ROUTINE H&E X1 BLOCK. 3
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK.1
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK. 2
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK. 3
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK
+H&E X1
+D. AA ROUTINE H&E X1 BLOCK
+H&E X1
+E. AA ROUTINE H&E X1 BLOCK
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.1
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.2
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.3
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.4
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.5
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.6
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 7
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 8
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.9
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.10
+H&E X1
+Page 4 of 5
+F. AA ROUTINE H&E X1 BLOCK.11
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.12
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.13
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.14
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.15
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 16
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.17
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.18
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.19
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.20
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.21
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 22
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 23
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.24
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.25
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 26
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.27
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK. 28
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.29
+H&E X1
+F. AA ROUTINE H&E X1 BLOCK.30
+H&E X1
+Page 5 of 5
+Diteria
+be 11/1/13
+Diagnosis Niscrepancy
+Primary Tumer Site Discrepancy
+A repay
+Prior Malignancy History
+Dual/synchronous Primary e
+Case is (clcle):
+Reviewer Initials
+Yas
+No
+IFIED/ DISQUALIFIED
+Pate Reviewed: Y
+10/9/13
+4

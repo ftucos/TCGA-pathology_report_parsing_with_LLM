@@ -1,0 +1,39 @@
+UUID: AD5273EB-8A12-4000-A0EB-99CED937D6D8
+TCGA-G2-A3IB-01A-PR
+Redacted
+DIAGNOSIS
+(A) BLADDER TUMOR:
+UROTHELIAL CARCINOMA, HIGH GRADE WITH EXTENSIVE SQUAMOUS
+DIFFERENTIATION (GREATER
+THAN 50%).
+TUMOR INVADES THE MUSCULARIS PROPRIA.
+POSITIVE FOR LYMPHOVASCULAR INVASION.
+(B) PROSTATIC URETHRA:
+Benign prostatic urethra with chronic inflammation and reactive changes.
+Benign prostatic glands and fibromuscular stroma also noted.
+GROSS DESCRIPTION
+(A) BLADDER TUMOR - Multiple irregular fragments of white-tan soft tissue (2.0 x 2.0 x 1.0
+cm in aggregate). Entirely submitted in A1-A3.
+(B) PROSTATIC URETHRA - Two irregular fragments of white-tan soft tissue (0.5 x 0.4 x 0.3
+cm each). Entirely submitted in B.
+CLINICAL HISTORY
+Bladder cancer.
+ICD-0-3
+carcinoma, urothelial, NOS 8/20/3
+Site: bladder, NOS
+067.9
+پسر
+12/8/11
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dial/Synchronous Primary Koted
+! Case is (circle)!
+Reviewer Initials
+✓ QUALIFIED / DISQUALIFIED
+Date Reviewed:
+12/15/11

@@ -1,0 +1,114 @@
+UUID:E5DA265D-FBA6-4EA0-9383-96C365A9679A
+TCGA-4Z-AA82-01A-PR
+Redacted
+Collect date:
+(MM/DD/YYYY)
+PRIMARY SITE: Bladder
+CECF
+ICD0-3
+Carcinoma, urothelial NOS
+812013
+Caremoma, urothelial & mone
+عقبة
+812013
+0007013
+CICE Code to highest 8/2013
+Site: Bladder, posterior wall
+par Bladder NOS.
+0679
+J 3/18/14
+067.4
+PATHOLOGY REPORT:
+"Bladder + prostate + seminal vesicles":
+Per TSS, squamous differentiation = 30?
+Invasive urothelial carcinoma of high-grade with foci of squamous differentiation
+. Size of neoplasm: 4.3 x 2.7 x 1.8 cm
+Depth of infiltration: up to detrusor muscle
+Sanguineous vascular invasion: not detected
+. Lymphatic vascular invasion: not detected
+Perineural invasion: present
+. Prostate, seminal vesicles, vas deferens, right and left ureteral margins and
+urethral margin: free of tumor
+"Right pelvic lymph nodes":
+11 lymph nodes were dissected, one of which is compromised by neoplasia (1/11)
+without capsular transposition
+"Left pelvic lymph nodes":
+8 nodes were dissected, all free of tumor (0/8)
+lw 22/10/14
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+30% Squamous
+Primary Tumor Site Discrepancy S
+HIPAA Discrepancy
+Prior Malignancy History
+Duai/Synchronous Primary Noted
+Case is (circle):
+QUALIFIED
+Reviewer Initials
+MA
+DISQUALIFIED
+Date Reviewed: 2/10/14
+TCGA Pathologic Diagnosis Discrepancy Form
+V4.00
+Instructions: The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a cuse submitted for TCGA is inconsistent with the diagnosis 
+provided 
+on the
+Case Quality Control Form completed for the submitted case.
+Tissue Source Site (TSS):
+Completed By (Interviewer Name on OpenClinica):
+Diagnosis Information
+#
+Data Element
+1
+Pathologic Diagnosis
+Provided on Initial
+Pathology Report
+Histologic features of
+the sample provided
+2
+for TCGA, as reflected
+on the CQCF.
+TSS Identifier:_
+Entry Alternatives
+TSS Unique Patient Identifier:.
+Completed Date:
+Working Instructions
+Provide the diagnosis/ histologic subtype(s) documented on
+Invasive urothelial carcinoma of high grade with the initial pathology report for this case. If the histology for
+this case is mixed, provide all 
+listed subtypes.
+foci of squamous differentiation
+High grade urothelial carcinoma with 30% of
+squamous differentiation
+Provide the histologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+Discrepancy between Pathology Report and Case Quality Control Form
+3
+Provide the reason for
+the discrepancy
+between the pathology
+Case reviewed by
+based on
+report and the TCGA
+Case Quality Control
+Form.
+top slide image sent from BCR.
+Provide a reason describing why the diagnosis on the initial
+pathology report for this case is not consistent with the
+diagnosis selected on the TCGA Case Quality Control Form.
+4
+Name of TSS Reviewing
+Pathologist or
+Biorepository Director
+Provide the name of the pathologist who reviewed this case
+for TCGA.
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+TSS Reviewing Pathologist or Biorepository Director
+Date
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+Principal Investigator Signature
+Date

@@ -1,0 +1,38 @@
+UUID:6C7C3694-0D25-476F-BCAF-83BCC10C7C3B
+TCGA-G2-A2EF-01A-PR
+DIAGNOSIS
+Redacted
+PATHOLOGY REPORTS
+ICD-0-3
+Carcinoma, urothelial, Nos 8/20/3
+Situ: bladdw wall, Nos
+0479
+ん
+(A) BLADDER TUMOR, LEFT WALL:
+UROTHELIAL CARCINOMA, HIGH GRADE (GRADE 3), WITH SQUAMOUS
+DIFFERENTIATION, INVASIVE INTO
+MUSCULARIS PROPRIA, WITH LYMPHOVASCULAR INVASION.
+Extensive necrosis, inflammation and reactive changes are also present.
+5/31/11
+GROSS DESCRIPTION
+(A) BLADDER TUMOR, LEFT WALL - Received are multiple fragments of pink-gray
+friable/rubbery tissue measuring in aggregate, 4.0 x 4.0 x 3.5 cm. Entirely submitted in cassettes
+A1-A6.
+CLINICAL HISTORY
+Bladder cancer.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Si.e Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (ri,cle):
+Reviewe: Initials
+Jussi
+QUALIFIED
+Dale Review "di
+As
+Yes
+No
+DISQUALIFIED
+3274

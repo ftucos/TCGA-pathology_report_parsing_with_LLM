@@ -1,0 +1,144 @@
+PATIENT HISTORY:
+year-old white male.
+The patient is a
+PRE OP DIAGNOSIS:
+POST OP DIAGNOSIS:
+Bladder cancer.
+Same.
+ICD-0-3
+Carcinoma, urothelial 8120/3
+Site wall, posterior c67.4 f 4/7/11
+PROCEDURE:
+Ileal conduit.
+**FINAL DIAGNOSIS.
+PART 1: LYMPH NODE, RIGHT ILIAC, BIOPSY-
+Collection Data:
+ONE (1) BENIGN, REACTIVE LYMPH NODE FREE OF TUMOR.
+PART 2: URETER, DISTAL RIGHT, BIOPSY-
+BENIGN URETER WITH NO CARCINOMA SEEN.
+PART 3: URETER, DISTAL LEFT, BIOPSY-
+UUID:74E5CF6B-F334-44D7-944E-8E59879AAE98
+TCGA-BT-A20]-01A-PR
+Redacted
+BENIGN URETER WITH NO CARCINOMA SEEN.
+PART 4: BLADDER AND PROSTATE, CYSTOPROSTATECTOMY-
+A. INVASIVE POORLY DIFFERENTIATED TRANSITIONAL CELL CARCINOMA WITH FOCAL GLANDULAR
+DIFFERENTIATION, WHO - HIGH GRADE, ASH GRADE: IV/V
+B. TUMOR SIZE. 5 CM.
+C. TUMOR INVADES INTO DEEP MUSCLE BUT NOT INTO PERIVESICAL TISSUE.
+D. 22 MITOSES/10 HPF
+E
+EXTENSIVE PERINEURAL INVASION IS SEEN.
+F. NO ANGIOLYMPHATIC INVASION IS SEEN.
+G. SEVENTEEN (17) BENIGN, REACTIVE LYMPH NODES FREE OF TUMOR.
+H. URETHRAL, BILATERAL URETERIC, AND SOFT TISSUE RESECTION MARGINS ARE FREE OF TUMOR.
+TNM STAGE: T2bNOMX --
+1.
+J.
+HISTOLOGIC GRADE: G3, POORLY DIFFERENTIATED.
+K. NO DYSPLASIA/CARCINOMA IN SITU SEEN IN UNINVOVED EPITHELIUM
+CHRONIC CYSTITIS
+L.
+M. PROSTATE WITH GLANDULAR HYPERPLASIA, NO TUMOR SEEN.
+SEMINAL VESICLES WITH NO TUMOR SEEN..
+PART 5: LYMPH NODE, RIGHT PELVIC, BIOPSY-
+TWO (2) BENIGN REACTIVE LYMPH NODES FREE OF TUMOR.
+PART 6: LYMPH NODE, LEFT PELVIC, BIOPSY-
+A. BENIGN ADIPOSE TISSUE WITH NO CARCINOMA SEEN.
+B. NO LYMPH NODE SEEN.
+MICROSCOPIC:
+SYNOPTIC-PRIMARY URINARY BLADDER/URETHRA TUMORS
+A. Location: 3
+1. Dome
+2. Anterior wall
+4. Right wall
+7. Ureter
+10. No residual tumor
+5. Left wall
+8. Urethra
+3. Posterior wall
+6. Trigone
+9. Multicentric
+3. Total cystectomy
+5. Other
+B. Procedure: 4
+1. Biopsy/TURBT
+2. Partial cystectomy
+4. Cystoprostatectomy
+C. Size (if multicentric, size of the most deeply invasive or largest tumor): 5 cm
+D. Non-invasive neoplastic lesions. N/A
+1. Papilloma
+2. Inverted papilloma
+3. Papillary TCCa
+E. Invasive neoplasia: 1
+1.
+2. Squamous carcinoma
+Transitional cell carcinoma...
+Adenocarcinoma
+Sarcomatoid carcinoma
+4. Flat CIS
+5. Other
+3.
+4.
+5.
+Small cell/neuroendocrine carcinoma
+B. Mixed urothelial carcinoma
+7. Lymphoma/leukemia
+8 Sarcoma
+9. Metastasis/direct extension from a contiguous primary
+10.Other
+F. Grade: 4 (Ash for TCCa), 3 (WHO for TCCa); NA other (non-TCCa)
+G. Non-neoplastic and other conditions: 1
+1. Von Brunn's nests, cystitis cystica/glandularis, intestinal metaplasia
+Nephrogenic metaplasia/ adenoma
+2
+3.
+Granulomatous cystitis
+4.
+Interstitial cystitis
+5.
+Inflammatory pseudotumors
+6.
+Carbuncle
+7.
+Malakoplakia
+8.
+Other
+H. Margins of resection: 2
+1.
+J.
+Angiolymphatic invasion: 2
+Perineural invasion: 1
+K. Mitotic activity: 22 per 10 high power fields
+1. Positive
+1. Positive
+1. Positive
+L. Lymph node metastasis: 0 of # lymph nodes contain metastasis
+2. Negative
+2. Negative
+2. Negative
+M. Prostate/seminal vesicles (if cystoprostatectomy)
+M1. Involved by bladder neoplasm: 2
+1. Yes
+M2. Concurrent primary invasive prostatic neoplasm: 2
+1. Yes
+2. No
+2. No
+**M3. High grade PIN: 3
+1. Yes
+2. No
+N. TNM stage: T 2b) NO
+MX
+Yes
+No
+C-iteria
+Diagra.is Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Dis.reparry
+Prior Malignancy History
+Dual/Synchronous Primary Notes
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+5-te Reviewed:
+DISQUALIFIED

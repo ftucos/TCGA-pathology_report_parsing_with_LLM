@@ -1,0 +1,203 @@
+Redacted
+SURGICAL PATHOLOGY F
+Case Number:
+Surgical Pathology Report
+UUID:A1AF7975-132E-469A-B4C8-A0A3F19EA0D0
+TCGA-CU-A3YL-01A-PR
+Addenda Present
+Accession #2:
+Diagnosis:
+A: Urethra, proximal margin, biopsy
+-
+Criteris
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Caseys circle
+Reviewer ital
+No in situ or invasive carcinoma identified
+B: Lymph nodes, right pelvic, dissection
+Yes
+No.
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: ☑/
+Five lymph nodes with no malignancy identified (0/5)
+C: Lymph nodes, left pelvic, dissection
+Two lymph nodes with no malignancy identified (0/2)
+D: Bladder and prostate, cystoprostatectomy
+Tumor histologic type: papillary urothelial carcinoma
+Tumor histologic grade (WHO classification): high grade
+Macroscopic tumor size (greatest dimension): 8.5 cm
+Microscopic extent of invasion: tumor invades the lamina propria
+of the
+bladder, prostatic ducts and prostatic stroma
+Tumor site/focality of tumor: solitary; tumor involves bladder
+and
+prostate
+Angiolymphatic space invasion: not identified
+Associated epithelial lesions: urothelial carcinoma in situ
+involves the bladder and
+prostatic ducts bilaterally
+Ureters: uninvolved
+Histologic assessment of surgical margins:
+Ureter, right: negative
+1CD0-3
+Carcinoma, papillary
+Wothelial
+813013
+Site: bladder, Nos
+0679
+6-6-12 RD
+Ureter, left: negative
+Urethra: negative
+Paravesicular soft tissue: negative
+Prostate, right and left: negative
+Lymph nodes: Seven lymph nodes with no malignancy identified
+(0/7;
+specimens A and B)
+Other findings: prostatic glandular atrophy; PIN4
+immunohistochemical
+stain pending on block D7 to rule out prostatic adenocarcinoma
+(results will be
+reported in an addendum)
+AJCC PATHOLOGIC TNM STAGE: pT4a pNO
+NOTE: This pathologic stage assessment is based on information
+available at the
+time of this report, and is subject to change pending clinical
+review and
+additional information.
+Intraoperative Consult Diagnosis:
+An intraoperative consultation is requested by Dr. in
+on
+FSA1: Urethral margin, biopsy
+- Focal urothelial atypia, favor reactive, cannot completely
+exclude low grade
+dysplasia
+. Dr.
+concurs
+Drs.
+a
+at
+Frozen Section Pathologist:
+Clinical History:
+year-old
+MD
+with a history of invasive high grade
+urothelial carcinoma with
+focal micropapillary features and urothelial carcinoma in situ
+of the prostate.
+Gross Description:
+Received are four appropriately labeled containers.
+Container A holds a 1.5 x 0.7 x 0.4 cm partially cauterized
+red/tan soft tissue
+fragment, FSA1,
+Container B is additionally labeled "right pelvic lymph nodes."
+It holds
+multiple brown/tan, fatty, lobulated soft tissue fragments which
+measure 7.2 x
+4.5 x 1.7 cm in aggregate. Dissection reveals multiple lymph
+node candidates,
+the largest of which is 1.6 x 1.0 x 0.7 cm.
+Block summary:
+B1
+-
+largest lymph node candidate, bisected
+B2 one lymph node candidate, bisected
+B3
+two lymph node candidates
+B4 one lymph node candidate, bisected
+Tissue remains in formalin.
+Container C is additionally labeled "left pelvic lymph nodes."
+It holds multiple
+tan lobulated fatty soft tissue fragments which measure 5.2 x
+4.0 x 1.8 cm in
+aggregate. Dissection reveals two lymph node candidates which
+measure 1.8 x 1.4
+x 0.6 cm and 0.7 x 0.5 x 0.5 cm, respectively.
+Block Summary:
+C1,C2
+C3
+-
+-
+serial sections of largest lymph node candidate
+one lymph node candidate, bisected
+Fat remains in formalin.
+Container D is additionally labeled "bladder and prostate."
+Specimen fixation: formalin
+Type of specimen(s) received: radical cystoprostatectomy
+Size of overall specimen: 15 cm superior to inferior, 13 cm
+right to left, 8 cm
+anterior to posterior
+Size of urinary bladder: 8 x 8 x 5 cm
+Size of additional organs: The prostate is 4.2 x 3.2 x 3.0 cm
+Orientation: Right-blue, left-black, and distal urethral
+margin=yellow
+Tumor size: 8.5 x 7.5 x 3.5 cm
+Tumor description: exophytic, papillary friable nodule;
+Sectioning through the
+tumor reveals a friable cut surface which appears to
+be superficial. The underlying muscle wall appears intact as
+does the
+perivesicular fat.
+Tumor location: The tumor occupies the majority of the
+urothelium sparring a
+small portion of the posterior and left wall. The tumor
+ends inferiorly at the prostatic urethra orifice.
+Distance of tumor to margins: Gross tumor is 2.2 cm from the
+distal prosthetic
+urethral margin.
+Other mucosal lesions: none
+Description of other organs or structures: Sectioning through
+the prostate
+reveals minimal periurethral nodularity and ill-defined white
+indurated discoloration in the right posterior/lateral lobe.
+Digital photograph taken: not taken
+Tissue submitted for special investigation: Tumor is given to
+Block summary:
+(Inking: right-blue, left-black, distal urethral margin=yellow)
+D1
+D2
+D3
+-
+-
+D4-D5
+D6-D7
+D8
+en face right ureter margin
+en face left ureter margin
+en face distal urethral margin
+-
+-
+representative section from right prostate
+representative sections from left prostate
+right ureterovesicular junction
+D9 - left ureterovesicular junction
+D10 - trigone/bladder neck with underlying seminal vesicle
+tissue
+D11
+-
+section of dome
+D12 - right wall
+D13
+-
+left wall
+D14
+D15
+-
+posterior wall
+additional section of left wall
+D16 vas deferens margin of resection
+D17
+-
+representative section of blue and black inked deep soft
+tissue margin
+Procedures/Addenda:
+Addendum
+Addendum
+Immunohistochemical stains for PIN4
+show an
+intact basal cell layer, supporting the interpretation of benign
+prostatic glands.

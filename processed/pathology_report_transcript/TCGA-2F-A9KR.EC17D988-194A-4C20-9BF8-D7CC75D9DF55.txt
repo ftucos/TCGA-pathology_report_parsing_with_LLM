@@ -1,0 +1,33 @@
+UUID: EC17D988-194A-4C20-9BF8-D7CC75D9DF55
+TCGA-2F-A9KR-01A-PR
+Redacted
+Pathology report
+Date of tumor procurement
+Date of report
+ICD-O-3
+Carcinoma, wothelial
+papillary 8/30/3
+Site: Bladder NOS C67.9
+JW 1/29/14
+Histologic diagnosis
+High grade papillary muscle invasive urothelial cell carcinoma. T3G3 NO
+Anatomic site and laterality
+Bladder NOS
+Tumor size
+4cm diameter
+Lymph node status
+No lymph node metastasis were found.
+Criteria
+fw 12/10/13
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 12/10/2013

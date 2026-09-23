@@ -1,0 +1,220 @@
+UUID:3792A65B-C233-4DDF-88F8-8829B73616FE
+TCGA-GV-A3QI-01A-PR
+Res
+Patie
+Patient Name
+Results
+Specimen #:
+Submitting Physician:
+FINAL DIAGNOSIS
+Redacted
+Sex
+Encounter Date:
+SURGICAL PATHOLOGY (Order
+1.
+Distal right ureter, biopsy (A)
+-
+Negative for neoplasm.
+Distal left ureter, biopsy (B)
+-
+Negative for neoplasm.
+DOB
+2.
+3. Right pelvic lymph node, excision (C) One lymph node, negative for
+neoplasm (0/1).
+4. Left pelvic lymph node, excision (D)
+for neoplasm (0/14)
+-
+Fourteen lymph nodes, negative
+5.
+Right pelvic lymph node #2, excision (E)
+negative for neoplasm (0/13).
+-
+Thirteen lymph nodes,
+-
+Invasive high grade
+6. Urinary bladder, radical cystoprostatectomy (F)
+papillary urothelial carcinoma (4.5 cm).
+-
+The tumor invades through muscularis propria (detrusor muscle) and into
+perivesical fat.
+-
+The bilateral ureteral, urethral, peripheral and all remaining resection
+margins are negative for tumor.
+-
+-
+7.
+Lymphovascular invasion is present.
+See comment.
+Prostate, radical cystoprostatectomy (F)
+intraepithelial neoplasia.
+-
+High grade prostatic
+The prostatic urethra and parenchyma are not involved by urothelial
+carcinoma.
+8. Distal prostatic urethra, resection (G)
+-
+Negative for neoplasm.
+COMMENT
+Specimen Type:
+Radical cystoprostatectomy
+ICD-0-3 carcinoma, urothelial, NOS
+812013
+Site: bladder, posterior wall
+Tumor Size, Greatest dimension: 4.5 cm
+Histologic Type:
+Urothelial carcinoma
+Urothelial Carcinoma: (WHO
+High-grade
+2-29-12
+Criteria
+Diagnosis Discrepancy
+6674
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Priur Malignancy History
+Dual/Synchronous Primeted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+to 2/29/187
+2/00/12
+Page 1 of 4
+Encounter Date:
+Adenocarcinoma and Squamous Carcinoma:
+N/A
+Associated Epithelial Lesions: (check all that apply)
+None identified
+Margins:
+Margins uninvolved by invasive carcinoma
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L):
+Present
+Direct Extension of Invasive Tumor:
+Perivesical fat
+Other Diagnoses:
+Pathologic Stage:
+Primary Tumor: (pT)
+pT3b: Macroscopically invades perivesical fat (extravesical mass)
+Regional Lymph Nodes: (PN)
+pNO: No regional lymph node metastasis
+Specify: Number examined 28: Number involved (any size): 0
+Distant Metastasis (PM): PMX: Cannot be assessed
+(Electronic Signature)
+SPECIMEN SUBMITTED
+A: DISTAL RIGHT URETER
+B: DISTAL LEFT URETER
+C: RIGHT PELVIC LYMPH NODE
+D: LEFT PELVIC LYMPH NODES
+E: RIGHT PELVIC LYMPH NODES #2
+F: BLADDER AND PROSTATE
+G: DISTAL PROSTATIC URETHRA
+CLINICAL DATA
+BLADDER CA
+G: RULE OUT CA
+INTRAOPERATIVE CONSULT DIAGNOSIS
+A. Cross section of ureter. Negative for malignancy (Dr.
+B. Cross section of ureter. Negative for malignancy (Dr.
+C. Negative for neoplasm (Dr.
+G. Negative for neoplasm (Dr.
+GROSS DESCRIPTION
+A. Received fresh at the frozen desk is a specimen labeled "distal right
+ureter". It consists of a single piece of lumen that measures 0.5 x 0.5 x
+Page 2 of 4
+Encounter Date:
+0.1 cm. The specimen is totally submitted for frozen section in cassette
+Al.
+B. Received fresh at the frozen desk is a specimen labeled "distal left
+ureter". It consists of a single piece of soft tissue with lumen that
+measures 0.6 x 0.4 x 0.2 cm. The specimen is totally submitted for frozen
+section in cassette Bl.
+C. Received fresh at the frozen desk is a specimen labeled "right pelvic
+lymph node". It consists of a single piece of adipose and fibrous tissue
+without a distinct nodule. The specimen is totally submitted for frozen
+section in cassette Cl.
+D. Received fresh labeled "left pelvic lymph nodes" are multiple fragments
+of yellow fibrofatty tissue aggregating to 6.5 x 6.5 x 1.0 cm. Palpation
+reveals ten pink firm nodules ranging in size from 0.3 to 1.5 cm in
+greatest dimension. The specimen is entirely submitted as follows: D1 five
+nodules; D2 three nodules; D3 one nodule; D4 D6 remaining fat.
+-
+E. Received fresh labeled "right pelvic lymph nodes #2" are multiple
+fragments of yellow fibrofatty tissue aggregating to 6.5 x 5.5 x 1.0 cm.
+Palpation reveals nine tan firm nodules ranging in size from 0.5 to 9.0 cm
+in greatest dimension. The largest nodule is predominantly fat replaced.
+The specimen is totally submitted as follows: El two nodules; E2 two
+nodules; E3 two nodules; E4 two nodules; E5 E7 largest nodule sectioned
+and totally submitted; E8 E10 remaining fat.
+-
+F. Received in formalin is a specimen consisting of a urinary bladder,
+bilateral ureters, prostate and attached seminal vesicles and vas
+deferentia. The bladder measures 2.0 x 5.5 x 4.5 cm. The external surface
+of the bladder is covered by smooth lining at the dome and fibroadipose
+tissue of the remaining portion. After the bladder is opened, a firm white
+papillary-like mass is identified measuring 4.5 x 4.0 x 2.0 cm within the
+posterior wall. The mass is papillary and solid. On sectioning, the mass
+extends through the muscularis propria into the perivesical adipose tissue
+retracting the overlying serosa. The serosal surface appears involved. The
+remaining bladder mucosa is unremarkable. The wall of the bladder appears
+thickened. A segment of right ureter measures 2.8 cm in length and is
+patent. Its mucosal surface is smooth and glistening. A segment of left
+ureter is 2.2 cm in length and its mucosa is also unremarkable. The
+prostate measures 4.5 cm transversely, 3.0 cm anteroposteriorly and 3.0 cm
+craniocaudally. The capsular surface is smooth. The gland is inked with
+blue on the right and yellow on the left and sectioned from apex to base
+transversely at 3 mm intervals perpendicular to the urethra. The urethra
+has been amputated in the same plane as the prostatic urethra, therefore, a
+shave margin cannot be obtained. Cross sections of the prostate reveal a
+tan solid cut surface without any definitive lesions. Rubbery nodularity is
+not present. The seminal vesicles are unremarkable. Segments of vas
+deferens are also unremarkable. Representative sections are submitted as
+follows: Fl right ureter; F2 left ureter; F3 posterior bladder wall with
+mass retracting local surface; F4 posteriori wall mass; F5 posterior wall
+mass in relation to perivesical fat; F6 anterior bladder wall; F7 right
+bladder wall; F8 left bladder wall; F9 dome of bladder; F10 trigone in
+relation to posterior wall mass; Fll apex right; F12 apex left; F13 3 mm
+right; F14 3 mm left; F15 6 mm right; F16 6 mm left; F17 9 mm right; F18 9
+mm left; F19 12 mm right; F20 12 mm left; F21 15 mm anterior right; F22 15
+Page 3 of 4
+2
+Encounter Date:
+mm anterior left; F23 15 mm posterior right; F24 15 mm posterior left; F25
+18 mm anterior right; F26 18 mm anterior left; F27 18 mm posterior right;
+F28 18 mm posterior left; F29 seminal vesicle right; F30 seminal vesicle
+left.
+G.
+Received fresh at the frozen desk is a specimen labeled "distal
+prostatic urethra" which consists of a single fragment of red-tan soft
+tissue measuring 2.5 x 1 x 0.9 cm and is entirely submitted for frozen in
+G1.
+Patient ID #:
+DOB:
+Date of Report:
+(Age:
+Date of Procedure:
+Date of Receipt:
+Submitted by:
+Location:
+Test performed by:
+Lab and Collection
+SURGICAL PATHOLOGY (Order #
+on
+Lab and Collection Information
+Result History
+SURGICAL PATHOLOGY (Orde
+or
+Order Result History Report.
+Result Information
+Result Date and Time
+Status
+Final result
+Provider Status
+Reviewed
+MyChart Status:
+This result is currently not released to
+Display Full Result Report
+Display Order Report
+Page 4 of 4

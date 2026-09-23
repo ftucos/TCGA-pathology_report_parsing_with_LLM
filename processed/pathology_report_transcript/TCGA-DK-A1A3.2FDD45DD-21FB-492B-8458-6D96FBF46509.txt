@@ -1,0 +1,400 @@
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+ICD-0-3
+Carcinoma, wrothelial, Nos 812013
+Site Code bladder, NOS
+067.9
+SURGICAL PATHOLOGY REPORT
+(Age: 61)
+M
+Location:
+Service:
+Urology
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+INPATIENT
+12/30/10
+سر
+Clinical Diagnosis & History:
+Muscle invasive urothelial carcinoma of the bladder, bilateral hydronephrosis
+Specimens Submitted:
+1: SP: URETHRA, DISTAL MARGIN, EXCISION
+2: SP: LYMPH NODES, LEFT PELVIC, EXCISION
+3: SP: LYMPH NODES, RIGHT PELVIC, EXCISION
+-
+4: SP: BLADDER, URACHUS, URETHRA, PROSTATE, SEMINAL VESICLES, PERVESICLE TISSUE, LYMPH NODES, DISTAL
+URETERS, PORTIONS OF BIALTERAL STENTS, RADICAL CYSTECTOMY
+5: SP: VAS DEFERENS, LEFT, EXCISION
+6: SP: URACHUS, EXCISION
+7: SP: VAS DEFERENS, RIGHT, EXCISION
+8: SP: URETERAL STENT, RIGHT, REMOVAL
+9: SP: PERIURETERAL TISSUE, LEFT, EXCISION
+10: SP: URETERAL STENT, LEFT, REMOVAL
+11: SP: URETHRA, DISTAL MARGIN, EXCISION
+12: SP: URETER, DISTAL LEFT, EXCISION
+13: SP: URETER, LEFT DISTAL, HIGH PROXIMAL MARGIN, EXCISION
+14: SP: URETER, DISTAL RIGHT, EXCISION
+DIAGNOSIS:
+1. SP: URETHRA, DISTAL MARGIN, EXCISION:
+Benign fibromuscular tissue
+2. SP: LYMPH NODES, LEFT PELVIC, EXCISION:
+Lymph Nodes:
+Number of nodes examined:9
+Number of metastatic nodes:5
+The largest metastatic node is 3.4cm
+Perinodal (extracapsular) extension identified
+Metastatic high grade urothelial carcinoma
+3. SP: LYMPH NODES, RIGHT PELVIC, EXCISION:
+Lymph Nodes:
+Number of nodes examined:9
+Number of metastatic nodes:7
+The largest metastatic node is 3.2cm
+Perinodal (extracapsular) extension not identified
+Metastatic high grade urothelial carcinoma
+UUID:2FDD45DD-21FB-492B-8458-6D96FBF46509
+TCGA-DK-A1A3-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Redacted
+THE AME KAR WAA
+Yes
+No
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIC
+Date Reviewed.
+DISQUALIFIED
+2121
+4. SP: BLADDER, URACHUS, URETHRA, PROSTATE, SEMINAL VESICLES, PERVESICLE TISSUE, LYMPH NODES,
+DISTAL URETERS, PORTIONS OF BIALTERAL STENTS, RADICAL CYSTECTOMY:
+Tumor Type:
+Invasive urothelial carcinoma, NOS.
+Invasive urothelial carcinoma, NOS with diffuse growth pattern and focal micropapillary features
+Histologic Grade:
+Page 1 of 6
+SURGICAL PATHOLOGY REPORT
+High grade
+Pattern of growth of the Non-Invasive component:
+Papillary and flat
+Pattern of growth of the Invasive component:
+Diffuse
+Tumor Multicentricity:
+Identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Urethra uninvolved
+Prostatic stroma involved
+Vascular Invasion:
+Identified
+Perineural Invasion:
+Identified
+Surgical Margins:
+Tumor present at urethral margin
+Urothelial carcinoma in situ present at right ureteral margin (see part 14 for final margin status); Invasive urothelial
+carcinoma present at urethral margin (see specimens 1 and 12 for additional urethral margins)
+Non-Neoplastic Mucosa:
+Exhibiting chronic cystitis
+Exhibiting foreign body reaction
+Exhibiting proliferative cystitis (Brunn's nests, cystitis cystica, cystitis glandularis)
+Prostate:
+Nodular hyperplasia
+Other; involved by invasive urothelial carcinoma
+Seminal Vesicles:
+Other Involved by urothelial carcinoma
+Perivesical Lymph Nodes:
+Not identified
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+PR2 (Periprostatic or periseminal vesicle soft tissue invasion) tissue invasion)
+5. SP: VAS DEFERENS, LEFT, EXCISION:
+Benign vas deferens
+6. SP: URACHUS, EXCISION:
+Benign fibroadipose tissue, muscle, and nerve
+7. SP: VAS DEFERENS, RIGHT, EXCISION:
+Benign vas deferens
+8. SP: URETERAL STENT, RIGHT, REMOVAL:
+Ureteral stent (gross diagnosis only)
+9. SP: PERIURETERAL TISSUE, LEFT, EXCISION:
+Invasive high grade urothelial carcinoma involving fibroadipose tissue
+Page 2 of 6
+SURGICAL PATHOLOGY REPORT
+10. SP: URETERAL STENT, LEFT, REMOVAL:
+Ureteral stent (gross diagnosis only)
+11. SP: URETHRA, DISTAL MARGIN, EXCISION:
+Invasive high grade urothelial carcinoma involving peri-urethral tissue
+12. SP: URETER, DISTAL LEFT, EXCISION:
+Beni
+gn ureter
+13. SP: URETER, LEFT DISTAL, HIGH PROXIMAL MARGIN, EXCISION:
+Beni
+gn ureter
+14. SP: URETER, DISTAL RIGHT, EXCISION:
+Beni
+gn ureter
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Report Electronically Signed Out
+***
+Gross Description:
+1. The specimen is received fresh for frozen section consultation, labeled "distal margin urethra" and consists of a fragment of tan-
+red soft tissue measuring 1.3 x 1.0 x 0.4 cm. Entirely submitted for frozen section.
+Summary of sections: FSC - frozen section control
+2) The specimen is received fresh, labeled "left pelvic lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.2 to 3.4 cm in greatest dimension. A portion of the specimen is sent for TPS. All identified lymph nodes are submitted in
+seven cassettes. Summary of sections: LN - lymph nodes, BLN – bisected lymph node
+3) The specimen is received fresh, labeled "right pelvic lymph nodes," and consists of multiple pink tan firm lymph nodes ranging
+from 0.4 to 4 cm in greatest dimension. A portion of the specimen is sent for TPS. All identified lymph nodes are submitted in eight
+cassettes. Summary of sections: LN – lymph nodes, BLN -- bisected lymph node
+-
+4) The specimen is received fresh labeled, "bladder, urachus, urethra, prostate, seminal vesicles, perivesicle tissue and lymph
+nodes, distal ureters, portions of bilateral ureteral stents". It consists of a cystoprostatectomy measuring 13 cm from superior to
+inferior, 8.5 cm laterally and 4.5 cm from anterior to posterior. The anterior aspect of the bladder is inked black and the posterior
+blue. The prostatic urethral margin is shaved and submitted. The bladder is opened along the anterior midline to reveal an
+ulcerated tumor mass measuring 3 x 1 cm which is grossly situated within the trigone area. The lesion measures 0.3 cm from the
+left orifice and is present at the right. Two green ureteral stents are present measuring 8.5 and 12 cm in length by 0.2 cm in
+diameter. Both ureters are probe patent measuring up to 0.2 cm in maximum diameter. The lesion is sectioned to reveal apparent
+invasion into the bladder wall/prostate up to 0.6 cm. Extension to the inked fat is grossly not identified. The remaining bladder
+mucosa is hemorrhagic and verrugated without other mass lesions. Discrete perivesical lymph nodes are grossly not identified.
+Definite urachal remnant is not identified. The prostate is serially sectioned to reveal unremarkable prostatic parenchyma.
+Representative sections are submitted including two sections from each prostatic quadrant and transition zone. TPS is submitted.
+Gross photographs are taken.
+Summary of sections: UTHM - urethral margin, RUM- right ureter margin, LUM - left ureter margin, L- lesion
+RUO-right ureter orifice, LUO-- left ureter orifice, LP - left posterior wall, LA - left anterior wall, RP -- right posterior wall
+RA- right anterior wall, TRI - trigone, DOM-dome, U- urachal area, F - perivesical fat, RSV - right seminal vesicle
+left seminal vesicle, RA - right apex prostate, LA - left apex prostate, RAM - right anterior mid prostate
+LSV
+RPM
+-
+-
+right posterior mid prostate, LAM - left anterior mid prostate, LPM - left posterior mid prostate, RAB – right anterior base
+prostate, RPB - right posterior base prostate, LAB - left anterior base prostate, LPB - left posterior base prostate
+5) The specimen is received in formalin, labeled "Left vas deferens" and consists of a segment of tan tubular elastic tissue, with
+attached small amount of unremarkable fat, measuring 10 cm in length and 0.2 cm in diameter. Representatively submitted.
+Summary of sections: BE - both ends, RS - representative sections
+Page 3 of 6
+SURGICAL PATHOLOGY REPORT
+6) The specimen is received in formalin, labeled
+it
+I and consists of a 1.5 x 1.2 x 0.4 cm fragment of yellow tan
+adipose soft tissue. Bisected and entirely submitted. Summary of sections: U - undesignated
+7) The specimen is received in formalin, labeled "Right vas deferens" and consists of an unoriented segment of tan elastic tissue,
+measuring 3 cm in length and 0.2 cm in average diameter. Entirely submitted.
+Summary of sections: BE – both ends, RT - remaining tissue
+8) The specimen is received fresh labeled, "Portion of right ureteral stent" and consists of an elongated tubular green stent
+measuring 27 x 0.2 cm. The specimen is photographed. Gross only.
+9) The specimen is received in formalin, labeled "Peri urethral tissue left" and consists of a 1 x 1 x 0.4 cm fragment of tan soft
+tissue. Bisected and entirely submitted. Summary of sections: U - undesignated
+10) The specimen is received fresh labeled, "Portion of left ureteral stent" and consists of an elongated tubular green stent
+measuring 25 x 0.2 cm. The specimen is photographed. Gross only.
+11) The specimen is received in formalin, labeled "Distal margin urethra" and consists of two fragments of tan soft tissue,
+measuring 0.9 x 0.5 x 0.1 and 0.7 x 0.5 x 0.2 cm. Entirely submitted. Summary of sections: U - undesignated
+12) The specimen is received in formalin, labeled "Distal left ureter" and consists of a 1.5 x 0.7 x 0.3 cm fragment of tan soft tissue.
+Entirely submitted. Summary of sections: U - undesignated
+13) The specimen is received in formalin, labeled "High proximal margin left ureter, distal" and consists of a 1.6 x 0.8 x 0.2 cm
+piece of tan soft tissue. Entirely submitted. Summary of sections: U - undesignated
+14) The specimen is received in formalin, labeled "Distal right ureter clip on proximal margin" and consists of a 1.5 x 1.5 x 1 cm
+tubular piece of tan soft tissue, consistent with a dilated ureter. A clip demarcating the proximal margin is identified. Entirely
+submitted. Summary of sections: UE - unclipped end, CE - clipped end, RT - remaining tissue
+Summary of Sections:
+Part 1: SP: URETHRA, DISTAL MARGIN, EXCISION (FS)
+Block
+1
+Sect. Site
+FSC
+PCs
+Part 2: SP: LYMPH NODES, LEFT PELVIC, EXCISION
+Block
+25
+Sect. Site
+PCs
+BLN
+LN
+2
+8
+Part 3: SP: LYMPH NODES, RIGHT PELVIC, EXCISION
+Block
+2
+6
+Sect. Site
+PCs
+BLN
+LN
+2∞
+2
+8
+Part 4: SP: BLADDER, URACHUS, URETHRA, PROSTATE, SEMINAL VESICLES, PERVESICLE TISSUE, LYMPH NODES,
+DISTAL URETERS, PORTIONS OF BIALTERAL STENTS, RADICAL CYSTECTOMY
+Block
+Sect. Site
+PCs
+1
+DOM
+1
+1
+F
+1
+4
+L
+4
+2
+LA
+2
+Page 4 of 6
+SURGICAL PATHOLOGY REPORT
+LAB
+1
+1
+LAM
+1
+1
+LP
+1
+1
+LPB
+1
+1
+LPM
+1
+LSV
+LUM
+1
+LUO
+1
+2
+RA
+2
+1
+RAB
+1
+1
+RAM
+1
+1
+RP
+1
+RPB
+1
+1
+RPM
+1
+RSV
+1
+RUM
+1
+1
+RUO
+1
+TRI
+1
+U
+1
+1
+UTHM
+1
+Part 5: SP: VAS DEFERENS, LEFT, EXCISION
+Block
+1
+Sect. Site
+BE
+RS
+PCs
+2
+5
+10
+Part 6: SP: URACHUS, EXCISION
+Block
+1
+Sect. Site
+U
+PCs
+2
+Part 7: SP: VAS DEFERENS, RIGHT, EXCISION
+Block
+1
+2
+Sect. Site
+BE
+RT
+PCs
+2
+6
+Part 8: SP: URETERAL STENT, RIGHT, REMOVAL
+Part 9: SP: PERIURETERAL TISSUE, LEFT, EXCISION
+Block
+1
+Sect. Site
+PCs
+2
+Part 10: SP: URETERAL STENT, LEFT, REMOVAL
+Part 11: SP: URETHRA, DISTAL MARGIN, EXCISION
+Block
+1
+Sect. Site
+U
+PC$
+2
+Part 12: SP: URETER, DISTAL LEFT, EXCISION
+Block
+1
+Sect. Site
+U
+PCs
+1
+Part 13: SP: URETER, LEFT DISTAL, HIGH PROXIMAL MARGIN, EXCISION
+Block
+1
+Sect. Site
+PCs
+U
+1
+Page 5 of 6
+SURGICAL PATHOLOGY REPORT
+Part 14: SP: URETER, DISTAL RIGHT, EXCISION
+Block
+1
+2
+1
+Sect. Site
+PCs
+CE
+1
+RT
+UE
+2
+1
+Criteria
+Diagnosis Discrepancy
+Primary Tunior Site Liscrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dui/Synchronous Puma y ficted
+Case is (circle):
+Reviewer initials
+QUALIED
+Date Reviewed:
+Yes
+Nu
+DISQUALIFIED
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperative consultation.
+1.
+FROZEN SECTION DIAGNOSIS: SP: Distal margin urethra
+PERMANENT DIAGNOSIS: SAME
+): BENIGN MARGIN
+Page 6 of 6
+END OF REPORT

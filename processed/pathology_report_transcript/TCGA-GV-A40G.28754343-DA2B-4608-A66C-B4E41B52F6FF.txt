@@ -1,0 +1,173 @@
+UUID: 28754343-DA2B-4608-A66C-B4E41B52F6FF
+TCGA-GV-A40G-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+De-Identified Specimen Code_
+Patient Age/Sex
+SPECIMEN SUBMITTED:
+Part A: BLADDER AND PROSTATE
+Part B: PELVIC LYMPH NODES #1
+Part C: PELVIC LYMPH NODES #2
+Part D: RIGHT DISTAL URETER
+Final Diagnosis
+ICD-0-3
+carcinoma, urothelial, Nos,
+812013
+Site: path: bladckr, NOS C67.9
+CQCF: bladder, wall, NOS C67.9
+7-5-12 RD
+1. Bladder and prostate, radical cystoprostatectomy (A) - Invasive high grade urothelial carcinoma
+is identified 
+involving the previous biopsy site. The tumor focally invades into the muscularis propria.
+Associated urothelial carcinoma 
+in situ is present.
+->
+- Right ureter margin is positive for urothelial carcinoma in-situ. The urethra margin and soft tissue
+margins are negative 
+for tumor.
+The prostatic urethra shows involvement by urothelial carcinoma in situ. The prostate parenchyma
+shows benign prostatic 
+hyperplasia.
+- One lymph node negative for neoplasm (0/1).
+-
+See comment.
+2. Pelvic lymph nodes #1, excision (B) - Fifteen lymph nodes negative for neoplasm (0/15).
+3. Pelvic lymph nodes #2, excision (C) - Three lymph nodes negative for neoplasm (0/3).
+4. Right distal ureter, excision (D) Urothelial carcinoma in situ is present at the margin.
+Criteria.
+Yes
+Diagnosis Discrepancy
+Primary Tuner Site Discrepancy
+HIPAA Discpancy
+Prior Malignancy history
+Dual/Sym hronous Primary Noted (
+Case is (circl
+Reviewer initial
+A QUALIFIED
+DISQUALIFIED
+Date Reviewed: 19/12
+Page 1 of 4
++
+16/22/12
+:
+SURGICAL PATHOLOGY REPORT
+Diagnosis Comment:
+BLADDER TEMPLATE
+Procedure:
+Radical cystoprostatectomy
+Tumor Size (greatest dimension): 5 cm (including previous biopsy site changes)
+Histologic Type: Urothelial carcinoma
+Associated Epithelial Lesions: None identified
+Histologic grade:
+Urothelial Carcinoma (WHO
+'
+): High-grade
+Adenocarcinoma and Squamous Carcinoma:
+GX: Cannot be assessed
+Margins:
+Margin(s) involved by carcinoma in situ
+Specify margin(s): right distal ureter
+Venous lymphatic invasion: Absent
+Direct extension of invasive tumor:None identified
+Pathologic Stage (TNM); pT1 pN0 pMX
+Number lymph nodes examined: 19
+Number lymph nodes involved (any size): 0
+Primary Tumor (PT)
+pT2a: Tumor invades superficial muscularis propria (inner half).
+Regional Lymph Nodes (PN)
+pNO: No regional lymph node metastasis
+Distant Metastasis (PM):
+pMX: Cannot be assessed
+Seen in consultation with Dr.
+Frozen section slides were reviewed on the re-excision of the right
+ureter. The cytologic atypia borders on dysplasia and urothelial carcinoma in situ, but review of the permanents
+favors urothelial carcinoma in situ.
+Clinical Diagnosis:
+BLADDER CANCER
+STITCH MARKS MARGIN
+Page 2 of 4
+1
+ПЕРСАКЕН
+SURGICAL PATHOLOGY REPORT
+Gross Description:
+A. Received already fixed, inked, and opened labeled "bladder and prostate" is a specimen that
+consists of urinary 
+bladder, right ureter, prostate, attached seminal vesicles and vas deferens. The right
+ureter is probed but 
+there is no probe identifying the left ureter and the left ureter orifice in the trigone
+area could not 
+be seen or probed and after dissection a possible 3cm segment of left ureter is seen.
+The bladder measures 19 x 11 x 
+5 cm. The adhered surface of the bladder is covered by a smooth
+serosal lining at the 
+dome and fibroadipose tissue at the remaining portion. After the bladder is opened,
+a mass measuring 5 x 4 
+x 1 cm is identified and is located on the anterior wall, right lateral wall, left
+lateral wall, posterior 
+wall and the trigone area. The mass is 4 cm from the right ureter margin, 3.5 cm
+from the urethral margin
+, and 3.5 cm from the possible left ureter margin, and appears to invade 1 cm
+deep. The mass is principally 
+papillary. On sectioning, the mass extends to roughly 1 cm grossly into
+the wall but does not 
+grossly appear to go through the muscularis propria. It does not appear to involve
+the perivesicular adipose 
+tissue. The bladder mucosa is erythematous near the urethra. A 4 cm
+segment of 
+right ureter and is patent, and the mucosa appears unremarkable. The left ureter was very
+difficult to locate as there 
+is no probe within it for fixation and the office in the trigone area could not be
+identified. A 
+possible 3 cm segment of left ureter is identified after dissection. Its mucosa appears
+unremarkable. 
+The prostate measures 4 x 4 x 4 cm craniocaudally, anteroposteriorly, and transversely.
+The apex of the gland is conical
+. The capsular surface is smooth. On palpation, an area of firmness is
+not identified. The 
+gland is inked blue on the right, and yellow on the left. After fixation, the gland is
+serially sectioned at 
+3 mm intervals and the cross sections do not reveal a mass lesion. Rubbery
+nodularity is 
+present. The seminal vesicles appear unremarkable. Representative sections are
+submitted as follows
+: FSA1 urethra, FSA2 suture, FSA3 left vas deferens, FSA4 right vas deferens,
+FSA5 right ureter, 
+FSA6 left ureter, A8 anterior wall with mass, A9 right trigone area and right ureter
+with mass, A10 right 
+lateral with mass, A11 dome, A12 left lateral wall with mass, A13 possible left
+ureter distal margin
+, A14 left trigone area with mass, A15 mass in relation to right seminal vesicle, A16
+bladder mucosa near 
+urethra, A17 posterior wall with mass, A18 possible mid left ureter, A19 right mid
+ureter, A20-A21 
+possible lymph nodes, A22 right apex, A23 left apex, A24 3 mm right, A25 3 mm left,
+A26 mid prostate right 
+anterior, A27 mid prostate left anterior, A28 mid posterior right posterior, A29
+mid prostate left 
+posterior, A30 base of prostate right anterior, A31 base of prostate left anterior, A32
+base of prostate 
+right posterior, A33 base of prostate left posterior, A34 right seminal vesicle, A35 left
+seminal vesicle.
+B. Received fresh labeled "pelvic lymph nodes #1" are multiple segments of yellow fibrofatty tissue
+aggregating to 10 x 5 x 1.5 
+cm. Palpation reveals 17 yellow firm nodules ranging in size from 0.5 to 4.0
+cm in greatest 
+dimension. The nodules are totally submitted as follows: B1 four nodules, B2 four
+nodules, B3 four 
+nodules, B4 two nodules, B5 one nodule, B6 nodule, B7 one nodule bisected.
+C. Received fresh labeled "pelvic lymph nodes #2" is a segment of yellow fibrofatty tissue measuring 7
+x 4 x 1 cm. Palpation reveals 
+3 yellow firm nodules ranging in size from 3.0 to 5.0 cm in greatest
+dimension. The nodules 
+are totally submitted as follows: C1 one nodule, C2-C3 one nodule bisected,
+C4-C5 one nodule bisected.
+D. Received fresh for intraoperative consultation is a specimen labeled "right distal ureter" consisting of
+a segment of unoriented 
+ureter, measuring 1.2 cm in length with a clip in place 0.4 cm from one end of
+Page 3 of 4
+..
+SURGICAL PATHOLOGY REPORT
+Gross Description:
+the ureter. The end of the ureter closest to the clip is inked black. The opposing ureter is dilated.
+Shaves of both ends of the ureter are submitted for frozen section in cassette FSD1.
+Page 4 of 4

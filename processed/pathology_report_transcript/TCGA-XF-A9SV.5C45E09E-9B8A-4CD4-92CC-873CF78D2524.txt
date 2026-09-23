@@ -1,0 +1,378 @@
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+ICD-0-3
+Carcinoma, westhelial papillary
+8/30/3
+Site Bladder NOS C67.9
+Document Type:
+*Date Date of Service:
+Document Status:
+Document Title:
+Author:
+Authenticated By:
+Encounter info:
+Contributor system:
+UUID:5C45E09E-988A-4CD4-92CC-873CF78D2524
+TCGA-XF-A95V-01A-PR
+Redacted
+03/26/14
+* Final Report
+*
+See final microscopic-diagnoses.
+MICROSCOPIC EXAMINATION:
+A-D:
+E:
+Sections of the urinary bladder show invasive, moderately to poorly
+differentiated papillary urothelial carcinoma, characterized by single strands and
+small nests of enlarged malignant cells with correspondingly enlarged nucleoli and
+scanty cytoplasm. The tumor extends through the full thickness of the bladder wall
+and involves seminal vesicles, vasa deferentia, and rectum. The tumor cells
+involve serosa, muscularis propria, and is attached to the underlying surface of
+the rectal mucosa. The distal resection margin of the rectum is involved by tumor.
+The proximal resection margin is free of tumor. There is extensive perineural and
+lymphovascular space invasion. Bilateral ureteral mucosa show mild to severe
+atypia. Representative sections of prostate are unremarkable.
+F-Q:
+See final microscopic-diagnoses.
+INTRAOPERATIVE FROZEN CONSULTATION:
+AFS:
+BFS:
+CFS:
+DFS:
+Periaorta:
+metastatic carcinoma
+Right perirenal lymph node:
+metastatic carcinoma
+Right ureter:
+mild to moderate atypia of ureter
+metastatic urothelial carcinoma
+Left ureter:
+severe dysplasia of ureter
+Printed by:
+Printed on:
+Page 1 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+GROSS EXAMINATION:
+A:
+The specimen is received fresh from the O.R. and labelled "Retroperitoneum"
+(Periaortic). It consists of a piece of tan-yellow soft tissue measuring 0.8 x 0.8
+× 0.4 cm. The specimen is entirely submitted for frozen section in cassette AFS.
+B:
+The specimen is received fresh from the O.R. and labelled "Right perirenal
+FS". It consists of a piece of tan soft tissue measuring 5 x 0.8 x 0.4 cm. Half
+of the specimen is submitted for frozen section and the remaining tissue is
+submitted for permanent section.
+C: The specimen is received fresh from the O.R. and labelled "Rt ureter".
+consists of ureter measuring 0.5 cm in length and 0.4 cm in diameter and
+surrounding soft tissue measuring 0.7 x 0.5 x 0.4 cm.
+for frozen section in cassette CFS
+D: The specimen is received fresh from the O.R. and
+consists of ureter measuring 0.4 cm in length and 0.4
+surrounding soft tissue measuring 0.5 x 0.3 x 0.3 cm.
+submitted for frozen section in cassette DFS.
+E:
+ст.
+It
+The specimen is submitted
+labelled "Lt ureter". It
+cm in diameter and
+The specimen is entirely
+The specimen is received fresh from the O.R. and labelled "Bladder, prostate &
+rectum". It consists of prostate, urinary bladder, bilateral ureters, rectum and
+peritoneum. Overall, the specimen measures 13 x 18 x 5 cm. The peritoneum
+measures 15 x 5 x 0.1 cm. The bladder measures 8 × 5 ×x 2 cm. The rectum measures
+20 cm in length and 7 to 10 cm in circumference. The prostate measures 6 × 5 × 5
+The prostate is opened anteriorly through the prostatic urethra and then the
+urinary bladder is opened anteriorly. There are multiple polypoid tumors in the
+urinary bladder mucosa measuring from 0.5 cm to 1.5 cm in greatest dimension. A
+polypoid tumor is adjacent to the left ureterovesical junction. The right
+ureterovesical junction is 1.5 cm from the closest polypoid tumor. The left ureter
+measures 5 cm in length and 0.6 cm in circumference. The right ureter measures 5
+cm in length and 0.6 cm in circumference. There is a constricted area in the right
+ureter, which measures 0.3 cm in circumference and is approximately 1 cm from the
+right ureterovesical junction. This constriction is due to the deeply infiltrating
+tumor in the urinary wall around the ureter. The tumor also involves bilateral
+seminal vesicles and vasa deferentia. The tumor is close to but does not involve
+the colonic mucosa. The right resection margins appears grossly involved by tumor.
+The prostate is cross sectioned perpendicular to the prostatic urethra and is
+unremarkable. The proximal and distal resection margins of the rectum are both
+grossly free of tumor. The peritoneum is unremarkable. Representative sections
+are submitted in a total of 15 cassettes.
+F: The specimen is received in formalin and labelled "Right common iliac LN". It
+Printed by:
+Printed on:
+Page 2 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+consists of a two pieces of tan soft tissue measuring 3 x 1.5 x 0.4 cm in
+aggregate. The specimen is entirely submitted in two cassettes.
+G:
+The specimen is received in formalin and labelled "Para caval LN". It
+consists of two pieces of tan soft tissue measuring 2.2 x 0.8 × 0.4 cm in
+aggregate. The specimen is entirely submitted in one cassette.
+It
+H: The specimen is received in formalin and labelled "Left common iliac LN".
+consists of two pieces of tan soft tissue measuring 2.5 x 1 x 0.4 cm in aggregate.
+The specimen is entirely submitted in one cassette.
+It
+I: The specimen is received in formalin and labelled "Right LN of Cloquet".
+consists of a piece of soft tan tissue measuring 0.8 x 0.6 x 0.4 cm. The specimen
+is entirely submitted in one cassette.
+J:
+The specimen is received in formalin and labelled "Rt external iliac LN". It
+consists of multiple tan soft tissue fragments measuring 4 x 1.5 x 0.2 cm in
+aggregate. The specimen is entirely submitted in three cassettes.
+K:
+The specimen is received in formalin and labelled "Right hypogastric/obturator
+It consists of multiple tan soft tissue fragments measuring 3 x 2 x 0.4 cm in
+aggregate. The specimen is entirely submitted in three cassettes.
+LN".
+L: The specimen is received in formalin and labelled "Left external iliac LN".
+It consists of multiple tan-yellow, soft, fibroadipose tissue fragments measuring
+3.5 x 1.5 × 0.4 cm in aggregate. The specimen is entirely submitted in three
+cassettes.
+It
+M: The specimen is received in formalin and labelled "Left LN of Cloquet".
+consists of a piece of tan soft tissue measuring 0.8 x 0.6 x 0.2 cm. Entirely
+submitted in one cassette.
+N: The specimen is received in formalin and labelled "Left obturator/hypogastric
+lymph node". It consists of multiple tan-yellow fibroadipose tissue fragments
+measuring 3 x 2 x 0.4 cm in aggregate. The specimen is entirely submitted in three
+cassettes.
+0: The specimen is received in formalin and labelled "Para aortic LN". It
+consists of two pieces of tan soft adipose tissue measuring 1.2 x 0.8 x 0.6 cm in
+aggregate. The specimen is entirely submitted in one cassette.
+P:
+The specimen is received in formalin and labelled "Proximal left ureter".
+consists a segment of ureter measuring 0.8 cm in length and 0.3 cm in diameter.
+The specimen is entirely submitted in one cassette.
+It
+Printed by:
+Printed on:
+Page 3 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+Q: The specimen is received in formalin and labelled "Right proximal ureter". It
+consists of a segment of ureter measuring 0.4 cm in length and 0.5 cm in diameter.
+The specimen is entirely submitted in one cassette.
+SECTIONS:
+AFS:
+BFS:
+BRT:
+CFS:
+DFS:
+E1:
+E2:
+E3:
+E4:
+E5:
+E6:
+E7,8:
+E9:
+E10:
+Ell:
+E12:
+E13,14:
+E15:
+F1,2:
+G:
+H:
+I :
+J1-3:
+K1-3:
+L1-3:
+M:
+N1-3:
+○ :
+P:
+Q:
+frozen section, retroperitoneum
+frozen section, right perirenal
+remaining tissue
+frozen section, right ureter
+all embedded
+-
+all embedded
+frozen section, left ureter - all embedded
+proximal resection margin of rectum
+distal resection margin of rectum
+rectal mucosa
+mucosa with adjacent tumor
+left ureterovesical junction
+right ureter in constricted area and ureterovesical junction
+urinary bladder mucosa, polypoid nodule
+vasa deferentia
+seminal vesicles
+right perivesical radial margin
+left perivesical radial margin
+prostate
+peritoneum
+-
+right common iliac lymph node
+paracaval lymph node all embedded
+-
+all embedded
+left common iliac lymph node all embedded
+right lymph node of Cloquet all embedded
+right external iliac lymph node - all embedded
+right hypogastric/obturator lymph node all embedded
+left external iliac lymph node all embedded
+left lymph node of Cloquet all embedded
+left obturator/hypogastric lymph node
+para-aortic lymph node all embedded
+proximal left ureter all embedded
+right proximal ureter all embedded
+-
+-
+-
+all embedded
+Signature Line
+CLINICAL INFORMATION:
+Pre-Op Dx:
+Prostate cancer
+Post-Op Dx:
+Same
+Printed by:
+Printed on:
+Page 4 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+SPECIMEN SOURCE:
+A: "Retroperitoneum" (Periaortic)
+B: "Right perirenal FS"
+C: "Rt ureter"
+D: "Lt ureter"
+E: "Bladder, prostate & rectum"
+F: "Right common iliac LN"
+G: "Para caval LN"
+H: "Left common iliac LN"
+I: "Right LN of Cloquet"
+J:
+"Rt external iliac LN"
+K: "Right hypogastric/obturator LN"
+L: "Left external iliac LN"
+M: "Left LN of Cloquet"
+N: "Left obturator"
+0:
+"Para aortic LN"
+P: "Proximal left ureter"
+Q: "Right proximal ureter"
+DIAGNOSIS:
+RADICAL CYSTECTOMY WITH ILEAL CONDUIT:
+RETROPERITONEUM" [PERIAORTA] (A):
+FROZEN SECTION DIAGNOSIS:
+METASTATIC CARCINOMA
+FINAL DIAGNOSIS:
+METASTATIC UROTHELIAL CARCINOMA
+RIGHT PERIRENAL LYMPH NODE (B):
+FROZEN SECTION DIAGNOSIS:
+-
+METASTATIC CARCINOMA
+FINAL DIAGNOSIS:
+METASTATIC UROTHELIAL CARCINOMA
+RIGHT URETER (C):
+FROZEN SECTION DIAGNOSIS:
+-
+MILD TO MODERATE ATYPIA OF URETER
+METASTATIC UROTHELIAL CARCINOMA
+FINAL DIAGNOSIS:
+-
+-
+MILD ATYPIA OF URETER
+METASTATIC UROTHELIAL CARCINOMA
+LEFT URETER (D):
+Printed by:
+Printed on:
+Page 5 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+FROZEN SECTION DIAGNOSIS:
+SEVERE DYSPLASIA OF URETER
+FINAL DIAGNOSIS:
+-
+SEVERE DYSPLASIA OF URETER
+MICROSCOPIC METASTATIC UROTHELIAL CARCINOMA
+BLADDER, PROSTATE AND RECTUM (E):
+BLADDER:
+-
+INVASIVE, MODERATELY TO POORLY DIFFERENTIATED PAPILLARY UROTHELIAL
+CARCINOMA, EXTENDING THROUGH MUSCULARIS PROPRIA INTO PERIVESICAL FAT AND
+RECTUM
+PAPILLARY UROTHELIAL CARCINOMA, GRADE 3/4
+PERINEURAL AND LYMPHOVASCULAR SPACE INVASION IDENTIFIED
+BILATERAL SEMINAL VESICLES AND VASA DEFERENTIA INVOLVED BY TUMOR
+COLON:
+-
+-
+METASTATIC UROTHELIAL CARCINOMA INVOLVING MUSCULAR WALL AND SUBMUCOSA
+DISTAL RESECTION MARGIN INVOLVED BY UROTHELIAL CARCINOMA
+PROXIMAL RESECTION MARGIN, FREE OF TUMOR
+PROSTATE:
+-
+BENIGN GLANDULAR AND STROMAL HYPERPLASIA
+RIGHT COMMON ILIAC LYMPH NODES (F):
+METASTATIC CARCINOMA IDENTIFIED IN ONE OF THREE LYMPH NODES (1/3)
+PERINODAL LYMPHATIC SPACE INVOLVEMENT
+PARACAVAL LYMPH NODES (G):
+NO TUMOR IDENTIFIED IN 11 LYMPH NODES (0/11)
+LEFT COMMON ILIAC LYMPH NODES (H):
+-
+NO TUMOR IDENTIFIED IN SEVEN LYMPH NODES (0/7)
+RIGHT LYMPH NODE OF CLOQUET (I):
+-
+NO TUMOR IDENTIFIED IN ONE LYMPH NODE (0/1)
+RIGHT EXTERNAL ILIAC LYMPH NODES (J):
+METASTATIC CARCINOMA IDENTIFIED IN ONE OF 14 LYMPH NODES (1/14)
+RIGHT HYPOGASTRIC/OBTURATOR LYMPH NODES (K) :
+-
+NO TUMOR IDENTIFIED IN 23 LYMPH NODES (0/23)
+LEFT EXTERNAL ILIAC LYMPH NODES (L):
+-
+NO TUMOR IDENTIFIED IN SEVEN LYMPH NODES (0/7)
+Printed by:
+Printed on:
+Page 6 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+SEGMENT OF VAS DEFERENS
+LEFT LYMPH NODE OF CLOQUET (M):
+NO TUMOR IDENTIFIED IN ONE LYMPH NODE (0/1)
+LEFT OBTURATOR/HYPOGASTRIC LYMPH NODES (N):
+METASTATIC CARCINOMA IDENTIFIED IN ONE OF 24 LYMPH NODES (1/24)
+PARA-AORTIC LYMPH NODES (0):
+-
+METASTATIC CARCINOMA IDENTIFIED IN TWO LYMPH NODES (2/2)
+LEFT PROXIMAL URETER (P):
+MICROSCOPIC METASTATIC UROTHELIAL CARCINOMA
+BENIGN UROTHELIAL MUCOSA
+RIGHT PROXIMAL URETER (Q):
+MICROSCOPIC METASTATIC UROTHELIAL CARCINOMA
+BENIGN UROTHELIAL MUCOSA
+PATHOLOGIC TNM STAGE: pT4a,N2 (5/93), M1
+Signature Line
+Printed by:
+Printed on:
+Page 7 of 7
+(End of Report)
+Criteria
+Diagnosis Discrepancy
+lu 1/11/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+20144
+No

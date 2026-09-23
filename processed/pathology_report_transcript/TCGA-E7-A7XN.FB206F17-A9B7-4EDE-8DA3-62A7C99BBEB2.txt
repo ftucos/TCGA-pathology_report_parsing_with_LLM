@@ -1,0 +1,52 @@
+TSS Patient ID:
+UUID: FB206F17-A9B7-4EDE-8DA3-62A7C99BBEB2
+TCGA-E7-A7XN-01A-PR
+Redacted
+Surgical Date:
+Gross Description: Tumor occupies bladder wall. It is invasive and protruded, ill - margins with 6x6x5cm
+in size, necrotic, soft and gray surface.
+Microscopic Description: Tumor is necrotic. Tumor cells are hyperplastic to arrange to form sheets or
+nest or groups or cords one by one. Tumor cells have moderate and eosinophilic. Nuclei are very
+enlarged and varriability in shape and size, irregular nuclear membranes, nucleoli and abnormal
+chromatin patterns. Mitoses are common. Tumor invades in fat tissue. Stroma is invasion of
+lymphocytes.
+Diagnosis Details: Infiltrating urothelial carcinoma, high-grade, infiltrating in fat tissue
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+SACE
+ICD-O.3
+Specimen type: Cystectomy
+Tumor site: Bladder
+Tumor size: 6 x 6 x 5 cm
+Tumor features: None specified
+Histologic type: Transitional cell carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Perivesical tissue (microscopic)
+Lymph nodes: Not specified
+Lymphatic invasion: Not specified
+Carcinoma, urothelial NOS
+Path
+Carcinoma, transitional cell NOS
+812013
+с67.9
+Site: Bladder NOS
+JW 10/10/13
+Venous invasion: Not specified
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: No
+Additional pathologic findings: Tumor invades bladder wall, perivesical fat
+Comments: None
+Criteria
+for 10/1/13
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary noted
+Case is (circle):
+Reviewer Initia
+QUALIFIED
+Bute Reviewed:
+Yes
+No
+DISQUALIFIED

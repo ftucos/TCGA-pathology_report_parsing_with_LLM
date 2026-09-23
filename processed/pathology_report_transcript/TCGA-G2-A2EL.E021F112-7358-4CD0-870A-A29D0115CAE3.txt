@@ -1,0 +1,37 @@
+PATHOLOGY REPORT
+Redacted
+UUID:E021F112-7358-4CD0-870A-A29D0115CAE3
+TCGA-G2-A2EL-01A-PR
+DIAGNOSIS
+(A) BLADDER TUMOR, LEFT LATERAL WALL:
+ICD-0-3
+Carcinoma, urothelial Nos 8120/3
+Site: bladder, wall, lateral C67.2
+UROTHELIAL CARCINOMA, HIGH GRADE, WITH EXTENSIVE SMALL CELL
+DIFFERENTIATION.
+TUMOR IS INVASIVE INTO MUSCULARIS PROPRIA.
+POSITIVE FOR LYMPHOVASCULAR INVASION.
+CONSULTANT(S)
+GROSS DESCRIPTION
+(A) BLADDER TUMOR LEFT LATERAL WALL - Multiple pale gray tissue fragments (3.0 x
+2.8 x 0.9 cm in aggregate). Entirely submitted in A1 and A2.
+CLINICAL HISTORY
+Bladder carcinoma.
+سلام
+6/23/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual,',nchronous Prinsary Note
+QUALIFIF
+Case is (ircle):
+Reviewer Initials
+. 4/23/
+"
+One Reviewed:
+Yes
+No
+DISQUALIFIED
+$52771

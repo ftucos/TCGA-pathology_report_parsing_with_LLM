@@ -1,0 +1,132 @@
+Sample +
+Gender: Male
+DOB:
+Race:
+Report Date:
+Pathology Report:
+UUID:D738C31B-26D6-4868-ABFE-01E6FE6A4F55
+TCGA-FD-A3NA-01A-PR
+Redacted
+Tw 1/2/12
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Review Initi
+Yes
+No
+QUALIFIED I DISQUALIFICO
+DEYE Reviewed:
+29/11
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Pelvic lymph nodes, right, dissection:
+- Twelve lymph nodes, no evidence of tumor (0/12).
+B. Pelvic lymph nodes, left; dissection:
+· Eight lymph nodes, no evidence of tumor (0/8).
+C. Prostate and bladder; radical cystectomy:
+ICD-0-3
+carcinoma, urothelial, Nos 8/20/3
+Path Site: bladder, Nos C67.9
+CQCF bladder, wall, posterior C67.4
+- Invasive urothelial carcinoma; see pathologic parameters below.
+- Prostatic adenocarcinoma; see pathologic parameters below.
+· Sixty-five lymph nodes, no evidence of tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Urothelial carcinoma.
+2. Grade of tumor: High-grade.
+3. Depth of invasion: Muscularis propria, outer half.
+4. Tumor distribution: Solitary, 6.3 x 5.1 x 5.0 cm (depth); posterior wall.
+5. Ureteral Margins: Negative.
+6. Distal urethral margin: Negative.
+7. Lymph nodes: No carcinoma in 85 regional lymph nodes (0/85).
+8. pTNM: pT2b, NO, MX.
+Radical Prostatectomy Pathologic Parameters
+1. Gleason Score: 3+4 = 7/10.
+2. Perineural Invasion: Absent.
+3. Tumor Location: Peripheral zone right.
+4. Tumor Volume Estimate: <5%.
+5. High-grade P.I.N.: Multifocal.
+6. Seminal Vesicles: Negative for tumor.
+7. Fibromuscular Capsule: Tumor confined to the prostate.
+8. Peripheral Margin: Positive for tumor (C16).
+9. Distal (apical) Margin: Negative for tumor.
+10. Proximal (basilar) Margin: Negative for tumor.
+11. Regional Lymph Nodes (right and left): Negative for tumor.
+12. pTNM: pT2a, N0, MX.
+L 1/2/12
+XXX
+[ ] M.D.
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident or Fellow.
+Electronically Signed Out by [] M.D.
+Clinical History:
+The patient is a
+-year-old male with a history of bladder tumor. Bladder
+washing showed urothelial carcinoma. The patient underwent radical cystectomy
+and neobladder.
+Specimens Received:
+A: Right pelvic lymph node
+B: Left pelvic lymph node
+C: Prostate & bladder
+Gross Description:
+The specimen is received in three containers each labeled with the patient's
+name and medical record number.
+A. Container A is further designated 31. right pelvic lymph node4. Received
+fresh and placed in formalin are fragments of yellow-brown lobulated adipose
+tissue measuring 8.5 x 6 x 1.2 cm aggregate. Multiple firm rubbery lymph node
+candidates are dissected from the specimen ranging from 0.2-5.5 cm in greatest
+dimension. Representative sections are submitted as follows:
+A1-A3:
+multiple lymph node candidates
+A4-A6: one matted lymph node candidate
+B. Container B is further designated 32. left pelvic lymph node4. Received
+fresh and placed in formalin are multiple fragments of yellow-brown adipose
+tissue measuring 6.5 x 5.5 x 2.0 cm in aggregate. Multiple yellow-brown
+firm-rubbery lymph node candidates are dissected from the specimen ranging from
+0.2-4.0 cm in greatest dimension. Representative sections are submitted as
+follows:
+B1-B3:
+multiple lymph node candidates
+B4, B5: one matted lymph node candidate, bisected
+C. Container C is further designated 33. bladder and prostate4. Received fresh
+and placed in formalin is a specimen of cystectomy weighing 395 gm and the
+overall measurement is 14.5 x 10.5 x 6.0 cm. The bladder measures 9.0 x 8.5 x
+5.5 cm and the prostate measures 4.0 x 3.3 x 3.0 cm. The bladder is opened from
+the anterior wall with a Y-shaped incision. A gray-white, firm, ulcerated mass
+is identified in the posterior wall of the bladder measuring 6.3 x 5.1 cm and
+raised 2.8 cm from the bladder mucosa. Multiple small papillae are identified
+in the periphery of the mass. The outer surface of the bladder and the prostate
+is inked black on the left side and blue on the right side. Probing through the
+ureters reveals that both ureteral orifices are involved by the tumor. The
+specimen is serially sectioned. Both ureters are surrounded by solid tumor.
+The tumor displays a thickness of 5.0 cm. The tumor grossly invades through the
+bladder wall but not through the surrounding adipose tissue. The center of the
+tumor is white and soft and grossly necrotic. The prostate and the seminal
+vesicles are not grossly invaded by tumor. No lymph nodes are identified in the
+peri-bladder adipose tissue. Received in the same container is a 4.8 cm round
+tubular tissue with a diameter of 0.4 cm. Representative sections are submitted
+as follows:
+C1:
+urethral margin
+C2:
+ureter margin
+C3,C4:
+C5,C6:
+sections through the left ureter
+C7,C8:
+C9-C11:
+sections through the right ureter
+representative sections of tumor showing deepest invasion
+representative sections of the tumor C12: normal bladder and
+sections of the detached tubular structure
+C13-C27: the entire prostate
+Seminal vesicles
+C28:
+C29, C30:
+XXX
+[] M.D. PhD
+representative sections of tumor

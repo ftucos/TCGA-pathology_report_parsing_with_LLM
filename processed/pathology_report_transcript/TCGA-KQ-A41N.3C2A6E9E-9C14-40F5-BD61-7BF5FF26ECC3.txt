@@ -1,0 +1,168 @@
+Report Date:
+Dagh
+ical Pathology Report
+ICD-0-3 carcinoma, urothelial, papillary
+CQCF urathelial,
+Submitted by:
+813013
+Site:
+Carcinoma, Nos
+812013
+Path: bladder, NOS
+0679
+UUID:3C2A6E9E-9C14-40F5-BD61-7BF5FF26ECC3
+TCGA-KQ-A41N-01A-PR
+Redacted
+Surgical Pathology Laboratory
+COCE: uretericorifice 47.0
+CLINICAL INFORMATION:
+7-23-12
+Telephone:
+RD
+Location:
+Bladder cancer. Radical open cystoprostatectomy with ileal conduit urinary diversion.
+Specimen submitted: A. Right common iliac node; B. Presacral lymph node; C. Right obturator; D. Left common iliac node; E.
+Left obturator; F. Distal left ureter; G. Distal right ureter; H. Left pelvic lymph node; 1. Bladder, prostate seminal vesicle; J. Right
+pelvic lymph node
+DIAGNOSIS:
+A. Lymph node, right common iliac (excision):
+Ten lymph nodes, negative for metastatic carcinoma (0/10).
+B. Lymph node, presacral (excision):
+Four lymph nodes, negative for metastatic carcinoma (0/4).
+C. Lymph node, right obturator (excision):
+Thirteen lymph nodes, negative for metastatic carcinoma (0/13).
+D. Lymph node, left common iliac (excision):
+Eighteen lymph nodes, negative for metastatic carcinoma (0/18).
+E. Lymph node, left obturator (excision):
+Six lymph nodes, negative for metastatic carcinoma (0/6).
+F. Ureter, left "distal" (excision):
+Segment of benign ureter.
+G. Ureter, right "distal" (excision):
+Segment of benign ureter.
+H. Lymph node, left pelvic (excision):
+Two lymph nodes, negative for metastatic carcinoma (0/2).
+I. Bladder, prostate and seminal vesicles (radical cystoprostatectomy):
+Bladder:
+Criteria
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prier Malignancy History
+Dual/Synchronous Primary Noted
+Case is r
+ReviewerIns
+Prostate
+QUALIFIED ! DISQUALIFIED
+Gate Reviewed:
+*
+13/4/12
+Invasive high-grade papillary urothelial carcinoma (2.5 cm in greatest dimension).
+Tumor invades through muscularis propria into perivesical adipose tissue as a 2.5 cm
+extravesical mass.
+No angiolymphatic invasion is identified.
+Page 1 of 3
+Surgical resection margins, urethral and ureteral margins are negative for tumor.
+Three lymph nodes, negative for metastatic carcinoma (0/3).
+AJCC stage (7th edition): pT3b, NO.
+Prostate and seminal vesicles:
+Prostatic adenocarcinoma, Gleason score 4+3=7, bilateral, organ confined.
+A minor component of Gleason pattern 5 is present.
+A dominant tumor nodule is present in the mid region of the prostate and measures
+approximately 1.8 cm.
+Right anterior apical margin is focally positive for tumor (block 15).
+Seminal vesicles are negative for carcinoma.
+AJCC stage (7th edition): pT2c, NO.
+Please see staging summary.
+J. Lymph node, right pelvic (excision):
+One lymph node, negative for metastatic carcinoma (0/1).
+PATHOLOGICAL STAGING SUMMARY:
+Histologic Type:
+Tumor Quantitation:
+Pathologic Staging (pTNM):
+Margins:
+Extraprostatic Extension:
+Seminal Vesicle Invasion:
+Perineural Invasion:
+Adenocarcinoma (conventional, not otherwise specified)
+Primary Pattern: Grade 4
+Secondary Pattern: Grade 3
+Tertiary Pattern: Grade 5
+Total Gleason Score: 7
+Proportion (percent) of prostatic tissue involved by tumor: 15%
+Tumor size (dominant nodule, if present): Greatest dimension: 1.8 cm
+pT2c: Bilateral disease
+Number of regional lymph nodes examined: 57
+Number of regional lymph nodes involved: 0
+PMX: Distant metastasis cannot be assessed
+Margin(s) involved by invasive carcinoma
+Unifocal margin(s) involved by invasive carcinoma
+Apical margin(s) involved by invasive carcinoma
+Absent
+Absent
+Present
+Absent
+Venous (Large Vessel) Invasion (V):
+Lymphatic (Small Vessel) Invasion (L): Absent
+Additional Pathologic Findings: High-grade prostatic intraepithelial neoplasia (PIN)
+GROSS DESCRIPTION:
+A. Received fresh, the specimen is labeled "right omentum" and consists of fibrofatty tissue measuring 4.5 x 2.5 x 0.5 cm in
+aggregate. 100% submitted. Summary of sections: A1 to A4-lymph node and fat.
+B. Received fresh, the specimen is labeled "presacral lymph node" and consists of an aggregate of fat and lymph node measuring
+5.0 x 1.5 x 0.8 cm. 100% submitted. Summary of sections: B1 to B4-lymph node and fat.
+C. Received fresh, the specimen is labeled "right obturator" and consists of lymph node and fat measuring 3.5 x 2.3 x 1.3 cm in
+aggregate. 100% submitted. Summary of sections: C1 through C4-lymph node and fat.
+D. Received fresh, the specimen is labeled "left common iliac node" and consists of lymph node and fat measuring 6.0 x 5.0 x 1.0
+cm in aggregate. 100% submitted. Summary of sections: D1 through D9-lymph node and fat.
+E. Received fresh, the specimen is labeled "left obturator" and consists of aggregate of lymph node and fat measuring 3.0 x 2.6 x
+0.7 cm. 100% submitted. Summary of sections: El through E5-lymph node and fat.
+Page 2 of 3
+F. Received fresh, the specimen is labeled "distal left ureter" and consists of a segment of ureter measuring 0.6 cm long and 0.6 cm
+in diameter with staple
+. Summary of sections: F1-left ureter margin.
+G. Received fresh, the specimen is labeled "distal right ureter" and consists of a segment of ureter measuring 0.6 cm in length and
+0.3 cm in diameter with 
+staple. Summary of sections: G1-right ureter margin.
+H. Received fresh, the specimen is labeled "right pelvic lymph node" and consists of a lymph node and fat measuring 3.0 x 2.0 x 0.6
+cm. 100% of the 
+specimen submitted. Summary of sections: HI and H2-lymph node and fat.
+I. Received fresh, the specimen is labeled "bladder prostate and seminal vesicles" and consists of a radical cytoprostatectomy
+specimen measuring 
+19.5 x 13.0 x 6.0 cm overall. The prostate measures 5.0 x 4.0 x 3.5 cm. The right side of the prostate is inked
+green and the 
+left inked black. Posterior wall of the urethra measures 2.5 x 0.8 cm and the bladder measures 7.0 x 6.5 x 4.5 cm.
+Right seminal 
+vesicles measures 4.0 x 2.3 x 1.1 cm, left seminal vesicle measures 4.1 x 1.0 x 1.0 cm. The right vas deferens
+measures 12.0 x 0.5 cm and the left vas deferens measuring 4.5 x 0.4 cm, the right ureter measures 8.0 x 0.5 cm and left ureter
+measures 
+5.0 x 1.0 cm. There is 5.0 x 4.0 x 3.0 cm polypoid mass at the left ureter orifice. Upon opening the bladder and prostate
+anteriorly, there is a 2.5 x 
+2.0 x 2.0 cm ill-defined firm white tan mass in the left bladder wall which invades up to the edge of
+muscularis propria. There is also 2.2 x 2.0 x 2.0 cm mass in the left anterior prostate and the mass is also seen invading the right
+part of the prostate. 
+Representative sections of the tumor, the prostate and the bladder are submitted. Summary of sections: 11-right
+ureter margin, 12-left ureter 
+margin, 13-posterior distal urethral margin, 14-urethra closer to prostate, 15-RA apex, 16-RP apex, 17-LA
+apex, 18-LP apex, 19-RAA, 
+110-RPA, 111-LAA, 112-LPA, 113-RAB, 114-RPB, 115-LAB, 116-LPB, 117-RAC, 118-RPC, 119-LAC,
+120-LPC, 121-
+prostatic tumor to periprostatic fat, 122-prostatic tumor to inked margin, 123-prostatic tumor to periprostatic fat,
+124-prostatic tumor to inked 
+margin, 125-RSV, 126-LSV, 127-representative of the polypoid mass, 128-prostate to bladder, mid,
+129-prostate to bladder right
+, 130 and 131-prostate to bladder and tumor, left, 132 and 133-bladder tumor closest to muscularis
+propria and fat at 
+left lateral wall, 134 and 135-tumor to bladder left lateral wall, 136-tumor to bladder left lateral wall,
+137-
+representative of the pedunculated wall, 138-bladder right lateral wall, 139-posterior wall, 140-bladder dome, 141-lymph node
+bisected, 142-lymph node bisected
+, 143-lymph node bisected, 144 through 146-fat, 147 through 153, additional sections. (
+*** Electronically Signed Out ***
+Attending Pathologist
+The attending pathologist whose signature appears on this report has reviewed the diagnostic slides,
+and has edited the gross and microscopic portions of the report in rendering the final diagnosis.
+__
+Slides: A-4. B-4. C-4, D-9, E-5. F-1, -1, 1-2, 1-46, J-3
+END OF REPORT
+Page 3 of 3

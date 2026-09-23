@@ -1,0 +1,140 @@
+Sample #
+Gender: Male
+DOB:
+Race: White
+Report Date:
+Pathology Report:
+ICD-0-3
+Carcinoma, urothelial NOS
+C6CF
+812013
+Site Lateral wall of bladde
+path
+&
+0672
+Wladder 167.80
+1) 7/22/13
+UUID:D324203B-97F7-4EDF-B1D2-217F63ACAF92
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Right pelvic lymph nodes; lymphadenectomy:
+- Twelve lymph nodes, no tumor (0/12).
+B. Left pelvic lymph nodes; lymphadenectomy:
+- Fourteen lymph nodes, no tumor (0/14).
+C. Urinary bladder and prostate; cystoprostatectomy:
+TCGA-FD-A6TB-01A-PR
+- Invasive high grade urothelial carcinoma, infiltrating thru the bladder
+muscularis propria and focally into the perivesical fat, see pathologic
+parameters.
+- All specimen resection margins, free of tumor.
+D. Right distal ureter; excision:
+- Portion of ureter, free of tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Invasive urothelial carcinoma.
+2. Grade of tumor: High grade.
+3. Depth of invasion: Extravesicular soft tissue (microscopic [slide C21]).
+4. Tumor distribution: Solitary, 2.7 cm, right posterolateral wall.
+5. Ureteral margins: Negative for tumor.
+6. Distal urethral margin: Negative for tumor.
+7. Soft tissue margin or serosa: Negative for tumor.
+8. Lymph nodes: Negative for tumor (0/26).
+9. pTNM: pT3a,N0, MX.
+Effective January 1, 2010 this Checklist utilizes the 7th edition TNM staging
+system for prostatectomy of the American Joint Committee on Cancer (AJCC) and
+the International Union Against Cancer (UICC).
+Redacted
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [], MD
+Electronically Signed Out by () MD
+Clinical History:
+Patient is a
+year-old male with malignant neoplasm of bladder, part
+unspecified undergoing cystoprostatectomy, ileo-conduit.
+Specimens Received:
+A: Left pelvic lymph nodes
+B: Left pelvic lymph nodes
+C: Bladder and prostate
+D: Right distal ureter, stitch on non margin side
+Gross Description:
+The specimens are received in four containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, "right pelvic lymph
+nodes". Received fresh and placed in formalin are multiple soft, rubbery,
+yellow-tan tissue fragments measuring 6.3 x 5.2 x 1.4 cm in aggregate. 17 lymph
+node candidates are identified and submitted as follows:
+A1: 3 lymph node candidates
+A2: 4 lymph node candidates
+A3: 3 lymph node candidates
+A4: 4 lymph node candidates
+A5: One lymph node candidate, bisected
+A6: One lymph node candidate, bisected
+A7: One lymph node candidate, bisected
+B. The second container is additionally identified as, "left pelvic lymph
+nodes". Received fresh and placed in formalin are multiple soft, rubbery,
+yellow-tan tissue fragments measuring 6.2 x 5.5 by is 1.3 cm in aggregate. 13
+lymph node candidates are identified and submitted as follows:
+B1: 3 lymph node candidates
+B2: 4 lymph node candidates
+B3: One lymph node candidate, bisected
+B4-B5: One lymph node candidate, bisected, one half in each cassette
+B6: 4 lymph node candidates
+C. The third container is additionally identified as, "bladder/prostate".
+Received fresh and placed in formalin is a 190 g, 14.5 x 9.0 x 5.0 cm
+cystoprostatectomy specimen consisting of a 6.0 x 6.0 x 2.1 cm bladder with
+attached mesenteric fat and a 4.4 x 4.0 x 3.9 cm prostate. The right seminal
+vesicles measure 4.1 x 1.3 cm and right vas deferens measures 4.2 x 0.5 cm. The
+left seminal vesicles measures 3.9 x 1.0 cm and left vas deferens measures 6.5 x
+0.4 cm. The right ureteral stump measures 1.5 x 0.4 cm, the left measures 1.2 x
+0.4 cm, and each demonstrates an intact, patent lumen.
+The right half of the prostate and bladder is inked blue and the left half is
+inked black. The bladder and prostate are opened anteriorly along the urethra.
+The outer surface of the prostate is smooth. Sectioning demonstrates rubbery,
+pink-tan, peri-urethral nodularity without evidence of any lesions or
+indurations.
+The opened bladder reveals a 2.7 x 2.5 cm red-tan, friable ulcer (lesion A)
+located in right posterolateral wall and a 2.5 x 1.0 cm ulcer (lesion B) in the
+inferoposterior wall/prostatic urethra. In addition, a pink edematous mucosa is
+noted on the left lateral wall measuring 2.0 x 1.5 cm. On cut section, lesion B
+extends into but not through the mucosa and is 2.0 cm from the deep margin. On
+cut section, the lesion A extends into but not through the mucosa and is 1.7 -
+2.1 cm from the deep margin. The surrounding bladder mucosa is smooth, wrinkled,
+pink-tan with a uniform 1.1 cm wall thickness. Bilateral ureteral orifices,
+adjacent to the trigone, are identified and probe patent.
+Representative sections are submitted as follows:
+C1: Distal prostatic urethral margin
+C2: Right ureter resection margin
+C3: Left ureter resection margin
+C4: Prostate apex
+C5-C7: Representative right lobe of prostate
+C8-C10: Representative left lobe of prostate
+C11-C16: All sections of ulcer/lesion in the inferoposterior wall/prostatic
+urethra (Lesion B)
+C17-C20: All sections of the edematous mucosa in the left lateral wall
+C21-C28: All sections of the ulcer in the right posterior lateral wall
+(Lesion A)
+C29: Representative section of uninvolved bladder mucosa, posterior
+wall
+C30: Representative section of uninvolved mucosa, bladder dome
+C31-C32: Representative section of uninvolved bladder mucosa, anterior wall
+D. The fourth container is additionally identified as, "right distal ureter,
+stitch on non-margins side".
+Received fresh and placed in formalin is a 1.1 x 0.9 cm, soft, pink-tan tubular
+specimen grossly resembling ureter which is oriented by a long stitch on the
+non-margins side. The margins side is sectioned and submitted en face as D1 and
+the remaining specimen is bisected and submitted in toto as D2.
+Criteria
+A 7/10/13
+Diagnosis Discrepancy
+imary Tumor Site Discrepancy
+1.PAA Discrepancy
+Por Malignancy History Wrothetist=
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewe: initials
+QUALIFIED
+Date Reviewed:)
+Yes.
+No
+ކ
+DISQUALIFIED
+39443

@@ -1,0 +1,290 @@
+Results
+Patient Information
+Patient Name
+Result Information
+Status
+Final resul
+Entry Date
+Component Results
+Component
+Surgical Pathology
+UUID:3EDC13B8-36AF-4C66-B4A2-38EC382FF39A
+TCGA-GU-A762-01A-PR
+Redacted
+MRN
+BIOPSY OR SURGICAL SPECIMEN (Order
+Provider Status
+Ordered
+Sex
+Male
+DOB
+Final Diagnosis
+A. Right distal ureter, margin segment, cystoprostatectomy:
+-Benign ureter segment
+-Frozen section diagnosis confirmed
+B. Left distal ureter, margin segment, cystoprostatectomy:
+-Benign ureteral segment
+-Frozen section diagnosis confirmed
+ICD-0.3
+Carcinoma, urothelial HOS
+81203
+Site Bladder NOS $67.9
+718/13/13
+Per TSS diagnostic discrepancy form,
+no squamous differentiation 
+seen on
+C. Bladder and prostate, cystoprostatectomy:
+-Invasive, high grade urothelial carcinoma with prominent, extensive squamous
+differentiation (see note)
+-Carcinoma is ulcerated, involves about 80 percent of the bladder wall including
+the intravesical right ureter
+-Largest tumor nodules is 7.5 x 4.3 x 0.7 cm in the right lateral wall; multiple
+other tumor nodules identified in fundus, left lateral wall, anterior wall and
+in the prostate (2.5 cm)
+-Tumor infiltrates through the muscularis propria, extensively into the
+perivesical adipose tissue, into the prostatic stroma (right greater than left)
+and right seminal vesicle (blocks C5 and C6)
+-Extensive perineural invasion present
+-No lymphovascular invasion identified
+-Carcinoma is present at the posterior serosal surface (block C26) and at the
+right anterior prostatic capsular resection margin (block C31)
+-Bilateral ureteral and urethral resection margins are negative for carcinoma
+-Benign bladder mucosa with extensive squamous metaplasia, chronic cystitis with
+reactive lymphoid follicles; diverticulum in the right fundus with squamous
+metaplasia
+D. Left pelvic lymph nodes, dissection:
+-Three lymph nodes with metastatic carcinoma
+-Extranodal extension present (3/3)
+E. Right pelvic lymph nodes, dissection:
+-One of seven lymph nodes with metastatic carcinoma (1/7)
+tega specimen.
+BCR
+CAP CANCER CHECKLIST
+Page 1 of 6
+Specimen:
+Bladder and prostate
+Procedure:
+Radical cystoprostatectomy
+Tumor Site:
+Right and left lateral walls, anterior wall, posterior wall, dome of bladder
+Tumor Size: *
+Approximate dimension: 9.0 x 5.0 x 5.0 cm
+✓ Histologic Type:
+Urothelial carcinoma with extensive squamous differentiation
+Associated Epithelial Lesions:
+None identified
+Histologic Grade:
+Urothelial Carcinoma (WHO/2004 ISUP): High grade
+Tumor Configuration:
+Solid, interconnected nests with keratinization and acantholytic foci;
+ulcerated/necrotic at the mucosal surface
+Microscopic Tumor Extension:
+Perivesical fat, prostatic stroma, and into the intravesical portions of the
+right and left ureters
+Margins:
+Tumor present at the posterior vesical serosal surface (block C26), right
+anterior prostatic capsular resection margin (block C31)
+Ureteral and urethral resection margins, uninvolved by carcinoma
+Lymphovascular Invasion:
+Not identified
+Perineural Invasion:
+Present, extensive
+Pathologic Staging (pTNM)
+Primary Tumor (PT):
+pT4a: Tumor invades prostatic stroma
+Regional Lymph Nodes (pN):
+pN2: Multiple regional lymph node metastases in the true pelvis
+Number examined: 10
+Number involved: 4
+Distant Metastasis (PM): pMX: Cannot be assessed
+Additional Pathologic Findings:
+Tumor associated with prominent inflammatory cell infiltrate including
+lymphocytes, plasma cells and eosinophils
+Non-neoplastic urothelium including right fundic diverticulum with extensive
+squamous metaplasia and chronic cystitis with reactive lymphoid follicles
+Ancillary Studies:
+None performed at this time; blocks C7 or C33 may be used if required
+Page 2 of 6
+The above pathology diagnosis incorporates data elements as outlined in the CAP
+Cancer Protocols and Checklists which are based on the AJCC/UICC TNM, 7th
+edition.
+Note
+The tumor is ulcerated and necrotic at the bladder mucosa and is comprised of
+solid, interconnected nests with keratinization and acantholytic foci. There is
+extensive squamous differentiation. Tumor in the prostate and in the lymph
+nodes is a syncytium of malignant cells associated with prominent mixed chronic
+inflammation comprised of lymphocytes, plasma cells and eosinophils, features of
+lymphoepithelioma-like carcinoma.
+Immunohistochemical stains performed with appropriate controls show the
+following results within the tumor cells:
+CK7 Positive, extensive
+CK20 Negative
+CK5/6 Positive, extensive
+AE1/AE3 Positive, extensive
+LCA highlights leucocytes at the edges of the tumor cell nests/syncytium
+EBV in-situ hybridization negative
+This is a high-grade carcinoma with extensive squamous differentiation. While a
+high-grade urothelial carcinoma with squamous differentiation is favored,
+squamous tumor histomorphology, negative CK20, extensive CK5/6 expression, and
+extensive benign squamous metaplasia raise the possibility of a de-novo squamous
+cell carcinoma.
+Selected slides are reviewed at the
+The findings are communicated via e-mail to Dr.
+Clinical History
+Bladder cancer
+Cystectomy with ureteroileal conduit
+Source:
+A: Right distal ureter
+B: Left distal
+C: Bladder and prostate
+D: Left pelvic lymph nodes
+E: Right pelvic lymph node
+Gross Description
+Specimen A, received fresh labeled with the patient's name and designated "right
+distal ureter" is a tubular segment of tissue, 0.3 cm in length and 0.5 cm in
+diameter. The specimen is submitted entirely for frozen section diagnosis as
+A1.
+Specimen B, received fresh labeled with the patient's name and designated "left
+distal ureter" is a tubular segment of tissue, 0.1 cm in length and 0.4 cm in
+diameter. The specimen is submitted entirely for frozen section diagnosis as
+B1.
+Specimen C
+Type of specimen: Urinary bladder, ureter stumps, prostate, seminal vesicles
+The patient's name and case number on the specimen container match the
+accompanying paperwork and cassettes.
+but no differen
+tration was seen
+in piece taken
+Ra TCGA
+Ro
+Page 3 of 6
+Procedure: Cystectomy
+Fixative: Fresh
+Dimensions:
+Bladder 9.5 cm SI x 5.3 cm LR x 5.5 cm AP
+Right ureter - 8.2 cm in length and 0.4 cm in diameter
+Left ureter -2.7 cm in length and 0.4 cm in diameter
+Prostate - 3.5 cm apex to base x 4.3 cm left to right x 4.0 cm anterior to
+posterior
+Overall dimensions - 22.0 cm SI x 12.0 cm RL x 5.5 cm AP
+Description of findings:
+Tumor: 80% of the bladder mucosa is covered with ulcerated tumor. In the right
+lateral wall, the tumor is 7.5 x 4.3 x 0.7 cm, invading through the wall and to
+within 0.6 cm of the inked soft tissue margin. In the left fundus, there is a
+3.5 x 2.5 cm area of tumor which extends through the wall and to within 1.2 cm
+of the soft tissue margin. In the left lateral wall, there is a 2.5 x 2.2 cm
+area of tumor which extends through the wall to the inked soft tissue margin.
+In the anterior wall, there is a 4.5 x 4.0 cm area of tumor which extends
+through the wall to the inked soft tissue margin. The tumor is ulcerated and
+friable, most friable and ulcerated in the right lateral wall. The right ureter
+is adhesed to the soft tissue, extending inferiorly and curving upward to the
+ureteral orifice.
+Involvement of Important adjacencies: The tumor abuts and surrounds the left and
+right ureteral orifice, extends into the prostate, most prominent in the right
+anterior base, extends into the seminal vesicles and focally extends through the
+wall into the soft tissue.
+Uninvolved mucosa: The mucosa not involved by tumor is somewhat edematous.
+There is a pouch-like diverticulum in the right fundus, 2.5 cm in length with a
+diameter of 2.2 cm. The pouch communicates with the bladder cavity. Ulcerated
+tumor does not extend into the diverticulum.
+Prostate: The prostate gland is serially sectioned apex to base into five slabs.
+In the right anterior aspect of slab 2-5, there is tan firm tumor with
+ulceration. The tumor is within 0.6 cm of the inked capsule. The remainder of
+the gland is tan and granular, with focal striations and pale foci.
+Ink code:
+Anterior bladder - green
+Posterior bladder - black
+Right prostate - orange
+Left prostate blue
+Gross photographs are taken
+Section key:
+C1 - urethral margin
+-
+C2 left ureter and left ureteral orifice, blue ink on ureter
+C3 right ureter and right ureteral orifice, blue ink on ureter
+C4-C6 central bladder neck to seminal vesicle with tumor
+C7-C8 right bladder neck to seminal vesicle with tumor
+C9-C10 left bladder neck to seminal vesicle with tumor
+C11-C13 right lateral wall tumor to inked soft tissue margin
+C14-C15 left lateral bladder mucosa with tumor in soft tissue
+C16 left lateral wall
+C17 left fundus, tumor to inked soft tissue margin
+C18-C20 - anterior bladder tumor to inked soft tissue margin
+C21-C25 - diverticulum right fundus, C23-C25 junction with bladder
+C26-C27 tumor at posterior soft tissue margin
+C28-C29 left lateral wall tumor through wall to inked soft tissue margin
+C30-slab 1 prostate right apex serially sectioned
+C31 - slab 2 prostate right anterior
+C32 slab 2 prostate right posterior
+C33 slab 4 prostate right anterior
+C34 slab 5 prostate right anterior
+Page 4 of 6
+C35- slab 5 prostate right posterior
+C36 - slab 3 prostate right anterior
+C37 - slab 1 prostate left apex serially sectioned
+C38 slab 2 prostate left anterior
+C39 slab 2 prostate left posterior
+C40 - slab 4 prostate left anterior
+C41 slab 4 prostate left posterior
+C42 slab 5 prostate left posterior
+Specimen D, received in formalin labeled with the patient's name and designated
+"left pelvic lymph node" is adipose tissue, 5.5 x 2.0 x 1.5 cm. There are three
+nodes, 1.2 cm, 1.5 cm, and 2.0 cm. The cut surface of each node shows a diffuse
+white infiltrating parenchyma. The nodes are submitted entirely as follows:
+D1 - one node trisected
+D2 one node quadrisected
+D3 - one node serially sectioned into six pieces
+Specimen E, received in formalin labeled with the patient's name and designated
+"right pelvic lymph node" is adipose tissue, 5.5 x 3.5 x 1.6 cm. There are
+seven possible nodes, 0.5 to 2.0 cm. One of the larger nodes shows infiltrating
+white parenchyma (E2). The nodes are submitted entirely as follows:
+E1-four whole nodes
+E2 - one node serially sectioned into five pieces
+E3 - one node serially sectioned into five pieces
+E4 - one node serially sectioned into five pieces
+Microscopic Description
+The stain quality is acceptable.
+A-E. The microscopic findings are reflected in the diagnoses rendered.
+Intraoperative Diagnosis
+Time in:
+Time out:
+A1-FS. Right distal ureter: "Negative for tumor."
+Time in:
+Time out:
+B1-FS. Left distal ureter: "Negative for tumor; incomplete transection."
+Reported to Dr.
+by Dr.
+***Electronically Signed Out By
+Results
+Pathology Report
+Result History
+BIOPSY OR SURGICAL SPECIMEN
+Collection Information
+Specimen Source Date and Time
+Other
+Intraoperative Consultation Report
+Order Result History Report.
+Accession #
+Lab Information
+Yes
+No
+✓
+Page 5 of 6
+Criteria w 8/8/13
+Diagnosis Discrepancy
+Pur Tss
+Squamous - Ø
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted Prostate
+Case is (circle):
+No
+QUALIFIED / DISQUALIFIED
+Reviewe: Initials
+ME
+Date Reviewed:
+8/5/13
+✓
+.
+:

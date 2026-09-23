@@ -1,0 +1,56 @@
+UUID:FFCA27E4-3A1F-4626-AB67-2DE62CAD713F
+TCGA-HQ-A20E-01A-PR
+Redacted
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Neted
+Case is (circle):
+Reviewer itials,
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+to 9/14/11
+Sample Type Tumour Primary
+Sample Preparation
+Site of Primary (Event)
+Fresh Frozen
+Bladder
+Site of Tissue
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+Days to Procedure Date
+128-0-3
+carcinoma, urothelial, Nos 8/20/3
+Site: bladder, NOS
+0679
+Ju
+9/14/4
+0
+Days to Diagnosis
+15
+Type of Procedure
+Site of Primary (Histology)
+Bilateral Disease
+Tumour Size (cm)
+Surgical resection
+urinary bladder
+3
+Histology
+papillary urothelial carcinoma
+Grade/Differentiation
+Grade X (Unknown)
+Pathological T
+T2a
+Pathological N
+N2
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+MX
+Histology Comments

@@ -1,0 +1,196 @@
+UUID:34137AE9-26C3-4CCC-8172-C8DEDF9689A7
+TCGA-UY-A78L-01A-PR
+Redacted
+ICD-0-3
+Carcinoma, urothelial
+papillary 8130/3
+Sate Bladder NOS
+FINAL PATHOLOGIC DIAGNOSIS
+0679
+48/20/13
+A.
+Left distal ureter, margin, biopsy: No tumor identified.
+B.
+Right distal ureter, margin, biopsy: No tumor identified.
+C.
+Urethra, margin, biopsy: No tumor identified.
+D.
+Lymph nodes, left pelvic, dissection: Metastatic carcinoma in one of eleven lymph
+nodes (1/11).
+Urinary bladder and prostate, cystoprostatectomy:
+E.
+1.
+F.
+2.
+i m
+3.
+Per TSS, adenocarcinoma 5%.
+High-grade urothelial carcinoma, mixed transitional cell and adenocarcinoma zc
+types, with deep invasion into muscularis propria, no extension into
+periurithral fat; see comment.
+Papillary urothelial hyperplasia of trigone.
+Small focus of urothelial carcinoma in situ in urinary outflow tract of
+bladder.
+4. Benign prostatic tissue, distal prostatic urethra free of tumor.
+Lymph nodes, right pelvic, dissection: No tumor identified in twelve lymph nodes
+(0/12).
+G. Lymph nodes, right pelvic, biopsy: No tumor identified.
+H.
+Left ureter, biopsy: No tumor identified.
+I.
+Right ureter, biopsy: No tumor identified.
+COMMENT:
+Bladder Tumor Synoptic Comment
+1. Tumor type: Urothelial carcinoma with partial glandular differentiation.
+2. Tumor grade: High grade.
+3. Tumor size: 3 cm.
+4. Extent of tumor in bladder: Invasion into outer half of muscularis propria, but not beyond.
+5. Lymphatic/vascular invasion: None identified.
+6. Epithelial abnormalities in bladder: Carcinoma in situ.
+7. Extension of tumor into organs adjacent to bladder: No adjacent organs involved.
+8. Surgical margins:
+Urethral margin: Free of tumor.
+Right ureter margin: Free of tumor.
+Left ureter margin: Free of tumor.
+Perivesical margin: Free of tumor.
+9. Lymph nodes: One of twenty-three (1/23) lymph nodes contain metastatic tumor; the largest metastatic
+deposit measures 0.7 cm in greatest dimension; there is no extranodal tumor growth.
+10. Other pathologic findings in bladder: Papillary urothelial hyperplasia.
+11. AJCC/UICC stage: pT2bN1Mx.
+Specimen(s) Received
+A:Left distal uretral margin (FS)
+B:Right distal uretral margin (FS)
+C:Uretheral margin (FS)
+D:Left pelvic nodes (FS)
+E:Bladder & prostate (FS)
+F:Right pelvic lymph nodes (FS)
+G:Right pelvic lymph node
+H:Final left ureter
+I:Final right ureter
+Intraoperative Diagnosis
+FS1 (A) Left distal ureter margin, biopsy: No carcinoma identified.
+FS2
+(B) Right distal ureter margin, biopsy: No carcinoma identified.
+FS3
+(C) Urethral margin, biopsy: No carcinoma identified. Benign prostatic glands noted.
+FS4
+(D) Left pelvic lymph node, excision: No carcinoma identified (0/3).
+FS5
+(E) Bladder and prostate, distal urethral margin, biopsy: No carcinoma identified.
+FS6 (F) Right pelvic lymph nodes, dissection: No carcinoma identified (0/3).
+Clinical History
+The patient is a ☑-year-old man with bladder tumor.
+Gross Description
+The specimen is received in nine parts, each labeled with the patient's name and medical record number.
+Parts A through F are received fresh, and Parts G through I are received in formalin.
+Part A is additionally labeled "left distal ureteral margin." It consists of a donut-shaped fragment of
+tan-pink tissue, measuring 1.0 x 0.2 x 0.2 cm. The specimen is entirely submitted for frozen section
+diagnosis as FS1, with the frozen section remnant submitted in cassette Al.
+Part B is additionally labeled "right distal ureteral margin." It consists of a fragment of tan-pink tissue,
+measuring 0.7 cm in diameter with a lumen in the center. The specimen is entirely submitted for frozen
+section diagnosis 
+as FS2, with the frozen section remnant submitted in cassette B1.
+Part C is additionally labeled "urethral margin." It consists of multiple fragments of red-tan tissue,
+measuring 1.0 x 0.9 x 0.4 cm in aggregate. The specimen is entirely submitted for frozen section diagnosis
+as FS3, with 
+the frozen section remnant submitted in cassette C1.
+Part D is additionally labeled "left pelvic lymph nodes." It consists of multiple fragments of fibroadipose
+tissue, 
+measuring 5.0 x 5.0 x 1.5 cm in aggregate. Dissection reveals multiple tan-pink, soft lymph nodes,
+ranging 
+from 0.3 cm to 0.8 cm. Representative sections are submitted for frozen section diagnosis as FS4,
+with the 
+frozen section remnant submitted in cassette D1. Additional lymph nodes are dissected from the
+adipose 
+tissue and are submitted in cassettes D2 and D3.
+Part E is additionally labeled "bladder, prostate, distal urethral margin." It consists of a cystoprostatectomy
+specimen, 
+weighing 275 gm and measuring 17.0 x 9.5 x 4.5 cm. The specimen is inked as follows: the
+right-
+anterior surface is inked green, the left-anterior surface is inked blue, and the posterior surface is
+inked 
+black. The ureters are probed and are patent. The specimen is opened along its anterior edge
+through the 
+prostatic urethra. The urinary bladder measures 9.0 x 7.0 x 5.0 cm, and the prostate
+measures 
+4.0 x 3.0 x 3.0 cm. On opening, there is a large tumor, measuring 3.0 x 2.0 x 1.5 cm, in the left
+posterior-
+lateral surface of the urinary bladder. The region of the trigone shows mucosal swelling and
+irregularity 
+in an area measuring 2.5 x 2.5 cm. No other gross lesions are noted. The ureters grossly
+appear to be free of tumor. On serial sectioning of the prostate, no tumor is noted. The seminal vesicles
+are 
+unremarkable. On the cut surface, the prostatic parenchyma is tan-white and is firm in appearance.
+Representative sections 
+are submitted as follows:
+Cassette El:
+Cassette E2:
+Cassette E3:
+Cassettes E4-E7:
+Cassette E8:
+Cassette E9:
+Cassettes E10-E11:
+Cassettes E12-E15:
+Cassettes E16-E19:
+Cassette E20:
+Cassette E21:
+Cassette E22:
+Distal urethral margin.
+Right ureteral margin.
+Left ureteral margin.
+Tumor.
+Section from the dome.
+Section from the irregular area of the trigone.
+Section from the right lateral wall of the urinary bladder.
+Slices through the mid part of the prostate, including the right anterior and posterior
+and left 
+anterior and posterior parts of the prostate, respectively.
+Slice from the distal part of the prostate, including the right anterior and posterior
+and the 
+left anterior and posterior sections, respectively.
+Right seminal vesicle.
+Left seminal vesicle.
+Fibroadipose tissue attached to the outer surface of the urinary bladder.
+Part F is additionally labeled "right pelvic lymph nodes." It consists of multiple pieces of fatty tissue,
+measuring 5.0 x 5.0 x 
+1.2 cm in aggregate. Multiple tan-pink, soft lymph nodes, ranging in size from 0.3
+cm to 0.7 cm, are identified. 
+Some of these are submitted for frozen section, with the frozen section
+remnant 
+submitted in cassette F1. Additional lymph nodes are identified and are submitted in cassettes F2
+and F3.
+Part G is additionally labeled "7 - right pelvic lymph node." It consists of one irregular, ovoid, unoriented
+fragment soft, brown-tan, 
+glistening fibrofatty tissue, measuring 2.0 x 2.0 x 0.2 cm. It has four attached
+white, metal clips, which 
+are removed. The specimen is entirely submitted, intact, in cassette Gl.
+Part H is additionally labeled "8- final left ureter." It consists of two irregular, unoriented fragments soft,
+pink-tan, glistening 
+fibrous tissue. The larger fragment has two attached white, metal clips and one set of
+white sutures that are grossly 
+apparent retraction aid. The sutures and clips are removed. The specimen
+measures 1.7 x 1.0 x 0.3 cm 
+in aggregate. The larger fragment is bisected, and the specimen is entirely
+submitted in cassette H1.
+Part I is additionally labeled "9 - final right ureter." It consists of two irregular, unoriented fragments of
+firm, pink-tan, glistening 
+fibrous tissue. The larger fragment has one attached white, metal clip and one
+set of white sutures that 
+are grossly apparent retraction aids. The metal clip is removed. The specimen
+measures 2.0 x 0.8 x 0.8 cm in aggregate. The larger fragment is bisected, and the specimen is entirely
+submitted in cassette I1.
+Diagnosis based on gross and microscopic examinations. Final diagnosis made by attending pathologist
+following review of all pathology slides.
+Criteria
+Diagnosis Discrepancy
+w 5/16/13 Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer incials
+QUALIFIED
+DISQUALIFIED
+No
+Date Reviewed: 8/9/2013

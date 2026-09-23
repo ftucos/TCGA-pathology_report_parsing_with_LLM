@@ -1,0 +1,100 @@
+DATE OF DISCHARGE:
+DOCTOR:
+DATE OF
+Page 2 of 4
+A
+UUID:7AE1E138-C824-4547-AA87-F126748DA14D
+TCGA-FJ-A3Z9-01A-PR
+Redacted
+Pathology Consultation Report
+CASE:
+ANATOMIC PATHOLOGY DIAGNOSIS:
+Final
+Urinary bladder, left lateral wall, transurethral resection of bladder tumor
+Papillary urothelial carcinoma, high grade, invasive with squamous and
+glandular differentiation
+-
+Tumor invades extensively into lamina propria and muscularis mucosa
+with focal invasion into the muscularis propria, approximately 5% of
+tumor with micropapillary pattern
+Lymphovascular invasion noted
+Prostatic urethra, transurethral biopsy
+"
+-
+Benign urothelium with chronic inflammation
+Chronic prostatitis with calcifications
+Stromal nodule
+No atypia or malignancy
+ICD-0-3
+carcinoma, papillary writhelial
+813013
+Site: bladdw, wall, lateral C67.2
+PATHOLOGIST:
+I have reviewed this material and confirm the report. Released by electronic signature on:
+MATERIAL:
+Bladder tumor, left lateral wall
+Prostatic urethra
+W
+بسرد
+9/28/12
+Page 1 of 3
+SURGICAL PATHOLOGY
+Criteria
+w/ squamous + glandular differentiation
+Diagnosis Discrepancy
+Primary Turnur Site Discrepancy
+HIPAA Ciscrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+my
+DISQUALIFIED
+Date Revieved:3:12
+***
+سرا
+18/27/17
+"DATE OF DISCHARGE:
+Pathology Consultation Report
+CASE:
+HISTORY:
+DOCTOR:
+DATE OF SERVICE:
+Final
+Page 3 of 4
+GROSS:
+male with pre-op diagnosis is bladder cancer.
+A - Received in formalin labeled "bladder tumor, left lateral wall" is a 5.0 x 4.5 x 2.3 cm
+aggregate of multiple pieces of irregular tan-pink friable tissue which is submitted in toto in
+cassettes A1-A14.
+B - Received in formalin labeled "prostatic urethra" are two irregular tan-pink rubbery
+tissues both averaging 2.0 x 0.6 x 0.4 cm. Each specimen is bisected and submitted in its
+entirety in cassettes B1-B2.
+MICROSCOPIC:
+Microscopic examination of the transurethral resection of the left lateral bladder wall tumor
+reveals a high grade papillary urothelial carcinoma which in some areas has an inverted
+pattern. The tumor shows extensive multifocal invasion into the lamina propria and the
+muscularis propria with focal invasion into the muscularis propria. Additionally,
+lymphovascular invasion is also seen. Approximately 5% of the tumor also has a
+micropapillary pattern. The tumor additionally shows multifocal extensive areas of
+squamous as well as glandular differentiation.
+Examination of the prostatic urethral tissue reveals benign urothelium with underlying
+chronic inflammation and benign prostatic tissue with some mild chronic prostatitis as well
+as a stromal nodule. Urothelial dysplasia or malignancy is not noted. Prostatic
+intraepithelial neoplasia or malignancy is seen.
+Page 2 of 3
+SURGICAL PATHOLOGY
+DATE OF DISCHARGE:
+Pathology Consultation Report
+CASE:
+DOCTOR:
+DATE OF SERVICE:
+Final
+COMMENT:
+The vascular invasion is confirmed on D240 and CD31 staining. This is distinct from the
+micropapillary pattern which is noted in approximately 5% of the invasive tumor.
+INTRADEPARTMENTAL CONSULTATION:
+;
+Page 3 of 3
+SURGICAL PATHOLOGY

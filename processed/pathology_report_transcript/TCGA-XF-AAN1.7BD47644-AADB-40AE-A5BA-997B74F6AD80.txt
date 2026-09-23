@@ -1,0 +1,337 @@
+SURGICAL PATHOLOGY REPO
+H
+Page 1 of 5
+UUID:7BD47644-AADB-40AE-A5BA-997B74F6AD80
+TCGA-XF-AAN1-01A-PR
+Redacted
+dered
+DIAGNOSIS:
+RADICAL CYSTECTOMY, HYSTERECTOMY WITH BILATERAL SALPINGO-00PHORECTOMY, BILATERAL
+PELVIC LYMPH NODE DISSECTION, ILEAL CONDUIT DIVERSION, REPAIR UMBILICAL HERNIA AND
+GASTROSTOMY TUBE PLACEMENT:
+RIGHT DISTAL URETER (A):
+INTRAOPERATIVE FROZEN SECTION DIAGNOSIS:
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+BENIGN URETER
+-
+NO UROTHELIAL DYSPLASIA OR CARCINOMA IDENTIFIED
+ICD-0-3
+Carcinoma, papillary 108/30/3
+urothelial
+Site Bladder NOS 167.9
+03/26/14
+LEFT DISTAL URETER (B):
+INTRAOPERATIVE FROZEN SECTION DIAGNOSIS:
+-
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+--
+BENIGN URETER
+NO UROTHELIAL DYSPLASIA OR CARCINOMA IDENTIFIED
+BLADDER, UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES (C):
+BLADDER, UTERUS:
+-
+INVASIVE PAPILLARY UROTHELIAL CARCINOMA, NUCLER GRADE 3/4, MULTIFOCAL
+TUMOR INVADES DEEP MUSCLE (OUTER HALF)
+TUMOR INVADES URETHRA AND VAGINA (NO MUCOSAL INVOLVEMENT
+IDENTIFIED)
+MULTIFOCAL PAPILLARY UROTHELIAL CARCINOMA, NUCLEAR GRADE 3/4,
+NON-INVASIVE
+ALL SURGICAL MARGINS, FREE OF TUMOR
+NO VASCULAR OR PERINEURAL INVASION IDENTIFIED
+ATROPHIC ENDOMETRIUM
+CHRONIC CERVICITIS
+BILATERAL OVARIES AND FALLOPIAN TUBES :
+-
+NO TUMOR IDENTIFIED
+UMBILICAL HERNIA SAC (D):
+-
+HERNIA SAC
+RIGHT NODE OF CLOQUET (E):
+-
+NO TUMOR IDENTIFIED IN FOUR LYMPH NODE (0/4)
+RIGHT EXTERNAL ILIAC LYMPH NODES (F):
+-
+NO TUMOR IDENTIFIED IN SEVEN LYMPH NODES (0/7)
+RIGHT OBTURATOR / HYPOGASTRIC LYMPH NODES (G):
+-
+NO TUMOR IDENTIFIED IN 11 LYMPH NODES (0/11)
+LEFT NODE OF CLOQUET (H):
+-
+NO TUMOR IDENTIFIED IN TWO LYMPH NODES (0/2)
+LEFT EXTERNAL ILIAC LYMPH NODES (I):
+-
+NO TUMOR IDENTIFIED IN SEVEN LYMPH NODES (0/7)
+LEFT OBTURATOR / HYPOGASTRIC LYMPH NODES (J):
+NO TUMOR IDENTIFIED IN 15 LYMPH NODES (0/15)
+RIGHT PERSCIATIC LYMPH NODES (K):
+-
+NO TUMOR IDENTIFIED IN ONE LYMPH NODE (0/1)
+SURGICAL PATHOLOGY REPOR
+LEFT PRESCIATIC LYMPH NODES (L):
+NO TUMOR IDENTIFIED IN THREE LYMPH NODES (0/3)
+PRESACRAL LYMPH NODES (M):
+NO TUMOR IDENTIFIED IN THREE LYMPH NODES (0/3)
+RIGHT PROXIMAL URETER [MARGIN] (N) :
+NO UROTHELIAL DYSPLASIA OR CARCINOMA IDENTIFIED
+LEFT PROXIMAL URETER [MARGIN] (0) :
+-
+NO UROTHELIAL DYSPLASIA OR CARCINOMA IDENTIFIED
+OMENTUM (P):
+NO TUMOR IDENTIFIED
+ADDITIONAL UMBILICAL HERNIA SAC (Q):
+-
+HERNIA SAC
+LYMPH NODE SUMMARY:
+PATHOLOGIC TNM STAGE:
+NO TUMOR IDENTIFIED IN TOTAL OF 53 LYMPH NODES
+EXAMINED (0/53)
+PT4aN0MX
+Electronically signed by
+Verified:
+Page 2 of 5
+COMMENT:
+Immunohistochemical studies for p53 assay has been ordered, results of which will
+be reported in an addendum.
+SPECIMEN SOURCE:
+A: "Right distal ureter - F/S"
+B: "Left distal ureter
+-
+F/S"
+C: "Bladder uterus, bilat. tubes & ovaries"
+D: "Umbilical hernia sac"
+E: "R node of cloquet"
+F: "R. external iliac lymph nodes"
+G: "R obturator/hypogastric L. nodes"
+H: "L node of cloquet"
+I: "L external iliac lymph nodes"
+J: "L obturator/hypogastric L. nodes"
+K: "R presciatic L. nodes"
+L: "L. presciatic L. node"
+M: "Presacral L. nodes"
+11
+N: "R. proximal ureter (margin)'
+O: "L. proximal ureter (margin}"
+P: "Omentum"
+Q: "Additional umbilical hernia sac"
+CLINICAL INFORMATION:
+Pre-op Dx:
+Bladder cancer and umbilical hernia
+Same
+Post-op Dx:
+GROSS EXAMINATION:
+SURGICAL PATHOLOGY REPOR
+Page 3 of 5
+A:
+The specimen is received fresh from the O.R. and labeled "Right distal ureter
+F/S". It consists of a single fragment of tan tissue dimensions are not provided.
+The specimen is entirely submitted for frozen section in AFS.
+B:
+The specimen is received fresh from the O.R. and labeled "Left distal ureter -
+F/S". It consists of a single fragment of tan tissue dimensions are not provided.
+The specimen is entirely submitted for frozen section in BFS.
+C: The specimen is received fresh from the O.R. and labeled "Bladder uterus,
+bilat. tubes & ovaries". It consists of a radical cystectomy, hysterectomy with
+bilateral salpingo oophorectomy specimen measuring overall 18 x 15 x 5 cm. A flap
+of peritoneal fat is present and measures 10 x 5 x 1 cm. Attached is a bladder
+measuring 7 × 6 × 3 cm and the uterus measures 6 x 3.5 x 2 cm. The outer surface
+of the specimen is inked black. The bladder is opened longitudinally. Opening the
+specimen reveal multiple masses attached to the dome of the bladder, right lateral
+wall, left lateral wall, anterior wall and the right ureterovesical junction. The
+largest mass measures 3 cm in greatest dimension. The outer surface of the masses
+is tan, irregular and slightly lobulated. The different tumor does not appear to
+invade the underlying soft tissue and the fat grossly. Also sectioning through the
+tumor reveal predominantly mural involvement with a freely mobile, grossly
+unremarkable perivesical fat. The surrounding retroperitoneal margin is grossly
+free of tumor. The adjacent urethral surfaces show tan, urethral mucosa with no
+other discreet nodule grossly identified. The right distal ureter is dilated and
+measures 4 cm in length x 1.8 cm in circumference. The left distal ureter measures
+3.5 cm in length x 0.5 cm in circumference and is grossly unremarkable. The
+urethral mucosa of both the right and left ureters are grossly unremarkable.
+Attached to the posterior bladder is a large strip of vaginal mucosa measuring 7 x
+2.8 x 0.2 cm. The vaginal mucosa is tan, smooth and grossly unremarkable. The
+attached uterus and cervix measures overall 6 x 3.5 x 2 cm. The uterine cavity
+measures 2.5 × 2 × 1 cm and is grossly unremarkable. The endometrium is tan,
+smooth and measures 0.2 cm in thickness. The myometrium is tan and measures 0.8 cm
+in thickness. No intracavitary lesion is identified. The cervix measures 2 cm in
+length x 1 cm in diameter. The endocervical canal measures 1.5 cm in length x 1 cm
+in circumference. The endocervical mucosa is tan, smooth and glistening. The
+right fallopian tube measures 2 cm in length x 0.3 cm in diameter and is grossly
+unremarkable. The right ovary measures 1.5 x 0.5 x 0.5 cm and is grossly
+unremarkable. The left fallopian tube measures 2 cm in length x 0.4 cm in diameter
+and is grossly unremarkable. The left ovary measures 1.2 x 0.5 x x 0.5 cm and is
+grossly unremarkable. Representative sections are submitted in 30 cassettes.
+It
+D: The specimen is received in formalin and labeled "Umbilical hernia sac".
+consists of multiple fragments of yellow-tan fibroadipose tissue measuring in
+aggregate 3 x 2 x 1 cm. Representative sections are submitted in two cassettes.
+E: The specimen is received in formalin and labeled "R node of cloquet". It
+consists of a single fragment of tan fibroadipose tissue measuring 1 x 1 x 1 cm.
+The specimen is dissected and a single lymph node is identified measuring 1 cm in
+greatest diameter. The lymph node is bisected and entirely submitted in one
+cassette.
+F:
+The specimen is received in formalin and labeled "R. external iliac lymph
+nodes". It consists of multiple fragments of yellow-tan fibroadipose tissue
+measuring in aggregate 3 x 2 x 1 cm. The specimen is dissected for lymph nodes, a
+few lymph nodes are identified. The specimen is entirely submitted in four
+cassettes.
+G: The specimen is received in formalin and labeled "R obturator/hypogastric L.
+nodes". It consists of multiple fragments of yellow-tan fibroadipose tissue
+measuring in aggregate 7 x 4 x 3 cm. The specimen is dissected for lymph nodes,
+several lymph nodes are identified. Representative sections are submitted in five
+SUPAIGAL DATHAFAA
+Page 4 of 5
+cassettes.
+H:
+It
+The specimen is received in formalin and labeled "L node of cloquet".
+consists of a single lymph node measuring 1 x 1 x 0.5 cm. The specimen is bisected
+and entirely submitted in one cassette.
+I: The specimen is received in formalin and labeled "L external iliac lymph
+nodes". It consists of multiple fragments of yellow-tan fibroadipose tissue
+measuring in aggregate 4 x 4 x 3 cm. The specimen is dissected for lymph nodes,
+several lymph nodes are identified. The specimen is entirely submitted in four
+cassettes.
+J: The specimen is received in formalin and labeled "L obturator/hypogastric L.
+nodes. It consists of multiple fragments of yellow-tan fibroadipose tissue
+measuring in aggregate 5 × 5 × 4 cm. The specimen is dissected for lymph nodes,
+several lymph nodes are identified. Representative sections are submitted in five
+cassettes.
+K:
+The specimen is received in formalin and labeled "R presciatic L. nodes".
+consists of multiple fragments of yellow-tan fibroadipose tissue measuring in
+aggregate 1 x 1 x 1 cm. The specimen is entirely submitted in one cassette.
+L: The specimen is received in formalin and labeled "L. presciatic L. node".
+consists of multiple fragments of yellow-tan fibroadipose tissue measuring in
+aggregate 1 x 1 x 1 cm. The specimen is entirely submitted in one cassette.
+M:
+It
+It
+The specimen is received in formalin and labeled "Presacral L. nodes". It
+consists of multiple fragments of yellow-tan fibroadipose tissue measuring in
+aggregate 3 × 2 x 1 cm. The specimen is dissected for lymph nodes, several lymph
+nodes are identified. The specimen is entirely submitted in four cassettes.
+N:
+The specimen is received in formalin and labeled "R. proximal ureter (margin).
+It consists of a segment of ureter measuring 2 cm in length x 1 cm in diameter.
+Attached are three metallic staples. Representative sections are submitted from
+one end of the specimen in one cassette.
+0:
+The specimen is received in formalin and labeled "L. proximal ureter (margin).
+It consists of a segment of ureter measuring 1 cm in length x 0.5 cm in diameter.
+Attached is a single metallic staple. Representative sections are submitted in one
+cassette.
+P:
+The specimen is received in formalin and labeled "Omentum". It consists of a
+single fragment of yellow-tan fibroadipose tissue measuring 8 x 4 x 3 cm. The
+outer surface of the specimen is yellow, smooth, lobulated and is grossly
+unremarkable. The specimen is serially sectioned and is grossly unremarkable.
+Representative sections are submitted in two cassettes.
+Q: The specimen is received in formalin and labeled "Additional umbilical hernia
+sac". It consists of a single fragment of yellow-tan fibroadipose tissue measuring
+2 x 1 x 1 cm. Representative sections are submitted in one cassette.
+frozen section, right distal ureter
+frozen section, left distal ureter
+SECTIONS:
+AFS:
+BFS:
+C1:
+urethral margin
+C2:
+right ureter margin
+C3:
+C4:
+C5:
+C6-7:
+left ureter margin
+bladder neck and urethra
+bladder neck
+right urethral vesical junction and tumor
+SURGICAL PATHOLOGY REPORT
+Page 5 of 5
+left urethral vesical junction
+dome of bladder
+right lateral wall
+left lateral wall
+anterior wall
+posterior wall
+section of the different tumor
+deep inked margin of the tumor
+vaginal margin
+posterior cervix
+anterior cervix
+posterior endomyometrium
+anterior endomyometrium and serosa
+right fallopian tube and ovary
+left fallopian tube and ovary
+perivesical fat
+umbilical hernia sac
+right node of Cloquet, bisected
+right external iliac lymph nodes
+right obturator/hypogastric lymph nodes
+lymph node of Cloquet, bisected
+left external iliac lymph nodes
+left obturator/hypogastric lymph nodes
+right presciatic lymph nodes
+left presciatic lymph nodes
+presacral lymph nodes
+right proximal ureter (margin)
+left proximal ureter (margin)
+omentum
+additional umbilical hernia sac
+C8:
+C9:
+C10:
+C11:
+C12:
+C13:
+C14-17:
+C18-21:
+C22:
+C23:
+C24:
+C25:
+C26:
+C27:
+C28:
+C29-C30:
+D1-2:
+E:
+F1-4:
+G1-5:
+H:
+I1-4:
+J1-5:
+K:
+L:
+M1-4:
+N:
+0:
+P1-2:
+Q:
+INTRAOPERATIVE FROZEN CONSULTATION:
+AFS:
+BFS:
+-
+Right distal ureter
+no tumor identified
+Left distal ureter
+no tumor identified
+Criteria
+Diagnosis Discrepancy
+w 1/21/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+me
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+14-2014

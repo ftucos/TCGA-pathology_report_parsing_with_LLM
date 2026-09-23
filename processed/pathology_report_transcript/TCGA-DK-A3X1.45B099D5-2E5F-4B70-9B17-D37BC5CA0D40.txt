@@ -1,0 +1,287 @@
+UUID:45B099D5-2E5F-4B70-9B17-D37BC5CA0D40
+TCGA-DK-A3X1-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+DOB: (Age:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+SURGICAL PATHOLOGY REPORT
+Location:
+Service: Urology
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+year old with pT2 urothelial cell carcinoma, status post 2 courses of BCG.
+Specimens Submitted:
+1: SP: Uterus, cervix, bilateral tubes and ovaries anterior vaginal wall, bladder, perivesical lymph nodes
+2: SP: Right distal pelvic lymph nodes
+3: SP: Left pelvic lymph node
+4: SP: Left distal pelvic lymph nodes
+5: SP: Right distal ureter
+6: SP: Left distal ureter
+DIAGNOSIS:
+1. SP: Uterus, cervix, bilateral tubes and ovaries anterior vaginal wall, bladder, perivesical lymph nodes:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+In situ component not identified
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Not identified
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Ureters uninvolved
+1CD-0-3
+Carcinoma, urothelial, NOS
+812013
+Site:bladder, dome
+067.1
+5-23-12828
+Vascular Invasion:
+No definite vascular invasion present
+Perineural Invasion:
+Not identified
+Surgical Margins:
+Free of tumor
+See also parts 5 and 6
+Non-Neoplastic Mucosa:
+Exhibiting chronic cystitis
+Exhibiting foreign body reaction
+Page 1 of 5
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignan. History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Iritan
+QUALIFIED DISQUALIFIED
+Date Reviewed: 571572
+Female Genital Organs:
+SURGICAL PATHOLOGY REPORT
+The endometrium shows endometrial polyp
+The myometrium shows mural leiomyomas
+The left fallopian tube shows simple serous cysts
+The right ovary shows hilus cell and stromal hyperplasia
+The left ovary shows stromal hyperplasia
+Remaining genital organs are unremarkable
+Perivesical Lymph Nodes:
+LN Not involved 0/1
+The Pathologic Stage is (AJCC
+pT3 (Invasion of perivesicle soft tissue)
+2. SP: Right distal pelvic lymph nodes:
+Lymph Nodes:
+Not involved
+Number of nodes examined:2
+3. SP: Left pelvic lymph node:
+Lymph Nodes:
+Not involved
+Number of nodes examined:8
+4. SP: Left distal pelvic lymph nodes:
+Lymph Nodes:
+Not involved
+Number of nodes examined:8
+5. Right distal ureter; excision:
+- Ureter with focal mild atypia.
+6. Left distal ureter; excision:
+- Benign ureter.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+***
+* Report Electronically Signed Out
+***
+Gross Description:
+1) The specimen is received fresh, labeled "uterus, cervix, bilateral tubes and ovaries, anterior vaginal wall, bladder and perivesical
+lymph nodes". It consists of a cystectomy-hysterectomy and bilateral salpingo-oophorectomy specimen measuring 11 cm from
+superior to inferior, 12cm laterally and 5cm from anterior to posterior. The bladder measures 13 x 11cm, the uterus measures 5 x
+4.6 x 2.8 cm, the right ovary measures 2.2 x 1.0 x 0.9 cm, the right fallopian tube measures 5.4 x 0.7 cm, the left ovary measures
+2.7 x 1.3 x 0.9 cm, and the left fallopian tube measures 4 x 0.7 cm. The portion of vaginal cuff measures 5.5 x 2.0 cm. The distal
+urethral margin and the vaginal cuff margin are shaved and submitted. The ureteric stumps are buried in the specimen, measure
+approximately 2 cm and show probe-patent lumen. The specimen is inked black for posterior, blue for anterior and the bladder is
+opened anteriorly to reveal a friable fungating mass measuring 3.3 x 2.4 cm located in the dome focally extending to trigone. The
+distance from the left and the right ureteric orifices are 5.2 cm and 5.3 cm respectively. On sectioning, the tumor extends to a depth
+Page 2 of 5
+SURGICAL PATHOLOGY REPORT
+of 2.0 cm, and appears to extend into the perivesical fat grossly reaching to the subserosa. The remaining bladder mucosa shows
+flat mucosa without additional lesion. Discrete perivesical lymph nodes are not identified. The uterus is bivalved to reveal multiple
+fibroids ranging from 0.5 to 1.5 cm and endometrial polyp measuring 2 x 1.2 x 0.2 cm. The ovaries and fallopian tubes are
+unremarkable. Tissue is submitted for Gross photograph is taken. Representative sections are submitted.
+Summary of sections:
+UTHM-urethral margin
+RUM - right ureter margin
+LUM -left ureter margin
+L-lesion
+RUO -right ureteric orifice
+LUO -left ureteric orifice
+LP-left posterior wall
+LA -left anterior wall
+RP-right posterior wall
+RA -right anterior wall
+TRI -trigone
+EMM-endomyometrium
+CX-cervix
+V - vagina, full thickness to include bladder mucosa
+DVM-distal vaginal margin
+RTO-right tube and ovary
+LTO-left tube and ovary
+LN- possible lymph node
+2). The specimen is received fresh
+labeled "Right distal pelvic lymph nodes" and consists of 2 pink tan firm lymph nodes
+measuring 0.7 x 0.6 cm and 2.0 x 1.0 cm in greatest dimension. The larger lymph node is inked black and bisected. All identified
+lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+3). The specimen is received fresh labeled "Left pelvic lymph nodes". It consists of multiple lymph nodes ranging from 0.2 x 0.2
+cm up to 3 x 1.8 cm. The lymph nodes are serially sectioned at 3 mm intervals and submitted.
+Summary of sections:
+LN-lymph nodes
+BLN-bisected lymph node
+LN1-lymph node number one
+LN2-lymph node number two
+LN3-lymph node number three
+4). The specimen is received fresh, labeled "Left distal pelvic lymph node" and consists of multiple pink tan firm lymph nodes
+ranging from 0.2 x 0.2 cm up to 3.5 x 1 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+BLN- bisected lymph node
+5). The specimen is received in formalin labeled "Right distal ureter unclipped is a margin." It consists of a segment of ureter
+measuring 5 cm in length and 0.4 cm in diameter. The attached adipose tissue measures up to 1.5 cm in thickness. There is a
+clip on one end of the specimen. The specimen is serially sectioned from the clipped to the non-clipped end and submitted
+entirely.
+Summary of sections:
+MC-margin with clip
+SS-serial sections from clipped to non-clipped end
+Page 3 of 5
+margin without clip
+SURGICAL PATHOLOGY REPORT
+6). The specimen is received in formalin labeled "Left distal ureter unclipped is a margin." It consists of a segment of ureter
+measuring 3.5 cm in length and 0.4 cm in diameter. The attached adipose tissue measures up to 1.5 cm in thickness. There is a
+clip on one end of the specimen. The specimen is serially sectioned from the clipped to the non-clipped end and submitted
+entirely.
+Summary of sections:
+MC-margin with clip
+SS-serial sections from clipped to non-clipped end
+MWC-margin without clip
+Summary of Sections:
+Part 1: SP: Uterus, cervix, bilateral tubes and ovaries anterior vaginal wall, bladder, perivesical lymph nodes
+Block
+Sect. Site
+PCs
+1
+1
+CX
+dnm
+2
+emm
+6
+L
+1
+la
+1
+LN
+lof
+1
+Ip
+1
+1
+1
+1
+lum
+luo
+ra
+rof
+1
+22262-227-221
+rp
+1
+1
+rum
+1
+1
+ruo
+1
+1
+tri
+1
+1
+uthm
+1
+1
+V
+1
+Part 2: SP: Right distal pelvic lymph nodes
+Block
+1
+Sect. Site
+In
+Part 3: SP: Left pelvic lymph node
+Block
+-7222
+1
+1
+PCs
+1
+Sect. Site
+PCs
+bln
+In
+1
+In1
+In2
+In3
+- 222
+Part 4: SP: Left distal pelvic lymph nodes
+Block
+1
+1
+Sect. Site
+BLN
+LN
+Part 5: SP: Right distal ureter
+Block
+1
+PCs
+1
+1
+Sect. Site
+PCs
+mc
+1
+Page 4 of 5
+1
+1
+SURGICAL PATHOLOGY REPORT
+mwc
+SS
+1
+1
+Part 6: SP: Left distal ureter
+Block
+1
+1
+1
+Sect. Site
+PCs
+MC
+1
+MWC
+1
+SS
+1
+Page 5 of 5
+END OF REPORT

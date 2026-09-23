@@ -1,0 +1,56 @@
+UUID:5871BCC6-E728-4DFD-B2F2-C5C1C2E43B4C
+TCGA-ZF-A9R5-01A-PR
+Redacted
+CELE
+ICD-0.3
+Carcinoma, urothelial Nos 8/20/3
+SPECIMEN
+1. Bladder tumour.
+2. Bladder tumour base.
+CLINICAL DETAILS
+ath
+Parcinoma, tranational cell NOS 8120/3
+Papillary tumour (solid bladder resected).
+MACROSCOPY
+1. 3 g of friable tissue chippings.
+Site: Bladder NOS C67.9
+2. 3 pieces of tan coloured tissue the largest measuring 12 mm in
+maximum dimension.
+MICROSCOPY
+Parts 1&2.
+Grade:
+3 poorly differentiated (WHO 1973) high grade (WHO 2004).
+Growth pattern:
+Mixed papillary and solid.
+Type:
+0% spindle
+J 5/2/14
+0% signet ring > pwr TSS.
+Transitional cell carcinoma with some signet ring cell differentiation
+and some sarcomatoid (spindle cell) differentiation. No heterologous
+elements are seen. Extensive necrosis is present.
+Muscularis propria present:
+Present.
+Stromal invasion:
+Invasion of muscularis propria (pT2) (at least) (part 2).
+Vascular channel invasion:
+Not identified.
+Background urothelium:
+A small amount of flat urothelium is present which is not dysplastic.
+SUMMARY
+Bladder; G3 pT2 (at least).
+Criteria
+w 3/21/14
+Yes
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+No
+✓

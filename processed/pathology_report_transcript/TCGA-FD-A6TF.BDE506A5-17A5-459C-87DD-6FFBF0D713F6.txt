@@ -1,0 +1,206 @@
+Sample #
+Gender: Female
+DOB:
+Race: Unknown
+Report Date:
+Pathology Report:
+ICD-0-3
+Carcinoma, urothelial NOS
+Sute CACE
+812013
+Lateral wall
+bladder C67.2
+path
+Overlapping lesion
+bladder £67.8
+Jew 7/22/13
+UUID: BDE506A5-17A5-459C-87DD-6FFBF0D713F6
+TCGA-FD-A6TF-01A-PR
+Redacted
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A. Peritoneal nodule; excision:
+- Ovary with microscopic metastatic foci of urothelial carcinoma, mostly
+present in lymphatic channels, see comment.
+- Benign ovarian epithelial cysts.
+B. "Right ovary"; oophorectomy:
+- Fallopian tube, no tumor.
+- No ovarian tissue present.
+-
+C. Left ovary; oophorectomy:
+- Ovary with stromal hyperplasia.
+D. Urinary bladder and urethra; cystectomy:
+- High grade urothelial carcinoma, invading thru the muscularis propria and
+into the perivesical tissue, with multiple lymphovascular space invasion; see
+pathologic parameters.
+E. Left pelvic lymph nodes; dissection:
+- One lymph node diffusely involved by metastatic urothelial carcinoma,
+with extra nodal extension (1/1).
+F. Left pelvic lymph nodes; lymph node dissection:
+- Four lymph nodes positive for metastatic urothelial carcinoma with soft
+tissue involvement (4/4).
+- Largest node diffusely involved by tumor (5.5 cm), with extra nodal
+extension.
+G. Right pelvic lymph nodes; lymph node dissection:
+- Six lymph nodes positive for metastatic urothelial carcinoma with soft
+tissue involvement (6/6).
+- Largest lymph node tumor measures 5 cm, with extra nodal extension.
+H. Left distal ureter; excision:
+- Portion of ureter, no tumor.
+I. Right distal ureter; excision:
+- Portion of ureter, margin side free of tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Invasive urothelial carcinoma.
+2. Grade of tumor: High grade.
+3. Depth of invasion: Extravesicular soft tissue (macroscopic).
+4. Tumor distribution: 4.5 cm tumor involving right lateral wall, left lateral
+wall, trigone, anterior wall and posterior wall.
+5. Ureteral margins: Negative for tumor.
+6. Distal urethral margin: Negative for tumor.
+7. Soft tissue margin or serosa: Negative for tumor.
+8. Lymph nodes: Positive for tumor (11/11), with extranodal extension.
+9. pTNM: pT3b,N2,M1.
+Effective January 1, 2010 this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Comment
+On part A, the tumor is present only on the permanent slides.
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow.
+Electronically Signed Out by () MD
+Clinical History:
+Patient is a
+conduit.
+year-old female with bladder cancer, undergoing cystectomy, ileo
+Specimens Received:
+A: Peritoneal nodule
+B: Right ovary
+C: Left ovary
+D: Bladder and urethra
+E: Left pelvic lymph nodes
+F: Left pelvic lymph nodes
+G: Right pelvic lymph nodes
+H: Left distal ureter
+I: Right distal ureter
+Gross Description:
+The specimens are received in nine containers each labeled with the patient's
+name and medical record number.
+A. The first container is additionally identified as, "peritoneal nodule".
+Received fresh for intraoperative diagnosis is a 2.74g, 2.3 x 1.7 x 1.3 cm
+fragment of white rubbery tissue that is bisected to reveal a multicystic cut
+surface consistent with ovary. One half of the specimen is frozen and read as
+"ovarian tissue, with benign cyst". The frozen section remnant is submitted in
+cassette A1 FS. The remainder of the specimen is entirely submitted in cassette
+A2.
+B. The second container is additionally identified as, "right ovary". Received
+fresh and placed in formalin is a 4.8 x 1.2 x 0.5 cm tan-brown heavily
+cauterized rubbery tissue fragment. The specimen is serially sectioned to reveal
+fatty fibrous tissue with no gross ovary identified. Specimen is entirely
+submitted in cassettes B1-B4.
+C. The third container is additionally identified as, "left ovary". Received
+fresh and placed in formalin is a 7.56 g, 3.5 x 3 x 1.2 cm firm white-tan nodule
+with adjacent fibrofatty tissue. The specimen is bivalved to reveal a uniform
+yellow-tan nodule within a 0.1 cm thick white-tan cyst wall. No gross ovarian
+tissue is identified. The specimen is entirely submitted in cassette C1-C4.
+D. The fourth container is additionally identified as, "bladder and urethra".
+Received fresh and placed in formalin is a 249.06g, 15 x 13 x 4.2 cm cystectomy
+specimen with attached mesenteric fat and tubing in bladder. The bladder
+measures 7 x 6.5 x 3 cm. The urethral stump measures 3 cm in length by 1.1 cm
+diameter and is probe patent. The right ureteral stump measures 4 cm in length
+by 0.6 cm in diameter which is discontinuous and disrupted by cautery midway
+through the length of the ureter. The right ureter probes patent but the orifice
+is involved by shaggy indurated mucosa. The left ureteral stump is discontinuous
+to suture and cautery at one segment measuring 1 cm in length by 0.6 cm in
+diameter. The left ureteral orifice can't be identified at the trigone.
+Additionally the bladder is remarkable for a 6 x 4.5 cm portion of mucosa
+attached to the posterior aspect of the urethra to the lower posterior aspect of
+the bladder. The urethral margin is inked black.
+The right half of the bladder is inked blue and the left half is inked black.
+The bladder is opened along the right lateral aspect through the dome.
+The bladder demonstrates an indurated, ulcerated lesion in the lower
+anterior-left wall, left lateral wall and posterior wall at trigone. There is an
+ill-defined 4.5 x 4 cm indurated area which contains a 3.5 x 3 cm ulceration
+surrounded by a hemorrhagic rim of mucosa. Serial sectioning reveals that the
+tumor grossly infiltrates into the urethra located 2.8 cm from the urethral
+margin and 0.8 cm from the mucosal surface. On cut section the tumor is
+white-tan firm, ill-defined extending a maximum depth of 1.8 cm (tumor max
+dimensions 4.5 x 4 x 1.8 cm) invading into adipose tissue which abuts the inked
+surface (black). The remainder of the mucosa is tan-brown, edematous, and
+glistening with a uniform 0.8-1.3 cm wall thickness. Representative sections are
+submitted as follows:
+D1: Urethral margin
+D2: Left ureteral margin
+D3: Right ureteral margin
+D4: Tumor relationship to urethra
+D5: Anterior wall tumor
+D6: Uninvolved anterior wall
+D7: Dome
+D8: Trigone with tumor (closest approach to inked margin)
+D9-D10: Posterior wall with tumor, hemorrhage and extension to ink
+D11: Right wall uninvolved with tumor
+D12: Left wall with tumor
+D13: Uninvolved left wall
+D14-D15: Additional representative sections of tumor
+D16: Additional section of urethra
+E. The fifth container is additionally identified as, "left pelvic lymph
+nodes". Received fresh for intraoperative consultation is a firm tan-pink lymph
+node measuring 3.2 x 2.3 x 0.8 cm. One half of the specimen was frozen and read
+as "positive for carcinoma" by Dr. ( ) The frozen section remnant is
+submitted in cassette E1 FS. The remainder of the specimen is submitted in
+cassette E2.
+F. The sixth container is additionally identified as, "left pelvic lymph
+nodes". Received fresh and placed in formalin is a 15.92 g, 6.2 x 4 x 1.2 cm
+aggregate of fibrofatty tissue. The specimen is difficult to dissect secondary
+to extremely matted lymph nodes. Dissection reveals 5 candidate lymph nodes
+ranging from 1.1 x 0.4 x 0.2-5.5 x 2 x 0.8 cm. The specimen is entirely
+submitted as follows:
+F1-F4: One lymph node candidate
+F5-F6: One lymph node candidate
+F7: Three lymph node candidates
+F8: Remaining fatty tissue
+G. The seventh container is additionally identified as, "right pelvic lymph
+nodes". Received fresh and placed in formalin is a 19.1 g, 7.8 x 3.6 x 1.2 cm
+aggregate of tan-brown lobulated fatty tissue that is heavily matted and
+dissected to reveal 8 candidate lymph nodes ranging from 1.4 x 0.6 x 0.2-5 x 2 x
+1.1 cm. The specimen is entirely submitted as follows:
+G1: Three lymph node candidates
+G2-G3: One lymph node candidate
+G4-G5: One lymph node candidate bisected, per cassette
+G6-G7: One lymph node candidate
+G8-G14: One lymph node
+H. The eighth container is additionally identified as, "left distal ureter".
+Received fresh and placed in formalin is a 5.8 cm long by 0.4 cm in diameter
+tan-white tubular structure that is oriented with a stitch on the non-margin
+side. The non-margin side is inked blue and the margin side is inked black.
+Representative sections are submitted as follows:
+H1: Margin side en face (black)
+H2: Non-margin side en face (blue)
+H3: Middle sections
+I. The ninth container is additionally identified as, "right distal ureter".
+Received fresh and placed in formalin is a 2.3 cm long by 0.4 cm in diameter
+tan-brown, tubular structure that is oriented with a stitch on the non-margin
+side. The mild non-margin side is inked blue. The margin side is inked black.
+Representative sections are submitted as follows:
+Il: Margin side en face (black)
+12: Non-margin side en face (blue)
+13: Middle sections
+Intraoperative Consult Diagnosis:
+A. Peritoneal nodule: "Ovarian tissue, with benign cyst" by Dr. [] on
+and reported to Dr. []) at
+E. Left pelvic lymph nodes: "Positive for carcinoma" by Dr. () on
+reported to Dr. [ ] at
+Diteria
+and
+w 7/10/13
+Yes
+No
+Diagnosis Discrepancy
+mary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Qualynchronous Primary Note
+Case is (ircle):
+Reviewer Initials st
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 9/13

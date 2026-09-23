@@ -1,0 +1,58 @@
+Patient ID:
+Surgical Date:
+Gross Description: Tumor is located in anterior wall, nearby of bladder neck. It is invasive and
+protruded, ill - margins with 4×3×1cm in size, necrotic, soft and gray surface.
+Microscopic Description: Tumor is density. Tumor cells are hyperplastic to arrange to form sheets or
+nest or groups or cords. Tumor cells have moderate and eosinophilic or clear cytoplasm. Nuclei are
+enlarged and varriability in shape and size, irregular nuclear membranes, nucleoli and abnormal
+chromatin patterns. Mitoses are present. Tumor invades in muscle propria and vessel, necrotic
+Diagnosis Details: Infiltrating urothelial carcinoma, high-grade, infiltrating in outer muscularis propria
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Cystectomy
+Tumor site: Bladder
+PerTIS, specific site of
+Tumor size: 4 x 3 x 1 cm
+Tumor features: None specified
+COCE
+ICD-0-3
+812013
+Carcinoma, urothelial Nos
+path Carcinoma, trainsational all NOS
+tega turi is bladder anterior wall
+Histologic type: Transitional cell carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Deep muscle
+Lymph nodes: Not specified
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+,
+Вск
+812013
+Site: Anterior wall
+Gladder 467
+907/8/13
+UUID:491F83D0-4A70-4076-9BDF-1A266925116C
+TCGA-E7-A6ME-01A-PR
+Redacted
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+6/27/13
+Dual/Synchronous Primary Noted
+Case is cle
+Reviewe
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIC
+No
+☑
+☑
+4/24/13

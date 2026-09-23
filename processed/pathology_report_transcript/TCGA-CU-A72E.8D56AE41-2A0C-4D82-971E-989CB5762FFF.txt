@@ -1,0 +1,289 @@
+SURGICAL PATHOLOGY
+Case Number:
+Diagnosis:
+A: Ureter, right margin, biopsy
+-
+No tumor seen
+B: Ureter, left margin, biopsy
+-
+No tumor seen
+ICD-O-3
+Carcinoma, urothelial NoS
+812013
+Suite Bladder NOS
+C67.9
+path
+Tapping lesion
+bladder
+2 8/9/13
+R
+0678
+C: Bladder and prostate, radical cystoprostatectomy
+Procedure: radical cystoprostatectomy
+Bladder:
+UUID:8D56AE41-2A0C-4D82-971E-989CB5762FFF
+TCGA-CU-A72E-01A-PR
+Redacted
+Tumor histologic type: urothelial carcinoma
+Tumor histologic grade (WHO classification): high grade
+Microscopic tumor size (greatest dimension): 4 cm
+Microscopic extent of invasion: Tumor invades through muscularis
+propria into perivesical adipose tissue, extensively.
+Tumor site/focality of tumor: unifocal, posterior wall, left
+lateral wall, trigone (one large contiguous tumor)
+Angiolymphatic space invasion: present, extensive
+Associated epithelial lesions: not identified
+Ureters: No tumor seen, bilateral
+Histologic assessment of surgical margins:
+Ureter, left: free of tumor
+Ureter, right: free of tumor
+Urethra: free of tumor
+Paravesicular soft tissue: closest margin is 1.5 mm from this
+margin
+Other significant findings: ulceration is present overlying the
+invasive cancer
+Lymph nodes: Metastatic urothelial carcinoma is present in a
+total of 6 of 41 lymph nodes. This lymph node count includes 3
+of 3 positive lymph nodes from perivesicular nodes, and 2
+positive nodes from the left pelvic region, and 1 positive node
+from the right pelvic region.
+Size and location of largest lymph node metastasis: 2.5 cm, left
+perivesicular lymph node
+Extracapsular extension: present, extensive
+Diagnoses of other organs or structures: See prostate template
+below.
+AJCC Pathologic TNM Stage: pT3b pN2
+NOTE: This pathologic stage assessment is based on information
+available at the time of this report, and is subject to change
+pending clinical review and additional information.
+Prostate:
+Tumor histologic type: adenocarcinoma
+Tumor grade (Gleason system): 6 (3+3)
+Approximate percentage of prostate involved by tumor: less than
+5%
+Extent of tumor:
+Location of tumor involvement in prostate: left apex
+Confinement/non-confinement of tumor within the prostatic
+capsule: tumor confined to prostate capsule
+Lymphovascular space invasion: not identified
+Seminal vesicles (invasion of muscular wall required): No tumor
+seen, bilateral
+Histologic assessment of surgical margins: Surgical margins free
+of prostate carcinoma.
+Other significant findings: Benign prostatic hyperplasia.
+Lymph nodes: All lymph nodes are negative for prostate
+carcinoma.
+AJCC Staging:
+PT2A
+pNO (for prostate cancer)
+This staging information is based on this pathologic specimen
+and may be incomplete. A comprehensive review of all available
+information is recommended to determine final staging.
+D: Lymph node, left pelvic, regional resection
+-
+Metastatic urothelial carcinoma present in two of seventeen
+lymph nodes
+E: Lymph node, right pelvic, regional resection
+-
+Metastatic urothelial carcinoma in one of twenty-one lymph
+nodes
+Intraoperative Consult Diagnosis:
+A frozen section consultation was requested by Dr. in OR #
+Specimen delivery time is
+(A) and
+(B).
+FSA1: Ureter, right margin, biopsy
+-
+- No carcinoma identified
+FSB1: Ureter, left margin, biopsy
+-
+No tumor seen
+Drs. on
+Drs. on
+at
+at
+(A)
+(B)
+Frozen Section Pathologist:
+Clinical History:
+-year-old male with muscle invasive urothelial carcinoma, high
+grade, involving lamina propria and muscularis propria.
+Gross Description:
+Received are five appropriately labeled containers. Specimens A
+and B are received fresh for frozen section.
+Container A is additionally labeled "right ureteral margin for
+frozen section." It consists of a 3 mm length x 3 mm
+circumference white/tan tubular segment with attached fat. The
+specimen is entirely submitted for frozen section and
+resubmitted in block FSA1; fat remains in the container.
+Container B is additionally labeled "left ureter margin for
+frozen section." It consists of a 4 mm in length x 5 mm in
+diameter white/tan tissue fragment with a partial lumen and
+attached fatty tissue. The specimen is entirely submitted
+for frozen section and resubmitted in block FSB1. The remaining
+fat is submitted for permanent section in block B2.
+Container C is additionally labeled "bladder and prostate."
+Specimen fixation: formalin
+Type of specimen(s) received: radical cystoprostatectomy
+Size of overall specimen: 25 cm x 14 cm x 7 cm
+Size of urinary bladder: 7 x 6 x 5 cm
+Size of additional organs: Prostate: 4.5 x 3.5 x 3.0 cm. Seminal
+vesicles are present, size cannot be determined.
+Orientation: Inking: right perivesicular=blue, left
+perivesicular-black, distal urethral margin=yellow
+Tumor size: 4 x 3.5 x 2.5 cm
+Tumor description: The mucosal surface of the tumor is ulcerated
+and erythematous, the cut surface is tan/white, nodular, firm
+and ill-defined.
+Tumor location: posterior and left lateral bladder, extending
+from the trigone to 4 cm superior to the ureteral orifice
+Distance of tumor to margins: Distal urethral margin, 4 cm;
+perivesicular fat, 0.3 cm; left ureter margin, 1.4 cm; right
+ureter margin, 3.5 cm
+Other mucosal lesions: none
+Description of other organs or structures: Attached to the left
+lateral perivesicular fat is a 5.5 x 2.5 x 1.5 cm lymph node. In
+addition, adjacent to this there is a 2.5 x 1.2 x 1.0 cm lymph
+node candidate. The cut surface reveals that it is grossly
+positive for Tumor. The prostate has an unremarkable cut surface
+with mild amount of cystic change and a few small nodules.
+Digital photograph taken: not taken
+Tissue submitted for special investigation: yes, to
+Block Summary: (Inking: right perivesicular-blue, left
+perivesicular-black, distal urethral=yellow)
+C1
+C2
+-
+-
+C3-C5
+C6
+ст
+-
+-
+right ureter margin
+left ureter margin
+-
+distal urethral margin, radial sections
+left ureteral orifice
+right ureteral orifice
+C8 trigone, perpendicular
+C9,C10 - one lymph node candidate attached to the left
+perivesicular fat,
+grossly positive
+C11
+-
+one lymph node candidate
+C12-C25 largest lymph node candidate attached to the left
+perivesicular fat, serially sectioned
+C26 - additional indurated fat adjacent to the largest lymph
+node
+C27 - tumor closest to the black inked perivesicular fat margin,
+posterior bladder
+C28 - trigone, and attached fat
+C29
+C30
+-
+tumor at the left lateral bladder wall
+normal right side of bladder
+C31
+left prostate apex
+C32 left posterior mid prostate
+C33,C34 - left prostate base, left seminal vesicle in C34
+C35
+C36
+C37
+-
+right prostate apex
+-
+right mid prostate, posterior
+right prostate base, with right seminal vesicle
+Tissue remains in formalin.
+Container D is additionally labeled "left pelvic lymph node." It
+consists of a 5 x 5 x 1.5 cm aggregate of adipose tissue and
+lymph node candidates. Numerous lymph node candidates are
+identified, ranging from 0.2 to 3.0 cm in greatest dimension.
+Block summary:
+D1, D2
+D3, D4
+-
+-
+-
+one lymph node, serially sectioned
+one lymph node, serially sectioned
+one lymph node
+one lymph node, bisected
+three lymph nodes
+one lymph node, bisected
+D5
+D6
+D7
+D8
+D9
+D10
+D11
+D12
+-
+three lymph nodes
+-
+-
+-
+three lymph nodes
+one lymph node, bisected
+three lymph nodes
+Container E is additionally labeled "right pelvic lymph node."
+It consists of a 6 x 6 x 3 cm aggregate of adipose tissue and
+lymph node candidates. Numerous lymph node candidates are
+identified ranging from 0.2 to 3.0 cm in greatest dimension.
+Block summary:
+E1-E5
+E6-E8
+E9-E12
+-
+E13-E14
+E15-E16
+E17
+-
+one lymph node, serially sectioned
+one lymph node, serially sectioned
+one lymph node, serially sectioned
+one lymph node
+one lymph node
+one lymph node
+E18-E19
+-
+one lymph node, serially sectioned
+E20 one lymph node
+E21
+-
+one lymph node
+E22-E25 one lymph node per cassette
+E26
+E27
+-
+-
+four lymph nodes
+four lymph nodes
+Cutaneous Merkel Cell carcinoma,
+antecubital Fossa - rec'd
+locoregional radiation.
+BCR
+Patient did receive BCG > 90 days prior to TCGA
+10 7/30/13
+Criteria
+Diagnost: Discrepancy
+Primary Tanior Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History Merkel, cu Concie
+Qualynchronous Primary Based
+Case is (circe
+Reviewer d
+QUALIFIED
+Dave Reviewed:
+tumor
+Procureme
+Yes
+No
+✓
+DISQUALIFIED
+✓
+10/11/13

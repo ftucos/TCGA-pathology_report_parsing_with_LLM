@@ -1,0 +1,86 @@
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+UUID:D7E1CBFA-6E00-48AF-804D-6AD61CA65506
+TCGA-DK-A6B6-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+(Age:
+Location:
+Service:
+Urology
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+T1 HG no muscle on prior biopsy.
+Specimens Submitted:
+1: Right posterior bladder wall tumor, TURBT
+DIAGNOSIS:
+1. Right posterior bladder wall tumor, TURBT:
+Part # 1
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+Papillary and flat
+Local Invasion:
+Muscularis propria
+Vascular Invasion:
+Not identified
+OUTPATIENT
+ICD-0-3
+Carcinoma, urothelial
+8120/3
+Site Bladder, posterior
+wall
+0674
+W 6/18/13
+Non-Neoplastic Mucosa:
+Exhibiting proliferative cystitis (Brunn's nests, cystitis cystica, cystitis glandularis)
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS 
+REPORT.
+***
+Report Electronically Signed Out
+***
+Gross Description:
+1.) The specimen is received in hank's solution, labelled "Right posterior bladder wall tumor" and consists of multiple
+piece(s) of irregular tan-brown soft tissue fragments measuring 1.1 x 1.0 x 0.7 cm in aggregate. The specimen is entirely
+submitted in two cassettes. Some tissue was taken by T PS.
+Summary of Sections:
+Part 1: Right posterior bladder wall tumor, TURBT
+Block
+Sect. Site
+PCs
+Page 1 of 2
+2
+{not entered}
+12
+Page 2 of 2
+SURGICAL PATHOLOGY REPORT
+Criteria
+سال
+Diagnosis Discrepancy
+Primary Tumor site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+5/5/13
+Yes
+No
+QUALIFIED / DISQUALIFIED
+BTL Date Reviewed: 124-13
+END OF REPORT
+ચય 2200

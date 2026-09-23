@@ -1,0 +1,81 @@
+UUID:FAA3F68D-0FB9-44E4-AFEF-7DC1662BE783
+TCGA-ZF-A9RG-01A-PR
+Redacted
+SPECIMEN
+1. Bladder
+2. Right obturator lymph node
+3. Right external iliac
+4. Left external iliac
+5. Left obturator lymph node
+6. Right ureteric resection margin
+7. Left ureteric resection margin
+CLINICAL DETAILS
+Radical cystectomy for invasive cancer
+MACROSCOPY
+ICD-0-3
+Carcinoma, urothelial NOS 812013
+P Carunoma, transitional cellNOS 8/20/3
+Site: Bladder, lateral wall C67.2
+90 5/2/14
+1. A radical cystectomy specimen comprising bladder measuring 55 x 50 x 45mm,
+urethra 35mm in length and stump of cervix 23mm in length. There is no uterus or
+adnexae. Within the bladder there is a fungating tumour on the left lateral wall
+and superior wall measuring 35mm x 22mm x 13mm. The specimen includes the
+entire
+anterior wall of the vagina and the urethral margin includes vulval mucosa. The
+tumour extends through the bladder wall into the perivesical soft tissue.
+2. Piece of fatty tissue 91 x 32 x 12mm containing six lymph nodes, the largest
+28mm maximum dimension.
+3. Piece of fatty tissue measuring 64 x 8 x 7mm containing two lymph nodes, the
+larger 10mm maximum dimension.
+4. Piece of fatty tissue 58 x 12 x 6mm containing two lymph nodes, the larger
+14mm maximum dimension.
+5. Fatty tissue measuring 61 x 32 x 15mm containing five lymph nodes, the
+largest 21mm maximum dimension.
+6. A segment of ureter measuring 5 x 3mm.
+7. A segment of ureter measuring 10mm in length, 5mm diameter with an attached
+suture.
+MICROSCOPY
+Pu TSS, 5% squamous.
+1. The tumour is a poorly differentiated (WHO grade 3) transitional cell
+carcinoma, with a largely solid growth pattern. Foci of necrosis and squamous
+differentiation are noted. No carcinoma in situ is seen in the adjacent or
+background urothelium.
+The macroscopic impression of tumour extending beyond the muscularis propria is
+confirmed microscopically (pT3b). There is tumour invasion into medium sized
+muscular arteries. The closest margin is the left lateral serosal margin which
+lies 2mm away. No lymphovascular or perineural invasion is identified. The
+tumour does not invade into the vagina.
+The urethral margin is morphologically normal with no evidence of dysplasia or
+in situ changes. All the surgical margins are clear of tumour.
+2. Six nodes have been examined, none of which are involved by metastatic
+tumour.
+3. Two nodes have been examined, neither of which are involved by metastatic
+tumour.
+4. Two nodes have been examined, neither of which are involved by metastatic
+tumour.
+5. Five nodes have been examined, none of which are involved by metastatic
+tumour.
+6. Ureteric tissue with no infiltration by tumour.
+7. This is ureter which shows no carcinoma in situ or invasive malignancy.
+SUMMARY
+G3 transitional cell carcinoma of bladder, (pT3b pN0 pMx). Surgical margins
+clear of tumour.
+Pathologists -
+Dr
+DR
+CONSULTANT
+W 3/21/14
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUAMFIED
+Date Reviewed:
+DISQUALIFIED

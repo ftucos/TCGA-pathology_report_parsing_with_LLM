@@ -1,0 +1,65 @@
+UUID:5077D8C6-57D2-4C6A-9316-71BE40224195
+TCGA-BL-A0C8-01A-PR
+Redacted
+ICD-0-3
+carcinoma, urothelial, Nos 8/20/3
+Site: bladder, dome C67.1
+Iw 9/3/4
+SPECIMEN
+Bladder tumor
+CLINICAL NOTES
+PRE-OP DIAGNOSIS:
+Bladder cancer per op report in
+Procedure, partial cystectomy of tumor in dome of the bladder.
+GROSS DESCRIPTION
+Received fresh for tissue procurement labeled "bladder
+tumor" is a 10.5 x 5.5 x 5 cm dusky tan-red to gray-brown
+mass of tissue. On sectioning, focal areas of soft papilliferous
+white-pink tissue in keeping with tumor are identified. A portion
+of the presumptive tumor is submitted for tissue procurement as
+requested. Received separately within the specimen container is a
+copious amount of red-brown clot. No anatomic structures are
+evident. Random representative sections focusing on the apparent
+tumor are submitted in eight blocks. RS-8.
+RR1-8 additional
+sections submitted to evaluate for the presence or absence of
+muscle
+invasion.
+MICROSCOPIC DESCRIPTION
+Microscopic examination reveals extensive high grade
+urothelial carcinoma with some clear cell differentiation.
+The tumor is extensively exophytic. Invasion of lamina propria is
+identified in tissue block 6 and RR3. Muscularis propria is
+present. And some foreign body giant cell reactions are identiifed
+in the muscularis propria sections. However, no diagnostic
+invasive
+tumor is identified in those sections of muscularis propria.
+lack of orientation of the specimen precluded accurate margin
+evaluation. The exophytic friable nature of the tumor also
+precluded accurate margin evaluation.
+MICROSCOPIC DESCRIPTION
+5
+The
+DIAGNOSIS
+A. Bladder tumor, dome of bladder partial cystectomy:
+Urothelial carcinoma with areas of clear cell differentiation,
+WHO high grade.
+Invasion into lamina propria present.
+See microscopic description.
+M.D.
+(Electronic Signature)
+End Of Report
+Criteria
+Diagnosis Discrepancy
+Yes
+No
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous yery Noted
+Case is (circle):
+Reviewer initials
+QUALIFIED
+Date Reviewed:
+t 9/3/11
+SQUAD

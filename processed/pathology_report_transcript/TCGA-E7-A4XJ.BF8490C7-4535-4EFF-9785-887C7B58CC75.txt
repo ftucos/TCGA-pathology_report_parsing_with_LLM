@@ -1,0 +1,46 @@
+UUID:BF8490C7-4535-4EFF-9785-887C7B58CC75
+TCGA-E7-A4XJ-01A-PR
+Redacted
+Gross Description: In bladder, there are an invasive tumor, ill - margins with 3.5x3x2cm in size, soft and
+gray surface.
+Microscopic Description: Transitional cells are hyperplastic. Tumor cells arrange to form nests or groups
+or cords one by one or sheets with central necrosis. Tumor cells have moderate and eosinophilic
+cytoplasm. Nuclei are enlarged and varriability in shape and size, very irregular nuclear membranes,
+nucleoli and abnormal chromatin patterns. Mitoses are common. Tumor invades in fat tissue
+Diagnosis Details: Infiltrating urothelial carcinoma, High-grade, infiltrating fat tissue
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Cystectomy
+Tumor site: Bladder
+Tumor size: 3.5 x 3 x 2 cm
+Tumor features: None specified
+Histologic type: Transitional cell carcinoma
+Histologic grade: Poorly differentiated
+ICD-0-3
+Carcinoma, transitional cell, NOS 8/20/3
+Site: bladda, NoS
+0679
+10/231
+10/23/12
+Tumor extent: Perivesical tissue (microscopic)
+Lymph nodes: Not specified
+Lymphatic invasion: Absent
+Venous invasion: Absent
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Invades fat tissue and muscle, Non-papillary
+Comments: Extracapsular extension: Yes, focal; Anatomic organ subdivision: Wall, NOS
+Critoria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepanc
+HIPAA Discrepancy
+Prict Malignancy History
+DelSynchronous Primary ted
+Case is (ircle)!
+Revie
+QUALIFIFO
+Date Eviewed.
+Yea
+DISQUALINED
+10/22/12
+71/83/01

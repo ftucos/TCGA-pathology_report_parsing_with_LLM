@@ -1,0 +1,202 @@
+UUID:DC81B464-642D-444E-A110-D11E687B36C1
+TCGA-FD-A3B7-01A-PR
+Redacted
+Pathology Report:
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+A.
+B.
+C.
+D.
+E.
+F.
+-
+-
+-
+-
+-
+Right ureter distal margin; excision:
+Portion of ureter, no tumor.
+Left distal ureter; excision:
+Portion of ureter, no tumor.
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle:
+Revi
+ICD-0-3
+Yes
+No
+QUALIFIED / DISQUALIFIED
+Date Reviewed:
+10 10/21/11
+carcinoma, wrothelial, Nus 8/20/3
+Path - site: bladder, wall Nos
+Left pelvic lymph nodes; dissection:
+Nine lymph nodes, no tumor (0/9).
+Right pelvic lymph nodes; dissection:
+Seven lymph nodes, no tumor (0/7).
+Left ureter; excision:
+Portion of ureter, no tumor.
+0679
+CQCF: bladder, wall, lateral 0.67.2
+نسرا
+10/21/11
+Urinary bladder, prostate and seminal vesicles; cystoprostatectomy:
+Invasive high grade urothelial carcinoma of the bladder, with markedly
+pleomorphic and poorly differentiated areas, see pathologic parameters.
+Incidental adenocarcinoma of the prostate, see pathologic parameters.
+-
+G.
+-
+Right ureter; excision:
+Portion of ureter, no tumor.
+Urothelial Carcinoma Pathologic Parameters
+1. Tumor type: Invasive urothelial carcinoma.
+2. Grade of tumor: High grade, with markedly pleomorphic and poorly
+differentiated areas.
+3. Depth of invasion: Extravesicular soft tissue (microscopic).
+4.
+5.
+6.
+Tumor distribution: Solitary, 6.0 cm, at right lateral and anterior walls.
+Ureteral margins: Negative for tumor.
+Distal urethral margin: Negative for tumor.
+7. Soft tissue margin or serosa: Negative for tumor.
+8.
+Lymph nodes: Negative for tumor (0/16).
+9. PTNM: pT3a, NO, MX.
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Radical Prostatectomy Pathologic Parameters
+1.
+2.
+3.
+4.
+5.
+7.
+8.
+78
+Gleason Score: 3+3=6.
+Perineural Invasion: Absent.
+Tumor Location: Peripheral zone
+Tumor Volume Estimate: <2%.
+High-grade P.I.N.: Multifocal.
+-
+right.
+6. Seminal vesicles: Negative for tumor.
+Extraprostatic extension: Absent.
+Peripheral Margin: Negative for tumor.
+9. Distal (apical) Margin: Negative for tumor.
+10. Proximal (basilar) Margin: Negative for tumor.
+11. Regional Lymph Nodes (right and left): Negative for tumor (0/16).
+Page 1
+12. pTNM: pT2a, NO, MX.
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+XX
+[ ], MD
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, (), M.D.
+Electronically signed out by [], MD
+Clinical History:
+Bladder Cancer
+Specimens Received:
+A: Right ureter distal margin
+B: Left distal ureter
+C: Left pelvic lymph nodes
+D: Right pelvic lymph nodes
+E: Left ureter
+F: Bladder, prostate & seminal vesicles
+G: Right ureter
+Gross Description:
+The specimens are received in seven containers each labeled with the patient's
+name and medical record number.
+A.
+The first container is additionally identified as, "right ureter distal
+margin". Received fresh and placed in formalin is a unoriented 0.9 cm length of
+ureter with a diameter of 0.4 cm and a lumen of less than 0.1 cm. Specimen is
+serially sectioned and submitted between sponges in cassette Al.
+B. The second container is additionally identified as, "left distal ureter".
+Received fresh and placed in formalin is a unoriented 0.1 cm length of probable
+ureter with a diameter of 0.4 cm and a lumen of less than 0.1 cm. Specimen is
+submitted between sponges in cassette B1.
+C.
+The third container is additionally identified as, "left pelvic lymph
+nodes". Received fresh and placed in formalin is a 4.5 x 3.5 x 2.0 cm aggregate
+of fibrofatty tissue which is dissected to reveal multiple types of lymph nodes
+ranging in size from 0.5-2.2 cm. Specimen is entirely submitted as follows
+C1 one lymph node bisected
+C2 one lymph node bisected
+C3 one lymph node bisected
+C4 one lymph node bisected
+C5 4 nodes
+C6 adjacent fibrous tissue
+D.
+The fourth container is additionally identified as, "right pelvic lymph
+nodes". Received fresh and placed in formalin is a 5 x 4 x 3 cm aggregate of
+fibrofatty tissue which is dissected to reveal multiple types of lymph nodes
+ranging in size from 0.5-3 cm. Specimen is entirely submitted as follows
+D1-2 one lymph node bisected
+D3-4 one lymph node bisected
+D5 4 nodes
+D6 3 nodes
+E. The fifth container is additionally identified as, "left ureter". Received
+fresh and placed in formalin is 2.4 cm length of ureter with a diameter of 0.4
+cm and a lumen of less than 0.1 cm with a small amount of attached fibrous
+Page 2
+tissue. There is a plastic clip and stitch at one end. This end is inked black.
+The ureter is serially sectioned and submitted between sponges in cassette E1-2.
+F. The sixth container is additionally identified as, "bladder, prostate and
+seminal vesicles". Received fresh and placed in formalin is a 403 g, 14 × 11 × 3
+cm cystoprostatectomy specimen consisting of a bladder which measures 12x11x3.5
+cm. The right ureteral stump measures 2 cm and the left 2.4 cm, and both
+demonstrate patent lumina. The prostate measures 4.8 x 4 x 4 cm. The right
+seminal vesicle measures 3.5 x 1.5 cm and the right vas deferens 6 cm. The left
+seminal vesicle measures 3 x 1.5 cm and the left vas deferens 8 cm. The right
+half of the prostate and bladder is inked blue and the left half is inked black.
+The prostate is opened anteriorly along the urethra and continued superiorly
+through the bladder in a Y-shaped incision. The prostate is serially sectioned
+from apex to base to reveal unremarkable parenchyma. The bladder demonstrates an
+exophytic hemorrhagic yellow-tan 6 x 5.5 cm mass involving the anterior and
+right wall. Serial sectioning reveals tumor invasion to a depth of 1.8 cm,
+extending to 0.2 cm of the inked margin. There is a 4.5 x 4 cm diverticulum
+whith shaggy red mucosa involving the posterior left aspect of the bladder. The
+remainder of the mucosa is tan-brown, edematous, and glistening with a uniform
+0.4 cm wall thickness. The bilateral ureteral orifices are identified and probe
+patent. The tumor extends to within 0.1 cm of the right ureteral orifice
+Gross photographs are taken.
+Representative sections are submitted as follows:
+F1: Distal urethral margin
+F2: Prostatic apical margin
+F3: Right ureteral margin
+F4: Left ureteral margin
+F5-8: Representative prostate through verumontanum
+F9-12: Representative prostate above verumontanum
+F13: Seminal vesicles and vasa deferentia
+F14: Right ureteral orifice
+F15: Left ureteral orifice
+F16-22: Multiple tumor sections
+F23-24: Diverticulum
+F25: Uninvolved dome
+F26: Uninvolved anterior wall
+F27: Uninvolved posterior wall
+F28: Uninvolved right wall
+F29: Uninvolved left wall
+F30: Uninvolved trigone
+G. The seventh container is additionally identified as, "right ureter".
+Received fresh and placed in formalin is 2.4 cm length of ureter with a diameter
+of 0.4 cm and a lumen of less than 0.1 cm with a small amount of attached
+fibrous tissue. There is a plastic clip and stitch at one end. This end is inked
+black. The ureter is serially sectioned and submitted between sponges in
+cassette G1-2.
+XXX
+() M.D.
+Page 3

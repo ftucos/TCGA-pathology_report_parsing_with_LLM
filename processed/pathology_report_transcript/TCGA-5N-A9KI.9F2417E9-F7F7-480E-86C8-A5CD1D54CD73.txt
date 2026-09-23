@@ -1,0 +1,31 @@
+UUID:9F2417E9-F7F7-480E-86C8-A5CD1D54CD73
+TCGA-5N-A9KI-01A-PR
+Redacted
+Slides of a cystectomy with attached uterus and adjunct tissue from a poorly differentiated
+Urothelial Carcinoma with in situ components as well angio and lymphangio invation with invasion of
+both ovaries, the uterus and cervix. Ureter is free of tumor.
+ICD-03
+Classification pTNM 2010:
+Stage: pT4a NX L1 V1 Pn1
+Grade: G3
+R-Classification: RO
+Carcinoma, urothelial NOS
+Site: ladder NOS
+0679
+JAU 5/9/14
+812013
+ICD-O:
+8120/3.
+Criteria
+Diagnosis Discrepancy
+No 1/6/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History.
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+Yes
+No
+QUALIFIED DISQUALIFIED
+Date Reviewed

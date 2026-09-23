@@ -1,0 +1,40 @@
+UUID:528501A3-F7C9-4D93-AC98-7CFFF0C11D0A
+TCGA-4Z-AA84-01A-PR
+Redacted
+Collect date
+(MM/DD/YYYY)
+ICD-0-3
+Carcinoma, urothelial Nos
+NOS
+Site Bladder No.8 67.9
+40867.9
+PATHOLOGY REPORT:
+OW 3/18/14
+PRIMARY SITE: Bladder
+Product partial cystectomy:
+- Urothelial high grade carcinoma, extensively necrotic, infiltrating into the perivesical
+adipose tissue.
+-
+- Surgical margins uninvolved, but close at top left portion (1.9 mm).
+- Angiolymphatic infiltration: present.
+- Perineural infiltration: not detected.
+-
+· Absence of neoplastic infiltration of the right and left ureter and on the rectal wall
+fragment.
+-
+· Presence of metastases in two lymph nodes dissected (2/2).
+Pathological staging: pT3b, pN2, pMX.
+Criteria
+Diagnosis Discrepancy
+12/20/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Yes
+$ 13
+Date Reviewed:
+No

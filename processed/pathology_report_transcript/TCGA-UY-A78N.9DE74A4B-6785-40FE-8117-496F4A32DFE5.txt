@@ -1,0 +1,253 @@
+UUID:9DE74A4B-6785-40FE-8117-496F4A32DFE5
+TCGA-UY-A78N-01A-PR
+Redacted
+SOURCE:
+A.
+B.
+ICD-0-3
+C.
+D.
+Distal right ureter (FS)
+Distal left ureter (FS)
+Bladder urinary with prostate (FS)
+Left pelvic lymph node dissection
+Right pelvic lymph nodes
+E.
+F.
+Left ureter final margin
+G.
+Right ureter final margin
+Carcinoma, urothelial Nas
+812013
+Site Bladder No.867.9
+W 8/20/13
+DIAGNOSIS:
+A.
+B.
+C.
+1.
+Ureter, right distal, biopsy: No tumor.
+Ureter, left distal, biopsy: No tumor.
+Urinary bladder/prostate, cystectomy/prostatectomy:
+Bladder with invasive high-grade urothelial carcinoma;
+see comment.
+2.
+3.
+D.
+Prostatic adenocarcinoma, Gleason grade 3+3; see comment.
+No tumor in one lymph node (0/1).
+Lymph nodes, left pelvic, dissection: No tumor in seven
+lymph nodes (0/7).
+E.
+Lymph nodes, right pelvic, dissection: Metastatic urothelial
+carcinoma involving one of seven lymph nodes (1/7); see comment.
+F.
+G.
+Ureter, left final margin, biopsy: No tumor.
+Ureter, right final margin, biopsy: No tumor.
+CLINICAL DATA:
+The patient is an
+-year-old male with bladder cancer, who undergoes
+cystectomy and prostatectomy.
+GROSS DESCRIPTION:
+The specimen is received in seven parts, each labeled with the patient's name
+and medical record 
+number. Parts A-E are received fresh. Parts F-G are
+received 
+in formalin.
+Part A, additionally labeled "distal right ureter," consists of a single pink,
+unoriented 
+tissue fragment measuring 0.7 x 0.6 x 0.2 cm. The entire specimen
+is frozen for frozen section 1, 
+with the remnant submitted in cassette Al.
+Part 
+B, additionally labeled "distal left ureter," consists of a single
+pink-red, unoriented, soft tissue fragment measuring 0.6 x 0.6 x 0.3 cm. The
+entire 
+specimen is frozen for frozen section 2, with the remnant submitted in
+cassette Bl.
+Part C, additionally labeled "urinary bladder and prostate,
+" consists of a 320
+gm cystectomy/prostatectomy specimen measuring 11.8 cm from superior to
+inferior x 
+8.0 cm from medial to lateral x 6.5 cm from anterior to posterior.
+The prostate 
+itself measures approximately 5.0 x 5.0 x 4.0 cm. The specimen is
+inked black on the posterior surface, green on the right anterior surface and
+blue on the left anterior surface, and is opened along the 
+anterior surface 
+to
+This mass
+reveal a firm mass just lateral to the right ureteral orifice.
+measures approximately 4.0 x 3.5 x 2.2 cm and, on sectioning, reveals firm,
+tan-gray parenchyma. The mass grossly infiltrates into the 
+surrounding fat 
+and
+The mass
+is approximately 0.6 cm from the inked surgical margin, 
+grossly.
+The 
+remaining
+approaches the prostate to approximately 1.1 cm, grossly.
+bladder mucosa is tan-pink, with no focal lesions, and the ureters and urethra
+The prostate is sectioned to reveal tan
+-beige parenchyma
+appear unremarkable.
+The fat surrounding the bladder is carefully
+with no clear focal lesions.
+examined for lymph nodes. The distal urethral margin is removed and submitted
+for frozen section 3, with the frozen section remnant submitted 
+in cassette C1
+.
+Additional representative sections are submitted as follows: Cassette C2:
+Cassette 
+C3:
+Additional fragments of apical prostate.
+ureteral margin (green ink) and left ureteral margin (black ink).
+Tumor with radial margin.
+Right
+Cassettes
+Cassettes C7-C8: Tumor approaching
+Additional section of tumor with radial
+Representative section of dome of bladder.
+Representative sections of left bladder wall.
+Cassette C13:
+Left mid prostate.
+Right mid prostate.
+Left
+Cassette C14:
+Right base of prostate.
+base of prostate. Cassette C16:
+C4-C6:
+prostate. Cassette C9:
+margin. Cassette C10:
+Cassette Cll:
+C12:
+Cassette
+Cassette C15:
+Right seminal vesicle. Cassette C17:
+Left seminal vesicle. Cassette C18:
+Candidate lymph nodes,
+Cassette C19:
+Candidate lymph nodes, left side.
+superior to bladder.
+Cassette C20:
+Candidate lymph nodes, right side.
+Part D, additionally labeled "left pelvic lymph node dissection,
+multiple fragments of fibroadipose tissue measuring 5.0 x 4.0 
+x 
+3.2 cm in
+aggregate. The specimen is examined for candidate lymph nodes, which 
+are
+submitted in cassettes D1-D2.
+" consists of
+Part E, additionally labeled "right pelvic lymph node," consists of multiple
+A
+fragments of fibroadipose tissue measuring 6.0 × 4.5 x 2.3 cm in aggregate.
+large candidate lymph node is bisected and entirely submitted in cassette El.
+Remaining candidate lymph nodes are submitted in cassettes E2-E3.
+Part F, additionally labeled "6
+left ureter final margin,' " consists of one
+consists of one
+soft, pink-tan, irregular, unoriented, cylindrical tissue fragment with one set
+of attached, white sutures and two white metal staples, that measures 1.7 
+cm in
+The
+length and 0.5 cm in average diameter. Sutures and staples are removed.
+specimen is cross-sectioned and entirely submitted in cassette 
+Fl.
+Part G, additionally labeled "7 - right ureter final margin,
+soft, pink-tan, irregular, unoriented, cylindrical tissue fragment with one set
+of attached, black sutures, that measures 1.5 cm in length and 0.3 cm in
+The sutures are removed. The specimen is cross-sectioned
+average diameter.
+and entirely submitted in cassette Gl.
+The immunoperoxidase stain(s) reported above were developed and their
+performance characteristics determined by the
+They have not been cleared or approved by the U. S. Food and Drug
+Administration. The FDA has determined that such clearance or approval is not
+necessary. These tests are used for clinical purposes. They should not be
+This laboratory is certified
+regarded as investigational or for research.
+under the Clinical Laboratory Improvement Amendments of 1988 ("CLIA") as
+qualified to perform high-complexity clinical testing.
+COMMENTS:
+High-grade. 3.
+Tumor type:
+Urothelial carcinoma.
+Tumor size: 4.0 cm maximum diameter.
+2.
+4.
+Bladder Tumor Synoptic Comment 1.
+Tumor grade:
+Extent of tumor in bladder: Invasion through muscularis propria into
+5.
+peri-vesicle tissue.
+Lymphatic/vascular invasion: Lymphatic 
+and 
+blood
+6.
+vessel invasion identified.
+Epithelial abnormalities in bladder:
+giant cell reaction and acute/chronic inflammation with reactive atypia.
+Focal
+There
+:
+No
+is mild cytological atypia but insufficient for a diagnosis of low grade
+dysplasia. 7. Extension of 
+tumor into organs adjacent to bladder:
+adjacent organs involved. 8. 
+Surgical margins:
+see 
+additional comment below.
+All margins free of tumor;
+9. Lymph nodes:
+contains metastatic tumor (1/15); the largest metastatic deposit measures 0.3
+One of fifteen lymph nodes
+cm in greatest dimension; there 
+is no extranodal tumor growth.
+pathologic findings 
+in bladder:
+10. Other
+None identified.
+11.
+pTзaN1MX.
+AJCC/UICC stage:
+12. Additional comments: The urothelial carcinoma extends to
+within 0.3 
+cm of the inked 
+radial specimen margin, and extends to within 0.5
+cm of the prostate.
+A small focus of prostatic adenocarcinoma (Gleason 3+3) is identified in the
+left mid prostate (C13). No 
+perineural invasion is identified, and the tumor
+extends to within 0.5 cm of the right 
+lateral specimen margin.
+weight keratin 
+stain and p63 immunohistochemical stains are performed and
+High 
+molecular
+evaluated on block C13 to 
+further evaluate the prostatic adenocarcinoma.
+stains highlight the lack of 
+basal cells confirming the diagnosis.
+Level sections are 
+performed and evaluated on blocks C7, C20 and D2 to reach
+the above diagnoses.
+Both
+Criteria
+Diagno.is Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+w 8/17/13
+Yes
+No
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initing
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+892013

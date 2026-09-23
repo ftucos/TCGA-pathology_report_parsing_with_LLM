@@ -1,0 +1,79 @@
+UUID:3271070D-5B10-4243-BEE5-AFDD60B7CDDA
+TCGA-DK-AA76-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+SURGICAL PATHOLOGY REPORT
+DOB: (Age.
+Gender:
+F
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+female with hematuria and bladder lesions seen on cystoscopy
+Specimens Submitted:
+1: Tumor of anterior bladder wall, TURB
+DIAGNOSIS:
+1. Tumor of anterior bladder wall, TURB
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+Papillary
+Local Invasion:
+Muscularis propria
+Not identified
+Vascular Invasion:
+ICD-0.3
+Carsinoma, urothelial NOS
+8/2013
+Site: Bladder, anterior wall
+M4/30/14
+C67.3
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Gross Description:
+***
+Report Electronically Signed Out
+***
+1) The specimen is received in Hanks solution and placed in formalin. It is labeled "tumor of anterior bladder wall", and consists of
+a 2.4 x 1.5 x 0.6 cm aggregate of multiple portions of pink-tan shaggy rubbery tissue. A portion is submitted for TPS. The
+remaining tissues entirely submitted.
+Summary sections:
+- undesignated
+Page 1 of 2
+SURGICAL PATHOLOGY REPORT
+Summary of Sections:
+Part 1: Tumor of anterior bladder wall, TURB
+Blocks Block Designation
+PCs
+3
+11
+Page 2 of 2
+Criteria
+Diagnosis Discrepancy
+fw 1/8/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous mary Noted
+Case is (circle):
+Reviewer Initials V
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 571
+END OF REPORT

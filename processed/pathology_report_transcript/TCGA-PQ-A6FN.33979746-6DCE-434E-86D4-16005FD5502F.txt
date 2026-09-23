@@ -1,0 +1,182 @@
+UUID:33979746-6DCE-434E-86D4-16005FD5502F
+TCGA-PQ-A6FN-01A-PR
+Redacted
+Surgical Pathology Report
+FINAL DIAGNOSIS
+A) Ureter, left, distal margin, biopsy:
+- Negative for malignancy
+B) Ureter, right, distal margin, biopsy:
+- Negative for malignancy
+C) Urethra, margin, biopsy:
+- Negative for malignancy
+D) Bladder, cystectomy:
+ICD-0-3
+Carcinoma, urothelial NOS
+8/20/3
+of
+C672
+Site Lateral wall bladder
+8206/17/13
+Per T3S, Aquamous differentiation is ~ 467.
+- High-grade urothelial carcinoma with focal squamous differentiation (WHO grade 3/3), 2.9 cm greatest
+dimension, invasive through the muscularis propria and into perivesical adipose tissue, with perineural
+invasion (see microscopic description)
+- Focal high-grade urothelial carcinoma in-situ of bladder dome
+- Extensive follicular cystitis
+- Granulation tissue and chronic inflammation with urothelial regeneration, consistent with previous
+biopsy site
+E) Lymph node, left obturator, dissection:
+- One lymph node negative for malignancy (0/1)
+F) Lymph node, left external iliac, dissection:
+- One lymph node negative for malignancy (0/1)
+G) Lymph node, right external iliac, dissection:
+- One lymph node negative for malignancy (0/1)
+H) Lymph node, right obturator, dissection:
+- Nine lymph nodes negative for malignancy (0/9)
+I) Lymph node, right common iliac, dissection:
+- Three lymph nodes negative for malignancy (0/3)
+J) Lymph node, left common iliac, dissection:
+- Four lymph nodes negative for malignancy (0/4)
+K) Lymph node, right internal iliac, dissection:
+- One lymph node negative for malignancy (0/1)
+Surgical Pathology Report
+CLINICAL HISTORY
+-year-old with hematuria with left bladder wall tumor.
+MICROSCOPIC DESCRIPTION
+Specimen: Bladder
+Procedure: Radical cystectomy
+Tumor Site: Left lateral wall
+Tumor Size
+Greatest dimension: 2.9 cm
+Additional dimensions: 2.5 x 1.5 cm
+Histologic Typeė: Urothelial (transitional cell) carcinoma with focal squamous differentiation
+Associated Epithelial Lesions: Urothelial carcinoma in-situ
+Histologic Grade: High-grade
+Tumor Configuration: Solid, infiltrating
+Microscopic Tumor Extension: Perivesical fat
+Margins: Margins uninvolved by invasive carcinoma
+Distance of invasive carcinoma from closest margin: 5 mm
+Specify margin: Radial
+Perineural invasion: present
+Lymph-Vascular Invasion: Indeterminate
+Staging:
+Primary Tumor (PT): pT3a: Tumor invades perivesical tissue microscopically
+Regional Lymph Nodes (pN): pNO: No lymph node metastasis
+Number of Lymph Nodes Examined: 20
+Number of Lymph Nodes Involved: 0
+Distant Metastasis (PM): pMX (Not applicable)
+Additional Pathologic Findings: Inflammation/regenerative changes
+GROSS DESCRIPTION
+Received are 11 specimens, labeled i
+A) Received fresh and designated "left distal ureter," is a 0.9 x 0.2 x 0.2 cm red, soft, tissue with ureter lumen,
+submitted in its entirety in cassette (FSA1) for intraoperative diagnosis.
+2
+Surgical Pathology Report
+B) Received fresh and designated "right distal ureter," is a 1x 0.4 x 0.2 cm red, soft tissue with ureter lumen,
+submitted in its entirety in cassette (FSB1) for intraoperative diagnosis.
+C) Received fresh designated "urethral margin," inked distal - non-inked proximal," is a 1.8 x 1 x 0.3 cm soft tissue
+with urethral lumen. Submitted in its entirety in cassette (FSC1) for intraoperative diagnosis.
+D) Received in formalin designated "bladder," is a bladder with 12 x 8 x 1 cm of perivesicular fat. The bladder
+dome to urethra is 5.5 cm right to left is 10 cm and anterior to posterior is 5 cm. A 2 x 1.4 cm tan ulcerative lesion
+with evidence of prior biopsy is identified in the anterior lateral left bladder wall, 2.4 cm from the urethral margin
+and 3 cm from the left ureter orifice. The posterior surgical margin adjacent to the mass is inked black. On the cut
+surface the mass is firm and tan and extends 1.5 cm from the bladder mucosa into the wall and detrusor muscles.
+The mass is 0.1 cm from the posterior soft tissue margin. After sectioning, the mass measures 2.5 x 1.5 x 2.9 cm.
+Representative sections are submitted as follows:
+(D1) Tumor to soft tissue margin
+(D2-D3) Sections of tumor
+(D4) Tumor to closest adjacent mucosa
+(D5) Right ureteral orifice
+(D6) Left ureteral orifice
+(D7) Bladder neck
+(D8) Dome
+(D9) Right wall
+(D10) Left wall
+(D11) Posterior wall
+(D12) Anterior wall
+(D13) Trigone
+(D14-D22) perivesicular fat
+E) In formalin, labeled "left obturator node," are 3 cm of lobular fatty tissue with an interspersed lymph node which
+is fusiform, 1 cm in greatest dimension. The lymph node is submitted in its entirety as (E1).
+F) In formalin, labeled "L external iliac lymph node," is a lobular fatty tissue, 5.5 x 3.5 x 1.5 cm, with a central
+lymph node, 3.9 x 2.5 x 0.9 cm. The lymph node is submitted in its entirety as (F1-F5).
+G) In formalin, labeled "R external iliac LN," is a 4 x 2.9 x 1.1 cm lymph node with abundant attached fat. The
+lymph node is submitted in its entirety as (G1-G5).
+H) In formalin, labeled "right obturator lymph node," are 4 x 3 x 1.5 cm with lobular fatty tissues with interspersed
+lymph nodes. The lymph nodes range from 0.6 cm to 1.5 cm. The lymph nodes are submitted in their entirety as
+follows:
+3
+Surgical Pathology Report
+(H1) Two lymph node candidates
+(H2) Two lymph node candidates
+(H3) One bisected lymph node
+(H4) Multiple lymph node candidates
+I) In formalin, labeled "R common iliac lymph node," are fatty tissues, 2.5 cm in aggregate, with interspersed lymph
+nodes up to 1.5 cm. The lymph nodes are submitted in toto, one block as (11).
+J) In formalin, labeled "L common iliac lymph nodes," are multiple lymph nodes up to 1.1 cm with abundant
+attached fat. The lymph nodes are submitted as (J1-J2) in toto.
+K) In formalin, labeled "R internal illac LN," is a 2.9 x 2.5 x 0.9 cm encapsulated nodule suggestive of a lymph
+node with moderate attached fat. The cut surface is pink and homogeneous. In its entirety as (K1-K3).
+riteria
+Yes
+NOT
+siagnosis Discrepancy
+Primary Tunior Site Discrepancy
+PAA Discrepancy
+Maleriny His ory
+sary toted
+IALIBUS
+DISQUALIFIED
+MG 10/13/13
+М
+TCGA Pathologic Diagnosis Discrepancy Form 4.05 ☑
+Study Subject
+ID:
+Study/Site:
+Event:
+Interviewer:
+TCGA Bladder Urothelial Carcinoma -
+Carcinoma)
+PathDiscrepancy
+Page 1 of 1
+Person ID:
+N/A
+(Bladder Urothelial
+Age:
+N/A
+Date of
+Birth:
+Sex:
+F
+Tumor Identifier Provided on Initial Case
+Quality Control Form
+Pathologic Diagnosis Provided Focal squamous
+on Initial Pathology Report
+differentiation
+Provide the tumor identifier documented on the initial case quality
+control form for this case.
+Provide the diagnosis/ histologic subtype(s) documented on the initial
+pathology report for this case. If the histology for this case is mixed, provide
+all listed subtypes.
+Histologic features of the sample provided for
+TCGA, as reflected on the CQCF
+40%
+squamous
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for the
+discrepancy between the pathology
+report and the TCGA Case Quality
+Control Form
+Provide the histologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+Section submitted to TCGA had more
+squamous differentiation than the
+whole tumor submitted for permanent.
+Name of TSS Reviewing Pathologist or Biorepository
+Director
+Provide a reason describing why the diagnosis on
+the initial pathology report for this case is not
+consistent with the diagnosis selected on the TCGA
+Case Quality Control Form.
+Provide the name of the pathologist who reviewed this case
+for TCGA.

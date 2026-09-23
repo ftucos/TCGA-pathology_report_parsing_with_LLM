@@ -1,0 +1,238 @@
+Results
+Patient Information
+Patient Name
+Result Information
+Status
+Final resulti
+Entry Date
+Component Results
+Component
+Surgical Pathology
+MRN
+BIOPSY OR SURGICAL SPECIMEN,
+Provider Status
+Reviewed
+Sex
+Male
+DOB
+UUID:4D04BC45-D78F-41DB-8E3B-70763300611A
+TCGA-GU-A767-01A-PR
+Redacted
+Lab
+Final Diagnosis
+A. Right distal ureter, excision:
+- Segment of benign ureter
+- No carcinoma is seen
+- Frozen section diagnosis is confirmed on permanent sections
+B. Left distal ureter, excision:
+- Segment of benign ureter
+- No carcinoma is seen
+- Frozen section diagnosis is confirmed on permanent sections
+C. Urinary bladder and prostate, radical cystoprostatectomy:
+Urinary Bladder
+CACF
+ICD-O
+Carginoma, urothelial 8120/3
+Carcinoma, urothelial
+micropapillary 8/31/3
+Site Bladder 
+NOS
+path
+- Invasive high grade urothelial carcinoma with prominent micropapillary
+features, extensively involving bladder wall and extending into prostatic
+urethra, in a background of in situ flat and papillary urothelial carcinoma, see
+note
+- Urothelial carcinoma invades muscularis propria and extends into perivesical
+adipose tissue (pT3)
+-
+Metastatic urothelial carcinoma in three pelvic lymph nodes (see parts D and
+E)
+- Background urothelium with chronic inflammation and biopsy site changes
+- Pathologic TNM stage: pT3b N2 MX
+- See CAP template below for further details
+Prostate:
+- High grade prostatic intraepithelial neoplasia (HG-PIN)
+CAP Template for Carcinoma of the Urinary Bladder:
+Procedure: Radical cystoprostatectomy
+Tumor Site: Anterior and posterior bladder walls
+Right and left lateral walls
+Trigone
+Dome
+Tumor Size:
+0679
+Bladder would NOS C679
+J4J3/13/13
+Criteria
+Diagnosis Discrepancy
+Yes
+w 8/5/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+nor Malignancy History
+Dual/Synchronous Primary Nates
+Case is (circle):
+Revie..er Initials
+QUALINED
+Date Reviewed:
+DISQUALIFIED
+$30/13
+iva
+Greatest dimension: 7.0 cm
+Additional dimensions: 6.5 x 1.5 cm
+Histologic Type: Urothelial (transitional cell) carcinoma with micropapillary
+features
+Associated Epithelial Lesions: None identified
+Histologic Grade:
+Urothelial Carcinoma (WHO 2004/ISUP): High-grade
+Tumor Configuration: Papillary / micropapillary
+Microscopic Tumor Extension: Tumor invades perivesical tissue, macroscopically
+(extravesical mass)
+Margins: Margins uninvolved by invasive carcinoma
+Margins uninvolved by carcinoma in situ
+Lymph-Vascular Invasion: Present
+Pathologic Staging (pTNM):
+Primary Tumor (PT): pT3b: Tumor invades perivesical tissue, macroscopically
+(extravesical mass)
+Regional Lymph Nodes (pN): pN2: Multiple regional lymph node metastases in true
+pelvis
+examined: 6
+Involved: 3
+Specify: Number
+Specify: Number
+Distant Metastasis (PM): Not applicable
+Additional Pathologic Findings:
+Inflammation, regenerative and biopsy site changes
+Ancillary Studies: Blocks C5 and C10 can be used for additional studies, if
+needed.
+The above pathology diagnosis incorporates data elements as outlined in the CAP
+Cancer Protocols and Checklists which are based on the AJCC/UICC TNM, 7th
+edition.
+-
+D. Left pelvic lymph nodes, lymphadenectomy:
+Metastatic urothelial carcinoma in one of three lymph nodes (1/3)
+E. Right pelvic lymph nodes, lymphadenectomy:
+- Metastatic urothelial carcinoma in two of three lymph nodes (2/3)
+NotePart C: Sections show a large urothelial tumor extensively involving all
+bladder walls and extending into the prostatic urethra. The tumor extends along
+prostatic urethral urothelium and shows areas of focal (urethral) lamina propria
+Invasion but no involvement of the prostatic stroma itself. Tumor invades
+through the bladder muscularis propria into perivesical adipose tissue (pT3).
+The tumor shows prominent micropapillary areas with back to back lacunar spaces
+containing small tumor nests comprising
+60% of tumor. Areas of vascular and
+Page 2 of 6
+perineural invasion are seen.
+Multiple deeper sections are obtained in the evaluation of this case.
+Select slides from the case are reviewed with Dr.
+Clinical History
+Bladder cancer
+Cystoprostatectomy with ureteroileal conduct
+Source:
+A: Right distal ureter for margin
+B: Left distal ureter for margin
+C: Bladder and prostate
+D: Left pelvic lymph node
+E: Right pelvic lymph node
+Gross Description
+Specimen A is received fresh for frozen section labeled with the patient's name
+and designated "right distal ureter for margin". The specimen consists of a
+pink-tan segment of ureter 0.2 cm in length, 0.4 cm in diameter.
+Section key:
+A1 - specimen entirely submitted
+Specimen B is received fresh for frozen section labeled with the patient's name
+and designated "left distal ureter for margin". The specimen consists of a
+single pink-tan and segment of ureter 0.2 cm in length and 0.5 cm in diameter.
+Section key:
+B1 specimen entirely submitted
+Specimen C
+Type of specimen: Urinary bladder, prostate, seminal vesicles, and vas deferens
+The patient's name and case number on the specimen container match the
+accompanying paperwork and cassettes.
+Procedure: Radical cystoprostatectomy
+Fixative: Received fresh, subsequently placed in formalin (tissue procurement
+retained a sample of tumor)
+Dimensions:
+Bladder: superior to inferior 8.0 cm, left to right 7.0 cm, anterior to
+posterior 4.5 cm, ureter stumps (left 1.0 cm in length, 0.8 cm in diameter;
+right 1.0 cm in length, 0.7 cm in diameter, prostate (apex to base 3.6 cm,
+anterior to posterior 3.0 cm, left to right 5.0 cm), left attached seminal
+vesicle 2.5 x 1.5 x 1.0 cm; right attached seminal vesicle 2.0 x 1.5 x 2.0 cm;
+left attached vas deferens 4.0 cm in length, 0.3 cm in diameter; right attached
+vas 
+deferens 4.0 cm in length, 0.3 cm in diameter.
+Description of findings:
+Tumor: Large fungating, friable, pink-tan micropapillary mass invading the
+entire 
+bladder, no normal appearing bladder mucosa identified. The bladder mass
+extends 
+into the prostatic urethra to within 1.5 cm of the urethral margin. The
+urethral 
+margin is submitted en face. The bladder mass abuts both ureteral
+orifices. The bladder mass measures 7.0 x 6.5 cm and up to 1.5 cm in thickness.
+The mass 
+invades the muscularis and into the posterior fat to within 0.5 cm of
+the 
+peritonealized posterior surface. The mass does not grossly involve the
+seminal vesicles 
+or vas deferens, or prostate.
+Uninvolved mucosa: The entire effacement of normal bladder.
+Prostate, seminal vesicles and vasa deferentia: The prostate parenchyma is
+nodular yellow
+-tan. The seminal vesicles and vas deferentia are grossly
+Page 3 of 6
+unremarkable.
+Ink code:
+Bladder:
+Anterior: blue
+Posterior: orange
+Prostate:
+Left side: blue
+Right side: orange
+Anterior: green
+Lymph nodes: No lymph nodes are grossly identified.
+Section key:
+C1 urethral margin, submitted en face
+C2, C3 longitudinal section of prostatic urethra to prostatic apex, proximal
+side
+C4 left ureteral orifice
+C5 right ureteral orifice
+C6 left vas deferens margin
+C7 right vas deferens margin
+C8, C9 posterior wall, deepest invasion of tumor
+C10 bladder trigone
+C11 bladder, left lateral wall
+C12 bladder, right lateral wall
+C13 bladder dome
+C14 anterior bladder
+C15 C18 representative sections from left side of prostate from apex to base
+C19 C22 representative sections of right side of prostate from apex to base
+Specimen D is received in formalin labeled with the patient's name and
+designated "left pelvic lymph nodes". The specimen consists of three irregular
+fragments of fibrofatty tissue 5.0 x 4.5 x 2.0 cm in aggregate. Thorough
+examination reveals three suspected lymph nodes ranging from 1.0 2.0 cm in
+greatest dimension. Two of the lymph nodes are red-brown. One of the lymph nodes
+is firm and off-white.
+Section key:
+D1 D3 one bisected lymph node per cassette
+Specimen E is received in formalin labeled with the patient's name and
+designated "right pelvic lymph nodes". The specimen consists of three irregular
+fragments of fibrofatty tissue 6.0 x 4.0 x 2.0 cm in aggregate. Thorough
+examination reveals three suspected lymph nodes ranging from 1.5 2.0 cm in
+greatest dimension. One of the lymph nodes has a diffuse off-white appearance.
+The second lymph node has multiple foci of off-white, firm nodularities.
+Section key:
+E1 E3 one bisected lymph node per cassette
+Microscopic Description
+The stain quality is acceptable.
+A-E. The microscopic findings are reflected in the diagnoses rendered.
+Intraoperative Diagnosis
+Time in:
+Ime out:
+AFS1, Right distal ureter margin: "Negative for invasive carcinoma, focal
+atypia"
+BFS1, Left distal ureter margin: "Negative for invasive carcinoma, focal atypia"
+Reported to Dr.
+***Electronically Signed Out By
+Page 4 of 6
+Page 546 not relavant
+in noth

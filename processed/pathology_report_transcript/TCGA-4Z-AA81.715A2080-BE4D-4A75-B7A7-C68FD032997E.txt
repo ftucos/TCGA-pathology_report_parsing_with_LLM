@@ -1,0 +1,39 @@
+UUID: 715A2080-BE4D-4A75-B7A7-C68FD032997E
+TCGA-4Z-AA81-01A-PR
+Collect date:
+(MM/DD/YYYY)
+ICD-O-3
+Carcinoma, urothelial
+C&CE
+O papillary
+Redacted
+Sate: Bladder, posterior wall
+path
+Bladder NOS 267.9
+AW 3/18/14
+C67.4
+PATHOLOGY REPORT:
+PRIMARY SITE: Bladder
+Bladder prostate
+Papillary urothelial high grade carcinoma.
+Tumor limited to the bladder and with infiltration to the outer third of the muscular
+propria.
+Angiovascular invasion: not detected.
+Lymphatic vessels invasion: not detected.
+Blood vascular invasion: not detected.
+Surgical margins absent of neoplastic involvement.
+Nonspecific chronic prostatitis.
+Nodular hyperplasia of the prostate.
+Deferens and seminal vesicles uninvolved by neoplasia.
+Criteria
+Diagnosis Discrepancy
+fu 12/20/13 tes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History,
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+No

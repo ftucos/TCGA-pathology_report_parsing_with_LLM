@@ -1,0 +1,47 @@
+Procurement Date
+Laterality:
+Path Report:BLADDER TISSUE CHECKLIST
+Specimen type: Excision of tumor
+Tumor site: Bladder
+Tumor size: 3 x 2.5 x 4 cm
+Tumor features: None specified
+Histologic type: Transitional cell carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Muscularis propria
+Lymph nodes: Not specified
+Lymphatic invasion: Not specified
+Venous invasion: Absent
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+ICD-0-3
+Carcinoma,
+urothelial,
+NOS
+812013
+Site:
+path: bladder, NOS
+047.9
+CQCF: bladder, wall, lateral
+5-17-1220
+067.2
+UUID:BC75580D-4F4D-408C-9E9C-116A260DDED3
+TCGA-E7-A3X6-01A
+-PR
+Redacted
+riteria
+agnosis Discrepancy
+Yes
+rimary Tumor Site Discrepancy
+PAA Discrepancy
+rior Malignancy History
+Jual/Synchronous Primary Noted
+ase is (qircle):
+eviewer initial
+QUALIFIED
+Date Reviewed:
+DISQUALIFIED
+0110112
+No
+5/11/12

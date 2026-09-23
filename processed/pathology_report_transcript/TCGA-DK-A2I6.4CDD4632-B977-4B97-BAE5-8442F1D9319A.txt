@@ -1,0 +1,357 @@
+UUID:4CDD4632-8977-4897-BAES-8442F1D9319A
+TCGA-DK-A216-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+M
+Location:
+Service: Urology
+Ref. Physician:
+Patient Address:
+Billing
+PATHOLOGY REPORT
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Type:
+INPATIENT
+Additional Copy to:
+Ref. Source:
+Clinical Diagnosis & History:
+> male with primary T2 high grade TCC involving right hemitrigone with right hydronephrosis.
+Specimens Submitted:
+1: SP: Bladder, seminal vesicle, prostate and perivesical nodes, radical cystoprostatectomy
+2: SP: Vas deferens, right, resection
+3: SP: Vas deferens, left, resection
+4: SP: Lymph nodes, left pelvic, excision
+5: SP: Lymph nodes, right pelvic, excision
+6: SP: Fat, anterior prostate, resection
+7: SP: Soft tissue, left anterior abdominal wall, resection
+8: SP: Ureter, left, excisiion,
+9: SP: Ureter, right, excision
+DIAGNOSIS:
+1. SP: Bladder, seminal vesicle, prostate and perivesical nodes, radical cystoprostatectomy
+a.
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Flat (in situ carcinoma)
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Not identified
+Bladder Local Invasion:
+Deep half of muscularis propria
+Extravesical Tumor Extension:
+ICD-0-3
+carcinoma, urothelial, NUS 8/20/3
+Site: bladder, Trigore C67.0
+The right ureter shows focal marked atypia at the margin of resection.
+Vacular Invasion:
+سد
+6/24/"
+Ves
+No
+Identified
+Perineural Invasion:
+Identified
+Surgical Margins:
+The right ureter shows focal marked atypia at the margin of resection.
+Criteria
+Diagnosis Discrepancy
+Primary Turnor Site Discrepancy
+HIPAA Discre
+Prior Malignancy History
+Dual/Synchronous Primary Mated Prostate
+Case is (circle):
+Reviewer Initials
+QUALIFIER
+Date Reviewed
+DISQUALIFIED
+The 6/24/11
+Page 1 of 6
+Non-Neoplastic Mucosa:
+Prostate:
+SURGICAL PATHOLOGY REPORT
+Exhibiting proliferative cystitis (Brunn's nests, cystitis cystica, cystitis glandularis)
+Other See separate form
+Seminal Vesicles:
+Not involved
+Perivesical Lymph Nodes:
+LN Not involved 0/1
+The Pathologic Stage is (AJCC 2002):
+pT2b (Invades deep half of muscularis propria)
+PRO (No involvement of prostate)
+b.
+Tumor Type:
+Gleason's Grade:
+Adenocarcinoma
+Primary Gleason grade:3
+Secondary Gleason grade:4
+Total Gleason score:7
+Tumor Location:
+Involves Right anterior
+Involves Left posterior
+Involves Left anterior
+Vascular Invasion:
+Not Identified
+Perineural Invasion:
+Not identified
+Tumor Multicentricity:
+Multicentric foci of invasive carcinoma are present
+High Grade Prostatic Intraepithelial Neoplasia:
+Not Identified
+Capsule:
+Tumor confined to prostate
+Seminal Vesicles:
+Not involved
+Bladder Neck:
+Not Involved
+Surgical Margins:
+Free of tumor
+Non-Neoplastic Prostate:
+Unremarkable
+Staging (AJCC 1997):
+pT2b (confined to the prostate & capsule, involving both lobes)
+2. SP: Vas deferens, right, resection
+Segment of benign vas deferens.
+Page 2 of 6
+SURGICAL PATHOLOGY REPORT
+3. SP: Vas deferens, left, resection
+Segment of benign vas deferens.
+4. SP: Lymph nodes, left pelvic, excision
+Lymph Nodes:
+Number of nodes examined:8
+Number of metastatic nodes:0
+5. SP: Lymph nodes, right pelvic, excision
+Lymph Nodes:
+Number of nodes examined:21
+Number of metastatic nodes:1
+The largest metastatic node is 0.7cm
+Perinodal (extracapsular) extension not identified
+6. SP: Fat, anterior prostate, resection
+One benign lymph node( 0/1).
+7. SP: Soft tissue, left anterior abdominal wall, resection
+Benign adipose tissue.
+8. SP: Ureter, left, excisiion,
+Segment of benign ureter.
+9. SP: Ureter, right, excision
+Segment of benign ureter.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Gross Description:
+***
+Report Electronically Signed Out
+1) The specimen is received fresh, labeled "Bladder, Seminal Vesicle, Prostate and Perivesical Nodes". It consists of a
+bladder measuring 9.5 x 8 x 2 cm and a prostate measuring 5 x 3 x 2.5 cm. Overall the specimen measures 23 x 15 x 3.8 cm.
+The bladder is opened anteriorly to reveal a round, firm, exophytic mass on the right aspect of the trigone measuring 3 x 2 x 1 cm.
+The rest of the mucosa is markedly edematous showing prominent trabeculation. The tumor is compressing on the right ureteral
+orifice and the right ureter is markedlu dilated (04 cm). Sectioning of the tumor reveals a gray-tan, homogeneous, firm,
+well-delineated cut surface. Grossly, the tumor does not infiltrate through the muscular wall and measures 1.8 cm in maximum
+thickness. Sectioning the prostate reveals no gross pathologic abnormalities. Representative sections are submitted. The
+perivesical fat is dissected in searched for perivesical lymph nodes which are not seen grossly. Tissue is submitted for TPS.
+Photographs are taken.
+Summary of Sections:
+UM urethral margin
+URM-ureteral margin (green ink on right ureter)
+T- tumor
+TR - trigone
+LUO-left ureteral orifice
+PW - posterior wall
+AW
+anterior wall
+RW - right wall
+LW-left wall
+Page 3 of 6
+SURGICAL PATHOLOGY REPORT
+DO - dome
+AA - anterior apex, ( first block from the right)
+AP-posterior apex
+AM - anterior mid
+PM - posterior mid portion of the prostate
+AB - anterior base
+PB-psoterior base
+RSV-right seminal vesicle
+LSV-left seminal vesicle
+PVLN - perivesical lymph nodes
+PA-posterior apex
+2)
+The specimen is received in formalin, labeled "Right Vas Deferens". It consists of a vas deferens measuring 2 cm in
+length and 0.2 cm in diameter. The specimen is entirely submitted.
+Summary of Sections:
+Uundesignated
+3)
+The specimen is received in formalin, labeled "Left Vas Deferens". It consists of a vas deferens measuring 1.7 cm in
+length and 0.2 cm in diameter. The specimen is entirely submitted.
+Summary of Sections:
+U - undesignated
+4)
+The specimen is received in formalin, labeled "Left Pelvic Lymph Nodes". It consists of an irregular fragment of adipose
+tissue measuring 6 x 3.5 x 1 cm in aggregate. Multiple lymph nodes are identified. The specimen is entirely submitted.
+Summary of Sections:
+BLN bisected lymph node
+MLN - multiple lymph nodes
+5)
+The specimen is received in formalin, labeled "Right Pelvic Lymph Nodes". It consists of multiple fragments of yellow-tan
+adipose tissue measuring 3.5 x 5 x 1.8 cm in aggregate. Multiple lymph nodes are dissected ranging in size from 0.2 x 0.2 x 0.1
+cm to 2 x 1 x 0.7 cm. The largest lymph node is bisected. All lymph nodes are submitted.
+Summary of Sections:
+BLN - bisected lymph node
+LN- lymph nodes
+6)
+The specimen is received in formalin, labeled "Anterior Prostate Fat". It consists of a fragment of yellow-tan adipose
+tissue measuring 3 x 2 x 1 cm. Presumably one lymph node is dissected measuring 0.4 x 0.4 x 0.2 cm. The lymph node and the
+remaining tissue are entirely submitted.
+Summary of Sections:
+LN- lymph nodes
+U - undesignated
+7)
+The specimen is received in formalin, labeled "Left Anterior Abdominal Wall Fat". It consists of two fragments of adipose
+tissue measuring 3 x 2.5 x 0.7 cm in aggregate. Sectioning through the tissue reveals no gross pathologic abnormalities. The
+specimen is entirely submitted.
+Summary of Sections:
+Page 4 of 6
+-
+U undesignated
+SURGICAL PATHOLOGY REPORT
+8) The specimen is received in formalin, labeled "Left Ureter (clip on the most distal end)". It consists of a piece of pink-tan
+and white-tan tissue measuring 1.5 x 1 x 0.8 cm. One side of the tissue is oriented with a clip at te distal end of the ureter.
+Sectioning of the tissue reveals a white-tan, tube-like structure that grossly shows no significant pathologic abnormalities. The
+specimen is entirely submitted.
+Summary of Sections:
+DE - distal end of ureter
+PE - proximal end of ureter
+M - mid portion of the tissue
+9)
+The specimen is received in formalin, labeled "Right Ureter". It consists of a ureter with surrounding adipose tissue with
+clip on distal end, measuring 2 cm in length and 0.4 cm in diameter. The specimen is entirely submitted.
+Summary of Sections:
+DM distal margin
+PM-proximal margin
+SS-serially sectioned ureter
+Summary of Sections:
+Part 1: SP: Bladder, seminal vesicle, prostate and perivesical nodes, radical cystoprostatectomy
+Block
+Sect. Site
+PCs
+2221----222-77-4-
+ab
+am
+ap
+aw
+do
+lsv
+luo
+lw
+2
+pa
+pb
+2
+222722
+1
+1
+2
+2
+pm
+2
+pvin
+1
+pw
+1
+rsv
+1
+rw
+1
+t
+4
+tr
+1
+1
+um
+1
+1
+urm
+1
+Part 2: SP: Vas deferens, right, resection (tl)
+Block
+2
+Sect. Site
+u
+PCs
+7
+Part 3: SP: Vas deferens, left, resection (tl)
+Block
+2
+Sect. Site
+PCs
+u
+5
+Part 4: SP: Lymph nodes, left pelvic, excision (tl)
+Block
+3
+Sect. Site
+bln
+PCs
+6
+Page 5 of 6
+1
+mln
+SURGICAL PATHOLOGY REPORT
+4
+Part 5: SP: Lymph nodes, right pelvic, excision
+Block
+1
+6
+Sect. Site
+bin
+In
+PCs
+Part 6: SP: Fat, anterior prostate, resection (tl)
+Block
+1
+1
+Sect. Site
+In
+u
+PCs
+Part 7: SP: Soft tissue, left anterior abdominal wall, resection'
+Block
+2
+Sect. Site
+u
+PCs
+2
+Part 8: SP: Ureter, left, excisiion,
+Block
+1
+1
+1
+Sect. Site
+PCs
+de
+1
+m
+1
+pe
+1
+Part 9: SP: Ureter, right, excision
+Block
+Sect. Site
+PCs
+1
+dm
+1
+1
+pm
+1
+1
+SS
+3
+Page 6 of 6
+END OF REPORT

@@ -1,0 +1,68 @@
+UUID:A69288AE-8585-4041-A601-A7ACDBCBBEB2
+TCGA-ZF-A9R0-01A-PR
+Redacted
+ICD03
+SPECIMEN
+A. Right side lymph node
+B. Right ureteric resection margin
+C. Bladder and prostate
+CLINICAL DETAILS
+Invasive bladder cancer.
+MACROSCOPY
+A. Fat and lymph node measuring 45 x 20 x 15 mm.
+=
+1-3 ?One lymph node in each
+B.
+A piece of tube measuring 3 mm.
+Carcinoma, urothelial NOS
+Site: Bladder, posterior wall
+425/2/14
+C. Bladder and prostate measuring 130 x 80 x 60 mm. There is a hugh tumour
+occupying most of the bladder wall. The tumour is centred posterior and extends
+bilaterally to the lateral wall. The tumour invades through the bladder wall
+with extensive peritoneal involvement. The tumour is within 1 mm of the left
+lateral circumferential resection margin (closest). There is a massive tumour
+superior bulging into the peritoneum. The maximum tumour dimension is 130 mm.
+The tumour abuts the prostate but does not appear to involve the prostate.
+The prostate shows a minor degree of nodular hyperplasia.
+=
+1 = Urethral distal resection margin, 2 = Left prostate, 3 = Right prostate, 4
+Right prostate, 5 = Posterior urethral plus trigone, 6 = Tumour edge of
+prostate, 7-8 = Anterior bladder wall, 9 = Left lateral wall circumferential
+resection margin, 10 = Posterior wall with peritoneum involvement, 11 = Right
+lateral wall circumferential resection margin, dome and peritoneum, 12 = ? Left
+ureter, 13 = ? Right ureter plus vas, 14 = Tumour
+MICROSCOPY
+A. One lymph node with reactive changes and no tumour; most of the sample is
+fat.
+B. This sample of ureter does not have any visible urothelium.
+C. The tumour identified is poorly differentiated grade 3 urothelial
+carcinoma. Tumour invades the full thickness of the bladder wall and beyond
+into adipose tissue and the peritoneal surface. The tumour is also present at
+the surgical resection margin on the right lateral aspect. Though the tumour
+involves the trigone there is no invasion of the prostate gland.
+Background urothelium is normal.
+The prostate shows nodular hyperplasia and focal necrosis with granulomatous
+response.
+The samples taken from the ureterics do not show urothelium.
+Summary:
+Cystoprostatectomy specimen; High grade infiltrating urothelial carcinoma G3
+pT3b pN0 R1.
+Though recorded as pN0, only one small node has been sampled and no formal
+dissection presented for examination.
+0674
+Pathologists
+CONSULTANT
+Criteria
+1 1/10/14
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIE / DISQUALIFIED
+Date Reviewed:

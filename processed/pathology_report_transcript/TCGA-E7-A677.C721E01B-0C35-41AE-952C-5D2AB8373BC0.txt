@@ -1,0 +1,53 @@
+UUID:C721E018-0C35-41AE-952C-5D2AB8373BC0
+TCGA-E7-A677-01A
+-PR
+Redacted
+Patient ID:
+Surgical Date:
+Gross Description: In bladder, there are an invasive tumor, ill - margins with 3x2x2cm in size, soft and
+gray surface.
+Microscopic Description: Transitional cells are hyperplastic. Tumor cells arrange to form papillary or
+trabeculae. Tumor cells have moderate and eosinophilic cytoplasm. Nuclei are enlarged and varriability
+in shape and size, very irregular nuclear membranes, nucleoli and abnormal chromatin patterns. Mitoses
+are present. Tumor invades in deeply muscularis propria.
+Diagnosis Details: Infiltrating urothelial carcinoma, low-grade, infiltrating outer half muscularis propria
+COCF Carmona, Urothelial Hos
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+path
+Specimen type: Cystectomy
+papillary
+"Carcinonia, tranational cell,
+81203
+813013
+Tumor site: Bladder
+Site. Bladder NOS C67.9
+سه
+AW 5/16/13
+Tumor size: 3 x 2 x 2 cm
+Tumor features: None specified
+Histologic type: Transitional cell carcinoma
+Histologic grade: Moderately differentiated
+Tumor extent: Muscularis propria
+Lymph nodes: Not specified
+Lymphatic invasion: Absent
+Venous invasion: Not specified
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Criteria
+Diagnosis Discrepancy
+4/18/13
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary ploted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+✓

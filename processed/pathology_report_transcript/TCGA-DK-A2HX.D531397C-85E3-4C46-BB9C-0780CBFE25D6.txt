@@ -1,0 +1,328 @@
+UUID:D531397C-85E3-4C46-BB9C-0780CBFE25D6
+TCGA-DK-A2HX-01A-PR
+Patient Name:
+Med. Rec. #:
+Redacted
+AL PATHOLOGY REPORT
+Accession #:
+Date of Procedure:
+Date of Receipt:
+DOB:
+Gender:
+F
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Billing
+Date of Report:
+Account #:
+Type:
+INPATIENT
+Additional Copy to:
+Ref. Source:
+Clinical Diagnosis & History:
+History of muscle invasive HGTCC with micropapillary, signet ring, mucinous features.
+Specimens Submitted:
+1: Small intestine, "implants"; biopsy
+2: Lymph nodes, right common iliac; excision
+3: Lymph nodes, right pelvic; excision
+4: Lymph nodes, presacral; excision
+5: Lymph node, Marcille's; excision
+6: Lymph nodes, left pelvic; excision
+7: Lymph nodes, left common iliac; excision
+8: Bladder, urethra and anterior vaginal wall; radical cystectomy
+9: Stent, left ureter; removal
+DIAGNOSIS:
+1. Small intestine, "implants"; biopsy:
+-Gastrointestinal stromal tumor, 0.9 cm.
+ICD-0-3
+carcinoma, unothelial, Nus
+8120/3
+Site: bladder, wall, Nos
+0679
+w 6/23/11
+-Immunohistochemical stains show that the tumor is diffusely positive for CD117, and negative for S100, desmin and HHF35.
+2. Lymph nodes, right common iliac; excision:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+3. Lymph nodes, right pelvic; excision:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 17
+Number of lymph nodes with metastatic disease: 2
+Size of the largest lymph node involved by tumor: 1.2cm.
+Size of the largest metastatic focus: 0.2 cm.
+Extranodal extension is not identified
+Criteria
+Yes
+No
+4. Lymph nodes, presacral; excision:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 6
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 0.15cm.
+Size of the largest metastatic focus: 0.005 cm.
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case: (circl:):
+Reviewer Initials
+QUALIFIED DISQUALIFIED
+Date Reviewed:
+to 6/23/11
+5. Lymph node, Marcille's; excision:
+Page 1 of 6
+SURGICAL PATHOLOGY REPORT
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+6. Lymph nodes, left pelvic; excision:
+Lymph Node Dissection:
+Metastatic urothelial carcinoma
+Number of lymph nodes examined: 10
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 1.3cm.
+Size of the largest metastatic focus: 0.18 cm.
+Extranodal extension is not identified
+7. Lymph nodes, left common illac; excision:
+Lymph Node Dissection:
+Benign fibroadipose tissue
+8. Bladder, urethra and anterior vaginal wall; radical cystectomy:
+Tumor Type:
+Urothelial carcinoma with mixed histologic features, including: micropapillary, diffuse and signet ring cell
+some 
+treatment related changes are present
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+In situ component not identified
+Pattern of growth of the Invasive component:
+Diffuse
+Tumor Multicentricity:
+Not identified
+the bladder wall is diffusely involved by tumor
+Bladder Local Invasion:
+Perivesical soft tissues
+Extravesical Tumor Extension:
+Ureters uninvolved
+Urethra uninvolved
+Tumor involves soft tissue around both ureters
+Vascular Invasion:
+Identified
+Perineural Invasion:
+Identified
+Surgical Margins:
+Tumor present at right ureteral margin
+Tumor present at left ureteral margin
+Non-Neoplastic Mucosa:
+Exhibiting ulceration
+Exhibiting foreign body reaction
+Exhibiting proliferative cystitis (Brunn's nests, cystitis cystica, cystitis glandularis)
+Page 2 of 6
+SURGICAL PATHOLOGY REPORT
+Female Genital Organs:
+The vagina shows no pathologic changes
+Perivesical Lymph Nodes:
+Not identified
+The Pathologic Stage is (AJCC 2002):
+pT3 (Invasion of perivesicle soft tissue)
+9. Stent, left ureter; removal:
+-Stent, gross examination only.
+1 ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Special Studies:
+Result Speci
+CD11
+DES
+CMA(HHF35)
+S100
+NEG
+IMM
+***
+Report Electronically Signed Out
+al Stain
+7
+CONT
+RECUT
+Comment
+Gross Description:
+1. The specimen is received fresh, labeled “small bowel implant". It consists of one piece of tan red soft tissue measuring 0.9 × 0.9
+× 0.8 cm. The specimen is bisected and submitted entirely for frozen section.
+Summary of Sections:
+FSC-frozen section control
+2.) The specimen is received fresh, labeled "right common iliac lymph nodes" and consists of one pink tan firm lymph node
+measuring 0.6 x 0.4 x 0.2 cm. The specimen is entirely submitted.
+Summary of sections:
+LN- lymph nodes
+3.) The specimen is received fresh, labeled "right pelvic lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.2 cm to 1.2 cm in greatest dimension. All identified lymph nodes are 
+submitted.
+Summary of sections:
+LN- lymph nodes
+4.) The specimen is received fresh, labeled "presacral lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.1 cm to 0.4 cm in greatest dimension. All identified lymph nodes are 
+submitted.
+Page 3 of 6
+Summary of sections:
+LN- lymph nodes
+SURGICAL PATHOLOGY REPORT
+5.) The specimen is received fresh, labeled "lymph node from Marcille" and consists of one possible pink tan firm lymph node
+measuring 1.2 x 0.5 x 0.3 cm. The specimen is entirely submitted.
+Summary of sections:
+LN- lymph node
+6.) The specimen is received fresh, labeled "left pelvic lymph nodes" and consists of multiple pink tan firm lymph nodes ranging
+from 0.3 cm to 1.8 cm in greatest dimension. All identified lymph 
+nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+BLN - bisected lymph nodes
+7.) The specimen is received fresh, labeled "left common iliac lymph nodes" and consists of one pink tan firm lymph node
+measuring 0.5 x 0.4 x 0.2 cm. The specimen is entirely submitted
+.
+Summary of sections:
+LN- lymph nodes
+8. The specimen is received fresh, labeled "bladder, urethra and anterior vaginal wall". It consist of a bladder and anterior vaginal
+wall with bilatera ureters measuring 13cm from superior to inferior, 
+10 cm laterally and 4cm from anterior to posterior. The bladder
+measures 12 x10 x 4 cm. The portion of vaginal cuff measures 2x 1.5 x 
+0.6 cm. The distal urethra and the vaginal cuff margin are
+shaved and submitted. The ureteric stumps measure 0.6 cm in lenght 
+and 0.2 cm in diamter. The specimen is inked green on the
+right side and blue on the left side and the bladder is opened anteriorly 
+to reveal an infiltrating firm lesion 5.5x 3.5 x 3.0 cm. The
+lesion is located in the left postero lateral wall and extends to the 
+dome region. The distance from the left and the right ureteric
+orifices are 0.4 cm and 2.8 cm respectively. On sectioning, the tumor 
+extends to a depth of 3.0cm, and is approaching the
+perivesical fat grossly. The remaining bladder mucosa shows 
+edematous mucosa. Discrete perivesical lymph nodes are not
+identified. Tissue is submitted for TPS. Representative sections 
+are submitted.
+Summary of sections:
+UTHM distal urethra
+RUM-right ureter margin
+LUM-left ureter margin
+L - lesion
+RUO right ureteric orifice
+LUO left ureteric orifice
+LP-left posterior wall
+LA - left anterior wall
+RP-right posterior wall
+RA-right anterior wall
+TRI - trigone
+DOME dome
+F - perivesical fat
+DVM distal vaginal margin
+9). The specimen is received fresh labeled, "Stent from left ureter" and consists of an elongated tubular blue stent measuring 25 x
+0.3 x 0.3 cm. The specimen is photographed. Gross only.
+Page 4 of 6
+SURGICAL PATHOLOGY REPORT
+Summary of Sections:
+Part 1: Small intestine, "implants"; biopsy
+Block
+1
+Sect. Site
+FSC
+PCs
+1
+Part 2: Lymph nodes, right common iliac; excision
+Block
+1
+Sect. Site
+LN
+PCs
+1
+Part 3: Lymph nodes, right pelvic; excision
+Block
+5
+Sect. Site
+LN
+PCs
+Part 4: Lymph nodes, presacral; excision
+Block
+1
+Sect. Site
+LN
+PCs
+Part 5: Lymph node, Marcille's; excision
+Block
+1
+Sect. Site
+LN
+PCs
+1
+Part 6: Lymph nodes, left pelvic; excision
+Block
+2
+2
+Sect. Site
+PCs
+BLN
+LN
+2
+2
+Part 7: Lymph nodes, left common illac; excision
+Block
+1
+Sect. Site
+LN
+PCs
+1
+Part 8: Bladder, urethra and anterior vaginal wall; radical cystectomy
+Block
+Sect. Site
+1
+DOME
+1
+DVM
+1
+F
+PCs
+1
+1
+1
+6
+L
+6
+1
+LA
+1
+1
+LP
+1
+1
+LUM
+1
+1
+LUO
+1
+RA
+1
+1
+RP
+1
+1
+RUM
+1
+1
+RUO
+1
+1
+TRI
+1
+UTHM
+Part 9: Stent, left ureter; removal
+Page 5 of 6
+Intraoperative Consultation:
+SURGICAL PATHOLOGY REPORT
+1. Frozen section diagnosis: Small bowel implants
+Permanent diagnosis: See final
+Spindle cell proliferation
+Page 6 of 6
+END OF REPORT

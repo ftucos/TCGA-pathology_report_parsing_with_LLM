@@ -1,0 +1,58 @@
+De-Identified Specimen Code_
+Patient Age/Sex
+SPECIMEN SUBMITTED:
+/ M
+UUID:AC922A7D-2261-4322-9985-BA845CC77C85
+TCGA-GV-A33W-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Part A: BLADDER TUMOR RIGHT, TUR
+Part B: BLADDER TUMOR DEEP, TUR
+Final Diagnosis
+ICD-0-3
+Carcinoma, urothelial, NOS 8/20/3
+Site: bladdw, Nos C67-9
+A. BLADDER TUMOR RIGHT, TURBT:
+INVASIVE POORLY DIFFERENTIATED TRANSITIONAL CELL CARCINOMA.
+COMMENT: Tumor involves the muscularis propria.
+B. BLADDER TUMOR DEEP, TURBT:
+INVASIVE POORLY DIFFERENTIATED TRANSITIONAL CELL CARCINOMA INVOLVING
+MUSCULAR PROPRIA.
+A] 307; B] 307
+Diagnosis Comment:
+URINARY BLADDER SYNOPTIC REPORT
+PROCEDURE: TURBT
+HISTOLOGIC TYPE: Transitional cell
+ASSOCIATED EPITHELIAL LESIONS: None
+HISTOLOGIC GRADE: III
+سار
+ADEQUACY OF MATERIAL FOR DETERMINING MUSCULARIS PROPRIA INVASION:
+detrusor muscle present.
+LYMPHVASCULAR INVASION: Not identified.
+MICROSCOPIC EXTENT OF TUMOR: Tumor invades muscularis propria.
+Clinical Diagnosis:
+Bladder CA
+Gross Description:
+Muscularis propria
+A. Received in fixative are multiple segments of pink-grey tissue which aggregate to 3 x 2.5 cm. The
+specimen is filtered and entirely submitted in two cassettes.
+B. Received in fixative are multiple pink-grey tissue fragments aggregating to 2 x 2 cm. The specimen
+is entirely submitted in one cassette.
+12/15/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials 4.9
+QUALIFIED
+Cate Reviewed:
+Yes
+DISQUALIFIED
+Page 1 of 5
+101571
+No
+4
+:

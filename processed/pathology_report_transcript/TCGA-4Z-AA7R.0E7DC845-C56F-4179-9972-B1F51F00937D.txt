@@ -1,0 +1,54 @@
+CACE
+Redacted
+UUID:0E7DC845-C56F-4179-9972-B1F51F00937D
+TCGA-4Z-AA7R-01A-PR
+Collect date:
+(MM/DD/YYTI)
+ICD0.3
+Carcinoma, urothelial
+papillary
+path
+8130/3
+Carcinoma, urothelial NOS
+CQCE
+812013
+Sate Bladdertrigone 620
+Bladder NOS €67.9
+A 3/18/14
+PATHOLOGY REPORT:
+PRIMARY SITE: Bladder
+1- "Bladder + prostate + bilateral obturator lymph node chain"
+High grade urothelial carcinoma, ulcerated, infiltrating until detrusor muscle;
+Greatest dimension: 9.5 cm;
+Perivesical fat: uninvolved by neoplasia, although it exhibits peritumoral sclerosis;
+Angiolymphatic invasion present;
+Perineural invasion present;
+Right ureter segment: compromised by neoplasia;
+Left ureter segment: compromised by neoplasia;
+Prostate: compromised by neoplasia;
+Seminal vesicles: uninvolved by neoplasia;
+Vas deferens: uninvolved by neoplasia;
+Right and left ureteral margins: uninvolved by neoplasia;
+Right obturator lymph node chain: uninvolved by neoplasia (0/5)
+Left obturator lymph node chain: uninvolved by neoplasia (0/2)
+2- Uretral stump
+Uninvolved by neoplasia
+3- Left obturator lymph nodes
+Uninvolved by neoplasia (0/4)
+4- Right obturator lymph nodes
+Uninvolved by neoplasia (0/3)
+Criteria
+Nw 12/20/13
+Diagnosis Discrepanc
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy Histor
+Dual/Synchronous PrimayNoted
+Case is (circle):
+Reviewer initials
+ALALIFIED
+Date Reviewed:
+Yes
+SQUALIFIED
+1093
+Nu

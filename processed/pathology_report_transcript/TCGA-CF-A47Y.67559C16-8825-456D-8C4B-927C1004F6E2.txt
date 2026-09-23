@@ -1,0 +1,359 @@
+UUID:67559C16-8825-456D-8C4B-927C1004F6E2
+TCGA-CF-A47Y-01A-PR
+Redacted
+ICD-0-3
+Clinical Case Report
+(For Collection of Cancerous Tissue)
+Carcinoma, papillary transitional call
+813013
+Site: bladder, Nos C67.9
+w 9/26/12 Informed Consent
+I personally informed this patient that a specimen(s) would be collected to be used for research
+purposes. I reviewed the
+RESEARCH SUBJECT INFORMATION AND CONSENT
+FORM with the patient and answered any questions the patient had. The patient then signed the
+consent form as a free and voluntary act. A copy of this informed consent document will be retained at
+our institution.
+Name of Physician or Study Coordinator
+Clinical Information
+Date of Birth (mm/dd/yyyy)
+Height
+Imto
+Gender
+☑Male ☐ Female
+Weight
+68kg
+GENERAL INFORMATION
+Marital Status
+☐ Single ☑ Married
+☐ Divorced Widow
+HISTORY OF PRESENT ILLNESS
+Chief Complaints: Abdominal pain i
+Symptoms:
+Race
+VIETNAMESE
+Blood Pressure
+12/8
+Temperature
+Heart Rate
+Hwood in the urine
+Fever; weight loss
+Clinical Findings:
+Performance Scale (Karnofsky Score):
+□ 100 Asymptomatic 80-90 Symptomatic but Fully Ambulatory 2060-70 Symptomatic, in bed less than 50% of day
+□ 40-50 
+Symptomatic, in bed more than 50% of day, but not bed ridden
+CURRENT MEDICATIONS
+□ 20-30 Bed Ridden
+Drug
+Dose
+Route
+Frequency
+Date (mm/dd/yyyy)
+Το
+Το
+To
+Το
+To
+PAST MEDICAL HISTORY
+Diagnosis/Disease/Disorder/Injury
+Menopausal Status
+Pre-menopausal
+Peri-Menopausal
+□ Post-menopausal
+Birth Control:
+Diagnosis Date
+Treatment
+Status
+OB/GYN HISTORY
+Date of First Menses
+Date of Last Menses
+# of Pregnancies
+# of Live Births
+Condom
+☐ Other:
+□ Oral Contraceptive
+□ IUD
+□ Hormone Replacement
+Therapy:
+SOCIAL HISTORY
+Occupation:
+Environmental Hazards:
+Smoking History
+Current Status
+TYPE
+Packs/day
+Duration
+When Quit
+□ YES
+NO
+(yrs)
+(yr)
+Alcohol Consumption
+Current Status
+TYPE
+Drinks/day
+YES ☐ NO
+Drug Use
+12 dinks/day 30
+J
+Duration
+30 (yrs)
+When Quit
+3 mother
+∞ (yr)
+Current Status
+TYPE
+Frequency
+Duration
+When Quit
+□ YES
+✓ NO
+(yrs)
+(yr)
+Relative
+FAMILY MEDICAL HISTORY
+Diagnosis
+LAB DATA
+Test
+Result
+Date
+HIV
+☑Negative ☐ Positive:
+Hep B
+☑Negative ☐ Positive:
+Hep C
+☑ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+AFP
+Other:
+☐ Negative ☐ Positive:
+B/T Cell Markers:
+2
+Test
+CEA
+CA 15-3
+CA 19-9
+PSA
+Other:
+Result
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+☐ Negative ☐ Positive:
+Age of Diagnosis
+Date
+Study
+DIAGNOSTIC STUDIES
+Results
+Ultrasoundy A tumout was found in the U bladder.
+X-Ray
+CT
+Endoscopy
+MRI
+Biopsy
+CLINICAL DIAGNOSIS
+Preoperative Clinical Diagnosis
+uninary bladder Cance
+Date
+Location of Suspected Distant Metastasis
+Date of Diagnosis
+Location of Suspected Involved Lymph Nodes
+Clinical Staging
+T2 NO MO
+Stage: I
+Treatment Information
+SURGICAL TREATMENT
+Procedure
+Resection of the U. bladder
+Organ
+Primary Tumor
+Urinary bladder tumor
+Description
+Palpable, Non-Dissected Lymph Nodes
+Dissected Lymph Nodes
+Detailed Location
+Extension of The lapping lesson
+Tumor/
+Lymph Nodes
+Date of Procedure
+Size
+8×2×
+cm
+Location of Lymph Nodes
+# of Lymph Nodes
+Organ
+Distant Metastasis
+Detailed Location
+Surgical Staging
+T2
+No M
+Stage: I
+NEOADJUVENT THERAPY (Chemo, Radiation, Immuno, Hormonal, or Molecular)
+Drug/Treatment
+Dose
+Route
+Frequency
+3
+Size
+Date (mm/dd/yyyy)
+Το
+To
+To
+To
+Το
+Collected by:
+Preserved by:
+Pathology Form
+Specimen Information
+Date:
+Time:
+Date
+Time
+SPECIMEN TYPE (# of samples provided)
+Frozen
+Paraffin Block
+Blood/Serum/Plasma
+Slide
+Diseased
+Normal
+Diseased
+Normal
+Diseased
+Normal
+Diseased
+Normal
+4
+2
+4
+2
+Time to LN2
+Time to Formalin
+Time to LN2
+min
+min
+min
+Organ
+PATHOLOGICAL DESCRIPTION
+Primary Tumor
+Size
+urinary bladder Tumor 8x /*
+Location
+Extension of Tumor
+Distance to NAT
+ст
+3
+ст
+Lymph Nodes
+# Examined
+# Metastasized
+Organ
+Distant Metastasis
+Detailed Location
+Size
+Pathological Staging
+PT 2
+NO Mo
+Notes:
+4
+Stage: I
+CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance:
+1. Histological pattern:
+CELL DISTRIBUTION
++
+STRUCTURAL PATTERN
++
+Diffuse
+Mosaic
+✓ Streaming
+Storiform
+Necrosis
+Indian File
+Lymphocytic Infiltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+2. Cellular features:
+Squamous
++
+-
+Squamoid Cell
+☑
+Spindle Cell
+Keratin
+Desmosome
+Pearl
+Otherwise Specified:
+✓ Fibrosis
+x
+Palisading
+Adenomatous
+Glandular cell
++
+"
+Cell Stratification
+Secretion
+Intracyt. Vacuole
+Gland formation
+✓ Cystic Degeneration
+Bleeding
+✓ Myxoid Change
+Psammoma/Calcification
+Small Cell
+Sarcomatous
++
+-
+Lymphomatous
++
+Round Cell
+Large Cell
+Fibroblast
+Osteoblast
+Lipoblast
+Myoblast
+RS Cell/RS Like
+Inflam. Cell
+Plasma Cell
+D. 80% 0.802 D2 80%, 4752
+2. Cellular Differentiation:
+Well
+Moderately
+3. Nuclear Atypia:
+Nuclear Appearance
+Aniso Nucleosis
+Poor
+0
+I
+II
+Π
+☑
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity
+Nuclear Grade
+P
+✓
+☑
+ㄡ
+Histological Diagnosis: Papillary Transitional Cel
+Comments:
+Саксона, сы
+*(INTEGRATED REPORT OF FINDINGS BY CONTRIBUTOR AND
+PATHOLOGIST STAFF FOR RESEARCH USE ONLY).
+1
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (ircle):
+Reviewe Ini
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+Date Revered: T

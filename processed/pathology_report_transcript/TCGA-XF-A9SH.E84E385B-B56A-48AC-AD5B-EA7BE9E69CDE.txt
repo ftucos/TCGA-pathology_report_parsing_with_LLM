@@ -1,0 +1,362 @@
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+CECE
+ICD03
+Carcinoma, urothelial NOS
+path
+8/2013
+Document Type:
+*Date - Date of Service:
+Document Status:
+Document Title:
+Encounter info:
+Contributor system:
+UUID:E84E385B-B56A-48AC-AD5B-EA7BE9E69CDE
+TCGA-XF-A9SH-01A-PR
+Redacted
+Carcinoma, transitional cell
+Site Bladder Mo$167.9
+JW 3/26/14
+* Final Report
+*
+ORDERING PHSYCIAN:
+Ordering Physician:
+PRE-OPERATIVE DIAGNOSIS:
+Bladder CA
+POST-OPERATIVE DIAGNOSIS:
+Same as preop
+MICROSCOPIC DESCRIPTION:
+A-B:
+C:
+See final microscopic-diagnosis.
+Sections of the bladder show a pleomorphic population of transitional cell
+infiltrating into the detrusor muscle in nests and broad cords. The malignant
+cells are large and distinct cytoplasmic borders. The cytoplasm is glassy pale and
+eosinophilic. The nuclei are round to oval, the nuclear pleomorphism is marked and
+consists of isolated greatly enlarged cells against a background of moderate
+nuclear sized pleomorphism. Chromatin is coarsely clumped. The chromatin clumping
+is coarser in the larger cells. Nucleoli are conspicuous, red and occasionally
+multiple. At the edges of the tumor, cells are present in smaller groups and
+invade in thin round to oval trabeculae. Mitotic figures are occasionally
+encountered. Vascular space invasion is identified
+Signature Line
+Signed by:
+ELECTRONIC SIGNATURE
+GROSS DESCRIPTION:
+A: The specimen is received fresh from the O.R. and labeled "Right ureter F/S."
+It consists of a 0.8 x 0.5 x 0.3 cm section of ureter. Entirely submitted for
+frozen section.
+B:
+It
+The specimen is received fresh from the O.R. and labeled "Left ureter F/S."
+consists of a 0.8 x 0.5 x 0.2 cm section of ureter. Entirely submitted for frozen
+Printed by:
+Printed on:
+Page 1 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+section.
+C:
+The specimen is received fresh from the O.R. and labeled "Bladder, uterus,
+ovaries & perivesicle nodes." It consists of a 15 x 13 z 5.8 cm anterior
+exenteration specimen. The uterus measures 9 x 6.2 x 6 cm. The right fallopian
+tube measures 6.8 cm in length and 0.2 cm in diameter; it is grossly unremarkable.
+The right ovary measures 2.2 x 1.7 x 0.6 cm and is grossly unremarkable. The left
+fallopian tube measures 7 cm in length and 0.2 cm in diameter and is grossly
+unremarkable. The left ovary measures 2.1 x 1.5 x 0.7 cm and is grossly
+unremarkable. The serosal surface of the uterus is smooth. A subserosa myoma
+measuring 5 x 3.5 x 3 cm is noted. It displays the usual protuberant whorled white
+cross section. No areas of hemorrhage or necrosis are noted. The ectocervix
+measures 2.5 x 2.2 cm and is lined by velvety, tan epithelium. The endocervical
+canal measures 2.5 cm in length and is lined by velvety, tan epithelium. The
+endometrial canal measures 4 x 2 x 0.1 cm; it is lined by velvety, tan epithelium.
+Two polypoid projections are present in the endometrial cavity measuring 0.5 x 0.5
+x 0.1 cm and 0.2 x 0.2 x 0.1 cm. The posterior endomyometrial to serosal thickness
+is 2.2 cm. The anterior endomyometrial serosal thickness is 1.1 cm. The
+vessico-uterine septum is soft to palpation. There is no gross extension of tumor
+from the bladder to the cervix. The peritoneal surface overlying the bladder
+measures 10 x 9 cm and is smooth and shiny. There are no peritoneal tumor
+implants. The bladder measures 9 x 6.5 x 2 cm and contains a 2.2 x 1.9 x 1.1 cm
+tumor. The tumor is located 0.7 cm from the urethral margin; it is smooth, firm
+and white. The surface of the tumor is not papillary. The remaining bladder
+mucosa is smooth and tan with the exception of a 2.2 x 1.5 cm area of hemorrhagic
+discoloration superior to the tumor. The left distal ureter measures 1 cm in
+length and 0.7 cm in circumference and inserts into the tumor. The right distal
+ureter measures 6 cm in length and 1.1 cm in circumference and inserts directly
+into the tumor. The bladder wall thickness far from the tumor is 0.6 cm. The
+bladder wall thickness in the area of tumor is 1.5 cm. The tumor extends to within
+0.4 cm of the external surface of detrusor muscle. Representative sections in 21
+cassettes.
+D: The specimen is received in formalin and labeled "Right periaortic lymph
+nodes." It consists of a 3.8 x 0.9 × 0.4 cm serpiginous, purple-tan tissue
+fragment. Entirely submitted in one cassette.
+E: The specimen is received in formalin and labeled "Right common iliac nodes."
+It consists of a 2.8 x 1 x 0.5 cm greasy, yellow tissue fragment. Entirely
+submitted in one cassette.
+F: The specimen is received in formalin and labeled "Right external iliac nodes.
+Entirely submitted in three cassettes.
+"
+G: The specimen is received in formalin and labeled "Right obturator / hypogastric
+Printed by:
+Printed on:
+Page 2 of 7
+(Continued)
+SURGICAL PATHOLOGY REPORT
+* Final Report *
+nodes. " It consists of 2.8 x 2.1 x 1.2 cm greasy, yellow tissue. Entirely
+submitted in one cassette.
+H: The specimen is received in formalin and labeled "Left paraaortic lymph nodes."
+It consists of 2 x 1 x 0.5 cm of greasy, yellow tissue. Entirely submitted in one
+cassette.
+I:
+The specimen is received in formalin and labeled "Presacral lymph nodes." It
+consists of 3 x 2 x 0.5 cm of greasy, yellow tissue. Entirely submitted in one
+cassette.
+J: The specimen is received in formalin and labeled "Left common iliac lymph
+nodes." It consists of 2.5 x 2 x 0.5 cm of greasy, yellow tissue. Entirley
+submitted in one cassette.
+K: The specimen is received in formalin and labeled "Left external iliac lymph
+nodes." It consists of 4 × 3 × 0.5 cm of greasy, yellow tissue. Entirely
+submitted in three cassettes.
+L: The specimen is received in formalin and labeled "Left obturator / hypogastric
+lymph nodes." It consists of 4 x 2 x 0.5 cm greasy, yellow tissue. Entirely
+submitted in three cassettes.
+M: The specimen is received in formalin and labeled "Right presciatic lymph
+nodes. 11
+It consists of 1.5 x 0.6 x 0.3 cm of greasy, yellow tissue. Entirely
+submitted in one cassette.
+N: The specimen is received in formalin and labeled "Left presciatic lymph nodes."
+It consists of 1.7 x 0.5 x 0.3 cm greasy, yellow tissue. Entirely submitted in
+one cassette.
+0:
+The specimen is received in formalin and labeled "Left proximal ureter," It
+consists of 1.7 x 0.8 x 0.5 cm of ureter. Entirely submitted in one cassette.
+P: The specimen is received in formalin and labeled "Right proximal ureter."
+consists of a 2.3 x 0.7 x 0.2 cm segment of ureter. Entirely submitted in one
+cassette.
+Q:
+It
+The specimen is received in formalin and labeled "Gallbladder." It consists of
+a 7.6 x 2.7 x 2.7 cm gallbladder. The external surface is smooth. A stone is
+lodge at the cystic duct measuring 0.7 cm in greatest dimension. The specimen is
+opened to reveal green liquid bile with no further stones. The cystic duct is
+opened to reveal a gallstone 0.7 cm in greatest dimension. The gallstone is
+sectioned to reveal a black interior. The gallbladder is then opened to reveal
+smooth, tan-yellow epithelium. The epithelium is velvety and there are no
+Printed by:
+Printed on:
+Page 3 of 7
+(Continued)
+SURGICAL PATHOLOGY
+* Final Report *
+papillary projections.
+Sections of the gallbladder body and cystic duct are
+submitted in a single cassette.
+SECTIONS:
+AFS:
+BFS:
+C1:
+C2:
+C3,4:
+C5:
+C6:
+frozen section, right ureter
+frozen section, left ureter
+right tube and ovary
+left tube and ovary
+intramural myoma
+posterior cervix
+endometrial polyp
+posterior endomyometrium and serosa
+anterior endomyometrium and serosa
+hemorrhagic discoloration superior to the tumor
+left distal ureter
+right ureter and tumor
+bladder wall far from tumor
+tumor and inked margin
+anterior cervix
+uninvolved mucosa
+C7,8:
+C9:
+C10:
+C11:
+C12:
+C13:
+C14,15:
+tumor
+C16,17:
+C18:
+C19:
+C20:
+C21:
+D:
+E:
+F1-3:
+G:
+H:
+I:
+J:
+peritoneum
+perivesical fat
+K1-3:
+L1-3:
+M:
+N:
+0:
+P:
+Q:
+right periaortic lymph nodes
+all embedded
+right common iliac nodes all embedded
+right external iliac nodes all embedded
+right obturator/hypogastric nodes all embedded
+left para-aortic lymph nodes all embedded
+presacral lymph nodes all embedded
+left common iliac lymph nodes all embedded
+left external iliac lymph nodes all embedded
+left obturator/hypogastric lymph nodes all embedded
+right presciatic lymph nodes all embedded
+left presciatic lymph nodes
+all embedded
+all embedded
+left proximal ureter all embedded
+right proximal ureter
+gallbladder
+INTRAOPERATIVE DIAGNOSIS:
+FROZEN SECTION DIAGNOSIS:
+AFS: Right ureter:
+no tumor identified
+Printed by:
+Printed on:
+Page 4 of 7
+(Continued)
+SURGICAL PATHOLOGY
+* Final Report *
+BFS: Left ureter:
+no tumor identified
+CFA: Urethra:
+no tumor identified
+GROSS DIAGNOSIS:
+GALLBLADDER (Q)
+GROSS DIAGNOSIS:
+CHOLELITHIASIS
+FINAL DIAGNOSIS:
+RIGHT URETER (A):
+FROZEN SECTION DIAGNOSIS:
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+BENIGN URETER
+NO TUMOR IDENTIFIED
+LEFT URETER (B):
+FROZEN SECTION DIAGNOSIS:
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+2
+BENIGN URETER
+NO TUMOR IDENTIFIED
+URETHRA (C) :
+FROZEN SECTION DIAGNOSIS:
+NO TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+NO TUMOR IDENTIFIED
+BLADDER, UTERUS, BILATERAL OVARIES, FALLOPIAN TUBES AND PERIVESICAL NODES (C):
+BLADDER:
+-
+POORLY DIFFERENTIATED TRANSITIONAL CELL CARCINOMA, HIGH NUCLEAR GRADE
+3/4, INVADING DEEP MUSCLE (OUTER HALF)
+CARCINOMA IN SITU
+SURGICAL MARGINS ARE UNINVOLVED BY CARCINOMA
+VASCULAR SPACE INVASION IDENTIFIED
+CYSTITIS GLANDULARIS
+Printed by:
+Printed on:
+Page 5 of 7
+(Continued)
+SURGICAL PATHOLOGY
+* Final Report *
+-
+NO UTERUS INVASION SEEN
+UTERUS, OVARIES:
+-
+-
+-
+-
+CHRONIC CERVICITIS
+BENIGN ENDOMETRIAL POLYP AND INACTIVE ENDOMETRIUM
+LEIOMYOMA
+SEROSA SHOWING NO SIGNIFICANT PATHOLOGIC CHANGE
+BILATERAL OVARIES AND FALLOPIAN TUBES SHOWING BENIGN PHYSIOLOGIC
+CHANGES
+RIGHT PERIAORTIC LYMPH NODES (D):
+-
+NO TUMOR IDENTIFIED IN FOUR LYMPH NODES (0/4)
+RIGHT COMMON ILIAC LYMPH NODES (E):
+-
+NO TUMOR IDENTIFIED IN TWO LYMPH NODES (0/2)
+RIGHT EXTERNAL ILIAC LYMPH NODES (F):
+-
+NO TUMOR IDENTIFIED IN FOUR LYMPH NODES
+RIGHT OBTURATOR LYMPH NODES (G):
+-
+NO TUMOR IDENTIFIED IN SEVENTEEN
+LYMPH NODES (0/17)
+LEFT PARA-AORTIC LYMPH NODES (H):
+-
+NO TUMOR IDENTIFIED IN 8 LYMPH NODES (0/8)
+PRESACRAL LYMPH NODES (I):
+NO TUMOR IDENTIFIED IN 6 LYMPH NODES (0/6)
+LEFT COMMON ILIAC LYMPH NODES
+(J):
+NO TUMOR IDENTIFIED IN FIVE LYMPH NODES (0/5)
+LEFT EXTERNAL ILIAC LYMPH NODES (K):
+NO TUMOR IDENTIFIED IN FOUR LYMPH NODES (0/4)
+LEFT OBTURATOR / HYPOGASTRIC LYMPH NODES (L):
+-
+NO TUMOR IDENTIFIED IN FOUR 8 NODES
+(0/8)
+RIGHT PRESCIATIC LYMPH NODES (M):
+NO TUMOR IDENTIFIED IN THREE LYMPH NODES (0/3)
+LEFT PRESCIATIC LYMPH NODE (N) :
+-
+NO TUMOR IDENTIFIED IN ONE LYMPH NODE (0/1)
+LEFT PROXIMAL URETER (0):
+BENIGN URETER
+NO DYSPLASIA OR MALIGNANCY IDENTIFIED
+Printed by:
+Printed on:
+Page 6 of 7
+(Continued)
+* Final Report *
+RIGHT PROXIMAL URETER (P):
+-
+BENIGN URETER
+NO DYSPLASIA OR MALIGNANCY IDENTIFIED
+GALLBLADDER (Q)
+GROSS DIAGNOSIS:
+-
+CHOLELITHIASIS
+FINAL DIAGNOSIS:
+CHRONIC CHOLECYSTITIS AND CHOLELITHIASIS
+PT2bNoMo
+CLINICAL DIAGNOSIS:
+Bladder cancer
+Printed by:
+Printed on:
+Page 7 of 7
+(End of Report)
+Criteria
+Diagnosis Discrepancy
+T 1/11/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle): (
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+No
++3/2014

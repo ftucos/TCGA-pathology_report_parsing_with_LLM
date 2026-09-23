@@ -1,0 +1,36 @@
+UUID:F4A8627A-5551-4E1D-A49E-370FD0F39D02
+TCGA-G2-AA3D-01A-PR
+Redacted
+DIAGNOSIS
+ICD-0-3
+Carcinoma, urothelial NOS
+812013
+Site: Bladder Nos.
+€67.9
+JW 1/17/14
+(A) BLADDER TUMOR:
+UROTHELIAL CARCINOMA, HIGH-GRADE, INVASIVE INTO MUSCULARIS
+PROPRIA.
+LYMPHOVASCULAR INVASION PRESENT.
+Fragments of bladder wall including muscularis propria show chronic
+inflammation and granulation tissue consistent with previous biopsy site.
+GROSS DESCRIPTION
+(A) BLADDER TUMOR - Received are multiple fragments of tan-pink to
+gray-white soft tissue aggregating to 2.2 x 1.1 × 0.5 cm. The specimen is
+submitted entirely in A.
+CLINICAL HISTORY
+Bladder CA.
+w 12/31/13
+Yes
+No
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Note
+Case is (circle):
+Reviewer Initials
+QUALIFIC
+/ DISQUALIFIED
+Date Reviewed:

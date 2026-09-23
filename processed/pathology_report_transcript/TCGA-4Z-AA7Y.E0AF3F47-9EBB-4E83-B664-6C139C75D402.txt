@@ -1,0 +1,46 @@
+UUID:E0AF3F47-9EBB-4E83-8664-6C139C75D402
+TCGA-4Z-AA7Y-01A-PR
+Redacted
+Collect date:
+(MM/DD/YYYY)
+PRIMARY SITE: Bladder
+ICD-O-3
+Carcinoma, urothelial
+papellary
+813013
+Site: Bladder, lateral wall
+PATHOLOGY REPORT:
+path
+Bladder NOS,
+9103/18/14
+0672
+C67.9
+I-"Bladder + prostate":
+•
+Papillary urothelial carcinoma of high grade, characterized as follows:
+. Measure of the longest axis: 3.5 cm
+Infiltration up to detrusor muscle of the bladder.
+Neural infiltration not observed.
+. Lymphatic vascular invasion not detected.
+Sanguineous vascular invasion not detected.
+Surgical margins free of neoplastic involvement.
+Nodular benign prostatic hyperplasia.
+Nonspecific chronic prostatitis.
+Lymph nodes free of neoplastic compromise (0/9).
+II-"Left pelvic lymphadenectomy":
+Free of neoplastic involvement (0/2).
+III-"Right pelvic lymphadenectomy":
+Free of neoplastic involvement (0/7).
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History/
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+12/20/13
+QUALIFIED
+Date Reviewed:
+Yas
+No

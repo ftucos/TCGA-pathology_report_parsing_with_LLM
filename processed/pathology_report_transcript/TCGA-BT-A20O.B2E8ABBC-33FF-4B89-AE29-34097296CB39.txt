@@ -1,0 +1,168 @@
+а
+PATIENT HISTORY:
+The patient is a
+year old man.
+PRE-OP DIAGNOSIS:
+POST-OP DIAGNOSIS:
+PROCEDURE:
+Bladder carcinoma.
+Same.
+ICD-0-3
+carcinoma, wrothelial 8/20/3
+Site: bladder, lateral wall C67.2
+Radical cystoprostatectomy.
+FINAL DIAGNOSIS:
+PART 1:
+LEFT DISTAL URETER, BIOPSY -
+A. SEGMENT OF URETER SHOWING BENIGN UROTHELIAL MUCOSA.
+B. NO EVIDENCE OF NEOPLASIA IS PRESENT.
+PART 2:
+RIGHT DISTAL URETER, BIOPSY -
+A. SEGMENT OF URETER SHOWING BENIGN UROTHELIAL MUCOSA.
+B. NO EVIDENCE OF NEOPLASIA IS PRESENT.
+PART 3:
+RIGHT PELVIC LYMPH NODES, EXCISION –
+NO EVIDENCE OF NEOPLASIA IN 4 (FOUR) LYMPH NODES EXAMINED.
+PART 4:
+LEFT PELVIC LYMPH NODES, EXCISION-
+NO EVIDENCE OF NEOPLASIA IN 9 (NINE) LYMPH NODES EXAMINED.
+PART 5:
+URINARY BLADDER AND PROSTATE, RADICAL, CYSTOPROSTATECTOMY-
+URINARY BLADDER:
+for 4/7/11
+UUID:B2E8ABBC-33FF-4889-AE29-34097296CB39
+TCGA-BT
+-A200-01A-PR
+A. INVASIVE UROTHELIAL CARCINOMA, HIGH-GRADE (WHO/SUP), GRADE 3 OF 4 (ASH) WITH FOCI OF
+SQUAMOUS 
+DIFFERENTIATION (see comment).
+B. THE CARCINOMA IS 5.5 CM IN GREATEST DIMENSION.
+Redacted
+C. THE UROTHELIAL CARCINOMA INVADES THROUGH THE MUSCULARIS PROPRIA INTO THE PERIVESICAL
+ADIPOSE TISSUE.
+D.
+E.
+F.
+NO EVIDENCE OF ANGIOLYMPHATIC OR PERINEURAL INVASION IS PRESENT.
+UROTHELIAL CARCINOMA IN SITU IS PRESENT.
+NON-NEOPLASTIC URINARY BLADDER MUCOSA SHOWS CYSTITIS CYSTICA.
+G. ALL SURGICAL MARGINS ARE FREE OF INVASIVE CARCINOMA. THE URETHRAL MARGIN SHOWS PROSTATIC
+TISSUE 
+WITH HIGH-GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN), BUT WITHOUT EVIDENCE OF
+INVASIVE CARCINOMA
+.
+H. PATHOLOGIC TNM STAGING: pT3a NO Mx.
+1.
+PROSTATE:
+J.
+THE PROSTATE SHOWS FEW FOCI OF HIGH-GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA AND FOCAL
+STROMAL AND GLANDULAR HYPERPLASIA, WITH NO 
+EVIDENCE OF INVASIVE CARCINOMA.
+COMMENT:
+Part 3: Foci of low-grade and foci of high-grade urothelial carcinoma are seen. The foci of high-grade urothelial
+carcinoma show a high nuclear/cytoplasmic ratio and prominent 
+nucleoli and in some areas the cells are fusiform, giving
+an overall sarcomatoid appearance. However, the ASH grading assigned 
+to this lesion is 3 of 4 because the tumor lacks
+the enlarged bizarre nuclel that are the hallmark of a grade 4 lesion.
+An interesting findings the infiltration of the tumor nests by large number of neutrophils; the biological significance of
+such a phenomenon is not known.
+Criteria
+Diagnosis Discrepancy
+Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials.
+CALIFIED
+DISQUALIFIED
+Date Previewed: 71
+4/7/11
+No
+SYNOPTIC-PRIMARY URINARY BLADDER/URETHRA TUMORS
+A. Location of primary tumor: 5
+1. Dome
+2. Anterior wall
+3. Posterior wall
+B. Procedure: 3
+1. Partial cystectomy
+2. Total cystectomy
+4. Right wall
+7. Ureter
+10. No residual tumor
+5. Left wall
+8. Urethra
+6. Trigone
+9. Multicentric
+3. Cystoprostatectomy
+4. Other
+C. Size (if multicentric, maximum dimension of the most deeply invasive or largest tumor): 5.5 cm
+D. Non-
+invasive neoplastic lesions: 4
+1. Papilloma
+.
+2. Inverted papilloma
+3. Papillary TCCa
+4. Flat CIS
+5. Other
+E. Invasive neoplasia: 1
+F.
+1. Urothelial (Transitional cell) carcinoma
+2. Squamous carcinoma
+3. Adenocarcinoma
+4. Sarcomatoid carcinoma
+5. Small cell/neuroendocrine carcinoma
+6. Mixed urothelial carcinoma
+7. Lymphoma/leukemia
+8. Sarcoma
+9. Metastasis/direct extension from a contiguous primary
+10. Other
+Grade: 3 (Ash for TCCa grades 1-4) / 3 (WHO for TCCa grades 1-3)/HG (WHO/ISUP (LMP, LG, HG)
+G. 
+Non-neoplastic and 
+other conditions: 1
+1. Von Brunn's nests, cystitis cystica/glandularis, intestinal metaplasia
+2 Nephrogenic metaplasia/ adenoma
+3. Granulomatous cystitis
+4. Interstitial cystitis
+5. Inflammatory pseudotumors
+6. Carbuncle
+7. Malakoplakia
+8.
+Other
+H. Margins of resection: 2
+Perineural invasion: 2
+1.
+Angiolymphatic invasion: 2
+1. Positive
+1. Yes
+2. Negative
+2. No
+J.
+1. Yes
+2. No
+K. Mitotic activity: 1 per 10 high power fields
+L.
+Flat dysplasia in background: 1
+1. Yes
+2. No
+M. Number of positive lymph nodes: 0
+N. Total number of lymph nodes examined: 13
+O. Extracapsular spread of lymph node metastases: N/A
+P. Prostate/seminal vesicles (If cystoprostatectomy)
+1. Yes
+2. No
+P1. Involved by bladder neoplasm: 2
+1. Yes
+2. No
+P2. Concurrent primary invasive prostatic neoplasm: 2
+P3. High grade PIN: 1
+1. Yes
+2. No
+1. Yes
+2. No
+Q. TNM stage: T 3a
+ΝΩ
+M ✗

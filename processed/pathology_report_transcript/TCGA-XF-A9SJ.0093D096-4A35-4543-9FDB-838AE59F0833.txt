@@ -1,0 +1,389 @@
+Page 1 of 6
+UUID: 0093D096-4A35-4543-9FDB-838AE59F0833
+TCGA-XF-A9SJ-01A-PR
+Redacted
+-
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+FINAL DIAGNOSIS:
+RADICAL CYSTECTOMY WITH BILATERAL PELVIC LYMPH NODE DISSECTION, STUDOR POUCH TO
+URETHRA:
+RIGHT DISTAL URETER (A):
+FROZEN SECTION DIAGNOSIS:
+NO HIGH GRADE ATYPIA OR TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+BENIGN URETER
+NOS
+Carcinome, urothelial Nos
+812013
+Carcinoms, transitional cell NOS
+812013
+ICD.-O.3
+Carcin
+Kath
+Site Bladder NOS
+9133/26/14
+0679
+LEFT DISTAL URETER (B):
+FROZEN SECTION DIAGNOSIS:
+NO HIGH GRADE ATYPIA OR TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+BENIGN URETER
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+RIGHT PERIAORTIC LYMPH NODES (C):
+FROZEN SECTION DIAGNOSIS:
+MALIGNANT
+FINAL DIAGNOSIS:
+-
+METASTATIC CARCINOMA IDENTIFIED IN FOUR OF TEN LYMPH NODES
+EXAMINED (4/10)
+URINARY BLADDER AND PROSTATE (D):
+APICAL URETHRAL MARGIN (DFS):
+FROZEN SECTION DIAGNOSIS:
+NO HIGH GRADE ATYPIA OR TUMOR IDENTIFIED
+FINAL DIAGNOSIS:
+BENIGN URETHRAL AND PERIURETHRAL TISSUE
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+URINARY BLADDER:
+-
+DIVERTICULUM EXHIBITING IN SITU (FLAT LESION) AND INVASIVE POORLY
+DIFFERENTIATED TRANSITIONAL CELL CARCINOMA (3.5 X 3.0 X 1.1 CM), GRADES 3 &
+4/4, EXTENDING THROUGH BLADDER DIVERTICULUM WALL INTO PERIVESICAL SOFT
+TISSUE AND APPROACHING WITHOUT INVOLVING RIGHT URETER
+NO DEFINITIVE LYMPHOVASCULAR SPACE INVASION IDENTIFIED
+RESECTION MARGINS AND PERITONEAL SURFACE, FREE OF UROTHELIAL DYSPLASIA
+AND MALIGNANCY
+RANDOM BLADDER MUCOSA, INCLUDING TRIGONE AND BLADDER NECK, SHOWING
+CHRONIC CYSTITIS WITHOUT EVIDENCE OF UROTHELIAL DYSPLASIA OR MALIGNANCY
+NO MALIGNANCY IDENTIFIED IN THREE PERIVESICAL LYMPH NODES EXAMINED (0/0
+RIGHT, 0/3 LEFT, 0/3 TOTAL)
+PROSTATE:
+-
+-
+-
+UNILATERAL PROSTATIC ADENOCARCINOMA, GLEASON' S SCORE 6 (3+3), FOCALLY
+EXTENDING INTO BUT NOT THROUGH CAPSULE AND NOT INVOLVING PERIPROSTATIC
+SOFT TISSUE
+APICAL, BLADDER NECK AND INKED RADIAL MARGINS, FREE OF TUMOR
+BILATERAL SEMINAL VESICLES, FREE OF TUMOR
+UNINVOLVED PROSTATIC PARENCHYMA SHOWING ACUTE AND CHRONIC
+INFLAMMATION, FIBROMUSCULAR ADENOMATOUS HYPERPLASIA AND HIGH GRADE
+PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN II AND III)
+PROSTATIC URETHRA, FREE OF UROTHELIAL DYSPLASIA AND MALIGNANCY
+LEFT PERIAORTIC LYMPH NODES (E):
+NO METASTATIC CARCINOMA IDENTIFIED IN FOUR LYMPH NODES EXAMINED (0/4)
+RIGHT COMMON ILIAC LYMPH NODES (F):
+METASTATIC CARCINOMA IDENTIFIED IN FOUR OF TEN LYMPH NODES EXAMINED
+(4/10)
+PRESACRAL LYMPH NODES (G):
+METASTATIC CARCINOMA IDENTIFIED IN NINE OF ELEVEN LYMPH NODES
+EXAMINED, WITH EXTRANODAL EXTENSION (9/11)
+RIGHT EXTERNAL ILIAC LYMPH NODES (H):
+NO METASTATIC CARCINOMA IDENTIFIED IN SIX LYMPH NODES EXAMINED (0/6)
+RIGHT OBTURATOR / HYPOGASTRIC LYMPH NODES (I):
+METASTATIC CARCINOMA IDENTIFIED IN THREE OF 11 LYMPH NODES EXAMINED,
+WITH EXTRANODAL EXTENSION (3/11)
+LEFT EXTERNAL ILIAC LYMPH NODES (J):
+NO METASTATIC CARCINOMA IDENTIFIED IN THREE LYMPH NODES EXAMINED (0/3)
+LEFT COMMON ILIAC LYMPH NODES (K):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN SIX LYMPH NODES EXAMINED (0/6)
+LEFT OBTURATOR / HYPOGASTRIC LYMPH NODES (L):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN NINE LYMPH NODES EXAMINED (0/9)
+LEFT PRESCIATIC LYMPH NODES (M):
+-
+NO METASTATIC CARCINOMA IDENTIFIED IN THREE LYMPH NODES EXAMINED (0/3)
+RIGHT PESCIATIC LYMPH NODE (N):
+METASTATIC CARCINOMA IDENTIFIED IN ONE LYMPH NODE EXAMINED (1/1)
+LEFT PROXIMAL URETER (O):
+BENIGN URETER
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+RIGHT PROXIMAL URETER (P):
+BENIGN URETER
+NO UROTHELIAL DYSPLASIA OR MALIGNANCY IDENTIFIED
+PT2aNOMX
+PATHOLOGIC TNM STAGE:
+URINARY BLADDER: pTis, T3bN2MX
+PROSTATE :
+INTRAOPERATIVE DIAGNOSIS:
+FROZEN SECTION DIAGNOSIS:
+AFS:
+BFS:
+Right distal ureter:
+no high grade atypia or tumor identified
+Left distal ureter:
+CFS:
+DFS:
+-
+no high grade atypia or tumor identified
+Right periaortic lymph nodes:
+-
+malignant
+Urinary bladder and prostate, apical urethral margin:
+no high grade atypia or tumor identified
+Page 2 of 6
+Temporary Copy
+Page 3 of 6
+GROSS DESCRIPTION:
+A:
+The specimen is received fresh from the O.R. and labeled "Right distal ureter."
+It consists of a segment of ureter measuring 0.3 cm in length and 0.3 cm in
+diameter with adjacent fat. The specimen is entirely submitted for frozen section
+in cassette AFS.
+B: The specimen is received fresh from the O.R. and labeled "Left distal ureter."
+It consists of a segment of ureter measuing 0.5 cm in length and 0.3 cm in
+diameter. The specimen is submitted with adjacent fatty tissue. The specimen is
+entirely submitted for frozen section in cassette BFS.
+C: The specimen is received fresh from the O.R. and labeled "Right peri aortic
+lymph nodes." It consists of a segment of fatty tissue containing lymph nodes
+measuring 4.5 x 3.5 x 1.5 cm. The largest node measures 1 cm in greatest
+dimension. The largest node is submitted for frozen section in cassette CFS.
+remaining tissue is entirely submitted in two cassettes.
+The
+D: The specimen is received fresh from the O.R. and labeled "Urinary bladder &
+prostate." It consists of bladder with bilateral ureters, prostate and peritoneum
+measuring overall 24 x 17 x 4.5 cm. The peritoneum measures 21 x 15 x 0.1 cm, and
+there are adhesions located on its lower aspect. The margins are inked. The
+apical margin is removed and submitted for frozen section diagnosis. The bladder
+and the prostate are opened anteriorly. The bladder measures 9.5 x 8 x 3.5 cm.
+Opening reveals a large diverticulum 5 x 5 x 5 cm located on the right lateral
+bladder wall 2 cm above the ureterovesical junction. The mouth of the diverticulum
+measures 2 cm in diameter. The diverticulum is opened and reveals a gray-white,
+firm tumor located on the base of the diverticulum. The surface of the tumor, 3.5
+x 3.0 cm. The tumor invades through the full thickness of the muscularis propria
+of the thin diverticulum wall, and involves the surrounding soft tissue to a depth
+of 1.1 cm. The tumor comes within 2 mm of the inked radial margin. There is a 1
+cm scarred area of mucosa located between the mouth of the diverticulum and the
+right ureterovesical junction. The remaining bladder mucosa is intact with a
+trabecular appearance. The bilateral ureters are opened. Opening reveals a smooth
+and unremarkable mucosa. The right ureter measures 7 cm in length and 1.4 cm in
+circumference, and the left ureter measures 7 cm in length and 0.9 cm in
+circumference. The right ureter is adherent to tumor but the mucosa is uninvolved
+by tumor grossly. The uninvolved bladder wall measures 0.8 cm in thickness. The
+prostate measures 5.5 x 4 x 4 cm. The prostatic urethra measures 3 cm in length
+and 3 cm in circumference. The prostatic urethra is excavated proximally. The
+verumontanum measures 1.3 x 0.3 × 0.3 cm. The prostate is serially sectioned.
+Sectioning reveals a well-circumscribed, white-tan nodule located on the apical
+portion of the prostate measuring 0.5 cm in greatest dimension.
+The remaining
+prostatic parenchyma is tan, smooth and unremarkable. Representative sections are
+submitted in 33 cassettes.
+E: The specimen is received in formalin and labeled "Left peri aortic lymph
+nodes." It consists of a piece of yellow fatty tissue measuring 3 x 2 x 1 cm.
+specimen is entirely submitted in one cassette.
+F: The specimen is received in formalin and labeled "Right common iliac lymph
+nodes." It consists of a piece of yellow-tan fatty tissue measuring 6 x 3 x 2.5
+There is a large lymph node identified measuring 3 cm in maximum dimension.
+The specimen is entirely submitted in five cassettes.
+cm.
+G:
+The
+It
+There are
+The specimen is received in formalin and labeled "Presacral lymph nodes."
+consists of a piece of yellow-tan fatty tissue measuring 7 x 6 x 3 cm.
+multiple lymph nodes identified. Representative sections are submitted in five
+cassettes.
+Page 4 of 6
+H:
+The
+specimen is received in formalin and labeled "Right external iliac lymph
+It consists of a piece of yellow-tan fatty tissue measuring 3.5 × 2 × 1
+The specimen is entirely submitted in one cassette.
+nodes."
+cm.
+I: The specimen is received in formalin and labeled "Right obturator / hypogastric
+lymph nodes."
+It consists of a piece of yellow tan fatty tissue measuring 8 x 6 x
+3 cm. There are multiple large lymph nodes identified. The largest node measures
+3 cm in maximum dimension. Representative sections are submitted in eight
+cassettes.
+J: The specimen is received in formalin and labeled "Left external iliac lymph
+nodes. " It consists of two pieces of yellow fatty tissue measuring 4 x 3 x 1 cm in
+aggregate. There is a large lymph node identified measuring 2 cm in maximum
+dimension. The specimen is entirely submitted in two cassettes.
+K: The specimen is received in formalin and labeled "Left common iliac lymph
+nodes. "
+It consists of yellow fatty tissue measuring 3 x 2 x 1 cm. There are
+multiple lymph nodes identified. Representative sections are submitted in two
+cassettes.
+L: The specimen is received in formalin and labeled "Left obturator / hypogastric
+lymph nodes." It consists of a piece of yellow fatty tissue measuring 7 x 6 x 2.5
+ст. There are multiple lymph nodes identified. The largest one measures 3 cm in
+maximum dimension. Representative sections are submitted in four cassettes.
+M: The specimen is received in formalin and labeled "Left presciatic lymph nodes."
+It consists of multiple pieces of yellow fatty tissue measuring 2.5 x 2 x 1 cm in
+aggregate. The specimen is entirely submitted in one cassette.
+N: The specimen is received in formalin and labeled "Right presciatic lymph
+nodes." It consists of multiple pieces of yellow-tan fatty tissue measuring 3 x 2
+x 1 cm in aggregate. The sepcimen is entirely submitted in one cassette.
+0: The specimen is received in formalin and labeled "Left proximal ureter." It
+consists of a segment of ureter measuring 0.6 cm in length and 0.4 cm in diameter.
+The specimen is serially sectioned and entirely submitted in one cassette.
+P: The specimen is received in formalin and labeled "Right proximal ureter." It
+consists of a segment of ureter with surrounding fatty tissue measuring 1 cm in
+length and 0.5 cm in diameter. The specimen is serially sectioned. Representative
+sections are submitted in one cassette.
+frozen section, right distal ureter
+frozen section, left distal ureter
+frozen section, right periaortic lymph nodes
+remaining tissue
+SECTIONS:
+AFS:
+BFS:
+CFS:
+C1,2:
+DFS:
+D1:
+D2:
+D3,4:
+D5:
+tumor
+D6,7:
+D8:
+D9:
+D10:
+D11:
+D12:
+D13:
+D14:
+apical urethral margin
+anterior bladder mucosa
+tumor relationship with ureter
+tumor with closest deep margin
+tumor with adjacent bladder mucosa
+diverticulum wall
+right ureterovesical junction
+dome
+posterior bladder mucosa
+left lateral bladder mucosa
+left ureter vesicle junction
+trigone
+Page 5 of 6
+D15:
+junction
+D16:
+D17:
+D18:
+D19:
+D20:
+D21:
+D22:
+D23:
+D24:
+D25:
+D26:
+D27:
+D28:
+D29;
+D30:
+D31:
+D32:
+D33:
+E:
+F1:
+F2-5:
+G1-5:
+H:
+Il:
+12-5:
+16-8:
+J1:
+J2:
+K1,2:
+L1,2:
+L3:
+L4:
+M:
+N:
+0:
+P:
+RGGGZzZOA
+scarring bladder mucosa between diverticulum and right ureterovesical
+right perivesical fat with possible lymph nodes
+left perivesical fat with possible lymph nodes
+right seminal vesical
+left seminal vesicle
+right anterior distal prostate
+right posterior distal prostate
+left anterior distal prostate
+left posterior distal prostate
+right posterior midprostate
+left posterior midprostate
+right anterior 2nd mid prostate
+right posterior 2nd midprostate
+right anterior 2nd midprostate
+left posterior 2nd midprostate
+right anterior proximal prostate
+right posterior proximal prostate
+left anterior proximal prostate
+left posterior proximal prostate
+left periaortic lymph nodes all embedded
+right common iliac lymph nodes; largest lymph node bisected
+multiple lymph nodes
+presacral lymph nodes representative sections
+right external iliac lymph nodes all embedded
+right obturator/hypogastric lymph nodes; portion of largest lymph node
+one lymph node, serially sectioned each
+multiple lymph nodes
+left external iliac lymph nodes; largest lymph node
+possible lymph node
+left common iliac lymph nodes representative sections
+left obturator/hypogastric lymph nodes; multiple lymph nodes
+one lymph node
+serially sectioned
+portion of largest lymph node
+left presciatic lymph nodes all embedded
+right presciatic lymph nodes all embedded
+left proximal ureter all embedded
+right proximal ureter
+representative sections
+MICROSCOPIC DESCRIPTION:
+A-C:
+D:
+See final microscopic-diagnosis.
+Sections of the bladder show an invasive poorly differentiated transitional
+cell carcinoma, grades 3 & 4/4 (D2-7). A focus of in situ carcinoma is seen
+adjacent to the invasive tumor (D7). The invasive tumor is characterized by cords,
+nests and solid sheets of poorly differentiated transitional cells. The tumor
+extends through the bladder wall into the surrounding perivesical fat. The tumor
+is adjacent to but does not invade the right ureter (D2). Tumor is present 1 mm
+from the closest inked radial margin (D4) on the right lateral side.
+Lymphovascular space invasion is seen (D5). Random sections of the bladder outside
+the diverticulum show no evidence of urothelial dysplasia or neoplasia but do
+demonstrate the presence of chronic cystitis. Previous biopsy sites are seen in
+sections taken from between the right ureterovesical junction and diverticulum.
+Sections of the prostate show unilateral (left) prostatic adenocarcinoma
+(D23,29), Gleason's score 6 (3+3). The tumor is characterized by variably sized
+glandular structures that infiltrate the stroma. The tumor is confined to the
+prostate with focal involvement of the capsule, without penetration into
+periprostatic soft tissue. All margins as well as bilateral seminal vesicles are
+free of tumor. The prostatic urethra is free of urothelial dysplasia and
+malignancy.
+E-P: See final microscopic-diagnosis.
+Signed by:
+ELECTRONIC SIGNATURE
+POST-OPERATIVE DIAGNOSIS:
+Same
+PRE-OPERATIVE DIAGNOSIS:
+Muscle invasive bladder cancer,
+ORDERING PHSYCIAN:
+Ordering Physician:
+Page 6 of 6
+Criteria
+نسل
+tw 1/11/14
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Prostates,
+Dual/Synchronous Primary Noted)
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+DISQUALIFIED
+No
+3/2014

@@ -1,0 +1,140 @@
+UUID:B30BOCE0-2C49-4970-A67A-1F777A4E00BB
+TCGA-YF-AA3L-01A-PR
+Redacted
+SPECIMEN
+A. Ureter
+B. Ureter
+C. BLADDER
+D. Appendix
+E. Lymph Node
+F. Lymph Node
+SURGICAL PATHOLOGY REPORT
+Spec #:
+Taken:
+Received:
+Reported:
+G. Lymph Node
+CLINICAL INFORMATION
+Cinical History: Bladder CA who presented with hematuria
+Pre-Operative Clinical Diagnoses Bladder cancer
+Post-Operative Clinical Diagnosis: Stander cancer
+CESIT
+100.0.3
+Carcinoma, urothelial NOS 512013
+Site ladder, lateral woull C67.2
+party Bladder NOS 0679
+o 0/30/14
+INTRAOPERATIVE CONSULTATION DX
+A. Ureter, right, margin biopsy:
+Negative for malignancy
+8. Ureter, loft, margin biopsy;
+•
+Negative for malignancy
+Pathologist:
+FINAL PATHOLOGIC DIAGNOSIS
+A. Ureter, right, margin biopsy:
+-
+Negative for malignancy
+3. Ureter, left, margin, biopsy:
++
+Negative for malignancy
+C. Bladder, uterus, ovary, fallopian tube, radical cystohysterectomy, bilateral salpingo-Oophorectomy:
+-
+Infiltrating urothelial carcinoma, high`grade
+The tumor measures 5 cm in greatest dimension
+The tumor invades muscularis propria (detrusor muscle)
+Margins are free of tumor
+Positive for lymphovascular invasion
+Other findings:
+. Chronic cervicitis
+.
+Proliferative endometrium, partially autolyzed
+•
+Leiomyoma
+SURGICAL PATHOLOGY REPORT
+•
+Fallopian tubes: Unremarkable
+•
+Ovaries with corpora albicantia
+pT2bNo Stage II
+D. Vermiform appendix, appendectomy:
+-
+Vermiform appendix, unremarkable
+- Negative for malignancy
+E. Lymph node, pelvic, right, resection;
+Two lymph nodes negative for metastasis
+F. Lymph node, pelvic, left, resection:
+Six lymph nodes negative for metastasis
+G. Labeled as "Urethra, bladder" partial resection
+Fragment of fibroconective tissue with squamous epithelium and embryonic remnants.
+GROSS DESCRIPTION
+A. Received fresh, labeled
+and right ureter (suture distal side attached to the bladder)”, is a
+segment of ureter that measures 0.4x0.3 cm. The entire speciman is frozen for intraoperative consulation in one
+tissue block. (ST1)
+B. Received fresh, labeled
+and left ureter (suture distal side attached to the bladder)" is a
+segment of ureter that measures 0.4 cm in length by 0.4 cm. The entire specimen is frozen for intraoperative
+consultation in one tissue block. (ST1)
+C. Received in formalin, fabeled
+bladder" is a radical cystohysterectomy specimen
+containing bladder (11 x 8 x 5 cm), uterus (10 x 6 x 4 cm), and night ureter (7 cm in fengin cy 0.5 cm in diameter) and
+Seft ureter (8 cm in length by 0.5 cm in diameter). There is a soft, tan-pink papillary tumor (5 x 4.5 x 2.5 cm) located at
+the right lateral 
+and posterior wall. The tumor extends 1 cm from the deep margin. The remainder of the bladder
+mucosa is adematous and congested. The right and left ureters are unremarkable. There is an ulcerated
+hemonhagia mucossares in the left lateral wall of the bladder that measures 3 x 2 cm. The uterus has both adnexa
+attached. The uterus weighs 200 g and measures 10 x 6.3 x 6 cm of which the lower 4 x 4 x 3.5 cm corresponds to
+the carver. 
+The serosa is pale-brown and smooth without fibrous adhesions. The external os is sit-ike measuring 1.5
+cm in length. The squamocolumnar junction is easily identified. The exocervix is covered by smooth glistening white
+mucosa. The endocervical 
+canal is longitudinally trabeculated. The endometrial cavity is triangular measuring 2 cm
+comu 10 comu by 
+4 cm in length. The endometrium is pinit-tan measuring up to 0.3 cm in thickness. The myometrium
+at the level of the fundus 
+measures 1.5 cm. The myometrium presents a subserosal myoma that measures 1.5 cm in
+greatest diameter that has a white tan whorled appearance without hemorrhage or necrosis.
+The right fallopian tube (7 x 0.7 cm) is fimbriated and unremarkable. The left fallopian tube (5 x 1 cm in diameter) is
+unremarkable. 
+The right ovary (2x1 x 0.5 cm) and left ovary (3 x 1.5 x 1 cm) are cerebriform and presents cysts
+measuring from 
+0.3 to 0.5 cm.
+1-3: deepest invasion, 4-6: representative section of tumor, 7: right lateral wall,
+3: lost lateral wall, St posterior wax, Tu-12: fatty tissue, 13: anterior cervix, 14: posterior corvix, 15: anterior
+andometrium and myometrium, 16: posterior endometrium and myometrium, 17: myoma, 18: night ovary and fallopian
+tube, 19: le ovary and fallopian tube
+D. Received in formalin, labeled
+and appendix is a vermiform appendix measuring 6 cm in
+Song by 0.7 cm in diameter. The serosal surface is smooth and glistening. On section, the wait is tan and measures
+0.2 cm in thickness. The mucosa is 
+tan and appears intact. (RS1)
+E. Received in formalin, labeled
+and right pelvic nodule", is an irregular fragment of
+broadipose tissue that measures 3.5 x 1 x 0.5 cm. There are two lymph nodes that measures from 0 5 x 1 cm.
+(RS1
+)
+F Received in formalin, labeled
+and left paivic nodule", are three regular fragments of
+broadipose tissue that measure in aggregate 2.5 x 2 x 0.7 cm. There are six lymph nodes that measures from 0.5 to
+1 cm.
+G. Received in formalin, labeled
+and left nodule, urethra with bladder", is a portion of
+bladder and urethra that measures 7x4x2 cm. The mucosa is edematous to lesions identified (A$1)
+Dictated by:
+Criteria
+Diagnosis Discrepancy
+سا
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Nated
+Case is (circle):
+Reviewer Initials
+1/8/14
+Yes
+No
+4
+QUALIFIED
+DISQUALIFIED
+Date Reviewed: 12/15/13

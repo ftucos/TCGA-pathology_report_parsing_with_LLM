@@ -1,0 +1,209 @@
+UUID:976FBDBF-55C5-4957-986B-D2DE85FF7540
+TCGA-BL-A131-01A-PR
+SPECIMEN
+A. Right ureter
+Redacted
+Bladder, uterus, bilateral tubes and ovaries.
+B.
+Left ureter
+C.
+Urethral margin
+D.
+E.
+F.
+G.
+Appendix
+Left pelvic node
+Right pelvic node
+CLINICAL NOTES
+CLINICAL HISTORY: Bladder cancer.
+FROZEN SECTION DIAGNOSIS
+A. Right ureter, margin: Negative for malignancy.
+B. Left ureter, margin: Negative for malignancy.
+C) Urethral margin, biopsy: Negative for malignancy.
+✓ ✓
+ICD-0-3
+Urothelial Carcinoma Nos 8120/
+bw
+11/14/10
+Site: bladder, NOS C67.9
+GROSS DESCRIPTION
+-
+A. The specimen is received fresh for frozen section
+labeled "A right ureter" and consists of a 0.4 cm in
+diameter, 0.3 cm in length, piece of tubular tan tissue with a
+pinpoint lumen. The specimen is entirely frozen as frozen section.
+AFS-1.
+tissue
+-
+B. Received fresh for frozen section labeled "B left
+ureter" is a 0.3 x 0.3 × 0.2 cm piece of tubular tan
+with a pinpoint lumen. The specimen is entirely frozen as frozen
+section
+C. The specimen is received unfixed labeled "urethral
+margin" and consists of a piece of pink soft tissue
+measuring 1.2 x 1 x 0.2 cm. The specimen is dissected and
+submitted
+for frozen section diagnosis.
+D. The specimen is received unfixed labeled "bladder,
+uterus, bilateral tubes and ovaries" and consists of a
+GROSS DESCRIPTION
+urinary bladder with attached uterus and bilateral adnexa. The
+uterus measures 7 x 4 x 2 cm. The right ovary is tan-white and
+measures 4.2 x 1 x 0.2 cm. Right uterine tube is pink and measures
+7 cm.
+on
+in length and 0.3 cm. in diameter. The left ovary is tan-white
+and measures 3.5 x 1 x 0.4 cm. The left uterine tube is purple to
+The
+pink and measures 8 cm. in length and 0.3 cm. in diameter.
+ectocervix is white and measures 2.7 x 3 cm. The external os
+measures 0.2 x <0.1 cm. There is an adjacent cuff of vaginal tissue
+measuring 6 x 3.5 cm. The urethra is identified and is inked.
+bladder is opened without inflation for tissue procurement.
+is a red tumor measuring approximately 2 x 1.2 x 2 cm.
+in the superior posterior right side of the specimen.
+stenosis of the internal os. The uterine cavity is not well seen
+The
+There
+The tumor is
+There is
+initial sectioning. There is a polyp in the high endocervical
+canal
+measuring 1 cm. × 0.5 × 0.3 cm. Sections after fixation.
+Block summary: D1 left ovary; D2 left uterine tube; D3 right ovary;
+D4 right uterine tube; D5, D6 vaginal cuff; D7, D8 uterine cervix;
+D9, D10 endocervical polyp; D11, D12 endomyometrium; D13-D16
+bladder
+D19
+tumor; D17 right trigone; D. 18 right bladder wall up to tumor;
+left trigone; D20 left bladder wall; D 21 dome of bladder; D22
+right
+fat
+side of bladder; D23 left side of bladder; D 24-D26. Perivesicle
+measuring
+E. Received unfixed labeled "left pelvic nodes" and
+consists of multiple pieces of yellow soft tissue
+4.5 x 4.5 x 1.5 cm. Sections after fixation.
+F.
+Received unfixed labeled "right pelvic node" and
+consists of white pelvic nodes and consists of multiple
+pieces of yellow and red soft tissue measuring 3 x 2.5 x 1.4 cm.
+Sections after fixation.
+Received in formalin labeled "appendix" and consists
+G.
+of
+a thin white vermiform appendix measuring 5.2 cm.
+in
+length
+GROSS DESCRIPTION
+and 0.3 cm. in diameter.
+measuring 2 x 4.5 x 1 cm.
+There is an attached mesoappendix
+No serosal exudate is seen.
+)
+MICROSCOPIC DESCRIPTION
+A. Sections of the right ureter negative for malignancy
+B. Sections of the left ureter negative for malignancy
+C. Sections of the urethral margin are negative for malignancy
+D.
+-
+The patient's tumor is unusually high grade. Since the surrounding
+bladder is relatively normal appearing, the possibility of a
+metastasis was considered including metastatic melanoma.
+Immunostains show no keratin staining. There is weak MART-1
+staining of uncertain significance, but HMB-45 is negative.
+is equivocal with possible focal tumor cell staining. The
+immunostain results are equivocal; in the absence of any history of
+another tumor, the tumor probably represents a high grade
+urothelial
+cell carcinoma.
+Tumor grade: 4 (out of 4), WHO grade: High grade
+Tumor size: 2 cm
+S-100
+Mitotic rate: 30 mitoses/10 HPFs (1 HPF = 0.196 sq mm)
+Multicentricity: Absent
+Depth of invasion: Carcinoma invades through the
+muscularis propria into perivesical soft tissue
+Vascular invasion: Absent
+Perineural invasion:
+Ureteral margins: Negative for malignancy
+Urethral margin:
+Absent
+Negative for malignancy
+Unremarkable
+Adjacent bladder mucosa:
+pTNM Stage:
+T3 NO
+MICROSCOPIC DESCRIPTION
+Sections of the uterus show benign endocervical polyp and other
+otherwise unremarkable. Sections of the ovaries and uterine tubes
+are unremarkable. The vaginal cuff is unremarkable.
+Antibody
+Results
+AE1-AE3
+CK7
+Negative
+Negative
+CK20
+Negative
+EMA
+MART1
+HMB-45
+S-100
+Comment
+Negative
+Weakly positive
+Negative
+Equivocal
+Paraffin sections; 10% neutral buffered formalin
+.riteria
+Jagnosis Discrepancy
+as
+[A few of the antibodies used in our laboratory may be classified
+analyte specific reagents. These antibodies are monitored and
+controlled in our laboratory and their performance for in vitro
+diagnosis is well described in the medical literature.
+not been cleared or approved by the FDA.]
+They have
+D. There is no evidence of malignancy in any of 7 lymph nodes
+F. There is no evidence of malignancy in any of 5 lymph nodes
+G. Sections of appendix show fibrous obliteration of the
+appendiceal
+lumen.
+3x3, 2, 5, 4x2, 20x7
+DIAGNOSIS
+A. Ureter, right, biopsy: Negative for malignancy
+B. Ureter, left, biopsy: Negative for malignancy
+C. Urethral margin, biopsy: Negative for malignancy
+D. Bladder, uterus and bilateral adnexa, resection:
+Urinary bladder: Poorly differentiated malignant tumor
+micro)
+Uterine cervix: Benign endocervical polyp
+Endometrium: Inactive-type endometrium
+Myometrium: No pathological diagnosis
+Ovaries, left and right: No pathological diagnosis
+Uterine tubes, left and right: No pathological diagnosis
+E. Lymph nodes, left pelvic biopsy:
+(see
+States
+wrothelial
+сей
+There is no evidence of malignancy in any of 7 lymph nodes
+F. Lymph nodes, right pelvic, biopsy:
+There is no evidence of malignancy in any of 5 lymph nodes.
+G. Vermiform appendix, resection: Negative for malignancy.
+rinary Turnor Site Disepancy
+IPAA Discrepancy
+rior Mialignancy History
+ual/Synchronous Primoted
+ase is (circle):
+teviewer Initials
+QUALIFIED
+Date Reviewed:
+Yes
+No
+QUALIFIED
+---
+(Electronic Signature)
+End Of Report

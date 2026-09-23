@@ -1,0 +1,248 @@
+Results Viewer -
+Redacted
+UUID:57551F09-2ACE-481D-99A0-53A0E7814F70
+TCGA-K4-A3WU-01A-PR
+Name
+Encounter Number
+COPY ONLY DO NOT FILE
+☑
+Time Collected
+Time Reported
+Ordering Provider
+Status
+Results
+Source of Specimen
+SURGICAL PATHOLOGY
+Time Received
+Order Number
+Page 1 of 5
+Final
+A. RIGHT DISTAL URETER
+FS (MARGIN INKED) -
+B. LEFT DISTAL URETER FS (MARGIN INKED)-
+C. BLADDER, PROSTATE, AND SEMINAL VESICLES (SEE PATH SHEET) -
+D. RIGHT PELVIC LYMPH NODES-
+E. LEFT PELVIC LYMPH NODES-
+ICD-0-3
+carcinoma urothelial, Nos
+812013
+Site: bladder, NOS
+5.11.12
+C67.9
+Ro
+FINAL DIAGNOSIS:
+A. RIGHT DISTAL URETER FS (MARGIN INKED) -
+NO CARCINOMA SEEN.
+1. DEFT DISTAL URETER - FS (MARGIN INKED) -
+NO CARCINOMA SEEN.
+C. BLADDER, PROSTATE, AND SEMINAL VESICLES (SEE PATH SHEET) -
+INVASIVE CARCINOMA, HIGH GRADE.
+TOMOR SITE: RIGHT BASE, URINARY BLADDER.
+HISTOLOGIC TYPE: UROTHELIAL.
+SQUAMOUS DIFFERENTIATION:
+NOT PRESENT.
+GLANDULAR DIFFERENTIATION:
+NOT PRESENT.
+TUMOR SIZE: 2. M.
+HISTOLOGIC GRADE: 3/3.
+PETRAVES CULAR MASS: MICROSCOPICALLY PRESENT.
+Prepared for (
+Criteria
+Diagnosis Discrepancy
+Yes
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Prime Noted
+Case is (circle):
+Reviewer Initials
+Prostate
+QUALIFIED
+Date Reviewed
+5/9/12
+DISQUALIFIED
+No
+Results Viewer -
+DIRECT INVASION OF PROSTATIC STROMA:
+PRESENT.
+INVASION OF SEMINAL VESICLE: NOT PRESENT.
+INVASION OF PELVIC OR ABDOMINAL WALL: NOT PRESENT.
+SPECIMEN TYPE: RADICAL CYSTOPROSTATECTOMY
+TNM STAGE: pT4a, pNO, pMX.
+LYMPH NODE (S) INCLUDED IN ALL PARTS:
+NUMBER INVOLVED: 0
+NUMBER EXAMINED: 5
+LYMPHATIC (SMALL VESSEL)
+INVASION:
+SEEN.
+UROTHELIAL CARCINOMA IN SITU
+ASSOCIATED EPITHELIAL LESIONS:
+IDENTIFIED.
+NO TUMOR SEEN AT MARGINS.
+ADENOCARCINOMA OF PROSTATE. NO EXTRAPROSTATIC EXTENSION SEEN.
+TUMOR SITE: POSTERIOR, MOSTLY IN PERIPHERAL ZONE.
+SPECIMEN TYPE: RADICAL CYSTOPROSTATECTOMY.
+SIZE: 4 x 6 x 4 CM.
+GLEASON SCORE (PRIMARY + SECONDARY PATTERN): 33 6/10.
+SEVERITY IN EXTENT OF TUMOR:
+1 /5.
+DOMINANT NODULE (AT LEAST 1 CM IN SIZE):
+NOT PRESENT.
+TREATMENT EFFECT ON CARCINOMA: NOT IDENTIFIED.
+TNM STAGE: pT2a, pN0, pMX.
+LYMPHATIC (SMALL VESSEL)
+INVASION:
+NOT SEEN.
+PERINEURAL INVASION: NOT PRESENT.
+NO TUMOR SEEN IN SEMINAL VESICLES.
+NO TUMOR SEEN AT SPECIMEN MARGINS.
+D. RIGHT PELVIC LYMPH NODES-
+NO CARCINOMA SEEN IN FIVE LYMPH NODES (0/5).
+E. LEFT PELVIC LYMPH NODES-
+Prepared fo:
+Page 2 of 5
+Results Viewer -
+MATURE ADIPOSE TISSUE WITH RARE LYMPHOID AGGREGATES.
+WELL-DEFINED LYMPH NODES SEEN.
+Signed Others
+Frozen
+Section
+A. RIGHT DISTAL URETER MARGIN: NO TUMOR SEEN.
+LEFT DISTAL URETER MARGIN: NO TUMOR SEEN.
+Case Clinical Intormation
+BLADDER CANCER
+NO
+Gross Description
+A. Received in formalin labeled with the patient's name and
+"right distal ureter" are two fatty tissues measuring 4 and 9 mun
+in greatest dimensions. The specimen is totally submitted in
+AL.
+B. Received in formalin labeled with the patient's name and
+"Jeft distal ureter" are two fibrofatty tissues measuring 12 and
+11 mm in 
+greatest dimensions, respectively. The specimen is
+totally submitted in B1.
+The
+C. Received in formalin labeled with the patient's name and
+"bladder, prostate, and seminal vesicles" is a specimen so
+designated. The specimen overall measures 14 cm superior to
+inferior. 
+The included prostate measures 4 cm superior to
+interior, 6 cm right to left, 4 cm anterior to posterior.
+bladder cavity appears somewhat contracted, measuring 2.5 cm
+superior to inferior, 2 cm right to left, 2 cm anterior to
+nosterior. The bladder mucosa appears edematous and congested.
+Then is an apparent area of induration and ulceration measuring
+1. miline posterior bladder base. The right and left vas
+deferens track along the posterior bladder wall 4.5 cm on the
+right, 5 can the left. The right side of the specimen
+previously has been inked blue and the left side black. The
+specumer reveals numerous staple lines. The left and right
+dentified with the left ureter deeply retracted,
+arerers
+Prepared.
+Page 3 of 5
+Results Viewer -
+the right ureter more superficially so and with apparent
+induration surrounding the right ureteral stub.
+The right
+The left measures 4 x
+Tissue surrounding the
+seminal vesicle measures 4 x 1.5 x 1 cm.
+1.5 x 1.5 cm in greatest dimensions.
+inferior prostate/urethral junction is somewhat disrupted.
+Section code: Cl-shaved left was resection margin and deeply
+retracted left ureter; C2=shaved right was margins mi
+right ureter; C3-left seminal vesicle; C4=right seminal vesicle;
+Cb shaved distal prostate surgical margin; C6-C8-posterior mid
+prostate sampled; C9-C13-posterior superior prostate sample;
+C14-019-left lateral bladder base extensively sampled proceeding
+inferior to superior; C20-C25=right lateral bladder base
+extensively sampled proceeding inferior to superior.
+D. Received in formalin labeled with the patient's name and
+"right pelvic lymph nodes" is irregular fragment of fibroadipose
+There is a dominant area of
+tissue measuring 3.5 x 1.5 x 1 cm.
+Bisected
+induration, which may represent a fatty lymph node.
+and submitted totally in D1-D2, additional subtle areas of
+induration in D3.
+E. Received in formalin labeled with the patient's name and
+"left pelvic lymph nodes" is an irregular fragment of
+cm. A lymph node is
+fibroadipose tissue measuring 3 x 1.5 × 1
+The entire specimen is submitted in
+not appreciated definitely.
+El-E3.
+Procedure
+A. AA ROUTINE H&E X1 BLOCK
+H&E X1
+B. AA ROUTINE H&E X1 BLOCK
+H&E Xi
+C. AA ROUTINE H&E X1 BLOCK. 1
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK.2
+I&E X1
+C. AA ROUTINE [SE X1 BLOCK.3
+H&E X1
+C. AA ROUTINE HSE X1 BLOCK. 4
+H&E XT
+C. AA ROUTINE H&E X1 BLOCK.5
+H&E X1 A RECUTS
+C. AA 20UTINE H&E X1 BLOCK.6
+H&E XL
+C. AA ROUTINE H&E X1 BLOCK.7
+H&E X1
+C. AA ROUTINE H&E XI BLOCK.8
+H&E X1
+Prepared for
+Page 4 of 5
+Results Viewer -
+4. AA ROUTINE H&E X1 BLOCK.9
+H&E KI
+2. AA ROUTINE MAE XI BLOCK. 10
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK.11
+H&E X1
+C. AA ROUTINE B&E X1 BLOCK.12
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK.13
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK.11
+H&E X1
+C. AA ROUTINE H&E X1 BLOCK.15
+I&E X1
+C. AA ROUTINE H&E X1 BLOCK.16
+H&E XI
+C. AA ROUTINE H&E X1 BLOCK.17
+HVE X1
+C. AA ROUTINE H&E X1 BLOCK.18
+H&E XI
+C. AA ROUTINE H&E X1 BLOCK.19
+HISE XL
+C. AA ROUTINE H&E X1 BLOCK.20
+H&E X1
+C. AA ROUTINE H&E XI BLOCK.21
+H&E XI
+3. AA ROUTINE H&E X1 BLOCK.22
+H&E XI
+C. AA ROUTINE H&E X1 BLOCK.23
+H&E XI
+2. AA ROUTINE H&E X1 BLOCK.24
+H&E XI
+C. AA ROUTINE H&E X1 BLOCK.25
+H&E X1
+D. AA POUTINE H&E X1 BLOCK. 1
+H&E X1
+D. AA ROUTINE H&E X1 BLOCK. 2
+H&E X1
+D. AA ROUTINE H&E KI BLOCK.3
+H&E X1
+E. AA ROUTINE H&E KI BLOCK.1
+HAR XI
+E. AA ROUTINE H&E XI BLOCK.2
+H&E XL
+E. AA ROUTINE H&E X1 BLOCK. 3
+HAR XI
+Preparec
+Page 5 of 5

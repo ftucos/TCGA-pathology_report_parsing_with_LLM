@@ -1,0 +1,64 @@
+UUID:72EA5495-3D5D-4547-B2BE-54C138294216
+TCGA-ZF-AA4U-01A-PR
+Redacted
+Histopathology Histopathology
+Specimen Comments
+SPECIMEN
+1. Bladder and prostate
+2. Internal iliac lymph node left
+CLINICAL DETAILS
+Invasive bladder carcinoma.
+MACROSCOPY
+COCE
+10003
+Carcinoma, urothelial Nos 8120/3
+path
+Carcinoma, transitional cell NOS 8120/3
+Site: Bladder NOS C67.9
+Je 4/30/14
+1. Bladder and prostate measuring 95mm SI, 130mm AP and 130mm ML. The
+bladder
+contains extensive papillary tumour occupying the entire circumference of the
+lower half. On slicing there is probable invasion of the bladder neck and
+possibly the prostate. There is no visible involvement of the extravesicle fat.
+2. Piece of fibrofatty tissue 23 x 8 x 5mm containing a single 7mm lymph node.
+MICROSCOPY
+1. Sections of the macroscopically visible exophytic tumour confirm a papillary
+and solid poorly differentiated transitional cell carcinoma, with a better
+differentiated exophytic component, and invading the lamina propria and the
+muscularis propria to reach the perivesicle fat. There is possible
+lymphovascular invasion. There is no lymphocytic infiltrate of the tumour host
+interface. No glandular or squamoid differentiation is noted. There is no
+neuroendocrine differentiation.
+The tumour extends into both lobes of the prostate but involves the lower lobe
+on the right side and there is tumour in the periprostatic soft tissue of the
+left lower lobe.
+Both ureteric margins are morphologically normal except for dilatation of the
+lumen on the left side. There is no evidence of dysplasia or carcinoma in situ.
+The prostatic urethra also shows no evidence of dysplasia or carcinoma in situ.
+The tumour extends to within 5mm of the right circumferential surgical resection
+margin and 4mm of the left circumferential surgical resection margin.
+Random sections taken from the background bladder show another G2pTa
+transitional cell carcinoma and the background shows focal carcinoma in situ.
+2. All the tissue was processed and there is no nodal tissue. There is no
+evidence of metastatic carcinoma.
+SUMMARY (Parts 1 and 2)
+Bladder and prostate; The appearances are those of a transitional cell carcinoma
+of the bladder (G3) invading the prostate. Surgical resection margins are clear
+(G3 pT4a pNx pMx).
+Ref:
+Pathologists -
+Criteria
+w 1/9/14
+Yes
+No
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+I DISQUALIFIED
+Date Reviewed: 4

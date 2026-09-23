@@ -1,0 +1,217 @@
+UUID:B74BØDFB-0A6B-4E4C-A843-50130DE79C1A
+TCGA-UY-A80D-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+Patient Name:
+Med. Rec.#:
+DOB:
+Visit #:
+Sex:
+Female
+Accession #:
+Service Date:
+Received:
+Soc. Sec. #:
+Location:
+Client:
+Physician(s):
+FINAL PATHOLOGIC DIAGNOSIS
+A. Bladder, urethra, uterus, ovaries and fallopian tubes, cystectomy, total abdominal
+hysterectomy and bilateral salpingo-oophorectomy:
+1. Invasive urothelial carcinoma,high grade,extending into outer muscularis propria,
+tumor diameter 2 cm, margins negative for tumor, see comment.
+2. Cervix with no significant pathologic abnormality.
+- Uterus, endometrium: Sessile polyp.
+- Uterus, myometrium: No significant pathologic abnormality.
+-
+· Uterus, serosa: No significant pathologic abnormality.
+3. Left and right ovaries with no significant pathologic abnormality.
+4. Right and left fallopian tubes with no significant pathologic abnormality.
+5. Vaginal mucosa with no significant pathologic abnormality.
+B. Left pelvic lymph nodes, resection: No tumor in ten lymph nodes (0/10).
+C. Right pelvic lymph nodes, resection: No tumor in eleven lymph nodes (0/11).
+-
+D. Left distal ureter margin, biopsy: No tumor identified.
+E. Final right ureter margin, biopsy: No tumor identified.
+COMMENT:
+-
+Tumor type: Urothelial carcinoma.
+-
+- Tumor grade: High grade.
+ICD.0.3
+Carcinoma, urothelial NOS.
+8/20/3
+Site Bladder NOS 167.9
+7121/20/14
+· Tumor size: 2 cm (tumor is present in the left superior bladder wall, right dome, and focally on the
+right superior bladder wall, grossly this distance spans a region of at least 2 cm)
+· Extent of tumor in bladder: Invasion into outer half of muscularis propria, within 1 mm of
+peri-vesicular fat.
+- Lymphatic/vascular invasion: None.
+- Epithelial abnormalities in bladder: None.
+Extension of tumor into adjacent organs: None.
+- Margins:
+– Urethral margin: Negative; tumor is greater than 2 cm from margin.
+-
+- Right ureter margin: Negative; tumor is greater than 2 cm from margin.
+-
+- Left ureter margin: Negative; tumor is greater than 2 cm from margin.
+- Perivesical margin: Negative; tumor is 0.4 cm from margin on slide A17.
+- Lymph node status: Negative, total number of nodes examined: 21.
+- Other pathologic findings in bladder: None.
+- AJCC/UICC stage: pT2bNOMX.
+Specimen(s) Received
+A:Bladder, urethra, uterus, and ovaries, fs
+B:Lymph node, left pelvic
+C:Lymph node, right pelvic
+D:Left distal ureter margin
+E:Final right ureter margin
+Intraoperative Diagnosis
+Urethral margin. biopsy: Benign squamous and urothelial mucosa, no dysplasia or carcinoma.
+Clinical History
+The patient is a
+Gross Description
+female with a history of invasive urothelial carcinoma of the bladder.
+The specimen is received in five parts, labeled with the patient's name and medical record number. Part
+A is received fresh. Parts B-E are received in formalin.
+Part A is additionally labeled "bladder, urethra, uterus and ovaries." The specimen consists of a bladder
+with an attached uterus, ovaries and vaginal wall. Dimensions of the whole specimen are 14 x 13.5 
+× 5
+cm and the weight is 250 grams. The bladder measures 8 x 6 x 4 cm. The bladder is opened anteriorly
+over the midline to reveal a tan, folded mucosa with no distinct masses. The right bladder wall contains
+a brown discolored region, and the posterior wall has a flattened, scarred region. The remainder of 
+the
+bladder mucosa is unremarkable. The bladder wall thickness measures 1.5 cm. The attached 
+left 
+ureter
+measures 1.5 x 0.5 cm and is unremarkable. The attached right ureter measures 0.5 x 0.5 cm and is
+unremarkable. The uterus measures 4 cm from cornu to cornu, 3 cm from anterior to posterior, and 6.5
+cm from superior to inferior. The uterus sounds to 5.6 cm. The cervix measures 3.5 x 3 cm, and the os
+is fish-mouthed and measures 0.8 cm in diameter. The endometrial surface is tan-red and grossly
+unremarkable with no polyps or masses. The cervical mucosa appears unremarkable. The myometrium
+and serosa surface appear normal. The right ovary measures 2 x 1.8 x 0.7 cm and has a white,
+lobulated exterior with a solid yellow Interior. The right fallopian tube measures 5 x 0.4 x 0.4 cm and is
+unremarkable. In the left adnexa there is an attached ovary measuring 2 x 1.5 x 0.6 cm with a white,
+lobulated appearance and a yellow-white, solid interior. The left fallopian tube measures 6 x 0.3 × 0.3
+cm and is unremarkable. The vaginal wall extends from the anterior cervix to the urethral 
+margin and
+measures 6.5 x 2.5 cm. The wall appears grossly unremarkable. The peri-vesicular fat is thoroughly
+dissected and no definitive lymph nodes are found. The specimen is inked as follows: The left anterior
+surface is inked green, the right anterior surface is inked blue, the left anterior midline cut surface 
+is
+black, the right anterior midline cut surface is green, the anterior surface of the uterus Is Inked black,
+and the posterior surface of the uterus is inked blue. The posterior surface of the bladder is inked black.
+A portion of the bladder is removed for tissue banking. The distal urethral margin is removed and
+submitted as frozen section diagnosis #1. The frozen section remnant is submitted in cassette A1. The
+remaining cassettes are submitted as follows:
+Cassette A2:
+Posterior cervix.
+Cassette A3:
+Posterior uterus.
+Cassette A4:
+Left ovary.
+Cassette A5:
+Cassette A6:
+Cassette A7:
+Cassette A8:
+Cassette A9:
+Cassette A10:
+Cassette A11:
+Cassette A12:
+Cassette A13:
+Cassette A14:
+Left fallopian tube.
+Anterior cervix.
+Anterior uterus.
+Right ovary.
+Cassette A15:
+Cassette A16:
+Cassette A17:
+Cassette A18:
+Right fallopian tube.
+Left vaginal wall.
+Right vaginal wall.
+Urethral margin, submitted perpendicular, and inferior vaginal wall.
+Left ureter.
+Right ureter.
+Left side of bladder, inferior, black ink is cut surface.
+Left side of bladder, middle, black ink is cut surface.
+Left side of bladder, superior, black ink is cut surface.
+Right side of bladder, inferior.
+Cassette A19:
+Cassette A20:
+Right side of bladder, middle.
+Right side of bladder, superior.
+Cassettes A21-A22: Right posterior bladder wall.
+Cassettes A23-A24:
+Cassette A25:
+Cassette A26:
+Cassette A27:
+Left posterior bladder wall.
+Bladder dome.
+Trigone and posterior wall of vagina.
+Candidate perivesicular lymph nodes.
+Part B is additionally labeled "left pelvic lymph node." It consists of multiple soft to firm, irregular,
+bloody, pink-tan-yellow, fatty tissue fragments measuring 6.5 x 4.7 x 1.5 cm in aggregate. The excess
+fat is trimmed, 14 candidate lymph nodes are found ranging in size between 0.5 x 0.3 x 0.2 cm to 3.5 x
+1.2 x 0.5 cm. The specimen is submitted as follows:
+Cassettes B1-B2:
+Cassette B3:
+Cassette B4:
+Cassette B5:
+Cassette B6:
+Cassette B7:
+Largest candidate lymph node cut in half.
+Two candidate lymph nodes.
+One candidate lymph node.
+Two candidate lymph nodes.
+Three candidate lymph nodes.
+Five candidate lymph nodes.
+The remaining fatty tissue is returned to the container.
+Part C is additionally labeled "right pelvic lymph nodes." It consists of multiple soft to firm, irregular,
+bloody, pink-tan-yellow, fatty tissue fragments measuring 8.5 x 5.5 x 2 cm in aggregate. The excess
+fat is trimmed, 12 candidate lymph nodes are found ranging in size between 0.4 x 0.3 x 0.2 cm to 4.2 x
+1.5 x 0.5 cm. The specimen is submitted as follows:
+Cassettes C1-C2:
+Largest candidate lymph node cut in half.
+One candidate lymph node.
+Cassette C3:
+Cassette C4:
+Cassette C5:
+Cassette C6:
+One candidate lymph node.
+Three candidate lymph nodes.
+Six candidate lymph nodes.
+The remaining fatty tissue is returned to the container.
+Part D is additionally labeled "left distal ureter margin." It consists of two soft, tubular pieces of
+brown-tan tissue. The larger fragment measures 1.4 cm in length and has an average diameter of 0.6
+cm. The smaller fragment has a length of 1.3 cm and an average diameter of 0.7 cm. There is a
+retraction aide at the end of the larger fragment. It is removed and this end is inked blue. The
+fragments are serially cross sectioned to reveal patent lumen of 0.1 cm in diameter. The specimen is
+entirely submitted in cassettes D1 and D2 with the larger fragment in cassette D1 and the smaller
+fragment in cassette D2.
+Part E is additionally labeled "final right ureter margin." It consists of a single soft, tubular piece of
+brown-tan tissue measuring 2.5 cm in length and 0.8 cm in average diameter. There is a retraction
+aide at one end. It is removed and this end is inked blue. The specimen is serially cross sectioned
+revealing a patent lumen that ranges in diameter between 0.1 cm to 0.3 cm with the largest diameter at
+the end that is inked blue. The specimen is entirely submitted in cassettes E1 and E2 with the inked
+end in cassette E1.
+Diagnosis based on gross and microscopic examinations. Final diagnosis made by attending pathologist
+following review of all pathology slides.
+/Pathology Resident
+Electronically signed out on
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAX Discrepancy
+Dior Malignancy History
+11/19/13.
+Jual/Synchronous Primary Notad
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+YES
+tio
+DISQUALIFIED
+11/19/2013

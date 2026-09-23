@@ -1,0 +1,399 @@
+Patient Name:
+Med. Rec. #:
+DOB:
+Gender:
+Ref. Physician:
+Patient Address:
+Ref. Source:
+UUID:B327B015-3D3E-400C-A172-8144085F6359
+TCGA-DK-A6AV-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+* Addendum *
+(Age
+Location:
+Service:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+1. T1/ Tis bladder cancer..
+Specimens Submitted:
+1: Bladder, bilateral tubes and ovaries and uterus, radical cystectomy, hysterectomy, and bilateral salpingo-oophorectomy
+2: Lymph nodes, left pelvic, resection
+3: Lymph nodes, right pelvic, resection
+Round ligament, right, excision
+4:
+5:
+Round ligament, left, excision
+6:
+Soft tissue, perivesicle, excision
+7:
+Ureter, distal left, segmental resection
+8:
+Ureter, distal right, segmental resection
+DIAGNOSIS:
+1. Bladder, bilateral tubes and ovaries and uterus, radical cystectomy, hysterectomy, and bilateral
+salpingo-oophorectomy:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Papillary and flat
+Pattern of growth of the Invasive component:
+Infiltrating
+Tumor Multicentricity:
+Identified
+Bladder Local Invasion:
+Superficial half of muscularis propria
+Extravesical Tumor Extension:
+Right ureter uninvolved
+Left ureter involved
+Urethra uninvolved
+Vascular Invasion:
+Not identified
+Perineural Invasion:
+ICD-O-3
+Carcinoma, urothelial NOS
+C6CF
+812013
+Site Domey bladder C671
+Path
+Bladder NOS C679
+80 6/18/13
+Not identified
+Page 1 of 6
+Surgical Margins:
+SURGICAL PATHOLOGY REPORT
+Free of tumor
+Non-Neoplastic Mucosa:
+Exhibiting ulceration
+Exhibiting foreign body reaction
+Exhibiting proliferative cystitis (Brunn's nests, cystitis cystica, cystitis glandularis)
+Female Genital Organs:
+The endometrium shows atrophy
+The right fallopian tube shows a focal nodular epithelial proliferation (see comment)
+The left ovary shows simple serous cyst
+Remaining genital organs are unremarkable
+Perivesical Lymph Nodes:
+LN Not involved 1
+The Pathologic Stage is (AJCC 2002):
+pT2a (Invades superficial half of muscularis propria)
+Comment: Based on the initial immunohistochemical evaluation, the approximately 2 mm nodule is consistent with a primary
+müllerian-derived glandular lesion, and not metastatic urothelial carcinoma. Further studies are being performed to better
+characterize it, and the results will be issued in an addendum report.
+2. Lymph nodes, left pelvic, resection:
+Lymph Nodes:
+Not involved
+Number of nodes examined:3
+3. Lymph nodes, right pelvic, resection:
+Lymph Nodes:
+Not involved
+Number of nodes examined:9
+4. Round ligament, right, resection:
+Benign segment of round ligament
+5. Round ligament, left, resection:
+Benign segment of round ligament
+6. Soft tissue, perivesical, resection:
+Benign adipose tissue.
+7. Ureter, left distal, resection:
+Benign segment of ureter
+8. Ureter, right distal, resection:
+121
+Benign segment of uplet
+1
+MA
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Cabal
+***
+Report Electronically Signed Out
+***
+Special Studies:
+Result
+Special Stain
+WT1
+Page 2 of 6
+Comment
+Gross Description:
+SURGICAL PATHOLOGY REPORT
+P53
+4A4/P63
+34BE12
+P53
+IMM RECUT
+NEG CONT
+IMM RECUT
+NEG CONT
+MIB-1 (Ki-67)
+CK5/6
+D2-40
+ER-C
+PR-C
+EMA
+CALR
+INHibin
+GFAP
+RECUT
+1.) The specimen is received fresh, labeled "bladder, urethra, urachus, perivesical tissue, uterus, bilateral tubes and ovaries and
+anterior vaginal wall". It consist of a bladder, urethra, urachus, perivesical tissue, uterus, bilateral tubes and ovaries and anterior
+vaginal wall measuring 10.5 cm from superior to inferior, 15.0 cm laterally and 14.0 cm from anterior to posterior. The bladder
+measures 9 x 8.5 x 4.2 cm, the uterus measures 5.5 x 3.2 x 1.5 cm, the right ovary measures 2.0 x 1.1 x 0.6 cm, the right fallopian
+tube measures 10.5 x 0.3 x 0.3 cm, the left ovary measures 2.2 x 1.2 x 1.0 cm, and the left fallopian tube measures 9.8 x 0.2 x 0.2
+cm. The portion of vaginal cuff measures 7.1 x 4.0 x 0.2 cm. The distal urethral margin and the vaginal cuff margin are shaved and
+submitted. The ureteric stumps measure 4.0 cm and are unremarkable. The specimen is inked black and the bladder is opened
+anteriorly to reveal:
+Mass #1 -- In the right lateral wall, is a 1.7 x 0.7 x 0.2 cm soft, ulcerated, ovoid tan-brown mass, located 2.5 cm from the left
+ureteric orifice and 0.2 cm from the right ureteric orifices. On sectioning, the tumor extends into but not through the muscularis
+propria, to a depth of 0.2 cm, 0.6 cm away from the deep margin.
+Mass #2 - In the right posterior dome, is a 1.5 x 1.1 x 0.6 cm, soft, ulcerated, irregular bordered, tan-brown mass, located 0.3 cm
+from the left ureteric orifice and 0.7 cm from the right ureteric orifices. On sectioning, the tumor extends into but not through the
+muscularis propria, to a depth of 0.6 cm, 1.2 cm away from the deep margin.
+Mass #3 - In the left posterior dome, is a 0.9 x 0.8 x 0.6 cm, rubbery, pedunculated tan-brown mass, located 2.3 cm from the left
+ureteric orifice and 4.0 cm from the right ureteric orifices. On sectioning, the tumor appears to abut the muscularis propria and is
+2.0 cm away from the deep margin. A portion of this mass has been submitted to TPS.
+Mass #4 -- In the left lateral wall, is a 0.3 x 0.2 x 0.1 cm firm, round, tan-brown, papilliferous mass, located 2.5 cm from the left
+ureteric orifice and 4.2 cm from the right ureteric orifices. On sectioning, the tumor appears to remain confined to mucosa and is
+2.0 cm away from the deep margin.
+Mass #5 - In the lower left anteriolateral wall, abutting the trigone, is a 2.1 x 1.5 x 1.0 cm firm, centrally ulcerated, bosselated
+bordered sessile, tan-brown mass, located 0.4 cm from the left ureteric orifice and 2.6 cm from the right ureteric orifices. On
+sectioning, the tumor extends into but not through the muscularis propria, to a depth of 0.7 cm and is 1.0 cm away from the deep
+margin.
+In addition, located in the right lateral wall, is a 2.0 x 2.0 x 1.1 cm diverticula. The remaining bladder mucosa is edematous and
+congested. A possible discrete perivesical lymph node is identified and entirely submitted. The uterus is bivalved to reveal a
+roughly triangular endometrial cavity containing a flat, tan endometrium. The myometrium is smooth, tan-white and has two, E.
+rubbery, round tan-white mural nodules with smooth white cut surfaces, both averaging 0.4 cm in greatest dimension. The left
+ovary is bisected to reveal a 1.5 x 1.1 x 0.8 cm unilocular, thin-walled, clear fluid filled cysts with a smooth tan-white inner lining.
+The right ovary and bilateral fallopian tubes are unremarkable. Tissue is submitted for TPS. Gross potographs are taken.
+Representative sections are submitted.
+Summary of sections:
+A UM-urethral margin
+Page 3 of 6
+RUM - right ureter margin
+LUM -left ureter margin
+M1
+- mass #1
+M2 - mass #2
+M3-mass #3
+M4 - mass #4
+M5-mass #5
+D - diverticula
+RUO-right ureteric orifice
+LUO-left ureteric orifice
+LP-left posterior wall
+LA -left anterior wall
+RP-right posterior wall
+RA-right anterior wall
+GONE -trigone
+DOME -dome
+F-perivesical fat
+-
+U possible urachus
+EMM-endomyometrium
+CX-cervix
+DVM -distal vaginal margin
+RFO-right tube and ovary
+LFO-left tube and ovary
+LN - possible lymph node
+SURGICAL PATHOLOGY REPORT
+2.) The specimen is received fresh, labeled "Left pelvic lymph nodes" and consists of a 5.3 x 8 x 1.1 cm aggregate of soft,
+lobulated yellow-red adipose. Sectioning reveals three rubbery tan-pink lymph nodes ranging from 1.5 to 4.5 cm in greatest
+dimension. The smaller lymph nodes are bisected and entirely submitted. The largest lymph node is bisected, cut in half and
+entirely submitted.
+Summary of sections:
+BLN bisected lymph nodes
+3.) The specimen is received fresh, labeled "Right pelvic lymph nodes" and consists of a 7.0 x 3.0 x 0.5 cm aggregate of soft,
+lobulated yellow-red adipose. Sectioning reveals five rubbery tan-pink lymph nodes ranging from 0.9 to 3.1 cm in greatest
+dimension. The two thickest lymph nodes are bisected. All lymph nodes are entirely submitted.
+Summary of sections:
+LN- lymph nodes
+BLN -- bisected lymph nodes
+4). The specimen is received in formalin labeled, "right round ligament", and consists of a segment of tan soft tissue measuring 0.9
+x 0.4 x 0.4 cm. Entirely submitted.
+Summary of sections:
+U-undesignated
+5). The specimen is received in formalin labeled, "left round ligament", and consists of a segment of tan soft tissue measuring 2.5 x
+1.0 x 1.0 cm. Entirely submitted.
+Summary of sections:
+U-- undesignated
+6). The specimen is received in formalin labeled, "perivesicle fat", and consists of multiple pieces of fibroadipose tissue measuring
+3.0 x 2.0 x 0.3 cm in aggregate. Entirely submitted.
+Page 4 of 6
+Summary of sections:
+U-- undesignated
+SURGICAL PATHOLOGY REPORT
+7). The specimen is received in formalin labeled, "distal left ureter", and consists of a segment of tan tissue measuring 0.4 cm in
+greatest dimension. Entirely submitted.
+Summary of sections:
+U-undesignated
+8). The specimen is received in formalin labeled, "distal right ureter clip marks proximal margin", and consists of a ureter measuring
+1.0 cm in length and 0.3 cm in diameter. The proximal margin is marked with a metal clip. The metal clip is removed and the
+specimen is entirely submitted.
+Summary of sections:
+P - proximal margin
+M-middle segment
+D - distal margin
+Summary of Sections:
+Part 1: Bladder, bilateral tubes and ovaries and uterus, radical cystectomy, hysterectomy, and bilateral
+salpingo-Oophorectomy
+Block
+1
+1
+Sect. Site
+CX
+PCs
+1
+D
+1
+1
+DOME
+1
+1
+DVM
+1
+EMM
+1
+F
+1
+GONE
+1
+1
+-131121-22---311172
+LT
+456≥5
+LA
+1
+LN
+1
+LO
+LP
+LUM
+LUO
+M1
+M2
+1
+M3
+1
+M4
+2
+M5
+2
+RA
+1
+RO
+1
+RP
+1
+RT
+3
+RUM
+RUO
+1
+U
+1
+UM
+1
+vag
+2
+Part 2: Lymph nodes, left pelvic, resection
+Block
+3
+Sect. Site
+BLN
+PCs
+3
+Part 3: Lymph nodes, right pelvic, resection
+Page 5 of 6
+SURGICAL PATHOLOGY REPORT
+B23
+Block
+Sect. Site
+PCs
+BLN
+LN
+2
+3
+Part 4: SP: Round ligament, right, excision
+Block
+1
+Sect. Site
+U
+PCs
+1
+Part 5: SP: Round ligament, left, excision
+Block
+1
+Sect. Site
+U
+PCs
+1
+Part 6: SP: Soft tissue, perivesicle, excision
+Block
+1
+Sect. Site
+U
+PCs
+1
+Part 7: SP: Ureter, distal left, segmental resection
+Block
+1
+Sect. Site
+U
+PCs
+1
+Part 8: SP: Ureter, distal right, segmental resection
+Block
+1
+1
+1
+D
+P
+Soma
+Sect. Site
+PCs
+1
+M
+1
+1
+Procedures/Addenda:
+Addendum
+Addendum Diagnosis
+#1
+Date Ordered:
+Date Complete:
+Date Reported:
+Status: Signed Out
+On immunohistochemical staining, the incidental fallopian tube lesion expresses ER, EMA and WT-1, whereas it is negative for PR,
+calretinin, keratin 5/6, p53, p63, 34BE12 and D2-40. The proliferative rate with Ki-67 stain is low (<5%). Inhibin and GFAP
+immunostains were also performed, but the lesion was no longer present in the slides stained. These results support fallopian tube
+epithelial differentiation. The fallopian tubes were entirely submitted for histologic examination and additional abnormalities are not
+identified.
+The lesion is, therefore, best considered a focus of epithelial hyperplasia.
+This part of the specimen was reviewed in consultation with Dr.
+reviewed at the daily intradepartmental pathology consensus conference.
+who concurs. Representative slides were also
+Page 6 of 6
+***
+Criteria
+Report Electronically Signed Out
+Signed out by
+lw 5/9/13
+Diagnosis Discrepancy
+Priniary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History PT2 bladew
+Dual/synchronous Primaryote
+Case is (circle):
+***
+Yes
+No
+ކ
+QUALIFIED / DISQUALIFIED
+Reviewer Initials
+Date Reviewed: TFC
+END OF REPORT

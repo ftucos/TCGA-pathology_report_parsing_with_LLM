@@ -1,0 +1,52 @@
+Sample Number
+Diagnosis
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Days to Procedure Date
+Days to Diagnosis
+Type of Procedure
+Site of Tissue/Primary (Histology)
+Tumour Size (cm)
+Sample Type TUMOUR
+invasive transitional cell (urothelial) carcinoma
+Resection - radical cystoprostatectomy
+Bladder
+4
+invasive transitional cell (urothelial) carcinoma
+Histology
+Grade/Differentiation
+Pathological T
+T3
+Pathological N
+ΝΟ
+Clinical M
+MO
+Histology Comments
+Sample Number
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Days to Procedure Date
+Days to Diagnosis
+UUID:464FAAEC-5FEB-4544-8828-46559A81A09A
+TCGA-HQ-ASNE-01A-PR
+Redacted
+Sample Type BUFFY
+ICD-0-3
+Carcinoma, urothelial NOS 812013
+Site: Bladder NOS C67.9
+JW 2/11/13
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is Icircle):
+Reviewer Initiais
+2/7/13
+QUALIFIED
+Yes
+No
+DISQUALIFIED
+J. 11513.
+Date Reviewed:

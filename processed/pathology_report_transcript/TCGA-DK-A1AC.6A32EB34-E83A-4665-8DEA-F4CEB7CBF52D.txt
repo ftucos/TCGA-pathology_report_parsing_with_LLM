@@ -1,0 +1,456 @@
+Patient Name:
+Med. Rec. #:
+DOB: (Age: 72)
+Gender:
+Ref. Physician:
+Patient Address:
+ICD-0-3
+Carcinoma, urothelial, NOS 812013
+Site Code bladder, Nos
+067.9
+SURGICAL PATHOLOGY REPORT
+Reformatted Report
+Location:
+M
+Service: Urology
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Ref. Source:
+Other Related Data:
+Billing Type:
+Financial Number:
+Clinical Diagnosis & History:
+INPATIENT
+72 y/o male with h/o T2 TCC bladder.
+Specimens Submitted:
+1: SP: Right distal ureter
+2: SP: Left distal ureter
+3: SP: Bladder and prostate (1
+4: SP: Right vas deferens
+5: SP: Left vas deferens
+6: SP: Left pelvic lymph nodes
+7: SP: Right pelvic lymph nodes /
+8: SP: Right distal ureter (.
+DIAGNOSIS:
+1)
+2)
+3)
+4)
+'
+1
+URETER, RIGHT DISTAL; BIOPSY:
+SEGMENT OF BENIGN URETER.
+URETER, LEFT DISTAL; BIOPSY:
+-
+SEGMENT OF BENIGN URETER.
+BLADDER AND PROSTATE; CYSTOPROSTATECTOMY:
+-
+UUID:6A32EB34-E83A-4665-8DEA-F4CEB7CBF52D
+TCGA
+-DK-A1AC-01A-PR
+HIGH GRADE INVASIVE UROTHELIAL CARCINOMA. NO EVIDENCE OF
+TUMOR MULTICENTRICITY IS IDENTIFIED. NO IN SITU CARCINOMA
+IS IDENTIFIED. THE TUMOR INVADES INTO THE PERIVESICAL SOFT
+TISSUES (pT3b). LYMPHOVASCULAR INVASION IS PRESENT IN THE
+PROSTATE. ALL SURGICAL MARGINS ARE FREE OF TUMOR.
+-
+ADENOCARCINOMA OF PROSTATE. THE GLEASON'S GRADE IS
+3+3=6/10. THE TUMOR INVOLVES THE FOLLOWING QUADRANT (S):
+RIGHT POSTERIOR, RIGHT ANTERIOR AND LEFT ANTERIOR. NO
+PERINEURAL INVASION IS IDENTIFIED. MULTICENTRIC FOCI OF
+INVASIVE CARCINOMA ARE PRESENT. THE TUMOR IS CONFINED TO
+THE PROSTATE. THE SEMINAL VESICLES ARE FREE OF TUMOR. ALL
+SURGICAL MARGINS ARE FREE OF TUMOR. THE REMAINING PROSTATE
+SHOWS THE FOLLOWING ABNORMALITY (IES): PROSTATIC
+INTRAEPITHELIAL NEOPLASIA (PIN). THE PATHOLOGIC STAGE (AJCC
+1997) IS: pT2b.
+VAS DEFERENS, RIGHT; RESECTION:
+SEGMENT OF BENIGN VAS DEFERENS.
+Page 1 of 5
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circlej:
+Reviewer Initials,
+QUAL
+Date Reviewed.
+Redacted
+Yes
+flo
+DISQUALIFIED
+ரா
+12/30/10
+سر
+5)
+6)
+7)
+SURGICAL PATHOLOGY REPORT
+VAS DEFERENS, LEFT; RESECTION:
+SEGMENT OF BENIGN VAS DEFERENS.
+LYMPH NODES, LEFT PELVIC; DISSECTION:
+-
+ELEVEN LYMPH NODES, NEGATIVE FOR TUMOR (0/11).
+LYMPH NODES, RIGHT PELVIC; DISSECTION:
+-
+ELEVEN LYMPH NODES, NEGATIVE FOR TUMOR (0/11).
+8)
+URETER, RIGHT DISTAL; EXCISION:
+SEGMENT OF BENIGN URETER.
+[ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+***
+Report Electronically Signed Out ***
+Gross Description:
+1) The specimen is received fresh for frozen section, labeled
+"Right Distal Ureter". It consists of a 0.3 x 0.2 cm tubular
+piece of tan-pink soft tissue. The specimen is entirely frozen
+and subsequently submitted for permanent sections.
+Summary of Sections:
+FSC
+-
+frozen section control
+2)
+The specimen is received fresh for frozen section, labeled
+"Left Distal Ureter". It consists of a 0.3 x 0.2 cm tubular
+piece of tan-pink soft tissue. The specimen is entirely frozen
+and subsequently submitted for permanent sections.
+Summary of Sections:
+FSC - frozen section control
+3)
+The specimen is received fresh, labeled "Bladder and
+Prostate". It consists of a 24 x 14 x 5.8 cm cystoprostatectomy
+specimen with attached overlying adipose tissue. The left half
+of the prostate is inked blue and the right half is inked green.
+In the left half of the bladder there is a palpable tumor mass
+which appears to occupy the left lateral and anterior wall. The
+overlying adipose in this area is inked black. There is
+approximately 3 cm in length of ureter on the left and 4.5 cm of
+ureter on the right. Both ureters are probe patent. The
+specimen is opened along the anterior wall to reveal a 7.5 X 6.8
+X 3.3 cm, fungating, ulcerated tumor mass occupying the central
+and lateral left posterior bladder wall as well as the anterior
+bladder wall. The tumor is left lateral and anterior and is
+adjacent to, but not occluding, the left ureteral orifice within
+the bladder. The uninvolved bladder mucosa is hemorrhagic and
+rugose. The trigone is not grossly involved by tumor. Serial
+sectioning of the tumor reveals the cut surfaces are yellow-white
+and necrotic. The tumor invades the muscularis mucosa, however,
+Page 2 of 5
+SURGICAL PATHOLOGY REPORT
+it does not appear to extend through it into the overlying soft
+tissue. Representative sections of tumor and bladder mucosa are
+submitted. The entire prostate is submitted from anterior to
+The specimen
+posterior and designated A through H respectively.
+is photographed and portions of tumor are submitted to TPS.
+Summary of Sections:
+PU
+prostatic urethra
+LUO left ureteral orifice
+LUM left ureteral margin
+RUM
+RUO
+LLAT
+POST
+TRIG
+DOME
+TLL
+T
+ST
+RSVD
+LSV
+RVD
+RA
+LA
+RB
+LB
+RC
+LC
+RAD
+RPD
+LAD
+LPD
+RAE
+RPE
+-
+-
+-
+LAE
+LPE
+F,G,H
+-
+-
+-
+-
+-
+-
+-
+-
+-
+right ureteral margin
+right ureteral orifice
+left lateral bladder
+posterior bladder mucosa
+trigone
+dome
+tumor left lateral
+tumor
+soft tissue overlying tumor
+right seminal vesicle and vas deferens
+left seminal vesicle
+right vas deferens
+right segment A
+left segment B
+right segment B
+left segment B
+right segment C
+left segment C
+right anterior segment D
+right posterior segment D
+left anterior segment D
+left posterior segment D
+right anterior segment E
+right posterior segment E
+left anterior segment E
+left posterior segment E
+serially sectioned prostate
+4) The specimen is received in formalin, labeled "Right vas
+deferens". It consists of a right vas deferens measuring 9.5 cm
+in length and 0.4 cm partially surrounded by fibroadipose tissue.
+The specimen is submitted representatively.
+Summary of Sections:
+SM
+RS
+-
+surgical margin
+representative sections
+5)
+The specimen is received in formalin, labeled "Left vas
+deferens". It consists of a left vas deferens measuring 9.5 cm
+in length and 0.4 cm partially surrounded by fibroadipose tissue.
+The specimen is submitted representatively.
+Summary of Sections:
+Page 3 of 5
+SM
+-
+surgical margin
+RS
+SURGICAL PATHOLOGY REPORT
+representative sections
+6)
+The specimen is received in formalin, labeled "Left pelvic
+It consists of multiple 
+irregular pieces of
+lymph nodes".
+yellowish tan fibroadipose tissue measuring 5.5 
+x 3.0 x 2.0 
+cm in
+aggregate which contains several 
+lymph nodes. The specimen is
+submitted entirely.
+Summary of Sections:
+U - undesignated
+7) The specimen is received in formalin, labeled "Right pelvic
+It consists of 
+multiple irregular pieces of
+lymph nodes".
+yellowish tan fibroadipose tissue measuring 5.0 
+x 5.0 x 
+1.0 cm in
+The specimen is
+aggregate which contains several 
+lymph nodes.
+submitted entirely.
+Summary of Sections:
+U-
+undesignated
+8)
+The specimen is received in formalin, labeled "Right distal
+ureter". It consists of a portion of 
+ureter which is surrounded
+by reddish tan fibroadipose 
+tissue measuring 1.0 cm in length and
+At one 
+end of the specimen is oriented
+up to 0.4 cm in diameter.
+by a suture. The specimen is submitted entirely.
+Summary of Sections:
+ST
+Τ
+RS
+-
+tip with suture
+other tip
+middle portion
+Summary of Sections:
+Part
+1
+Sect. Site Blocks Pieces
+All
+FSC
+1
+1
+Y
+23
+FSC
+1
+1
+Y
+DOME
+1
+1
+N
+F
+1
+1
+G
+1
+1
+H
+1
+1
+LA
+1
+1
+LAD
+1
+1
+LAE
+1
+1
+LB
+1
+1
+LC
+1
+1
+LLAT
+1
+1
+LPD
+1
+1
+LPE
+1
+1
+LSV
+1
+1
+LUM
+1
+1
+LUO
+2
+2
+Page 4 of 5
+SURGICAL PATHOLOGY REPORT
+LVD
+1
+1
+POST
+1
+1
+PU
+1
+1
+RA
+1
+1
+RAD
+1
+RAE
+1
+1
+RB
+1
+1
+RC
+1
+1
+RPD
+1
+RPE
+1
+RSVD
+1
+RUM
+1
+RUO
+2
+ST
+1
+T
+5
+TLL
+1
+TRIG
+1
+RS
+1
+SM
+1
+RS
+1
+SM
+1
+U
+6
+U
+6
+RS
+1
+ST
+1
+1121225122222MMNI
+Τ
+1
+1
+45
+698
+7
+N
+N
+Y
+>>>
+Y
+Y
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Yes
+No
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+QUALIFIED
+Date Reviewed:
+DISQUALII IED
+Intraoperative Consultation:
+Note:
+The diagnoses given in this section pertain only to the
+tissue sample examined at the time 
+of the
+intraoperative consultation.
+i
+1)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SAME.
+2)
+FROZEN SECTION DIAGNOSIS:
+PERMANENT DIAGNOSIS:
+BENIGN.
+SAME.
+Page 5 of 5
+END OF REPORT

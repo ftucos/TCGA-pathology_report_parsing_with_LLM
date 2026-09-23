@@ -1,0 +1,309 @@
+UUID:164CD26F-CF77-4498-BFD5-BDA5B81AC30E
+TCGA-FD-A3B4-01A-PR
+Redacted
+Pathology Report:
+Surgical Pathology Report
+FINAL PATHOLOGIC DIAGNOSIS
+Pelvic exenteration and lymph node dissection;
+A.
+B.
+Scar tissue-abdomen:
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Yes
+No
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+QUALIFIED / DISQUANEJE
+Date Reviewed:
+Cae is (circle):
+Reviewernials
+2/10/21/11
+skin and subcutaneous tissue with fibrosis, no tumor present.
+Anterior pelvic exanteration:
+Urothelial carcinoma of the urinary bladder, high grade, with extensive
+squamous differentiation, involving left intramural ureter and transmurally
+invasive into anterior cervical wall and vagina.
+Urothelial carcinoma in situ (flat urothelial carcinoma).
+Extensive perineural invasion
+No unequivocal lymphovascular invasion present.
+- Margins of resection (soft tissue, urethra, right and left ureter), no tumor
+present.
+See pathologic parameters and comment.
+Uterus with atrophic endometrium and leiomyoma (0.6 cm), no tumor
+present.
+Left fallopian tube with paratubal cysts, no tumor present.
+- Bilateral ovaries and right fallopian tube with no significant pathology,
+no tumor present.
+Segment of ureter, no tumor present.
+C.
+Left ureter:
+D.
+Right distal ureter:
+E.
+F.
+G.
+H.
+I.
+J.
+K.
+L.
+M.
+N.
+0.
+P.
+Segment of ureter, no tumor present.
+Right hypogastric node:
+-
+Three lymph nodes, no tumor present (0/3).
+External iliac:
+Three lymph nodes, no tumor present (0/3).
+Presacral node:
+-
+One lymph node, no tumor present (0/1).
+Common iliac:
+One lymph node, no tumor present (0/1).
+Paracava:
+-
+One lymph node, no tumor present (0/1).
+Left oburator:
+-
+One lymph node, no tumor present (0/1).
+Left common iliac:
+-
+Four lymph nodes, no tumor present (0/4).
+Left hypogastric:
+-
+Three lymph nodes, no tumor present (0/3).
+Left common node:
+-
+Two lymph nodes, no tumor present (0/2).
+Distal right ureter:
+Segment of ureter, no tumor present.
+Right obturator lymph node:
+Eight lymph nodes, no tumor present (0/8).
+Round ligament:
+ICD-0-3
+carcinoma, wrothelial, Nos 8120/3
+Path: Site: bladder, Wall, Nas C67.9
+Interal
+:
+CQCF bladdw,
+wall,
+Dense fibromuscular tissue, no tumor present.
+Urothelial carcinoma Pathologic Parameters
+1. Tumor type: Urothelial carcinoma with extensive squamous differentiation
+2. Grade of tumor: High grade
+Page 1
+047.2
+ساز
+10/21/11
+3. Depth of invasion: Extravesical adipose tissue, anterior cervical wall and
+vagina
+4.
+5.
+6.
+Tumor distribution: Solitary (8.5 x 7 x 3.5 cm)
+Right lateral wall
+Left lateral wall
+Anterior wall
+Posterior wall
+Ureteral margins: Negative
+Distal urethral margin: Negative
+7.
+Soft tissue margin or serosa: Negative
+8.
+Lymph nodes: Twenty seven lymph nodes, no tumor present (0/27)
+9. pTNM: pT4a, NO, MX
+Effective
+this Checklist utilizes the 7th edition TNM staging
+system for Bladder vi Le American Joint Committee on Cancer (AJCC) and the
+International Union Against Cancer (UICC).
+Comment
+The entire invasive portion of the tumor consists of keratinizing squamous
+carcinoma. The in-situ component shows both urothelial and squamous cell
+carcinoma differentiation (slide labeled B11). Therefore, the tumor is
+considered urothelial carcinoma with extensive squamous differentiation.
+XXX
+[ ], M.D
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, () M.D.
+Electronically signed out by [] M.D
+Clinical History:
+The patient is a -year-old female with a history of bladder cancer who
+undergoes pelvic exenteration.
+Specimens Received:
+A: Scar tissue-abdomen
+B: Anterior pelvic exanteration
+C: Left ureter
+D: Right distal ureter
+E: Right hypogastric node
+F: External iliac
+G: Presacral node
+H: Common iliac
+I: Paracava
+J: Left oburator
+K: Left common iliac
+L: Left hypogastric
+M: Left common node
+N: Distal right ureter
+0: Right obturator lymph node
+P: Round ligament
+Gross Description:
+The specimens are received in 16 containers each labeled with the patient's name
+and medical record number.
+Part A. is no additional designation. Received fresh and placed in formalin are
+2 elliptical portions of wrinkled brown skin. One is 7.1 x 2.3 cm, excised to a
+maximum depth of 0.3 cm, and the second is 6.2 x 2 cm, excised to a maximum
+Page 2
+depth of 0.4 cm. Sectioning reveals no masses or lesions. A representative
+section of each piece is submitted in A1.
+Part B. is further labeled "2. Anterior pelvic exenteration". Received fresh and
+placed in formalin is a specimen consisting of bladder and uterus which is
+overall 20 × 11 × 5.5 cm. The bladder is 10 x 11 x 5.5 cm and covered with
+lobulated yellow fibroadipose tissue with cautery artifact. The anterior wall
+and around the urethral margin is inked blue. There is a small amount of
+apparent labial tissue adjacent to the urethral margin. The labium is 5 x 3 x
+0.4 cm and wrinkled gray-brown and unremarkable. The right ureter is 2 cm long
+and 2.5 cm in diameter. The left ureter is 0.6 cm long and 0.6 cm in diameter.
+After shaving the urethral margin, the bladder is opened along the anterior with
+a Y-shaped incision, revealing a partially ulcerated, partially fungating mass
+along the posterior and left wall, extending across the anterior partially into
+the right lateral wall. The overall dimensions are 8.5 x 7 cm, with a raised
+portion up to 1.8 cm above the mucosa. The mass comes within 4 cm of the
+urethral margin. Sectioning through the left ureter reveals that the mass
+encases the ureter and extends to the blue inked margin. Sectioning through the
+posterior wall reveals that the tumor extends to the cervix, with a maximum
+depth of 3.5 cm. The tumor also extends into the right wall and comes within 0.1
+cm of the inked margin. The uninvolved mucosa is edematous. No lymph node
+candidates are identified in the attached adipose tissue. Gross photographs are
+taken.
+Posterior to the bladder is a 9 x 6 cm portion of wrinkled pink-tan mucosa
+consistent with vaginal wall at terminating in a cervical opening. The anterior
+half of the cervix is a 1.3 by the 1.3 and apparent posterior half is missing
+and consists of cauterized tissue. The attached uterus is 5 cm from cornu to
+cornu 4.8 cm from fundus to lower uterine segment and 3.3 cm from anterior to
+posterior. The serosa covering the uterus is glistening red and unremarkable.
+The left fallopian tube has a white clip. The left fallopian tube is 8 cm long
+and up to 1.2 cm in diameter. The left ovary is 2.5 × 1.8 x 0.9 cm. The right
+fallopian tube has no clip but is focally disrupted. The length of the distal
+portion is 7 cm with a circumference of 0.7 cm. The right ovary is 2.5 x 1.5 x
+0.7 cm. The bilateral ovaries are bisected to reveal unremarkable gray firm
+tissue. The uterus is opened from anterior to posterior to reveal a 3.4 × 0.3 by
+0.3 cm endometrial cavity with unremarkable tan lining. No masses or lesions are
+identified in the uterus. Sectioning through the anterior and posterior
+endomyometrium reveals an endometrial thickness of less than 0.1 cm. The
+posterior endomyometrium has a maximum thickness of 1.4 cm, and the anterior
+endomyometrium has a maximum thickness of 2 cm. There is a single white whorled
+nodule in the anterior myometrium which is 0.6 cm in greatest diameter. The
+endocervical canal is 1.8 cm long with unremarkable tan trabeculated mucosa.
+Representative sections are submitted as follows:
+B1: Urethral margin
+B2: Left ureter margin
+B3: Right ureter margin
+B4: Labia D5 closest approach to urethral margin
+B5: Approach of tumor to urethral margin.
+B6 and B7 section through left ureter, bisected
+B8 and B9: Section through ureter and anterior cervix, bisected
+B 10: Anterior wall tumor
+B. 11: Tumor in the right wall
+B12: Uninvolved dome of bladder
+B. 13: Posterior cervix
+B. 14: Anterior endomyometrium including whorled nodule
+B. 15 posterior endomyometrium
+B. 16: Right ovary and fallopian tube
+B-17 left ovary and fallopian tube
+Part C. is further designated all 3. Left ureter". Received fresh for
+Page 3
+intraoperative diagnosis is a 1 cm long specimen with a staple approximately in
+the middle. The specimen is bisected and both halves are frozen. The frozen
+section diagnosis is low benign ureter (both ends)" per Dr. () The frozen
+section remnant and entirely submitted in c1.
+Part D. is further designated "4. Right distal ureter". Received fresh for
+intraoperative diagnosis is a 1 cm long portion of ureter with a staple in
+approximately the middle. The specimen is bisected and both halves are frozen.
+The frozen section diagnosis is "benign ureter (both ends)" per Dr. (). The
+frozen section remnant is entirely submitted in D1.
+Part E. is further designated "5. Right hypogastric node". Received fresh and
+placed in formalin is a 2.5 × 2 × 1.3 cm aggregate of lobulated fibrofatty
+tissue. Sectioning reveals 2 lymph node candidates ranging from 1.5 to 2 cm in
+greatest dimension. Each candidate is bisected and the specimen is entirely
+submitted as follows:
+El: one lymph node candidate
+E2: One lymph node candidate
+E3: remaining fibrofatty tissue
+Part F. is further designated "6. External iliac". Received fresh and placed in
+formalin is a 5 × 3 × 1.5 cm aggregate of lobulated yellow tan fibrofatty
+tissue. Sectioning for lymph nodes reveals one lymph node candidates ranging
+from 1.5-1.6 cm in greatest dimension. The specimen is entirely submitted as
+follows:
+F1: One lymph node candidate
+F2: One lymph node candidate, bisected
+F3: One lymph node candidate, bisected
+F4: One lymph node candidate, bisected
+F5 F6: remaining fibrofatty tissue
+Part G. is further designated "7. Pre-sacral node". Received fresh and placed in
+formalin is a 2.8 x 2 x 1 cm aggregate of lobulated fibroadipose tissue.
+Sectioning reveals no obvious lymph node candidates. Specimen is entirely
+submitted in G1 and G2
+Part H is further designated "8. Common iliac". Received fresh and placed in
+formalin is a 2.6 I 1.8 × 0.3 cm aggregate of lobulated yellow-tan fibroadipose
+tissue. Sectioning reveals a single lymph node candidate measuring 1.5 cm in
+greatest diameter. The specimen is entirely submitted as follows:
+H1: Lymph node candidate, bisected
+H2: remaining fatty tissue
+Part I is further designated "9. Paracaval". Received fresh and placed in
+formalin is a 1.5 x 1.2 × 0.6 cm aggregate of lobulated fibrofatty tissue with a
+0.5 cm in greatest lymph node candidate. The specimen is entirely submitted in
+11.
+Part 1. is further designated "10. Left obturator" Received fresh and placed in
+formalin is a 3.4 x 2.9 x 1.3 cm aggregate of a relatively firm fibrous tissue
+with lobulated yellow adipose tissue. Individual lymph nodes cannot be
+identified. The specimen is sectioned and entirely submitted in 11-35.
+Part K. is further designated "11 left common iliac.". Received fresh and placed
+in formalin is a 3.5 x 3 x 1.5 cm aggregate of lobulated yellow-tan fibrofatty
+tissue. Dissection for lymph nodes reveals 3 lymph node candidate ranging from
+1-2.2 cm in greatest diameter: The specimen is entirely submitted as follows:
+K-1: One lymph node tissue, bisected
+K2: One lymph node candidate, bisected
+K3 and K4: One lymph node candidate, bisected
+K5 and K6: Remaining fibrofatty tissue
+Page 4
+Part L. is further designated "12. Left hypogastric". Received fresh and placed
+in formalin is a 2.6 x 1.7 x 1.7 cm aggregate of fibrofatty tissue. Dissection
+for lymph nodes reveals 2 lymph node candidates ranging from 0.5-1.1 cm in
+greatest diameter. The specimen is entirely submitted as follows:
+L1: 1 lymph node candidate
+L2: One lymph node candidate, bisected
+L3 and L4: Remaining fibrofatty tissue
+Part M. is further designated "13. Left common node". Received fresh and placed
+in formalin is a 3.5 x 1.8 × 1.5 cm aggregate of fibrofatty tissue. Secționing
+reveals one lymph node candidate, 5 cm in greatest dimension. Specimen is
+entirely submitted as follows:
+M1 M3: One lymph node candidate, section
+M4
+-
+6: Remaining fibrofatty tissue
+Part N is further designated "14. Distal right ureter". Received fresh and
+placed in formalin is a 1.7 cm long by 1 cm in diameter portion of apparent
+ureter. There is a stitch at one end which is not designated. This end is taken
+to be not to the margin is inked black. The end with the presumed margin is
+inked blue. The specimen is opened lengthwise and sectioned and entirely
+submitted in N1 and N2.
+Part 0. is further designated "3. Right obturator lymph node". Received fresh
+and placed in formalin is a 4 x 2.5 x 1.5 cm aggregate of lobulated yellow-tan
+fibrofatty tissue. Sectioning for lymph node candidates reveals 5 lymph node
+candidates ranging from 0.8-2.1 cm in greatest diameter. The specimen is
+entirely submitted as follows:
+01: 3 lymph node candidates
+02: One lymph node candidate
+03-04: one lymph node candidate, sectioned
+05 and 06: Remaining fibrofatty tissue
+Part P is further designated "16 round ligament". Received fresh and placed in
+formalin are 2 portions of fibroadipose tissue ranging from 1.7 x 1 x 0.3 cm to
+0.9 x 0.7 x 0.3 cm. The specimen is entirely submitted in Pl.
+XXX
+[], M.D., Ph.D
+Page 5

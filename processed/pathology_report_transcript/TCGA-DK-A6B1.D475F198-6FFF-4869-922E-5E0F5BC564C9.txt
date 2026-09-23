@@ -1,0 +1,319 @@
+UUID:D475F198-6FFF-4869-922E-5E0F5BC564C9
+TCGA-DK-A6B1-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+Gender:
+DOB:
+SURGICAL PATHOLOGY REPORT
+(Age:
+M
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Clinical Diagnosis & History:
+year old male with newly diagnosed bladder carcinoma.
+Specimens Submitted:
+1: Bladder, prostate, seminal vesicles, cytoprostatectomy
+2: Soft tissue, left pelvic, resection
+3: Lymph nodes, right pelvic, resection:
+4: SP: Left pelvic lymph nodes #2
+5: SP: Distal margin of urethra
+6: SP: Pelvic floor (
+7: SP: Distal left ureter (
+8: SP: Distal right ureter ·
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+INPATIENT
+ICD-0-3
+Carcinoma, urothelial MOS
+8120/3
+Site: Bladder, anterior wall
+26/18/13
+C67.3
+DIAGNOSIS:
+1.
+Bladder, prostate, seminal vesicles, cytoprostatectomy:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the Non-Invasive component:
+Papillary and flat
+Pattern of growth of the Invasive component:
+Inverted / Nodular
+Tumor Multicentricity:
+Identified
+The intervening urothelium is also involved by carcinoma.
+Bladder Local Invasion:
+Superficial half of muscularis propria
+Extravesical Tumor Extension:
+Right ureter uninvolved
+Left ureter uninvolved
+Urethra uninvolved
+Vascular Invasion:
+Not identified
+Perineural Invasion:
+Not identified
+Surgical Margins:
+Free of tumor
+Page 1 of 5
+SURGICAL PATHOLOGY REPORT
+See part 5,7, and 8 for the urethral and ureteral margins.
+Non-Neoplastic Mucosa:
+Unremarkable
+Prostate:
+Nodular hyperplasia
+Other High-grade prostatic intraepithelial neoplasia
+Seminal Vesicles:
+Not involved
+Perivesical Lymph Nodes:
+*Not identified
+The Pathologic Stage is: (AJCC 2002):
+pT2a (Invades superficial half of muscularis propria)
+RO (No involvement of prostate)
+2. Soft tissue, left pelvic, resection:
+Fibroadipose tissue negative for tumor.
+3. Lymph nodes, right pelvic, resection::
+Lymph Nodes:
+Not involved
+Number of nodes examined:3
+4. Soft tissue, left pelvic "lymph nodes #2", resection:
+Fibroadipose tissue negative for tumor.
+5. Urethra, distal margin, resection:
+Segment of urethra and prostatic tissue negative for tumor.
+6. Soft tissue, pelvic floor, resection:
+Prostatic tissue negative for tumor.
+7. Ureter, left distal, resection:
+Segment of ureter negative for tumor.
+8. Ureter, right distal, resection:
+Segment of ureter negative for tumor.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Gross Description:
+*** Report Electronically Signed Out
+***
+1). The specimen is received fresh, labeled "Cystoprostatectomy". It consists of a urinary bladder, prostate, urachus, perivesical
+soft tissues, seminal vesicles and lymph nodes with bladder totally measuring 12.1 cm from superior to inferior, 12.6 cm laterally
+and 4.5 cm from anterior to posterior. The bladder measures 7.5 x 7.1 x 4.1 cm, the prostate measures 5.6 x 3.9 x 3.6 cm, the
+right seminal vesicle measures 3.5 x 2.0 x 1.0 cm, the right vas deferens measures 6.8 x 0.3 x 0.3 cm, the left seminal vesicle
+measures 4.3 x 1.4 x 1.0 cm and the left vas deferens measures 7.2 x 0.3 x 0.3 cm. The anterior aspect of the bladder is inked
+blue and the posterior black. The prostatic urethral margin is shaved and submitted. The bladder is opened along the anterior
+Page 2 of 5
+SURGICAL PATHOLOGY REPORT
+midline to reveal a fungating, nodular and papillary mass measuring 7.1 x 6.4 x 3.1 cm which is situated within the anterior wall and
+extending to involve the bladder dome. The lesion measures 0.6 cm from the left orifice and 0.8 cm from the right. Both ureters
+are probe patent measuring up to 0.2 cm in maximum diameter with the right ureter 4.6 cm long and left ureter 5.5 cm long. The
+lesion is sectioned to reveal involvement of the bladder wall. Extension to the inked fat is grossly not identified. An additional
+papillary lesion is noted on the right posterior wall, close to the prostatic urethra, 1.2 cm from the right ureteric orifice and
+measuring 1.2 x 0.7 x 0.4 cm. The remaining bladder mucosa is congested. Discrete perivesical lymph nodes are grossly not
+identified. The prostate is serially sectioned to reveal multiple nodules ranging from 0.2 to 0.5 cm located periurethrally.
+Representative sections are submitted including three sections from each prostatic quadrant and transition zone. TPS is
+submitted.
+Summary of sections:
+UM -- urethral margin
+RUM-right ureter margin.
+LUM -- left ureter margin.
+L-- lesion.
+RUO -- right ureter orifice.
+LUO-- left ureter orifice.
+--
+LP - left posterior wall.
+LA left anterior wall.
+RP -- right posterior wall.
+RA-- right anterior wall.
+TRI- trigone.
+DOM- dome.
+RSV -- right seminal vesicle
+LSV -- left seminal vesicle
+RAP - right apex prostate
+LA P-- left apex prostate
+RAM right anterior mid prostate
+RPM -- right posterior mid prostate
+LAM left anterior mid prostate
+LPM
+left posterior mid prostate
+RAB-right anterior base prostate
+RPB right posterior base prostate
+LAB -- left anterior base prostate
+LPB left posterior base prostate
+UR-urachus
+2). The specimen is received fresh, labeled "left pelvic lymph nodes" and consists of multiple yellow lobulated tissue fragments
+aggregating 5.1 
+x 2.0 x 0.3 cm in greatest dimension. No definite lymph nodes are identified. Tissue entirely submitted.
+Summary of sections:
+LN- lymph nodes
+3). The specimen is received fresh, labeled "right pelvic lymph" and consists of multiple pink-tan firm lymph nodes ranging from
+0.3 to 1.4 cm in greatest 
+dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+BLN- bisected lymph nodes
+4). The specimen is received fresh, labeled "left pelvic lymph nodes number two" and consists of multiple pink-tan firm lymph
+nodes ranging from 0.7 to 
+1.9 cm in greatest dimension. All identified lymph nodes are submitted.
+Summary of sections:
+LN- lymph nodes
+BLN- bisected lymph node
+Page 3 of 5
+SURGICAL PATHOLOGY REPORT
+5). The specimen is received in formalin, labeled "distal margin of urethra" and consists of a 1.5 x 0.9 x 0.7 cm red-tan, irregular
+unoriented soft tissue fragment. Serially sectioned and entirely submitted.
+Summary of sections:
+U-undesignated
+6). The specimen is received in formalin, labeled "pelvic floor" and consists of a 1.2 x 0.7 x 0.7 cm red-tan soft tissue fragment.
+Entirely submitted.
+Summary of sections:
+U-undesignated
+7). The specimen is received in formalin in, labeled "distal left ureter" and consists of a red-tan tubular structure, 0.6 cm in length
+by 0.4 cm in diameter. Section and entirely submitted.
+Summary of sections:
+U-undesignated
+8). The specimen is received in formalin, labeled "distal right ureter, clip on proximal margin" and consists of a gray-white tubular
+structure and surrounding adipose tissue. The tubular structure measures 1.5 cm in length by 0.3 cm in diameter
+, and a clip
+marks the proximal margin, which a submitted separately. The remaining of the ureter is serially sectioned and entirely submitted.
+Summary of sections
+PM proximal margin
+Rremaining ureter
+Summary of Sections:
+Part 1:
+Bladder, prostate, seminal vesicles, cytoprostatectomy
+Block
+1
+Sect. Site
+DOM
+PCs
+1
+11
+L
+11
+1
+LA
+1
+1
+LAB
+1
+1
+LAM
+1
+1
+LAP
+1
+LP
+1
+LPB
+LPM
+LSV
+1
+LUM
+1
+LUO
+2
+RA
+1
+RAB
+1
+1
+RAM
+1
+1211T
+RAP
+1
+RP
+2
+RPB
+1
+RPM
+RSV
+RUM
+Page 4 of 5
+SURGICAL PATHOLOGY REPORT
+1
+RUO
+1
+1
+TRI
+1
+1
+UM
+1
+1
+UR
+Part 2: Soft tissue, left pelvic, resection
+Block
+4
+Sect. Site
+LN
+PCs
+4
+Part 3: Lymph nodes, right pelvic, resection:
+Block
+2
+22
+Sect. Site
+BLN
+LN
+PCs
+22
+Part 4: SP: Left pelvic lymph nodes #2
+Block
+1
+2
+Sect. Site
+bin
+In
+Part 5: SP: Distal margin of urethra
+Block
+1
+Sect. Site
+u
+Part 6: SP: Pelvic floor
+Block
+1
+PCs
+12
+PCs
+Sect. Site
+น
+PCs
+Part 7: SP: Distal left ureter
+Block
+1
+Sect. Site
+U
+PCs
+Part 8: SP: Distal right ureter
+Block
+1
+1
+Sect. Site
+PCs
+pm
+1
+r
+1
+Page 5 of 5
+riteria
+5/5/13 شار
+agnosis Discrepancy
+rimary Tumor Site Discrepancy
+IPAA Discrepancy
+ric: Malignancy History PTI bladde
+al/Synchronous Frimary Noted
+ase is (Circle):
+viewer Initials
+QUALIT
+Yes
+No
+DISQUALIFIED
+Date Reviewed: 4/26 13
+END OF REPORT

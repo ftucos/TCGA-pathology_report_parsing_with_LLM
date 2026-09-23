@@ -1,0 +1,197 @@
+UUID:4E013D66-E9BD-49D1-8CAS-CABFE078D7BE
+TCGA-LC-A66R-01A-PR
+Redacted
+DATE OBTAINED:
+DATE RECEIVED:
+DATE REPORTED:
+Surgical Pathology Report
+=
+LOCATION:
+SUBMITTING MD:
+CC:
+ICDO.3
+Carcinoma, urothelial Hos
+812013
+Site Bladder NOS C67.9
+JN 5/10/13
+DIAGNOSIS
+1. LEFT DISTAL URETER, BIOPSY: BENIGN UROTHELIUM AND WALL; NO TUMOR.
+2. LYMPH NODE, LEFT PELVIC, EXTENSION: ONE OUT OF ELEVEN LYMPH NODES POSITIVE FOR
+METASTATIC HIGH GRADE UROTHELIAL CARCINOMA (1/11).
+3. RIGHT DISTAL URETER, BIOPSY: BENIGN UROTHELIUM AND WALL; NO TUMOR.
+4. LYMPH NODE, RIGHT PELVIC, EXCISION: TWO OUT OF FIFTEEN LYMPH NODES POSITIVE FOR
+METASTATIC HIGH GRADE UROTHELIAL CARCINOMA (2/15).
+5. BLADDER AND PROSTATE, RADICAL CYSTOPROSTATECTOMY: INVASIVE UROTHELIAL CARCINOMA
+Histologic type:
+Histologic grade:
+Tumor size:
+*Tumor site:
+Tumor multicentricity:
+Microscopic tumor extension:
+Extravesical extension:
+Vascular invasion:
+Perineural invasion:
+Associated epithelial lesions:
+Margins:
+Prostate & seminal vesicles:
+Lymph nodes:
+CTNM: (given by clinician)
+PTNM:
+AJCC STAGE (2010):
+Urothelial carcinoma
+High grade/poorly differentiated
+8 cm
+Bladder wall and prostatic urethra (with further invasion into prostate)
+Multicentric
+Tumor invades into perivesical fat and prostatic stroma (apex).
+Present (tumor invades into prostatic stroma at the apex through prostatic urethra)
+Possible present
+Present
+Non-invasive high grade urothelial carcinoma and carcinoma in situ
+Negative urethral, left and right ureter and radial margins
+Prostate involved by tumor; negative seminal vesicles
+Three out of thirty-one lymph nodes positive (3/31), including specimens #3, #4 & #5
+Clinical stage III
+pT4a, pN2
+Stage IV
+6. LEFT URETER, TRUE MARGIN, EXCISION: UROTHELIUM WITH REACTIVE CHANGES; NO TUMOR.
+7. RIGHT URETER, TRUE MARGIN, EXCISION: BENIGN UROTHELIUM AND WALL; NO TUMOR.
+COMMENT
+88305x4, 88307x2, 88309, 88331x2
+Criteria
+w 4/9/13
+Yes
+Diagnosis Discrepancy
+Mary Tu
+Tutaur Site is. repancy
+Discrepancy
+Maugnancy History
+Qual/synchronous Funiar
+Case is (circle):
+CUAUHED DISQUALIFIED
+Reviewer initials
+***Electronically Signed Out***
+Date Reviewed: 4/8/13
+Page 1 of 3
+Surgical Pathology Report
+Clinical Diagnosis and History:
+Bladder ca
+Stage 3
+Tissue(s) Submitted:
+1: LEFT DISTAL URETER
+2: LEFT PELVIC LYMPH NODES
+3: RIGHT DISTAL URETER
+4: RIGHT PELVIC LYMPH NODES
+5: BLADDER AND PROSTATE
+6: LEFT URETER TRUE MARGIN
+7: RIGHT URETER TRUE MARGIN
+Gross Description:
+Specimen #1 is received fresh for intraoperative consultation labeled left distal ureter and consists of a 0.4 x 0.2 cm tubular tissue
+which is submitted in toto for frozen section diagnosis labeled FS1A. The frozen residue is submitted in the corresponding
+cassette.
+Specimen #2 is received in formalin labeled left pelvic lymph nodes and consists of a 5.0 x 3.5 x 2.0 cm aggregate of fat which is
+palpated to reveal multiple nodes ranging from 0.1 cm to 3.0 cm in greatest dimension. The nodes are entirely submitted as
+follows:
+2A:
+2B:
+three possible nodes
+two possible nodes
+2C-2F: each cassette containing one bisected node
+2G-21:
+2J-2M:
+2N:
+one trisected node
+one serially sectioned node
+1 bisected node
+Specimen #3 is received fresh for intraoperative consultation labeled right distal ureter and consists of a 0.6 x 0.4 cm tubular tissue
+which is submitted in toto for frozen section diagnosis labeled FS3A. The frozen residue is submitted in the corresponding
+cassette.
+Specimen #4 is received in formalin labeled right pelvic lymph nodes and consists of a 5.0 x 3.0 x 2.0 cm aggregate of fat which is
+palpated to reveal multiple possible nodes ranging from 0.3 cm to 3.5 cm in greatest dimension. The nodes are entirely submitted
+as follows:
+4A:
+four possible lobes
+4B-4C: each cassette containing two nodes
+4D-4G: each cassette containing one bisected node
+4H-41: one bisected node
+4J-4K:
+4L-4N: one serially sectioned node
+one serially sectioned node
+Specimen #5 is received fresh labeled bladder and prostate and consists of a 12.5 x 11.0 x 5.0 cm bladder with attached 5.0 x 4.5
+x 4.5 cm prostate. Extending from the prostatic urethra is a 35.0 x 0.7 cm catheter. Partially surfacing the posterior aspect is a 14.0
+× 10.0 cm area of smooth peritoneum. Attached to the prostate are right and left vas deferens averaging 5.0 x 0.5 cm. The left
+seminal vesicle measures 4.5 x 2.0 x 1.0 cm and the right seminal vesicle 4.5 x 2.0 x 0.5 cm. The right half of the specimen is
+inked blue, the left half is inked black and the specimen is opened with a Y-shaped incision along the anterior aspect to reveal an
+8.0 x 6.0 x 1.5 cm focally soft and necrotic papillary lesion involving the dome, posterior, anterior and left lateral wall of the bladder.
+Noted on the prostate, at the bladder base, are several papillary growths grossly not contiguous with the main mass measuring 1.0
+cm in greatest dimension. Further sectioning reveals the mass effacing an area of muscle in the left lateral wall, focally possibly
+invading into the adipose tissue, 0.3 cm from the posterior ink. The tumor does not grossly appear to involve the ureter. Serial
+sectioning of the prostate reveals a 1.5 x 0.6 cm ill defined tan lesion in the right apex towards the posterior aspect, grossly
+abutting the inked capsule. Palpated are five possible nodes ranging from 0.1 cm to 1.5 cm in greatest dimension. Note that
+approximately 90% of the prostate is submitted. Representative sections are submitted as follows:
+5A:
+5B-5C:
+possible urethral margin en face
+perpendicular sections of right apical prostatic margin
+perpendicular sections of left apical prostatic margin
+bisected section of trigone with papillary growths near bladder base of prostate
+trigone with prostate to include papillary growths near prostatic bladder base
+right ureteral orifice
+5D-5E:
+5F-5G:
+5H:
+51:
+5J:
+left ureteral orifice
+5K-5N:
+50:
+5P:
+tumor to closest ink from left lateral wall (contiguous sections)
+tumor to left lateral wall with possibly involved fat
+tumor to possibly involved vessel from left lateral wall
+Page 2 of 3
+Surgical Pathology Report
+5Q-5T:
+5U-5V:
+5W-5Z:
+tumor to closest invasion to posterior ink
+tumor in dome
+tumor in anterior wall
+5AA-5CC:
+right lateral wall
+5DD-5ZZ:
+5AAA-5VVV:
+5WWW-5XXX:
+5YYY-5ZZZ:
+5AAAA:
+5BBBB:
+5CCCC:
+right prostate
+left prostate
+bisected section of right prostate with seminal vesicle
+left prostate with seminal vesicle
+right and left vas deferens margin
+three possible nodes
+one bisected node
+5DDDD:
+one bisected node
+Specimen #6 is received in formalin labeled left ureter-true margin and consists of a 1.5 x 0.6 cm tubular tissue with an attached
+suture on one end. The specimen is entirely submitted as follows:
+6A:
+6B:
+6C:
+sutured end
+middle cross sections
+end opposing suture
+Specimen #7 is received in formalin labeled right ureter-true margin and consists of a 2.3 × 0.4 cm tubular tissue sutured on one
+end. The specimen is entirely submitted as follows:
+7A:
+7B:
+sutured end
+middle cross sections
+7C: end opposing suture
+Intraoperative Consult Diagnosis
+1A/FSDX: URETER NEGATIVE FOR TUMOR.
+3A/GDX/FSDX: URETER WITH ACUTE INFLAMMATION AND REACTIVE CHANGES; NO TUMOR.
+Page 3 of 3
+END OF REPORT

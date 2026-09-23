@@ -1,0 +1,184 @@
+UUID:7424FFA2-7BE6-4268-BAF4-4589C4F210AE
+TCGA-DK-AA6T-01A-PR
+Redacted
+Patient Name:
+Med. Rec. #:
+SURGICAL PATHOLOGY REPORT
+DOB: (Age:
+Gender:
+M
+Location:
+Service:
+Urology
+Ref. Physician:
+Patient Address:
+Ref. Source:
+Accession #:
+Date of Procedure:
+Date of Receipt:
+Date of Report:
+Account #:
+Billing Type:
+Additional Copy to:
+Clinical Diagnosis & History:
+Bladder carcinoma.
+Specimens Submitted:
+1: Biopsy of trigone
+DIAGNOSIS:
+1. Biopsy of trigone:
+Tumor Type:
+Invasive urothelial carcinoma, NOS
+Histologic Grade:
+High grade
+Pattern of growth of the non-invasive component:
+No definite in situ carcinoma
+Local Invasion:
+Muscularis propria
+Vascular Invasion:
+Not identified
+IGD0.3
+8/2013
+Carcinoma, urothelial NOS
+Site Bladder trigone $167.0
+JW 4/30/14
+Non-Neoplastic Mucosa:
+Comment:
+Exhibiting chronic cystitis
+Per TSS, or neurs indocrine differentiation.
+Although the tumor morphologically appears to have focal neuroendocrine differentiation, immunostains for
+chromogranin and synaptophysin do not support this. Case reviewed in consultation with
+who concurs.
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+Gross Description:
+***
+Report Electronically Signed Out
+***
+1) The specimen is received in
+labeled "biopsy of trigone", and consists of three pieces of tan soft tissue ranging
+from 0.4 to 1.4 cm. The specimen is entirely submitted in one cassette(s). TPS taken.
+Page 1 of 3
+Summary of Sections:
+Part 1: Biopsy of trigone
+1
+Blocks Block Designation
+{not entered}
+PCs
+3
+Special Studies:
+Result
+SURGICAL PATHOLOGY REPORT
+Special Stain
+Comment
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+CHR
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+SYN
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+IMM RECUT
+Page 2 of 3
+SURGICAL PATHOLOGY REPORT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+RECUT
+Page 3 of 3
+Criteria
+Diagnosis Discrepancy
+w 8/13/14
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials W
+QUALIFIED
+Date Reviewed
+Yes
+10 QUANTIFIED 13
+No
+END OF REPORT

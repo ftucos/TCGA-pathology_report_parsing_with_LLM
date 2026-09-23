@@ -1,0 +1,60 @@
+TSS Patient ID:
+Surgical Date:
+UUID:4AAC565F-AE74-46E9-87D1-055DD38EFEBD
+TCGA-E7-A85H-01A-PR
+Redacted
+Gross Description: Tumor occupies bladder wall. It is invasive and protruded, ill - margins with
+2x1.5x1.2cm in size, soft and gray surface.
+Microscopic Description: Tumor cells are hyperplastic to arrange to form sheets or nest or groups or
+cords one by one. Tumor cells have moderate and eosinophilic. Nuclei are very enlarged and varriability
+in shape and size, irregular nuclear membranes, nucleoli and abnormal chromatin patterns. Mitoses are
+common. Tumor invades in musculari propria and vessel.
+Diagnosis Details: Infiltrating urothelial carcinoma, high-grade, infiltrating in one half of muscularis
+propria
+Comments:
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+Specimen type: Cystectomy
+Tumor site: Bladder
+CGCE
+ICD0-3
+Carcinoma, urothelial Nos
+8120/3
+Carcinoma, tranational all 120/3
+нажа
+CACE
+Site. Kladder No. $67.9
+NOS
+patte
+Bladder wall.
+0679
+920/5/14
+Tumor size: 2 x 1.5 x 1.2 cm
+Tumor features: None specified
+Histologic type: Transitional cell carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Muscularis propria
+Lymph nodes: 0/2 positive for metastasis (Inguinal lymph node 0/2)
+Lymphatic invasion: Not specified
+Venous invasion: Present
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: No
+Additional pathologic findings: Focal extracapsular extension (bladder wall, vessel)
+Comments: None
+iteria
+iagnosis Discrepancy
+w
+imary Tumor Site Discrepancy
+IPAA Discrepancy
+rior Malignancy History
+al/Synchronous Primary Noted
+ase is (circle
+cviewer Init
+10/24/13 Yat
+QUALIFILD
+Date Reviewed:
+Yes
+No
+DISQUALIFIED
+✓
+女
+10/16/13

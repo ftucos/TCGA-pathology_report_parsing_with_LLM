@@ -1,0 +1,156 @@
+UUID:A1CF42EF-92A6-4214-BB25-7C71F665EFDC
+TCGA-GV-A3JZ-01A-PR
+Redacted
+SURGICAL PATHOLOGY REPORT
+De-Identified Specimen Code_
+Patient Age/Sex
+SPECIMEN SUBMITTED:
+/ M
+Part A: LEFT DISTAL URETER
+Part B: LEFT PELVIC LYMPH NODE
+Part C: RIGHT DISTAL URETER
+Part D: FINAL URETHRAL MARGIN
+Part E: BLADDER AND PROSTATE
+Part F: LEFT DISTAL URETER #2
+Part G: RIGHT PELVIC LYMPH NODES
+Part H: RIGHT COMMON LYMPH NODES
+Part I: LEFT COMMON LYMPH NODES
+Part J: LEFT PELVIC LYMPH NODES
+Part K: PRESACRAL LYMPH NODES
+ICD-0-3
+Carcinoma, mrothelial, NOS 8120/3
+Site: bladdw, NOS
+0679
+hw
+12/15/11
+Criteria
+Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is (circle):
+Reviewer Initials
+12/15/11
+Yes
+No
+QUALIFIED DISQUALIFIED
+✓ Date Reviewed
+12/15-11
+Page 1 of 10
+Final Diagnosis
+SURGICAL PATHOLOGY REPORT
+1. Left distal ureter, biopsy (A) - Atypical urothelial cells.
+2. Left pelvic lymph nodes, excision (B) - Metastatic urothelial carcinoma involving one lymph node.
+3. Right distal ureter and final urethral margin, biopsies (C, D) - Negative for neoplasm.
+4. Bladder, excision (E) - Invasive poorly differentiated urothelial carcinoma with invasion through
+muscular wall and involvement of perivesical adipose tissue.
+5. Prostate, excision (E) - Urothelial carcinoma involving prostatic urethra with invasion into
+adjacent prostatic parenchyma.
+6. Left distal ureter #2, biopsy (F) - Negative for neoplasm.
+7. Right pelvic lymph nodes, excision (G) - Negative for neoplasm, fourteen lymph nodes.
+8. Right common lymph nodes, excision (H) - Negative for neoplasm, nine lymph nodes.
+9. Left common lymph nodes, excision (I) - Metastatic urothelial carcinoma involving two of six
+lymph nodes.
+10. Left common lymph nodes, excision (J) - Metastatic urothelial carcinoma involving two of four
+lymph nodes.
+11. Presacral lymph nodes, excision (K) - Negative for neoplasm, five lymph nodes.
+In Bute to
+Page 2 of 10
+L
+SURGICAL PATHOLOGY REPORT
+Diagnosis Comment:
+2. The carcinoma was only present in the permanent section and not present in the frozen section.
+4. Specimen Type: Radical cystoprostatectomy
+Tumor Size, Greatest dimension: 3.5 cm
+Histologic Type: Urothelial carcinoma
+Urothelial Carcinoma: (WHO/ISUP, 1998): High grade
+Adenocarcinoma and Squamous Carcinoma: Not applicable
+Associated Epithelial Lesions: None identified
+Margins: Margins uninvolved by invasive carcinoma
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L): Present
+Direct Extension of Invasive Tumor: Perivesical fat
+Prostatic stroma
+Other Diagnoses: See above
+Pathologic Stage:
+Primary Tumor: (PT)
+pT4a: Tumor invades prostate
+Regional Lymph Nodes: (pN)
+pN3: Metastasis in common iliac lymph nodes The size of the largest metastasis is 2.2 cm. The tumor
+extends beyond the lymph node capsules to involve the adjacent adipose tissue.
+Distant Metastasis (PM): pMX: Cannot be assessed
+Clinical Diagnosis:
+BLADDER CA
+Page 3 of 10
+......
+SURGICAL PATHOLOGY REPORT
+Gross Description:
+A. Received fresh at the frozen desk is a specimen labeled "left distal ureter" consisting of one piece of
+unoriented renal tissue measuring 0.8 x 0.6 x 0.3 cm. The specimen is totally submitted for frozen
+section as A1.
+B. Received fresh at the frozen desk is a specimen labeled "left pelvic lymph node" consisting of one
+ovoid nodule measuring 1.5 x 1 x 0.5 cm. The specimen is totally submitted for frozen section as B1.
+C. Received fresh at the frozen desk is a specimen labeled "right distal ureter" consisting of one piece
+of unoriented luminal tissue measuring 0.7 × 0.7 x 0.3 cm. The specimen is totally submitted for frozen
+section as C1.
+D. Received fresh at the frozen desk is a specimen labeled "final urethral margin" consisting of one
+piece of unoriented tissue measuring 0.5 x 0.5 x 0.5 cm. The specimen is totally submitted for frozen
+section in D1.
+E. Received in formalin previously opened and inked with the margins taken is a specimen which
+consists of a urinary bladder, bilateral ureters, prostate and attached seminal vesicles and vas deferens.
+The bladder measures 13.0 x 9.0 x 5.5 cm. The external surface of the bladder is covered by a serosal
+lining at the dome and fibroadipose tissue at the remaining portion. After the bladder is opened an
+irregular, tan-white, firm area is identified measuring 3.5 x 3.0 cm. The mass appears to encompass the
+entire trigone, the anterior, posterior, left bladder walls and both ureteral orifices. The mass is semisolid
+with tan-brown to white, friable possible papillary areas. On sectioning, the mass appears to extend
+through the left wall for a distance of 1.5 cm and is 0.2 cm from the soft tissue line of resection (inked
+black). It does not appear to involve the perivesicular adipose tissue. Purulent material is present upon
+sectioning of the left wall and left trigone. The remainder of the bladder wall appears edematous and
+diffusely hemorrhagic. The hemorrhagic areas are predominantly visible on the posterior bladder wall. A
+3.0 cm segment of right ureter is present. It is probe patent. Its mucosa is slightly inflamed and
+granular. A 2.0 cm segment of left ureter is present. It is probe patent and its mucosa is inflamed and
+granular. The prostate measures 3.0 cm anteroposteriorly, 3.2 cm craniocaudally, and 4.0 cm
+transversely. The capsular surface appears slightly roughened but complete. The gland is inked blue on
+the right and yellow on the left, and sectioned from the apex to base transversely at 3 mm intervals
+perpendicular to the urethra. The cross sections reveal a yellow-tan mottled cut surface. A definitive
+mass is not identified. Rubbery nodularity is present. The seminal vesicles appear unremarkable.
+Segments of vas deferens appear unremarkable. Sectioning of the attached fibroadipose tissue reveals
+three tan-white firm nodules, resembling lymph nodes ranging in size from 0.3-0.6 cm in greatest
+dimension. Representative sections are submitted in formalin as follows: E1 right distal ureter shave,
+E2 left distal ureter shave, E3-E4 anterior bladder wall, E5 left wall to include deepest extent of lesion,
+E6 left ureteral orifice, E7-E8 left trigone, E9 posterior wall demonstrating hemorrhagic mucosa, E10
+dome demonstrating hemorrhagic mucosa, E11 right ureteral orifice, E12 right wall, E13 right trigone,
+E14 right ureteral mucosa (1.0 cm from distal margin), E15 left ureter mucosa (1.2 cm from distal
+margin), E16 lymph nodes (3), E17 right apex, E18 left apex, E19 3 mm right, E20 3 mm left, E21 15
+mm right anterior (capsular surface incomplete), E22 15 mm right posterior to include seminal vesicles,
+E23 left anterior (capsular surface incomplete), E24 15 mm left posterior to include seminal vesicles.
+Page 4 of 10
+SURGICAL PATHOLOGY REPORT
+Gross Description:
+F. Received fresh at the frozen desk is a specimen labeled "left distal ureter #2" consisting of one piece
+of unoriented luminal tissue measuring 1 x 0.5 x 0.5 cm. The specimen is totally submitted for frozen
+section in F1.
+G. Received in formalin labeled "right pelvic lymph nodes" is a specimen consisting of multiple
+fragments of fibrofatty tissue aggregating to 7 x 5 x 1.7 cm. On sectioning, 14 possible lymph nodes
+are identified ranging in diameter from 0.2 to 1 cm. Sections are submitted as follows: G1 five possible
+lymph nodes, G2 four possible lymph nodes, G3 four possible lymph nodes, G4 one possible lymph
+node bisected.
+H. Received in formalin labeled "right common lymph nodes" is a specimen consisting of multiple
+fragments of fibrofatty tissue aggregating to 3 x 2 x 1 cm. Nine possible lymph nodes are identified
+ranging in diameter from 0.2 to 1.5 cm. Sections are submitted as follows: H1 four possible lymph
+nodes, H2 four possible lymph nodes, H3 one possible lymph node sectioned and totally submitted.
+1. Received in formalin labeled "left common lymph node" is a specimen consisting of multiple
+fragments of fibrofatty tissue aggregating to 9 x 4 x 2 cm. Four possible tan lymph nodes are identified,
+two large lymph nodes measuring 3 and 4.5 cm in diameter. Sections are submitted as follows: 11 four
+possible lymph nodes, 12-14 one lymph node sectioned and totally submitted, 15-18 one lymph node
+sectioned and totally submitted.
+J. Received in formalin labeled "left pelvic lymph nodes" is a specimen consisting of multiple fragments
+of fibrofatty tissue aggregating to 6 x 2.5 x 1.5 cm. Three possible lymph nodes are identified ranging in
+diameter from 0.5 to 3 cm. Also present is an elongated firm cord-like structure measuring 5 x 0.5 × 0.4
+cm. Sections are submitted as follows: J1 one lymph node sectioned and totally submitted, J2 one
+lymph node, J3 cord-like structure sectioned and totally submitted, J4-J5 one lymph node sectioned
+and totally submitted.
+K. Received in formalin labeled "presacral lymph nodes" is a specimen consisting of multiple fragments
+of fibrofatty tissue aggregating to 3.5 x 2.5 x 0.5 cm. Five possible lymph nodes are identified ranging in
+diameter from 0.1 to 0.6 cm. The five possible lymph nodes are submitted in K1.
+Page 5 of 10

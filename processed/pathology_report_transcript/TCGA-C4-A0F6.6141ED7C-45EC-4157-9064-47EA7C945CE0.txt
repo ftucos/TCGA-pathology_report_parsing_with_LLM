@@ -1,0 +1,31 @@
+ICD-0-3
+Carcinoma, urothelial, Nos
+812013
+Site: bladder, Nos
+067.9
+1/28/11 lu
+Diagnosis
+Poorly differentiated solid urothelial carcinoma of the bladder with infiltration of the bladder
+wall and infiltration of the perivesical fatty tissue (pT3a, G3). Carcinomatous lymphangitis,
+Tumor-free preparation margins in the region of the bladder, ureter and vagina, Tumor-free
+uterus with atrophic endometrium. Epithelium of ectocervix shows no dysplasia. Tumor-free
+ovaries with bilateral corpus albicans. Tumor-free tubes on both sides.
+Tumor classification (in light of the previous frozen section analysis):
+pT3b, L1, pN0 (0/10), G3, RO
+Redacted
+UUID:6141ED7C-45EC-4157-9064-47EA7C945CE0
+TCGA-
+C4-A0F6-01A-PR
+Criteria
+Diagnosis Discrepancy
+Primar, Tumor Site Discrepancy
+HIPAA Discrepancy
+Prior Malignancy History
+Dual/Synchronous Primary Noted
+Case is Kircle):
+Reviewer it is
+Yes
+/ DISQUALIFIED
+QUALI, ED
+Date Moviewed:
+512/10
