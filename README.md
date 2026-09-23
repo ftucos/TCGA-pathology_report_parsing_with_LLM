@@ -76,7 +76,7 @@ Below is the LLM prompt template used in this project to extract the tumor grade
 ## Environment Setup
 
 ```bash
-conda create env -n pdf_ocr python=3.3.0
+conda create -n pdf_ocr python=3.13.0
 conda activate pdf_ocr
 
 # Install the required packages:
