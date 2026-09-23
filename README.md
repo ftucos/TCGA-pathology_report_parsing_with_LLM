@@ -79,6 +79,11 @@ Below is the LLM prompt template used in this project to extract the tumor grade
 conda create -n pdf_ocr python=3.13.0
 conda activate pdf_ocr
 
+# install gcloud from https://docs.cloud.google.com/sdk/docs/install-sdk
+curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/<FILE_NAME>
+tar -xf <FILE_NAME>
+./google-cloud-sdk/install.sh # requires python >= 3.10
+
 # Install the required packages:
 pip install --upgrade google-cloud-documentai openai
 conda install bioconda::gdc-client
