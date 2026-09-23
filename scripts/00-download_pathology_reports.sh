@@ -1,10 +1,8 @@
-#!/bin/env bash
-source ~/.initialize_conda
 set ue -o pipefail
 
-WD="/Users/tucos/Downloads/TCGA-pathology_report_parsing_with_LLM/"
-cd $WD
+SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
+BASE_DEST="${SCRIPT_DIR}/../"
 
-mkdir -p $WD/data/pathology_report
-cd $WD/data/pathology_report
-gdc-client download -m  $WD/data/pathology_report-manifest.txt
+mkdir -p $BASE_DEST/data/pathology_report
+cd $BASE_DEST/data/pathology_report
+gdc-client download -m  $BASE_DEST/data/pathology_report-manifest.txt
