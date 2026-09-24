@@ -1,1 +1,15 @@
 .DS_Store
+reference_repo/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+tmp/
+logs/
+processed/blca_local/
+.ollama-models/
+scripts/hpc/environment.local.sh

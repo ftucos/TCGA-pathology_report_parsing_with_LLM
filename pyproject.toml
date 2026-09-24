@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tcga-blca-local"
+version = "0.1.0"
+description = "Local GLM-OCR and structured bladder pathology extraction"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["httpx>=0.27,<1", "pydantic>=2.10,<3", "pypdfium2>=4.30,<6", "Pillow>=11,<13"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.11"]
+
+[project.scripts]
+blca = "blca.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+blca = ["prompts/*.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+
+# Runtime pipeline settings. Relative paths resolve against this TOML file.
+[tool.blca.paths]
+manifest = "data/pathology_report-manifest.txt"
+reports_dir = "data/pathology_report"
+output_dir = "processed/blca_local"
+
+[tool.blca.ollama]
+# OLLAMA_HOST overrides this inside a Slurm allocation.
+host = "http://127.0.0.1:11434"
+timeout_seconds = 600
+attempts = 3
+
+[tool.blca.ocr]
+model = "glm-ocr:bf16"
+dpi = 250
+max_image_side = 3500
+num_ctx = 16384
+max_tokens = 8192
+repeat_penalty = 1.2
+repeat_last_n = 256
+# Both GLM-OCR end markers; some Ollama runners recognize only endoftext from metadata.
+stop = ["<|endoftext|>", "<|user|>"]
+
+[tool.blca.extraction]
+# A configurable starting point, not a validated pathology model.
+model = "qwen3.8:27b"
+think = true
+num_ctx = 65536
+max_tokens = 8192
+# Tune together with OLLAMA_NUM_PARALLEL after the HPC smoke test.
+workers = 2

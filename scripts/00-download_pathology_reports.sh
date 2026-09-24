@@ -1,8 +1,7 @@
-set ue -o pipefail
-
+#!/usr/bin/env bash
+set -euo pipefail
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
-BASE_DEST="${SCRIPT_DIR}/../"
-
-mkdir -p $BASE_DEST/data/pathology_report
-cd $BASE_DEST/data/pathology_report
-gdc-client download -m  $BASE_DEST/data/pathology_report-manifest.txt
+PROJECT_DIR=$(cd -- "$SCRIPT_DIR/.." && pwd)
+mkdir -p "$PROJECT_DIR/data/pathology_report"
+cd "$PROJECT_DIR/data/pathology_report"
+gdc-client download -m "$PROJECT_DIR/data/pathology_report-manifest.txt"
