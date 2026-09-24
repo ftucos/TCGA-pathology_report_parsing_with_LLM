@@ -201,7 +201,8 @@ The schema and field mapping are in [docs/schema.md](docs/schema.md).
   binary grade, size, configuration, invasion extent, detrusor status, LVI, CIS,
   margins, nodes, reported pTNM, treatment effect and associated findings.
 - Every non-null observation has an OCR quote and page number. Missing information
-  is `null`, never an invented negative. Quotes must exist on their cited page.
+  is `null`, never an invented negative. Unmatched quotes or incorrect page references produce review warnings without
+  blocking extraction or export.
 - **Perivesical soft tissue/fat invasion supports pT3, not pT4.** Unspecified fat
   is insufficient, especially in TURBT. Muscularis propria supports pT2; muscularis
   mucosae does not. Prostate involvement needs the correct origin and invasion route.
@@ -221,8 +222,10 @@ The schema and field mapping are in [docs/schema.md](docs/schema.md).
 
 The [prompt](src/blca/prompts/bladder.md) specifies attribution and uncertainty;
 [normalization rules](src/blca/normalize.py) derive stage and grade deterministically
-from validated observations. Evidence checks establish that a quote exists, not
-that the model interpreted it correctly. Human evaluation of OCR and extraction
+from validated observations. Evidence checks record unmatched quotes in `evidence_warnings` and in the exported
+`review_reasons`, setting `review_required = true`. Findings and original quotes
+are retained for comparison with TCGA metadata and manual review; a matching quote
+does not establish that the model interpreted it correctly. Human evaluation of OCR and extraction
 is still required, especially mixed-organ specimens and inferred values.
 
 ## Output, provenance and recovery
@@ -249,6 +252,15 @@ exports/
   report_status.json                 # all manifest reports, including missing/failed
   summary.json                      # counts
 ```
+
+Evidence mismatches do not trigger extraction retries. JSON structure, required
+fields, value types and node-count consistency remain validated. To recover reports
+previously rejected with `Evidence not found on OCR page ...`, update the project
+on the HPC and resubmit the same `run` command without `--force`. Matching complete
+OCR checkpoints and the latest saved, complete, schema-valid extraction response
+are reused for those failures. Changed model/settings/transcript fingerprints,
+other failure types and forced reruns require a fresh extraction. Rerun export
+after recovery; historical raw error files remain for auditing.
 
 Source checksums, model digests, generation settings, renderer version, prompt,
 schema and normalization version control cache validity. Writes are atomic. A

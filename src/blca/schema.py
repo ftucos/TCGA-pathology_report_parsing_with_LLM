@@ -155,20 +155,22 @@ class BladderExtraction(StrictModel):
     report_issues: list[str]
 
 
-def validate_evidence(extraction: BladderExtraction, pages: dict[int, str]) -> None:
-    """Reject fabricated quotes/page numbers; tolerate whitespace introduced by OCR."""
+def validate_evidence(extraction: BladderExtraction, pages: dict[int, str]) -> list[str]:
+    """Return review warnings for unmatched quotes/page numbers without rejecting findings."""
     normalized = {p: " ".join(t.split()) for p, t in pages.items()}
+    warnings = []
 
-    def visit(value):
+    def visit(value, path=""):
         if isinstance(value, dict):
             if set(value) == {"page", "quote"}:
                 quote = " ".join(value["quote"].split())
                 if not quote or quote not in normalized.get(value["page"], ""):
-                    raise ValueError(f"Evidence not found on OCR page {value['page']}")
-            for child in value.values():
-                visit(child)
+                    warnings.append(f"{path}: Evidence not found on OCR page {value['page']}")
+            for name, child in value.items():
+                visit(child, f"{path}.{name}" if path else name)
         elif isinstance(value, list):
-            for child in value:
-                visit(child)
+            for index, child in enumerate(value):
+                visit(child, f"{path}[{index}]")
 
     visit(extraction.model_dump())
+    return warnings

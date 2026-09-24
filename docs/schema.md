@@ -5,7 +5,11 @@
 output. Every object forbids extra fields and every field is required; unknown
 observations use `{"value": null, "evidence": []}`. An explicit negative differs
 from an absent mention. Evidence contains a 1-based PDF page and a verbatim OCR
-substring, with whitespace normalized only for validation.
+substring, with whitespace normalized for comparison. Quote/page mismatches are
+non-blocking: results retain the extracted values and original evidence, record
+field-specific `evidence_warnings`, and set `normalized.review_required = true`.
+Warnings also appear in the JSON/CSV `review_reasons` for later manual review.
+Non-null observations still require an evidence entry; structural validation remains.
 
 The schema is based on the supplied CAP biopsy/TURBT v4.3.0.0, pages 4–7 (fields)
 and 11–15 (grading and invasion notes). CAP's cystectomy v4.2.0.0 supplies additional

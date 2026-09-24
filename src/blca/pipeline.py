@@ -263,14 +263,37 @@ def run_extraction(
             cached = read_json(current)
             if cached["fingerprint"] == key:
                 parsed = BladderExtraction.model_validate(cached["extraction"])
-                validate_evidence(parsed, {p["page"]: p["text"] for p in transcript["pages"]})
+                warnings = validate_evidence(
+                    parsed, {p["page"]: p["text"] for p in transcript["pages"]}
+                )
                 # Recompute rather than trusting edited derived fields.
-                cached["normalized"] = normalize(parsed)
+                cached["evidence_warnings"] = warnings
+                cached["normalized"] = normalize(parsed, evidence_warnings=warnings)
+                atomic_json(current, cached)
                 return cached
         except (ValueError, KeyError, TypeError):
             pass
     # Historical result remains in extractions/<fingerprint>; failed retries cannot export stale success.
     current.unlink(missing_ok=True)
+    parsed = None
+    if not force and (directory / "error.json").exists():
+        # Recover the last completed response from runs rejected by the former strict
+        # quote check, but only for this exact transcript/model/generation fingerprint.
+        # Other failures and forced reruns must still make a fresh request.
+        try:
+            failure = read_json(directory / "error.json")
+            if failure.get("message", "").startswith("Evidence not found on OCR page "):
+                candidates = list((work / "raw").glob("attempt-*.json"))
+                if candidates:
+                    latest = max(candidates, key=lambda p: (p.stat().st_mtime_ns, p.name))
+                    raw = read_json(latest)
+                    text = completed_text(raw, chat=True, max_tokens=s.max_tokens)
+                    parsed = BladderExtraction.model_validate_json(text)
+                    LOG.info(
+                        "%s recovered extraction previously rejected for evidence", directory.name
+                    )
+        except (OSError, ValueError, KeyError, TypeError):
+            pass
     schema = BladderExtraction.model_json_schema()
     system = prompt_text() + "\n\nJSON SCHEMA:\n" + json.dumps(schema)
     messages = [
@@ -279,6 +302,8 @@ def run_extraction(
     ]
     pages = {p["page"]: p["text"] for p in transcript["pages"]}
     for attempt in range(1, s.attempts + 1):
+        if parsed is not None:
+            break
         # A conservative byte bound for byte-fallback tokenizers, plus template/schema overhead.
         # Fail visibly, never slice reports to fit a context window.
         budget = len(json.dumps(messages, ensure_ascii=False).encode("utf-8")) + 1024 + s.max_tokens
@@ -306,7 +331,6 @@ def run_extraction(
             atomic_json(work / "raw" / f"attempt-{attempt}.json", raw)
             text = completed_text(raw, chat=True, max_tokens=s.max_tokens)
             parsed = BladderExtraction.model_validate_json(text)
-            validate_evidence(parsed, pages)
             break
         except (httpx.HTTPError, OSError, ValueError, KeyError) as e:
             # Keep diagnostics local. Retry with the original report and bounded correction feedback.
@@ -321,6 +345,9 @@ def run_extraction(
             }
             messages = messages[:2] + [correction]
             time.sleep(min(2 ** (attempt - 1), 8))
+    warnings = validate_evidence(parsed, pages)
+    if warnings:
+        LOG.warning("%s accepted with %d evidence review warnings", directory.name, len(warnings))
     result = {
         "status": "complete",
         "fingerprint": key,
@@ -336,7 +363,8 @@ def run_extraction(
         "extraction_model": model,
         "extraction_settings": settings,
         "extraction": parsed.model_dump(),
-        "normalized": normalize(parsed),
+        "evidence_warnings": warnings,
+        "normalized": normalize(parsed, evidence_warnings=warnings),
     }
     atomic_json(work / "result.json", result)
     atomic_json(current, result)

@@ -115,12 +115,12 @@ def normalize_specimen(s: BladderSpecimen) -> dict:
     }
 
 
-def normalize(extraction: BladderExtraction) -> dict:
+def normalize(extraction: BladderExtraction, *, evidence_warnings: list[str] | None = None) -> dict:
     specimens = [normalize_specimen(s) for s in extraction.bladder_specimens]
     # Evidence instances in inferred summaries must remain JSON serializable.
     for s in specimens:
         s["grade_evidence"] = [e.model_dump() for e in s["grade_evidence"]]
-    reasons = list(extraction.report_issues)
+    reasons = list(dict.fromkeys([*extraction.report_issues, *(evidence_warnings or [])]))
     if not specimens:
         reasons.append("No bladder specimen extracted; verify report relevance/OCR completeness.")
     if len(specimens) > 1:

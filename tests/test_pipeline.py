@@ -278,3 +278,74 @@ def test_interrupted_forced_ocr_cannot_fall_back_to_old_transcript(settings, rep
     process_report(report, settings, client, MODELS, "run", False)
     assert len(client.calls) == 7
     assert export_results([report], settings)["exported_reports"] == 1
+
+
+def test_unmatched_evidence_completes_once_and_exports_review_warnings(settings, report, payload):
+    import csv
+
+    payload["bladder_specimens"][0]["deepest_extent"]["evidence"][0]["quote"] = "Paraphrased quote"
+    client = FakeOllama(payload)
+    process_report(report, replace(settings, attempts=3), client, MODELS, "run", False)
+    assert len(client.calls) == 3  # two OCR pages, one extraction; no quote repair retries
+    directory = settings.output_dir / "reports" / report.report_id
+    result = read_json(directory / "result.json")
+    warnings = result["evidence_warnings"]
+    assert len(warnings) == 1
+    assert "deepest_extent" in warnings[0]
+    assert result["extraction"] == payload
+    assert result["normalized"]["review_required"] is True
+    assert warnings[0] in result["normalized"]["review_reasons"]
+    assert not (directory / "error.json").exists()
+    # Cached results and the exporter must reevaluate evidence, not trust edited flags.
+    result["evidence_warnings"] = []
+    result["normalized"]["review_reasons"] = []
+    atomic_json(directory / "result.json", result)
+    assert export_results([report], settings)["exported_reports"] == 1
+    exported = json.loads((settings.output_dir / "exports/bladder_features.jsonl").read_text())
+    assert exported["evidence_warnings"] == warnings
+    with (settings.output_dir / "exports/bladder_features.csv").open() as stream:
+        row = next(csv.DictReader(stream))
+    assert row["review_required"] == "True"
+    assert warnings[0] in json.loads(row["review_reasons"])
+    process_report(report, settings, client, MODELS, "run", False)
+    assert len(client.calls) == 3
+    assert read_json(directory / "result.json")["evidence_warnings"] == warnings
+
+
+@pytest.mark.parametrize(
+    "mode", ["recover", "changed_model", "force", "bad_json", "truncated", "other_error"]
+)
+def test_recover_only_matching_completed_legacy_evidence_failure(settings, report, payload, mode):
+    payload["bladder_specimens"][0]["deepest_extent"]["evidence"][0]["quote"] = "Paraphrased quote"
+    client = FakeOllama(payload)
+    process_report(report, settings, client, MODELS, "run", False)
+    directory = settings.output_dir / "reports" / report.report_id
+    result = read_json(directory / "result.json")
+    (directory / "result.json").unlink()
+    work = directory / "extractions" / result["fingerprint"]
+    (work / "result.json").unlink()
+    atomic_json(
+        directory / "error.json",
+        {
+            "error_type": "ValueError",
+            "message": "Evidence not found on OCR page 1"
+            if mode != "other_error"
+            else "Other failure",
+        },
+    )
+    if mode in {"bad_json", "truncated"}:
+        raw = read_json(work / "raw/attempt-1.json")
+        if mode == "bad_json":
+            raw["message"]["content"] = "{broken"
+        else:
+            raw["done_reason"] = "length"
+        atomic_json(work / "raw/attempt-1.json", raw)
+    models = MODELS
+    if mode == "changed_model":
+        models = dict(MODELS, extraction=dict(MODELS["extraction"], digest="changed"))
+    client.calls.clear()
+    process_report(report, settings, client, models, "extract", mode == "force")
+    assert len(client.calls) == (0 if mode == "recover" else 1)
+    assert read_json(directory / "result.json")["evidence_warnings"]
+    assert not (directory / "error.json").exists()
+    assert export_results([report], settings)["exported_reports"] == 1

@@ -38,8 +38,11 @@ def export_results(reports, settings):
             if transcript is None or transcript["text_sha256"] != result["ocr"]["text_sha256"]:
                 raise ValueError("Missing, modified or incomplete OCR transcript")
             parsed = BladderExtraction.model_validate(result["extraction"])
-            validate_evidence(parsed, {p["page"]: p["text"] for p in transcript["pages"]})
-            result["normalized"] = normalize(parsed)
+            warnings = validate_evidence(
+                parsed, {p["page"]: p["text"] for p in transcript["pages"]}
+            )
+            result["evidence_warnings"] = warnings
+            result["normalized"] = normalize(parsed, evidence_warnings=warnings)
             results.append(result)
             status.append(
                 {"report_id": report.report_id, "case_id": report.case_id, "status": "complete"}
@@ -139,7 +142,9 @@ def export_results(reports, settings):
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="TCGA-BLCA local PaddleOCR-VL and bladder extraction")
+    parser = argparse.ArgumentParser(
+        description="TCGA-BLCA local PaddleOCR-VL and bladder extraction"
+    )
     parser.add_argument(
         "--config",
         type=Path,

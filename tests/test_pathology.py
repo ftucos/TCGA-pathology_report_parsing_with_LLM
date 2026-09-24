@@ -117,18 +117,21 @@ def test_schema_rejects_extra_prostate_fields_and_missing_fields(payload):
         BladderExtraction.model_validate(payload)
 
 
-def test_evidence_is_required_and_must_exist_on_correct_page(payload):
+def test_evidence_required_but_quote_and_page_mismatches_only_warn(payload):
     payload["bladder_specimens"][0]["deepest_extent"]["evidence"] = []
     with pytest.raises(ValidationError):
         BladderExtraction.model_validate(payload)
     payload["bladder_specimens"][0]["deepest_extent"] = obs(
         "perivesical_soft_tissue", "Invented quote"
     )
-    with pytest.raises(ValueError, match="Evidence not found"):
-        validate_evidence(BladderExtraction.model_validate(payload), {1: TEXT})
+    warnings = validate_evidence(BladderExtraction.model_validate(payload), {1: TEXT})
+    assert warnings == [
+        "bladder_specimens[0].deepest_extent.evidence[0]: Evidence not found on OCR page 1"
+    ]
     payload["bladder_specimens"][0]["deepest_extent"] = obs("perivesical_soft_tissue", TEXT, page=2)
-    with pytest.raises(ValueError, match="page 2"):
-        validate_evidence(BladderExtraction.model_validate(payload), {1: TEXT})
+    warnings = validate_evidence(BladderExtraction.model_validate(payload), {1: TEXT})
+    assert len(warnings) == 1
+    assert "page 2" in warnings[0]
 
 
 def test_nodes_must_be_consistent_and_nonnegative(payload):
@@ -150,3 +153,19 @@ def test_no_bladder_requires_review(payload):
 def test_checked_in_schema_matches_code():
     saved = json.loads((Path(__file__).parents[1] / "docs/bladder.schema.json").read_text())
     assert saved == BladderExtraction.model_json_schema()
+
+
+def test_matching_evidence_has_no_warnings_and_tolerates_whitespace(payload):
+    parsed = BladderExtraction.model_validate(payload)
+    assert validate_evidence(parsed, {1: TEXT.replace(" ", "\n  ")}) == []
+
+
+def test_evidence_warnings_require_review_without_changing_findings(payload):
+    parsed = BladderExtraction.model_validate(payload)
+    before = parsed.model_dump()
+    plain = normalize(parsed)
+    warned = normalize(parsed, evidence_warnings=["Unmatched quote"])
+    assert warned["review_required"] is True
+    assert "Unmatched quote" in warned["review_reasons"]
+    assert warned["specimens"] == plain["specimens"]
+    assert parsed.model_dump() == before
