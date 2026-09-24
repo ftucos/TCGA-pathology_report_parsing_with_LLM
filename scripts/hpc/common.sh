@@ -10,7 +10,7 @@ fi
 export BLCA_PYTHON=${BLCA_PYTHON:-"$PROJECT_DIR/.venv/bin/python"}
 export TCGA_CONFIG_FILE=${TCGA_CONFIG_FILE:-"$PROJECT_DIR/pyproject.toml"}
 export OLLAMA_NO_CLOUD=1
-export OLLAMA_NUM_PARALLEL=${OLLAMA_NUM_PARALLEL:-1}
+export OLLAMA_NUM_PARALLEL=${OLLAMA_NUM_PARALLEL:-6}
 export OLLAMA_MAX_LOADED_MODELS=${OLLAMA_MAX_LOADED_MODELS:-1}
 [[ -x "$BLCA_PYTHON" ]] || { echo "Python missing: $BLCA_PYTHON" >&2; exit 2; }
 mkdir -p logs

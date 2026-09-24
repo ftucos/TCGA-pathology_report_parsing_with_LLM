@@ -39,7 +39,8 @@ output_dir = "processed/blca_local"
 [tool.blca.ollama]
 # OLLAMA_HOST overrides this inside a Slurm allocation.
 host = "http://127.0.0.1:11434"
-timeout_seconds = 600
+# Allow longer thinking with six concurrent extraction requests.
+timeout_seconds = 3600
 attempts = 3
 
 [tool.blca.ocr]
@@ -52,8 +53,8 @@ host = "http://127.0.0.1:8000"
 prompt = "OCR:"
 dpi = 250
 max_image_side = 3500
-num_ctx = 16384
-max_tokens = 8192
+num_ctx = 32768
+max_tokens = 16384
 repeat_penalty = 1.1
 # Fraction of total GPU memory reserved by vLLM; starting point for one H200.
 gpu_memory_utilization = 0.15
@@ -63,7 +64,8 @@ max_num_seqs = 2
 # A configurable starting point, not a validated pathology model.
 model = "qwen3.8:27b"
 think = true
-num_ctx = 65536
-max_tokens = 8192
-# Tune together with OLLAMA_NUM_PARALLEL after the HPC smoke test.
-workers = 2
+num_ctx = 131072
+# Shared output budget for thinking and the final JSON answer.
+max_tokens = 98304
+# Keep aligned with OLLAMA_NUM_PARALLEL in the HPC environment.
+workers = 6

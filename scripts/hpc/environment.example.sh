@@ -10,6 +10,6 @@ export BLCA_PADDLE_MODEL_DIR="/path/to/shared/paddle/PaddleOCR-VL-1.6"
 export OLLAMA_MODELS="/path/to/shared/ollama/models"
 # Optional; defaults to pyproject.toml in the project directory.
 # export TCGA_CONFIG_FILE="/path/to/project/pyproject.toml"
-# Keep these conservative until the smoke test succeeds; then tune with workers.
-export OLLAMA_NUM_PARALLEL=1
+# Six extraction slots; keep aligned with tool.blca.extraction.workers.
+export OLLAMA_NUM_PARALLEL=6
 export OLLAMA_MAX_LOADED_MODELS=1

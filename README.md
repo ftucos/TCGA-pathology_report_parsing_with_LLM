@@ -59,7 +59,7 @@ export BLCA_PYTHON="/absolute/project/venv-hpc/bin/python"
 export BLCA_PADDLE_PYTHON="/absolute/project/.venv-vllm-cu128/bin/python"
 export BLCA_PADDLE_MODEL_DIR="/shared/models/PaddleOCR-VL-1.6"
 export OLLAMA_MODELS="/shared/models/ollama"
-export OLLAMA_NUM_PARALLEL=1
+export OLLAMA_NUM_PARALLEL=6
 export OLLAMA_MAX_LOADED_MODELS=1
 # Add Ollama to PATH if your installation requires it.
 ```
@@ -159,14 +159,23 @@ locations. Changing the example shell file does not override an existing local f
   It uses 16,384 context tokens, up to 8,192 output tokens, temperature 0 and
   `repeat_penalty = 1.1` (sent as vLLM's `repetition_penalty`). GLM-specific stop
   tokens and Ollama OCR options have been removed.
-- Qwen uses Ollama's native schema-constrained `/api/chat`, `think = true`, 65,536
-  context tokens and 8,192 output tokens. Its output budget covers thinking and
+- Qwen uses Ollama's native schema-constrained `/api/chat`, `think = true`, 131,072
+  context tokens and 32,768 output tokens. Its output budget covers thinking and
   the final answer. Raw responses retain thinking; only final content is parsed.
 - `gpu_memory_utilization = 0.15` reserves about 21 GiB for Paddle on a 140 GiB H200.
   It is a starting setting for that GPU, not a universal setting. vLLM starts first;
   Qwen uses the remaining memory. `max_num_seqs = 2` limits Paddle concurrency.
-  `workers = 2` controls report workers; `OLLAMA_NUM_PARALLEL=1` keeps extraction
-  memory conservative. Slurm `--mem=64G` is CPU RAM, not VRAM.
+  `workers = 6` controls report workers; `OLLAMA_NUM_PARALLEL=6` permits up to
+  six concurrent Qwen requests. Slurm `--mem=64G` is CPU RAM, not VRAM.
+
+The request timeout is 3,600 seconds to accommodate longer non-streaming thinking
+responses. Six requests at 131,072 context tokens increase GPU context-cache
+memory substantially; check that Qwen stays fully on GPU on the allocated node.
+The model preflight checks the requested context against its advertised capacity.
+If an existing `environment.local.sh` still sets another `OLLAMA_NUM_PARALLEL`,
+change it to `6`; that explicit setting overrides the default in `common.sh`.
+Changing context/output budgets invalidates extraction caches, so extraction is
+recomputed with the new settings while matching Paddle OCR checkpoints are reused.
 
 Inspect `logs/paddle-*.log`, `logs/ollama-*.log` and report `error.json` on failures.
 HTTP errors retain the server's response body. If vLLM cannot allocate its context
