@@ -1,4 +1,4 @@
-"""Native Ollama endpoints only; no proxy, redirects, cloud model or automatic pulls."""
+"""Local HTTP transport and native Ollama client; no proxy, redirects or automatic pulls."""
 
 import ipaddress
 from urllib.parse import urlparse
@@ -22,11 +22,15 @@ def local_url(host: str) -> str:
         or p.fragment
         or p.path not in {"", "/"}
     ):
-        raise ValueError("Ollama must use a loopback HTTP endpoint (e.g. http://127.0.0.1:11434)")
+        raise ValueError(
+            "Model server must use a loopback HTTP endpoint (e.g. http://127.0.0.1:11434)"
+        )
     return url.rstrip("/")
 
 
-class Ollama:
+class LocalHTTP:
+    service = "Model server"
+
     def __init__(self, host: str, timeout: float = 600):
         self.client = httpx.Client(
             base_url=local_url(host), timeout=timeout, trust_env=False, follow_redirects=False
@@ -50,16 +54,20 @@ class Ollama:
             if len(detail) > 4000:
                 detail = detail[:4000] + " [truncated]"
             if not detail:
-                detail = "Empty error response; inspect the job's logs/ollama-*.log"
+                detail = "Empty error response; inspect the model server log"
             raise httpx.HTTPStatusError(
-                f"Ollama HTTP {response.status_code} for {endpoint}: {detail}",
+                f"{self.service} HTTP {response.status_code} for {endpoint}: {detail}",
                 request=e.request,
                 response=e.response,
             ) from e
         data = response.json()
         if "error" in data:
-            raise ValueError(f"Ollama error: {data['error']}")
+            raise ValueError(f"{self.service} error: {data['error']}")
         return data
+
+
+class Ollama(LocalHTTP):
+    service = "Ollama"
 
     def model_info(self, model: str, num_ctx: int | None = None, vision: bool = False) -> dict:
         if "cloud" in model.lower():

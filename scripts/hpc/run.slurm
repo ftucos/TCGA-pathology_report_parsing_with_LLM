@@ -10,8 +10,8 @@
 #SBATCH --time=6:00:00
 
 # Submit from the project root. Account/partition/GPU type belong in sbatch options.
-# Default: one job, one GPU, one Ollama server. Do not submit a multi-task array
-# when limiting total GPU usage to one. Parallel report requests share this server.
+# Default: one job, one GPU; Paddle/vLLM and Ollama share the allocated node.
+# Do not submit a multi-task array when limiting total GPU usage to one.
 # Preserve Slurm's CUDA_VISIBLE_DEVICES: never select an unallocated GPU.
 set -euo pipefail
 cd "${SLURM_SUBMIT_DIR:?Submit this script from the project root}"
@@ -21,9 +21,11 @@ if [[ "${SLURM_ARRAY_TASK_STEP:-1}" != 1 ]] ||
     echo "Use a contiguous Slurm array with step 1" >&2
     exit 2
 fi
-start_ollama
 stage=${BLCA_STAGE:-run}
 case "$stage" in run|ocr|extract) ;; *) echo "Invalid BLCA_STAGE" >&2; exit 2 ;; esac
+# Start Paddle first so its GPU reservation is established before Qwen loads.
+[[ "$stage" == extract ]] || start_paddle
+[[ "$stage" == ocr ]] || start_ollama
 shard_count=${SLURM_ARRAY_TASK_COUNT:-1}
 shard_index=$(( ${SLURM_ARRAY_TASK_ID:-0} - ${SLURM_ARRAY_TASK_MIN:-0} ))
 echo "Stage $stage; shard $shard_index/$shard_count; node $(hostname)"

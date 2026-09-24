@@ -8,18 +8,24 @@ from conftest import TEXT
 from blca.cli import export_results, main
 from blca.pipeline import (
     configuration_key,
-    process_report,
     render_page,
     report_lock,
     run_extraction,
     source_info,
 )
+from blca.pipeline import (
+    process_report as _process_report,
+)
 from blca.storage import atomic_json, load_manifest, read_json, shard
 
 MODELS = {
-    "ocr": {"name": "glm-ocr:bf16", "digest": "ocr-1", "ollama_version": "test"},
+    "ocr": {"name": "PaddlePaddle/PaddleOCR-VL-1.6", "digest": "ocr-1", "ollama_version": "test"},
     "extraction": {"name": "test-model", "digest": "llm-1", "ollama_version": "test"},
 }
+
+
+def process_report(report, settings, client, models, stage, force):
+    return _process_report(report, settings, client, models, stage, force, ocr_client=client)
 
 
 class FakeOllama:
@@ -31,12 +37,18 @@ class FakeOllama:
 
     def request(self, endpoint, data):
         self.calls.append((endpoint, data))
-        if endpoint == "/api/generate":
-            assert base64.b64decode(data["images"][0]).startswith(b"\x89PNG")
-            assert data["prompt"] == "Text Recognition:"
+        if endpoint == "/v1/chat/completions":
+            content = data["messages"][0]["content"]
+            assert base64.b64decode(content[0]["image_url"]["url"].split(",")[1]).startswith(
+                b"\x89PNG"
+            )
+            assert content[1]["text"] == "OCR:"
             if self.fail_page == len(self.calls):
                 raise TimeoutError("Interrupted OCR")
-            return {"done": True, "done_reason": "stop", "response": TEXT, "eval_count": 40}
+            return {
+                "choices": [{"finish_reason": "stop", "message": {"content": TEXT}}],
+                "usage": {"completion_tokens": 40},
+            }
         assert endpoint == "/api/chat"
         assert data["format"]["additionalProperties"] is False
         return {
@@ -242,6 +254,9 @@ def test_parallel_report_failure_does_not_stop_other_reports(
     client.model_info = lambda model, *a, **kw: MODELS["ocr" if kw.get("vision") else "extraction"]
     client.close = lambda: None
     monkeypatch.setattr(pipeline, "Ollama", lambda *a: client)
+    monkeypatch.setattr(pipeline, "PaddleOCR", lambda *a: client)
+    monkeypatch.setattr(pipeline, "local_model_info", lambda s: MODELS["ocr"])
+    client.verify_model = lambda s: None
     missing = replace(report, report_id="missing", path=settings.root / "missing.pdf")
     summary = pipeline.run_reports([report, missing], replace(settings, workers=2), "run")
     assert summary == {"selected": 2, "complete": 1, "failed": 1}

@@ -13,3 +13,7 @@ logs/
 processed/blca_local/
 .ollama-models/
 scripts/hpc/environment.local.sh
+
+.venv-vllm/
+venv-hpc/
+.paddle-models/

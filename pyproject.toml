@@ -5,12 +5,13 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "tcga-blca-local"
 version = "0.1.0"
-description = "Local GLM-OCR and structured bladder pathology extraction"
+description = "Local PaddleOCR-VL and structured bladder pathology extraction"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = ["httpx>=0.27,<1", "pydantic>=2.10,<3", "pypdfium2>=4.30,<6", "Pillow>=11,<13"]
 
 [project.optional-dependencies]
+models = ["huggingface-hub>=0.34,<2"]
 dev = ["pytest>=8,<10", "ruff>=0.11"]
 
 [project.scripts]
@@ -42,15 +43,21 @@ timeout_seconds = 600
 attempts = 3
 
 [tool.blca.ocr]
-model = "glm-ocr:bf16"
+# Served locally by vLLM; not an Ollama model.
+model = "PaddlePaddle/PaddleOCR-VL-1.6"
+revision = "main"
+model_dir = ".paddle-models/PaddleOCR-VL-1.6"
+# BLCA_PADDLE_HOST and BLCA_PADDLE_MODEL_DIR override these in HPC jobs.
+host = "http://127.0.0.1:8000"
+prompt = "OCR:"
 dpi = 250
 max_image_side = 3500
 num_ctx = 16384
 max_tokens = 8192
-repeat_penalty = 1.2
-repeat_last_n = 256
-# Both GLM-OCR end markers; some Ollama runners recognize only endoftext from metadata.
-stop = ["<|endoftext|>", "<|user|>"]
+repeat_penalty = 1.1
+# Fraction of total GPU memory reserved by vLLM; starting point for one H200.
+gpu_memory_utilization = 0.15
+max_num_seqs = 2
 
 [tool.blca.extraction]
 # A configurable starting point, not a validated pathology model.

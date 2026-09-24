@@ -1,1 +1,0 @@
-Batch requests of this size fail in Tier 1 due to exceeding the 2 million token limit.

@@ -1,168 +1,156 @@
 # TCGA-BLCA: local pathology report extraction
 
-Rasterize the downloaded TCGA-BLCA PDFs, transcribe every page with **GLM-OCR on
-Ollama**, and extract bladder carcinoma features with a second local Ollama model.
-No Google Cloud or OpenAI API, API key, hosted inference, or runtime model download
-is used. Models and Python packages must be staged before offline compute jobs.
+Rasterize the downloaded TCGA-BLCA PDFs, transcribe each page with
+**PaddlePaddle/PaddleOCR-VL-1.6 on local vLLM**, then extract structured bladder
+features with **Qwen3.8 on local Ollama, thinking enabled**. The OCR integration
+uses the recognition model with the `OCR:` prompt on page images. It does not
+install the separate PaddleOCR document-layout pipeline or PP-DocLayoutV3.
+The deployment follows the [official vLLM recipe](https://recipes.vllm.ai/PaddlePaddle/PaddleOCR-VL-1.6).
 
-The existing manifest and downloaded PDFs are inputs, unchanged by this rewrite.
-They currently contain **413 reports for 412 cases**. Outputs are keyed by GDC file
-UUID, not patient ID. Separate specimens and lesions remain separate; the pipeline
-does not silently choose one report or stage per patient.
+Inference runs locally without API keys or runtime weight downloads. The manifest
+contains 413 reports for 412 cases. Outputs are keyed by report UUID; separate
+specimens and lesions remain separate.
 
-## Quick start
+## Install on the HPC
 
-Use Python 3.11+ and a recent Ollama release with GLM-OCR support. Create the Python
-environment on the HPC (do not copy a macOS virtual environment to Linux):
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -e '.[dev]'
-blca inventory --verify-checksums
-blca run --dry-run --limit 2
-```
-
-These last two commands need neither a GPU nor a running Ollama server. Runtime
-settings live in the `[tool.blca.*]` sections of `pyproject.toml`; edit the models,
-paths and generation settings there. No separate INI file is needed. Relative
-paths resolve against the TOML file's directory. Run from the project root, or
-select another TOML file with `--config /path/to/pyproject.toml` or
-`TCGA_CONFIG_FILE`. Any alternative TOML must contain the full `[tool.blca.*]`
-settings. `OLLAMA_HOST` still overrides the endpoint inside Slurm jobs.
-
-In a GPU allocation, start your local Ollama service with `OLLAMA_NO_CLOUD=1` and
-pre-downloaded weights. Then:
+Use Linux Python 3.11 or 3.12 for the GPU environments. Keep your existing
+`venv-hpc`; install the updated project into it. Create a **separate vLLM venv**
+so its PyTorch/CUDA dependencies do not change the application environment.
+Load your institute's Python/CUDA modules first, using the same modules for jobs.
+Do not copy a macOS virtual environment to the HPC.
 
 ```bash
-blca run --limit 2
-# After inspection, process the full manifest. Completed matching work is reused.
-blca run
-blca export
+# From the project root; assumes your existing environment is called venv-hpc.
+venv-hpc/bin/python -m pip install -e '.[models]'
+python3 -m venv .venv-vllm
+.venv-vllm/bin/python -m pip install 'vllm>=0.11.1'
+venv-hpc/bin/python -m blca inventory --verify-checksums
+venv-hpc/bin/python -m blca run --dry-run --limit 2
 ```
 
-`run` performs OCR and extraction. Alternatively, `ocr` and `extract` run the
-stages separately; `extract` requires matching complete OCR checkpoints. All
-three accept `--report-id UUID` (repeatable), `--num-shards N --shard-index I`,
-`--limit N`, `--dry-run`, and `--force`. `--force` recomputes the requested stage;
-`run --force` recomputes both. Errors give a nonzero exit status while other
-reports continue. Retry the same command to resume.
+Choose a vLLM wheel compatible with your cluster's driver and Python version;
+see [vLLM GPU installation](https://docs.vllm.ai/en/latest/getting_started/installation/gpu/).
+Package installation and weight staging need download access, or an institute
+mirror/staged packages. Record the working versions with `pip freeze` in each
+environment after the GPU smoke test.
 
-## HPC / Slurm
+Edit `scripts/hpc/environment.local.sh` using
+[environment.example.sh](scripts/hpc/environment.example.sh) as a guide. If the
+local file already exists, **add the new Paddle variables to it**; it is not
+replaced automatically. Use absolute shared-storage paths:
 
-The design follows the original `dossier_medical_reports_scraping` project: a local
-Ollama server inside a Slurm allocation. The default is **one job, one GPU and one
-Ollama server**, with two report workers sharing that server. Each worker sends
-one model request at a time; GPU request concurrency does not request more GPUs.
+```bash
+# Put your actual module load commands here, before the environment variables.
+export BLCA_PYTHON="/absolute/project/venv-hpc/bin/python"
+export BLCA_PADDLE_PYTHON="/absolute/project/.venv-vllm/bin/python"
+export BLCA_PADDLE_MODEL_DIR="/shared/models/PaddleOCR-VL-1.6"
+export OLLAMA_MODELS="/shared/models/ollama"
+export OLLAMA_NUM_PARALLEL=1
+export OLLAMA_MAX_LOADED_MODELS=1
+# Add Ollama to PATH if your installation requires it.
+```
 
-1. Copy `scripts/hpc/environment.example.sh` to
-   `scripts/hpc/environment.local.sh`. Set the absolute Python executable,
-   `OLLAMA_MODELS` on shared storage and Ollama's binary path. Add your site's
-   CUDA module if required. The reference project's paths are not assumed.
-2. On a machine/allocation where internet downloads are permitted, run
-   `bash scripts/hpc/prepare_models.sh`. It starts its own loopback Ollama server,
-   pulls the two models from `[tool.blca]` in `pyproject.toml`, then stops that server. If compute nodes
-   cannot download packages either, install the Linux environment from an institute
-   mirror or staged wheels before submission. Keep the staged model directory
-   available unchanged to compute jobs. Skip this step if the models are already cached.
-3. Submit from the project root. Create `logs/` **before** submission, since Slurm
-   opens log files before the script starts. Supply your institute's account,
-   partition and GPU type options to `sbatch` where required.
+`sbatch` sources this file and invokes the specified Python executables directly.
+You do not need `source venv-hpc/bin/activate` in the batch script. Module loading
+only happens if you put the required `module load` commands in the local file.
+All paths must be accessible on the allocated compute node.
+
+Stage weights explicitly on a machine/allocation allowed to download:
+
+```bash
+bash scripts/hpc/prepare_models.sh
+```
+
+This downloads Paddle from Hugging Face and pulls only the extraction model via
+Ollama. Paddle's configured `revision` (default `main`) is resolved to an immutable
+commit. Files are stored under `BLCA_PADDLE_MODEL_DIR/snapshots/<commit>`; a manifest
+records SHA-256 hashes. Compute jobs verify this local snapshot and run with
+Hugging Face offline mode. They do not contact Hugging Face or pull Ollama models.
+The model's custom code is enabled through `--trust-remote-code`, using the staged
+snapshot. Re-running preparation may resolve a newer `main`; set a commit hash
+in `pyproject.toml` to pin the revision across future preparations. Do not prepare
+models while processing jobs are using the same model directory.
+
+## Submit Slurm jobs
+
+Submit from the project root and supply institute-specific account, partition and
+GPU type options as needed. Create `logs/` before submission:
 
 ```bash
 mkdir -p logs
-# First: one task and two reports; inspect OCR, JSON and GPU placement.
+# Smoke test: two reports, one GPU.
 sbatch scripts/hpc/run.slurm --limit 2
-
-# After the smoke test finishes: the full dataset on one GPU.
+# After inspecting transcripts and extraction results:
 sbatch scripts/hpc/run.slurm
 ```
 
-Do not pass a multi-task `--array` option when limiting total GPU usage to one.
-Array support remains available for explicit multi-GPU runs: each array task
-starts its own Ollama server and requests a separate GPU. On an older HPC copy
-that still has `#SBATCH --array=0-3`, `sbatch --array=0-0 scripts/hpc/run.slurm`
-overrides it to one task and processes the entire manifest.
-Do not run overlapping submissions into the same output directory.
-Per-report advisory locks prevent concurrent writes; verify that your shared
-filesystem supports POSIX advisory locking.
+The default `run` job starts **Paddle/vLLM, Ollama and the Python pipeline on the
+same allocated node**, sharing one GPU. Each server gets its own dynamically
+selected loopback port; those ports override the TOML defaults inside the job.
+A login node or separate job cannot reach these loopback endpoints. Both servers
+are stopped on job exit, including vLLM worker processes.
 
-For staged execution, export `BLCA_STAGE=ocr` or `BLCA_STAGE=extract` before
-submitting (default: `run`). Submit extraction only after the OCR job completes.
-The `run` workflow is simpler and resumes per report automatically.
-
-After the processing job, export once on a CPU node. Replace `123456` with the
-job ID printed by `sbatch`:
+For separate stages, each job starts the service it needs:
 
 ```bash
+BLCA_STAGE=ocr sbatch scripts/hpc/run.slurm --limit 2
+# After OCR completes, with matching configuration and staged Paddle weights:
+BLCA_STAGE=extract sbatch scripts/hpc/run.slurm --limit 2
+# CPU-only export after processing (replace 123456 with the processing job ID):
 sbatch --dependency=afterany:123456 scripts/hpc/export.slurm
 ```
 
-`afterany` permits an accounting export even when processing failed. Export includes
-all valid results and writes a status entry for every manifest report; it exits
-nonzero if any report is missing, failed or stale. After retries, rerun export.
-The processing job does not append to a shared CSV.
+Extraction-only verifies Paddle's local identity and reuses complete OCR
+checkpoints; it does not start the Paddle server. Export needs neither server.
+`afterany` permits an accounting export even after failures. Export returns
+nonzero if any manifest report is missing, failed or stale; this is expected
+after a two-report smoke test. Rerun export after completing the dataset.
 
-The scripts bind Ollama to a dynamically selected loopback port, check startup
-with a bounded timeout and stop only their own server on exit. They preserve
-Slurm's `CUDA_VISIBLE_DEVICES`. No model is pulled by a compute job. `OLLAMA_NO_CLOUD=1`,
-loopback-only requests, disabled HTTP proxy/redirect handling, and model preflight
-checks keep inference local. `/api/show` is checked for remote models, OCR vision
-support and advertised context limits. Inspect `ollama ps`/`nvidia-smi` during the
-smoke test to confirm GPU use; CPU fallback is possible if your installation or
-allocation is wrong and cannot be tested on this laptop.
+Do not use a multi-task array if total GPU usage must stay at one. Each array task
+requests its own GPU and starts its own servers. Avoid overlapping submissions
+into the same output directory. Per-report POSIX advisory locks prevent concurrent
+writes; the shared filesystem must support them.
 
-## Models and resources
+## Settings, memory and troubleshooting
 
-Default OCR is `glm-ocr:bf16`, with each visible PDF page rendered at 250 DPI and a
-maximum side of 3500 pixels. The embedded PDF text layer is never used. GLM-OCR's
-native Ollama `/api/generate` receives a PNG and `Text Recognition:`. This is
-page-image recognition, not the optional GLM-OCR SDK layout-detector pipeline.
-OCR requests explicitly set `repeat_penalty = 1.1` and `repeat_last_n = 256`;
-both are configurable under `[tool.blca.ocr]` and included in cache fingerprints.
-See the [official GLM-OCR Ollama guide](https://github.com/zai-org/GLM-OCR/blob/main/examples/ollama-deploy/README.md)
-and [model listing](https://ollama.com/library/glm-ocr).
+Runtime settings live in `[tool.blca.*]` in `pyproject.toml`. Relative paths resolve
+against that file. `TCGA_CONFIG_FILE` selects an alternative complete TOML file.
+`BLCA_PADDLE_HOST`, `BLCA_PADDLE_MODEL_DIR` and `OLLAMA_HOST` override their respective
+locations. Changing the example shell file does not override an existing local file.
 
-The configured extraction model is the user's cached `qwen3.8:27b`, a configurable
-local model, with 65,536 context tokens and 8,192 output tokens. It has not been
-validated for this cohort. Choose another local instruction model in `pyproject.toml`
-if desired and check its context capacity. Extraction uses Ollama's native
-[schema-constrained JSON output](https://docs.ollama.com/capabilities/structured-outputs),
-temperature 0, seed 0 and thinking enabled (`think = true` under
-`[tool.blca.extraction]`). The output token budget covers thinking and the final
-answer. Raw responses retain thinking; only the final answer is parsed as JSON.
-Changing thinking settings invalidates extraction caches.
+- OCR renders the visible page at 250 DPI, with a 3500-pixel maximum side; embedded
+  PDF text is ignored. Paddle receives a PNG and the configurable `OCR:` prompt.
+  It uses 16,384 context tokens, up to 8,192 output tokens, temperature 0 and
+  `repeat_penalty = 1.1` (sent as vLLM's `repetition_penalty`). GLM-specific stop
+  tokens and Ollama OCR options have been removed.
+- Qwen uses Ollama's native schema-constrained `/api/chat`, `think = true`, 65,536
+  context tokens and 8,192 output tokens. Its output budget covers thinking and
+  the final answer. Raw responses retain thinking; only final content is parsed.
+- `gpu_memory_utilization = 0.15` reserves about 21 GiB for Paddle on a 140 GiB H200.
+  It is a starting setting for that GPU, not a universal setting. vLLM starts first;
+  Qwen uses the remaining memory. `max_num_seqs = 2` limits Paddle concurrency.
+  `workers = 2` controls report workers; `OLLAMA_NUM_PARALLEL=1` keeps extraction
+  memory conservative. Slurm `--mem=64G` is CPU RAM, not VRAM.
 
-Start with `workers = 2` in `[tool.blca.extraction]` and `OLLAMA_NUM_PARALLEL=2` in
-`scripts/hpc/environment.local.sh`. If you already copied that local file, update
-it explicitly; changing the example does not override an existing local setting.
-These are concurrent report workers and per-model request slots, respectively,
-not additional servers or GPUs. `workers` applies to the entire report pipeline,
-including OCR. PDF rendering is serialized because PDFium is not thread-safe.
+Inspect `logs/paddle-*.log`, `logs/ollama-*.log` and report `error.json` on failures.
+HTTP errors retain the server's response body. If vLLM cannot allocate its context
+cache, raise its GPU fraction or reduce OCR context/concurrency; if Qwen cannot
+fit, reduce extraction context/concurrency or run OCR and extraction as separate
+stages. Check `nvidia-smi` and `ollama ps` on the allocated node, using the job's
+printed `OLLAMA_HOST`. Actual model quality, GPU fit and throughput need a smoke
+test on the cluster; switching models does not guarantee repetition-free OCR.
 
-On an H200, benchmark 4 workers/slots after the two-worker smoke test if memory
-permits. Model quantization, architecture and context size determine actual VRAM
-needs; parameter count alone is insufficient to choose the maximum concurrency.
-At the current 65,536-token extraction context, two parallel slots allocate
-context capacity for two requests; four slots increase it again. See
-[Ollama's concurrency guidance](https://docs.ollama.com/faq#how-does-ollama-handle-concurrent-requests).
-Check GPU placement and memory on the allocated node before increasing concurrency.
-For `ollama ps`, set `OLLAMA_HOST` to the loopback address/port printed in the job
-log, and run it on that same compute node; the login node's Ollama is unrelated.
-The Slurm `--mem` directive controls CPU RAM, not VRAM. `OLLAMA_MAX_LOADED_MODELS=2`
-allows GLM-OCR and the extraction model to remain resident when memory permits;
-it does not request a second GPU.
-Model digests and Ollama/package versions are recorded. Preserve model weights
-and environment versions for reproducible reruns; generation is not guaranteed
-bitwise reproducible across hardware or runtime versions.
+`run`, `ocr` and `extract` accept `--report-id UUID` (repeatable), `--limit N`,
+`--num-shards N --shard-index I`, `--dry-run` and `--force`. Retrying resumes matching
+successful pages. `--force` recomputes the selected stage. New Paddle settings and
+weight identities invalidate old GLM checkpoints automatically.
 
-Before sending an extraction request, the pipeline checks a deliberately
-conservative UTF-8 byte budget for prompt, schema, report and output reserve.
-Oversized reports fail visibly rather than being sliced. Increase `num_ctx` only
-within the selected model's supported capacity, or use a larger-context model.
-There is currently no automatic long-report chunking. Empty OCR output, including
-an unrecognized blank page, is treated as a failure requiring inspection. Partial
-or output-token-limited responses never become successful checkpoints.
+Empty or truncated OCR never becomes a successful checkpoint and fails immediately
+without identical deterministic retries. Transport/server failures still use the
+configured retry count. Reports that exceed
+the conservative extraction context budget fail visibly without slicing the text.
+There is no automatic long-report chunking. Inspect transcripts before processing
+the full dataset.
 
 ## Bladder features and interpretation
 
@@ -233,10 +221,9 @@ silently exported. Repeating the same command resumes matching successful pages.
 `--force` may overwrite raw attempts for the same fingerprint; save a separate
 output directory when retaining multiple identical-setting trials is important.
 
-Export runs without Ollama and verifies the saved provenance against the current
-configuration, source PDF and transcript. It cannot discover that a remote running
-Ollama service now assigns a different digest to a tag; run processing preflight
-again when changing locally installed weights. JSON is authoritative; CSV is a
+Export runs without model servers and verifies the saved provenance against the current
+configuration, source PDF and transcript. It does not rehash staged model weights or query running services; run processing
+preflight again when changing installed weights. JSON is authoritative; CSV is a
 convenience projection and does not contain every nested feature or evidence quote.
 An empty bladder extraction remains in JSON/status with a review flag and has no
 specimen CSV row. Do not treat CSV row counts as report or patient counts.
@@ -253,7 +240,7 @@ HTTP preflight, model response validation, stage/grade rules, checkpoint recover
 configuration/model invalidation, locks and export accounting. Model responses
 are mocked. See [the synthetic example](docs/example.extraction.json), which is
 not a result from a TCGA patient. GPU throughput, actual model compatibility on
-your installed Ollama build, Slurm execution and clinical extraction accuracy
+your installed vLLM/Ollama builds, Slurm execution and clinical extraction accuracy
 have not been tested on the laptop.
 
 The previous cloud/breast scripts and redundant INI configuration have been

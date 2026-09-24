@@ -20,8 +20,12 @@ class Settings:
     ocr_num_ctx: int
     ocr_max_tokens: int
     ocr_repeat_penalty: float
-    ocr_repeat_last_n: int
-    ocr_stop: tuple[str, ...]
+    ocr_revision: str
+    ocr_model_dir: Path
+    ocr_host: str
+    ocr_prompt: str
+    ocr_gpu_memory: float
+    ocr_max_num_seqs: int
     extraction_model: str
     think: bool
     num_ctx: int
@@ -68,8 +72,15 @@ def load_settings(path: Path) -> Settings:
         ocr_num_ctx=setting("ocr", "num_ctx", int),
         ocr_max_tokens=setting("ocr", "max_tokens", int),
         ocr_repeat_penalty=setting("ocr", "repeat_penalty", (int, float)),
-        ocr_repeat_last_n=setting("ocr", "repeat_last_n", int),
-        ocr_stop=tuple(setting("ocr", "stop", list)),
+        ocr_revision=setting("ocr", "revision"),
+        ocr_model_dir=(
+            root
+            / Path(os.getenv("BLCA_PADDLE_MODEL_DIR") or setting("ocr", "model_dir")).expanduser()
+        ).resolve(),
+        ocr_host=os.getenv("BLCA_PADDLE_HOST") or setting("ocr", "host"),
+        ocr_prompt=setting("ocr", "prompt"),
+        ocr_gpu_memory=setting("ocr", "gpu_memory_utilization", (int, float)),
+        ocr_max_num_seqs=setting("ocr", "max_num_seqs", int),
         extraction_model=setting("extraction", "model"),
         think=setting("extraction", "think", bool),
         num_ctx=setting("extraction", "num_ctx", int),
@@ -97,8 +108,10 @@ def load_settings(path: Path) -> Settings:
         raise ValueError("Output token budgets must be smaller than context sizes")
     if not math.isfinite(s.ocr_repeat_penalty) or s.ocr_repeat_penalty <= 0:
         raise ValueError("OCR repeat_penalty must be finite and positive")
-    if s.ocr_repeat_last_n < -1:
-        raise ValueError("OCR repeat_last_n must be -1, 0, or positive")
-    if any(not isinstance(stop, str) or not stop.strip() for stop in s.ocr_stop):
-        raise ValueError("OCR stop must contain only nonempty strings")
+    if not 0 < s.ocr_gpu_memory < 1:
+        raise ValueError("OCR gpu_memory_utilization must be between 0 and 1")
+    if s.ocr_max_num_seqs <= 0:
+        raise ValueError("OCR max_num_seqs must be positive")
+    if not all(v.strip() for v in (s.ocr_model, s.ocr_revision, s.ocr_prompt)):
+        raise ValueError("OCR model, revision and prompt must be nonempty")
     return s

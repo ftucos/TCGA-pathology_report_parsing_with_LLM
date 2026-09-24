@@ -1,4 +1,3 @@
-import base64
 import fcntl
 import hashlib
 import io
@@ -20,6 +19,7 @@ from . import __version__
 from .config import Settings
 from .normalize import RULES_VERSION, normalize
 from .ollama import Ollama, completed_text
+from .paddle import InvalidOCRResponse, PaddleOCR, completed_ocr, local_model_info, ocr_payload
 from .schema import BladderExtraction, validate_evidence
 from .storage import Report, atomic_json, atomic_text, fingerprint, read_json
 
@@ -35,14 +35,16 @@ def prompt_text() -> str:
 def ocr_settings(s: Settings) -> dict:
     return {
         "model": s.ocr_model,
+        "revision": s.ocr_revision,
         "dpi": s.dpi,
         "max_image_side": s.max_image_side,
         "num_ctx": s.ocr_num_ctx,
         "max_tokens": s.ocr_max_tokens,
         "repeat_penalty": s.ocr_repeat_penalty,
-        "repeat_last_n": s.ocr_repeat_last_n,
-        "stop": list(s.ocr_stop),
-        "prompt": "Text Recognition:",
+        "backend": "vllm",
+        "prompt": s.ocr_prompt,
+        "temperature": 0,
+        "seed": 0,
         "renderer": version("pypdfium2"),
         "pillow": version("Pillow"),
         "pipeline_version": __version__,
@@ -149,7 +151,7 @@ def run_ocr(
     report: Report,
     source: dict,
     s: Settings,
-    client: Ollama,
+    client: PaddleOCR | None,
     model: dict,
     directory: Path,
     *,
@@ -196,34 +198,21 @@ def run_ocr(
             pages.append({"page": number, "text": cached_page["text"]})
             continue
         png = render_page(report.path, number - 1, s.dpi, s.max_image_side)
-        payload = {
-            "model": s.ocr_model,
-            "prompt": "Text Recognition:",
-            "images": [base64.b64encode(png).decode("ascii")],
-            "stream": False,
-            "keep_alive": "10m",
-            "options": {
-                "temperature": 0.1,
-                "seed": 0,
-                "num_ctx": s.ocr_num_ctx,
-                "num_predict": s.ocr_max_tokens,
-                "repeat_penalty": s.ocr_repeat_penalty,
-                "repeat_last_n": s.ocr_repeat_last_n,
-                "stop": list(s.ocr_stop),
-            },
-        }
+        if client is None:
+            raise ValueError("Paddle OCR client is required for uncached pages")
+        payload = ocr_payload(s, png)
         for attempt in range(1, s.attempts + 1):
             try:
-                raw = client.request("/api/generate", payload)
+                raw = client.request("/v1/chat/completions", payload)
                 atomic_json(work / "raw" / f"page-{number:04d}-attempt-{attempt}.json", raw)
-                text = completed_text(raw, chat=False, max_tokens=s.ocr_max_tokens)
+                text = completed_ocr(raw, max_tokens=s.ocr_max_tokens)
                 break
             except Exception as e:
                 atomic_text(
                     work / "raw" / f"page-{number:04d}-attempt-{attempt}.error.txt",
                     f"{type(e).__name__}: {e}",
                 )
-                if attempt == s.attempts:
+                if isinstance(e, InvalidOCRResponse) or attempt == s.attempts:
                     raise
                 time.sleep(min(2 ** (attempt - 1), 8))
         atomic_json(
@@ -355,7 +344,14 @@ def run_extraction(
 
 
 def process_report(
-    report: Report, s: Settings, client: Ollama, models: dict, stage: str, force: bool
+    report: Report,
+    s: Settings,
+    client: Ollama | None,
+    models: dict,
+    stage: str,
+    force: bool,
+    *,
+    ocr_client: PaddleOCR | None = None,
 ) -> str:
     directory = s.output_dir / "reports" / report.report_id
     with report_lock(directory):
@@ -368,13 +364,15 @@ def process_report(
                 report,
                 source,
                 s,
-                client,
+                ocr_client,
                 models["ocr"],
                 directory,
                 force=force and stage != "extract",
                 require_cached=stage == "extract",
             )
             if stage != "ocr":
+                if client is None:
+                    raise ValueError("Ollama client is required for extraction")
                 run_extraction(transcript, s, client, models["extraction"], directory, force=force)
             (directory / "error.json").unlink(missing_ok=True)
             return "complete"
@@ -396,15 +394,25 @@ def process_report(
 def run_reports(reports: list[Report], s: Settings, stage: str, force: bool = False) -> dict:
     if not reports:
         return {"selected": 0, "complete": 0, "failed": 0}
-    client = Ollama(s.host, s.timeout)
+    if stage not in {"run", "ocr", "extract"}:
+        raise ValueError(f"Invalid stage: {stage}")
+    client = None
+    ocr_client = None
     try:
-        models = {"ocr": client.model_info(s.ocr_model, s.ocr_num_ctx, vision=True)}
+        models = {"ocr": local_model_info(s)}
+        if stage != "extract":
+            ocr_client = PaddleOCR(s.ocr_host, s.timeout)
+            ocr_client.verify_model(s)
         if stage != "ocr":
+            client = Ollama(s.host, s.timeout)
             models["extraction"] = client.model_info(s.extraction_model, s.num_ctx)
         summary = {"selected": len(reports), "complete": 0, "failed": 0}
         with ThreadPoolExecutor(max_workers=s.workers) as pool:
             futures = {
-                pool.submit(process_report, r, s, client, models, stage, force): r for r in reports
+                pool.submit(
+                    process_report, r, s, client, models, stage, force, ocr_client=ocr_client
+                ): r
+                for r in reports
             }
             for future in as_completed(futures):
                 report = futures[future]
@@ -421,4 +429,7 @@ def run_reports(reports: list[Report], s: Settings, stage: str, force: bool = Fa
                     )
         return summary
     finally:
-        client.close()
+        if client is not None:
+            client.close()
+        if ocr_client is not None:
+            ocr_client.close()

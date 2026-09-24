@@ -139,7 +139,7 @@ def export_results(reports, settings):
 
 
 def main(argv=None):
-    parser = argparse.ArgumentParser(description="TCGA-BLCA local GLM-OCR and bladder extraction")
+    parser = argparse.ArgumentParser(description="TCGA-BLCA local PaddleOCR-VL and bladder extraction")
     parser.add_argument(
         "--config",
         type=Path,
@@ -161,7 +161,7 @@ def main(argv=None):
         p.add_argument(
             "--dry-run",
             action="store_true",
-            help="List selection; no Ollama calls or output writes",
+            help="List selection; no model calls or output writes",
         )
     sub.add_parser(
         "export", help="Export all complete reports; nonzero exit if any are unavailable"

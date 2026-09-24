@@ -3,13 +3,13 @@
 # This is the only pipeline helper that pulls models; compute jobs never pull.
 set -euo pipefail
 source "$(dirname -- "${BASH_SOURCE[0]}")/common.sh"
+"$BLCA_PYTHON" -m blca.paddle prepare --config "$TCGA_CONFIG_FILE"
 models=$("$BLCA_PYTHON" - <<'PY'
 import os
 from pathlib import Path
 from blca.config import load_settings
 s = load_settings(Path(os.environ['TCGA_CONFIG_FILE']))
-for model in dict.fromkeys([s.ocr_model, s.extraction_model]):
-    print(model)
+print(s.extraction_model)
 PY
 )
 start_ollama

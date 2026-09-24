@@ -1,0 +1,210 @@
+{
+  "synthetic_example": true,
+  "ocr_pages": [
+    {
+      "page": 1,
+      "text": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+    }
+  ],
+  "extraction": {
+    "schema_version": "1.0",
+    "bladder_specimens": [
+      {
+        "specimen_label": "A: bladder",
+        "procedure": {
+          "value": "cystoprostatectomy",
+          "evidence": [
+            {
+              "page": 1,
+              "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+            }
+          ]
+        },
+        "tumor_site": {
+          "value": null,
+          "evidence": []
+        },
+        "histologic_type": {
+          "value": "Urothelial carcinoma",
+          "evidence": [
+            {
+              "page": 1,
+              "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+            }
+          ]
+        },
+        "histologic_family": {
+          "value": "urothelial",
+          "evidence": [
+            {
+              "page": 1,
+              "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+            }
+          ]
+        },
+        "components": [],
+        "grade": {
+          "reported": {
+            "value": null,
+            "evidence": []
+          },
+          "raw": {
+            "value": "poorly differentiated",
+            "evidence": [
+              {
+                "page": 1,
+                "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+              }
+            ]
+          },
+          "differentiation": {
+            "value": "poor",
+            "evidence": [
+              {
+                "page": 1,
+                "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+              }
+            ]
+          },
+          "legacy_who1973": {
+            "value": null,
+            "evidence": []
+          }
+        },
+        "tumor_size_cm": {
+          "value": null,
+          "evidence": []
+        },
+        "tumor_configuration": {
+          "value": null,
+          "evidence": []
+        },
+        "deepest_extent": {
+          "value": "perivesical_soft_tissue",
+          "evidence": [
+            {
+              "page": 1,
+              "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+            }
+          ]
+        },
+        "muscularis_propria": {
+          "value": null,
+          "evidence": []
+        },
+        "lymphovascular_invasion": {
+          "value": null,
+          "evidence": []
+        },
+        "associated_cis": {
+          "value": null,
+          "evidence": []
+        },
+        "margins": [],
+        "nodes": {
+          "examined": {
+            "value": null,
+            "evidence": []
+          },
+          "positive": {
+            "value": null,
+            "evidence": []
+          },
+          "count_qualifier": {
+            "value": null,
+            "evidence": []
+          },
+          "sites": {
+            "value": null,
+            "evidence": []
+          },
+          "extranodal_extension": {
+            "value": null,
+            "evidence": []
+          }
+        },
+        "stage": {
+          "reported_pt": {
+            "value": null,
+            "evidence": []
+          },
+          "raw": {
+            "value": null,
+            "evidence": []
+          },
+          "modifiers": {
+            "value": null,
+            "evidence": []
+          },
+          "reported_pn": {
+            "value": null,
+            "evidence": []
+          },
+          "reported_pm": {
+            "value": null,
+            "evidence": []
+          },
+          "edition": {
+            "value": null,
+            "evidence": []
+          }
+        },
+        "treatment_effect": {
+          "value": null,
+          "evidence": []
+        },
+        "associated_epithelial_lesions": {
+          "value": null,
+          "evidence": []
+        },
+        "additional_findings": {
+          "value": null,
+          "evidence": []
+        },
+        "uncertainties": []
+      }
+    ],
+    "other_primary_present": {
+      "value": true,
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+        }
+      ]
+    },
+    "report_issues": []
+  },
+  "normalized": {
+    "rules_version": "1.0",
+    "specimens": [
+      {
+        "specimen_label": "A: bladder",
+        "pt": "pT3",
+        "pt_basis": "inferred",
+        "pt_inferred_from_extent": "pT3",
+        "pt_inferred_is_minimum": false,
+        "pt_evidence": [
+          {
+            "page": 1,
+            "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+          }
+        ],
+        "grade": "high_grade",
+        "grade_basis": "inferred",
+        "grade_evidence": [
+          {
+            "page": 1,
+            "quote": "Cystoprostatectomy. Bladder: poorly differentiated urothelial carcinoma, invades perivesical soft tissue. Prostate: adenocarcinoma Gleason 3+4, pT2."
+          }
+        ],
+        "review_reasons": [
+          "pT inferred from described extent; verify against the source report.",
+          "Grade harmonized from urothelial differentiation/legacy grade; review mapping."
+        ]
+      }
+    ],
+    "review_required": true,
+    "review_reasons": []
+  }
+}
