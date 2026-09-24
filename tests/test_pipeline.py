@@ -16,6 +16,7 @@ from blca.pipeline import (
 from blca.pipeline import (
     process_report as _process_report,
 )
+from blca.schema import SCHEMA_VERSION, BladderExtraction
 from blca.storage import atomic_json, load_manifest, read_json, shard
 
 MODELS = {
@@ -81,7 +82,7 @@ def test_complete_pipeline_resume_and_export(settings, report, payload):
     result_dir = settings.output_dir / "reports" / report.report_id
     result = read_json(result_dir / "result.json")
     assert result["extraction"] == payload
-    assert result["schema_version"] == "2.0"
+    assert result["schema_version"] == SCHEMA_VERSION
     assert result["configuration_key"] == configuration_key(settings)
     summary = export_results([report], settings)
     assert summary == {
@@ -343,12 +344,10 @@ def test_partial_findings_export_one_report_row_without_evidence(settings, repor
     assert len(client.calls) == 3  # Two OCR pages and one extraction; no missing-field retries.
     directory = settings.output_dir / "reports" / report.report_id
     result = read_json(directory / "result.json")
-    assert result["extraction"] == {
-        "stage": None,
-        "grade": "G2 / moderately differentiated",
-        "histology": None,
-        "margins": None,
-    }
+    assert result["extraction"]["grade"] is None
+    assert "G2 / moderately differentiated" in result["extraction"]["grade_comment"]
+    assert result["extraction"]["pN"] == "NX"
+    assert result["extraction"]["pM"] == "MX"
     assert "normalized" not in result
     assert "evidence_warnings" not in result
     assert export_results([report], settings)["report_rows"] == 1
@@ -359,22 +358,14 @@ def test_partial_findings_export_one_report_row_without_evidence(settings, repor
             "report_id",
             "case_id",
             "filename",
-            "stage",
-            "grade",
-            "histology",
-            "margins",
+            *BladderExtraction.model_fields,
         ]
-    assert rows == [
-        {
-            "report_id": report.report_id,
-            "case_id": report.case_id,
-            "filename": report.filename,
-            "stage": "",
-            "grade": "G2 / moderately differentiated",
-            "histology": "",
-            "margins": "",
-        }
-    ]
+    assert len(rows) == 1
+    assert rows[0]["report_id"] == report.report_id
+    assert rows[0]["grade"] == ""
+    assert rows[0]["grade_comment"] == result["extraction"]["grade_comment"]
+    assert rows[0]["pN"] == "NX"
+    assert rows[0]["pM"] == "MX"
     exported = json.loads((settings.output_dir / "exports/bladder_features.jsonl").read_text())
     assert exported["extraction"] == result["extraction"]
     assert exported["ocr"] == result["ocr"]
@@ -387,20 +378,25 @@ def test_empty_findings_still_have_a_csv_row(settings, report):
     assert summary["report_rows"] == 1
 
 
-def test_legacy_result_reextracts_without_repeating_ocr(settings, report, payload):
+@pytest.mark.parametrize("old_version", ["1.0", "2.0"])
+def test_legacy_result_reextracts_without_repeating_ocr(settings, report, payload, old_version):
     client = FakeOllama(payload)
     process_report(report, settings, client, MODELS, "run", False)
     directory = settings.output_dir / "reports" / report.report_id
     path = directory / "result.json"
     result = read_json(path)
-    result["schema_version"] = "1.0"
-    result["extraction"] = {"schema_version": "1.0", "bladder_specimens": []}
+    result["schema_version"] = old_version
+    result["extraction"] = (
+        {"bladder_specimens": []}
+        if old_version == "1.0"
+        else {"stage": "pT3 pNX", "grade": "poorly differentiated"}
+    )
     atomic_json(path, result)
     assert export_results([report], settings)["unavailable_reports"] == 1
     process_report(report, settings, client, MODELS, "run", False)
     assert len(client.calls) == 4  # Only extraction is repeated.
     updated = read_json(path)
-    assert updated["schema_version"] == "2.0"
+    assert updated["schema_version"] == SCHEMA_VERSION
     assert updated["extraction"] == payload
     assert export_results([report], settings)["exported_reports"] == 1
 

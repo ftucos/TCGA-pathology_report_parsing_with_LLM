@@ -18,10 +18,20 @@ TEXT = (
 @pytest.fixture
 def payload():
     return {
-        "stage": "Stage not stated; invades perivesical soft tissue",
-        "grade": "poorly differentiated",
-        "histology": "urothelial carcinoma",
-        "margins": None,
+        "pT": "T3",
+        "pT_comment": "Inferred from: invades perivesical soft tissue; substage not determined.",
+        "pN": "NX",
+        "pN_comment": "Nodes not mentioned; assessment unknown.",
+        "pM": "MX",
+        "pM_comment": "Distant spread not assessed; project placeholder.",
+        "grade": "High",
+        "grade_comment": "Inferred project harmonization from poorly differentiated urothelial carcinoma.",
+        "margins": "RX",
+        "margins_comment": "Margins not mentioned.",
+        "histology": "Urothelial carcinoma",
+        "histology_comment": "Reported urothelial carcinoma; separate prostate carcinoma excluded.",
+        "vascular_invasion": None,
+        "vascular_invasion_comment": "Not mentioned.",
     }
 
 

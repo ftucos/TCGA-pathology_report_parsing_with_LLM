@@ -68,7 +68,7 @@ def export_results(reports, settings):
         target / "bladder_features.jsonl",
         "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in results),
     )
-    columns = ["report_id", "case_id", "filename", "stage", "grade", "histology", "margins"]
+    columns = ["report_id", "case_id", "filename", *BladderExtraction.model_fields]
     with io.StringIO(newline="") as stream:
         writer = csv.DictWriter(stream, fieldnames=columns)
         writer.writeheader()

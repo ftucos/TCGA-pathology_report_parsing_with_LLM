@@ -1,7 +1,7 @@
 {
   "additionalProperties": false,
   "properties": {
-    "stage": {
+    "pT": {
       "anyOf": [
         {
           "type": "string"
@@ -11,7 +11,109 @@
         }
       ],
       "default": null,
-      "title": "Stage"
+      "description": "T category only; reported or conservatively inferred. Explain basis in pT_comment.",
+      "enum": [
+        "TX",
+        "T0",
+        "Ta",
+        "Tis",
+        "T1",
+        "T1a",
+        "T1b",
+        "T1c",
+        "T1e",
+        "T1m",
+        "T2",
+        "T2a",
+        "T2b",
+        "T3",
+        "T3a",
+        "T3b",
+        "T4",
+        "T4a",
+        "T4b",
+        null
+      ],
+      "title": "Pt"
+    },
+    "pT_comment": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Pt Comment"
+    },
+    "pN": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "N category only; NX if nodes absent or unassessed, never default N0.",
+      "enum": [
+        "NX",
+        "N0",
+        "N1",
+        "N2",
+        "N3",
+        null
+      ],
+      "title": "Pn"
+    },
+    "pN_comment": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Pn Comment"
+    },
+    "pM": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "M category only; MX is a project placeholder for unassessed distant spread.",
+      "enum": [
+        "MX",
+        "M0",
+        "M1",
+        "M1a",
+        "M1b",
+        "M1c",
+        null
+      ],
+      "title": "Pm"
+    },
+    "pM_comment": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Pm Comment"
     },
     "grade": {
       "anyOf": [
@@ -23,9 +125,15 @@
         }
       ],
       "default": null,
+      "description": "High or Low; null if no defensible binary mapping. Explain original grade and any inference.",
+      "enum": [
+        "High",
+        "Low",
+        null
+      ],
       "title": "Grade"
     },
-    "histology": {
+    "grade_comment": {
       "anyOf": [
         {
           "type": "string"
@@ -35,7 +143,7 @@
         }
       ],
       "default": null,
-      "title": "Histology"
+      "title": "Grade Comment"
     },
     "margins": {
       "anyOf": [
@@ -47,7 +155,83 @@
         }
       ],
       "default": null,
+      "description": "Project margin summary: R0 negative, R1 microscopic involvement, R2 stated gross residual disease, RX unknown.",
+      "enum": [
+        "R0",
+        "R1",
+        "R2",
+        "RX",
+        null
+      ],
       "title": "Margins"
+    },
+    "margins_comment": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Margins Comment"
+    },
+    "histology": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Short standardized tumor type/subtype; e.g. Urothelial carcinoma, papillary / nested / sarcomatoid. Details in comment.",
+      "title": "Histology"
+    },
+    "histology_comment": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Histology Comment"
+    },
+    "vascular_invasion": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Lymphatic and/or vascular invasion: Present, Absent, Indeterminate, or null if not mentioned.",
+      "enum": [
+        "Present",
+        "Absent",
+        "Indeterminate",
+        null
+      ],
+      "title": "Vascular Invasion"
+    },
+    "vascular_invasion_comment": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Vascular Invasion Comment"
     }
   },
   "title": "BladderExtraction",

@@ -1,16 +1,26 @@
 {
   "synthetic_example": true,
-  "schema_version": "2.0",
+  "schema_version": "3.0",
   "ocr_pages": [
     {
       "page": 1,
-      "text": "Bladder: high-grade urothelial carcinoma, pT2b pN0. Resection margins negative. Separate prostate adenocarcinoma: Gleason 3+4, pT2."
+      "text": "Cystoprostatectomy: high-grade papillary transitional cell carcinoma invading perivesical soft tissue. No regional lymph nodes submitted. All resection margins free of carcinoma. Lymphovascular invasion is present. Separate prostate adenocarcinoma: Gleason 3+4, pT2."
     }
   ],
   "extraction": {
-    "stage": "pT2b pN0",
-    "grade": "high grade",
-    "histology": "urothelial carcinoma",
-    "margins": "Negative resection margins"
+    "pT": "T3",
+    "pT_comment": "Inferred from \"invading perivesical soft tissue\"; T3a/T3b not established.",
+    "pN": "NX",
+    "pN_comment": "No regional lymph nodes submitted; cannot assess.",
+    "pM": "MX",
+    "pM_comment": "Distant spread not reported; project unknown placeholder.",
+    "grade": "High",
+    "grade_comment": "Reported high-grade bladder tumor; prostate Gleason grade excluded.",
+    "margins": "R0",
+    "margins_comment": "Inferred margin summary from \"All resection margins free of carcinoma\".",
+    "histology": "Urothelial carcinoma, papillary",
+    "histology_comment": "Reported papillary transitional cell carcinoma; terminology standardized.",
+    "vascular_invasion": "Present",
+    "vascular_invasion_comment": "Reported \"Lymphovascular invasion is present\"; blood versus lymphatic vessels not specified."
   }
 }

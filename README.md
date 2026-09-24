@@ -9,7 +9,7 @@ The deployment follows the [official vLLM recipe](https://recipes.vllm.ai/Paddle
 
 Inference runs locally without API keys or runtime weight downloads. The manifest
 contains 413 reports for 412 cases. Outputs are keyed by report UUID, with one row per report. Multiple bladder
-findings are labeled within the four extracted text fields.
+findings are summarized in comparable value columns with separate review comments.
 
 ## Install on the HPC
 
@@ -208,35 +208,43 @@ raw extraction files. Changing these request flags invalidates extraction caches
 matching Paddle OCR checkpoints remain reusable. There is no automatic long-report
 chunking. Inspect transcripts before processing the full dataset.
 
-## Four-field extraction
+## Comparison values and review comments
 
-The LLM returns only this flat object, with free-text values or `null`:
+The LLM returns seven flat value/comment pairs, without nested CAP fields:
 
-```json
-{
-  "stage": "pT2b pN0",
-  "grade": "high grade",
-  "histology": "urothelial carcinoma",
-  "margins": "Negative resection margins"
-}
-```
+| Value column | Examples | Review column |
+| --- | --- | --- |
+| `pT` | `Ta`, `T1`, `T2b`, `T3` | `pT_comment` |
+| `pN` | `NX`, `N0`, `N1`, `N2`, `N3` | `pN_comment` |
+| `pM` | `MX`, `M1` | `pM_comment` |
+| `grade` | `High`, `Low` | `grade_comment` |
+| `margins` | `R0`, `R1`, `R2`, `RX` | `margins_comment` |
+| `histology` | `Urothelial carcinoma, papillary`, `Urothelial carcinoma, nested` | `histology_comment` |
+| `vascular_invasion` | `Present`, `Absent`, `Indeterminate` | `vascular_invasion_comment` |
 
-Missing fields default to `null`. No evidence quotes, page citations, specimen
-objects, CAP-required fields or fixed clinical categories are required. Unexpected
-extra keys are ignored; numbers/lists/objects in a field are retained as JSON text
-rather than causing validation retries. Invalid JSON, non-object responses and
-incomplete generation still trigger errors/retries.
+Comments retain reported versus inferred basis, supporting wording, uncertainty,
+original prefixes/grades, and specimen/site details for comparison with TCGA.
+The prompt allows conservative stage inference from clear invasion descriptions.
+Unknown nodes/distant spread become NX/MX, never an assumed N0/M0. MX is a project
+unknown placeholder, not a formal modern pM category. Missing margins become RX.
+R0/R1 summarize negative/involved margins; they do not establish overall residual
+tumor status. Missing vascular invasion is null, not Absent.
 
-The [short prompt](src/blca/prompts/bladder.md) asks for the report's own wording,
-including uncertainty and different findings at different sites. An unstaged report
-can retain its invasion description in `stage` without inventing a numeric stage.
-Legacy grades and differentiation are not forced into high/low categories. Missing
-margin information is not interpreted as negative. Independent prostate-cancer
-findings are excluded. No automatic CAP-based stage/grade derivation is performed.
+Grade uses High/Low when supported; G2/moderate differentiation alone stays null
+with its original wording in the comment. Permitted harmonizations from legacy
+urothelial grading/differentiation are explicitly labeled as inference. Histology
+uses standardized short labels while allowing rare types and mixed diagnoses.
+Independent prostate-cancer findings are excluded.
 
-See [the schema documentation](docs/schema.md) and
-[synthetic example](docs/example.extraction.json). Original OCR and raw responses
-remain available for comparison with official TCGA metadata and manual review.
+Validation remains permissive: no mandatory evidence quotes, matching pages or
+CAP completeness checks. Exact aliases are normalized; unexpected categorical
+values move into comments for review instead of causing retries. Invalid JSON,
+non-object responses and incomplete generation still trigger errors/retries.
+
+See [the schema documentation](docs/schema.md),
+[extraction prompt](src/blca/prompts/bladder.md), and
+[synthetic example](docs/example.extraction.json) for definitions and inference
+rules. Original OCR and raw responses remain available for review.
 
 ## Output, provenance and recovery
 
@@ -257,13 +265,13 @@ reports/<GDC-file-UUID>/
   result.json                       # current complete result
   error.json                        # last processing failure, when present
 exports/
-  bladder_features.jsonl             # four findings and provenance
+  bladder_features.jsonl             # comparison values, comments and provenance
   bladder_features.csv               # one row per report
   report_status.json                 # all manifest reports, including missing/failed
   summary.json                      # counts
 ```
 
-The simplified schema is version 2.0 (recorded in result metadata). Updating to
+The comparison schema is version 3.0 (recorded in result metadata). Updating to
 this version regenerates extraction results because the prompt/schema changed;
 matching OCR checkpoints remain reusable. After syncing the code to the HPC,
 finish or stop the old job, then submit without `--force`:
@@ -272,8 +280,8 @@ finish or stop the old job, then submit without `--force`:
 BLCA_STAGE=run sbatch scripts/hpc/run.slurm
 ```
 
-Previous CAP-style extraction results remain archived. They are not silently
-converted or exported as four-field results. Rerun export after processing.
+Previous CAP-style and four-field extraction results remain archived. They are
+not silently converted or exported as the new comparison schema. Rerun export after processing.
 
 Source checksums, model digests, generation settings, renderer version, prompt,
 schema and extraction schema version control cache validity. Writes are atomic. A
@@ -285,8 +293,8 @@ output directory when retaining multiple identical-setting trials is important.
 Export runs without model servers and verifies the saved provenance against the current
 configuration, source PDF and transcript. It does not rehash staged model weights or query running services; run processing
 preflight again when changing installed weights. JSON is authoritative; CSV is a
-projection of the four fields with report/case identifiers. Missing values become
-empty CSV cells. An all-null extraction still has one CSV row. There are 413 reports
+projection of the seven value/comment pairs with report/case identifiers. Null
+values become empty CSV cells. A report with no findings still has one CSV row. There are 413 reports
 for 412 cases; report rows are not unique patient rows.
 
 ## Validation and migration
@@ -297,7 +305,7 @@ blca schema --output docs/bladder.schema.json
 ```
 
 The CPU test suite exercises PDF rendering, real manifest handling, local-only
-HTTP preflight, permissive four-field parsing, checkpoint recovery,
+HTTP preflight, permissive categorical parsing and review comments, checkpoint recovery,
 configuration/model invalidation, locks and export accounting. Model responses
 are mocked. See [the synthetic example](docs/example.extraction.json), which is
 not a result from a TCGA patient. GPU throughput, actual model compatibility on
