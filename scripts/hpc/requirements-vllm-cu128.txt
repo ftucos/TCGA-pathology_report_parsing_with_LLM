@@ -1,0 +1,12 @@
+# Linux x86_64 GPU environment only; install into a fresh Python 3.11/3.12 venv.
+# The failing HPC node reports CUDA driver API 12080 (CUDA 12.8 support).
+# vLLM 0.11.1's default wheel is built for CUDA 12.8 / PyTorch 2.9.0.
+# Explicit local version suffixes prevent pip from selecting CUDA 13 PyTorch wheels.
+# https://docs.vllm.ai/en/v0.11.1/getting_started/installation/gpu/
+# https://github.com/vllm-project/vllm/blob/v0.11.1/requirements/cuda.txt
+--extra-index-url https://download.pytorch.org/whl/cu128
+vllm==0.11.1
+torch==2.9.0+cu128
+torchvision==0.24.0+cu128
+torchaudio==2.9.0+cu128
+transformers>=4.56.0,<5

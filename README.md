@@ -13,7 +13,8 @@ specimens and lesions remain separate.
 
 ## Install on the HPC
 
-Use Linux Python 3.11 or 3.12 for the GPU environments. Keep your existing
+This wheel setup targets Linux x86_64 (`uname -m`) with Python 3.11 or 3.12.
+Keep your existing
 `venv-hpc`; install the updated project into it. Create a **separate vLLM venv**
 so its PyTorch/CUDA dependencies do not change the application environment.
 Load your institute's Python/CUDA modules first, using the same modules for jobs.
@@ -22,14 +23,27 @@ Do not copy a macOS virtual environment to the HPC.
 ```bash
 # From the project root; assumes your existing environment is called venv-hpc.
 venv-hpc/bin/python -m pip install -e '.[models]'
-python3 -m venv .venv-vllm
-.venv-vllm/bin/python -m pip install 'vllm>=0.11.1'
+python3 -m venv .venv-vllm-cu128
+.venv-vllm-cu128/bin/python -m pip install -r scripts/hpc/requirements-vllm-cu128.txt
+.venv-vllm-cu128/bin/python -m pip check
 venv-hpc/bin/python -m blca inventory --verify-checksums
 venv-hpc/bin/python -m blca run --dry-run --limit 2
 ```
 
-Choose a vLLM wheel compatible with your cluster's driver and Python version;
-see [vLLM GPU installation](https://docs.vllm.ai/en/latest/getting_started/installation/gpu/).
+The GPU requirements pin vLLM 0.11.1 and PyTorch 2.9.0 with CUDA **12.8** wheels,
+using the [vLLM 0.11.1 installation guidance](https://docs.vllm.ai/en/v0.11.1/getting_started/installation/gpu/)
+and its matching PyTorch dependencies. Do not use the former unbounded
+`vllm>=0.11.1` command: it allowed vLLM 0.30.0 and a PyTorch runtime that failed
+on this cluster's driver. A fresh environment avoids leftover GPU libraries;
+keep the existing `venv-hpc`, downloaded model weights and old GPU environment.
+
+The failing node reports CUDA driver API version `12080`, meaning **12.8**.
+The cluster's `CUDA/12.6.0` module is a toolkit installation, not the driver's
+compatibility version. Prebuilt PyTorch wheels install their CUDA runtime
+dependencies, so this installation does not require a CUDA 12.8 toolkit module.
+Loading CUDA/12.6.0 cannot change an incompatible PyTorch wheel's runtime.
+This pin targets the reported H200 node; validate on each GPU node type used.
+
 Package installation and weight staging need download access, or an institute
 mirror/staged packages. Record the working versions with `pip freeze` in each
 environment after the GPU smoke test.
@@ -42,7 +56,7 @@ replaced automatically. Use absolute shared-storage paths:
 ```bash
 # Put your actual module load commands here, before the environment variables.
 export BLCA_PYTHON="/absolute/project/venv-hpc/bin/python"
-export BLCA_PADDLE_PYTHON="/absolute/project/.venv-vllm/bin/python"
+export BLCA_PADDLE_PYTHON="/absolute/project/.venv-vllm-cu128/bin/python"
 export BLCA_PADDLE_MODEL_DIR="/shared/models/PaddleOCR-VL-1.6"
 export OLLAMA_MODELS="/shared/models/ollama"
 export OLLAMA_NUM_PARALLEL=1
@@ -54,6 +68,28 @@ export OLLAMA_MAX_LOADED_MODELS=1
 You do not need `source venv-hpc/bin/activate` in the batch script. Module loading
 only happens if you put the required `module load` commands in the local file.
 All paths must be accessible on the allocated compute node.
+
+If migrating from the previous installation, update `BLCA_PADDLE_PYTHON` in the
+existing local file: its explicit value overrides the batch script's default.
+Inside a GPU allocation, check the new environment before inference:
+
+```bash
+source scripts/hpc/environment.local.sh
+nvidia-smi
+"$BLCA_PADDLE_PYTHON" - <<'PY'
+from importlib.metadata import version
+import torch
+print("vLLM:", version("vllm"), "PyTorch:", torch.__version__, "CUDA:", torch.version.cuda)
+torch.cuda.init()
+print("GPU:", torch.cuda.get_device_name(0))
+x = torch.ones(1, device="cuda")
+print("GPU check:", (x + x).item())
+PY
+```
+
+Run this check on the allocated compute node, not a GPU-less login node. A
+successful tensor operation checks basic CUDA execution; the two-report smoke
+test is still needed to validate vLLM kernels and model output.
 
 Stage weights explicitly on a machine/allocation allowed to download:
 

@@ -63,7 +63,7 @@ start_ollama() {
 }
 
 start_paddle() {
-    export BLCA_PADDLE_PYTHON=${BLCA_PADDLE_PYTHON:-"$PROJECT_DIR/.venv-vllm/bin/python"}
+    export BLCA_PADDLE_PYTHON=${BLCA_PADDLE_PYTHON:-"$PROJECT_DIR/.venv-vllm-cu128/bin/python"}
     [[ -x "$BLCA_PADDLE_PYTHON" ]] || {
         echo "vLLM Python missing: $BLCA_PADDLE_PYTHON; see README setup" >&2; exit 2;
     }

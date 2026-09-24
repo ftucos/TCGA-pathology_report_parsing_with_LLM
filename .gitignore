@@ -15,5 +15,6 @@ processed/blca_local/
 scripts/hpc/environment.local.sh
 
 .venv-vllm/
+.venv-vllm-cu128/
 venv-hpc/
 .paddle-models/
