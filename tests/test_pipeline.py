@@ -80,16 +80,20 @@ def test_complete_pipeline_resume_and_export(settings, report, payload):
     assert len(client.calls) == 3  # completed stages are resumed
     result_dir = settings.output_dir / "reports" / report.report_id
     result = read_json(result_dir / "result.json")
-    assert result["normalized"]["specimens"][0]["pt"] == "pT3"
+    assert result["extraction"] == payload
+    assert result["schema_version"] == "2.0"
     assert result["configuration_key"] == configuration_key(settings)
     summary = export_results([report], settings)
     assert summary == {
         "manifest_reports": 1,
         "exported_reports": 1,
         "unavailable_reports": 0,
-        "specimen_rows": 1,
+        "report_rows": 1,
     }
-    assert "pT3" in (settings.output_dir / "exports/bladder_features.csv").read_text()
+    assert (
+        "perivesical soft tissue"
+        in (settings.output_dir / "exports/bladder_features.csv").read_text()
+    )
     # Configuration changes are visible; old results cannot masquerade as new ones.
     assert (
         export_results([report], replace(settings, num_ctx=settings.num_ctx + 1000))[
@@ -133,16 +137,67 @@ def test_changed_model_digest_recomputes_extraction_only(settings, report, paylo
     assert len(client.calls) == 4
 
 
-def test_oversized_report_fails_before_sending_or_truncating(settings, report, payload, tmp_path):
+def test_input_bytes_do_not_block_model_tokenization(settings, payload, tmp_path, caplog):
     transcript = {
         "fingerprint": "test",
         "text_sha256": "test",
+        "source": {"report_id": "test"},
+        "model": MODELS["ocr"],
+        "settings": {},
         "pages": [{"page": 1, "text": "x" * 100000}],
     }
     client = FakeOllama(payload)
-    with pytest.raises(ValueError, match="not truncated"):
-        run_extraction(transcript, settings, client, MODELS["extraction"], tmp_path)
-    assert not client.calls
+    original = client.request
+
+    def measured_response(endpoint, data):
+        raw = original(endpoint, data)
+        raw["prompt_eval_count"] = 5000
+        return raw
+
+    client.request = measured_response
+    # Reproduce the large output reserve that exposed the bytes-as-tokens check.
+    settings = replace(settings, num_ctx=131072, max_tokens=98304)
+    with caplog.at_level("INFO", logger="blca.pipeline"):
+        result = run_extraction(transcript, settings, client, MODELS["extraction"], tmp_path)
+    assert result["status"] == "complete"
+    assert len(client.calls) == 1
+    request = client.calls[0][1]
+    old_budget = len(json.dumps(request["messages"]).encode()) + 1024 + settings.max_tokens
+    assert old_budget > settings.num_ctx
+    assert request["messages"][1]["content"] == "Extract this report:\n\n[PAGE 1]\n" + "x" * 100000
+    assert request["options"]["num_predict"] == 98304
+    assert request["options"]["num_ctx"] == 131072
+    assert request["truncate"] is False
+    assert request["shift"] is False
+    assert "prompt_eval_count=5000 eval_count=300" in caplog.text
+    assert "num_ctx=131072 num_predict=98304" in caplog.text
+
+
+def test_server_context_error_never_becomes_success(settings, report, payload):
+    import httpx
+
+    client = FakeOllama(payload)
+    original = client.request
+
+    def reject_context(endpoint, data):
+        if endpoint == "/api/chat":
+            assert data["truncate"] is False and data["shift"] is False
+            response = httpx.Response(
+                400,
+                json={"error": "input exceeds context window"},
+                request=httpx.Request("POST", "http://127.0.0.1/api/chat"),
+            )
+            response.raise_for_status()
+        return original(endpoint, data)
+
+    client.request = reject_context
+    with pytest.raises(httpx.HTTPStatusError):
+        process_report(report, settings, client, MODELS, "run", False)
+    directory = settings.output_dir / "reports" / report.report_id
+    assert not (directory / "result.json").exists()
+    assert read_json(directory / "error.json")["error_type"] == "HTTPStatusError"
+    assert list(directory.glob("extractions/*/raw/attempt-1.error.txt"))
+    assert export_results([report], settings)["unavailable_reports"] == 1
 
 
 def test_extract_requires_complete_current_ocr(settings, report, payload):
@@ -280,72 +335,87 @@ def test_interrupted_forced_ocr_cannot_fall_back_to_old_transcript(settings, rep
     assert export_results([report], settings)["exported_reports"] == 1
 
 
-def test_unmatched_evidence_completes_once_and_exports_review_warnings(settings, report, payload):
+def test_partial_findings_export_one_report_row_without_evidence(settings, report):
     import csv
 
-    payload["bladder_specimens"][0]["deepest_extent"]["evidence"][0]["quote"] = "Paraphrased quote"
-    client = FakeOllama(payload)
+    client = FakeOllama({"grade": "G2 / moderately differentiated", "unused": "ignored"})
     process_report(report, replace(settings, attempts=3), client, MODELS, "run", False)
-    assert len(client.calls) == 3  # two OCR pages, one extraction; no quote repair retries
+    assert len(client.calls) == 3  # Two OCR pages and one extraction; no missing-field retries.
     directory = settings.output_dir / "reports" / report.report_id
     result = read_json(directory / "result.json")
-    warnings = result["evidence_warnings"]
-    assert len(warnings) == 1
-    assert "deepest_extent" in warnings[0]
-    assert result["extraction"] == payload
-    assert result["normalized"]["review_required"] is True
-    assert warnings[0] in result["normalized"]["review_reasons"]
-    assert not (directory / "error.json").exists()
-    # Cached results and the exporter must reevaluate evidence, not trust edited flags.
-    result["evidence_warnings"] = []
-    result["normalized"]["review_reasons"] = []
-    atomic_json(directory / "result.json", result)
-    assert export_results([report], settings)["exported_reports"] == 1
-    exported = json.loads((settings.output_dir / "exports/bladder_features.jsonl").read_text())
-    assert exported["evidence_warnings"] == warnings
+    assert result["extraction"] == {
+        "stage": None,
+        "grade": "G2 / moderately differentiated",
+        "histology": None,
+        "margins": None,
+    }
+    assert "normalized" not in result
+    assert "evidence_warnings" not in result
+    assert export_results([report], settings)["report_rows"] == 1
     with (settings.output_dir / "exports/bladder_features.csv").open() as stream:
-        row = next(csv.DictReader(stream))
-    assert row["review_required"] == "True"
-    assert warnings[0] in json.loads(row["review_reasons"])
-    process_report(report, settings, client, MODELS, "run", False)
-    assert len(client.calls) == 3
-    assert read_json(directory / "result.json")["evidence_warnings"] == warnings
+        reader = csv.DictReader(stream)
+        rows = list(reader)
+        assert reader.fieldnames == [
+            "report_id",
+            "case_id",
+            "filename",
+            "stage",
+            "grade",
+            "histology",
+            "margins",
+        ]
+    assert rows == [
+        {
+            "report_id": report.report_id,
+            "case_id": report.case_id,
+            "filename": report.filename,
+            "stage": "",
+            "grade": "G2 / moderately differentiated",
+            "histology": "",
+            "margins": "",
+        }
+    ]
+    exported = json.loads((settings.output_dir / "exports/bladder_features.jsonl").read_text())
+    assert exported["extraction"] == result["extraction"]
+    assert exported["ocr"] == result["ocr"]
 
 
-@pytest.mark.parametrize(
-    "mode", ["recover", "changed_model", "force", "bad_json", "truncated", "other_error"]
-)
-def test_recover_only_matching_completed_legacy_evidence_failure(settings, report, payload, mode):
-    payload["bladder_specimens"][0]["deepest_extent"]["evidence"][0]["quote"] = "Paraphrased quote"
+def test_empty_findings_still_have_a_csv_row(settings, report):
+    process_report(report, settings, FakeOllama({}), MODELS, "run", False)
+    summary = export_results([report], settings)
+    assert summary["exported_reports"] == 1
+    assert summary["report_rows"] == 1
+
+
+def test_legacy_result_reextracts_without_repeating_ocr(settings, report, payload):
     client = FakeOllama(payload)
     process_report(report, settings, client, MODELS, "run", False)
     directory = settings.output_dir / "reports" / report.report_id
-    result = read_json(directory / "result.json")
-    (directory / "result.json").unlink()
-    work = directory / "extractions" / result["fingerprint"]
-    (work / "result.json").unlink()
-    atomic_json(
-        directory / "error.json",
-        {
-            "error_type": "ValueError",
-            "message": "Evidence not found on OCR page 1"
-            if mode != "other_error"
-            else "Other failure",
-        },
-    )
-    if mode in {"bad_json", "truncated"}:
-        raw = read_json(work / "raw/attempt-1.json")
-        if mode == "bad_json":
-            raw["message"]["content"] = "{broken"
-        else:
-            raw["done_reason"] = "length"
-        atomic_json(work / "raw/attempt-1.json", raw)
-    models = MODELS
-    if mode == "changed_model":
-        models = dict(MODELS, extraction=dict(MODELS["extraction"], digest="changed"))
-    client.calls.clear()
-    process_report(report, settings, client, models, "extract", mode == "force")
-    assert len(client.calls) == (0 if mode == "recover" else 1)
-    assert read_json(directory / "result.json")["evidence_warnings"]
-    assert not (directory / "error.json").exists()
+    path = directory / "result.json"
+    result = read_json(path)
+    result["schema_version"] = "1.0"
+    result["extraction"] = {"schema_version": "1.0", "bladder_specimens": []}
+    atomic_json(path, result)
+    assert export_results([report], settings)["unavailable_reports"] == 1
+    process_report(report, settings, client, MODELS, "run", False)
+    assert len(client.calls) == 4  # Only extraction is repeated.
+    updated = read_json(path)
+    assert updated["schema_version"] == "2.0"
+    assert updated["extraction"] == payload
+    assert export_results([report], settings)["exported_reports"] == 1
+
+
+def test_old_prompt_settings_reextract_without_repeating_ocr(
+    settings, report, payload, monkeypatch
+):
+    from blca import pipeline
+
+    client = FakeOllama(payload)
+    prompt = pipeline.prompt_text()
+    monkeypatch.setattr(pipeline, "prompt_text", lambda: "Previous detailed extraction prompt")
+    process_report(report, settings, client, MODELS, "run", False)
+    monkeypatch.setattr(pipeline, "prompt_text", lambda: prompt)
+    assert export_results([report], settings)["unavailable_reports"] == 1
+    process_report(report, settings, client, MODELS, "run", False)
+    assert len(client.calls) == 4
     assert export_results([report], settings)["exported_reports"] == 1

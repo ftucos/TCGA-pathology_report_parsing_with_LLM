@@ -1,5 +1,4 @@
 import hashlib
-from copy import deepcopy
 from dataclasses import replace
 from pathlib import Path
 
@@ -16,63 +15,13 @@ TEXT = (
 )
 
 
-def obs(value=None, quote=TEXT, page=1):
-    return {
-        "value": value,
-        "evidence": [{"page": page, "quote": quote}] if value is not None else [],
-    }
-
-
-def specimen():
-    return {
-        "specimen_label": "A: bladder",
-        "procedure": obs("cystoprostatectomy"),
-        "tumor_site": obs(),
-        "histologic_type": obs("Urothelial carcinoma"),
-        "histologic_family": obs("urothelial"),
-        "components": [],
-        "grade": {
-            "reported": obs(),
-            "raw": obs("poorly differentiated"),
-            "differentiation": obs("poor"),
-            "legacy_who1973": obs(),
-        },
-        "tumor_size_cm": obs(),
-        "tumor_configuration": obs(),
-        "deepest_extent": obs("perivesical_soft_tissue"),
-        "muscularis_propria": obs(),
-        "lymphovascular_invasion": obs(),
-        "associated_cis": obs(),
-        "margins": [],
-        "nodes": {
-            "examined": obs(),
-            "positive": obs(),
-            "count_qualifier": obs(),
-            "sites": obs(),
-            "extranodal_extension": obs(),
-        },
-        "stage": {
-            "reported_pt": obs(),
-            "raw": obs(),
-            "modifiers": obs(),
-            "reported_pn": obs(),
-            "reported_pm": obs(),
-            "edition": obs(),
-        },
-        "treatment_effect": obs(),
-        "associated_epithelial_lesions": obs(),
-        "additional_findings": obs(),
-        "uncertainties": [],
-    }
-
-
 @pytest.fixture
 def payload():
     return {
-        "schema_version": "1.0",
-        "bladder_specimens": [deepcopy(specimen())],
-        "other_primary_present": obs(True),
-        "report_issues": [],
+        "stage": "Stage not stated; invades perivesical soft tissue",
+        "grade": "poorly differentiated",
+        "histology": "urothelial carcinoma",
+        "margins": None,
     }
 
 

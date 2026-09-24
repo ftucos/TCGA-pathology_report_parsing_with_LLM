@@ -9,9 +9,8 @@ from pathlib import Path
 import httpx
 
 from .config import load_settings
-from .normalize import normalize
 from .pipeline import configuration_key, run_reports, source_info, valid_transcript
-from .schema import BladderExtraction, validate_evidence
+from .schema import SCHEMA_VERSION, BladderExtraction
 from .storage import atomic_json, atomic_text, load_manifest, read_json, shard
 
 LOG = logging.getLogger(__name__)
@@ -28,7 +27,11 @@ def export_results(reports, settings):
             if (directory / "error.json").exists():
                 raise ValueError("Processing failed; see report error.json")
             result = read_json(directory / "result.json")
-            if result["source"] != source or result["configuration_key"] != key:
+            if (
+                result["source"] != source
+                or result["configuration_key"] != key
+                or result.get("schema_version") != SCHEMA_VERSION
+            ):
                 raise ValueError("Stale result: PDF or pipeline configuration changed")
             ocr_path = directory / "ocr" / result["ocr"]["fingerprint"] / "transcript.json"
             saved = read_json(ocr_path)
@@ -38,51 +41,19 @@ def export_results(reports, settings):
             if transcript is None or transcript["text_sha256"] != result["ocr"]["text_sha256"]:
                 raise ValueError("Missing, modified or incomplete OCR transcript")
             parsed = BladderExtraction.model_validate(result["extraction"])
-            warnings = validate_evidence(
-                parsed, {p["page"]: p["text"] for p in transcript["pages"]}
-            )
-            result["evidence_warnings"] = warnings
-            result["normalized"] = normalize(parsed, evidence_warnings=warnings)
+            result["extraction"] = parsed.model_dump()
             results.append(result)
             status.append(
                 {"report_id": report.report_id, "case_id": report.case_id, "status": "complete"}
             )
-            for specimen, derived in zip(
-                parsed.bladder_specimens, result["normalized"]["specimens"]
-            ):
-                rows.append(
-                    {
-                        "report_id": report.report_id,
-                        "case_id": report.case_id,
-                        "filename": report.filename,
-                        "specimen_label": specimen.specimen_label,
-                        "procedure": specimen.procedure.value,
-                        "histology": specimen.histologic_type.value,
-                        "grade": derived["grade"],
-                        "grade_basis": derived["grade_basis"],
-                        "grade_raw": specimen.grade.raw.value,
-                        "differentiation": specimen.grade.differentiation.value,
-                        "pt": derived["pt"],
-                        "pt_basis": derived["pt_basis"],
-                        "pt_reported": specimen.stage.reported_pt.value,
-                        "pt_inferred": derived["pt_inferred_from_extent"],
-                        "pt_inferred_is_minimum": derived["pt_inferred_is_minimum"],
-                        "stage_modifiers": json.dumps(specimen.stage.modifiers.value),
-                        "pn_reported": specimen.stage.reported_pn.value,
-                        "pm_reported": specimen.stage.reported_pm.value,
-                        "deepest_extent": specimen.deepest_extent.value,
-                        "muscularis_propria": specimen.muscularis_propria.value,
-                        "lvi": specimen.lymphovascular_invasion.value,
-                        "cis": specimen.associated_cis.value,
-                        "nodes_examined": specimen.nodes.examined.value,
-                        "nodes_positive": specimen.nodes.positive.value,
-                        "review_required": result["normalized"]["review_required"],
-                        "review_reasons": json.dumps(
-                            result["normalized"]["review_reasons"] + derived["review_reasons"],
-                            ensure_ascii=False,
-                        ),
-                    }
-                )
+            rows.append(
+                {
+                    "report_id": report.report_id,
+                    "case_id": report.case_id,
+                    "filename": report.filename,
+                    **parsed.model_dump(),
+                }
+            )
         except (OSError, ValueError, KeyError, TypeError) as e:
             status.append(
                 {
@@ -97,34 +68,7 @@ def export_results(reports, settings):
         target / "bladder_features.jsonl",
         "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in results),
     )
-    columns = [
-        "report_id",
-        "case_id",
-        "filename",
-        "specimen_label",
-        "procedure",
-        "histology",
-        "grade",
-        "grade_basis",
-        "grade_raw",
-        "differentiation",
-        "pt",
-        "pt_basis",
-        "pt_reported",
-        "pt_inferred",
-        "pt_inferred_is_minimum",
-        "stage_modifiers",
-        "pn_reported",
-        "pm_reported",
-        "deepest_extent",
-        "muscularis_propria",
-        "lvi",
-        "cis",
-        "nodes_examined",
-        "nodes_positive",
-        "review_required",
-        "review_reasons",
-    ]
+    columns = ["report_id", "case_id", "filename", "stage", "grade", "histology", "margins"]
     with io.StringIO(newline="") as stream:
         writer = csv.DictWriter(stream, fieldnames=columns)
         writer.writeheader()
@@ -135,7 +79,7 @@ def export_results(reports, settings):
         "manifest_reports": len(reports),
         "exported_reports": len(results),
         "unavailable_reports": len(reports) - len(results),
-        "specimen_rows": len(rows),
+        "report_rows": len(rows),
     }
     atomic_json(target / "summary.json", summary)
     return summary

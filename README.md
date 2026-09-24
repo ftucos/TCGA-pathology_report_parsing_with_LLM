@@ -8,8 +8,8 @@ install the separate PaddleOCR document-layout pipeline or PP-DocLayoutV3.
 The deployment follows the [official vLLM recipe](https://recipes.vllm.ai/PaddlePaddle/PaddleOCR-VL-1.6).
 
 Inference runs locally without API keys or runtime weight downloads. The manifest
-contains 413 reports for 412 cases. Outputs are keyed by report UUID; separate
-specimens and lesions remain separate.
+contains 413 reports for 412 cases. Outputs are keyed by report UUID, with one row per report. Multiple bladder
+findings are labeled within the four extracted text fields.
 
 ## Install on the HPC
 
@@ -160,7 +160,7 @@ locations. Changing the example shell file does not override an existing local f
   `repeat_penalty = 1.1` (sent as vLLM's `repetition_penalty`). GLM-specific stop
   tokens and Ollama OCR options have been removed.
 - Qwen uses Ollama's native schema-constrained `/api/chat`, `think = true`, 131,072
-  context tokens and 32,768 output tokens. Its output budget covers thinking and
+  context tokens and 98,304 output tokens. Its output budget covers thinking and
   the final answer. Raw responses retain thinking; only final content is parsed.
 - `gpu_memory_utilization = 0.15` reserves about 21 GiB for Paddle on a 140 GiB H200.
   It is a starting setting for that GPU, not a universal setting. vLLM starts first;
@@ -192,50 +192,51 @@ weight identities invalidate old GLM checkpoints automatically.
 
 Empty or truncated OCR never becomes a successful checkpoint and fails immediately
 without identical deterministic retries. Transport/server failures still use the
-configured retry count. Reports that exceed
-the conservative extraction context budget fail visibly without slicing the text.
-There is no automatic long-report chunking. Inspect transcripts before processing
-the full dataset.
+configured retry count. Extraction sends the complete prompt and report to Ollama,
+which applies the model's tokenizer and chat template. There is no byte-count
+estimate that rejects requests before inference. The output budget is a maximum,
+not a measurement of the input or a requirement to generate that many tokens.
+Requests set `truncate = false` and `shift = false` to disable automatic input
+truncation and context shifting; use an Ollama version supporting those chat flags
+(they are present in v0.13.0 and current releases). Actual context-limit errors
+and incomplete generation still fail visibly. See the
+[Ollama request definitions](https://github.com/ollama/ollama/blob/v0.13.0/api/types.go).
 
-## Bladder features and interpretation
+The job log records Ollama's `prompt_eval_count`, `eval_count` and `done_reason`
+alongside the configured context and output limits; full responses remain in the
+raw extraction files. Changing these request flags invalidates extraction caches;
+matching Paddle OCR checkpoints remain reusable. There is no automatic long-report
+chunking. Inspect transcripts before processing the full dataset.
 
-The supplied [CAP biopsy/TURBT template](docs/Bladder.Bx.TURBT_4.3.0.0.REL_CAPCP.pdf)
-(v4.3.0.0, June 2025) guides the core fields. It explicitly excludes cystectomy,
-so margins, nodes and advanced stages are supplemented from CAP's
-[cystectomy protocol v4.2.0.0](https://documents.cap.org/protocols/Bladder_4.2.0.0.REL_CAPCP.pdf).
-This is an original research extraction schema, not a replacement CAP reporting form.
-The schema and field mapping are in [docs/schema.md](docs/schema.md).
+## Four-field extraction
 
-- Specimen/procedure, tumor site, histology and variant components, differentiation,
-  binary grade, size, configuration, invasion extent, detrusor status, LVI, CIS,
-  margins, nodes, reported pTNM, treatment effect and associated findings.
-- Every non-null observation has an OCR quote and page number. Missing information
-  is `null`, never an invented negative. Unmatched quotes or incorrect page references produce review warnings without
-  blocking extraction or export.
-- **Perivesical soft tissue/fat invasion supports pT3, not pT4.** Unspecified fat
-  is insufficient, especially in TURBT. Muscularis propria supports pT2; muscularis
-  mucosae does not. Prostate involvement needs the correct origin and invasion route.
-- Reported pT, extent-derived pT and the selected value/basis are stored separately.
-  Conflicts preserve the reported value and require review. Inferred biopsy/TURBT
-  extent is a minimum supported category. No inferred pT2 subdivisions or pT3/pT4
-  from TURBT. Historical stages and y/r/m modifiers are retained, not silently restaged.
-- Explicit high/low grade is preferred. Poorly differentiated/undifferentiated
-  urothelial carcinoma and clearly identified legacy WHO G3 can map to inferred
-  high grade; legacy WHO G1 can map to inferred low grade. These project mappings
-  always require review. G2, moderate differentiation and well differentiation
-  without an identifiable legacy grade stay unresolved. Pure non-urothelial tumors
-  retain their own differentiation grading. Mixed grade is not forced into a binary label.
-- Independent prostate cancer grade, Gleason score, Grade Group, TNM and margins
-  are excluded. Bladder cancer invading prostate is handled separately from
-  prostatic urethral spread and from a primary prostate carcinoma.
+The LLM returns only this flat object, with free-text values or `null`:
 
-The [prompt](src/blca/prompts/bladder.md) specifies attribution and uncertainty;
-[normalization rules](src/blca/normalize.py) derive stage and grade deterministically
-from validated observations. Evidence checks record unmatched quotes in `evidence_warnings` and in the exported
-`review_reasons`, setting `review_required = true`. Findings and original quotes
-are retained for comparison with TCGA metadata and manual review; a matching quote
-does not establish that the model interpreted it correctly. Human evaluation of OCR and extraction
-is still required, especially mixed-organ specimens and inferred values.
+```json
+{
+  "stage": "pT2b pN0",
+  "grade": "high grade",
+  "histology": "urothelial carcinoma",
+  "margins": "Negative resection margins"
+}
+```
+
+Missing fields default to `null`. No evidence quotes, page citations, specimen
+objects, CAP-required fields or fixed clinical categories are required. Unexpected
+extra keys are ignored; numbers/lists/objects in a field are retained as JSON text
+rather than causing validation retries. Invalid JSON, non-object responses and
+incomplete generation still trigger errors/retries.
+
+The [short prompt](src/blca/prompts/bladder.md) asks for the report's own wording,
+including uncertainty and different findings at different sites. An unstaged report
+can retain its invasion description in `stage` without inventing a numeric stage.
+Legacy grades and differentiation are not forced into high/low categories. Missing
+margin information is not interpreted as negative. Independent prostate-cancer
+findings are excluded. No automatic CAP-based stage/grade derivation is performed.
+
+See [the schema documentation](docs/schema.md) and
+[synthetic example](docs/example.extraction.json). Original OCR and raw responses
+remain available for comparison with official TCGA metadata and manual review.
 
 ## Output, provenance and recovery
 
@@ -256,23 +257,26 @@ reports/<GDC-file-UUID>/
   result.json                       # current complete result
   error.json                        # last processing failure, when present
 exports/
-  bladder_features.jsonl             # full findings, evidence and provenance
-  bladder_features.csv               # one row per bladder specimen/lesion
+  bladder_features.jsonl             # four findings and provenance
+  bladder_features.csv               # one row per report
   report_status.json                 # all manifest reports, including missing/failed
   summary.json                      # counts
 ```
 
-Evidence mismatches do not trigger extraction retries. JSON structure, required
-fields, value types and node-count consistency remain validated. To recover reports
-previously rejected with `Evidence not found on OCR page ...`, update the project
-on the HPC and resubmit the same `run` command without `--force`. Matching complete
-OCR checkpoints and the latest saved, complete, schema-valid extraction response
-are reused for those failures. Changed model/settings/transcript fingerprints,
-other failure types and forced reruns require a fresh extraction. Rerun export
-after recovery; historical raw error files remain for auditing.
+The simplified schema is version 2.0 (recorded in result metadata). Updating to
+this version regenerates extraction results because the prompt/schema changed;
+matching OCR checkpoints remain reusable. After syncing the code to the HPC,
+finish or stop the old job, then submit without `--force`:
+
+```bash
+BLCA_STAGE=run sbatch scripts/hpc/run.slurm
+```
+
+Previous CAP-style extraction results remain archived. They are not silently
+converted or exported as four-field results. Rerun export after processing.
 
 Source checksums, model digests, generation settings, renderer version, prompt,
-schema and normalization version control cache validity. Writes are atomic. A
+schema and extraction schema version control cache validity. Writes are atomic. A
 failed recomputation removes the current result; an archived older result is not
 silently exported. Repeating the same command resumes matching successful pages.
 `--force` may overwrite raw attempts for the same fingerprint; save a separate
@@ -281,9 +285,9 @@ output directory when retaining multiple identical-setting trials is important.
 Export runs without model servers and verifies the saved provenance against the current
 configuration, source PDF and transcript. It does not rehash staged model weights or query running services; run processing
 preflight again when changing installed weights. JSON is authoritative; CSV is a
-convenience projection and does not contain every nested feature or evidence quote.
-An empty bladder extraction remains in JSON/status with a review flag and has no
-specimen CSV row. Do not treat CSV row counts as report or patient counts.
+projection of the four fields with report/case identifiers. Missing values become
+empty CSV cells. An all-null extraction still has one CSV row. There are 413 reports
+for 412 cases; report rows are not unique patient rows.
 
 ## Validation and migration
 
@@ -293,7 +297,7 @@ blca schema --output docs/bladder.schema.json
 ```
 
 The CPU test suite exercises PDF rendering, real manifest handling, local-only
-HTTP preflight, model response validation, stage/grade rules, checkpoint recovery,
+HTTP preflight, permissive four-field parsing, checkpoint recovery,
 configuration/model invalidation, locks and export accounting. Model responses
 are mocked. See [the synthetic example](docs/example.extraction.json), which is
 not a result from a TCGA patient. GPU throughput, actual model compatibility on
