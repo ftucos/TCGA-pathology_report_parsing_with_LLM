@@ -215,7 +215,7 @@ def test_pipeline_routes_stages_to_separate_services(stage, settings, report, pa
         assert result["extraction_settings"]["think"] is True
 
 
-def test_truncated_ocr_is_saved_without_identical_retries(settings, report):
+def test_truncated_ocr_retries_with_increasing_repetition_penalty(settings, report):
     from blca.pipeline import process_report
 
     calls = []
@@ -235,9 +235,12 @@ def test_truncated_ocr_is_saved_without_identical_retries(settings, report):
             False,
             ocr_client=Truncating(),
         )
-    assert len(calls) == 1
+    assert len(calls) == 3
+    assert [call[1]["repetition_penalty"] for call in calls] == [1.1, 1.2, 1.3]
     directory = settings.output_dir / "reports" / report.report_id
     assert list(directory.glob("ocr/*/raw/page-0001-attempt-1.json"))
+    assert list(directory.glob("ocr/*/raw/page-0001-attempt-2.json"))
+    assert list(directory.glob("ocr/*/raw/page-0001-attempt-3.json"))
     assert not list(directory.glob("ocr/*/transcript.json"))
     assert not list(directory.glob("ocr/*/pages/*.json"))
 

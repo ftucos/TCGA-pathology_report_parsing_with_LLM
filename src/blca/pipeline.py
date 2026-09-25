@@ -202,7 +202,8 @@ def run_ocr(
         if client is None:
             raise ValueError("Paddle OCR client is required for uncached pages")
         payload = ocr_payload(s, png)
-        for attempt in range(1, s.attempts + 1):
+        attempt = 1
+        while True:
             try:
                 raw = client.request("/v1/chat/completions", payload)
                 atomic_json(work / "raw" / f"page-{number:04d}-attempt-{attempt}.json", raw)
@@ -213,9 +214,19 @@ def run_ocr(
                     work / "raw" / f"page-{number:04d}-attempt-{attempt}.error.txt",
                     f"{type(e).__name__}: {e}",
                 )
-                if isinstance(e, InvalidOCRResponse) or attempt == s.attempts:
+                if isinstance(e, InvalidOCRResponse):
+                    if payload["repetition_penalty"] >= 1.3:
+                        raise
+                    payload = {
+                        **payload,
+                        "repetition_penalty": min(
+                            round(payload["repetition_penalty"] + 0.1, 1), 1.3
+                        ),
+                    }
+                elif attempt >= s.attempts:
                     raise
                 time.sleep(min(2 ** (attempt - 1), 8))
+                attempt += 1
         atomic_json(
             page_path,
             {"fingerprint": key, "page": number, "text": text, "text_sha256": fingerprint(text)},
