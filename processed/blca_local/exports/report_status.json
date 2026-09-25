@@ -1,0 +1,2067 @@
+[
+  {
+    "report_id": "00a45f17-b182-45f4-92f4-4bf406a66323",
+    "case_id": "TCGA-DK-A2I4",
+    "status": "complete"
+  },
+  {
+    "report_id": "01279d99-2f95-4e32-846a-c4df4a64dc88",
+    "case_id": "TCGA-4Z-AA7O",
+    "status": "complete"
+  },
+  {
+    "report_id": "01a64b87-2f5b-4086-ad6d-e0afe620b793",
+    "case_id": "TCGA-GV-A3QH",
+    "status": "complete"
+  },
+  {
+    "report_id": "02d89b0d-8bd7-4219-af20-3ac901064f22",
+    "case_id": "TCGA-4Z-AA87",
+    "status": "complete"
+  },
+  {
+    "report_id": "02ffc7a8-bd77-46da-864b-dab575a5bd84",
+    "case_id": "TCGA-YF-AA3M",
+    "status": "complete"
+  },
+  {
+    "report_id": "042fa888-e27a-4777-95aa-bb1ba15c3cda",
+    "case_id": "TCGA-FD-A3SN",
+    "status": "complete"
+  },
+  {
+    "report_id": "054f66b8-094c-4f4f-b8e9-5725ef547477",
+    "case_id": "TCGA-XF-AAML",
+    "status": "complete"
+  },
+  {
+    "report_id": "06149a76-4ff8-49c0-b216-f282fe1da94f",
+    "case_id": "TCGA-DK-AA6M",
+    "status": "complete"
+  },
+  {
+    "report_id": "0686e591-5f01-479c-9235-0ad12e635347",
+    "case_id": "TCGA-XF-A9SY",
+    "status": "complete"
+  },
+  {
+    "report_id": "07e09c2a-6a59-4eda-9172-df0182e78a51",
+    "case_id": "TCGA-FD-A6TB",
+    "status": "complete"
+  },
+  {
+    "report_id": "086daaa0-403e-4cfd-9daa-34d8019a7273",
+    "case_id": "TCGA-CF-A1HS",
+    "status": "complete"
+  },
+  {
+    "report_id": "088c025a-ba62-4e8d-828d-c7d16a8fa0db",
+    "case_id": "TCGA-S5-A6DX",
+    "status": "complete"
+  },
+  {
+    "report_id": "093407a8-dc5d-460b-8895-e26882c7312d",
+    "case_id": "TCGA-K4-A83P",
+    "status": "complete"
+  },
+  {
+    "report_id": "09ecde52-8ea2-4b77-9c28-bc7eb3fe96c1",
+    "case_id": "TCGA-ZF-AA5H",
+    "status": "complete"
+  },
+  {
+    "report_id": "0ac541fd-99e6-435d-b509-0369a1ae71d8",
+    "case_id": "TCGA-K4-AAQO",
+    "status": "complete"
+  },
+  {
+    "report_id": "0bf16ec9-a4c4-4a36-bc2e-01b96b962cd3",
+    "case_id": "TCGA-E7-A7XN",
+    "status": "complete"
+  },
+  {
+    "report_id": "0ce2e6f8-7827-4f37-9635-fa446627cbc8",
+    "case_id": "TCGA-XF-A8HB",
+    "status": "complete"
+  },
+  {
+    "report_id": "0dfa542b-6248-4d5c-b16c-3bf768556c5e",
+    "case_id": "TCGA-GC-A3RC",
+    "status": "complete"
+  },
+  {
+    "report_id": "114af562-89ff-4819-86db-c926b268e7c6",
+    "case_id": "TCGA-HQ-A2OF",
+    "status": "complete"
+  },
+  {
+    "report_id": "11884bbe-2fa3-411f-ad54-7d64265cbe8f",
+    "case_id": "TCGA-CF-A3MH",
+    "status": "complete"
+  },
+  {
+    "report_id": "121da658-2af7-409a-831f-cf54b0c273ad",
+    "case_id": "TCGA-FD-A6TF",
+    "status": "complete"
+  },
+  {
+    "report_id": "1241b39f-ec7d-4a19-ba3d-e32d2b97f4c3",
+    "case_id": "TCGA-K4-A3WV",
+    "status": "complete"
+  },
+  {
+    "report_id": "129595cb-d662-49df-b0a0-edf488cf4c8d",
+    "case_id": "TCGA-DK-A2HX",
+    "status": "complete"
+  },
+  {
+    "report_id": "13f51a3e-3542-41c2-b2a5-c25a82dcc139",
+    "case_id": "TCGA-XF-AAN5",
+    "status": "complete"
+  },
+  {
+    "report_id": "1463d3a4-f615-4dd5-aae4-506ff901f904",
+    "case_id": "TCGA-ZF-AA5N",
+    "status": "complete"
+  },
+  {
+    "report_id": "1564ebb8-7b9a-411a-84e5-206cd882d365",
+    "case_id": "TCGA-E7-A8O8",
+    "status": "complete"
+  },
+  {
+    "report_id": "15bd95db-0428-4ef7-8bbe-4f8813ead9a1",
+    "case_id": "TCGA-DK-A6AV",
+    "status": "complete"
+  },
+  {
+    "report_id": "1684dad9-547e-4953-93ec-c6eac38e9cbc",
+    "case_id": "TCGA-FD-A3B7",
+    "status": "complete"
+  },
+  {
+    "report_id": "16c29556-b120-430a-b52a-0829abcecbc2",
+    "case_id": "TCGA-CF-A9FL",
+    "status": "complete"
+  },
+  {
+    "report_id": "175f23e8-5252-4a58-a072-44abbbe80b4c",
+    "case_id": "TCGA-UY-A78L",
+    "status": "complete"
+  },
+  {
+    "report_id": "18c54d4b-a66d-4516-b421-409b5bdb6a0d",
+    "case_id": "TCGA-ZF-A9R1",
+    "status": "complete"
+  },
+  {
+    "report_id": "18d88e27-6b53-45a8-a651-e93756f30089",
+    "case_id": "TCGA-2F-A9KR",
+    "status": "complete"
+  },
+  {
+    "report_id": "18f5b883-3dec-484d-9001-429a9e5f1cbe",
+    "case_id": "TCGA-FD-A6TD",
+    "status": "complete"
+  },
+  {
+    "report_id": "194b6973-9005-4306-aacb-540c82da7781",
+    "case_id": "TCGA-GC-A6I3",
+    "status": "complete"
+  },
+  {
+    "report_id": "19d5234e-07cc-4a37-a799-1f5129c80971",
+    "case_id": "TCGA-FD-A3SR",
+    "status": "complete"
+  },
+  {
+    "report_id": "19eb9abb-0c7c-4d65-a929-e6c5c40338a4",
+    "case_id": "TCGA-DK-A1AF",
+    "status": "complete"
+  },
+  {
+    "report_id": "1a01adf5-85fc-4e32-9570-0b412a3d6ec2",
+    "case_id": "TCGA-CF-A8HY",
+    "status": "complete"
+  },
+  {
+    "report_id": "1a369756-577c-4d58-adef-524e61d5b3fb",
+    "case_id": "TCGA-GU-A764",
+    "status": "complete"
+  },
+  {
+    "report_id": "1a810fec-acc4-4208-9c5a-b4979754321a",
+    "case_id": "TCGA-BT-A2LD",
+    "status": "complete"
+  },
+  {
+    "report_id": "1b49e19f-95dc-44cf-aeb4-3dc129060fc7",
+    "case_id": "TCGA-GU-A767",
+    "status": "complete"
+  },
+  {
+    "report_id": "1b651787-e2e7-4373-b903-2cdb1ddad4b8",
+    "case_id": "TCGA-XF-A9T3",
+    "status": "complete"
+  },
+  {
+    "report_id": "1beb7a54-310e-4171-a24f-ec25c9315e9a",
+    "case_id": "TCGA-GD-A76B",
+    "status": "complete"
+  },
+  {
+    "report_id": "1c08ab3d-8c2d-4903-a7f0-0af126c1c79c",
+    "case_id": "TCGA-YC-A89H",
+    "status": "complete"
+  },
+  {
+    "report_id": "1c4b8d44-eea4-4343-88a6-2d202664ba23",
+    "case_id": "TCGA-ZF-AA4T",
+    "status": "complete"
+  },
+  {
+    "report_id": "1d421cd7-3eed-4a5e-a44c-8062796a61d2",
+    "case_id": "TCGA-E7-A97Q",
+    "status": "complete"
+  },
+  {
+    "report_id": "1e841fa6-e59a-490e-899e-fc46ed68507a",
+    "case_id": "TCGA-DK-AA74",
+    "status": "complete"
+  },
+  {
+    "report_id": "1e9b6b79-2f4d-4ed3-967e-b8a448baea44",
+    "case_id": "TCGA-FD-A6TK",
+    "status": "complete"
+  },
+  {
+    "report_id": "1fe2acc4-0e3e-4b6f-b277-4ec291d90067",
+    "case_id": "TCGA-E7-A678",
+    "status": "complete"
+  },
+  {
+    "report_id": "21c7c530-e0c7-4c70-b545-0a59c44c7cc2",
+    "case_id": "TCGA-XF-A9SK",
+    "status": "complete"
+  },
+  {
+    "report_id": "22307e29-9232-49ee-8c43-ae2a1ce7bffa",
+    "case_id": "TCGA-GD-A6C6",
+    "status": "complete"
+  },
+  {
+    "report_id": "22ba01a0-2326-433e-954a-3e251b7cc344",
+    "case_id": "TCGA-E7-A541",
+    "status": "complete"
+  },
+  {
+    "report_id": "22f0c7dc-f093-4751-9b02-36540ab8ac94",
+    "case_id": "TCGA-DK-A3IS",
+    "status": "complete"
+  },
+  {
+    "report_id": "232f7d68-ac66-4366-82d6-a781d2fbbe8d",
+    "case_id": "TCGA-XF-AAN0",
+    "status": "complete"
+  },
+  {
+    "report_id": "23c828fa-93cf-4aea-b341-de1099d86a2d",
+    "case_id": "TCGA-CF-A7I0",
+    "status": "complete"
+  },
+  {
+    "report_id": "243a8a77-355a-4242-915e-f246c2a17bca",
+    "case_id": "TCGA-G2-A2EC",
+    "status": "complete"
+  },
+  {
+    "report_id": "24ee131c-2021-4562-a129-7c8a332722c7",
+    "case_id": "TCGA-FD-A5BT",
+    "status": "complete"
+  },
+  {
+    "report_id": "270b7e07-5798-467d-a4ac-db31269d6201",
+    "case_id": "TCGA-E7-A6ME",
+    "status": "complete"
+  },
+  {
+    "report_id": "27b74534-f529-4c39-89d4-63aeac50824d",
+    "case_id": "TCGA-XF-A9SI",
+    "status": "complete"
+  },
+  {
+    "report_id": "2800fc7b-c9b5-4e65-a7b5-7c2a9dd79e3f",
+    "case_id": "TCGA-G2-A2EL",
+    "status": "complete"
+  },
+  {
+    "report_id": "28d1d110-f125-4072-a07f-2c0ea2936c7d",
+    "case_id": "TCGA-K4-A6MB",
+    "status": "complete"
+  },
+  {
+    "report_id": "28efbb38-4a95-4702-b131-e3c9a309a5ca",
+    "case_id": "TCGA-4Z-AA83",
+    "status": "complete"
+  },
+  {
+    "report_id": "2939ff48-36de-4979-b137-113b2ed74c81",
+    "case_id": "TCGA-C4-A0EZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "2b489993-eaac-4b4c-bb89-2fc07aa15048",
+    "case_id": "TCGA-ZF-AA53",
+    "status": "complete"
+  },
+  {
+    "report_id": "2b6dd4df-e802-4d69-9306-055efc574163",
+    "case_id": "TCGA-BT-A3PK",
+    "status": "complete"
+  },
+  {
+    "report_id": "2c1c867e-ed9f-4e11-8af6-6b9b6c032a7b",
+    "case_id": "TCGA-CU-A3KJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "2c35423c-0323-4405-a3d4-cd08ec3d441e",
+    "case_id": "TCGA-CF-A47Y",
+    "status": "complete"
+  },
+  {
+    "report_id": "2c5020ac-7a6a-4e0e-ade5-63db581a7279",
+    "case_id": "TCGA-YF-AA3L",
+    "status": "complete"
+  },
+  {
+    "report_id": "2c60bb9a-7cf5-4944-907d-1ba7bb727be8",
+    "case_id": "TCGA-E7-A8O7",
+    "status": "complete"
+  },
+  {
+    "report_id": "2c90703a-d70f-401e-8317-693ffbb7ffc0",
+    "case_id": "TCGA-FD-A3B8",
+    "status": "complete"
+  },
+  {
+    "report_id": "2cad6db7-4bb7-4b99-9b46-a33d44afc35c",
+    "case_id": "TCGA-DK-A6AW",
+    "status": "complete"
+  },
+  {
+    "report_id": "2d58f5f1-869b-45e4-b00a-d42059103f50",
+    "case_id": "TCGA-XF-A9SW",
+    "status": "complete"
+  },
+  {
+    "report_id": "2da8a4ce-f798-4766-9cf6-11a754e853e2",
+    "case_id": "TCGA-DK-A3IM",
+    "status": "complete"
+  },
+  {
+    "report_id": "2e2a94e4-79b7-41f8-ac86-323a055aa9f8",
+    "case_id": "TCGA-XF-AAMT",
+    "status": "complete"
+  },
+  {
+    "report_id": "2f75045c-4d93-46a3-b89d-fe97bb2c6d2a",
+    "case_id": "TCGA-ZF-AA54",
+    "status": "complete"
+  },
+  {
+    "report_id": "2feb0405-7b65-480f-94b9-75f4d53a25cd",
+    "case_id": "TCGA-XF-A8HH",
+    "status": "complete"
+  },
+  {
+    "report_id": "30a67c8d-4982-4957-84b7-dde9e6dbbdf8",
+    "case_id": "TCGA-FD-A3NA",
+    "status": "complete"
+  },
+  {
+    "report_id": "314b3e45-413c-447f-ba3c-c82f0ea7251b",
+    "case_id": "TCGA-BL-A3JM",
+    "status": "complete"
+  },
+  {
+    "report_id": "315fdc83-0242-4bc3-a3ae-aee1f4b25d5f",
+    "case_id": "TCGA-FD-A3SJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "31825d87-5e78-4466-9d12-f4deda599d92",
+    "case_id": "TCGA-DK-A3IV",
+    "status": "complete"
+  },
+  {
+    "report_id": "31862f74-f66a-4589-ae41-ce88b6154124",
+    "case_id": "TCGA-XF-A9SU",
+    "status": "complete"
+  },
+  {
+    "report_id": "31a76a01-1060-4b9e-b694-ca2a343aa67a",
+    "case_id": "TCGA-ZF-AA52",
+    "status": "complete"
+  },
+  {
+    "report_id": "31bb2d04-5b79-43ed-ac78-f759990fedf7",
+    "case_id": "TCGA-DK-A3WY",
+    "status": "complete"
+  },
+  {
+    "report_id": "32025abf-ec87-4c1e-9896-2226c5eb977a",
+    "case_id": "TCGA-S5-AA26",
+    "status": "complete"
+  },
+  {
+    "report_id": "330c28b9-8118-4bde-8cd4-ef35b779edbd",
+    "case_id": "TCGA-XF-A9ST",
+    "status": "complete"
+  },
+  {
+    "report_id": "334837c1-c7cc-4a32-96c6-d6e6650447b1",
+    "case_id": "TCGA-FD-A3B6",
+    "status": "complete"
+  },
+  {
+    "report_id": "344ac897-6a14-4671-8049-dc5f5a6f3bf6",
+    "case_id": "TCGA-CU-A0YN",
+    "status": "complete"
+  },
+  {
+    "report_id": "34bc766f-dfc4-44c8-98ed-38b2ff20b215",
+    "case_id": "TCGA-ZF-AA4V",
+    "status": "complete"
+  },
+  {
+    "report_id": "34ce7143-c2e3-4d50-b120-d317d01faa5e",
+    "case_id": "TCGA-GU-A766",
+    "status": "complete"
+  },
+  {
+    "report_id": "351daa54-990c-4e58-972c-1f7c9dac5ada",
+    "case_id": "TCGA-4Z-AA7Y",
+    "status": "complete"
+  },
+  {
+    "report_id": "3583307c-51ca-4190-b380-8cb4c2cff3ca",
+    "case_id": "TCGA-UY-A78M",
+    "status": "complete"
+  },
+  {
+    "report_id": "35d391a8-9137-4f8c-a9ef-51ad8dae1930",
+    "case_id": "TCGA-G2-A3IE",
+    "status": "complete"
+  },
+  {
+    "report_id": "36277c0a-b7e0-4f5d-8b3a-bff3a6916abd",
+    "case_id": "TCGA-FD-A3B5",
+    "status": "complete"
+  },
+  {
+    "report_id": "36b1c129-1f9e-448b-8f0d-adf8f1678555",
+    "case_id": "TCGA-XF-A9SP",
+    "status": "complete"
+  },
+  {
+    "report_id": "37260cc3-bff8-4876-bb18-cdb6a82a3712",
+    "case_id": "TCGA-DK-A1A6",
+    "status": "complete"
+  },
+  {
+    "report_id": "384435f4-80f6-42e3-8939-202fb6681f0b",
+    "case_id": "TCGA-KQ-A41R",
+    "status": "complete"
+  },
+  {
+    "report_id": "391466a7-f728-4e87-99b7-78f645286d03",
+    "case_id": "TCGA-UY-A9PF",
+    "status": "complete"
+  },
+  {
+    "report_id": "39219a67-e87c-4c2a-8eec-d66e23312d27",
+    "case_id": "TCGA-CF-A47S",
+    "status": "complete"
+  },
+  {
+    "report_id": "39b73ad3-b26a-4c4f-b8b8-6ea666b7e631",
+    "case_id": "TCGA-BT-A42F",
+    "status": "complete"
+  },
+  {
+    "report_id": "3a316cf1-0184-43f7-823e-d24ececa97ca",
+    "case_id": "TCGA-H4-A2HQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "3bf7a4dc-6663-477c-bbe1-2cc5d7ad2b30",
+    "case_id": "TCGA-DK-AA77",
+    "status": "complete"
+  },
+  {
+    "report_id": "3ca4b710-e69f-41f4-b7d2-e74b80fd93ba",
+    "case_id": "TCGA-ZF-A9RG",
+    "status": "complete"
+  },
+  {
+    "report_id": "3cd38659-5dd9-4bde-a735-f535f85b1bf0",
+    "case_id": "TCGA-BT-A20P",
+    "status": "complete"
+  },
+  {
+    "report_id": "3cd74b13-dd29-458f-9e4b-fc98566718f0",
+    "case_id": "TCGA-BT-A2LB",
+    "status": "complete"
+  },
+  {
+    "report_id": "3db0a334-1361-4d70-aee6-578c3139afe3",
+    "case_id": "TCGA-PQ-A6FI",
+    "status": "complete"
+  },
+  {
+    "report_id": "3f002827-473f-4bc3-a63c-0d1a76a10b34",
+    "case_id": "TCGA-BT-A20Q",
+    "status": "complete"
+  },
+  {
+    "report_id": "3f8d43fe-271f-457c-bb8b-e05a9f36dd9a",
+    "case_id": "TCGA-K4-A5RI",
+    "status": "complete"
+  },
+  {
+    "report_id": "404160b3-bbc9-4ec2-a061-50f4e7b5c2f5",
+    "case_id": "TCGA-BT-A20X",
+    "status": "complete"
+  },
+  {
+    "report_id": "40abbfaa-3500-42e9-9817-ce9e9f555f87",
+    "case_id": "TCGA-ZF-A9RC",
+    "status": "complete"
+  },
+  {
+    "report_id": "40b3aa1e-c8b1-4eb9-9ef7-9c6dd012118a",
+    "case_id": "TCGA-FD-A3SQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "413d5381-c94d-41ec-a2a9-89db90956b68",
+    "case_id": "TCGA-XF-A9T8",
+    "status": "complete"
+  },
+  {
+    "report_id": "41c553a3-e02a-43e6-8085-4c53814e6790",
+    "case_id": "TCGA-XF-A8HD",
+    "status": "complete"
+  },
+  {
+    "report_id": "43283f62-4c34-459b-b636-59e8a4f16fb7",
+    "case_id": "TCGA-BT-A20R",
+    "status": "complete"
+  },
+  {
+    "report_id": "45a72a5d-00f2-41a3-9f69-eeb3d3e64cb4",
+    "case_id": "TCGA-DK-AA6S",
+    "status": "complete"
+  },
+  {
+    "report_id": "4650d1b2-528a-484e-a659-6d71cb191fac",
+    "case_id": "TCGA-DK-A6B2",
+    "status": "complete"
+  },
+  {
+    "report_id": "46a2b301-8ece-4b11-9131-4e650a30ff10",
+    "case_id": "TCGA-2F-A9KQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "47162090-af50-4338-b00e-4f462f1449dc",
+    "case_id": "TCGA-HQ-A5NE",
+    "status": "complete"
+  },
+  {
+    "report_id": "4729c3d0-8aed-4169-8737-31aafed89927",
+    "case_id": "TCGA-DK-A3IT",
+    "status": "complete"
+  },
+  {
+    "report_id": "49ad2302-dda9-4436-9bd4-a8ea66328d9e",
+    "case_id": "TCGA-E7-A5KE",
+    "status": "complete"
+  },
+  {
+    "report_id": "4a0398fd-89e7-4720-a73d-46c606a42550",
+    "case_id": "TCGA-DK-A3IL",
+    "status": "complete"
+  },
+  {
+    "report_id": "4be01f3f-7051-4545-b64d-e5331bc7dec9",
+    "case_id": "TCGA-E7-A4IJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "4c746916-8026-415c-98c8-cac1dd976d92",
+    "case_id": "TCGA-G2-A3IB",
+    "status": "complete"
+  },
+  {
+    "report_id": "4d3ade60-5be0-47e8-9477-7355e247f712",
+    "case_id": "TCGA-4Z-AA89",
+    "status": "complete"
+  },
+  {
+    "report_id": "4dc0bb5b-2511-40bd-849f-99869fcebe26",
+    "case_id": "TCGA-XF-A9SZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "4f56e59e-cd4e-4946-b05b-f68177208c63",
+    "case_id": "TCGA-E7-A5KF",
+    "status": "complete"
+  },
+  {
+    "report_id": "4ff54a32-12fb-4f66-8c98-ca684045159c",
+    "case_id": "TCGA-BT-A20U",
+    "status": "complete"
+  },
+  {
+    "report_id": "4ff9677a-35c2-41c5-a2c7-0b68de69f7f2",
+    "case_id": "TCGA-FD-A3SM",
+    "status": "complete"
+  },
+  {
+    "report_id": "50c37af9-d16c-49b3-9978-c20de317fec9",
+    "case_id": "TCGA-XF-AAMH",
+    "status": "complete"
+  },
+  {
+    "report_id": "50f94b79-6a25-45e6-ade5-d23a2e39bce7",
+    "case_id": "TCGA-DK-A2I2",
+    "status": "complete"
+  },
+  {
+    "report_id": "514554ca-6b84-45c5-8190-5476d6c422e8",
+    "case_id": "TCGA-DK-A6B6",
+    "status": "complete"
+  },
+  {
+    "report_id": "549929f9-d1ab-4ac8-ad82-cdb20621b6ac",
+    "case_id": "TCGA-GU-A42P",
+    "status": "complete"
+  },
+  {
+    "report_id": "54a07a51-b200-4b95-a665-6d1ebd18aafd",
+    "case_id": "TCGA-GV-A3QF",
+    "status": "complete"
+  },
+  {
+    "report_id": "551f3383-dec5-41fa-9a25-19a19ba6be23",
+    "case_id": "TCGA-XF-A9SM",
+    "status": "complete"
+  },
+  {
+    "report_id": "552aa1fd-a5d3-498c-8fe3-5281200f1cd2",
+    "case_id": "TCGA-K4-A5RH",
+    "status": "complete"
+  },
+  {
+    "report_id": "55af58b0-8938-4aa7-850a-ab9c05dd2b4b",
+    "case_id": "TCGA-4Z-AA7N",
+    "status": "complete"
+  },
+  {
+    "report_id": "569512c1-f1c6-4081-bba8-cd22bed527e1",
+    "case_id": "TCGA-DK-AA6R",
+    "status": "complete"
+  },
+  {
+    "report_id": "56d22b58-c946-4fa1-8d70-4c50b997bef7",
+    "case_id": "TCGA-XF-AAMY",
+    "status": "complete"
+  },
+  {
+    "report_id": "5736472e-1133-4996-8e59-8328378b0114",
+    "case_id": "TCGA-C4-A0F1",
+    "status": "complete"
+  },
+  {
+    "report_id": "57a4a5c5-120f-475a-b037-fe8c5fae0367",
+    "case_id": "TCGA-FD-A43X",
+    "status": "complete"
+  },
+  {
+    "report_id": "58d609a1-7a46-4b3c-924e-1b03e475ff39",
+    "case_id": "TCGA-E5-A4TZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "590b73ba-da67-4b5d-a2ac-84bd288e8fa3",
+    "case_id": "TCGA-KQ-A41P",
+    "status": "complete"
+  },
+  {
+    "report_id": "59736f95-4317-43c4-9e4e-8832682ecb3a",
+    "case_id": "TCGA-DK-AA6T",
+    "status": "complete"
+  },
+  {
+    "report_id": "598615bb-25be-445c-a690-5c8e05947f70",
+    "case_id": "TCGA-UY-A8OD",
+    "status": "complete"
+  },
+  {
+    "report_id": "59cba69e-09cc-4e4a-bd49-6442f5734ef3",
+    "case_id": "TCGA-GV-A40E",
+    "status": "complete"
+  },
+  {
+    "report_id": "5a279bdc-23fc-42fb-a83e-cf6a2369a39d",
+    "case_id": "TCGA-BT-A20T",
+    "status": "complete"
+  },
+  {
+    "report_id": "5ad5eae9-2428-4585-8f72-3875650ca3c8",
+    "case_id": "TCGA-CU-A5W6",
+    "status": "complete"
+  },
+  {
+    "report_id": "5ae0dc0f-17be-4bcb-96b5-f7af80202fe8",
+    "case_id": "TCGA-CF-A47W",
+    "status": "complete"
+  },
+  {
+    "report_id": "5b445b19-7b46-4a88-b754-e49cb6aabe6b",
+    "case_id": "TCGA-BL-A5ZZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "5b50e556-bc36-4a8e-813e-cff5a210f136",
+    "case_id": "TCGA-E7-A7DV",
+    "status": "complete"
+  },
+  {
+    "report_id": "5c161254-fc0e-4cd7-a32d-3b7a19b84718",
+    "case_id": "TCGA-G2-A3VY",
+    "status": "complete"
+  },
+  {
+    "report_id": "5c1a638e-a102-49f2-b4c0-2b642838f51a",
+    "case_id": "TCGA-5N-A9KM",
+    "status": "complete"
+  },
+  {
+    "report_id": "5c668867-aa75-4ce4-a327-dd3034d374b7",
+    "case_id": "TCGA-G2-AA3B",
+    "status": "complete"
+  },
+  {
+    "report_id": "5c6aa878-dfae-4019-b9a8-1d5fa14ea23f",
+    "case_id": "TCGA-ZF-A9R5",
+    "status": "complete"
+  },
+  {
+    "report_id": "5ded9330-b130-42f3-9c8c-0811417669a9",
+    "case_id": "TCGA-BT-A20W",
+    "status": "complete"
+  },
+  {
+    "report_id": "5dedfb03-6ab6-448c-bfe3-de186f5b77f2",
+    "case_id": "TCGA-K4-A3WU",
+    "status": "complete"
+  },
+  {
+    "report_id": "5ed0fbd5-b41c-4e91-b7a0-32b18ec0f25a",
+    "case_id": "TCGA-CF-A47X",
+    "status": "complete"
+  },
+  {
+    "report_id": "5edb1763-b80c-47c6-b7dc-03e5a10428f5",
+    "case_id": "TCGA-4Z-AA7R",
+    "status": "complete"
+  },
+  {
+    "report_id": "5fad66b7-2bc3-4030-ac18-9cc9503f94fc",
+    "case_id": "TCGA-GC-A3BM",
+    "status": "complete"
+  },
+  {
+    "report_id": "622faf62-cd41-4e93-ad57-d96f5e87b2e6",
+    "case_id": "TCGA-4Z-AA81",
+    "status": "complete"
+  },
+  {
+    "report_id": "628504c0-8db4-4d49-837f-3af9fb4e3732",
+    "case_id": "TCGA-BT-A42C",
+    "status": "complete"
+  },
+  {
+    "report_id": "62d3c939-43d4-4084-b2d4-ba3c7b40eeeb",
+    "case_id": "TCGA-FD-A5BS",
+    "status": "complete"
+  },
+  {
+    "report_id": "62efe260-be80-4f13-90e2-78681648f488",
+    "case_id": "TCGA-FD-A3SS",
+    "status": "complete"
+  },
+  {
+    "report_id": "62f09fd9-0ddc-4762-a75d-4d18a25c9d12",
+    "case_id": "TCGA-ZF-A9R7",
+    "status": "complete"
+  },
+  {
+    "report_id": "6353cff8-ced1-4292-a81e-dfc14b75b971",
+    "case_id": "TCGA-E7-A6MD",
+    "status": "complete"
+  },
+  {
+    "report_id": "63c2f167-3477-4929-9ac3-85f80946d291",
+    "case_id": "TCGA-GU-AATP",
+    "status": "complete"
+  },
+  {
+    "report_id": "64703b2f-15f6-4377-9e97-a2242e46eddb",
+    "case_id": "TCGA-DK-A3X2",
+    "status": "complete"
+  },
+  {
+    "report_id": "65a2477f-59b7-42b2-9ed4-08d8d58b7f7a",
+    "case_id": "TCGA-FD-A3SP",
+    "status": "complete"
+  },
+  {
+    "report_id": "675ec371-b8dc-4a24-9ce7-866726a23ff0",
+    "case_id": "TCGA-SY-A9G0",
+    "status": "complete"
+  },
+  {
+    "report_id": "677e8089-0cde-461c-9531-109f91367fd8",
+    "case_id": "TCGA-GU-A762",
+    "status": "complete"
+  },
+  {
+    "report_id": "67abc998-abc7-4cd9-8266-5bf4a5864e19",
+    "case_id": "TCGA-CU-A72E",
+    "status": "complete"
+  },
+  {
+    "report_id": "684d677d-6491-45c0-8ea9-287c9200d739",
+    "case_id": "TCGA-CF-A47V",
+    "status": "complete"
+  },
+  {
+    "report_id": "693c53f5-40ee-4f5a-b3ff-80205d313467",
+    "case_id": "TCGA-XF-AAN8",
+    "status": "complete"
+  },
+  {
+    "report_id": "6978602b-6e96-4b77-8dab-dce7a872c798",
+    "case_id": "TCGA-XF-A9SX",
+    "status": "complete"
+  },
+  {
+    "report_id": "69a10c2c-e7f2-4eb7-8a5c-f5f175a152c0",
+    "case_id": "TCGA-HQ-A5ND",
+    "status": "complete"
+  },
+  {
+    "report_id": "69d71e0b-ec64-413d-aa65-fdfb312fb9ff",
+    "case_id": "TCGA-ZF-A9RF",
+    "status": "complete"
+  },
+  {
+    "report_id": "69de5f06-05b8-4a1f-95c5-c16d4bea33cc",
+    "case_id": "TCGA-ZF-A9R9",
+    "status": "complete"
+  },
+  {
+    "report_id": "6b8b2afc-6d5f-4e29-942d-1fa309f81a73",
+    "case_id": "TCGA-FD-A6TI",
+    "status": "complete"
+  },
+  {
+    "report_id": "6e3a3e1d-2e9d-4d29-8603-d927cb615861",
+    "case_id": "TCGA-GV-A3QK",
+    "status": "complete"
+  },
+  {
+    "report_id": "70e4144d-8e8d-4a82-999a-b5f4c9c4d40b",
+    "case_id": "TCGA-E7-A3Y1",
+    "status": "complete"
+  },
+  {
+    "report_id": "72a2bed1-20fd-4fd3-8367-f029decc2d1a",
+    "case_id": "TCGA-FD-A43U",
+    "status": "complete"
+  },
+  {
+    "report_id": "73035bde-dda3-42b9-947e-704584d82936",
+    "case_id": "TCGA-FD-A43N",
+    "status": "complete"
+  },
+  {
+    "report_id": "7353f4ec-4f89-4586-a570-7163132305bc",
+    "case_id": "TCGA-CF-A9FH",
+    "status": "complete"
+  },
+  {
+    "report_id": "73988f6a-76eb-4de7-9c05-255df5da89d8",
+    "case_id": "TCGA-DK-AA6L",
+    "status": "complete"
+  },
+  {
+    "report_id": "73a2e1fd-2a54-4626-bd94-fb60cbfaf389",
+    "case_id": "TCGA-FD-A3B4",
+    "status": "complete"
+  },
+  {
+    "report_id": "74516cc7-66d0-429c-9c50-29a009972d91",
+    "case_id": "TCGA-XF-AAMG",
+    "status": "complete"
+  },
+  {
+    "report_id": "7456f466-4113-464b-ada8-631161449b75",
+    "case_id": "TCGA-XF-AAN2",
+    "status": "complete"
+  },
+  {
+    "report_id": "747d1e0b-a959-4b8a-b0fd-78e54eff9666",
+    "case_id": "TCGA-ZF-AA56",
+    "status": "complete"
+  },
+  {
+    "report_id": "74d30c4f-ae57-44af-aeac-63ab97e91259",
+    "case_id": "TCGA-HQ-A2OE",
+    "status": "complete"
+  },
+  {
+    "report_id": "7531d32c-e2af-4248-9144-8dc01522d588",
+    "case_id": "TCGA-XF-A8HE",
+    "status": "complete"
+  },
+  {
+    "report_id": "75c5eab9-7f13-4a49-a231-6cde6b3ad04c",
+    "case_id": "TCGA-GV-A40G",
+    "status": "complete"
+  },
+  {
+    "report_id": "7612cd43-e078-4d66-bda5-471ba644d4ab",
+    "case_id": "TCGA-UY-A9PD",
+    "status": "complete"
+  },
+  {
+    "report_id": "7662d38d-86f1-494b-9766-227524698c69",
+    "case_id": "TCGA-4Z-AA82",
+    "status": "complete"
+  },
+  {
+    "report_id": "775e6204-b1ae-41c7-87ea-78999b9fc2d9",
+    "case_id": "TCGA-BT-A20J",
+    "status": "complete"
+  },
+  {
+    "report_id": "7858984b-6dba-45a6-808e-3fc98fc6fb88",
+    "case_id": "TCGA-GD-A2C5",
+    "status": "complete"
+  },
+  {
+    "report_id": "78e5a967-9479-4fca-8559-aee5730a288c",
+    "case_id": "TCGA-2F-A9KO",
+    "status": "complete"
+  },
+  {
+    "report_id": "78ea760d-87b7-46e5-bee9-5ea2e27b6da4",
+    "case_id": "TCGA-DK-A1A3",
+    "status": "complete"
+  },
+  {
+    "report_id": "7ae60243-d0ad-479b-94bd-4cb1ac86bf73",
+    "case_id": "TCGA-H4-A2HO",
+    "status": "complete"
+  },
+  {
+    "report_id": "7b27fd41-d361-4840-8897-ffa3787b8d15",
+    "case_id": "TCGA-ZF-A9RM",
+    "status": "complete"
+  },
+  {
+    "report_id": "7d31a9fd-ee6f-4539-aae7-8fc32fa72bcd",
+    "case_id": "TCGA-CF-A9FF",
+    "status": "complete"
+  },
+  {
+    "report_id": "7f7882a7-a5ef-4410-b58e-bba6c72262cd",
+    "case_id": "TCGA-PQ-A6FN",
+    "status": "complete"
+  },
+  {
+    "report_id": "7fbfa5f1-8c22-4fe8-b939-91d3f39aab0d",
+    "case_id": "TCGA-FJ-A3ZE",
+    "status": "complete"
+  },
+  {
+    "report_id": "7fc5b66b-ffcc-4411-9827-dbbeb4b49bb2",
+    "case_id": "TCGA-DK-AA76",
+    "status": "complete"
+  },
+  {
+    "report_id": "8239d631-89ab-4bfc-aedf-429495d35caa",
+    "case_id": "TCGA-E5-A4U1",
+    "status": "complete"
+  },
+  {
+    "report_id": "83a34034-21d6-4968-a5e6-d9229a4c104f",
+    "case_id": "TCGA-2F-A9KT",
+    "status": "complete"
+  },
+  {
+    "report_id": "846840c9-f84c-4edd-bac3-44c650e4f150",
+    "case_id": "TCGA-K4-A3WS",
+    "status": "complete"
+  },
+  {
+    "report_id": "84c0431e-6836-4fe1-8118-8f04c070180b",
+    "case_id": "TCGA-FD-A5BR",
+    "status": "complete"
+  },
+  {
+    "report_id": "8528e16c-d6d0-49da-aee4-23a772e098ce",
+    "case_id": "TCGA-UY-A78P",
+    "status": "complete"
+  },
+  {
+    "report_id": "85fc4c47-4b1f-4385-b7bf-4efc7c533157",
+    "case_id": "TCGA-XF-AAME",
+    "status": "complete"
+  },
+  {
+    "report_id": "865f7767-f9c9-4b4b-a129-855bc8fc063a",
+    "case_id": "TCGA-DK-AA6U",
+    "status": "complete"
+  },
+  {
+    "report_id": "86bfffb7-b992-4582-ac21-e639c818a50d",
+    "case_id": "TCGA-DK-A2I1",
+    "status": "complete"
+  },
+  {
+    "report_id": "874a5243-9bda-4e43-9860-c9d25bdee1e2",
+    "case_id": "TCGA-XF-AAMQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "87e3914e-f9fd-452a-b23c-f228c03cf6d0",
+    "case_id": "TCGA-XF-AAMZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "88d32659-ab36-4512-b559-b16b6f1d2037",
+    "case_id": "TCGA-G2-A2EO",
+    "status": "complete"
+  },
+  {
+    "report_id": "88da601e-d832-4ae5-bb88-43e1bc23d2c0",
+    "case_id": "TCGA-FD-A5BY",
+    "status": "complete"
+  },
+  {
+    "report_id": "89271e2c-5b86-40e7-80e4-64e2f6bfd117",
+    "case_id": "TCGA-XF-A8HG",
+    "status": "complete"
+  },
+  {
+    "report_id": "8969bef7-9486-4411-aedb-2ad966e9c5bc",
+    "case_id": "TCGA-ZF-A9RD",
+    "status": "complete"
+  },
+  {
+    "report_id": "89eb61b5-87ba-4f21-99ba-66615c9e8bc8",
+    "case_id": "TCGA-GC-A6I1",
+    "status": "complete"
+  },
+  {
+    "report_id": "8ac0e21d-25a8-47db-9e1c-d3a2d77cea52",
+    "case_id": "TCGA-G2-A2EK",
+    "status": "complete"
+  },
+  {
+    "report_id": "8b446eb8-3673-4ce7-a800-3aac8f0f8c3e",
+    "case_id": "TCGA-DK-A6B0",
+    "status": "complete"
+  },
+  {
+    "report_id": "8bce7c6d-0e0f-4057-8045-85484985d6f2",
+    "case_id": "TCGA-CU-A0YO",
+    "status": "complete"
+  },
+  {
+    "report_id": "8c19a414-fac0-4922-9365-8f2c1bc5922c",
+    "case_id": "TCGA-BT-A42E",
+    "status": "complete"
+  },
+  {
+    "report_id": "8c1a1610-5071-4bec-a7ba-67c381e2d402",
+    "case_id": "TCGA-FD-A43S",
+    "status": "complete"
+  },
+  {
+    "report_id": "8cd0b986-7815-4746-8178-fddab3036913",
+    "case_id": "TCGA-CF-A47T",
+    "status": "complete"
+  },
+  {
+    "report_id": "8db9995d-623b-4e69-89f0-0c122da52a1a",
+    "case_id": "TCGA-XF-AAN4",
+    "status": "complete"
+  },
+  {
+    "report_id": "8e59aefb-57e5-4418-ba7f-de3c0dd6855b",
+    "case_id": "TCGA-XF-A9SH",
+    "status": "complete"
+  },
+  {
+    "report_id": "8ebfaf92-42b2-4218-b65d-516df75aa601",
+    "case_id": "TCGA-FD-A5BX",
+    "status": "complete"
+  },
+  {
+    "report_id": "8f2e538e-7e54-45c5-a40e-a423710272f9",
+    "case_id": "TCGA-CF-A5U8",
+    "status": "complete"
+  },
+  {
+    "report_id": "8fbde43c-c850-48ad-b28f-b1a5441ee9f9",
+    "case_id": "TCGA-DK-A6B1",
+    "status": "complete"
+  },
+  {
+    "report_id": "8fdd7d8e-4dda-4609-a5e6-96ebcd19ff36",
+    "case_id": "TCGA-DK-AA75",
+    "status": "complete"
+  },
+  {
+    "report_id": "900cb2d8-78ac-4b8f-990b-899ec7c1c5d7",
+    "case_id": "TCGA-CU-A3YL",
+    "status": "complete"
+  },
+  {
+    "report_id": "9358bb8f-0081-45be-866c-5c167454f94b",
+    "case_id": "TCGA-GD-A3OS",
+    "status": "complete"
+  },
+  {
+    "report_id": "93ddd684-701e-460e-968c-a49699dfd490",
+    "case_id": "TCGA-XF-A9T5",
+    "status": "complete"
+  },
+  {
+    "report_id": "95175bc3-a580-4ffe-9db1-154ceaa999f6",
+    "case_id": "TCGA-FD-A5BZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "953c3e7d-9dd0-46e1-954a-6db07c49cd89",
+    "case_id": "TCGA-DK-A3IU",
+    "status": "complete"
+  },
+  {
+    "report_id": "981b00cb-f1dc-4411-b10c-09118b2f69a3",
+    "case_id": "TCGA-ZF-AA51",
+    "status": "complete"
+  },
+  {
+    "report_id": "982541c7-9e68-4b2c-b4eb-cb26e0de3134",
+    "case_id": "TCGA-DK-AA6X",
+    "status": "complete"
+  },
+  {
+    "report_id": "98cc9a37-c577-428c-9dd7-d3983ded7e18",
+    "case_id": "TCGA-GV-A3JV",
+    "status": "complete"
+  },
+  {
+    "report_id": "998a527a-fe37-4f1d-abe7-deeb1bbc79bd",
+    "case_id": "TCGA-GC-A3I6",
+    "status": "complete"
+  },
+  {
+    "report_id": "99b040db-b0ea-4783-939a-2e2e2d7e2a4b",
+    "case_id": "TCGA-DK-A2I6",
+    "status": "complete"
+  },
+  {
+    "report_id": "9a3659d2-f086-49fb-abb3-4ab314af4a34",
+    "case_id": "TCGA-E7-A97P",
+    "status": "complete"
+  },
+  {
+    "report_id": "9a762b89-3213-40ec-8405-70a65e6083d9",
+    "case_id": "TCGA-BT-A2LA",
+    "status": "complete"
+  },
+  {
+    "report_id": "9bfb0df6-5385-4a83-bc7a-02bd3f0a694e",
+    "case_id": "TCGA-XF-AAMJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "9c17aab5-6185-467e-9d88-8e0b57233a54",
+    "case_id": "TCGA-ZF-A9RE",
+    "status": "complete"
+  },
+  {
+    "report_id": "9c7d22bc-ae4c-4556-bfeb-126d56bb3a03",
+    "case_id": "TCGA-UY-A9PE",
+    "status": "complete"
+  },
+  {
+    "report_id": "9d936385-3fdc-4ce5-891a-f7b9b4224769",
+    "case_id": "TCGA-XF-A9SG",
+    "status": "complete"
+  },
+  {
+    "report_id": "9e29bd07-a597-4379-8855-9aedb905fcb4",
+    "case_id": "TCGA-FD-A3N5",
+    "status": "complete"
+  },
+  {
+    "report_id": "9e2e9421-b84f-4abc-8841-22b5673372ad",
+    "case_id": "TCGA-DK-A1AC",
+    "status": "complete"
+  },
+  {
+    "report_id": "9ee4c6a1-4a41-47a1-9766-0021483e603e",
+    "case_id": "TCGA-DK-AA71",
+    "status": "complete"
+  },
+  {
+    "report_id": "9f41632e-38e9-4941-b808-4cb0f20b612e",
+    "case_id": "TCGA-GV-A6ZA",
+    "status": "complete"
+  },
+  {
+    "report_id": "a19258e8-b6b3-4b1b-8b4a-5bfdea7341eb",
+    "case_id": "TCGA-GV-A3JW",
+    "status": "complete"
+  },
+  {
+    "report_id": "a1d4c773-b41e-446e-b736-5baa341665f2",
+    "case_id": "TCGA-FD-A62O",
+    "status": "complete"
+  },
+  {
+    "report_id": "a234e995-2b2f-40d3-a103-7141e0d9b6f2",
+    "case_id": "TCGA-UY-A9PB",
+    "status": "complete"
+  },
+  {
+    "report_id": "a2866aec-5203-425a-bcfc-e49d326c974c",
+    "case_id": "TCGA-E7-A7DU",
+    "status": "complete"
+  },
+  {
+    "report_id": "a2df5b63-1b87-4e16-bd7b-ccc585a2ef82",
+    "case_id": "TCGA-CF-A3MG",
+    "status": "complete"
+  },
+  {
+    "report_id": "a32f2bcd-934e-4cdf-b34a-4c339d02e2c7",
+    "case_id": "TCGA-DK-A3WX",
+    "status": "complete"
+  },
+  {
+    "report_id": "a58d0505-dcbd-47ce-964b-4d3d1575fff2",
+    "case_id": "TCGA-XF-A9T2",
+    "status": "complete"
+  },
+  {
+    "report_id": "a5cd5004-7905-41fe-958f-b8272f5b66f1",
+    "case_id": "TCGA-DK-AA6P",
+    "status": "complete"
+  },
+  {
+    "report_id": "a5df293d-5492-4af1-adf0-ff0732680d2a",
+    "case_id": "TCGA-4Z-AA86",
+    "status": "complete"
+  },
+  {
+    "report_id": "a5e3b579-f409-43d8-8272-5e47d0750dcd",
+    "case_id": "TCGA-DK-A3IK",
+    "status": "complete"
+  },
+  {
+    "report_id": "a61077e4-3082-4572-ac38-307d9e7b26e2",
+    "case_id": "TCGA-FD-A3N6",
+    "status": "complete"
+  },
+  {
+    "report_id": "a62704c5-e357-4235-8f48-9acbc2782a3f",
+    "case_id": "TCGA-DK-A1AA",
+    "status": "complete"
+  },
+  {
+    "report_id": "a670e797-397a-48f6-9f6a-ce9563719fec",
+    "case_id": "TCGA-4Z-AA7S",
+    "status": "complete"
+  },
+  {
+    "report_id": "a6a105ac-e1cb-4b6a-b8c1-e2a877f3ec8d",
+    "case_id": "TCGA-ZF-A9R4",
+    "status": "complete"
+  },
+  {
+    "report_id": "a6acb957-8630-46cb-a862-f3cfc90e786e",
+    "case_id": "TCGA-XF-A9SL",
+    "status": "complete"
+  },
+  {
+    "report_id": "a6b7986b-ea9f-4c04-9e71-990380b1e681",
+    "case_id": "TCGA-ZF-AA4W",
+    "status": "complete"
+  },
+  {
+    "report_id": "a6e5e485-283c-4f12-af36-cb9571d0bce3",
+    "case_id": "TCGA-DK-A1A5",
+    "status": "complete"
+  },
+  {
+    "report_id": "a97fc20a-30db-4e1d-b1e3-561959319a6e",
+    "case_id": "TCGA-FD-A43Y",
+    "status": "complete"
+  },
+  {
+    "report_id": "aa0e000d-156e-44e4-95b4-df5c4c415423",
+    "case_id": "TCGA-CF-A3MF",
+    "status": "complete"
+  },
+  {
+    "report_id": "aa40b04c-13f6-495e-9050-81e8590ba85a",
+    "case_id": "TCGA-XF-A9T4",
+    "status": "complete"
+  },
+  {
+    "report_id": "aad22e64-49d0-4dbc-8de5-f6ee1e99c83c",
+    "case_id": "TCGA-G2-AA3C",
+    "status": "complete"
+  },
+  {
+    "report_id": "ab81340a-25d9-4747-9adf-459b67f47f73",
+    "case_id": "TCGA-ZF-A9R2",
+    "status": "complete"
+  },
+  {
+    "report_id": "abf6a3fe-72ec-4f8c-abd9-8fd951524ecd",
+    "case_id": "TCGA-K4-A4AC",
+    "status": "complete"
+  },
+  {
+    "report_id": "ace036c5-0ae7-4ae1-820b-26677a9bf94c",
+    "case_id": "TCGA-UY-A8OC",
+    "status": "complete"
+  },
+  {
+    "report_id": "ad8ba03c-1820-4fa3-9671-93f709a2a027",
+    "case_id": "TCGA-E7-A519",
+    "status": "complete"
+  },
+  {
+    "report_id": "adf4d719-bcc5-408b-b2a2-22cf6c64c55d",
+    "case_id": "TCGA-DK-A1AG",
+    "status": "complete"
+  },
+  {
+    "report_id": "af1a02ee-c27d-45d4-b185-ae838e730371",
+    "case_id": "TCGA-UY-A78N",
+    "status": "complete"
+  },
+  {
+    "report_id": "afbec341-4c40-402d-8b26-57814cca0cd5",
+    "case_id": "TCGA-FD-A6TE",
+    "status": "complete"
+  },
+  {
+    "report_id": "b013fbbf-8fc3-417e-bb74-90f87446f2b6",
+    "case_id": "TCGA-GV-A3QG",
+    "status": "complete"
+  },
+  {
+    "report_id": "b05e2cd4-4637-4fd4-9055-010b41fea5d3",
+    "case_id": "TCGA-LT-A8JT",
+    "status": "complete"
+  },
+  {
+    "report_id": "b0a8ca03-864a-46e3-bacd-470b0fe353e3",
+    "case_id": "TCGA-C4-A0F7",
+    "status": "complete"
+  },
+  {
+    "report_id": "b1eca987-f00a-4b02-b50f-993274dbd5e2",
+    "case_id": "TCGA-GV-A3QI",
+    "status": "complete"
+  },
+  {
+    "report_id": "b30342d9-e484-4ba6-83d7-bb05d305f7bf",
+    "case_id": "TCGA-E7-A85H",
+    "status": "complete"
+  },
+  {
+    "report_id": "b562f015-d9d3-4843-b21d-38a315a4a8e3",
+    "case_id": "TCGA-FJ-A3Z9",
+    "status": "complete"
+  },
+  {
+    "report_id": "b5b52fcb-66e3-4389-b282-f318fa553420",
+    "case_id": "TCGA-FD-A6TA",
+    "status": "complete"
+  },
+  {
+    "report_id": "b65137f3-9db8-4b3d-8923-1d05171cf0a3",
+    "case_id": "TCGA-XF-A9SJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "b69eb70c-b8e1-4848-af22-2c315e2c051a",
+    "case_id": "TCGA-FJ-A3Z7",
+    "status": "complete"
+  },
+  {
+    "report_id": "b6f6eb27-1079-4627-8498-46990a6d708f",
+    "case_id": "TCGA-GU-AATO",
+    "status": "complete"
+  },
+  {
+    "report_id": "b733ce2a-c7b0-4724-af1b-b3f3b8f66478",
+    "case_id": "TCGA-GV-A3JX",
+    "status": "complete"
+  },
+  {
+    "report_id": "b739bf4d-363c-4b57-82e9-39e15da59007",
+    "case_id": "TCGA-GU-A42R",
+    "status": "complete"
+  },
+  {
+    "report_id": "b7419cad-18af-4621-98c3-76ddd653f8bf",
+    "case_id": "TCGA-DK-A1AD",
+    "status": "complete"
+  },
+  {
+    "report_id": "b7b62570-ebb0-4da8-b2b5-331464ce01e6",
+    "case_id": "TCGA-ZF-AA4R",
+    "status": "complete"
+  },
+  {
+    "report_id": "b97f7eea-970b-4052-aa27-a359fad18539",
+    "case_id": "TCGA-BT-A3PJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "ba6344b7-03cf-4913-aa0b-c0bcfdc7fb59",
+    "case_id": "TCGA-ZF-AA4N",
+    "status": "complete"
+  },
+  {
+    "report_id": "baa9588d-ac96-492e-97b0-b16056ac479d",
+    "case_id": "TCGA-G2-A2EF",
+    "status": "complete"
+  },
+  {
+    "report_id": "bb144464-ab0e-4112-adae-b75281bfd855",
+    "case_id": "TCGA-SY-A9G5",
+    "status": "complete"
+  },
+  {
+    "report_id": "bb3d0ba5-2b61-497c-9696-216ee802db52",
+    "case_id": "TCGA-XF-AAMX",
+    "status": "complete"
+  },
+  {
+    "report_id": "bb501407-fd4b-48c1-8120-05d23cfe9343",
+    "case_id": "TCGA-ZF-A9RN",
+    "status": "complete"
+  },
+  {
+    "report_id": "bc65100b-6b0b-4028-8d10-7e6c8a42b9cc",
+    "case_id": "TCGA-GD-A3OP",
+    "status": "complete"
+  },
+  {
+    "report_id": "bd1ebb45-c7a6-4747-8394-bef06b5ceb70",
+    "case_id": "TCGA-FD-A5C0",
+    "status": "complete"
+  },
+  {
+    "report_id": "be692deb-89aa-4f6d-a576-6f64a10a0bb5",
+    "case_id": "TCGA-XF-AAMF",
+    "status": "complete"
+  },
+  {
+    "report_id": "be9c7101-ee9a-4376-b8f9-0bb640a108a2",
+    "case_id": "TCGA-XF-A9SV",
+    "status": "complete"
+  },
+  {
+    "report_id": "bf5a8b52-6a9c-4c01-8cb8-b5a5bf6faace",
+    "case_id": "TCGA-XF-A9T0",
+    "status": "complete"
+  },
+  {
+    "report_id": "bf7c1b84-c359-44a4-bbce-31eee758d2df",
+    "case_id": "TCGA-CF-A5UA",
+    "status": "complete"
+  },
+  {
+    "report_id": "c0b20190-8536-47f6-a91f-1fe1542567ec",
+    "case_id": "TCGA-DK-AA6W",
+    "status": "complete"
+  },
+  {
+    "report_id": "c13ae68d-92b9-4a4e-bc43-8e756af064c6",
+    "case_id": "TCGA-FD-A43P",
+    "status": "complete"
+  },
+  {
+    "report_id": "c1510f91-9865-4c17-80ac-1dfd3bf80a1a",
+    "case_id": "TCGA-DK-A1A6",
+    "status": "complete"
+  },
+  {
+    "report_id": "c2998ca1-13bc-44ce-8c93-88c6181ebeb8",
+    "case_id": "TCGA-K4-A4AB",
+    "status": "complete"
+  },
+  {
+    "report_id": "c2cd20f3-14a8-482c-98f4-9ea26986df31",
+    "case_id": "TCGA-DK-A1AE",
+    "status": "complete"
+  },
+  {
+    "report_id": "c388aa2e-1ccb-4e9b-b630-ae5c4fa507cb",
+    "case_id": "TCGA-4Z-AA7M",
+    "status": "complete"
+  },
+  {
+    "report_id": "c492d496-c83b-4b7b-8074-332698dc404a",
+    "case_id": "TCGA-ZF-AA5P",
+    "status": "complete"
+  },
+  {
+    "report_id": "c4a6bc84-8c15-4efb-9acb-30078b103113",
+    "case_id": "TCGA-GC-A3RB",
+    "status": "complete"
+  },
+  {
+    "report_id": "c4c352d4-813b-4415-a010-2153a36f4105",
+    "case_id": "TCGA-G2-AA3D",
+    "status": "complete"
+  },
+  {
+    "report_id": "c52fba3d-9744-4231-b2c9-1725f3fa4e1d",
+    "case_id": "TCGA-CF-A8HX",
+    "status": "complete"
+  },
+  {
+    "report_id": "c641b5a2-fa7b-4e20-af5b-7357be6394be",
+    "case_id": "TCGA-FJ-A3ZF",
+    "status": "complete"
+  },
+  {
+    "report_id": "c6601d8d-6141-4003-848f-78e4213b8b22",
+    "case_id": "TCGA-FT-A3EE",
+    "status": "complete"
+  },
+  {
+    "report_id": "c6fd46ed-d506-494e-ac21-ae7c1087fe2b",
+    "case_id": "TCGA-DK-A3X1",
+    "status": "complete"
+  },
+  {
+    "report_id": "c89b96f7-92fd-4b27-b99c-2e77930f9066",
+    "case_id": "TCGA-BL-A13J",
+    "status": "complete"
+  },
+  {
+    "report_id": "c934968f-00de-4f4c-a977-0dcd68f2227a",
+    "case_id": "TCGA-YC-A9TC",
+    "status": "complete"
+  },
+  {
+    "report_id": "c969f79e-07d6-42ea-88ef-fd4ee7e8d639",
+    "case_id": "TCGA-KQ-A41S",
+    "status": "complete"
+  },
+  {
+    "report_id": "c98e1c21-45e6-479c-bc65-a8b65c1ad0e5",
+    "case_id": "TCGA-4Z-AA80",
+    "status": "complete"
+  },
+  {
+    "report_id": "c9920670-27cb-4f8d-a068-36f70b672291",
+    "case_id": "TCGA-ZF-AA4X",
+    "status": "complete"
+  },
+  {
+    "report_id": "c9d6b6d0-b000-41d8-b3e8-df07e57a16d4",
+    "case_id": "TCGA-DK-A1A7",
+    "status": "complete"
+  },
+  {
+    "report_id": "cadc92b6-425d-4caf-9bd1-fac62fceed28",
+    "case_id": "TCGA-KQ-A41N",
+    "status": "complete"
+  },
+  {
+    "report_id": "cae73f47-e22a-4a80-9e6f-897f660bcfef",
+    "case_id": "TCGA-UY-A78O",
+    "status": "complete"
+  },
+  {
+    "report_id": "cbdda644-2d3d-47cf-989c-598323fc08b7",
+    "case_id": "TCGA-DK-A1AB",
+    "status": "complete"
+  },
+  {
+    "report_id": "cc0dfdb1-cc2b-4550-b4b5-75bdcd6ada02",
+    "case_id": "TCGA-K4-A6FZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "cde612fb-c49a-450f-8778-c4be79e436b9",
+    "case_id": "TCGA-ZF-AA4U",
+    "status": "complete"
+  },
+  {
+    "report_id": "cdf20327-221a-4f54-80a3-17430d84d681",
+    "case_id": "TCGA-5N-A9KI",
+    "status": "complete"
+  },
+  {
+    "report_id": "cdfc8f2f-dfe1-469c-a6c8-ca83e198e7a9",
+    "case_id": "TCGA-E7-A6MF",
+    "status": "complete"
+  },
+  {
+    "report_id": "ce331623-e273-4f13-a24f-169585da1500",
+    "case_id": "TCGA-XF-AAN7",
+    "status": "complete"
+  },
+  {
+    "report_id": "cebd59bf-329f-4711-8e33-d8014ac2a9d0",
+    "case_id": "TCGA-CF-A9FM",
+    "status": "complete"
+  },
+  {
+    "report_id": "cedaef8e-cad8-46bc-9233-d7a64dadc82f",
+    "case_id": "TCGA-DK-A6B5",
+    "status": "complete"
+  },
+  {
+    "report_id": "ceeb5e93-954f-4f28-8a75-4bdd143d8fb7",
+    "case_id": "TCGA-UY-A8OB",
+    "status": "complete"
+  },
+  {
+    "report_id": "cfbe90d1-7df3-4dfe-be25-9c2307f3f106",
+    "case_id": "TCGA-XF-A8HI",
+    "status": "complete"
+  },
+  {
+    "report_id": "cffcb6f4-a98c-47ab-84e7-acd32086d616",
+    "case_id": "TCGA-GC-A3OO",
+    "status": "complete"
+  },
+  {
+    "report_id": "d0f03002-4b46-4d8d-8147-e832ee902ddd",
+    "case_id": "TCGA-FD-A62P",
+    "status": "complete"
+  },
+  {
+    "report_id": "d15e50e2-320c-4270-bfba-d48077b80cc6",
+    "case_id": "TCGA-XF-AAMW",
+    "status": "complete"
+  },
+  {
+    "report_id": "d176ed6f-517d-4103-92c9-450f9b5fc498",
+    "case_id": "TCGA-CF-A1HR",
+    "status": "complete"
+  },
+  {
+    "report_id": "d24664c2-82b7-4eed-9e7d-57618cef594c",
+    "case_id": "TCGA-YC-A8S6",
+    "status": "complete"
+  },
+  {
+    "report_id": "d297e1dd-caf8-4910-9ca0-6b8d7187caa4",
+    "case_id": "TCGA-DK-A3IN",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2aafc01-0651-4a0b-89e8-34873c739d3b",
+    "case_id": "TCGA-FD-A62N",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2cfae29-394c-4b44-90c0-f215f745d700",
+    "case_id": "TCGA-ZF-A9RL",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2df2b7a-8eab-4715-8284-10a852896179",
+    "case_id": "TCGA-2F-A9KW",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2ea6a4a-64c6-459c-8709-a459c1a8db30",
+    "case_id": "TCGA-UY-A9PH",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2ec8962-e1ef-4e57-82e3-6a2bcf68dc51",
+    "case_id": "TCGA-BT-A0S7",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2efb4df-6cc3-436b-879d-89aae4f01070",
+    "case_id": "TCGA-BL-A0C8",
+    "status": "complete"
+  },
+  {
+    "report_id": "d2f4718d-f8c8-4608-bd57-9ec4f7ae11fe",
+    "case_id": "TCGA-KQ-A41Q",
+    "status": "complete"
+  },
+  {
+    "report_id": "d3224304-ffb4-4a50-8bd3-113678425d4e",
+    "case_id": "TCGA-4Z-AA84",
+    "status": "complete"
+  },
+  {
+    "report_id": "d3704326-3245-4116-a0a9-af106a22adb0",
+    "case_id": "TCGA-DK-A3WW",
+    "status": "complete"
+  },
+  {
+    "report_id": "d5a48ab8-5204-4b04-b39b-6bad62842a4c",
+    "case_id": "TCGA-E7-A4XJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "d686d7b8-216f-4ac4-a526-d2ab93c11b46",
+    "case_id": "TCGA-G2-AA3F",
+    "status": "complete"
+  },
+  {
+    "report_id": "d785d5a3-ea56-404b-8b2e-5f2e35e921de",
+    "case_id": "TCGA-CU-A3QU",
+    "status": "complete"
+  },
+  {
+    "report_id": "d7bb5bfa-a088-4f4f-a04c-ccb2e4d6009e",
+    "case_id": "TCGA-KQ-A41O",
+    "status": "complete"
+  },
+  {
+    "report_id": "d865553f-ff93-4f76-92da-2c990deae13f",
+    "case_id": "TCGA-2F-A9KP",
+    "status": "complete"
+  },
+  {
+    "report_id": "d9455782-4382-42e4-8231-37759ef547b8",
+    "case_id": "TCGA-UY-A9PA",
+    "status": "complete"
+  },
+  {
+    "report_id": "d9d442fa-5f4d-487d-8f71-e8d22169ba15",
+    "case_id": "TCGA-BT-A0YX",
+    "status": "complete"
+  },
+  {
+    "report_id": "dbedee65-e5e8-4176-8ea8-46d640f85c1e",
+    "case_id": "TCGA-C4-A0F6",
+    "status": "complete"
+  },
+  {
+    "report_id": "dc38cd65-78d6-44b2-8715-50d64d25a10b",
+    "case_id": "TCGA-FT-A61P",
+    "status": "complete"
+  },
+  {
+    "report_id": "dce35f57-bc55-4401-81f7-8018794c547f",
+    "case_id": "TCGA-E7-A677",
+    "status": "complete"
+  },
+  {
+    "report_id": "dd6cda40-8637-4881-bc8e-6262fd8b95e2",
+    "case_id": "TCGA-BT-A42B",
+    "status": "complete"
+  },
+  {
+    "report_id": "dd9c5087-408c-421a-921c-c33534520f2d",
+    "case_id": "TCGA-K4-A5RJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "dda57e74-0eed-4b79-afb6-02204d452560",
+    "case_id": "TCGA-BT-A20N",
+    "status": "complete"
+  },
+  {
+    "report_id": "de42dc71-3a3b-4e6b-bd14-af157a6e8c2d",
+    "case_id": "TCGA-GV-A3JZ",
+    "status": "complete"
+  },
+  {
+    "report_id": "ded29231-9a25-4427-a9b8-ab9e3fc4c0ce",
+    "case_id": "TCGA-FD-A6TC",
+    "status": "complete"
+  },
+  {
+    "report_id": "df602b43-18a3-46da-9c20-e6618f8cf04d",
+    "case_id": "TCGA-FD-A3B3",
+    "status": "complete"
+  },
+  {
+    "report_id": "df7e0a7e-0b66-410b-a6b5-0abf9d84400e",
+    "case_id": "TCGA-LT-A5Z6",
+    "status": "complete"
+  },
+  {
+    "report_id": "e003f0db-3b29-4086-b4b6-0cd216b48232",
+    "case_id": "TCGA-CU-A0YR",
+    "status": "complete"
+  },
+  {
+    "report_id": "e0d5c629-15da-4aeb-a7b1-f9281504764b",
+    "case_id": "TCGA-XF-A9T6",
+    "status": "complete"
+  },
+  {
+    "report_id": "e1a02ec5-9891-468e-a7ad-b92c9298063f",
+    "case_id": "TCGA-4Z-AA7Q",
+    "status": "complete"
+  },
+  {
+    "report_id": "e2cba7fb-19e5-497d-b725-190a2e519bab",
+    "case_id": "TCGA-BT-A20O",
+    "status": "complete"
+  },
+  {
+    "report_id": "e532d4a9-d812-4b5b-90fc-4f9931b5f6f2",
+    "case_id": "TCGA-CF-A3MI",
+    "status": "complete"
+  },
+  {
+    "report_id": "e5dc9e34-f786-4953-ad21-587547093738",
+    "case_id": "TCGA-FD-A62S",
+    "status": "complete"
+  },
+  {
+    "report_id": "e6143187-91bf-4b26-ac4a-09c19f0787f6",
+    "case_id": "TCGA-BT-A20V",
+    "status": "complete"
+  },
+  {
+    "report_id": "e80fdc2a-e233-431b-93c5-ff780938c35c",
+    "case_id": "TCGA-FD-A5BU",
+    "status": "complete"
+  },
+  {
+    "report_id": "e8ff172a-6bc0-4142-aef0-c050422dae9b",
+    "case_id": "TCGA-GU-AATQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "ea8be813-0fc0-450c-8b91-bc1a4a5604a9",
+    "case_id": "TCGA-FD-A5C1",
+    "status": "complete"
+  },
+  {
+    "report_id": "eaef7797-5f0f-492e-a058-698c8d645b16",
+    "case_id": "TCGA-GU-A42Q",
+    "status": "complete"
+  },
+  {
+    "report_id": "eb596cb9-405a-42bf-80ac-ffc28c7c6dc9",
+    "case_id": "TCGA-CF-A27C",
+    "status": "complete"
+  },
+  {
+    "report_id": "ebe51a4c-6963-4052-82ab-80fe551345d9",
+    "case_id": "TCGA-GC-A4ZW",
+    "status": "complete"
+  },
+  {
+    "report_id": "ec76f7f3-3bc9-476d-b8a8-b91bc435b41f",
+    "case_id": "TCGA-DK-AA6Q",
+    "status": "complete"
+  },
+  {
+    "report_id": "ec777961-e25c-4dea-b24e-a8d9d7e036f5",
+    "case_id": "TCGA-UY-A78K",
+    "status": "complete"
+  },
+  {
+    "report_id": "ed879bd4-e0e3-44d1-af44-8e6527b8be1f",
+    "case_id": "TCGA-E5-A2PC",
+    "status": "complete"
+  },
+  {
+    "report_id": "ee04b970-dceb-48c4-a9ac-f659ae920d59",
+    "case_id": "TCGA-XF-AAN3",
+    "status": "complete"
+  },
+  {
+    "report_id": "ee60d2b8-5ed3-4d57-b278-918c6fff543a",
+    "case_id": "TCGA-R3-A69X",
+    "status": "complete"
+  },
+  {
+    "report_id": "ee6fb6fe-15ef-4f32-8954-4c43799eca78",
+    "case_id": "TCGA-GC-A3WC",
+    "status": "complete"
+  },
+  {
+    "report_id": "eee6b393-bee2-4c1e-9334-95b0a321f798",
+    "case_id": "TCGA-FJ-A871",
+    "status": "complete"
+  },
+  {
+    "report_id": "ef13c837-fd7a-4aad-9026-d99ee03b5e18",
+    "case_id": "TCGA-MV-A51V",
+    "status": "complete"
+  },
+  {
+    "report_id": "ef76fc0b-fb9e-4d0e-9973-098b6e008a9b",
+    "case_id": "TCGA-XF-A8HF",
+    "status": "complete"
+  },
+  {
+    "report_id": "efb042b8-6753-4122-b14d-fe03f97a4b8f",
+    "case_id": "TCGA-ZF-A9R0",
+    "status": "complete"
+  },
+  {
+    "report_id": "efd4ad96-b4ac-4bff-ba85-f2cbab4083e9",
+    "case_id": "TCGA-LC-A66R",
+    "status": "complete"
+  },
+  {
+    "report_id": "f072b279-5cd2-4b63-8bfa-98433677985d",
+    "case_id": "TCGA-FD-A3SO",
+    "status": "complete"
+  },
+  {
+    "report_id": "f169536a-1898-452b-b670-98cf763da022",
+    "case_id": "TCGA-4Z-AA7W",
+    "status": "complete"
+  },
+  {
+    "report_id": "f178f091-c854-4344-b0d1-923b4e5d703c",
+    "case_id": "TCGA-FD-A5BV",
+    "status": "complete"
+  },
+  {
+    "report_id": "f210c3ea-93a9-424e-b674-d39f60fcbce4",
+    "case_id": "TCGA-FD-A3SL",
+    "status": "complete"
+  },
+  {
+    "report_id": "f2c60dd3-433b-4fcf-81dc-28f9fc5f8c78",
+    "case_id": "TCGA-GD-A3OQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "f3e8bec9-df22-425c-9771-cb0d5113899a",
+    "case_id": "TCGA-FD-A6TH",
+    "status": "complete"
+  },
+  {
+    "report_id": "f416be2d-3f9b-4dfe-b188-ed0e4f1284d2",
+    "case_id": "TCGA-GC-A3YS",
+    "status": "complete"
+  },
+  {
+    "report_id": "f67c97ab-48f6-40bd-9d2e-a16db50fadfc",
+    "case_id": "TCGA-E7-A3X6",
+    "status": "complete"
+  },
+  {
+    "report_id": "f6b44b15-7bce-46a5-ad75-d42196d5a441",
+    "case_id": "TCGA-XF-AAMR",
+    "status": "complete"
+  },
+  {
+    "report_id": "f73caccf-a6be-44cf-8927-8d2548810a1d",
+    "case_id": "TCGA-XF-AAN1",
+    "status": "complete"
+  },
+  {
+    "report_id": "f7731296-fb03-4764-9f86-bd36f044b3f6",
+    "case_id": "TCGA-C4-A0F0",
+    "status": "complete"
+  },
+  {
+    "report_id": "f840ed2a-85aa-40ae-9a83-0b4501ec1088",
+    "case_id": "TCGA-GC-A3RD",
+    "status": "complete"
+  },
+  {
+    "report_id": "f8c0ecc7-4d3a-4192-81be-2969fee9cad2",
+    "case_id": "TCGA-BL-A13I",
+    "status": "complete"
+  },
+  {
+    "report_id": "f8d651f7-b63a-4401-a492-54ae23edf066",
+    "case_id": "TCGA-ZF-A9R3",
+    "status": "complete"
+  },
+  {
+    "report_id": "f8e7b3a8-8881-43c0-9113-f0ca1759b44a",
+    "case_id": "TCGA-E7-A7PW",
+    "status": "complete"
+  },
+  {
+    "report_id": "fa43693d-26d3-4e81-a847-cd472d48747b",
+    "case_id": "TCGA-BT-A3PH",
+    "status": "complete"
+  },
+  {
+    "report_id": "fb10c908-4714-4d4c-8eab-e182d7cf5e61",
+    "case_id": "TCGA-FD-A6TG",
+    "status": "complete"
+  },
+  {
+    "report_id": "fb15eff9-6dbd-48cc-9dd4-a6d4eaf86af5",
+    "case_id": "TCGA-DK-A3IQ",
+    "status": "complete"
+  },
+  {
+    "report_id": "fd4eeb80-7324-411c-b9fa-0bba2a8a49f6",
+    "case_id": "TCGA-ZF-AA58",
+    "status": "complete"
+  },
+  {
+    "report_id": "fd7ab879-2082-4379-a487-a57a6b9bd692",
+    "case_id": "TCGA-GU-A763",
+    "status": "complete"
+  },
+  {
+    "report_id": "fe1d49fd-52e6-40d0-9dec-c4dfb3cbc3d6",
+    "case_id": "TCGA-XF-A8HC",
+    "status": "complete"
+  },
+  {
+    "report_id": "fe663564-03cb-49e6-9548-ec35cf2374d5",
+    "case_id": "TCGA-G2-A2ES",
+    "status": "complete"
+  },
+  {
+    "report_id": "feaccd1c-0cba-447b-a950-cf0275016ce7",
+    "case_id": "TCGA-G2-A2EJ",
+    "status": "complete"
+  },
+  {
+    "report_id": "ff17f160-d4b2-46d6-8f47-dd3f559e9205",
+    "case_id": "TCGA-K4-A54R",
+    "status": "complete"
+  }
+]
