@@ -20,3 +20,4 @@ scripts/hpc/environment.local.sh
 .venv-vllm-cu128/
 .venv-hpc/
 .paddle-models/
+.Rproj.user
